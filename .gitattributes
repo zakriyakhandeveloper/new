@@ -1,0 +1,3 @@
+christian.backup.json filter=lfs diff=lfs merge=lfs -text
+hindu.backup.json filter=lfs diff=lfs merge=lfs -text
+islamic.backup.json filter=lfs diff=lfs merge=lfs -text
