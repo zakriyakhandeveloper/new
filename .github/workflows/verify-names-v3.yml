@@ -20,22 +20,15 @@ jobs:
           ref: names-upgraded-v3
           fetch-depth: 1
 
-      - name: Fetch pipeline bundle
+      - name: Fetch pipeline scripts
         run: |
           set -e
           mkdir -p scripts
-          ok=0
-          for u in \
-            "https://litter.catbox.moe/wluhn0.tgz" \
-            "https://x0.at/YnTZ.tgz" \
-            "https://temp.sh/cEbLl/names_pipeline.tgz" ; do
-            echo "trying $u"
-            if curl -fsSL "$u" -o /tmp/bundle.tgz && tar tzf /tmp/bundle.tgz >/dev/null 2>&1; then
-              tar xzf /tmp/bundle.tgz -C scripts && ok=1 && break
-            fi
-          done
-          test "$ok" = "1"
-          ls -la scripts
+          B="https://static.teamily.ai/sites/45939e3d-31a7-4b18-9c9e-d393a411d6b7/documents/name_verify"
+          curl -fsSL "$B/verified_lexicon_merged.py" -o scripts/verified_lexicon_merged.py
+          curl -fsSL "$B/verify_names.py"            -o scripts/verify_names.py
+          curl -fsSL "$B/verify_runner.py"           -o scripts/verify_runner.py
+          curl -fsSL "$B/cleanup_removed.json"       -o scripts/cleanup_removed.json
           wc -c scripts/*
 
       - name: Run verification pipeline
