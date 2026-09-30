@@ -1,0 +1,25 @@
+{
+  "culture": "islamic",
+  "files_found": 14411,
+  "files_written": 14411,
+  "duplicates_removed": 0,
+  "invalid_skipped": 0,
+  "thin_records_upgraded": 253,
+  "fields_per_record": 70,
+  "faqs_per_record": 12,
+  "confidence_breakdown": {
+    "HIGH": 62090,
+    "MEDIUM": 66841,
+    "LOW": 14411,
+    "UNKNOWN": 15179
+  },
+  "authenticity_flags": {
+    "Aabad (آباد) is Persian/Urdu for 'inhabited, cultivated, prosperous, flourishing' - NOT Arabic عابد 'worshipper', which belongs to the distinct name Abid.": 1,
+    "Possible conflation": 5,
+    "Source meaning missing - flagged for manual verification.": 8
+  },
+  "validation_problem_count": 0,
+  "validation_problems_sample": [],
+  "output_dir": "/home/runner/work/content-upgrdaing/content-upgrdaing/upgrading/names_upgraded/islamic",
+  "elapsed_sec": 15.6
+}

@@ -1,0 +1,24 @@
+{
+  "culture": "christian",
+  "files_found": 12893,
+  "files_written": 12893,
+  "duplicates_removed": 0,
+  "invalid_skipped": 0,
+  "thin_records_upgraded": 200,
+  "fields_per_record": 69,
+  "faqs_per_record": 12,
+  "confidence_breakdown": {
+    "HIGH": 52141,
+    "MEDIUM": 59762,
+    "LOW": 12893,
+    "UNKNOWN": 17027
+  },
+  "authenticity_flags": {
+    "Possible conflation": 1,
+    "Source meaning missing - flagged for manual verification.": 2
+  },
+  "validation_problem_count": 0,
+  "validation_problems_sample": [],
+  "output_dir": "/home/runner/work/content-upgrdaing/content-upgrdaing/upgrading/names_upgraded/christian",
+  "elapsed_sec": 12.1
+}
