@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "data": {
+    "name": "Luke",
+    "slug": "luke",
+    "language": [],
+    "gender": "Unknown",
+    "origin": "Unknown",
+    "religion": "christian",
+    "meaning": "Light-giving",
+    "similar_sounding_names": []
+  }
+}
