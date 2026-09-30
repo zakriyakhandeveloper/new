@@ -1,0 +1,41 @@
+name: verify-names-v3
+
+on:
+  push:
+    paths:
+      - '.github/workflows/verify-names-v3.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v4
+        with:
+          ref: names-upgraded-v3
+          fetch-depth: 1
+
+      - name: Fetch pipeline scripts
+        run: |
+          mkdir -p scripts
+          curl -sL https://x0.at/Ibde.py   -o scripts/verified_lexicon_merged.py
+          curl -sL https://x0.at/zYHe.py   -o scripts/verify_names.py
+          curl -sL https://x0.at/lDQB.py   -o scripts/verify_runner.py
+          curl -sL https://x0.at/UuNI.json -o scripts/cleanup_removed.json
+          wc -c scripts/*
+
+      - name: Run verification pipeline
+        run: python3 scripts/verify_runner.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "NameVerse Bot"
+          git config user.email "actions@github.com"
+          git add -A upgrading/names_upgraded
+          git commit -m "Verify & correct names_upgraded v3: consistent meanings, verified roots, fabrication removed" || echo "nothing to commit"
+          git push origin HEAD:names-upgraded-v3
