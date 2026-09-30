@@ -1,98 +1,88 @@
 {
  "success": true,
  "data": {
-  "name": "Cristóbal",
-  "slug": "crist-bal",
+  "name": "Cristobal",
+  "slug": "cristobal",
   "language": [
    "English",
+   "Hebrew",
    "Greek",
    "Latin"
   ],
-  "gender": "Male",
-  "gender_notes": "Cristóbal is used as a male name in christian naming traditions.",
+  "gender": "male",
   "origin": "Biblical",
   "religion": "christian",
   "category": "Saint",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Christ bearing",
-  "long_meaning": "The name Cristóbal is recorded with the meaning “Christ bearing”. Cristóbal is a Biblical name meaning “Christ bearing”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Cristóbal expresses “Christ bearing”; spiritual readings of the name are interpretive.",
+  "short_meaning": "Follower of Christ",
+  "long_meaning": "The name Cristobal is recorded with the meaning “Follower of Christ”. Cristobal is a Biblical name meaning “Follower of Christ”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+  "spiritual_meaning": "Cristobal expresses “Follower of Christ”; spiritual readings of the name are interpretive.",
   "emotional_traits": [],
   "hidden_personality_traits": [],
-  "etymology": "The name Cristóbal is recorded with the meaning “Christ bearing”. Cristóbal is a Biblical name meaning “Christ bearing”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "c-r-i-s-t-b-a-l",
-  "syllables": 2,
-  "name_length": 8,
-  "transliteration": [
-   "Cristóbal"
-  ],
-  "lucky_number": 3,
-  "lucky_day": "Thursday",
+  "lucky_number": 9,
+  "lucky_day": "Tuesday",
   "lucky_colors": [
-   "Yellow",
-   "Gold"
+   "Red",
+   "Crimson"
   ],
-  "lucky_stone": "Yellow Sapphire",
-  "ruling_planet": "Jupiter",
-  "life_path_number": 3,
-  "numerology_meaning": "In Pythagorean numerology the letters of Cristóbal total 30, reducing to 3. Number 3 is associated with expression, creativity and optimism.",
+  "lucky_stone": "Red Coral",
+  "life_path_number": 9,
+  "numerology_meaning": "In Pythagorean numerology the letters of Cristobal total 36, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
   "in_hebrew": {
-   "name": "כריסטובל",
-   "meaning": "Christ-bearer",
-   "long_meaning": "Ancient Hebrew does not have a specific letter for 's' sound. However, in this context, the name can be approximated as 'Kris-tobal' or 'Kri-stob-al'. The meaning remains the same: 'Christ-bearer'."
+   "name": "קריסטובל",
+   "meaning": "נושא המשיח, הובלתו של ישוע",
+   "long_meaning": "השם קריסטובל הוא שילוב של המילים היווניות 'קרייסטוס' (המשיח) ו'באל' (נושא). הוא מתורגם לנושא המשיח, ומתייחס לנושא רוחני של ישוע המשיח. השם משקף את הדבקות והאמונה במשיחיות."
   },
   "in_greek": {
-   "name": "Χριστόβουλος",
-   "meaning": "Christ-bringer",
-   "long_meaning": "In Ancient Greek, the name 'Cristóbal' would be transliterated as 'Χριστόβουλος' (Christos-boulos), which means 'Christ-bringer' or 'Christ-ruler'."
+   "name": "Χριστόφορος",
+   "meaning": "Χριστός (ΧΡΙΣΤΟΣ) φορέας (ΦΟΡΕΑΣ)",
+   "long_meaning": "Το όνομα Χριστόφορος προέρχεται από τις ελληνικές λέξεις 'Χριστός' (ΧΡΙΣΤΟΣ), που σημαίνει 'ο χρισμένος' ή 'ο μεσσίας', και 'φορέας' (ΦΟΡΕΑΣ), που σημαίνει 'φορέας' ή 'μεταφορέας'. Ο Χριστόφορος είναι εκείνος που φέρει ή μεταφέρει τον Χριστό."
   },
   "in_latin": {
-   "name": "Cristobalis",
-   "meaning": "Christ-bearer",
-   "long_meaning": "In Latin, the name 'Cristóbal' is transliterated as 'Cristobalis', which retains the original meaning: 'Christ-bearer'."
+   "name": "Christophalus",
+   "meaning": "Christum ferens, Christi baiulus",
+   "long_meaning": "Nomen Christophalus derivatur ex vocabulis Latinis 'Christum' (Christ) et 'ferens' (fero), quae significant 'Christum ferens' vel 'Christi baiulus'. Hoc nomen designat personam quae Christum in corde suo gestat et vitam suam secundum praecepta eius dirigit."
   },
   "in_english": {
-   "name": "Cristóbal",
-   "meaning": "Christ bearing",
-   "long_meaning": "The name Cristóbal is recorded with the meaning “Christ bearing”. Cristóbal is a Biblical name meaning “Christ bearing”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
+   "name": "Cristobal",
+   "meaning": "Follower of Christ",
+   "long_meaning": "The name Cristobal is recorded with the meaning “Follower of Christ”. Cristobal is a Biblical name meaning “Follower of Christ”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
   },
   "pronunciation": {
-   "english": "/kriˈstoʊbəl/",
-   "biblical": "/kriˈstob.al/",
-   "ipa": "ˈkɾistobal"
+   "english": "kris-TOH-bul",
+   "biblical": "",
+   "ipa": "/krɪsˈtoʊbəl/"
   },
-  "name_variations": [
-   "Cristóbal"
-  ],
-  "variants": [
-   "Cristóbal"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
   "celebrity_usage": [],
+  "social_tags": [
+   "#CristobalMeaning",
+   "#ChristianBabyNames",
+   "#BibleNames",
+   "#ChristianNames",
+   "#Cristobal"
+  ],
+  "name_variations": [
+   "Cristobal"
+  ],
   "popularity_score": null,
   "popularity_by_region": [],
-  "cultural_impact": "Cristóbal is used in Biblical naming tradition with the meaning “Christ bearing”.",
-  "spiritual_significance": "Any spiritual significance attached to Cristóbal is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Christ bearing” is the basis of any symbolism attached to Cristóbal; such symbolism is interpretive.",
   "biblical_reference": {
    "is_biblical": false,
    "origin_scripture": "",
    "verse_reference": "",
-   "note": "The name 'Cristóbal' does not appear directly in the Bible. However, it is derived from the name 'Christ' (Greek: Χριστός), which appears numerous times in the New Testament."
+   "note": ""
   },
+  "saint_reference": {
+   "is_saint_name": true,
+   "saint_name": "Saint Christopher",
+   "note": "A 3rd-century martyr and saint, often invoked for protection against harm and for safe travels."
+  },
+  "cultural_impact": "Cristobal is used in Biblical naming tradition with the meaning “Follower of Christ”.",
+  "spiritual_significance": "Any spiritual significance attached to Cristobal is interpretive and is labelled as such.",
   "historical_references": [],
   "modern_usage": {
    "trends": [],
    "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Cristóbal."
+   "modern_context": "No verified modern-usage statistics are published for Cristobal."
   },
   "name_in_real_life": {
    "person_name": "",
@@ -100,124 +90,136 @@
    "story": "",
    "note": "No verified real-life bearer is published for this name."
   },
-  "social_tags": [
-   "#CristóbalMeaning",
-   "#ChristianBabyNames"
-  ],
-  "monetization": {
-   "ad_space": {
-    "header": true,
-    "sidebar": true,
-    "footer": true
-   },
-   "affiliate_links": [
-    {
-     "name": "BabyCenter",
-     "url": "https://babycenter.com/baby-names/name/cristobal",
-     "commission": 5
-    },
-    {
-     "name": "BuyMeASign",
-     "url": "https://www.buymeasign.com/signs/christian-names/cristobal",
-     "commission": 10
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
+  "spiritual_symbolism": "The meaning “Follower of Christ” is the basis of any symbolism attached to Cristobal; such symbolism is interpretive.",
   "seo": {
-   "title": "Cristóbal Name Meaning – Christ bearing (Biblical)",
-   "meta_description": "Cristóbal is a Biblical name meaning “Christ bearing”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Cristóbal, Cristóbal name meaning, Cristóbal meaning, Cristóbal origin, Cristóbal root, Cristóbal pronunciation, Biblical names",
-   "description_paragraph": "Cristóbal is a Biblical name meaning “Christ bearing”.",
+   "title": "Cristobal Name Meaning – Follower of Christ (Biblical)",
+   "meta_description": "Cristobal is a Biblical name meaning “Follower of Christ”. Verified meaning, origin, root, pronunciation and FAQs.",
+   "meta_keywords": "Cristobal, Cristobal name meaning, Cristobal meaning, Cristobal origin, Cristobal root, Cristobal pronunciation, Biblical names",
+   "description_paragraph": "Cristobal is a Biblical name meaning “Follower of Christ”.",
    "keywords": [
-    "Cristóbal",
-    "Cristóbal name meaning",
-    "Cristóbal meaning",
-    "Cristóbal origin",
-    "Cristóbal root",
-    "Cristóbal pronunciation",
+    "Cristobal",
+    "Cristobal name meaning",
+    "Cristobal meaning",
+    "Cristobal origin",
+    "Cristobal root",
+    "Cristobal pronunciation",
     "Biblical names"
    ],
-   "focus_keyword": "Cristóbal name meaning",
+   "focus_keyword": "Cristobal name meaning",
    "secondary_keywords": [
-    "Cristóbal meaning",
-    "Cristóbal origin",
-    "Cristóbal pronunciation",
-    "Cristóbal lucky number"
+    "Cristobal meaning",
+    "Cristobal origin",
+    "Cristobal pronunciation",
+    "Cristobal lucky number"
    ],
-   "canonical_url": "https://namemeaning.example/name/crist-bal",
+   "canonical_url": "https://namemeaning.example/name/cristobal",
    "seo_score": 70,
    "faq": [
     {
-     "q": "What is the lucky number for Cristóbal?",
-     "a": "The Pythagorean lucky number for Cristóbal is 3 (ruling planet Jupiter). This is an interpretive association, not a factual claim."
+     "q": "Can Cristobal be used in another language?",
+     "a": "Cristobal is recorded in Biblical; its script forms in other languages are given in the translations field."
     },
     {
-     "q": "Which day is associated with Cristóbal?",
-     "a": "Thursday is the traditional association for Cristóbal. This is interpretive."
+     "q": "Is Cristobal mentioned in scripture?",
+     "a": "No scriptural reference for Cristobal has been verified; the record is flagged for source verification."
     },
     {
-     "q": "Which gemstone is associated with Cristóbal?",
-     "a": "Yellow Sapphire is the traditional association for Cristóbal. This is interpretive."
+     "q": "What is the lucky number for Cristobal?",
+     "a": "The Pythagorean lucky number for Cristobal is 9 (ruling planet Mars). This is an interpretive association, not a factual claim."
     },
     {
-     "q": "Which colours are associated with Cristóbal?",
-     "a": "Yellow, Gold are the traditional associations for Cristóbal. These are interpretive."
+     "q": "Which day is associated with Cristobal?",
+     "a": "Tuesday is the traditional association for Cristobal. This is interpretive."
     },
     {
-     "q": "What is the numerology of Cristóbal?",
-     "a": "In Pythagorean numerology the letters of Cristóbal total 30, reducing to 3. Number 3 is associated with expression, creativity and optimism."
+     "q": "Which gemstone is associated with Cristobal?",
+     "a": "Red Coral is the traditional association for Cristobal. This is interpretive."
     },
     {
-     "q": "How reliable is the meaning given for Cristóbal?",
-     "a": "The meaning of Cristóbal carries confidence LOW in this record. It is flagged for source verification."
+     "q": "Which colours are associated with Cristobal?",
+     "a": "Red, Crimson are the traditional associations for Cristobal. These are interpretive."
     },
     {
-     "q": "Does Cristóbal have a religious meaning?",
-     "a": "Cristóbal is recorded as a christian name meaning “Christ bearing”."
+     "q": "What is the numerology of Cristobal?",
+     "a": "In Pythagorean numerology the letters of Cristobal total 36, reducing to 9. Number 9 is associated with compassion, idealism and completion."
     },
     {
-     "q": "What is the English meaning of Cristóbal?",
-     "a": "In English, Cristóbal is rendered as “Christ bearing”."
+     "q": "How reliable is the meaning given for Cristobal?",
+     "a": "The meaning of Cristobal carries confidence LOW in this record. It is flagged for source verification."
     },
     {
-     "q": "Is Cristóbal suitable for a baby?",
-     "a": "Cristóbal is used as a male given name; suitability is a personal choice."
+     "q": "Does Cristobal have a religious meaning?",
+     "a": "Cristobal is recorded as a christian name meaning “Follower of Christ”."
     },
     {
-     "q": "What is the full form of Cristóbal?",
-     "a": "Cristóbal is the full recorded form; any short forms are listed in the nicknames field."
+     "q": "What is the English meaning of Cristobal?",
+     "a": "In English, Cristobal is rendered as “Follower of Christ”."
     },
     {
-     "q": "Which culture uses the name Cristóbal?",
-     "a": "Cristóbal is used in Biblical naming traditions."
+     "q": "Is Cristobal suitable for a baby?",
+     "a": "Cristobal is used as a male given name; suitability is a personal choice."
     },
     {
-     "q": "Does Cristóbal have a positive meaning?",
-     "a": "Cristóbal carries the meaning “Christ bearing”."
+     "q": "What is the full form of Cristobal?",
+     "a": "Cristobal is the full recorded form; any short forms are listed in the nicknames field."
     }
    ]
   },
-  "seo_title": "Cristóbal Name Meaning – Christ bearing (Biblical)",
-  "meta_description": "Cristóbal is a Biblical name meaning “Christ bearing”. Verified meaning, origin, root, pronunciation and FAQs.",
+  "monetization": {
+   "affiliate_links": [
+    {
+     "title": "Discover the Meaning of Cristobal with This Book",
+     "url": "https://example.com/cristobal-book",
+     "price": 12.99
+    },
+    {
+     "title": "Get a Customized Nameplate for Cristobal",
+     "url": "https://example.com/cristobal-nameplate",
+     "price": 24.99
+    }
+   ]
+  },
+  "updated_at": "2025-12-23T04:50:20.809Z",
+  "similar_sounding_names": [],
+  "gender_notes": "Cristobal is used as a male name in christian naming traditions.",
+  "root": "",
+  "etymology": "The name Cristobal is recorded with the meaning “Follower of Christ”. Cristobal is a Biblical name meaning “Follower of Christ”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+  "language_root": "Biblical",
+  "root_letters": "c-r-i-s-t-o-b-a-l",
+  "syllables": 3,
+  "name_length": 9,
+  "transliteration": [
+   "Cristobal"
+  ],
+  "culture": [
+   "Biblical"
+  ],
+  "ruling_planet": "Mars",
+  "variants": [
+   "Cristobal"
+  ],
+  "diminutives": [],
+  "nicknames": [],
+  "related_names": [],
+  "notable_people": [],
+  "seo_title": "Cristobal Name Meaning – Follower of Christ (Biblical)",
+  "meta_description": "Cristobal is a Biblical name meaning “Follower of Christ”. Verified meaning, origin, root, pronunciation and FAQs.",
   "keywords": [
-   "Cristóbal",
-   "Cristóbal name meaning",
-   "Cristóbal meaning",
-   "Cristóbal origin",
-   "Cristóbal root",
-   "Cristóbal pronunciation",
+   "Cristobal",
+   "Cristobal name meaning",
+   "Cristobal meaning",
+   "Cristobal origin",
+   "Cristobal root",
+   "Cristobal pronunciation",
    "Biblical names"
   ],
-  "canonical_url": "https://namemeaning.example/name/crist-bal",
-  "intro_paragraph": "Cristóbal is a Biblical name meaning “Christ bearing”.",
+  "canonical_url": "https://namemeaning.example/name/cristobal",
+  "intro_paragraph": "Cristobal is a Biblical name meaning “Follower of Christ”.",
   "structured_data": {
    "@context": "https://schema.org",
    "@type": "Thing",
-   "name": "Cristóbal",
-   "description": "Cristóbal — Christ bearing",
+   "name": "Cristobal",
+   "description": "Cristobal — Follower of Christ",
    "additionalType": "https://schema.org/Person"
   },
   "structured_data_faq": {
@@ -226,98 +228,98 @@
    "mainEntity": [
     {
      "@type": "Question",
-     "name": "What is the lucky number for Cristóbal?",
+     "name": "Can Cristobal be used in another language?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The Pythagorean lucky number for Cristóbal is 3 (ruling planet Jupiter). This is an interpretive association, not a factual claim."
+      "text": "Cristobal is recorded in Biblical; its script forms in other languages are given in the translations field."
      }
     },
     {
      "@type": "Question",
-     "name": "Which day is associated with Cristóbal?",
+     "name": "Is Cristobal mentioned in scripture?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Thursday is the traditional association for Cristóbal. This is interpretive."
+      "text": "No scriptural reference for Cristobal has been verified; the record is flagged for source verification."
      }
     },
     {
      "@type": "Question",
-     "name": "Which gemstone is associated with Cristóbal?",
+     "name": "What is the lucky number for Cristobal?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yellow Sapphire is the traditional association for Cristóbal. This is interpretive."
+      "text": "The Pythagorean lucky number for Cristobal is 9 (ruling planet Mars). This is an interpretive association, not a factual claim."
      }
     },
     {
      "@type": "Question",
-     "name": "Which colours are associated with Cristóbal?",
+     "name": "Which day is associated with Cristobal?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yellow, Gold are the traditional associations for Cristóbal. These are interpretive."
+      "text": "Tuesday is the traditional association for Cristobal. This is interpretive."
      }
     },
     {
      "@type": "Question",
-     "name": "What is the numerology of Cristóbal?",
+     "name": "Which gemstone is associated with Cristobal?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Cristóbal total 30, reducing to 3. Number 3 is associated with expression, creativity and optimism."
+      "text": "Red Coral is the traditional association for Cristobal. This is interpretive."
      }
     },
     {
      "@type": "Question",
-     "name": "How reliable is the meaning given for Cristóbal?",
+     "name": "Which colours are associated with Cristobal?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The meaning of Cristóbal carries confidence LOW in this record. It is flagged for source verification."
+      "text": "Red, Crimson are the traditional associations for Cristobal. These are interpretive."
      }
     },
     {
      "@type": "Question",
-     "name": "Does Cristóbal have a religious meaning?",
+     "name": "What is the numerology of Cristobal?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Cristóbal is recorded as a christian name meaning “Christ bearing”."
+      "text": "In Pythagorean numerology the letters of Cristobal total 36, reducing to 9. Number 9 is associated with compassion, idealism and completion."
      }
     },
     {
      "@type": "Question",
-     "name": "What is the English meaning of Cristóbal?",
+     "name": "How reliable is the meaning given for Cristobal?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "In English, Cristóbal is rendered as “Christ bearing”."
+      "text": "The meaning of Cristobal carries confidence LOW in this record. It is flagged for source verification."
      }
     },
     {
      "@type": "Question",
-     "name": "Is Cristóbal suitable for a baby?",
+     "name": "Does Cristobal have a religious meaning?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Cristóbal is used as a male given name; suitability is a personal choice."
+      "text": "Cristobal is recorded as a christian name meaning “Follower of Christ”."
      }
     },
     {
      "@type": "Question",
-     "name": "What is the full form of Cristóbal?",
+     "name": "What is the English meaning of Cristobal?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Cristóbal is the full recorded form; any short forms are listed in the nicknames field."
+      "text": "In English, Cristobal is rendered as “Follower of Christ”."
      }
     },
     {
      "@type": "Question",
-     "name": "Which culture uses the name Cristóbal?",
+     "name": "Is Cristobal suitable for a baby?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Cristóbal is used in Biblical naming traditions."
+      "text": "Cristobal is used as a male given name; suitability is a personal choice."
      }
     },
     {
      "@type": "Question",
-     "name": "Does Cristóbal have a positive meaning?",
+     "name": "What is the full form of Cristobal?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Cristóbal carries the meaning “Christ bearing”."
+      "text": "Cristobal is the full recorded form; any short forms are listed in the nicknames field."
      }
     }
    ]
@@ -341,8 +343,8 @@
     {
      "@type": "ListItem",
      "position": 3,
-     "name": "Cristóbal",
-     "item": "https://namemeaning.example/name/crist-bal"
+     "name": "Cristobal",
+     "item": "https://namemeaning.example/name/cristobal"
     }
    ]
   },
@@ -355,7 +357,7 @@
     "cdn_optimized": true
    },
    "content_seo": {
-    "word_count": 52,
+    "word_count": 54,
     "readability_score": "A",
     "keyword_density": "optimal",
     "internal_linking": true
@@ -384,108 +386,107 @@
    "authenticity_flags": [
     "meaning_not_independently_verified"
    ],
-   "fields_total": 69
+   "fields_total": 40
   },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
   "tier1_verified": {
-   "name": "Cristóbal",
-   "slug": "crist-bal",
-   "meaning": "Christ bearing",
+   "name": "Cristobal",
+   "slug": "cristobal",
+   "meaning": "Follower of Christ",
    "origin": "Biblical",
    "language": [
     "English",
+    "Hebrew",
     "Greek",
     "Latin"
    ],
-   "gender": "Male",
+   "gender": "male",
    "root": "",
    "etymology": "",
    "script": {},
-   "transliteration": "Cristóbal",
+   "transliteration": "Cristobal",
    "reference": "",
    "confidence": "LOW"
   },
   "tier2_explanatory": {
-   "short_meaning": "Christ bearing",
-   "long_meaning": "The name Cristóbal is recorded with the meaning “Christ bearing”. Cristóbal is a Biblical name meaning “Christ bearing”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+   "short_meaning": "Follower of Christ",
+   "long_meaning": "The name Cristobal is recorded with the meaning “Follower of Christ”. Cristobal is a Biblical name meaning “Follower of Christ”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
    "translations": {
     "english": {
-     "name": "Cristóbal",
-     "meaning": "Christ bearing",
+     "name": "Cristobal",
+     "meaning": "Follower of Christ",
      "confidence": "LOW"
     }
    },
    "pronunciation": {
-    "english": "/kriˈstoʊbəl/",
-    "ipa": "ˈkɾistobal"
+    "english": "kris-TOH-bul",
+    "ipa": "/krɪsˈtoʊbəl/"
    },
-   "syllables": 2,
-   "name_length": 8,
+   "syllables": 3,
+   "name_length": 9,
    "faqs": [
     {
-     "q": "What is the lucky number for Cristóbal?",
-     "a": "The Pythagorean lucky number for Cristóbal is 3 (ruling planet Jupiter). This is an interpretive association, not a factual claim."
+     "q": "Can Cristobal be used in another language?",
+     "a": "Cristobal is recorded in Biblical; its script forms in other languages are given in the translations field."
     },
     {
-     "q": "Which day is associated with Cristóbal?",
-     "a": "Thursday is the traditional association for Cristóbal. This is interpretive."
+     "q": "Is Cristobal mentioned in scripture?",
+     "a": "No scriptural reference for Cristobal has been verified; the record is flagged for source verification."
     },
     {
-     "q": "Which gemstone is associated with Cristóbal?",
-     "a": "Yellow Sapphire is the traditional association for Cristóbal. This is interpretive."
+     "q": "What is the lucky number for Cristobal?",
+     "a": "The Pythagorean lucky number for Cristobal is 9 (ruling planet Mars). This is an interpretive association, not a factual claim."
     },
     {
-     "q": "Which colours are associated with Cristóbal?",
-     "a": "Yellow, Gold are the traditional associations for Cristóbal. These are interpretive."
+     "q": "Which day is associated with Cristobal?",
+     "a": "Tuesday is the traditional association for Cristobal. This is interpretive."
     },
     {
-     "q": "What is the numerology of Cristóbal?",
-     "a": "In Pythagorean numerology the letters of Cristóbal total 30, reducing to 3. Number 3 is associated with expression, creativity and optimism."
+     "q": "Which gemstone is associated with Cristobal?",
+     "a": "Red Coral is the traditional association for Cristobal. This is interpretive."
     },
     {
-     "q": "How reliable is the meaning given for Cristóbal?",
-     "a": "The meaning of Cristóbal carries confidence LOW in this record. It is flagged for source verification."
+     "q": "Which colours are associated with Cristobal?",
+     "a": "Red, Crimson are the traditional associations for Cristobal. These are interpretive."
     },
     {
-     "q": "Does Cristóbal have a religious meaning?",
-     "a": "Cristóbal is recorded as a christian name meaning “Christ bearing”."
+     "q": "What is the numerology of Cristobal?",
+     "a": "In Pythagorean numerology the letters of Cristobal total 36, reducing to 9. Number 9 is associated with compassion, idealism and completion."
     },
     {
-     "q": "What is the English meaning of Cristóbal?",
-     "a": "In English, Cristóbal is rendered as “Christ bearing”."
+     "q": "How reliable is the meaning given for Cristobal?",
+     "a": "The meaning of Cristobal carries confidence LOW in this record. It is flagged for source verification."
     },
     {
-     "q": "Is Cristóbal suitable for a baby?",
-     "a": "Cristóbal is used as a male given name; suitability is a personal choice."
+     "q": "Does Cristobal have a religious meaning?",
+     "a": "Cristobal is recorded as a christian name meaning “Follower of Christ”."
     },
     {
-     "q": "What is the full form of Cristóbal?",
-     "a": "Cristóbal is the full recorded form; any short forms are listed in the nicknames field."
+     "q": "What is the English meaning of Cristobal?",
+     "a": "In English, Cristobal is rendered as “Follower of Christ”."
     },
     {
-     "q": "Which culture uses the name Cristóbal?",
-     "a": "Cristóbal is used in Biblical naming traditions."
+     "q": "Is Cristobal suitable for a baby?",
+     "a": "Cristobal is used as a male given name; suitability is a personal choice."
     },
     {
-     "q": "Does Cristóbal have a positive meaning?",
-     "a": "Cristóbal carries the meaning “Christ bearing”."
+     "q": "What is the full form of Cristobal?",
+     "a": "Cristobal is the full recorded form; any short forms are listed in the nicknames field."
     }
    ]
   },
   "tier3_interpretive": {
    "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
    "numerology": {
-    "lucky_number": 3,
-    "life_path_number": 3,
-    "ruling_planet": "Jupiter",
-    "lucky_day": "Thursday",
-    "lucky_stone": "Yellow Sapphire",
+    "lucky_number": 9,
+    "life_path_number": 9,
+    "ruling_planet": "Mars",
+    "lucky_day": "Tuesday",
+    "lucky_stone": "Red Coral",
     "lucky_colors": [
-     "Yellow",
-     "Gold"
+     "Red",
+     "Crimson"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Cristóbal total 30, reducing to 3. Number 3 is associated with expression, creativity and optimism."
+    "numerology_meaning": "In Pythagorean numerology the letters of Cristobal total 36, reducing to 9. Number 9 is associated with compassion, idealism and completion."
    },
    "personality_associations": [],
    "spiritual_symbolism": ""

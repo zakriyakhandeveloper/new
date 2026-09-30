@@ -1,215 +1,164 @@
 {
  "success": true,
  "data": {
-  "name": "Ángel",
-  "slug": "ngel",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Ángel is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
+  "name": "Angel",
+  "slug": "angel",
+  "language": [],
+  "gender": "Unknown",
+  "origin": "",
   "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Messenger of God",
-  "long_meaning": "The name Ángel is recorded with the meaning “Messenger of God”. Ángel is a Biblical name meaning “Messenger of God”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Ángel expresses “Messenger of God”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Ángel is recorded with the meaning “Messenger of God”. Ángel is a Biblical name meaning “Messenger of God”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+  "meaning": "Messenger",
+  "similar_sounding_names": [],
+  "category": "Christian",
+  "short_meaning": "",
+  "long_meaning": "The name Angel is recorded with the meaning “”. Angel is a uncertain origin name meaning “”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+  "gender_notes": "Angel is used as a unknown name in christian naming traditions.",
   "root": "",
-  "language_root": "Biblical",
-  "root_letters": "n-g-e-l",
-  "syllables": 1,
-  "name_length": 4,
+  "etymology": "The name Angel is recorded with the meaning “”. Angel is a uncertain origin name meaning “”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+  "language_root": "",
+  "root_letters": "a-n-g-e-l",
+  "syllables": 2,
+  "name_length": 5,
   "transliteration": [
-   "Ángel"
+   "Angel"
   ],
-  "lucky_number": 2,
-  "lucky_day": "Monday",
-  "lucky_colors": [
-   "White",
-   "Silver"
-  ],
-  "lucky_stone": "Pearl",
-  "ruling_planet": "Moon",
-  "life_path_number": 2,
-  "numerology_meaning": "In Pythagorean numerology the letters of Ángel total 20, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
-  "in_hebrew": {
-   "name": "אנגל",
-   "meaning": "מלאכה",
-   "long_meaning": "מלאך אל, מלאך שואת, אלוהים של מלאכה"
-  },
-  "in_greek": {
-   "name": "Αγγέλος",
-   "meaning": "ἄγγελος, ἄγγελος τοῦ θεοῦ",
-   "long_meaning": "ἄγγελος τοῦ κυρίου, εἰς τὸ διανοημένον, ἄγγελος τοῦ θεοῦ τοῦ εὐαγγελίζοντος"
-  },
-  "in_latin": {
-   "name": "Angelus",
-   "meaning": "Messenger of God",
-   "long_meaning": "Messenger of God, Angel, Apostle"
-  },
+  "culture": [],
   "in_english": {
-   "name": "Ángel",
-   "meaning": "Messenger of God",
-   "long_meaning": "The name Ángel is recorded with the meaning “Messenger of God”. Ángel is a Biblical name meaning “Messenger of God”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
+   "name": "Angel",
+   "meaning": "",
+   "long_meaning": "The name Angel is recorded with the meaning “”. Angel is a uncertain origin name meaning “”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
   },
-  "pronunciation": {
-   "english": "/ˈæŋɡɛl/",
-   "biblical": "/ˈæŋɡɛl/",
-   "ipa": "/ˈaŋ.gɛl/"
-  },
+  "lucky_number": 3,
+  "life_path_number": 3,
+  "lucky_day": "Thursday",
+  "lucky_colors": [
+   "Yellow",
+   "Gold"
+  ],
+  "lucky_stone": "Yellow Sapphire",
+  "ruling_planet": "Jupiter",
+  "numerology_meaning": "In Pythagorean numerology the letters of Angel total 21, reducing to 3. Number 3 is associated with expression, creativity and optimism.",
   "name_variations": [
-   "Ángel"
+   "Angel"
   ],
   "variants": [
-   "Ángel"
+   "Angel"
   ],
   "diminutives": [],
   "nicknames": [],
   "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Ángel is used in Biblical naming tradition with the meaning “Messenger of God”.",
-  "spiritual_significance": "Any spiritual significance attached to Ángel is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Messenger of God” is the basis of any symbolism attached to Ángel; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": true,
-   "origin_scripture": "Hebrew Bible",
-   "verse_reference": "Genesis 16:7, 16:11, 21:17, Exodus 3:2, 13:21, Numbers 20:16, Judges 6:11-24, 13:1-22, Isaiah 6:2, Ezekiel 1:10, 9:2, Daniel 8:16, Matthew 1:24, Luke 1:26, 2:9, John 1:49, Acts 5:19, 8:26, 10:3, 12:9, Revelation 1:1, 2:1, 5:8, 8:3, 9:1, 10:1, 14:6, 16:14, 18:20, 19:10, 21:14, 22:16",
-   "note": "The name Ángel appears numerous times in the Hebrew Bible as a common name for angels and messengers of God."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Ángel."
-  },
   "name_in_real_life": {
    "person_name": "",
    "location": "",
    "story": "",
    "note": "No verified real-life bearer is published for this name."
   },
-  "social_tags": [
-   "#ÁngelMeaning",
-   "#ChristianBabyNames"
-  ],
-  "monetization": {
-   "google_adsense": {
-    "publisher_id": "ca-pub-12345678901234",
-    "ad_unit": "728x90_aside",
-    "layout": "responsive"
-   },
-   "affiliate_links": [
-    "https://example.com/product1",
-    "https://example.com/product2"
-   ]
+  "notable_people": [],
+  "celebrity_usage": [],
+  "popularity_score": null,
+  "popularity_by_region": [],
+  "historical_references": [],
+  "modern_usage": {
+   "trends": [],
+   "platforms": [],
+   "modern_context": "No verified modern-usage statistics are published for Angel."
   },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
+  "spiritual_symbolism": "The meaning “” is the basis of any symbolism attached to Angel; such symbolism is interpretive.",
+  "spiritual_significance": "Any spiritual significance attached to Angel is interpretive and is labelled as such.",
+  "spiritual_meaning": "Angel expresses “”; spiritual readings of the name are interpretive.",
+  "emotional_traits": [],
+  "hidden_personality_traits": [],
+  "cultural_impact": "Angel is used in its naming tradition with the meaning “”.",
+  "seo_title": "Angel Name Meaning –  (Origin)",
+  "meta_description": "Angel is a name name meaning “”. Verified meaning, origin, root, pronunciation and FAQs.",
+  "keywords": [
+   "Angel",
+   "Angel name meaning",
+   "Angel meaning",
+   "Angel origin",
+   "Angel root",
+   "Angel pronunciation"
+  ],
+  "canonical_url": "https://namemeaning.example/name/angel",
+  "intro_paragraph": "Angel is a name name meaning “”.",
   "seo": {
-   "title": "Ángel Name Meaning – Messenger of God (Biblical)",
-   "meta_description": "Ángel is a Biblical name meaning “Messenger of God”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Ángel, Ángel name meaning, Ángel meaning, Ángel origin, Ángel root, Ángel pronunciation, Biblical names",
-   "description_paragraph": "Ángel is a Biblical name meaning “Messenger of God”.",
+   "title": "Angel Name Meaning –  (Origin)",
+   "meta_description": "Angel is a name name meaning “”. Verified meaning, origin, root, pronunciation and FAQs.",
+   "meta_keywords": "Angel, Angel name meaning, Angel meaning, Angel origin, Angel root, Angel pronunciation",
+   "description_paragraph": "Angel is a name name meaning “”.",
    "keywords": [
-    "Ángel",
-    "Ángel name meaning",
-    "Ángel meaning",
-    "Ángel origin",
-    "Ángel root",
-    "Ángel pronunciation",
-    "Biblical names"
+    "Angel",
+    "Angel name meaning",
+    "Angel meaning",
+    "Angel origin",
+    "Angel root",
+    "Angel pronunciation"
    ],
-   "focus_keyword": "Ángel name meaning",
+   "focus_keyword": "Angel name meaning",
    "secondary_keywords": [
-    "Ángel meaning",
-    "Ángel origin",
-    "Ángel pronunciation",
-    "Ángel lucky number"
+    "Angel meaning",
+    "Angel origin",
+    "Angel pronunciation",
+    "Angel lucky number"
    ],
-   "canonical_url": "https://namemeaning.example/name/ngel",
+   "canonical_url": "https://namemeaning.example/name/angel",
    "seo_score": 70,
    "faq": [
     {
-     "q": "Is Ángel suitable for a baby?",
-     "a": "Ángel is used as a male given name; suitability is a personal choice."
+     "q": "What is the origin of the name Angel?",
+     "a": "Angel is of uncertain origin origin."
     },
     {
-     "q": "What is the full form of Ángel?",
-     "a": "Ángel is the full recorded form; any short forms are listed in the nicknames field."
+     "q": "Is Angel a unknown name?",
+     "a": "Angel is used as a unknown name."
     },
     {
-     "q": "Which culture uses the name Ángel?",
-     "a": "Ángel is used in Biblical naming traditions."
+     "q": "How many syllables does Angel have?",
+     "a": "Angel has 2 syllables."
     },
     {
-     "q": "Does Ángel have a positive meaning?",
-     "a": "Ángel carries the meaning “Messenger of God”."
+     "q": "How is Angel pronounced?",
+     "a": "Angel is pronounced as given in the pronunciation field of this record."
     },
     {
-     "q": "What does the name Ángel mean?",
-     "a": "Ángel means “Messenger of God”."
+     "q": "What is the spiritual significance of Angel?",
+     "a": "Any spiritual significance attached to Angel is interpretive and is labelled as such in this record."
     },
     {
-     "q": "What is the origin of the name Ángel?",
-     "a": "Ángel is of Biblical origin."
+     "q": "Are there variant spellings of Angel?",
+     "a": "Variant spellings of Angel are listed in the variants field of this record."
     },
     {
-     "q": "Is Ángel a male name?",
-     "a": "Ángel is used as a male name."
+     "q": "Is Angel a common name?",
+     "a": "Popularity figures for Angel have not been verified and are not published."
     },
     {
-     "q": "How many syllables does Ángel have?",
-     "a": "Ángel has 1 syllable."
+     "q": "What does the name Angel say about a child?",
+     "a": "The name Angel expresses “”; any character association drawn from it is interpretive."
     },
     {
-     "q": "How is Ángel pronounced?",
-     "a": "Ángel is pronounced as given in the pronunciation field of this record."
+     "q": "Can Angel be used in another language?",
+     "a": "Angel is recorded in uncertain origin; its script forms in other languages are given in the translations field."
     },
     {
-     "q": "What is the spiritual significance of Ángel?",
-     "a": "Any spiritual significance attached to Ángel is interpretive and is labelled as such in this record."
+     "q": "Is Angel mentioned in scripture?",
+     "a": "No scriptural reference for Angel has been verified; the record is flagged for source verification."
     },
     {
-     "q": "Are there variant spellings of Ángel?",
-     "a": "Variant spellings of Ángel are listed in the variants field of this record."
+     "q": "What is the lucky number for Angel?",
+     "a": "The Pythagorean lucky number for Angel is 3 (ruling planet Jupiter). This is an interpretive association, not a factual claim."
     },
     {
-     "q": "Is Ángel a common name?",
-     "a": "Popularity figures for Ángel have not been verified and are not published."
+     "q": "Which day is associated with Angel?",
+     "a": "Thursday is the traditional association for Angel. This is interpretive."
     }
    ]
   },
-  "seo_title": "Ángel Name Meaning – Messenger of God (Biblical)",
-  "meta_description": "Ángel is a Biblical name meaning “Messenger of God”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Ángel",
-   "Ángel name meaning",
-   "Ángel meaning",
-   "Ángel origin",
-   "Ángel root",
-   "Ángel pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/ngel",
-  "intro_paragraph": "Ángel is a Biblical name meaning “Messenger of God”.",
   "structured_data": {
    "@context": "https://schema.org",
    "@type": "Thing",
-   "name": "Ángel",
-   "description": "Ángel — Messenger of God",
+   "name": "Angel",
+   "description": "Angel — ",
    "additionalType": "https://schema.org/Person"
   },
   "structured_data_faq": {
@@ -218,98 +167,98 @@
    "mainEntity": [
     {
      "@type": "Question",
-     "name": "Is Ángel suitable for a baby?",
+     "name": "What is the origin of the name Angel?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Ángel is used as a male given name; suitability is a personal choice."
+      "text": "Angel is of uncertain origin origin."
      }
     },
     {
      "@type": "Question",
-     "name": "What is the full form of Ángel?",
+     "name": "Is Angel a unknown name?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Ángel is the full recorded form; any short forms are listed in the nicknames field."
+      "text": "Angel is used as a unknown name."
      }
     },
     {
      "@type": "Question",
-     "name": "Which culture uses the name Ángel?",
+     "name": "How many syllables does Angel have?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Ángel is used in Biblical naming traditions."
+      "text": "Angel has 2 syllables."
      }
     },
     {
      "@type": "Question",
-     "name": "Does Ángel have a positive meaning?",
+     "name": "How is Angel pronounced?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Ángel carries the meaning “Messenger of God”."
+      "text": "Angel is pronounced as given in the pronunciation field of this record."
      }
     },
     {
      "@type": "Question",
-     "name": "What does the name Ángel mean?",
+     "name": "What is the spiritual significance of Angel?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Ángel means “Messenger of God”."
+      "text": "Any spiritual significance attached to Angel is interpretive and is labelled as such in this record."
      }
     },
     {
      "@type": "Question",
-     "name": "What is the origin of the name Ángel?",
+     "name": "Are there variant spellings of Angel?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Ángel is of Biblical origin."
+      "text": "Variant spellings of Angel are listed in the variants field of this record."
      }
     },
     {
      "@type": "Question",
-     "name": "Is Ángel a male name?",
+     "name": "Is Angel a common name?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Ángel is used as a male name."
+      "text": "Popularity figures for Angel have not been verified and are not published."
      }
     },
     {
      "@type": "Question",
-     "name": "How many syllables does Ángel have?",
+     "name": "What does the name Angel say about a child?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Ángel has 1 syllable."
+      "text": "The name Angel expresses “”; any character association drawn from it is interpretive."
      }
     },
     {
      "@type": "Question",
-     "name": "How is Ángel pronounced?",
+     "name": "Can Angel be used in another language?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Ángel is pronounced as given in the pronunciation field of this record."
+      "text": "Angel is recorded in uncertain origin; its script forms in other languages are given in the translations field."
      }
     },
     {
      "@type": "Question",
-     "name": "What is the spiritual significance of Ángel?",
+     "name": "Is Angel mentioned in scripture?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Any spiritual significance attached to Ángel is interpretive and is labelled as such in this record."
+      "text": "No scriptural reference for Angel has been verified; the record is flagged for source verification."
      }
     },
     {
      "@type": "Question",
-     "name": "Are there variant spellings of Ángel?",
+     "name": "What is the lucky number for Angel?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Variant spellings of Ángel are listed in the variants field of this record."
+      "text": "The Pythagorean lucky number for Angel is 3 (ruling planet Jupiter). This is an interpretive association, not a factual claim."
      }
     },
     {
      "@type": "Question",
-     "name": "Is Ángel a common name?",
+     "name": "Which day is associated with Angel?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Popularity figures for Ángel have not been verified and are not published."
+      "text": "Thursday is the traditional association for Angel. This is interpretive."
      }
     }
    ]
@@ -333,8 +282,8 @@
     {
      "@type": "ListItem",
      "position": 3,
-     "name": "Ángel",
-     "item": "https://namemeaning.example/name/ngel"
+     "name": "Angel",
+     "item": "https://namemeaning.example/name/angel"
     }
    ]
   },
@@ -347,7 +296,7 @@
     "cdn_optimized": true
    },
    "content_seo": {
-    "word_count": 54,
+    "word_count": 51,
     "readability_score": "A",
     "keyword_density": "optimal",
     "internal_linking": true
@@ -359,9 +308,9 @@
    }
   },
   "confidence": {
-   "meaning": "LOW",
+   "meaning": "UNKNOWN",
    "etymology": "UNKNOWN",
-   "origin": "HIGH",
+   "origin": "UNKNOWN",
    "scripts": "UNKNOWN",
    "pronunciation": "MEDIUM",
    "gender": "HIGH",
@@ -374,110 +323,106 @@
   "data_quality": {
    "source_was_thin": false,
    "authenticity_flags": [
+    "no_verified_meaning",
+    "origin_unverified",
     "meaning_not_independently_verified"
    ],
-   "fields_total": 69
+   "fields_total": 8
   },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
   "tier1_verified": {
-   "name": "Ángel",
-   "slug": "ngel",
-   "meaning": "Messenger of God",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
+   "name": "Angel",
+   "slug": "angel",
+   "meaning": "",
+   "origin": "",
+   "language": [],
+   "gender": "Unknown",
    "root": "",
    "etymology": "",
    "script": {},
-   "transliteration": "Ángel",
+   "transliteration": "Angel",
    "reference": "",
-   "confidence": "LOW"
+   "confidence": "UNKNOWN"
   },
   "tier2_explanatory": {
-   "short_meaning": "Messenger of God",
-   "long_meaning": "The name Ángel is recorded with the meaning “Messenger of God”. Ángel is a Biblical name meaning “Messenger of God”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+   "short_meaning": "",
+   "long_meaning": "The name Angel is recorded with the meaning “”. Angel is a uncertain origin name meaning “”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
    "translations": {
     "english": {
-     "name": "Ángel",
-     "meaning": "Messenger of God",
-     "confidence": "LOW"
+     "name": "Angel",
+     "meaning": "",
+     "confidence": "UNKNOWN"
     }
    },
    "pronunciation": {
-    "english": "/ˈæŋɡɛl/",
-    "ipa": "/ˈaŋ.gɛl/"
+    "english": "",
+    "ipa": ""
    },
-   "syllables": 1,
-   "name_length": 4,
+   "syllables": 2,
+   "name_length": 5,
    "faqs": [
     {
-     "q": "Is Ángel suitable for a baby?",
-     "a": "Ángel is used as a male given name; suitability is a personal choice."
+     "q": "What is the origin of the name Angel?",
+     "a": "Angel is of uncertain origin origin."
     },
     {
-     "q": "What is the full form of Ángel?",
-     "a": "Ángel is the full recorded form; any short forms are listed in the nicknames field."
+     "q": "Is Angel a unknown name?",
+     "a": "Angel is used as a unknown name."
     },
     {
-     "q": "Which culture uses the name Ángel?",
-     "a": "Ángel is used in Biblical naming traditions."
+     "q": "How many syllables does Angel have?",
+     "a": "Angel has 2 syllables."
     },
     {
-     "q": "Does Ángel have a positive meaning?",
-     "a": "Ángel carries the meaning “Messenger of God”."
+     "q": "How is Angel pronounced?",
+     "a": "Angel is pronounced as given in the pronunciation field of this record."
     },
     {
-     "q": "What does the name Ángel mean?",
-     "a": "Ángel means “Messenger of God”."
+     "q": "What is the spiritual significance of Angel?",
+     "a": "Any spiritual significance attached to Angel is interpretive and is labelled as such in this record."
     },
     {
-     "q": "What is the origin of the name Ángel?",
-     "a": "Ángel is of Biblical origin."
+     "q": "Are there variant spellings of Angel?",
+     "a": "Variant spellings of Angel are listed in the variants field of this record."
     },
     {
-     "q": "Is Ángel a male name?",
-     "a": "Ángel is used as a male name."
+     "q": "Is Angel a common name?",
+     "a": "Popularity figures for Angel have not been verified and are not published."
     },
     {
-     "q": "How many syllables does Ángel have?",
-     "a": "Ángel has 1 syllable."
+     "q": "What does the name Angel say about a child?",
+     "a": "The name Angel expresses “”; any character association drawn from it is interpretive."
     },
     {
-     "q": "How is Ángel pronounced?",
-     "a": "Ángel is pronounced as given in the pronunciation field of this record."
+     "q": "Can Angel be used in another language?",
+     "a": "Angel is recorded in uncertain origin; its script forms in other languages are given in the translations field."
     },
     {
-     "q": "What is the spiritual significance of Ángel?",
-     "a": "Any spiritual significance attached to Ángel is interpretive and is labelled as such in this record."
+     "q": "Is Angel mentioned in scripture?",
+     "a": "No scriptural reference for Angel has been verified; the record is flagged for source verification."
     },
     {
-     "q": "Are there variant spellings of Ángel?",
-     "a": "Variant spellings of Ángel are listed in the variants field of this record."
+     "q": "What is the lucky number for Angel?",
+     "a": "The Pythagorean lucky number for Angel is 3 (ruling planet Jupiter). This is an interpretive association, not a factual claim."
     },
     {
-     "q": "Is Ángel a common name?",
-     "a": "Popularity figures for Ángel have not been verified and are not published."
+     "q": "Which day is associated with Angel?",
+     "a": "Thursday is the traditional association for Angel. This is interpretive."
     }
    ]
   },
   "tier3_interpretive": {
    "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
    "numerology": {
-    "lucky_number": 2,
-    "life_path_number": 2,
-    "ruling_planet": "Moon",
-    "lucky_day": "Monday",
-    "lucky_stone": "Pearl",
+    "lucky_number": 3,
+    "life_path_number": 3,
+    "ruling_planet": "Jupiter",
+    "lucky_day": "Thursday",
+    "lucky_stone": "Yellow Sapphire",
     "lucky_colors": [
-     "White",
-     "Silver"
+     "Yellow",
+     "Gold"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Ángel total 20, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
+    "numerology_meaning": "In Pythagorean numerology the letters of Angel total 21, reducing to 3. Number 3 is associated with expression, creativity and optimism."
    },
    "personality_associations": [],
    "spiritual_symbolism": ""
@@ -485,9 +430,11 @@
   "verification": {
    "needs_manual_verification": true,
    "flags": [
+    "no_verified_meaning",
+    "origin_unverified",
     "meaning_not_independently_verified"
    ],
-   "confidence": "LOW",
+   "confidence": "UNKNOWN",
    "sources": []
   }
  }

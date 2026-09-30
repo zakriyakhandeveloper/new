@@ -1,219 +1,164 @@
 {
  "success": true,
  "data": {
-  "name": "José",
-  "slug": "jos",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "José is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
+  "name": "Jose",
+  "slug": "jose",
+  "language": [],
+  "gender": "Unknown",
+  "origin": "",
   "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "God will add",
-  "long_meaning": "The name José is recorded with the meaning “God will add”. José is a Biblical name meaning “God will add”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "José expresses “God will add”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name José is recorded with the meaning “God will add”. José is a Biblical name meaning “God will add”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+  "meaning": "God will add",
+  "similar_sounding_names": [],
+  "category": "Christian",
+  "short_meaning": "",
+  "long_meaning": "The name Jose is recorded with the meaning “”. Jose is a uncertain origin name meaning “”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+  "gender_notes": "Jose is used as a unknown name in christian naming traditions.",
   "root": "",
-  "language_root": "Biblical",
-  "root_letters": "j-o-s",
+  "etymology": "The name Jose is recorded with the meaning “”. Jose is a uncertain origin name meaning “”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+  "language_root": "",
+  "root_letters": "j-o-s-e",
   "syllables": 1,
-  "name_length": 3,
+  "name_length": 4,
   "transliteration": [
-   "José"
+   "Jose"
   ],
-  "lucky_number": 8,
+  "culture": [],
+  "in_english": {
+   "name": "Jose",
+   "meaning": "",
+   "long_meaning": "The name Jose is recorded with the meaning “”. Jose is a uncertain origin name meaning “”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
+  },
+  "lucky_number": 4,
+  "life_path_number": 4,
   "lucky_day": "Saturday",
   "lucky_colors": [
-   "Blue",
-   "Black"
+   "Grey",
+   "Blue"
   ],
-  "lucky_stone": "Blue Sapphire",
-  "ruling_planet": "Saturn",
-  "life_path_number": 8,
-  "numerology_meaning": "In Pythagorean numerology the letters of José total 8, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-  "in_hebrew": {
-   "name": "יוֹסֵף",
-   "meaning": "God will add",
-   "long_meaning": "The Lord will add (another son to Jacob's family)"
-  },
-  "in_greek": {
-   "name": "Ιωσήφ",
-   "meaning": "God will add",
-   "long_meaning": "Joseph, the Lord will add"
-  },
-  "in_latin": {
-   "name": "Ioseph",
-   "meaning": "God will add",
-   "long_meaning": "Joseph, the Lord will add"
-  },
-  "in_english": {
-   "name": "José",
-   "meaning": "God will add",
-   "long_meaning": "The name José is recorded with the meaning “God will add”. José is a Biblical name meaning “God will add”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "/ˈhoʊzɛf/",
-   "biblical": "/ˈhoʊzɛf/",
-   "ipa": "ˈhoːzɛf"
-  },
+  "lucky_stone": "Hessonite",
+  "ruling_planet": "Rahu",
+  "numerology_meaning": "In Pythagorean numerology the letters of Jose total 13, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
   "name_variations": [
-   "José"
+   "Jose"
   ],
   "variants": [
-   "José"
+   "Jose"
   ],
   "diminutives": [],
   "nicknames": [],
   "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "José is used in Biblical naming tradition with the meaning “God will add”.",
-  "spiritual_significance": "Any spiritual significance attached to José is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “God will add” is the basis of any symbolism attached to José; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": true,
-   "origin_scripture": "Hebrew Bible",
-   "verse_reference": "Genesis 30:24",
-   "note": "Joseph, the eleventh son of Jacob, who was sold into Egypt by his brothers but later became the second in command under Pharaoh."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for José."
-  },
   "name_in_real_life": {
    "person_name": "",
    "location": "",
    "story": "",
    "note": "No verified real-life bearer is published for this name."
   },
-  "social_tags": [
-   "#JoséMeaning",
-   "#ChristianBabyNames"
-  ],
-  "monetization": {
-   "google_adsense": "ca-pub-1234567890123456",
-   "affiliate_links": [
-    {
-     "product": "Baby Name Book",
-     "commission": 0.1,
-     "url": "https://example.com/baby-name-book"
-    },
-    {
-     "product": "Personalized Baby Name Plate",
-     "commission": 0.05,
-     "url": "https://example.com/baby-name-plate"
-    }
-   ]
+  "notable_people": [],
+  "celebrity_usage": [],
+  "popularity_score": null,
+  "popularity_by_region": [],
+  "historical_references": [],
+  "modern_usage": {
+   "trends": [],
+   "platforms": [],
+   "modern_context": "No verified modern-usage statistics are published for Jose."
   },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
+  "spiritual_symbolism": "The meaning “” is the basis of any symbolism attached to Jose; such symbolism is interpretive.",
+  "spiritual_significance": "Any spiritual significance attached to Jose is interpretive and is labelled as such.",
+  "spiritual_meaning": "Jose expresses “”; spiritual readings of the name are interpretive.",
+  "emotional_traits": [],
+  "hidden_personality_traits": [],
+  "cultural_impact": "Jose is used in its naming tradition with the meaning “”.",
+  "seo_title": "Jose Name Meaning –  (Origin)",
+  "meta_description": "Jose is a name name meaning “”. Verified meaning, origin, root, pronunciation and FAQs.",
+  "keywords": [
+   "Jose",
+   "Jose name meaning",
+   "Jose meaning",
+   "Jose origin",
+   "Jose root",
+   "Jose pronunciation"
+  ],
+  "canonical_url": "https://namemeaning.example/name/jose",
+  "intro_paragraph": "Jose is a name name meaning “”.",
   "seo": {
-   "title": "José Name Meaning – God will add (Biblical)",
-   "meta_description": "José is a Biblical name meaning “God will add”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "José, José name meaning, José meaning, José origin, José root, José pronunciation, Biblical names",
-   "description_paragraph": "José is a Biblical name meaning “God will add”.",
+   "title": "Jose Name Meaning –  (Origin)",
+   "meta_description": "Jose is a name name meaning “”. Verified meaning, origin, root, pronunciation and FAQs.",
+   "meta_keywords": "Jose, Jose name meaning, Jose meaning, Jose origin, Jose root, Jose pronunciation",
+   "description_paragraph": "Jose is a name name meaning “”.",
    "keywords": [
-    "José",
-    "José name meaning",
-    "José meaning",
-    "José origin",
-    "José root",
-    "José pronunciation",
-    "Biblical names"
+    "Jose",
+    "Jose name meaning",
+    "Jose meaning",
+    "Jose origin",
+    "Jose root",
+    "Jose pronunciation"
    ],
-   "focus_keyword": "José name meaning",
+   "focus_keyword": "Jose name meaning",
    "secondary_keywords": [
-    "José meaning",
-    "José origin",
-    "José pronunciation",
-    "José lucky number"
+    "Jose meaning",
+    "Jose origin",
+    "Jose pronunciation",
+    "Jose lucky number"
    ],
-   "canonical_url": "https://namemeaning.example/name/jos",
+   "canonical_url": "https://namemeaning.example/name/jose",
    "seo_score": 70,
    "faq": [
     {
-     "q": "Does José have a religious meaning?",
-     "a": "José is recorded as a christian name meaning “God will add”."
+     "q": "Is Jose suitable for a baby?",
+     "a": "Jose is used as a unknown given name; suitability is a personal choice."
     },
     {
-     "q": "What is the English meaning of José?",
-     "a": "In English, José is rendered as “God will add”."
+     "q": "What is the full form of Jose?",
+     "a": "Jose is the full recorded form; any short forms are listed in the nicknames field."
     },
     {
-     "q": "Is José suitable for a baby?",
-     "a": "José is used as a male given name; suitability is a personal choice."
+     "q": "Which culture uses the name Jose?",
+     "a": "Jose is used in uncertain origin naming traditions."
     },
     {
-     "q": "What is the full form of José?",
-     "a": "José is the full recorded form; any short forms are listed in the nicknames field."
+     "q": "Does Jose have a positive meaning?",
+     "a": "Jose carries the meaning “”."
     },
     {
-     "q": "Which culture uses the name José?",
-     "a": "José is used in Biblical naming traditions."
+     "q": "What does the name Jose mean?",
+     "a": "Jose means “”."
     },
     {
-     "q": "Does José have a positive meaning?",
-     "a": "José carries the meaning “God will add”."
+     "q": "What is the origin of the name Jose?",
+     "a": "Jose is of uncertain origin origin."
     },
     {
-     "q": "What does the name José mean?",
-     "a": "José means “God will add”."
+     "q": "Is Jose a unknown name?",
+     "a": "Jose is used as a unknown name."
     },
     {
-     "q": "What is the origin of the name José?",
-     "a": "José is of Biblical origin."
+     "q": "How many syllables does Jose have?",
+     "a": "Jose has 1 syllable."
     },
     {
-     "q": "Is José a male name?",
-     "a": "José is used as a male name."
+     "q": "How is Jose pronounced?",
+     "a": "Jose is pronounced as given in the pronunciation field of this record."
     },
     {
-     "q": "How many syllables does José have?",
-     "a": "José has 1 syllable."
+     "q": "What is the spiritual significance of Jose?",
+     "a": "Any spiritual significance attached to Jose is interpretive and is labelled as such in this record."
     },
     {
-     "q": "How is José pronounced?",
-     "a": "José is pronounced as given in the pronunciation field of this record."
+     "q": "Are there variant spellings of Jose?",
+     "a": "Variant spellings of Jose are listed in the variants field of this record."
     },
     {
-     "q": "What is the spiritual significance of José?",
-     "a": "Any spiritual significance attached to José is interpretive and is labelled as such in this record."
+     "q": "Is Jose a common name?",
+     "a": "Popularity figures for Jose have not been verified and are not published."
     }
    ]
   },
-  "seo_title": "José Name Meaning – God will add (Biblical)",
-  "meta_description": "José is a Biblical name meaning “God will add”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "José",
-   "José name meaning",
-   "José meaning",
-   "José origin",
-   "José root",
-   "José pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/jos",
-  "intro_paragraph": "José is a Biblical name meaning “God will add”.",
   "structured_data": {
    "@context": "https://schema.org",
    "@type": "Thing",
-   "name": "José",
-   "description": "José — God will add",
+   "name": "Jose",
+   "description": "Jose — ",
    "additionalType": "https://schema.org/Person"
   },
   "structured_data_faq": {
@@ -222,98 +167,98 @@
    "mainEntity": [
     {
      "@type": "Question",
-     "name": "Does José have a religious meaning?",
+     "name": "Is Jose suitable for a baby?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "José is recorded as a christian name meaning “God will add”."
+      "text": "Jose is used as a unknown given name; suitability is a personal choice."
      }
     },
     {
      "@type": "Question",
-     "name": "What is the English meaning of José?",
+     "name": "What is the full form of Jose?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "In English, José is rendered as “God will add”."
+      "text": "Jose is the full recorded form; any short forms are listed in the nicknames field."
      }
     },
     {
      "@type": "Question",
-     "name": "Is José suitable for a baby?",
+     "name": "Which culture uses the name Jose?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "José is used as a male given name; suitability is a personal choice."
+      "text": "Jose is used in uncertain origin naming traditions."
      }
     },
     {
      "@type": "Question",
-     "name": "What is the full form of José?",
+     "name": "Does Jose have a positive meaning?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "José is the full recorded form; any short forms are listed in the nicknames field."
+      "text": "Jose carries the meaning “”."
      }
     },
     {
      "@type": "Question",
-     "name": "Which culture uses the name José?",
+     "name": "What does the name Jose mean?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "José is used in Biblical naming traditions."
+      "text": "Jose means “”."
      }
     },
     {
      "@type": "Question",
-     "name": "Does José have a positive meaning?",
+     "name": "What is the origin of the name Jose?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "José carries the meaning “God will add”."
+      "text": "Jose is of uncertain origin origin."
      }
     },
     {
      "@type": "Question",
-     "name": "What does the name José mean?",
+     "name": "Is Jose a unknown name?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "José means “God will add”."
+      "text": "Jose is used as a unknown name."
      }
     },
     {
      "@type": "Question",
-     "name": "What is the origin of the name José?",
+     "name": "How many syllables does Jose have?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "José is of Biblical origin."
+      "text": "Jose has 1 syllable."
      }
     },
     {
      "@type": "Question",
-     "name": "Is José a male name?",
+     "name": "How is Jose pronounced?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "José is used as a male name."
+      "text": "Jose is pronounced as given in the pronunciation field of this record."
      }
     },
     {
      "@type": "Question",
-     "name": "How many syllables does José have?",
+     "name": "What is the spiritual significance of Jose?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "José has 1 syllable."
+      "text": "Any spiritual significance attached to Jose is interpretive and is labelled as such in this record."
      }
     },
     {
      "@type": "Question",
-     "name": "How is José pronounced?",
+     "name": "Are there variant spellings of Jose?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "José is pronounced as given in the pronunciation field of this record."
+      "text": "Variant spellings of Jose are listed in the variants field of this record."
      }
     },
     {
      "@type": "Question",
-     "name": "What is the spiritual significance of José?",
+     "name": "Is Jose a common name?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Any spiritual significance attached to José is interpretive and is labelled as such in this record."
+      "text": "Popularity figures for Jose have not been verified and are not published."
      }
     }
    ]
@@ -337,8 +282,8 @@
     {
      "@type": "ListItem",
      "position": 3,
-     "name": "José",
-     "item": "https://namemeaning.example/name/jos"
+     "name": "Jose",
+     "item": "https://namemeaning.example/name/jose"
     }
    ]
   },
@@ -351,7 +296,7 @@
     "cdn_optimized": true
    },
    "content_seo": {
-    "word_count": 54,
+    "word_count": 51,
     "readability_score": "A",
     "keyword_density": "optimal",
     "internal_linking": true
@@ -363,9 +308,9 @@
    }
   },
   "confidence": {
-   "meaning": "LOW",
+   "meaning": "UNKNOWN",
    "etymology": "UNKNOWN",
-   "origin": "HIGH",
+   "origin": "UNKNOWN",
    "scripts": "UNKNOWN",
    "pronunciation": "MEDIUM",
    "gender": "HIGH",
@@ -378,110 +323,106 @@
   "data_quality": {
    "source_was_thin": false,
    "authenticity_flags": [
+    "no_verified_meaning",
+    "origin_unverified",
     "meaning_not_independently_verified"
    ],
-   "fields_total": 69
+   "fields_total": 8
   },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
   "tier1_verified": {
-   "name": "José",
-   "slug": "jos",
-   "meaning": "God will add",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
+   "name": "Jose",
+   "slug": "jose",
+   "meaning": "",
+   "origin": "",
+   "language": [],
+   "gender": "Unknown",
    "root": "",
    "etymology": "",
    "script": {},
-   "transliteration": "José",
+   "transliteration": "Jose",
    "reference": "",
-   "confidence": "LOW"
+   "confidence": "UNKNOWN"
   },
   "tier2_explanatory": {
-   "short_meaning": "God will add",
-   "long_meaning": "The name José is recorded with the meaning “God will add”. José is a Biblical name meaning “God will add”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+   "short_meaning": "",
+   "long_meaning": "The name Jose is recorded with the meaning “”. Jose is a uncertain origin name meaning “”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
    "translations": {
     "english": {
-     "name": "José",
-     "meaning": "God will add",
-     "confidence": "LOW"
+     "name": "Jose",
+     "meaning": "",
+     "confidence": "UNKNOWN"
     }
    },
    "pronunciation": {
-    "english": "/ˈhoʊzɛf/",
-    "ipa": "ˈhoːzɛf"
+    "english": "",
+    "ipa": ""
    },
    "syllables": 1,
-   "name_length": 3,
+   "name_length": 4,
    "faqs": [
     {
-     "q": "Does José have a religious meaning?",
-     "a": "José is recorded as a christian name meaning “God will add”."
+     "q": "Is Jose suitable for a baby?",
+     "a": "Jose is used as a unknown given name; suitability is a personal choice."
     },
     {
-     "q": "What is the English meaning of José?",
-     "a": "In English, José is rendered as “God will add”."
+     "q": "What is the full form of Jose?",
+     "a": "Jose is the full recorded form; any short forms are listed in the nicknames field."
     },
     {
-     "q": "Is José suitable for a baby?",
-     "a": "José is used as a male given name; suitability is a personal choice."
+     "q": "Which culture uses the name Jose?",
+     "a": "Jose is used in uncertain origin naming traditions."
     },
     {
-     "q": "What is the full form of José?",
-     "a": "José is the full recorded form; any short forms are listed in the nicknames field."
+     "q": "Does Jose have a positive meaning?",
+     "a": "Jose carries the meaning “”."
     },
     {
-     "q": "Which culture uses the name José?",
-     "a": "José is used in Biblical naming traditions."
+     "q": "What does the name Jose mean?",
+     "a": "Jose means “”."
     },
     {
-     "q": "Does José have a positive meaning?",
-     "a": "José carries the meaning “God will add”."
+     "q": "What is the origin of the name Jose?",
+     "a": "Jose is of uncertain origin origin."
     },
     {
-     "q": "What does the name José mean?",
-     "a": "José means “God will add”."
+     "q": "Is Jose a unknown name?",
+     "a": "Jose is used as a unknown name."
     },
     {
-     "q": "What is the origin of the name José?",
-     "a": "José is of Biblical origin."
+     "q": "How many syllables does Jose have?",
+     "a": "Jose has 1 syllable."
     },
     {
-     "q": "Is José a male name?",
-     "a": "José is used as a male name."
+     "q": "How is Jose pronounced?",
+     "a": "Jose is pronounced as given in the pronunciation field of this record."
     },
     {
-     "q": "How many syllables does José have?",
-     "a": "José has 1 syllable."
+     "q": "What is the spiritual significance of Jose?",
+     "a": "Any spiritual significance attached to Jose is interpretive and is labelled as such in this record."
     },
     {
-     "q": "How is José pronounced?",
-     "a": "José is pronounced as given in the pronunciation field of this record."
+     "q": "Are there variant spellings of Jose?",
+     "a": "Variant spellings of Jose are listed in the variants field of this record."
     },
     {
-     "q": "What is the spiritual significance of José?",
-     "a": "Any spiritual significance attached to José is interpretive and is labelled as such in this record."
+     "q": "Is Jose a common name?",
+     "a": "Popularity figures for Jose have not been verified and are not published."
     }
    ]
   },
   "tier3_interpretive": {
    "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
    "numerology": {
-    "lucky_number": 8,
-    "life_path_number": 8,
-    "ruling_planet": "Saturn",
+    "lucky_number": 4,
+    "life_path_number": 4,
+    "ruling_planet": "Rahu",
     "lucky_day": "Saturday",
-    "lucky_stone": "Blue Sapphire",
+    "lucky_stone": "Hessonite",
     "lucky_colors": [
-     "Blue",
-     "Black"
+     "Grey",
+     "Blue"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of José total 8, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
+    "numerology_meaning": "In Pythagorean numerology the letters of Jose total 13, reducing to 4. Number 4 is associated with discipline, order and steady effort."
    },
    "personality_associations": [],
    "spiritual_symbolism": ""
@@ -489,9 +430,11 @@
   "verification": {
    "needs_manual_verification": true,
    "flags": [
+    "no_verified_meaning",
+    "origin_unverified",
     "meaning_not_independently_verified"
    ],
-   "confidence": "LOW",
+   "confidence": "UNKNOWN",
    "sources": []
   }
  }

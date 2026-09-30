@@ -1,98 +1,88 @@
 {
  "success": true,
  "data": {
-  "name": "Jesús",
-  "slug": "jes-s",
+  "name": "Jesus",
+  "slug": "jesus",
   "language": [
    "English",
+   "Hebrew",
    "Greek",
    "Latin"
   ],
   "gender": "Male",
-  "gender_notes": "Jesús is used as a male name in christian naming traditions.",
   "origin": "Biblical",
   "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Savior",
-  "long_meaning": "The name Jesús is recorded with the meaning “Savior”. Jesús is a Biblical name meaning “Savior”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Jesús expresses “Savior”; spiritual readings of the name are interpretive.",
+  "category": "Saint",
+  "short_meaning": "Savior, Deliverer",
+  "long_meaning": "The name Jesus is recorded with the meaning “Savior, Deliverer”. Jesus is a Biblical name meaning “Savior, Deliverer”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+  "spiritual_meaning": "Jesus expresses “Savior, Deliverer”; spiritual readings of the name are interpretive.",
   "emotional_traits": [],
   "hidden_personality_traits": [],
-  "etymology": "The name Jesús is recorded with the meaning “Savior”. Jesús is a Biblical name meaning “Savior”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "j-e-s-s",
-  "syllables": 1,
-  "name_length": 4,
-  "transliteration": [
-   "Jesús"
-  ],
-  "lucky_number": 8,
-  "lucky_day": "Saturday",
+  "lucky_number": 2,
+  "lucky_day": "Monday",
   "lucky_colors": [
-   "Blue",
-   "Black"
+   "White",
+   "Silver"
   ],
-  "lucky_stone": "Blue Sapphire",
-  "ruling_planet": "Saturn",
-  "life_path_number": 8,
-  "numerology_meaning": "In Pythagorean numerology the letters of Jesús total 8, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
+  "lucky_stone": "Pearl",
+  "life_path_number": 2,
+  "numerology_meaning": "In Pythagorean numerology the letters of Jesus total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
   "in_hebrew": {
-   "name": "יֵשׁוּעַ",
-   "meaning": "God saves",
-   "long_meaning": "יְהוָה (Yehovah) is salvation"
+   "name": "אשגון",
+   "meaning": "הרכ ברעון רקור",
+   "long_meaning": "אשגון ברעון אעור הרכ לוהים רוש איריור הריטוןיאת. ברעון רףור הרור אעור אשגון, אסאי האשים אעור, ברעון הרור אשגון אתויעיםיור."
   },
   "in_greek": {
-   "name": "Ἰησοῦς",
-   "meaning": "Jehovah is salvation",
-   "long_meaning": "Σωτήρ (Sotér) is God of salvation"
+   "name": "Ειυυσ",
+   "meaning": "Χερια μεπο ο γε υλθόασ τεσ",
+   "long_meaning": "Ειυυσ μεπο ο γε υλθόασ τεσ τε μετα τώυ τη ελεμοωη τυσ. Ειυυσ γε ενμερον της ελώμουσ τεσ, τε τώυσ γε υλθόασ τεσ."
   },
   "in_latin": {
-   "name": "Iesus",
-   "meaning": "Jehovah is salvation",
-   "long_meaning": "Deus salvator (God of salvation)"
+   "name": "Jesus",
+   "meaning": "Nomen sacerdotale significans salvatorem mundi",
+   "long_meaning": "Jesus nomen sacerdotale significans salvatorem mundi, a Iesu Iudaismo originis, per Ioannis Evangelium in Novo Testamento scripturae scriptum est. Iesu nomen in Ecclesia Christiana usitatum est, Christo Salvatore mundi significans. Iesu nomen a Sancta Trinitate, a Patre et Spiritu Sancto originis, in Ecclesia Christiana celebratur."
   },
   "in_english": {
-   "name": "Jesús",
-   "meaning": "Savior",
-   "long_meaning": "The name Jesús is recorded with the meaning “Savior”. Jesús is a Biblical name meaning “Savior”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
+   "name": "Jesus",
+   "meaning": "Savior, Deliverer",
+   "long_meaning": "The name Jesus is recorded with the meaning “Savior, Deliverer”. Jesus is a Biblical name meaning “Savior, Deliverer”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
   },
   "pronunciation": {
-   "english": "/ˈdʒeɪsəs/",
-   "biblical": "/ˈhi.zə.wəs/",
-   "ipa": "ˈjeʃu.su"
+   "english": "JAY-zus",
+   "biblical": "אשגון",
+   "ipa": "/ˈdʒeɪzəs/"
   },
-  "name_variations": [
-   "Jesús"
-  ],
-  "variants": [
-   "Jesús"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
   "celebrity_usage": [],
+  "social_tags": [
+   "#JesusMeaning",
+   "#ChristianBabyNames",
+   "#BibleNames",
+   "#ChristianNames",
+   "#Jesus"
+  ],
+  "name_variations": [
+   "Jesus"
+  ],
   "popularity_score": null,
   "popularity_by_region": [],
-  "cultural_impact": "Jesús is used in Biblical naming tradition with the meaning “Savior”.",
-  "spiritual_significance": "Any spiritual significance attached to Jesús is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Savior” is the basis of any symbolism attached to Jesús; such symbolism is interpretive.",
   "biblical_reference": {
    "is_biblical": true,
    "origin_scripture": "New Testament",
-   "verse_reference": "Matthew 1:21",
-   "note": "Jesus is the name given to the son of Mary and Joseph, who is believed to be the Messiah (Christ) in Christian theology."
+   "verse_reference": "Matthew 1:21, John 1:1",
+   "note": "Iesu name in the New Testament scripture, referring to Jesus Christ, the savior of the world."
   },
+  "saint_reference": {
+   "is_saint_name": true,
+   "saint_name": "Jesus",
+   "note": "In the Christian tradition, Jesus Christ is revered as the savior of the world, the savior of humanity."
+  },
+  "cultural_impact": "Jesus is used in Biblical naming tradition with the meaning “Savior, Deliverer”.",
+  "spiritual_significance": "Any spiritual significance attached to Jesus is interpretive and is labelled as such.",
   "historical_references": [],
   "modern_usage": {
    "trends": [],
    "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Jesús."
+   "modern_context": "No verified modern-usage statistics are published for Jesus."
   },
   "name_in_real_life": {
    "person_name": "",
@@ -100,121 +90,152 @@
    "story": "",
    "note": "No verified real-life bearer is published for this name."
   },
-  "social_tags": [
-   "#JesúsMeaning",
-   "#ChristianBabyNames"
-  ],
-  "monetization": {
-   "affiliate_links": [
-    {
-     "text": "Shop for Jesús-inspired baby gifts on Amazon",
-     "link": "https://www.amazon.com/s?k=jesus+baby"
-    },
-    {
-     "text": "Explore Jesús-themed baby clothes on Etsy",
-     "link": "https://www.etsy.com/search/jesus"
-    }
-   ],
-   "google_ads": {
-    "publisher_id": "ca-pub-12345678901234",
-    "ad_unit_id": "1234567890"
-   }
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
+  "spiritual_symbolism": "The meaning “Savior, Deliverer” is the basis of any symbolism attached to Jesus; such symbolism is interpretive.",
   "seo": {
-   "title": "Jesús Name Meaning – Savior (Biblical)",
-   "meta_description": "Jesús is a Biblical name meaning “Savior”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Jesús, Jesús name meaning, Jesús meaning, Jesús origin, Jesús root, Jesús pronunciation, Biblical names",
-   "description_paragraph": "Jesús is a Biblical name meaning “Savior”.",
+   "title": "Jesus Name Meaning – Savior, Deliverer (Biblical)",
+   "meta_description": "Jesus is a Biblical name meaning “Savior, Deliverer”. Verified meaning, origin, root, pronunciation and FAQs.",
+   "meta_keywords": "Jesus, Jesus name meaning, Jesus meaning, Jesus origin, Jesus root, Jesus pronunciation, Biblical names",
+   "description_paragraph": "Jesus is a Biblical name meaning “Savior, Deliverer”.",
    "keywords": [
-    "Jesús",
-    "Jesús name meaning",
-    "Jesús meaning",
-    "Jesús origin",
-    "Jesús root",
-    "Jesús pronunciation",
+    "Jesus",
+    "Jesus name meaning",
+    "Jesus meaning",
+    "Jesus origin",
+    "Jesus root",
+    "Jesus pronunciation",
     "Biblical names"
    ],
-   "focus_keyword": "Jesús name meaning",
+   "focus_keyword": "Jesus name meaning",
    "secondary_keywords": [
-    "Jesús meaning",
-    "Jesús origin",
-    "Jesús pronunciation",
-    "Jesús lucky number"
+    "Jesus meaning",
+    "Jesus origin",
+    "Jesus pronunciation",
+    "Jesus lucky number"
    ],
-   "canonical_url": "https://namemeaning.example/name/jes-s",
+   "canonical_url": "https://namemeaning.example/name/jesus",
    "seo_score": 70,
    "faq": [
     {
-     "q": "Is Jesús a male name?",
-     "a": "Jesús is used as a male name."
+     "q": "What is the English meaning of Jesus?",
+     "a": "In English, Jesus is rendered as “Savior, Deliverer”."
     },
     {
-     "q": "How many syllables does Jesús have?",
-     "a": "Jesús has 1 syllable."
+     "q": "Is Jesus suitable for a baby?",
+     "a": "Jesus is used as a male given name; suitability is a personal choice."
     },
     {
-     "q": "How is Jesús pronounced?",
-     "a": "Jesús is pronounced as given in the pronunciation field of this record."
+     "q": "What is the full form of Jesus?",
+     "a": "Jesus is the full recorded form; any short forms are listed in the nicknames field."
     },
     {
-     "q": "What is the spiritual significance of Jesús?",
-     "a": "Any spiritual significance attached to Jesús is interpretive and is labelled as such in this record."
+     "q": "Which culture uses the name Jesus?",
+     "a": "Jesus is used in Biblical naming traditions."
     },
     {
-     "q": "Are there variant spellings of Jesús?",
-     "a": "Variant spellings of Jesús are listed in the variants field of this record."
+     "q": "Does Jesus have a positive meaning?",
+     "a": "Jesus carries the meaning “Savior, Deliverer”."
     },
     {
-     "q": "Is Jesús a common name?",
-     "a": "Popularity figures for Jesús have not been verified and are not published."
+     "q": "What does the name Jesus mean?",
+     "a": "Jesus means “Savior, Deliverer”."
     },
     {
-     "q": "What does the name Jesús say about a child?",
-     "a": "The name Jesús expresses “Savior”; any character association drawn from it is interpretive."
+     "q": "What is the origin of the name Jesus?",
+     "a": "Jesus is of Biblical origin."
     },
     {
-     "q": "Can Jesús be used in another language?",
-     "a": "Jesús is recorded in Biblical; its script forms in other languages are given in the translations field."
+     "q": "Is Jesus a male name?",
+     "a": "Jesus is used as a male name."
     },
     {
-     "q": "Is Jesús mentioned in scripture?",
-     "a": "No scriptural reference for Jesús has been verified; the record is flagged for source verification."
+     "q": "How many syllables does Jesus have?",
+     "a": "Jesus has 2 syllables."
     },
     {
-     "q": "What is the lucky number for Jesús?",
-     "a": "The Pythagorean lucky number for Jesús is 8 (ruling planet Saturn). This is an interpretive association, not a factual claim."
+     "q": "How is Jesus pronounced?",
+     "a": "Jesus is pronounced as given in the pronunciation field of this record."
     },
     {
-     "q": "Which day is associated with Jesús?",
-     "a": "Saturday is the traditional association for Jesús. This is interpretive."
+     "q": "What is the spiritual significance of Jesus?",
+     "a": "Any spiritual significance attached to Jesus is interpretive and is labelled as such in this record."
     },
     {
-     "q": "Which gemstone is associated with Jesús?",
-     "a": "Blue Sapphire is the traditional association for Jesús. This is interpretive."
+     "q": "Are there variant spellings of Jesus?",
+     "a": "Variant spellings of Jesus are listed in the variants field of this record."
     }
    ]
   },
-  "seo_title": "Jesús Name Meaning – Savior (Biblical)",
-  "meta_description": "Jesús is a Biblical name meaning “Savior”. Verified meaning, origin, root, pronunciation and FAQs.",
+  "monetization": {
+   "ad_places": [
+    {
+     "location": "header",
+     "type": "image"
+    },
+    {
+     "location": "article_middle",
+     "type": "text"
+    },
+    {
+     "location": "footer",
+     "type": "text"
+    }
+   ],
+   "affiliate_links": [
+    {
+     "product": "Bible",
+     "url": "https://www.example.com/bible"
+    },
+    {
+     "product": "Religious Art",
+     "url": "https://www.example.com/religious-art"
+    },
+    {
+     "product": "Spiritual Books",
+     "url": "https://www.example.com/spiritual-books"
+    }
+   ]
+  },
+  "updated_at": "2025-12-23T04:50:20.785Z",
+  "similar_sounding_names": [],
+  "gender_notes": "Jesus is used as a male name in christian naming traditions.",
+  "root": "",
+  "etymology": "The name Jesus is recorded with the meaning “Savior, Deliverer”. Jesus is a Biblical name meaning “Savior, Deliverer”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+  "language_root": "Biblical",
+  "root_letters": "j-e-s-u-s",
+  "syllables": 2,
+  "name_length": 5,
+  "transliteration": [
+   "Jesus"
+  ],
+  "culture": [
+   "Biblical"
+  ],
+  "ruling_planet": "Moon",
+  "variants": [
+   "Jesus"
+  ],
+  "diminutives": [],
+  "nicknames": [],
+  "related_names": [],
+  "notable_people": [],
+  "seo_title": "Jesus Name Meaning – Savior, Deliverer (Biblical)",
+  "meta_description": "Jesus is a Biblical name meaning “Savior, Deliverer”. Verified meaning, origin, root, pronunciation and FAQs.",
   "keywords": [
-   "Jesús",
-   "Jesús name meaning",
-   "Jesús meaning",
-   "Jesús origin",
-   "Jesús root",
-   "Jesús pronunciation",
+   "Jesus",
+   "Jesus name meaning",
+   "Jesus meaning",
+   "Jesus origin",
+   "Jesus root",
+   "Jesus pronunciation",
    "Biblical names"
   ],
-  "canonical_url": "https://namemeaning.example/name/jes-s",
-  "intro_paragraph": "Jesús is a Biblical name meaning “Savior”.",
+  "canonical_url": "https://namemeaning.example/name/jesus",
+  "intro_paragraph": "Jesus is a Biblical name meaning “Savior, Deliverer”.",
   "structured_data": {
    "@context": "https://schema.org",
    "@type": "Thing",
-   "name": "Jesús",
-   "description": "Jesús — Savior",
+   "name": "Jesus",
+   "description": "Jesus — Savior, Deliverer",
    "additionalType": "https://schema.org/Person"
   },
   "structured_data_faq": {
@@ -223,98 +244,98 @@
    "mainEntity": [
     {
      "@type": "Question",
-     "name": "Is Jesús a male name?",
+     "name": "What is the English meaning of Jesus?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Jesús is used as a male name."
+      "text": "In English, Jesus is rendered as “Savior, Deliverer”."
      }
     },
     {
      "@type": "Question",
-     "name": "How many syllables does Jesús have?",
+     "name": "Is Jesus suitable for a baby?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Jesús has 1 syllable."
+      "text": "Jesus is used as a male given name; suitability is a personal choice."
      }
     },
     {
      "@type": "Question",
-     "name": "How is Jesús pronounced?",
+     "name": "What is the full form of Jesus?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Jesús is pronounced as given in the pronunciation field of this record."
+      "text": "Jesus is the full recorded form; any short forms are listed in the nicknames field."
      }
     },
     {
      "@type": "Question",
-     "name": "What is the spiritual significance of Jesús?",
+     "name": "Which culture uses the name Jesus?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Any spiritual significance attached to Jesús is interpretive and is labelled as such in this record."
+      "text": "Jesus is used in Biblical naming traditions."
      }
     },
     {
      "@type": "Question",
-     "name": "Are there variant spellings of Jesús?",
+     "name": "Does Jesus have a positive meaning?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Variant spellings of Jesús are listed in the variants field of this record."
+      "text": "Jesus carries the meaning “Savior, Deliverer”."
      }
     },
     {
      "@type": "Question",
-     "name": "Is Jesús a common name?",
+     "name": "What does the name Jesus mean?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Popularity figures for Jesús have not been verified and are not published."
+      "text": "Jesus means “Savior, Deliverer”."
      }
     },
     {
      "@type": "Question",
-     "name": "What does the name Jesús say about a child?",
+     "name": "What is the origin of the name Jesus?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The name Jesús expresses “Savior”; any character association drawn from it is interpretive."
+      "text": "Jesus is of Biblical origin."
      }
     },
     {
      "@type": "Question",
-     "name": "Can Jesús be used in another language?",
+     "name": "Is Jesus a male name?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Jesús is recorded in Biblical; its script forms in other languages are given in the translations field."
+      "text": "Jesus is used as a male name."
      }
     },
     {
      "@type": "Question",
-     "name": "Is Jesús mentioned in scripture?",
+     "name": "How many syllables does Jesus have?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "No scriptural reference for Jesús has been verified; the record is flagged for source verification."
+      "text": "Jesus has 2 syllables."
      }
     },
     {
      "@type": "Question",
-     "name": "What is the lucky number for Jesús?",
+     "name": "How is Jesus pronounced?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The Pythagorean lucky number for Jesús is 8 (ruling planet Saturn). This is an interpretive association, not a factual claim."
+      "text": "Jesus is pronounced as given in the pronunciation field of this record."
      }
     },
     {
      "@type": "Question",
-     "name": "Which day is associated with Jesús?",
+     "name": "What is the spiritual significance of Jesus?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Saturday is the traditional association for Jesús. This is interpretive."
+      "text": "Any spiritual significance attached to Jesus is interpretive and is labelled as such in this record."
      }
     },
     {
      "@type": "Question",
-     "name": "Which gemstone is associated with Jesús?",
+     "name": "Are there variant spellings of Jesus?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Blue Sapphire is the traditional association for Jesús. This is interpretive."
+      "text": "Variant spellings of Jesus are listed in the variants field of this record."
      }
     }
    ]
@@ -338,8 +359,8 @@
     {
      "@type": "ListItem",
      "position": 3,
-     "name": "Jesús",
-     "item": "https://namemeaning.example/name/jes-s"
+     "name": "Jesus",
+     "item": "https://namemeaning.example/name/jesus"
     }
    ]
   },
@@ -352,7 +373,7 @@
     "cdn_optimized": true
    },
    "content_seo": {
-    "word_count": 50,
+    "word_count": 52,
     "readability_score": "A",
     "keyword_density": "optimal",
     "internal_linking": true
@@ -381,17 +402,16 @@
    "authenticity_flags": [
     "meaning_not_independently_verified"
    ],
-   "fields_total": 69
+   "fields_total": 40
   },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
   "tier1_verified": {
-   "name": "Jesús",
-   "slug": "jes-s",
-   "meaning": "Savior",
+   "name": "Jesus",
+   "slug": "jesus",
+   "meaning": "Savior, Deliverer",
    "origin": "Biblical",
    "language": [
     "English",
+    "Hebrew",
     "Greek",
     "Latin"
    ],
@@ -399,90 +419,90 @@
    "root": "",
    "etymology": "",
    "script": {},
-   "transliteration": "Jesús",
+   "transliteration": "Jesus",
    "reference": "",
    "confidence": "LOW"
   },
   "tier2_explanatory": {
-   "short_meaning": "Savior",
-   "long_meaning": "The name Jesús is recorded with the meaning “Savior”. Jesús is a Biblical name meaning “Savior”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+   "short_meaning": "Savior, Deliverer",
+   "long_meaning": "The name Jesus is recorded with the meaning “Savior, Deliverer”. Jesus is a Biblical name meaning “Savior, Deliverer”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
    "translations": {
     "english": {
-     "name": "Jesús",
-     "meaning": "Savior",
+     "name": "Jesus",
+     "meaning": "Savior, Deliverer",
      "confidence": "LOW"
     }
    },
    "pronunciation": {
-    "english": "/ˈdʒeɪsəs/",
-    "ipa": "ˈjeʃu.su"
+    "english": "JAY-zus",
+    "ipa": "/ˈdʒeɪzəs/"
    },
-   "syllables": 1,
-   "name_length": 4,
+   "syllables": 2,
+   "name_length": 5,
    "faqs": [
     {
-     "q": "Is Jesús a male name?",
-     "a": "Jesús is used as a male name."
+     "q": "What is the English meaning of Jesus?",
+     "a": "In English, Jesus is rendered as “Savior, Deliverer”."
     },
     {
-     "q": "How many syllables does Jesús have?",
-     "a": "Jesús has 1 syllable."
+     "q": "Is Jesus suitable for a baby?",
+     "a": "Jesus is used as a male given name; suitability is a personal choice."
     },
     {
-     "q": "How is Jesús pronounced?",
-     "a": "Jesús is pronounced as given in the pronunciation field of this record."
+     "q": "What is the full form of Jesus?",
+     "a": "Jesus is the full recorded form; any short forms are listed in the nicknames field."
     },
     {
-     "q": "What is the spiritual significance of Jesús?",
-     "a": "Any spiritual significance attached to Jesús is interpretive and is labelled as such in this record."
+     "q": "Which culture uses the name Jesus?",
+     "a": "Jesus is used in Biblical naming traditions."
     },
     {
-     "q": "Are there variant spellings of Jesús?",
-     "a": "Variant spellings of Jesús are listed in the variants field of this record."
+     "q": "Does Jesus have a positive meaning?",
+     "a": "Jesus carries the meaning “Savior, Deliverer”."
     },
     {
-     "q": "Is Jesús a common name?",
-     "a": "Popularity figures for Jesús have not been verified and are not published."
+     "q": "What does the name Jesus mean?",
+     "a": "Jesus means “Savior, Deliverer”."
     },
     {
-     "q": "What does the name Jesús say about a child?",
-     "a": "The name Jesús expresses “Savior”; any character association drawn from it is interpretive."
+     "q": "What is the origin of the name Jesus?",
+     "a": "Jesus is of Biblical origin."
     },
     {
-     "q": "Can Jesús be used in another language?",
-     "a": "Jesús is recorded in Biblical; its script forms in other languages are given in the translations field."
+     "q": "Is Jesus a male name?",
+     "a": "Jesus is used as a male name."
     },
     {
-     "q": "Is Jesús mentioned in scripture?",
-     "a": "No scriptural reference for Jesús has been verified; the record is flagged for source verification."
+     "q": "How many syllables does Jesus have?",
+     "a": "Jesus has 2 syllables."
     },
     {
-     "q": "What is the lucky number for Jesús?",
-     "a": "The Pythagorean lucky number for Jesús is 8 (ruling planet Saturn). This is an interpretive association, not a factual claim."
+     "q": "How is Jesus pronounced?",
+     "a": "Jesus is pronounced as given in the pronunciation field of this record."
     },
     {
-     "q": "Which day is associated with Jesús?",
-     "a": "Saturday is the traditional association for Jesús. This is interpretive."
+     "q": "What is the spiritual significance of Jesus?",
+     "a": "Any spiritual significance attached to Jesus is interpretive and is labelled as such in this record."
     },
     {
-     "q": "Which gemstone is associated with Jesús?",
-     "a": "Blue Sapphire is the traditional association for Jesús. This is interpretive."
+     "q": "Are there variant spellings of Jesus?",
+     "a": "Variant spellings of Jesus are listed in the variants field of this record."
     }
    ]
   },
   "tier3_interpretive": {
    "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
    "numerology": {
-    "lucky_number": 8,
-    "life_path_number": 8,
-    "ruling_planet": "Saturn",
-    "lucky_day": "Saturday",
-    "lucky_stone": "Blue Sapphire",
+    "lucky_number": 2,
+    "life_path_number": 2,
+    "ruling_planet": "Moon",
+    "lucky_day": "Monday",
+    "lucky_stone": "Pearl",
     "lucky_colors": [
-     "Blue",
-     "Black"
+     "White",
+     "Silver"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Jesús total 8, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
+    "numerology_meaning": "In Pythagorean numerology the letters of Jesus total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
    },
    "personality_associations": [],
    "spiritual_symbolism": ""

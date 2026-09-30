@@ -1,99 +1,86 @@
 {
  "success": true,
  "data": {
-  "name": "Léontine",
-  "slug": "l-ontine",
+  "name": "Leontine",
+  "slug": "leontine",
   "language": [
    "English",
-   "Hebrew",
    "Greek",
    "Latin"
   ],
-  "gender": "Unisex",
-  "gender_notes": "Léontine is used as a unisex name in christian naming traditions.",
+  "gender": "Female",
   "origin": "Biblical",
   "religion": "christian",
   "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Lion",
-  "long_meaning": "The name Léontine is recorded with the meaning “Lion”. Léontine is a Biblical name meaning “Lion”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Léontine expresses “Lion”; spiritual readings of the name are interpretive.",
+  "short_meaning": "Lioness",
+  "long_meaning": "The name Leontine is recorded with the meaning “Lioness”. Leontine is a Biblical name meaning “Lioness”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+  "spiritual_meaning": "Leontine expresses “Lioness”; spiritual readings of the name are interpretive.",
   "emotional_traits": [],
   "hidden_personality_traits": [],
-  "etymology": "The name Léontine is recorded with the meaning “Lion”. Léontine is a Biblical name meaning “Lion”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "l-o-n-t-i-n-e",
-  "syllables": 2,
-  "name_length": 7,
-  "transliteration": [
-   "Léontine"
-  ],
-  "lucky_number": 8,
+  "lucky_number": 4,
   "lucky_day": "Saturday",
   "lucky_colors": [
-   "Blue",
-   "Black"
+   "Grey",
+   "Blue"
   ],
-  "lucky_stone": "Blue Sapphire",
-  "ruling_planet": "Saturn",
-  "life_path_number": 8,
-  "numerology_meaning": "In Pythagorean numerology the letters of Léontine total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
+  "lucky_stone": "Hessonite",
+  "life_path_number": 4,
+  "numerology_meaning": "In Pythagorean numerology the letters of Leontine total 40, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
   "in_hebrew": {
-   "name": "לאונטין",
-   "meaning": "שם מלכותי ואצילי לבת",
-   "long_meaning": "שם לאונטין מקורו ביוונית, לאון, מלך, ונתנה, מתנה, ומשמעותו מלכותית ואצילית, וניתנה כמתנה מאלוהים"
+   "name": "ליאונטין",
+   "meaning": "השם ליאונטין משמעותו לביאה או שועל",
+   "long_meaning": "השם ליאונטין הוא נגזרת של השם היווני Λεοντίνη, שפירושו 'לביאה' או 'שועל'. השם נגזר מהמילה היוונית λεων, שפירושו 'אריה', ומשמש כסמלה של גבורה וכוח. במסורת הנוצרית, השם ליאונטין משויך לאיכויות של אומץ וגבורה."
   },
   "in_greek": {
    "name": "Λεοντίνη",
-   "meaning": "βασιλική και αριστοκρατική για κορίτσι",
-   "long_meaning": "το όνομα Λεοντίνη προέρχεται από το ελληνικό λέον, βασιλιάς, και τίνη, δόση, και σημαίνει βασιλική και αριστοκρατική, και δόθηκε ως δώρο από τον Θεό"
+   "meaning": "Το όνομα Λεοντίνη σημαίνει λιοντάρι ή θηρίο",
+   "long_meaning": "Το όνομα Λεοντίνη προέρχεται από το ελληνικό όνομα Λεων, που σημαίνει 'λιοντάρι' ή 'θηρίο'. Στην Καινή Διαθήκη, το όνομα Λεων δεν αναφέρεται άμεσα, αλλά η σημασία του ονόματος συνδέεται με την έννοια της δύναμης και του θάρρους. Η Λεοντίνη είναι ένα όνομα που συμβολίζει την ανδρεία και τη γενναιότητα."
   },
   "in_latin": {
-   "name": "Leontina",
-   "meaning": "regia et nobilis puella",
-   "long_meaning": "nomen Leontina ortum est a Graeco λέων, rex, et τίνη, dos, et significat regiam et nobilem, et data est tanquam donum a Deo"
+   "name": "Leontine",
+   "meaning": "The name Leontine means lion-like or brave",
+   "long_meaning": "The name Leontine is derived from the Greek name Λεοντίνη, which means 'lion-like' or 'brave'. In the early Christian church, the name Leontine was associated with the qualities of courage and strength. The name is connected to the Latin word 'leo', meaning 'lion', which symbolizes power and valor."
   },
   "in_english": {
-   "name": "Léontine",
-   "meaning": "Lion",
-   "long_meaning": "The name Léontine is recorded with the meaning “Lion”. Léontine is a Biblical name meaning “Lion”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
+   "name": "Leontine",
+   "meaning": "Lioness",
+   "long_meaning": "The name Leontine is recorded with the meaning “Lioness”. Leontine is a Biblical name meaning “Lioness”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
   },
   "pronunciation": {
-   "english": "LAY-ohn-teen",
-   "biblical": "not directly mentioned",
-   "ipa": "/leɔ̃tin/"
+   "english": "lee-ON-teen",
+   "biblical": "",
+   "ipa": "/liˈɒntiːn/"
   },
-  "name_variations": [
-   "Léontine"
-  ],
-  "variants": [
-   "Léontine"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
   "celebrity_usage": [],
+  "social_tags": [
+   "#LeontineMeaning",
+   "#ChristianBabyNames",
+   "#BibleInspiredNames",
+   "#Leontine"
+  ],
+  "name_variations": [
+   "Leontine"
+  ],
   "popularity_score": null,
   "popularity_by_region": [],
-  "cultural_impact": "Léontine is used in Biblical naming tradition with the meaning “Lion”.",
-  "spiritual_significance": "Any spiritual significance attached to Léontine is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Lion” is the basis of any symbolism attached to Léontine; such symbolism is interpretive.",
   "biblical_reference": {
    "is_biblical": false,
    "origin_scripture": "",
    "verse_reference": "",
-   "note": "not directly mentioned in the Bible"
+   "note": ""
   },
+  "saint_reference": {
+   "is_saint_name": false,
+   "saint_name": "",
+   "note": ""
+  },
+  "cultural_impact": "Leontine is used in Biblical naming tradition with the meaning “Lioness”.",
+  "spiritual_significance": "Any spiritual significance attached to Leontine is interpretive and is labelled as such.",
   "historical_references": [],
   "modern_usage": {
    "trends": [],
    "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Léontine."
+   "modern_context": "No verified modern-usage statistics are published for Leontine."
   },
   "name_in_real_life": {
    "person_name": "",
@@ -101,124 +88,125 @@
    "story": "",
    "note": "No verified real-life bearer is published for this name."
   },
-  "social_tags": [
-   "#LéontineMeaning",
-   "#ChristianBabyNames",
-   "#FrenchNames",
-   "#Léontine"
-  ],
-  "monetization": {
-   "ads": {
-    "header": "Related Products and Services for Léontine",
-    "ad_units": [
-     "large_rectangle",
-     "leaderboard"
-    ]
-   },
-   "affiliate": {
-    "title": "Explore Products and Services Related to Léontine",
-    "categories": [
-     "Baby Clothes",
-     "Baby Toys",
-     "Baby Gear"
-    ]
-   }
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
+  "spiritual_symbolism": "The meaning “Lioness” is the basis of any symbolism attached to Leontine; such symbolism is interpretive.",
   "seo": {
-   "title": "Léontine Name Meaning – Lion (Biblical)",
-   "meta_description": "Léontine is a Biblical name meaning “Lion”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Léontine, Léontine name meaning, Léontine meaning, Léontine origin, Léontine root, Léontine pronunciation, Biblical names",
-   "description_paragraph": "Léontine is a Biblical name meaning “Lion”.",
+   "title": "Leontine Name Meaning – Lioness (Biblical)",
+   "meta_description": "Leontine is a Biblical name meaning “Lioness”. Verified meaning, origin, root, pronunciation and FAQs.",
+   "meta_keywords": "Leontine, Leontine name meaning, Leontine meaning, Leontine origin, Leontine root, Leontine pronunciation, Biblical names",
+   "description_paragraph": "Leontine is a Biblical name meaning “Lioness”.",
    "keywords": [
-    "Léontine",
-    "Léontine name meaning",
-    "Léontine meaning",
-    "Léontine origin",
-    "Léontine root",
-    "Léontine pronunciation",
+    "Leontine",
+    "Leontine name meaning",
+    "Leontine meaning",
+    "Leontine origin",
+    "Leontine root",
+    "Leontine pronunciation",
     "Biblical names"
    ],
-   "focus_keyword": "Léontine name meaning",
+   "focus_keyword": "Leontine name meaning",
    "secondary_keywords": [
-    "Léontine meaning",
-    "Léontine origin",
-    "Léontine pronunciation",
-    "Léontine lucky number"
+    "Leontine meaning",
+    "Leontine origin",
+    "Leontine pronunciation",
+    "Leontine lucky number"
    ],
-   "canonical_url": "https://namemeaning.example/name/l-ontine",
+   "canonical_url": "https://namemeaning.example/name/leontine",
    "seo_score": 70,
    "faq": [
     {
-     "q": "What is the English meaning of Léontine?",
-     "a": "In English, Léontine is rendered as “Lion”."
+     "q": "Is Leontine mentioned in scripture?",
+     "a": "No scriptural reference for Leontine has been verified; the record is flagged for source verification."
     },
     {
-     "q": "Is Léontine suitable for a baby?",
-     "a": "Léontine is used as a unisex given name; suitability is a personal choice."
+     "q": "What is the lucky number for Leontine?",
+     "a": "The Pythagorean lucky number for Leontine is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
     },
     {
-     "q": "What is the full form of Léontine?",
-     "a": "Léontine is the full recorded form; any short forms are listed in the nicknames field."
+     "q": "Which day is associated with Leontine?",
+     "a": "Saturday is the traditional association for Leontine. This is interpretive."
     },
     {
-     "q": "Which culture uses the name Léontine?",
-     "a": "Léontine is used in Biblical naming traditions."
+     "q": "Which gemstone is associated with Leontine?",
+     "a": "Hessonite is the traditional association for Leontine. This is interpretive."
     },
     {
-     "q": "Does Léontine have a positive meaning?",
-     "a": "Léontine carries the meaning “Lion”."
+     "q": "Which colours are associated with Leontine?",
+     "a": "Grey, Blue are the traditional associations for Leontine. These are interpretive."
     },
     {
-     "q": "What does the name Léontine mean?",
-     "a": "Léontine means “Lion”."
+     "q": "What is the numerology of Leontine?",
+     "a": "In Pythagorean numerology the letters of Leontine total 40, reducing to 4. Number 4 is associated with discipline, order and steady effort."
     },
     {
-     "q": "What is the origin of the name Léontine?",
-     "a": "Léontine is of Biblical origin."
+     "q": "How reliable is the meaning given for Leontine?",
+     "a": "The meaning of Leontine carries confidence LOW in this record. It is flagged for source verification."
     },
     {
-     "q": "Is Léontine a unisex name?",
-     "a": "Léontine is used as a unisex name."
+     "q": "Does Leontine have a religious meaning?",
+     "a": "Leontine is recorded as a christian name meaning “Lioness”."
     },
     {
-     "q": "How many syllables does Léontine have?",
-     "a": "Léontine has 2 syllables."
+     "q": "What is the English meaning of Leontine?",
+     "a": "In English, Leontine is rendered as “Lioness”."
     },
     {
-     "q": "How is Léontine pronounced?",
-     "a": "Léontine is pronounced as given in the pronunciation field of this record."
+     "q": "Is Leontine suitable for a baby?",
+     "a": "Leontine is used as a female given name; suitability is a personal choice."
     },
     {
-     "q": "What is the spiritual significance of Léontine?",
-     "a": "Any spiritual significance attached to Léontine is interpretive and is labelled as such in this record."
+     "q": "What is the full form of Leontine?",
+     "a": "Leontine is the full recorded form; any short forms are listed in the nicknames field."
     },
     {
-     "q": "Are there variant spellings of Léontine?",
-     "a": "Variant spellings of Léontine are listed in the variants field of this record."
+     "q": "Which culture uses the name Leontine?",
+     "a": "Leontine is used in Biblical naming traditions."
     }
    ]
   },
-  "seo_title": "Léontine Name Meaning – Lion (Biblical)",
-  "meta_description": "Léontine is a Biblical name meaning “Lion”. Verified meaning, origin, root, pronunciation and FAQs.",
+  "monetization": {
+   "ad_unit_id": "ca-pub-1234567890123456"
+  },
+  "updated_at": "2025-12-23T04:50:21.669Z",
+  "similar_sounding_names": [],
+  "gender_notes": "Leontine is used as a female name in christian naming traditions.",
+  "root": "",
+  "etymology": "The name Leontine is recorded with the meaning “Lioness”. Leontine is a Biblical name meaning “Lioness”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+  "language_root": "Biblical",
+  "root_letters": "l-e-o-n-t-i-n-e",
+  "syllables": 2,
+  "name_length": 8,
+  "transliteration": [
+   "Leontine"
+  ],
+  "culture": [
+   "Biblical"
+  ],
+  "ruling_planet": "Rahu",
+  "variants": [
+   "Leontine"
+  ],
+  "diminutives": [],
+  "nicknames": [],
+  "related_names": [],
+  "notable_people": [],
+  "seo_title": "Leontine Name Meaning – Lioness (Biblical)",
+  "meta_description": "Leontine is a Biblical name meaning “Lioness”. Verified meaning, origin, root, pronunciation and FAQs.",
   "keywords": [
-   "Léontine",
-   "Léontine name meaning",
-   "Léontine meaning",
-   "Léontine origin",
-   "Léontine root",
-   "Léontine pronunciation",
+   "Leontine",
+   "Leontine name meaning",
+   "Leontine meaning",
+   "Leontine origin",
+   "Leontine root",
+   "Leontine pronunciation",
    "Biblical names"
   ],
-  "canonical_url": "https://namemeaning.example/name/l-ontine",
-  "intro_paragraph": "Léontine is a Biblical name meaning “Lion”.",
+  "canonical_url": "https://namemeaning.example/name/leontine",
+  "intro_paragraph": "Leontine is a Biblical name meaning “Lioness”.",
   "structured_data": {
    "@context": "https://schema.org",
    "@type": "Thing",
-   "name": "Léontine",
-   "description": "Léontine — Lion",
+   "name": "Leontine",
+   "description": "Leontine — Lioness",
    "additionalType": "https://schema.org/Person"
   },
   "structured_data_faq": {
@@ -227,98 +215,98 @@
    "mainEntity": [
     {
      "@type": "Question",
-     "name": "What is the English meaning of Léontine?",
+     "name": "Is Leontine mentioned in scripture?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "In English, Léontine is rendered as “Lion”."
+      "text": "No scriptural reference for Leontine has been verified; the record is flagged for source verification."
      }
     },
     {
      "@type": "Question",
-     "name": "Is Léontine suitable for a baby?",
+     "name": "What is the lucky number for Leontine?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Léontine is used as a unisex given name; suitability is a personal choice."
+      "text": "The Pythagorean lucky number for Leontine is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
      }
     },
     {
      "@type": "Question",
-     "name": "What is the full form of Léontine?",
+     "name": "Which day is associated with Leontine?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Léontine is the full recorded form; any short forms are listed in the nicknames field."
+      "text": "Saturday is the traditional association for Leontine. This is interpretive."
      }
     },
     {
      "@type": "Question",
-     "name": "Which culture uses the name Léontine?",
+     "name": "Which gemstone is associated with Leontine?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Léontine is used in Biblical naming traditions."
+      "text": "Hessonite is the traditional association for Leontine. This is interpretive."
      }
     },
     {
      "@type": "Question",
-     "name": "Does Léontine have a positive meaning?",
+     "name": "Which colours are associated with Leontine?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Léontine carries the meaning “Lion”."
+      "text": "Grey, Blue are the traditional associations for Leontine. These are interpretive."
      }
     },
     {
      "@type": "Question",
-     "name": "What does the name Léontine mean?",
+     "name": "What is the numerology of Leontine?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Léontine means “Lion”."
+      "text": "In Pythagorean numerology the letters of Leontine total 40, reducing to 4. Number 4 is associated with discipline, order and steady effort."
      }
     },
     {
      "@type": "Question",
-     "name": "What is the origin of the name Léontine?",
+     "name": "How reliable is the meaning given for Leontine?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Léontine is of Biblical origin."
+      "text": "The meaning of Leontine carries confidence LOW in this record. It is flagged for source verification."
      }
     },
     {
      "@type": "Question",
-     "name": "Is Léontine a unisex name?",
+     "name": "Does Leontine have a religious meaning?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Léontine is used as a unisex name."
+      "text": "Leontine is recorded as a christian name meaning “Lioness”."
      }
     },
     {
      "@type": "Question",
-     "name": "How many syllables does Léontine have?",
+     "name": "What is the English meaning of Leontine?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Léontine has 2 syllables."
+      "text": "In English, Leontine is rendered as “Lioness”."
      }
     },
     {
      "@type": "Question",
-     "name": "How is Léontine pronounced?",
+     "name": "Is Leontine suitable for a baby?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Léontine is pronounced as given in the pronunciation field of this record."
+      "text": "Leontine is used as a female given name; suitability is a personal choice."
      }
     },
     {
      "@type": "Question",
-     "name": "What is the spiritual significance of Léontine?",
+     "name": "What is the full form of Leontine?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Any spiritual significance attached to Léontine is interpretive and is labelled as such in this record."
+      "text": "Leontine is the full recorded form; any short forms are listed in the nicknames field."
      }
     },
     {
      "@type": "Question",
-     "name": "Are there variant spellings of Léontine?",
+     "name": "Which culture uses the name Leontine?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Variant spellings of Léontine are listed in the variants field of this record."
+      "text": "Leontine is used in Biblical naming traditions."
      }
     }
    ]
@@ -342,8 +330,8 @@
     {
      "@type": "ListItem",
      "position": 3,
-     "name": "Léontine",
-     "item": "https://namemeaning.example/name/l-ontine"
+     "name": "Leontine",
+     "item": "https://namemeaning.example/name/leontine"
     }
    ]
   },
@@ -385,109 +373,106 @@
    "authenticity_flags": [
     "meaning_not_independently_verified"
    ],
-   "fields_total": 69
+   "fields_total": 40
   },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
   "tier1_verified": {
-   "name": "Léontine",
-   "slug": "l-ontine",
-   "meaning": "Lion",
+   "name": "Leontine",
+   "slug": "leontine",
+   "meaning": "Lioness",
    "origin": "Biblical",
    "language": [
     "English",
-    "Hebrew",
     "Greek",
     "Latin"
    ],
-   "gender": "Unisex",
+   "gender": "Female",
    "root": "",
    "etymology": "",
    "script": {},
-   "transliteration": "Léontine",
+   "transliteration": "Leontine",
    "reference": "",
    "confidence": "LOW"
   },
   "tier2_explanatory": {
-   "short_meaning": "Lion",
-   "long_meaning": "The name Léontine is recorded with the meaning “Lion”. Léontine is a Biblical name meaning “Lion”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+   "short_meaning": "Lioness",
+   "long_meaning": "The name Leontine is recorded with the meaning “Lioness”. Leontine is a Biblical name meaning “Lioness”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
    "translations": {
     "english": {
-     "name": "Léontine",
-     "meaning": "Lion",
+     "name": "Leontine",
+     "meaning": "Lioness",
      "confidence": "LOW"
     }
    },
    "pronunciation": {
-    "english": "LAY-ohn-teen",
-    "ipa": "/leɔ̃tin/"
+    "english": "lee-ON-teen",
+    "ipa": "/liˈɒntiːn/"
    },
    "syllables": 2,
-   "name_length": 7,
+   "name_length": 8,
    "faqs": [
     {
-     "q": "What is the English meaning of Léontine?",
-     "a": "In English, Léontine is rendered as “Lion”."
+     "q": "Is Leontine mentioned in scripture?",
+     "a": "No scriptural reference for Leontine has been verified; the record is flagged for source verification."
     },
     {
-     "q": "Is Léontine suitable for a baby?",
-     "a": "Léontine is used as a unisex given name; suitability is a personal choice."
+     "q": "What is the lucky number for Leontine?",
+     "a": "The Pythagorean lucky number for Leontine is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
     },
     {
-     "q": "What is the full form of Léontine?",
-     "a": "Léontine is the full recorded form; any short forms are listed in the nicknames field."
+     "q": "Which day is associated with Leontine?",
+     "a": "Saturday is the traditional association for Leontine. This is interpretive."
     },
     {
-     "q": "Which culture uses the name Léontine?",
-     "a": "Léontine is used in Biblical naming traditions."
+     "q": "Which gemstone is associated with Leontine?",
+     "a": "Hessonite is the traditional association for Leontine. This is interpretive."
     },
     {
-     "q": "Does Léontine have a positive meaning?",
-     "a": "Léontine carries the meaning “Lion”."
+     "q": "Which colours are associated with Leontine?",
+     "a": "Grey, Blue are the traditional associations for Leontine. These are interpretive."
     },
     {
-     "q": "What does the name Léontine mean?",
-     "a": "Léontine means “Lion”."
+     "q": "What is the numerology of Leontine?",
+     "a": "In Pythagorean numerology the letters of Leontine total 40, reducing to 4. Number 4 is associated with discipline, order and steady effort."
     },
     {
-     "q": "What is the origin of the name Léontine?",
-     "a": "Léontine is of Biblical origin."
+     "q": "How reliable is the meaning given for Leontine?",
+     "a": "The meaning of Leontine carries confidence LOW in this record. It is flagged for source verification."
     },
     {
-     "q": "Is Léontine a unisex name?",
-     "a": "Léontine is used as a unisex name."
+     "q": "Does Leontine have a religious meaning?",
+     "a": "Leontine is recorded as a christian name meaning “Lioness”."
     },
     {
-     "q": "How many syllables does Léontine have?",
-     "a": "Léontine has 2 syllables."
+     "q": "What is the English meaning of Leontine?",
+     "a": "In English, Leontine is rendered as “Lioness”."
     },
     {
-     "q": "How is Léontine pronounced?",
-     "a": "Léontine is pronounced as given in the pronunciation field of this record."
+     "q": "Is Leontine suitable for a baby?",
+     "a": "Leontine is used as a female given name; suitability is a personal choice."
     },
     {
-     "q": "What is the spiritual significance of Léontine?",
-     "a": "Any spiritual significance attached to Léontine is interpretive and is labelled as such in this record."
+     "q": "What is the full form of Leontine?",
+     "a": "Leontine is the full recorded form; any short forms are listed in the nicknames field."
     },
     {
-     "q": "Are there variant spellings of Léontine?",
-     "a": "Variant spellings of Léontine are listed in the variants field of this record."
+     "q": "Which culture uses the name Leontine?",
+     "a": "Leontine is used in Biblical naming traditions."
     }
    ]
   },
   "tier3_interpretive": {
    "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
    "numerology": {
-    "lucky_number": 8,
-    "life_path_number": 8,
-    "ruling_planet": "Saturn",
+    "lucky_number": 4,
+    "life_path_number": 4,
+    "ruling_planet": "Rahu",
     "lucky_day": "Saturday",
-    "lucky_stone": "Blue Sapphire",
+    "lucky_stone": "Hessonite",
     "lucky_colors": [
-     "Blue",
-     "Black"
+     "Grey",
+     "Blue"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Léontine total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
+    "numerology_meaning": "In Pythagorean numerology the letters of Leontine total 40, reducing to 4. Number 4 is associated with discipline, order and steady effort."
    },
    "personality_associations": [],
    "spiritual_symbolism": ""
