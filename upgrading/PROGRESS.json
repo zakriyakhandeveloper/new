@@ -1,0 +1,1124 @@
+{
+  "pipeline": "NameVerse Production v5",
+  "repo": "zk2636216-ui/upgrade",
+  "branch": "names-upgraded-v3",
+  "reference_schema": "upgrading/names_upgraded/islamic/aabad.json (79 fields)",
+  "started_at": "2026-10-01T11:59:59.000Z",
+  "updated_at": "2026-10-01T11:59:59.000Z",
+  "totals": {
+    "all_cultures_source": 37716,
+    "islamic_source": 14411,
+    "islamic_completed": 100,
+    "all_cultures_completed": 100,
+    "islamic_remaining": 14311
+  },
+  "current_batch": {
+    "number": 1,
+    "culture": "islamic",
+    "range": "aamilah..aaus",
+    "status": "complete",
+    "size": 100
+  },
+  "batches": [
+    {
+      "number": 1,
+      "culture": "islamic",
+      "range": "aamilah..aaus",
+      "size": 100,
+      "status": "complete",
+      "commit": "550f95765"
+    }
+  ],
+  "batch_size_policy": 100,
+  "milestone_policy": "After each 1000 completed names the set is mirrored to upgrading/upgrade_names_<culture>/",
+  "mirrored_sets": {
+    "upgrading/upgrade_names_islamic": 100
+  },
+  "confidence_summary": {
+    "HIGH": 33,
+    "MEDIUM": 31,
+    "LOW": 12,
+    "UNKNOWN": 24
+  },
+  "quality_gate": {
+    "invalid_json": 0,
+    "conflict_markers": 0,
+    "missing_required_fields": 0,
+    "records_with_fabricated_data": 0,
+    "faq_per_record": 15
+  },
+  "names": [
+    {
+      "slug": "aamilah",
+      "name": "Aamilah",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aamin",
+      "name": "Aamin",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aamina",
+      "name": "Aamina",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aaminaat",
+      "name": "Aaminaat",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not an established given name; appears to be a plural or a directory coinage. No Tier-1 confirmation found."
+      ]
+    },
+    {
+      "slug": "aaminah",
+      "name": "Aaminah",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aamir",
+      "name": "Aamir",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aamira",
+      "name": "Aamira",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aamirah",
+      "name": "Aamirah",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aamirat",
+      "name": "Aamirat",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not an established given name; no Tier-1 confirmation found."
+      ]
+    },
+    {
+      "slug": "aamirul",
+      "name": "Aamirul",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not an established given name; possibly a compound coinage. No evidence located."
+      ]
+    },
+    {
+      "slug": "aamiya",
+      "name": "Aamiya",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not established. No Arabic lexeme matching this form could be confirmed."
+      ]
+    },
+    {
+      "slug": "aamla",
+      "name": "Aamla",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "LOW",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: The source gloss 'nourishing, supporting' is unsupported. The form coincides with Hindi/Sanskrit āmlā 'Indian gooseberry' (āmalakī), which is not an Arabic name element."
+      ]
+    },
+    {
+      "slug": "aamna",
+      "name": "Aamna",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aamra",
+      "name": "Aamra",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aamrah",
+      "name": "Aamrah",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aana",
+      "name": "Aana",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not established as an Arabic name; no lexeme confirmed."
+      ]
+    },
+    {
+      "slug": "aanal",
+      "name": "Aanal",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not established; no evidence located."
+      ]
+    },
+    {
+      "slug": "aanan",
+      "name": "Aanan",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not established; no evidence located."
+      ]
+    },
+    {
+      "slug": "aaneseh",
+      "name": "Aaneseh",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "LOW",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Form suggests a Persianate construction; origin not confirmed by any Tier-1 source."
+      ]
+    },
+    {
+      "slug": "aani",
+      "name": "Aani",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not established; no evidence located."
+      ]
+    },
+    {
+      "slug": "aania",
+      "name": "Aania",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not established; no evidence located."
+      ]
+    },
+    {
+      "slug": "aanil",
+      "name": "Aanil",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not established; no evidence located."
+      ]
+    },
+    {
+      "slug": "aanisa",
+      "name": "Aanisa",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aanisah",
+      "name": "Aanisah",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aaniya",
+      "name": "Aaniya",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not established; no evidence located."
+      ]
+    },
+    {
+      "slug": "aaniyah",
+      "name": "Aaniyah",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not established; no evidence located."
+      ]
+    },
+    {
+      "slug": "aaolin",
+      "name": "Aaolin",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Form is not Arabic; no origin confirmed."
+      ]
+    },
+    {
+      "slug": "aaqib",
+      "name": "Aaqib",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aaqiba",
+      "name": "Aaqiba",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aaqibah",
+      "name": "Aaqibah",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aaqif",
+      "name": "Aaqif",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aaqifa",
+      "name": "Aaqifa",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aaqil",
+      "name": "Aaqil",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aaqilah",
+      "name": "Aaqilah",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aara",
+      "name": "Aara",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "LOW",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Multiple incompatible candidates (Persian ārā 'adorner'; Arabic ārāʾ 'opinions'). Origin not resolved."
+      ]
+    },
+    {
+      "slug": "aaraf",
+      "name": "Aaraf",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aarasun",
+      "name": "Aarasun",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not established; no evidence located."
+      ]
+    },
+    {
+      "slug": "aareeha",
+      "name": "Aareeha",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not established; no evidence located."
+      ]
+    },
+    {
+      "slug": "aarefa",
+      "name": "Aarefa",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aarfa",
+      "name": "Aarfa",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aarib",
+      "name": "Aarib",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aaribah",
+      "name": "Aaribah",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aaribat",
+      "name": "Aaribat",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not established; no evidence located."
+      ]
+    },
+    {
+      "slug": "aaribun",
+      "name": "Aaribun",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "LOW",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Appears to be a plural form, not a given name. No evidence as a personal name."
+      ]
+    },
+    {
+      "slug": "aarif",
+      "name": "Aarif",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aarifa",
+      "name": "Aarifa",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aarifah",
+      "name": "Aarifah",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aarifin",
+      "name": "Aarifin",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "LOW",
+      "origin": "Arabic",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Plural form rather than a singular given name; recorded as used in the directory."
+      ]
+    },
+    {
+      "slug": "aariz",
+      "name": "Aariz",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aarizah",
+      "name": "Aarizah",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aarizun",
+      "name": "Aarizun",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not established; no evidence located."
+      ]
+    },
+    {
+      "slug": "aaron",
+      "name": "Aaron",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Hebrew",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aarya",
+      "name": "Aarya",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "LOW",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Competing candidates (Sanskrit ārya 'noble'; Iranian āryā). Origin not resolved; the source asserted Arabic without support."
+      ]
+    },
+    {
+      "slug": "aaryan",
+      "name": "Aaryan",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Sanskrit",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aarzam",
+      "name": "Aarzam",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "LOW",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Suggested Persian derivation (arjam 'more precious') is not confirmed."
+      ]
+    },
+    {
+      "slug": "aarzoo",
+      "name": "Aarzoo",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Persian",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aarzu",
+      "name": "Aarzu",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Persian",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aas",
+      "name": "Aas",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not established; no evidence located."
+      ]
+    },
+    {
+      "slug": "aasaal",
+      "name": "Aasaal",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not established; no evidence located."
+      ]
+    },
+    {
+      "slug": "aasal",
+      "name": "Aasal",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "LOW",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Ambiguous: Arabic aṣl 'origin, root' and ʿasal 'honey' are both possible, but neither is confirmed as this name's source."
+      ]
+    },
+    {
+      "slug": "aaseman",
+      "name": "Aaseman",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Persian",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aasfa",
+      "name": "Aasfa",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not established; no evidence located."
+      ]
+    },
+    {
+      "slug": "aashif",
+      "name": "Aashif",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not established; no evidence located."
+      ]
+    },
+    {
+      "slug": "aashik",
+      "name": "Aashik",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aashiq",
+      "name": "Aashiq",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aashir",
+      "name": "Aashir",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aasia",
+      "name": "Aasia",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Not objectively established",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aasif",
+      "name": "Aasif",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Not objectively established",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aasifah",
+      "name": "Aasifah",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aasim",
+      "name": "Aasim",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aasima",
+      "name": "Aasima",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aasimah",
+      "name": "Aasimah",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aasimat",
+      "name": "Aasimat",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not an established given name; no evidence located."
+      ]
+    },
+    {
+      "slug": "aasir",
+      "name": "Aasir",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "LOW",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Ambiguous (Arabic asīr 'captive'; ʿāṣir 'pressing'). Origin not resolved."
+      ]
+    },
+    {
+      "slug": "aasira",
+      "name": "Aasira",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not established; no evidence located."
+      ]
+    },
+    {
+      "slug": "aasiya",
+      "name": "Aasiya",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Not objectively established",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aasiyah",
+      "name": "Aasiyah",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Not objectively established",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aasiyyah",
+      "name": "Aasiyyah",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Not objectively established",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aasma",
+      "name": "Aasma",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aasmaa",
+      "name": "Aasmaa",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aasman",
+      "name": "Aasman",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Persian",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aateqa",
+      "name": "Aateqa",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aathira",
+      "name": "Aathira",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "LOW",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Suggested Arabic athīra 'preferred' is not confirmed for this form."
+      ]
+    },
+    {
+      "slug": "aati",
+      "name": "Aati",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "LOW",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not established; no evidence located."
+      ]
+    },
+    {
+      "slug": "aatif",
+      "name": "Aatif",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aatifa",
+      "name": "Aatifa",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aatifah",
+      "name": "Aatifah",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aatik",
+      "name": "Aatik",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aatika",
+      "name": "Aatika",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aatikaat",
+      "name": "Aatikaat",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "UNKNOWN",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not an established given name; no evidence located."
+      ]
+    },
+    {
+      "slug": "aatikah",
+      "name": "Aatikah",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aatiq",
+      "name": "Aatiq",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aatiqa",
+      "name": "Aatiqa",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aatiqah",
+      "name": "Aatiqah",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aatir",
+      "name": "Aatir",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aatira",
+      "name": "Aatira",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aatirah",
+      "name": "Aatirah",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "HIGH",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aatiya",
+      "name": "Aatiya",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "LOW",
+      "origin": "Not objectively established",
+      "needs_manual_verification": true,
+      "flags": [
+        "form-not-verified: Not established; no evidence located."
+      ]
+    },
+    {
+      "slug": "aauf",
+      "name": "Aauf",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    },
+    {
+      "slug": "aaus",
+      "name": "Aaus",
+      "batch": 1,
+      "status": "complete",
+      "meaning_confidence": "MEDIUM",
+      "origin": "Arabic",
+      "needs_manual_verification": false,
+      "flags": []
+    }
+  ]
+}
