@@ -50,7 +50,9 @@
     "schema_order_matches_reference": true,
     "fields_left_empty_and_documented": 789,
     "schema_types_match_reference": true,
-    "type_drift_fields": 0
+    "type_drift_fields": 0,
+    "script_conflation_remaining": 0,
+    "in_block_note_key": "language_note (per the user's field list; aabad uses 'note')"
   },
   "names": [
     {
@@ -1146,6 +1148,7 @@
     ],
     "empty_list_policy": "A list is left empty only when no published, verifiable entry exists; the reason is recorded per record in verification.flags.",
     "schema_conformance": "79 keys, identical set and identical order to upgrading/names_upgraded/islamic/aabad.json",
-    "type_alignment": "culture, emotional_traits, hidden_personality_traits and popularity_by_region are LISTS in the Aabad reference; patch pass 2 restored list typing. Full field-by-field type comparison against the reference now reports 0 drift (incl. seo sub-fields)."
+    "type_alignment": "culture, emotional_traits, hidden_personality_traits and popularity_by_region are LISTS in the Aabad reference; patch pass 2 restored list typing. Full field-by-field type comparison against the reference now reports 0 drift (incl. seo sub-fields).",
+    "script_conflation_fix": "All 54 Arabic-origin records had an in_persian block presenting a DIFFERENT letter form from the in_arabic original (e.g. aamir: arabic عامر vs persian امیر). That is the آباد/عابد class of conflation. The Arabic lexical item is now carried in in_persian with a language note stating Persian borrows the Arabic form. No new lexical claim was introduced."
   }
 }
