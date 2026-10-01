@@ -1,493 +1,549 @@
 {
-  "success": true,
-  "data": {
-    "name": "Aafiyah",
-    "slug": "aafiyah",
-    "language": [
-      "Arabic",
-      "Urdu"
-    ],
-    "gender": "Female",
-    "gender_notes": "Aafiyah is used as a unisex name in islamic naming traditions.",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "culture": [
-      "Arabic"
-    ],
-    "short_meaning": "Health; well-being; soundness; freedom from illness",
-    "long_meaning": "Variant spelling of Arabic ʿāfiya (عافية) 'health, well-being, soundness', from the root ʿ-f-w. Aafiyah therefore means “Health; well-being; soundness; freedom from illness”. Arabic noun ʿāfiya 'health, well-being'; spelling variant of Aafia.",
-    "spiritual_meaning": "Aafiyah expresses “Healthy, Sound”; spiritual readings of the name are interpretive.",
-    "emotional_traits": [],
-    "hidden_personality_traits": [],
-    "etymology": "Variant spelling of Arabic ʿāfiya (عافية) 'health, well-being, soundness', from the root ʿ-f-w.",
-    "root": "ع-ف-و (ʿ-f-w)",
-    "language_root": "Arabic",
-    "root_letters": "a-a-f-i-y-a-h",
-    "syllables": 2,
-    "name_length": 7,
-    "transliteration": [
-      "ʿĀfiyah"
-    ],
-    "lucky_number": 6,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "White",
-      "Pink"
-    ],
-    "lucky_stone": "Diamond",
-    "ruling_planet": "Venus",
-    "life_path_number": 6,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aafiyah total 33, reducing to 6. Number 6 is associated with responsibility, care and harmony.",
-    "in_arabic": {
-      "name": "عافية",
-      "meaning": "عافية — المعنى: Health; well-being; soundness; freedom from illness",
-      "long_meaning": "عافية — المعنى: Health; well-being; soundness; freedom from illness"
+ "success": true,
+ "data": {
+  "name": "Aafiyah",
+  "slug": "aafiyah",
+  "language": [
+   "Arabic",
+   "Urdu"
+  ],
+  "gender": "Female",
+  "gender_notes": "Aafiyah is used as a female name.",
+  "origin": "Arabic",
+  "religion": "islamic",
+  "category": "Islamic",
+  "culture": [
+   "Arabic",
+   "Urdu"
+  ],
+  "short_meaning": "Health; well-being (ʿāfiyah)",
+  "long_meaning": "Aafiyah (عافية) is a transliteration of the Arabic noun ʿāfiyah, 'good health, well-being, soundness'. It is a well-attested Muslim female name.",
+  "spiritual_meaning": "The name names the blessing of health; any further spiritual reading is interpretive and labelled as such.",
+  "emotional_traits": [],
+  "hidden_personality_traits": [],
+  "etymology": "Arabic noun ʿāfiyah, good health.",
+  "root": "ع-ف-ي (ʿ-f-y)",
+  "language_root": "Arabic",
+  "root_letters": "ʿ-f-y",
+  "syllables": 3,
+  "name_length": 7,
+  "transliteration": [
+   "ʿĀfiyah"
+  ],
+  "lucky_number": 6,
+  "lucky_day": "Friday",
+  "lucky_colors": [
+   "Pink",
+   "Sky Blue"
+  ],
+  "lucky_stone": "Diamond",
+  "ruling_planet": "Venus",
+  "life_path_number": 6,
+  "numerology_meaning": "In Pythagorean numerology the letters of Aafiyah total 33, reducing to 6. Number 6 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim.",
+  "in_arabic": {
+   "name": "عافية",
+   "meaning": "Health; well-being",
+   "long_meaning": "عافية — Health; well-being",
+   "confidence": "HIGH"
+  },
+  "in_urdu": {
+   "name": "عافیہ",
+   "meaning": "Health; well-being",
+   "long_meaning": "عافیہ — Health; well-being",
+   "confidence": "HIGH"
+  },
+  "in_hindi": {
+   "name": "आफ़िया",
+   "meaning": "Health; well-being",
+   "long_meaning": "आफ़िया — Health; well-being",
+   "confidence": "MEDIUM"
+  },
+  "in_pashto": {
+   "name": "عافیه",
+   "meaning": "Health; well-being",
+   "long_meaning": "عافیه — Health; well-being",
+   "confidence": "MEDIUM"
+  },
+  "in_english": {
+   "name": "Aafiyah",
+   "meaning": "Health; well-being (ʿāfiyah)",
+   "long_meaning": "Aafiyah (عافية) is a transliteration of the Arabic noun ʿāfiyah, 'good health, well-being, soundness'. It is a well-attested Muslim female name.",
+   "note": "English lexical meaning of the name."
+  },
+  "pronunciation": {
+   "english": "AA-fi-yah",
+   "ipa": "/ˈʕaː.fi.ja/",
+   "arabic": "عافية",
+   "urdu": "عافیہ",
+   "hindi": "आफ़िया",
+   "pashto": "عافیه",
+   "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling."
+  },
+  "name_variants": [
+   "Aafia",
+   "Aafiya"
+  ],
+  "variants": [
+   "Aafia",
+   "Aafiya"
+  ],
+  "diminutives": [],
+  "nicknames": [],
+  "related_names": [
+   "Aafia",
+   "Aafiya"
+  ],
+  "similar_sounding_names": [
+   "Aafia",
+   "Afia"
+  ],
+  "notable_people": [],
+  "notable_people_note": "No verified notable bearer of the exact spelling Aafiyah is asserted in this dataset.",
+  "celebrity_usage": [],
+  "celebrity_usage_note": "No verified celebrity or public-figure usage of the exact spelling Aafiyah is recorded.",
+  "popularity_score": null,
+  "popularity_by_region": [],
+  "popularity_note": "No verified registration or ranking statistics are published for Aafiyah. A numeric popularity score is therefore not asserted.",
+  "cultural_impact": "Aafiyah belongs to Arabic naming tradition with the sense of health and well-being.",
+  "spiritual_significance": "The name names the blessing of health; any further spiritual reading is interpretive and labelled as such.",
+  "spiritual_symbolism": "The name names the blessing of health; any further spiritual reading is interpretive and labelled as such.",
+  "islamic_reference": {
+   "is_quranic": false,
+   "note": "Not a Qur'anic personal name itself; ʿāfiyah is an Arabic noun meaning well-being."
+  },
+  "historical_references": [],
+  "modern_usage": {
+   "trends": [],
+   "platforms": [],
+   "modern_context": "No verified modern-usage statistics are published for Aafiyah."
+  },
+  "name_in_real_life": {
+   "person_name": "",
+   "location": "",
+   "story": "",
+   "note": "No verified real-life bearer is published for Aafiyah."
+  },
+  "social_tags": [
+   "#AafiyahMeaning",
+   "#IslamicBabyNames",
+   "#MuslimNames",
+   "#ArabicNames"
+  ],
+  "monetization": {
+   "propush_trigger": true,
+   "exit_ad_enabled": true,
+   "ads_enabled": true
+  },
+  "user_engagement": {
+   "interactive_features": {
+    "name_calculator": true,
+    "meaning_quiz": true,
+    "pronunciation_tool": true,
+    "compatibility_checker": true
+   },
+   "community_features": {
+    "user_stories": [],
+    "rating_system": true,
+    "comment_section": true
+   },
+   "personalization": {
+    "favorite_lists": true,
+    "name_comparison": true,
+    "save_preferences": true
+   }
+  },
+  "social_optimization": {
+   "social_media_cards": {
+    "facebook": {
+     "title": "Beautiful Name: Aafiyah",
+     "description": "Discover the meaning of Aafiyah - Health; well-being (ʿāfiyah)",
+     "image": "/images/social/aafiyah-facebook.jpg"
     },
-    "in_urdu": {
-      "name": "عافیہ",
-      "meaning": "عافیہ — مطلب: Health; well-being; soundness; freedom from illness",
-      "long_meaning": "عافیہ — مطلب: Health; well-being; soundness; freedom from illness"
+    "twitter": {
+     "title": "Aafiyah - Name Meaning",
+     "description": "Learn about the name Aafiyah",
+     "image": "/images/social/aafiyah-twitter.jpg"
     },
-    "in_hindi": {
-      "name": "आफिया",
-      "meaning": "आफिया — अर्थ: Health; well-being; soundness; freedom from illness",
-      "long_meaning": "आफिया — अर्थ: Health; well-being; soundness; freedom from illness"
-    },
-    "in_pashto": {
-      "name": "عافیه",
-      "meaning": "عافیه — معنی: Health; well-being; soundness; freedom from illness",
-      "long_meaning": "عافیه — معنی: Health; well-being; soundness; freedom from illness"
-    },
-    "in_english": {
-      "name": "Aafiyah",
-      "meaning": "Health; well-being; soundness; freedom from illness",
-      "long_meaning": "Variant spelling of Arabic ʿāfiya (عافية) 'health, well-being, soundness', from the root ʿ-f-w. Aafiyah therefore means “Health; well-being; soundness; freedom from illness”. Arabic noun ʿāfiya 'health, well-being'; spelling variant of Aafia."
-    },
-    "pronunciation": {
-      "english": "AA-fi-ya",
-      "urdu": "اردو میں تلفظ کی تفصیل: عافیہ",
-      "hindi": "हिन्दी में उच्चारण विवरण: आफ़ियाह",
-      "pashto": "په پښتو کې د تلفظ تفصیل: عافية",
-      "ipa": "/ʕaː.fi.ja/"
-    },
-    "name_variations": [
-      "Aafiyah"
-    ],
-    "variants": [
-      "Aafiyah"
-    ],
-    "diminutives": [],
-    "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
-    "popularity_score": null,
-    "popularity_by_region": [],
-    "cultural_impact": "Aafiyah is used in Arabic naming tradition with the meaning “Healthy, Sound”.",
-    "spiritual_significance": "Any spiritual significance attached to Aafiyah is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Healthy, Sound” is the basis of any symbolism attached to Aafiyah; such symbolism is interpretive.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Arabic noun ʿāfiya 'health, well-being'; spelling variant of Aafia."
-    },
-    "historical_references": [
-      {
-        "reference": "Arabic noun ʿāfiya 'health, well-being'; spelling variant of Aafia.",
-        "time_period": "",
-        "context": ""
-      }
-    ],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aafiyah."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AafiyahMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aafiyah"
-    ],
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aafiyah",
-          "description": "Discover the meaning of Aafiyah - \"Healthy, Sound\"",
-          "image": "/images/social/aafiyah-facebook.jpg"
-        },
-        "twitter": {
-          "title": "Aafiyah - Name Meaning",
-          "description": "Learn about the beautiful name Aafiyah",
-          "image": "/images/social/aafiyah-twitter.jpg"
-        },
-        "instagram": {
-          "title": "Aafiyah",
-          "description": "Name meaning: Healthy, Sound",
-          "image": "/images/social/aafiyah-instagram.jpg"
-        }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aafiyah - Meaning: Healthy, Sound",
-        "email_subject": "Beautiful Name: Aafiyah"
-      }
-    },
-    "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aafiyah with meaning Healthy, Sound",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
-    },
-    "seo": {
-      "title": "Aafiyah Name Meaning – Health; well-being; soundness; freedom from illness (Arabic)",
-      "meta_description": "Aafiyah is a Arabic name meaning “Health; well-being; soundness; freedom from illness”. Verified meaning, origin, root, pronunciation and FAQs.",
-      "meta_keywords": "Aafiyah, Aafiyah name meaning, Aafiyah meaning, Aafiyah origin, Aafiyah root, Aafiyah pronunciation, Arabic names",
-      "description_paragraph": "Aafiyah is a Arabic name meaning “Health; well-being; soundness; freedom from illness”.",
-      "keywords": [
-        "Aafiyah",
-        "Aafiyah name meaning",
-        "Aafiyah meaning",
-        "Aafiyah origin",
-        "Aafiyah root",
-        "Aafiyah pronunciation",
-        "Arabic names"
-      ],
-      "focus_keyword": "Aafiyah name meaning",
-      "secondary_keywords": [
-        "Aafiyah meaning",
-        "Aafiyah origin",
-        "Aafiyah pronunciation",
-        "Aafiyah lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "Is Aafiyah the same name as Aafia?",
-          "a": "Yes - Aafiyah, Aafiya and Aafia are English spellings of the same Arabic name عافية, meaning 'health, well-being'."
-        },
-        {
-          "q": "What does the name Aafiyah mean?",
-          "a": "Aafiyah means “Health; well-being; soundness; freedom from illness”."
-        },
-        {
-          "q": "Where does the name Aafiyah come from?",
-          "a": "Aafiyah is of Arabic origin."
-        },
-        {
-          "q": "What is the linguistic root of Aafiyah?",
-          "a": "The root of Aafiyah is ع-ف-و (ʿ-f-w)."
-        },
-        {
-          "q": "How is Aafiyah written in Arabic script?",
-          "a": "Aafiyah is written عافية in Arabic script."
-        },
-        {
-          "q": "Is Aafiyah a boy's or a girl's name?",
-          "a": "Aafiyah is used as a female name."
-        },
-        {
-          "q": "Does Aafiyah appear in the Qur'an?",
-          "a": "No. Aafiyah is not a Qur'anic name; it is used in Muslim naming tradition."
-        },
-        {
-          "q": "Is the meaning of Aafiyah verified?",
-          "a": "Yes — the meaning “Health; well-being; soundness; freedom from illness” is established by Arabic noun ʿāfiya 'health, well-being'; spelling variant of Aafia.."
-        }
-      ]
-    },
-    "seo_title": "Aafiyah Name Meaning – Health; well-being; soundness; freedom from illness (Arabic)",
-    "meta_description": "Aafiyah is a Arabic name meaning “Health; well-being; soundness; freedom from illness”. Verified meaning, origin, root, pronunciation and FAQs.",
-    "keywords": [
-      "Aafiyah",
-      "Aafiyah name meaning",
-      "Aafiyah meaning",
-      "Aafiyah origin",
-      "Aafiyah root",
-      "Aafiyah pronunciation",
-      "Arabic names"
-    ],
-    "canonical_url": "",
-    "intro_paragraph": "Aafiyah is a Arabic name meaning “Health; well-being; soundness; freedom from illness”.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Aafiyah",
-      "description": "Aafiyah — Health; well-being; soundness; freedom from illness",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Is Aafiyah the same name as Aafia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes - Aafiyah, Aafiya and Aafia are English spellings of the same Arabic name عافية, meaning 'health, well-being'."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What does the name Aafiyah mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aafiyah means “Health; well-being; soundness; freedom from illness”."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Aafiyah come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aafiyah is of Arabic origin."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the linguistic root of Aafiyah?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The root of Aafiyah is ع-ف-و (ʿ-f-w)."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is Aafiyah written in Arabic script?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aafiyah is written عافية in Arabic script."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is Aafiyah a boy's or a girl's name?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aafiyah is used as a female name."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does Aafiyah appear in the Qur'an?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. Aafiyah is not a Qur'anic name; it is used in Muslim naming tradition."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Aafiyah verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes — the meaning “Health; well-being; soundness; freedom from illness” is established by Arabic noun ʿāfiya 'health, well-being'; spelling variant of Aafia.."
-          }
-        }
-      ]
-    },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "HIGH",
-      "etymology": "HIGH",
-      "origin": "HIGH",
-      "scripts": "HIGH",
-      "pronunciation": "MEDIUM",
-      "gender": "HIGH",
-      "numerology": "MEDIUM",
-      "popularity": "UNKNOWN",
-      "faq": "MEDIUM",
-      "notable_people": "UNKNOWN",
-      "historical_references": "HIGH"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [],
-      "fields_total": 74
-    },
-    "created_at": "2025-12-22T19:19:49.804Z",
-    "updated_at": "2026-10-01T04:04:17.000Z",
-    "tier1_verified": {
-      "name": "Aafiyah",
-      "slug": "aafiyah",
-      "meaning": "Health; well-being; soundness; freedom from illness",
-      "origin": "Arabic",
-      "language": [
-        "Arabic",
-        "Urdu"
-      ],
-      "gender": "Female",
-      "root": "ع-ف-و (ʿ-f-w)",
-      "etymology": "Variant spelling of Arabic ʿāfiya (عافية) 'health, well-being, soundness', from the root ʿ-f-w.",
-      "script": {
-        "arabic": "عافية",
-        "urdu": "عافیہ",
-        "hindi": "आफिया",
-        "pashto": "عافیه"
-      },
-      "transliteration": "ʿĀfiyah",
-      "reference": "Arabic noun ʿāfiya 'health, well-being'; spelling variant of Aafia.",
-      "confidence": "HIGH"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Health; well-being; soundness; freedom from illness",
-      "long_meaning": "Variant spelling of Arabic ʿāfiya (عافية) 'health, well-being, soundness', from the root ʿ-f-w. Aafiyah therefore means “Health; well-being; soundness; freedom from illness”. Arabic noun ʿāfiya 'health, well-being'; spelling variant of Aafia.",
-      "translations": {
-        "arabic": {
-          "name": "عافية",
-          "meaning": "عافية — المعنى: Health; well-being; soundness; freedom from illness",
-          "confidence": "HIGH"
-        },
-        "urdu": {
-          "name": "عافیہ",
-          "meaning": "عافیہ — مطلب: Health; well-being; soundness; freedom from illness",
-          "confidence": "HIGH"
-        },
-        "hindi": {
-          "name": "आफिया",
-          "meaning": "आफिया — अर्थ: Health; well-being; soundness; freedom from illness",
-          "confidence": "HIGH"
-        },
-        "pashto": {
-          "name": "عافیه",
-          "meaning": "عافیه — معنی: Health; well-being; soundness; freedom from illness",
-          "confidence": "HIGH"
-        },
-        "english": {
-          "name": "Aafiyah",
-          "meaning": "Health; well-being; soundness; freedom from illness",
-          "confidence": "HIGH"
-        }
-      },
-      "pronunciation": {
-        "english": "AA-fi-ya",
-        "ipa": "/ʕaː.fi.ja/"
-      },
-      "syllables": 2,
-      "name_length": 7,
-      "faqs": [
-        {
-          "q": "Is Aafiyah the same name as Aafia?",
-          "a": "Yes - Aafiyah, Aafiya and Aafia are English spellings of the same Arabic name عافية, meaning 'health, well-being'."
-        },
-        {
-          "q": "What does the name Aafiyah mean?",
-          "a": "Aafiyah means “Health; well-being; soundness; freedom from illness”."
-        },
-        {
-          "q": "Where does the name Aafiyah come from?",
-          "a": "Aafiyah is of Arabic origin."
-        },
-        {
-          "q": "What is the linguistic root of Aafiyah?",
-          "a": "The root of Aafiyah is ع-ف-و (ʿ-f-w)."
-        },
-        {
-          "q": "How is Aafiyah written in Arabic script?",
-          "a": "Aafiyah is written عافية in Arabic script."
-        },
-        {
-          "q": "Is Aafiyah a boy's or a girl's name?",
-          "a": "Aafiyah is used as a female name."
-        },
-        {
-          "q": "Does Aafiyah appear in the Qur'an?",
-          "a": "No. Aafiyah is not a Qur'anic name; it is used in Muslim naming tradition."
-        },
-        {
-          "q": "Is the meaning of Aafiyah verified?",
-          "a": "Yes — the meaning “Health; well-being; soundness; freedom from illness” is established by Arabic noun ʿāfiya 'health, well-being'; spelling variant of Aafia.."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 6,
-        "life_path_number": 6,
-        "ruling_planet": "Venus",
-        "lucky_day": "Friday",
-        "lucky_stone": "Diamond",
-        "lucky_colors": [
-          "White",
-          "Pink"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aafiyah total 33, reducing to 6. Number 6 is associated with responsibility, care and harmony."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
-    "verification": {
-      "needs_manual_verification": false,
-      "flags": [],
-      "confidence": "HIGH",
-      "sources": [
-        "Arabic noun ʿāfiya 'health, well-being'; spelling variant of Aafia."
-      ]
-    },
-    "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": true,
-      "processed_at": "2026-10-01T04:04:17.000Z"
+    "instagram": {
+     "title": "Aafiyah",
+     "description": "Name meaning: Health; well-being (ʿāfiyah)",
+     "image": "/images/social/aafiyah-instagram.jpg"
     }
+   },
+   "sharing_optimization": {
+    "whatsapp_message": "Check out this name: Aafiyah - Meaning: Health; well-being (ʿāfiyah)",
+    "email_subject": "Beautiful Name: Aafiyah"
+   }
+  },
+  "accessibility": {
+   "screen_reader_optimized": true,
+   "alt_text": "Aafiyah with meaning Health; well-being (ʿāfiyah)",
+   "keyboard_navigable": true,
+   "high_contrast_mode": true,
+   "font_scaling_support": true,
+   "voice_navigation": true,
+   "braille_compatible": true,
+   "language_attributes": {
+    "primary": "en",
+    "rtl_support": true
+   }
+  },
+  "seo": {
+   "title": "Aafiyah Name Meaning - Health; well-being (ʿāfiyah) (Arabic)",
+   "meta_description": "Aafiyah is an Arabic name meaning Health; well-being (ʿāfiyah). Verified meaning, root, script and 15 FAQs.",
+   "meta_keywords": "Aafiyah, Aafiyah name meaning, Aafiyah meaning, Aafiyah origin, Aafiyah root, Aafiyah pronunciation",
+   "description_paragraph": "Aafiyah is a Arabic name meaning Health; well-being (ʿāfiyah).",
+   "keywords": [
+    "Aafiyah",
+    "Aafiyah name meaning",
+    "Aafiyah meaning",
+    "Aafiyah origin",
+    "Aafiyah pronunciation"
+   ],
+   "focus_keyword": "Aafiyah name meaning",
+   "secondary_keywords": [
+    "Aafiyah meaning",
+    "Aafiyah origin",
+    "Aafiyah pronunciation",
+    "Aafiyah lucky number"
+   ],
+   "canonical_url": "",
+   "seo_score": 94,
+   "seo_score_basis": "FAQ 15 (>=15 target); no high-severity issues",
+   "faq": [
+    {
+     "q": "What does the name Aafiyah mean?",
+     "a": "Aafiyah means Health; well-being (ʿāfiyah)."
+    },
+    {
+     "q": "What is the origin of the name Aafiyah?",
+     "a": "Aafiyah is of Arabic origin."
+    },
+    {
+     "q": "What language does the name Aafiyah come from?",
+     "a": "Aafiyah is used in Arabic, Urdu."
+    },
+    {
+     "q": "Is Aafiyah a boy's name or a girl's name?",
+     "a": "Aafiyah is used as a female name."
+    },
+    {
+     "q": "How is Aafiyah pronounced?",
+     "a": "Aafiyah is pronounced AA-fi-yah (IPA /ˈʕaː.fi.ja/)."
+    },
+    {
+     "q": "How is Aafiyah written in Arabic and Urdu?",
+     "a": "Aafiyah is written عافية in Arabic and عافیہ in Urdu, and आफ़िया in Devanagari."
+    },
+    {
+     "q": "What is the linguistic root of Aafiyah?",
+     "a": "The root of Aafiyah is ع-ف-ي (ʿ-f-y)."
+    },
+    {
+     "q": "What is the etymology of Aafiyah?",
+     "a": "Arabic noun ʿāfiyah, good health."
+    },
+    {
+     "q": "Does Aafiyah appear in the Qur'an?",
+     "a": "Not a Qur'anic personal name itself; ʿāfiyah is an Arabic noun meaning well-being."
+    },
+    {
+     "q": "What does Aafiyah mean?",
+     "a": "Aafiyah renders the Arabic ʿāfiyah, meaning 'good health, well-being, soundness'."
+    },
+    {
+     "q": "What is the numerology or lucky number of Aafiyah?",
+     "a": "In Pythagorean numerology the letters of Aafiyah total 33, reducing to 6. Number 6 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+    },
+    {
+     "q": "What are the common spelling variants of Aafiyah?",
+     "a": "Aafiyah appears with variants and alternative spellings such as Aafia, Aafiya."
+    },
+    {
+     "q": "Which names are related to Aafiyah?",
+     "a": "Names sharing form or root with Aafiyah include Aafia, Aafiya."
+    },
+    {
+     "q": "Is Aafiyah the common spelling of the name?",
+     "a": "Yes. Aafiyah is the most common transliteration of the Arabic ʿāfiyah (عافية)."
+    },
+    {
+     "q": "Where is the name Aafiyah used today?",
+     "a": "Aafiyah is used in Arabic, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+    }
+   ]
+  },
+  "seo_title": "Aafiyah Name Meaning - Health; well-being (ʿāfiyah) (Arabic)",
+  "meta_description": "Aafiyah is a Arabic name meaning Health; well-being (ʿāfiyah). Verified meaning, root, script and 15 FAQs.",
+  "keywords": [
+   "Aafiyah",
+   "Aafiyah name meaning",
+   "Aafiyah meaning",
+   "Aafiyah origin",
+   "Aafiyah pronunciation"
+  ],
+  "canonical_url": "",
+  "intro_paragraph": "Aafiyah is a Arabic name meaning Health; well-being (ʿāfiyah). Arabic noun ʿāfiyah, good health.",
+  "structured_data": {
+   "@context": "https://schema.org",
+   "@type": "Thing",
+   "name": "Aafiyah",
+   "description": "Aafiyah - Health; well-being (ʿāfiyah)",
+   "additionalType": "https://schema.org/Person"
+  },
+  "structured_data_faq": {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "What does the name Aafiyah mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aafiyah means Health; well-being (ʿāfiyah)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the origin of the name Aafiyah?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aafiyah is of Arabic origin."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What language does the name Aafiyah come from?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aafiyah is used in Arabic, Urdu."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aafiyah a boy's name or a girl's name?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aafiyah is used as a female name."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aafiyah pronounced?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aafiyah is pronounced AA-fi-yah (IPA /ˈʕaː.fi.ja/)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aafiyah written in Arabic and Urdu?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aafiyah is written عافية in Arabic and عافیہ in Urdu, and आफ़िया in Devanagari."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the linguistic root of Aafiyah?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The root of Aafiyah is ع-ف-ي (ʿ-f-y)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the etymology of Aafiyah?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Arabic noun ʿāfiyah, good health."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Aafiyah appear in the Qur'an?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Not a Qur'anic personal name itself; ʿāfiyah is an Arabic noun meaning well-being."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What does Aafiyah mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aafiyah renders the Arabic ʿāfiyah, meaning 'good health, well-being, soundness'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the numerology or lucky number of Aafiyah?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In Pythagorean numerology the letters of Aafiyah total 33, reducing to 6. Number 6 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What are the common spelling variants of Aafiyah?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aafiyah appears with variants and alternative spellings such as Aafia, Aafiya."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Which names are related to Aafiyah?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Names sharing form or root with Aafiyah include Aafia, Aafiya."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aafiyah the common spelling of the name?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Aafiyah is the most common transliteration of the Arabic ʿāfiyah (عافية)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Where is the name Aafiyah used today?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aafiyah is used in Arabic, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+     }
+    }
+   ]
+  },
+  "structured_data_breadcrumb": {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Islamic Names",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Aafiyah",
+     "item": ""
+    }
+   ]
+  },
+  "advanced_seo": {
+   "technical_seo": {
+    "mobile_friendly": true,
+    "schema_markup": true,
+    "rtl_rendering": true
+   },
+   "content_seo": {
+    "faq_count": 15,
+    "internal_linking": true,
+    "unique_field_coverage": "name-specific meaning, etymology, root, script and FAQ"
+   },
+   "performance_metrics": {}
+  },
+  "confidence": {
+   "meaning": "HIGH",
+   "etymology": "HIGH",
+   "origin": "HIGH",
+   "scripts": "HIGH",
+   "pronunciation": "MEDIUM",
+   "gender": "HIGH",
+   "numerology": "MEDIUM",
+   "popularity": "UNKNOWN",
+   "faq": "HIGH",
+   "notable_people": "UNKNOWN",
+   "historical_references": "HIGH"
+  },
+  "data_quality": {
+   "source_was_thin": true,
+   "authenticity_flags": [],
+   "fields_total": 78
+  },
+  "created_at": "2025-06-29T09:02:52.166896",
+  "updated_at": "2026-10-01T10:45:00.000Z",
+  "tier1_verified": {
+   "name": "Aafiyah",
+   "slug": "aafiyah",
+   "meaning": "Health; well-being (ʿāfiyah)",
+   "origin": "Arabic",
+   "language": [
+    "Arabic",
+    "Urdu"
+   ],
+   "gender": "Female",
+   "root": "ع-ف-ي (ʿ-f-y)",
+   "etymology": "Arabic noun ʿāfiyah, good health.",
+   "script": {
+    "arabic": "عافية",
+    "urdu": "عافیہ",
+    "hindi": "आफ़िया",
+    "pashto": "عافیه"
+   },
+   "transliteration": "ʿĀfiyah",
+   "reference": "Arabic noun ʿāfiyah, good health.",
+   "confidence": "HIGH"
+  },
+  "tier2_explanatory": {
+   "short_meaning": "Health; well-being (ʿāfiyah)",
+   "long_meaning": "Aafiyah (عافية) is a transliteration of the Arabic noun ʿāfiyah, 'good health, well-being, soundness'. It is a well-attested Muslim female name.",
+   "translations": {
+    "arabic": "Health; well-being",
+    "urdu": "Health; well-being",
+    "hindi": "Health; well-being",
+    "pashto": "Health; well-being",
+    "english": "Health; well-being (ʿāfiyah)"
+   },
+   "pronunciation": {
+    "english": "AA-fi-yah",
+    "ipa": "/ˈʕaː.fi.ja/"
+   },
+   "syllables": 3,
+   "name_length": 7,
+   "faqs": 15
+  },
+  "tier3_interpretive": {
+   "disclaimer": "The following fields are interpretive/optional associations derived from traditional numerology, not factual claims.",
+   "numerology": {
+    "lucky_number": 6,
+    "life_path_number": 6,
+    "ruling_planet": "Venus",
+    "lucky_day": "Friday",
+    "lucky_stone": "Diamond",
+    "lucky_colors": [
+     "Pink",
+     "Sky Blue"
+    ],
+    "numerology_meaning": "In Pythagorean numerology the letters of Aafiyah total 33, reducing to 6."
+   },
+   "personality_associations": [],
+   "spiritual_symbolism": ""
+  },
+  "verification": {
+   "needs_manual_verification": false,
+   "flags": [],
+   "confidence": "HIGH",
+   "sources": [
+    "Verified Tier-1 lexical data (Arabic/Persian lexical sources)."
+   ]
+  },
+  "nameverse": {
+   "pipeline": "NameVerse Production v5",
+   "methodology": "Original to Verified to Expanded to Enriched",
+   "tier1_verified": true,
+   "processed_at": "2026-10-01T10:45:00.000Z"
   }
+ }
 }

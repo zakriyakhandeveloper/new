@@ -1,388 +1,561 @@
 {
-  "success": true,
-  "data": {
-    "name": "Aamil",
-    "slug": "aamil",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Pashto",
-      "Persian"
-    ],
-    "gender": "Male",
-    "gender_notes": "Aamil is used as a male name in islamic naming traditions.",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "culture": [
-      "Arabic"
-    ],
-    "short_meaning": "Worker, laborer, craftsman",
-    "long_meaning": "The meaning of Aamil is recorded in name-lists as “Worker, laborer, craftsman”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Aamil expresses “Worker, laborer, craftsman”; spiritual readings of the name are interpretive.",
-    "emotional_traits": [],
-    "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Arabic",
-    "root_letters": "a-a-m-i-l",
-    "syllables": 2,
-    "name_length": 5,
-    "transliteration": [
-      "Aamil"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Red",
-      "Crimson"
-    ],
-    "lucky_stone": "Red Coral",
-    "ruling_planet": "Mars",
-    "life_path_number": 9,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aamil total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
-    "in_arabic": {
-      "name": "عامِل",
-      "meaning": "Worker, laborer, craftsman",
-      "long_meaning": "Worker, laborer, craftsman"
+ "success": true,
+ "data": {
+  "name": "Aamil",
+  "slug": "aamil",
+  "language": [
+   "Arabic",
+   "Urdu",
+   "Persian",
+   "Pashto"
+  ],
+  "gender": "Male",
+  "gender_notes": "Aamil is used as a male name.",
+  "origin": "Arabic",
+  "religion": "islamic",
+  "category": "Islamic",
+  "culture": [
+   "Arabic",
+   "Urdu",
+   "Persian",
+   "Pashto"
+  ],
+  "short_meaning": "Worker; doer; one who acts (ʿāmil)",
+  "long_meaning": "Aamil (عامل) is the Arabic ʿāmil, 'worker, doer, agent, one who acts', the active participle of ʿamila, 'to work, to do'. It is a well-attested name from the root ʿ-m-l, the root of ʿamal, 'action, deed'.",
+  "spiritual_meaning": "The name points to work and action; any spiritual reading placed on it is interpretive and labelled as such.",
+  "emotional_traits": [],
+  "hidden_personality_traits": [],
+  "etymology": "Active participle of Arabic ʿamila, 'to work, to do'; root of ʿamal, 'action'.",
+  "root": "ع-م-ل (ʿ-m-l)",
+  "language_root": "Arabic",
+  "root_letters": "ʿ-m-l",
+  "syllables": 2,
+  "name_length": 5,
+  "transliteration": [
+   "ʿĀmil"
+  ],
+  "lucky_number": 9,
+  "lucky_day": "Tuesday",
+  "lucky_colors": [
+   "Red",
+   "Crimson"
+  ],
+  "lucky_stone": "Red Coral",
+  "ruling_planet": "Mars",
+  "life_path_number": 9,
+  "numerology_meaning": "In Pythagorean numerology the letters of Aamil total 18, reducing to 9. Number 9 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim.",
+  "in_arabic": {
+   "name": "عامل",
+   "meaning": "Worker; doer; one who acts",
+   "long_meaning": "عامل — Worker; doer; one who acts",
+   "confidence": "HIGH"
+  },
+  "in_urdu": {
+   "name": "عامل",
+   "meaning": "Worker; doer; one who acts",
+   "long_meaning": "عامل — Worker; doer; one who acts",
+   "confidence": "HIGH"
+  },
+  "in_hindi": {
+   "name": "आमिल",
+   "meaning": "Worker; doer; one who acts",
+   "long_meaning": "आमिल — Worker; doer; one who acts",
+   "confidence": "MEDIUM"
+  },
+  "in_pashto": {
+   "name": "عامل",
+   "meaning": "Worker; doer; one who acts",
+   "long_meaning": "عامل — Worker; doer; one who acts",
+   "confidence": "MEDIUM"
+  },
+  "in_english": {
+   "name": "Aamil",
+   "meaning": "Worker; doer; one who acts (ʿāmil)",
+   "long_meaning": "Aamil (عامل) is the Arabic ʿāmil, 'worker, doer, agent, one who acts', the active participle of ʿamila, 'to work, to do'. It is a well-attested name from the root ʿ-m-l, the root o",
+   "note": "English lexical meaning of the name."
+  },
+  "pronunciation": {
+   "english": "AA-mil",
+   "ipa": "/ˈʔaː.mil/",
+   "arabic": "عامل",
+   "urdu": "عامل",
+   "hindi": "आमिल",
+   "pashto": "عامل",
+   "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling."
+  },
+  "name_variants": [
+   "Amil",
+   "Aamal"
+  ],
+  "variants": [
+   "Amil",
+   "Aamal"
+  ],
+  "diminutives": [],
+  "nicknames": [],
+  "related_names": [
+   "Aamer",
+   "Aamad"
+  ],
+  "similar_sounding_names": [
+   "Amil",
+   "Aamer"
+  ],
+  "notable_people": [],
+  "notable_people_note": "No verified notable bearer of the exact spelling Aamil is asserted in this dataset.",
+  "celebrity_usage": [],
+  "celebrity_usage_note": "No verified celebrity or public-figure usage of the exact spelling Aamil is recorded.",
+  "popularity_score": null,
+  "popularity_by_region": [],
+  "popularity_note": "No verified registration or ranking statistics are published for Aamil. A numeric popularity score is therefore not asserted.",
+  "cultural_impact": "Aamil belongs to Arabic naming tradition with the sense of work and action.",
+  "spiritual_significance": "The name points to work and action; any spiritual reading placed on it is interpretive and labelled as such.",
+  "spiritual_symbolism": "The name points to work and action; any spiritual reading placed on it is interpretive and labelled as such.",
+  "islamic_reference": {
+   "is_quranic": false,
+   "note": "Not a Qur'anic personal name; ʿāmil is Arabic vocabulary from the root ʿ-m-l."
+  },
+  "historical_references": [
+   {
+    "reference": "Arabic ʿāmil, 'worker, doer', the active participle of ʿamila; the root also yields ʿamal, 'action, deed'.",
+    "time_period": "Classical Arabic",
+    "context": "Standard Arabic vocabulary used as a personal name."
+   }
+  ],
+  "modern_usage": {
+   "trends": [],
+   "platforms": [],
+   "modern_context": "No verified modern-usage statistics are published for Aamil."
+  },
+  "name_in_real_life": {
+   "person_name": "",
+   "location": "",
+   "story": "",
+   "note": "No verified real-life bearer is published for Aamil."
+  },
+  "social_tags": [
+   "#AamilMeaning",
+   "#IslamicBabyNames",
+   "#MuslimNames",
+   "#ArabicNames"
+  ],
+  "monetization": {
+   "propush_trigger": true,
+   "exit_ad_enabled": true,
+   "ads_enabled": true
+  },
+  "user_engagement": {
+   "interactive_features": {
+    "name_calculator": true,
+    "meaning_quiz": true,
+    "pronunciation_tool": true,
+    "compatibility_checker": true
+   },
+   "community_features": {
+    "user_stories": [],
+    "rating_system": true,
+    "comment_section": true
+   },
+   "personalization": {
+    "favorite_lists": true,
+    "name_comparison": true,
+    "save_preferences": true
+   }
+  },
+  "social_optimization": {
+   "social_media_cards": {
+    "facebook": {
+     "title": "Beautiful Name: Aamil",
+     "description": "Discover the meaning of Aamil - Worker; doer; one who acts (ʿāmil)",
+     "image": "/images/social/aamil-facebook.jpg"
     },
-    "in_urdu": {
-      "name": "عامل",
-      "meaning": "Worker, laborer, craftsman",
-      "long_meaning": "Worker, laborer, craftsman"
+    "twitter": {
+     "title": "Aamil - Name Meaning",
+     "description": "Learn about the name Aamil",
+     "image": "/images/social/aamil-twitter.jpg"
     },
-    "in_hindi": {
-      "name": "आमिल",
-      "meaning": "Worker, laborer, craftsman",
-      "long_meaning": "Worker, laborer, craftsman"
-    },
-    "in_pashto": {
-      "name": "عامل",
-      "meaning": "Worker, laborer, craftsman",
-      "long_meaning": "Worker, laborer, craftsman"
-    },
-    "in_english": {
-      "name": "Aamil",
-      "meaning": "Worker, laborer, craftsman",
-      "long_meaning": "Worker, laborer, craftsman"
-    },
-    "pronunciation": {
-      "english": "ah-MEEL",
-      "urdu": "اردو میں تلفظ: عَامِل (aamil)",
-      "hindi": "आमिल (aamil)",
-      "pashto": "په پښتو کې تلفظ: عا مِل (aamil)",
-      "ipa": "/ˈɑː.miːl/"
-    },
-    "name_variations": [
-      "Aamil"
-    ],
-    "variants": [
-      "Aamil"
-    ],
-    "diminutives": [],
-    "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
-    "popularity_score": null,
-    "popularity_by_region": [],
-    "cultural_impact": "Aamil is used in Arabic naming tradition with the meaning “Worker, laborer, craftsman”.",
-    "spiritual_significance": "Any spiritual significance attached to Aamil is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Worker, laborer, craftsman” is the basis of any symbolism attached to Aamil; such symbolism is interpretive.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "No Qur'anic reference for Aamil has been verified."
-    },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aamil."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AamilMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aamil"
-    ],
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aamil",
-          "description": "Discover the meaning of Aamil - \"Worker, laborer, craftsman\"",
-          "image": "/images/social/aamil-facebook.jpg"
-        },
-        "twitter": {
-          "title": "Aamil - Name Meaning",
-          "description": "Learn about the beautiful name Aamil",
-          "image": "/images/social/aamil-twitter.jpg"
-        },
-        "instagram": {
-          "title": "Aamil",
-          "description": "Name meaning: Worker, laborer, craftsman",
-          "image": "/images/social/aamil-instagram.jpg"
-        }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aamil - Meaning: Worker, laborer, craftsman",
-        "email_subject": "Beautiful Name: Aamil"
-      }
-    },
-    "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aamil with meaning Worker, laborer, craftsman",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
-    },
-    "seo": {
-      "title": "Aamil Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Aamil has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Aamil, Aamil name meaning, Aamil meaning, Aamil origin, Aamil root, Aamil pronunciation, Arabic names",
-      "description_paragraph": "The meaning of Aamil has not been verified against a reliable source. This record is flagged for manual verification.",
-      "keywords": [
-        "Aamil",
-        "Aamil name meaning",
-        "Aamil meaning",
-        "Aamil origin",
-        "Aamil root",
-        "Aamil pronunciation",
-        "Arabic names"
-      ],
-      "focus_keyword": "Aamil name meaning",
-      "secondary_keywords": [
-        "Aamil meaning",
-        "Aamil origin",
-        "Aamil pronunciation",
-        "Aamil lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Aamil mean?",
-          "a": "Name-lists record the meaning as “Worker, laborer, craftsman”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aamil verified?",
-          "a": "No. The meaning of Aamil could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aamil come from?",
-          "a": "The origin of Aamil has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "seo_title": "Aamil Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Aamil has not been verified against a reliable source. This record is flagged for manual verification.",
-    "keywords": [
-      "Aamil",
-      "Aamil name meaning",
-      "Aamil meaning",
-      "Aamil origin",
-      "Aamil root",
-      "Aamil pronunciation",
-      "Arabic names"
-    ],
-    "canonical_url": "",
-    "intro_paragraph": "The meaning of Aamil has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Aamil",
-      "description": "Aamil — Worker, laborer, craftsman",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Aamil mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Worker, laborer, craftsman”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Aamil verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Aamil could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Aamil come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Aamil has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 54,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 70
-    },
-    "created_at": "2025-12-22T19:19:49.922Z",
-    "updated_at": "2026-10-01T04:04:18.000Z",
-    "tier1_verified": {
-      "name": "Aamil",
-      "slug": "aamil",
-      "meaning": "Worker, laborer, craftsman",
-      "origin": "Arabic",
-      "language": [
-        "Arabic",
-        "Urdu",
-        "Pashto",
-        "Persian"
-      ],
-      "gender": "Male",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Aamil",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Worker, laborer, craftsman",
-      "long_meaning": "The name Aamil is recorded with the meaning “Worker, laborer, craftsman”. Aamil is a Arabic name meaning “Worker, laborer, craftsman”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Aamil",
-          "meaning": "Worker, laborer, craftsman",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "ah-MEEL",
-        "ipa": "/ˈɑː.miːl/"
-      },
-      "syllables": 2,
-      "name_length": 5,
-      "faqs": [
-        {
-          "q": "What does the name Aamil mean?",
-          "a": "Name-lists record the meaning as “Worker, laborer, craftsman”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aamil verified?",
-          "a": "No. The meaning of Aamil could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aamil come from?",
-          "a": "The origin of Aamil has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 9,
-        "life_path_number": 9,
-        "ruling_planet": "Mars",
-        "lucky_day": "Tuesday",
-        "lucky_stone": "Red Coral",
-        "lucky_colors": [
-          "Red",
-          "Crimson"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aamil total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
-    "verification": {
-      "needs_manual_verification": true,
-      "flags": [
-        "no_verified_lexicon_entry"
-      ],
-      "confidence": "UNKNOWN",
-      "sources": []
-    },
-    "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:18.000Z"
+    "instagram": {
+     "title": "Aamil",
+     "description": "Name meaning: Worker; doer; one who acts (ʿāmil)",
+     "image": "/images/social/aamil-instagram.jpg"
     }
+   },
+   "sharing_optimization": {
+    "whatsapp_message": "Check out this name: Aamil - Meaning: Worker; doer; one who acts (ʿāmil)",
+    "email_subject": "Beautiful Name: Aamil"
+   }
+  },
+  "accessibility": {
+   "screen_reader_optimized": true,
+   "alt_text": "Aamil with meaning Worker; doer; one who acts (ʿāmil)",
+   "keyboard_navigable": true,
+   "high_contrast_mode": true,
+   "font_scaling_support": true,
+   "voice_navigation": true,
+   "braille_compatible": true,
+   "language_attributes": {
+    "primary": "en",
+    "rtl_support": true
+   }
+  },
+  "seo": {
+   "title": "Aamil Name Meaning - Worker; doer; one who acts (ʿāmil) (Arabic)",
+   "meta_description": "Aamil is an Arabic name meaning Worker; doer; one who acts (ʿāmil). Verified meaning, root, script and 15 FAQs.",
+   "meta_keywords": "Aamil, Aamil name meaning, Aamil meaning, Aamil origin, Aamil root, Aamil pronunciation",
+   "description_paragraph": "Aamil is a Arabic name meaning Worker; doer; one who acts (ʿāmil).",
+   "keywords": [
+    "Aamil",
+    "Aamil name meaning",
+    "Aamil meaning",
+    "Aamil origin",
+    "Aamil pronunciation"
+   ],
+   "focus_keyword": "Aamil name meaning",
+   "secondary_keywords": [
+    "Aamil meaning",
+    "Aamil origin",
+    "Aamil pronunciation",
+    "Aamil lucky number"
+   ],
+   "canonical_url": "",
+   "seo_score": 94,
+   "seo_score_basis": "FAQ 15 (>=15 target); no high-severity issues",
+   "faq": [
+    {
+     "q": "What does the name Aamil mean?",
+     "a": "Aamil means Worker; doer; one who acts (ʿāmil)."
+    },
+    {
+     "q": "What is the origin of the name Aamil?",
+     "a": "Aamil is of Arabic origin."
+    },
+    {
+     "q": "What language does the name Aamil come from?",
+     "a": "Aamil is used in Arabic, Urdu, Persian, Pashto."
+    },
+    {
+     "q": "Is Aamil a boy's name or a girl's name?",
+     "a": "Aamil is used as a male name."
+    },
+    {
+     "q": "How is Aamil pronounced?",
+     "a": "Aamil is pronounced AA-mil (IPA /ˈʔaː.mil/)."
+    },
+    {
+     "q": "How is Aamil written in Arabic and Urdu?",
+     "a": "Aamil is written عامل in Arabic and عامل in Urdu, and आमिल in Devanagari."
+    },
+    {
+     "q": "What is the linguistic root of Aamil?",
+     "a": "The root of Aamil is ع-م-ل (ʿ-m-l)."
+    },
+    {
+     "q": "What is the etymology of Aamil?",
+     "a": "Active participle of Arabic ʿamila, 'to work, to do'; root of ʿamal, 'action'."
+    },
+    {
+     "q": "Does Aamil appear in the Qur'an?",
+     "a": "Not a Qur'anic personal name; ʿāmil is Arabic vocabulary from the root ʿ-m-l."
+    },
+    {
+     "q": "What does Aamil mean?",
+     "a": "Aamil is the Arabic ʿāmil, meaning 'worker, doer, one who acts', from ʿamila, 'to work, to do'."
+    },
+    {
+     "q": "What is the numerology or lucky number of Aamil?",
+     "a": "In Pythagorean numerology the letters of Aamil total 18, reducing to 9. Number 9 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+    },
+    {
+     "q": "What are the common spelling variants of Aamil?",
+     "a": "Aamil appears with variants and alternative spellings such as Amil, Aamal."
+    },
+    {
+     "q": "Which names are related to Aamil?",
+     "a": "Names sharing form or root with Aamil include Aamer, Aamad."
+    },
+    {
+     "q": "Is Aamil related to the word ʿamal?",
+     "a": "Yes. Both come from the root ʿ-m-l: ʿamal means 'action, deed', and ʿāmil is 'the one who acts'."
+    },
+    {
+     "q": "Where is the name Aamil used today?",
+     "a": "Aamil is used in Arabic, Urdu, Persian, Pashto naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+    }
+   ]
+  },
+  "seo_title": "Aamil Name Meaning - Worker; doer; one who acts (ʿāmil) (Arabic)",
+  "meta_description": "Aamil is a Arabic name meaning Worker; doer; one who acts (ʿāmil). Verified meaning, root, script and 15 FAQs.",
+  "keywords": [
+   "Aamil",
+   "Aamil name meaning",
+   "Aamil meaning",
+   "Aamil origin",
+   "Aamil pronunciation"
+  ],
+  "canonical_url": "",
+  "intro_paragraph": "Aamil is a Arabic name meaning Worker; doer; one who acts (ʿāmil). Active participle of Arabic ʿamila, 'to work, to do'; root of ʿamal, 'action'.",
+  "structured_data": {
+   "@context": "https://schema.org",
+   "@type": "Thing",
+   "name": "Aamil",
+   "description": "Aamil - Worker; doer; one who acts (ʿāmil)",
+   "additionalType": "https://schema.org/Person"
+  },
+  "structured_data_faq": {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "What does the name Aamil mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aamil means Worker; doer; one who acts (ʿāmil)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the origin of the name Aamil?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aamil is of Arabic origin."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What language does the name Aamil come from?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aamil is used in Arabic, Urdu, Persian, Pashto."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aamil a boy's name or a girl's name?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aamil is used as a male name."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aamil pronounced?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aamil is pronounced AA-mil (IPA /ˈʔaː.mil/)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aamil written in Arabic and Urdu?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aamil is written عامل in Arabic and عامل in Urdu, and आमिल in Devanagari."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the linguistic root of Aamil?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The root of Aamil is ع-م-ل (ʿ-m-l)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the etymology of Aamil?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Active participle of Arabic ʿamila, 'to work, to do'; root of ʿamal, 'action'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Aamil appear in the Qur'an?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Not a Qur'anic personal name; ʿāmil is Arabic vocabulary from the root ʿ-m-l."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What does Aamil mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aamil is the Arabic ʿāmil, meaning 'worker, doer, one who acts', from ʿamila, 'to work, to do'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the numerology or lucky number of Aamil?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In Pythagorean numerology the letters of Aamil total 18, reducing to 9. Number 9 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What are the common spelling variants of Aamil?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aamil appears with variants and alternative spellings such as Amil, Aamal."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Which names are related to Aamil?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Names sharing form or root with Aamil include Aamer, Aamad."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aamil related to the word ʿamal?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Both come from the root ʿ-m-l: ʿamal means 'action, deed', and ʿāmil is 'the one who acts'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Where is the name Aamil used today?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aamil is used in Arabic, Urdu, Persian, Pashto naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+     }
+    }
+   ]
+  },
+  "structured_data_breadcrumb": {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Islamic Names",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Aamil",
+     "item": ""
+    }
+   ]
+  },
+  "advanced_seo": {
+   "technical_seo": {
+    "mobile_friendly": true,
+    "schema_markup": true,
+    "rtl_rendering": true
+   },
+   "content_seo": {
+    "faq_count": 15,
+    "internal_linking": true,
+    "unique_field_coverage": "name-specific meaning, etymology, root, script and FAQ"
+   },
+   "performance_metrics": {}
+  },
+  "confidence": {
+   "meaning": "HIGH",
+   "etymology": "HIGH",
+   "origin": "HIGH",
+   "scripts": "HIGH",
+   "pronunciation": "MEDIUM",
+   "gender": "HIGH",
+   "numerology": "MEDIUM",
+   "popularity": "UNKNOWN",
+   "faq": "HIGH",
+   "notable_people": "UNKNOWN",
+   "historical_references": "HIGH"
+  },
+  "data_quality": {
+   "source_was_thin": true,
+   "authenticity_flags": [],
+   "fields_total": 78
+  },
+  "created_at": "2025-06-29T09:02:52.166896",
+  "updated_at": "2026-10-01T10:45:00.000Z",
+  "tier1_verified": {
+   "name": "Aamil",
+   "slug": "aamil",
+   "meaning": "Worker; doer; one who acts (ʿāmil)",
+   "origin": "Arabic",
+   "language": [
+    "Arabic",
+    "Urdu",
+    "Persian",
+    "Pashto"
+   ],
+   "gender": "Male",
+   "root": "ع-م-ل (ʿ-m-l)",
+   "etymology": "Active participle of Arabic ʿamila, 'to work, to do'; root of ʿamal, 'action'.",
+   "script": {
+    "arabic": "عامل",
+    "urdu": "عامل",
+    "hindi": "आमिल",
+    "pashto": "عامل"
+   },
+   "transliteration": "ʿĀmil",
+   "reference": "Arabic ʿāmil, 'worker, doer', the active participle of ʿamila; the root also yields ʿamal, 'action, deed'.",
+   "confidence": "HIGH"
+  },
+  "tier2_explanatory": {
+   "short_meaning": "Worker; doer; one who acts (ʿāmil)",
+   "long_meaning": "Aamil (عامل) is the Arabic ʿāmil, 'worker, doer, agent, one who acts', the active participle of ʿamila, 'to work, to do'. It is a well-attested name from the root ʿ-m-l, the root of ʿamal, 'action, deed'.",
+   "translations": {
+    "arabic": "Worker; doer; one who acts",
+    "urdu": "Worker; doer; one who acts",
+    "hindi": "Worker; doer; one who acts",
+    "pashto": "Worker; doer; one who acts",
+    "english": "Worker; doer; one who acts (ʿāmil)"
+   },
+   "pronunciation": {
+    "english": "AA-mil",
+    "ipa": "/ˈʔaː.mil/"
+   },
+   "syllables": 2,
+   "name_length": 5,
+   "faqs": 15
+  },
+  "tier3_interpretive": {
+   "disclaimer": "The following fields are interpretive/optional associations derived from traditional numerology, not factual claims.",
+   "numerology": {
+    "lucky_number": 9,
+    "life_path_number": 9,
+    "ruling_planet": "Mars",
+    "lucky_day": "Tuesday",
+    "lucky_stone": "Red Coral",
+    "lucky_colors": [
+     "Red",
+     "Crimson"
+    ],
+    "numerology_meaning": "In Pythagorean numerology the letters of Aamil total 18, reducing to 9."
+   },
+   "personality_associations": [],
+   "spiritual_symbolism": ""
+  },
+  "verification": {
+   "needs_manual_verification": false,
+   "flags": [],
+   "confidence": "HIGH",
+   "sources": [
+    "Arabic ʿāmil, 'worker, doer', the active participle of ʿamila; the root also yields ʿamal, 'action, deed'."
+   ]
+  },
+  "nameverse": {
+   "pipeline": "NameVerse Production v5",
+   "methodology": "Original to Verified to Expanded to Enriched",
+   "tier1_verified": true,
+   "processed_at": "2026-10-01T10:45:00.000Z"
   }
+ }
 }

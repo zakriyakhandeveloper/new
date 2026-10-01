@@ -3,511 +3,110 @@
   "data": {
     "name": "Aabad",
     "slug": "aabad",
-    "language": [
-      "Persian",
-      "Urdu",
-      "Pashto",
-      "Hindi"
-    ],
+    "language": ["Persian", "Urdu", "Pashto", "Hindi"],
     "gender": "Male",
-    "gender_notes": "Aabad is used as a male name in islamic naming traditions.",
+    "gender_notes": "Aabad is used as a male name in Persian and Urdu naming tradition.",
     "origin": "Persian",
     "religion": "islamic",
     "category": "Islamic",
-    "culture": [
-      "Persian"
-    ],
+    "culture": ["Persian", "Urdu"],
     "short_meaning": "Inhabited; cultivated; prosperous; flourishing",
-    "long_meaning": "From Persian ābād (آباد) 'inhabited, cultivated, prosperous', itself from āb (آب) 'water'. It is NOT related to the Arabic ʿabd (عبد) 'servant' - that is the separate name ʿĀbid / Abid. Ābād is a productive Persian/Urdu toponymic element (Islāmābād, Ḥaydarābād, Abbottābād). Aabad therefore means “Inhabited; cultivated; prosperous; flourishing”. Persian/Urdu toponymic and personal-name element; cf. Middle Persian ābād 'populous, thriving, prosperous'.",
-    "spiritual_meaning": "Aabad expresses “Inhabited; cultivated; prosperous; flourishing”; spiritual readings of the name are interpretive.",
+    "long_meaning": "Aabad (آباد) is a Persian name meaning \u201cInhabited; cultivated; prosperous; flourishing\u201d. It comes from Persian ābād (آباد) 'inhabited, cultivated, prosperous', itself from āb (آب) 'water'. It is not related to the Arabic ʿabd (عبد) 'servant', which is the separate name ʿĀbid / Abid. Ābād is a productive Persian and Urdu place-name element, seen in Islāmābād, Ḥaydarābād and Abbottābād.",
+    "spiritual_meaning": "Aabad carries the meaning \u201cInhabited; cultivated; prosperous; flourishing\u201d. Any spiritual reading placed on the name is interpretive and is labelled as such; the lexical meaning is the documented core.",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "From Persian ābād (آباد) 'inhabited, cultivated, prosperous', itself from āb (آب) 'water'. It is NOT related to the Arabic ʿabd (عبد) 'servant' - that is the separate name ʿĀbid / Abid. Ābād is a productive Persian/Urdu toponymic element (Islāmābād, Ḥaydarābād, Abbottābād).",
+    "etymology": "From Persian ābād (آباد) 'inhabited, cultivated, prosperous', itself from āb (آب) 'water'. It is not related to the Arabic ʿabd (عبد) 'servant', which is the separate name ʿĀbid / Abid.",
     "root": "Persian ābād (آباد), from āb (آب) 'water'",
     "language_root": "Persian",
-    "root_letters": "a-a-b-a-d",
+    "root_letters": "ā-b-ā-d",
     "syllables": 2,
     "name_length": 5,
-    "transliteration": [
-      "Ābād"
-    ],
+    "transliteration": ["Ābād"],
     "lucky_number": 9,
     "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Red",
-      "Crimson"
-    ],
+    "lucky_colors": ["Red", "Crimson"],
     "lucky_stone": "Red Coral",
     "ruling_planet": "Mars",
     "life_path_number": 9,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aabad total 9, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
-    "in_arabic": {
-      "name": "آباد",
-      "meaning": "آباد — المعنى: Inhabited; cultivated; prosperous; flourishing",
-      "long_meaning": "آباد — المعنى: Inhabited; cultivated; prosperous; flourishing"
-    },
-    "in_urdu": {
-      "name": "آباد",
-      "meaning": "آباد — مطلب: Inhabited; cultivated; prosperous; flourishing",
-      "long_meaning": "آباد — مطلب: Inhabited; cultivated; prosperous; flourishing"
-    },
-    "in_hindi": {
-      "name": "आबाद",
-      "meaning": "आबाद — अर्थ: Inhabited; cultivated; prosperous; flourishing",
-      "long_meaning": "आबाद — अर्थ: Inhabited; cultivated; prosperous; flourishing"
-    },
-    "in_pashto": {
-      "name": "آباد",
-      "meaning": "آباد — معنی: Inhabited; cultivated; prosperous; flourishing",
-      "long_meaning": "آباد — معنی: Inhabited; cultivated; prosperous; flourishing"
-    },
-    "in_english": {
-      "name": "Aabad",
-      "meaning": "Inhabited; cultivated; prosperous; flourishing",
-      "long_meaning": "From Persian ābād (آباد) 'inhabited, cultivated, prosperous', itself from āb (آب) 'water'. It is NOT related to the Arabic ʿabd (عبد) 'servant' - that is the separate name ʿĀbid / Abid. Ābād is a productive Persian/Urdu toponymic element (Islāmābād, Ḥaydarābād, Abbottābād). Aabad therefore means “Inhabited; cultivated; prosperous; flourishing”. Persian/Urdu toponymic and personal-name element; cf. Middle Persian ābād 'populous, thriving, prosperous'."
-    },
-    "pronunciation": {
-      "english": "ah-BAAD",
-      "urdu": "اردو میں تلفظ: عابِد",
-      "hindi": "हिन्दी में उच्चारण: आबिद",
-      "pashto": "په پښتو کې د تلفظ: عابِد",
-      "ipa": "/ˈɑː.bɑːd/"
-    },
-    "name_variations": [
-      "Aabad"
-    ],
-    "variants": [
-      "Aabad"
-    ],
+    "numerology_meaning": "In Pythagorean numerology the letters of Aabad total 9, reducing to 9. Number 9 is associated with compassion, idealism and completion. This is an interpretive tradition, not a factual claim.",
+    "in_arabic": {"name": "آباد", "meaning": "عامر؛ معمور؛ مزدهر", "long_meaning": "آباد — عامر؛ معمور؛ مزدهر", "confidence": "HIGH"},
+    "in_urdu": {"name": "آباد", "meaning": "آباد؛ معمور؛ شاداب", "long_meaning": "آباد — آباد؛ معمور؛ شاداب", "confidence": "HIGH"},
+    "in_hindi": {"name": "आबाद", "meaning": "आबाद; बसा हुआ; समृद्ध", "long_meaning": "आबाद — आबाद; बसा हुआ; समृद्ध", "confidence": "HIGH"},
+    "in_pashto": {"name": "آباد", "meaning": "آباد؛ ودان", "long_meaning": "آباد — آباد؛ ودان", "confidence": "HIGH"},
+    "in_persian": {"name": "آباد", "meaning": "آباد؛ معمور؛ شاداب", "long_meaning": "آباد — آباد؛ معمور؛ شاداب", "note": "This is a Persian-origin name; the form above is its Persian orthography.", "confidence": "HIGH"},
+    "in_english": {"name": "Aabad", "meaning": "Inhabited; cultivated; prosperous; flourishing", "long_meaning": "From Persian ābād (آباد) 'inhabited, cultivated, prosperous'. Distinct from the Arabic name Abid.", "note": "English lexical meaning of the name."},
+    "pronunciation": {"english": "ah-BAAD", "ipa": "/ɑːˈbɑːd/", "arabic": "آباد", "urdu": "آباد", "hindi": "आबाद", "pashto": "آباد", "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling."},
+    "name_variants": ["Abad", "Aabaad"],
+    "variants": ["Abad", "Aabaad"],
     "diminutives": [],
     "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
+    "related_names": ["Abid", "Aabid"],
+    "similar_sounding_names": ["Aabid", "Aabdar"],
     "notable_people": [],
+    "notable_people_note": "No notable bearer of the exact spelling Aabad could be verified.",
     "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity or public-figure usage of the exact spelling Aabad is recorded.",
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Aabad is used in Persian naming tradition with the meaning “Inhabited; cultivated; prosperous; flourishing”.",
-    "spiritual_significance": "Any spiritual significance attached to Aabad is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Inhabited; cultivated; prosperous; flourishing” is the basis of any symbolism attached to Aabad; such symbolism is interpretive.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Persian/Urdu toponymic and personal-name element; cf. Middle Persian ābād 'populous, thriving, prosperous'."
-    },
-    "historical_references": [
-      {
-        "reference": "Persian/Urdu toponymic and personal-name element; cf. Middle Persian ābād 'populous, thriving, prosperous'.",
-        "time_period": "",
-        "context": ""
-      }
-    ],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aabad."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AabadMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aabad"
-    ],
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aabad",
-          "description": "Discover the meaning of Aabad - \"Prosperity, Abundance\"",
-          "image": "/images/social/aabad-facebook.jpg"
-        },
-        "twitter": {
-          "title": "Aabad - Name Meaning",
-          "description": "Learn about the beautiful name Aabad",
-          "image": "/images/social/aabad-twitter.jpg"
-        },
-        "instagram": {
-          "title": "Aabad",
-          "description": "Name meaning: Prosperity, Abundance",
-          "image": "/images/social/aabad-instagram.jpg"
-        }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aabad - Meaning: Prosperity, Abundance",
-        "email_subject": "Beautiful Name: Aabad"
-      }
-    },
-    "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aabad with meaning Prosperity, Abundance",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
-    },
+    "popularity_note": "No verified registration or ranking statistics are published for Aabad. A numeric popularity score is therefore not asserted.",
+    "cultural_impact": "Aabad belongs to Persian naming tradition with the meaning Inhabited; cultivated; prosperous; flourishing. Ābād is a productive Persian and Urdu place-name element (Islāmābād, Ḥaydarābād, Abbottābād).",
+    "spiritual_significance": "Any spiritual significance attached to Aabad is interpretive and is labelled as such. The name is not asserted to carry a doctrinal status beyond its documented usage.",
+    "spiritual_symbolism": "The documented meaning Inhabited; cultivated; prosperous; flourishing is the only basis for any symbolism attached to Aabad; such symbolism is interpretive rather than established.",
+    "islamic_reference": {"is_quranic": false, "note": "Persian/Urdu toponymic and personal-name element; cf. Middle Persian ābād 'populous, thriving, prosperous'. Aabad is not a Qur'anic name; it is used in Muslim naming tradition."},
+    "historical_references": [{"reference": "Persian/Urdu toponymic and personal-name element; cf. Middle Persian ābād 'populous, thriving, prosperous'.", "time_period": "Middle Persian period onward", "context": "Ābād appears throughout the Persian-speaking world as the standard place-name suffix."}],
+    "modern_usage": {"trends": [], "platforms": [], "modern_context": "No verified modern-usage statistics are published for Aabad."},
+    "name_in_real_life": {"person_name": "", "location": "", "story": "", "note": "No verified real-life bearer is published for Aabad."},
+    "social_tags": ["#AabadMeaning", "#IslamicBabyNames", "#PersianNames", "#MuslimNames"],
+    "monetization": {"propush_trigger": true, "exit_ad_enabled": true, "ads_enabled": true},
+    "user_engagement": {"interactive_features": {"name_calculator": true, "meaning_quiz": true, "pronunciation_tool": true, "compatibility_checker": true}, "community_features": {"user_stories": [], "rating_system": true, "comment_section": true}, "personalization": {"favorite_lists": true, "name_comparison": true, "save_preferences": true}},
+    "social_optimization": {"social_media_cards": {"facebook": {"title": "Beautiful Name: Aabad", "description": "Discover the meaning of Aabad - Inhabited; cultivated; prosperous; flourishing", "image": "/images/social/aabad-facebook.jpg"}, "twitter": {"title": "Aabad - Name Meaning", "description": "Learn about the Persian name Aabad", "image": "/images/social/aabad-twitter.jpg"}, "instagram": {"title": "Aabad", "description": "Name meaning: Inhabited; cultivated; prosperous; flourishing", "image": "/images/social/aabad-instagram.jpg"}}, "sharing_optimization": {"whatsapp_message": "Check out this name: Aabad - Meaning: Inhabited; cultivated; prosperous; flourishing", "email_subject": "Beautiful Name: Aabad"}},
+    "accessibility": {"screen_reader_optimized": true, "alt_text": "Aabad with meaning Inhabited; cultivated; prosperous; flourishing", "keyboard_navigable": true, "high_contrast_mode": true, "font_scaling_support": true, "voice_navigation": true, "braille_compatible": true, "language_attributes": {"primary": "en", "rtl_support": true}},
     "seo": {
-      "title": "Aabad Name Meaning – Inhabited; cultivated; prosperous; flourishing (Persian)",
-      "meta_description": "Aabad is a Persian name meaning “Inhabited; cultivated; prosperous; flourishing”. Verified meaning, origin, root, pronunciation and FAQs.",
+      "title": "Aabad Name Meaning - Inhabited; Cultivated; Prosperous (Persian)",
+      "meta_description": "Aabad is a Persian name meaning Inhabited; cultivated; prosperous; flourishing. Verified meaning, origin, root, pronunciation and 15 FAQs.",
       "meta_keywords": "Aabad, Aabad name meaning, Aabad meaning, Aabad origin, Aabad root, Aabad pronunciation, Persian names",
-      "description_paragraph": "Aabad is a Persian name meaning “Inhabited; cultivated; prosperous; flourishing”.",
-      "keywords": [
-        "Aabad",
-        "Aabad name meaning",
-        "Aabad meaning",
-        "Aabad origin",
-        "Aabad root",
-        "Aabad pronunciation",
-        "Persian names"
-      ],
+      "description_paragraph": "Aabad is a Persian name meaning Inhabited; cultivated; prosperous; flourishing.",
+      "keywords": ["Aabad", "Aabad name meaning", "Aabad meaning", "Aabad origin", "Aabad root", "Aabad pronunciation", "Persian names"],
       "focus_keyword": "Aabad name meaning",
-      "secondary_keywords": [
-        "Aabad meaning",
-        "Aabad origin",
-        "Aabad pronunciation",
-        "Aabad lucky number"
-      ],
+      "secondary_keywords": ["Aabad meaning", "Aabad origin", "Aabad pronunciation", "Aabad lucky number", "Aabad in Arabic"],
       "canonical_url": "",
-      "seo_score": 90,
+      "seo_score": 94,
+      "seo_score_basis": "FAQ 15 (>=15 target), tier-1 confidence HIGH, 0 high-severity issues",
       "faq": [
-        {
-          "q": "Is Aabad related to the Arabic name Abid?",
-          "a": "No. Aabad comes from Persian ābād 'inhabited, cultivated, prosperous'. Abid (عابد) is a different Arabic name meaning 'worshipper', from the root ʿ-b-d. The two are unrelated despite the similar English spelling."
-        },
-        {
-          "q": "What does the Persian word ābād mean?",
-          "a": "Ābād (آباد) is a Persian word meaning 'inhabited, cultivated, prosperous, thriving'. It is built on āb (آب) 'water' and is widely used as a place-name suffix across Iran, Pakistan and India."
-        },
-        {
-          "q": "What does the name Aabad mean?",
-          "a": "Aabad means “Inhabited; cultivated; prosperous; flourishing”."
-        },
-        {
-          "q": "Where does the name Aabad come from?",
-          "a": "Aabad is of Persian origin."
-        },
-        {
-          "q": "What is the linguistic root of Aabad?",
-          "a": "The root of Aabad is Persian ābād (آباد), from āb (آب) 'water'."
-        },
-        {
-          "q": "How is Aabad written in Arabic script?",
-          "a": "Aabad is written آباد in Arabic script."
-        },
-        {
-          "q": "Is Aabad a boy's or a girl's name?",
-          "a": "Aabad is used as a male name."
-        },
-        {
-          "q": "Does Aabad appear in the Qur'an?",
-          "a": "No. Aabad is not a Qur'anic name; it is used in Muslim naming tradition."
-        },
-        {
-          "q": "Is the meaning of Aabad verified?",
-          "a": "Yes — the meaning “Inhabited; cultivated; prosperous; flourishing” is established by Persian/Urdu toponymic and personal-name element; cf. Middle Persian ābād 'populous, thriving, prosperous'.."
-        }
+        {"q": "What does the name Aabad mean?", "a": "Aabad means Inhabited; cultivated; prosperous; flourishing."},
+        {"q": "What is the origin of the name Aabad?", "a": "Aabad is of Persian origin."},
+        {"q": "What language does the name Aabad come from?", "a": "Aabad is used in Persian, Urdu, Pashto and Hindi."},
+        {"q": "Is Aabad a boy's name or a girl's name?", "a": "Aabad is used as a male name."},
+        {"q": "How is Aabad pronounced?", "a": "Aabad is pronounced ah-BAAD (IPA /ɑːˈbɑːd/)."},
+        {"q": "How is Aabad written in Arabic script?", "a": "Aabad is written آباد in Arabic script."},
+        {"q": "How is Aabad written in Urdu and Hindi?", "a": "Aabad is written آباد in Urdu and आबाद in Devanagari."},
+        {"q": "What is the linguistic root of Aabad?", "a": "The root of Aabad is Persian ābād (آباد), from āb (آب) water."},
+        {"q": "What is the etymology of Aabad?", "a": "From Persian ābād (آباد) inhabited, cultivated, prosperous, itself from āb (آب) water. It is not related to the Arabic ʿabd (عبد) servant, which is the separate name ʿĀbid / Abid."},
+        {"q": "Does Aabad appear in the Qur'an?", "a": "No. Aabad is of Persian origin and is not a Qur'anic name; it is used in Muslim naming tradition."},
+        {"q": "Is Aabad related to the Arabic name Abid?", "a": "No. Aabad comes from Persian ābād, inhabited, cultivated. Abid (عابد) is a different Arabic name meaning worshipper, from the root ʿ-b-d. The two are unrelated despite the similar English spelling."},
+        {"q": "Is the meaning of Aabad verified?", "a": "Yes. The meaning Inhabited; cultivated; prosperous; flourishing rests on the Persian/Urdu toponymic and personal-name element ābād, confirmed by Middle Persian ābād, populous, thriving, prosperous."},
+        {"q": "What is the numerology or lucky number of Aabad?", "a": "In Pythagorean numerology the letters of Aabad total 9, reducing to 9. Number 9 is traditionally associated with compassion, idealism and completion. This is an interpretive tradition, not a factual claim."},
+        {"q": "What are the common spelling variants of Aabad?", "a": "Variants and alternative transliterations include Abad and Aabaad."},
+        {"q": "Where is the name Aabad used today?", "a": "Aabad circulates chiefly in Persian, Urdu, Pashto and Hindi naming communities. No verified registration statistics are published for it."}
       ]
     },
-    "seo_title": "Aabad Name Meaning – Inhabited; cultivated; prosperous; flourishing (Persian)",
-    "meta_description": "Aabad is a Persian name meaning “Inhabited; cultivated; prosperous; flourishing”. Verified meaning, origin, root, pronunciation and FAQs.",
-    "keywords": [
-      "Aabad",
-      "Aabad name meaning",
-      "Aabad meaning",
-      "Aabad origin",
-      "Aabad root",
-      "Aabad pronunciation",
-      "Persian names"
-    ],
+    "seo_title": "Aabad Name Meaning - Inhabited; Cultivated; Prosperous (Persian)",
+    "meta_description": "Aabad is a Persian name meaning Inhabited; cultivated; prosperous; flourishing. Verified meaning, origin, root, pronunciation and 15 FAQs.",
+    "keywords": ["Aabad", "Aabad name meaning", "Aabad meaning", "Aabad origin", "Aabad root", "Aabad pronunciation", "Persian names"],
     "canonical_url": "",
-    "intro_paragraph": "Aabad is a Persian name meaning “Inhabited; cultivated; prosperous; flourishing”.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Aabad",
-      "description": "Aabad — Inhabited; cultivated; prosperous; flourishing",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Is Aabad related to the Arabic name Abid?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. Aabad comes from Persian ābād 'inhabited, cultivated, prosperous'. Abid (عابد) is a different Arabic name meaning 'worshipper', from the root ʿ-b-d. The two are unrelated despite the similar English spelling."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What does the Persian word ābād mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Ābād (آباد) is a Persian word meaning 'inhabited, cultivated, prosperous, thriving'. It is built on āb (آب) 'water' and is widely used as a place-name suffix across Iran, Pakistan and India."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What does the name Aabad mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aabad means “Inhabited; cultivated; prosperous; flourishing”."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Aabad come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aabad is of Persian origin."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the linguistic root of Aabad?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The root of Aabad is Persian ābād (آباد), from āb (آب) 'water'."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is Aabad written in Arabic script?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aabad is written آباد in Arabic script."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is Aabad a boy's or a girl's name?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aabad is used as a male name."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does Aabad appear in the Qur'an?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. Aabad is not a Qur'anic name; it is used in Muslim naming tradition."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Aabad verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes — the meaning “Inhabited; cultivated; prosperous; flourishing” is established by Persian/Urdu toponymic and personal-name element; cf. Middle Persian ābād 'populous, thriving, prosperous'.."
-          }
-        }
-      ]
-    },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 68,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "HIGH",
-      "etymology": "HIGH",
-      "origin": "HIGH",
-      "scripts": "HIGH",
-      "pronunciation": "MEDIUM",
-      "gender": "HIGH",
-      "numerology": "MEDIUM",
-      "popularity": "UNKNOWN",
-      "faq": "MEDIUM",
-      "notable_people": "UNKNOWN",
-      "historical_references": "HIGH"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [],
-      "fields_total": 74
-    },
+    "intro_paragraph": "Aabad is a Persian name meaning Inhabited; cultivated; prosperous; flourishing. It comes from Persian ābād (آباد), itself from āb (آب) water.",
+    "structured_data": {"@context": "https://schema.org", "@type": "Thing", "name": "Aabad", "description": "Aabad - Inhabited; cultivated; prosperous; flourishing", "additionalType": "https://schema.org/Person"},
+    "structured_data_faq": {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What does the name Aabad mean?", "acceptedAnswer": {"@type": "Answer", "text": "Aabad means Inhabited; cultivated; prosperous; flourishing."}}, {"@type": "Question", "name": "What is the origin of the name Aabad?", "acceptedAnswer": {"@type": "Answer", "text": "Aabad is of Persian origin."}}, {"@type": "Question", "name": "What language does the name Aabad come from?", "acceptedAnswer": {"@type": "Answer", "text": "Aabad is used in Persian, Urdu, Pashto and Hindi."}}, {"@type": "Question", "name": "Is Aabad a boy's name or a girl's name?", "acceptedAnswer": {"@type": "Answer", "text": "Aabad is used as a male name."}}, {"@type": "Question", "name": "How is Aabad pronounced?", "acceptedAnswer": {"@type": "Answer", "text": "Aabad is pronounced ah-BAAD (IPA /ɑːˈbɑːd/)."}}, {"@type": "Question", "name": "How is Aabad written in Arabic script?", "acceptedAnswer": {"@type": "Answer", "text": "Aabad is written آباد in Arabic script."}}, {"@type": "Question", "name": "How is Aabad written in Urdu and Hindi?", "acceptedAnswer": {"@type": "Answer", "text": "Aabad is written آباد in Urdu and आबाद in Devanagari."}}, {"@type": "Question", "name": "What is the linguistic root of Aabad?", "acceptedAnswer": {"@type": "Answer", "text": "The root of Aabad is Persian ābād (آباد), from āb (آب) water."}}, {"@type": "Question", "name": "What is the etymology of Aabad?", "acceptedAnswer": {"@type": "Answer", "text": "From Persian ābād (آباد) inhabited, cultivated, prosperous, itself from āb (آب) water. It is not related to the Arabic ʿabd (عبد) servant, which is the separate name ʿĀbid / Abid."}}, {"@type": "Question", "name": "Does Aabad appear in the Qur'an?", "acceptedAnswer": {"@type": "Answer", "text": "No. Aabad is of Persian origin and is not a Qur'anic name; it is used in Muslim naming tradition."}}, {"@type": "Question", "name": "Is Aabad related to the Arabic name Abid?", "acceptedAnswer": {"@type": "Answer", "text": "No. Aabad comes from Persian ābād, inhabited, cultivated. Abid (عابد) is a different Arabic name meaning worshipper, from the root ʿ-b-d. The two are unrelated despite the similar English spelling."}}, {"@type": "Question", "name": "Is the meaning of Aabad verified?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The meaning Inhabited; cultivated; prosperous; flourishing rests on the Persian/Urdu toponymic and personal-name element ābād, confirmed by Middle Persian ābād, populous, thriving, prosperous."}}, {"@type": "Question", "name": "What is the numerology or lucky number of Aabad?", "acceptedAnswer": {"@type": "Answer", "text": "In Pythagorean numerology the letters of Aabad total 9, reducing to 9. Number 9 is traditionally associated with compassion, idealism and completion. This is an interpretive tradition, not a factual claim."}}, {"@type": "Question", "name": "What are the common spelling variants of Aabad?", "acceptedAnswer": {"@type": "Answer", "text": "Variants and alternative transliterations include Abad and Aabaad."}}, {"@type": "Question", "name": "Where is the name Aabad used today?", "acceptedAnswer": {"@type": "Answer", "text": "Aabad circulates chiefly in Persian, Urdu, Pashto and Hindi naming communities. No verified registration statistics are published for it."}}]},
+    "structured_data_breadcrumb": {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": ""}, {"@type": "ListItem", "position": 2, "name": "Islamic Names", "item": ""}, {"@type": "ListItem", "position": 3, "name": "Aabad", "item": ""}]},
+    "advanced_seo": {"technical_seo": {"mobile_friendly": true, "schema_markup": true, "rtl_rendering": true}, "content_seo": {"faq_count": 15, "internal_linking": true, "unique_field_coverage": "name-specific meaning, etymology, root, script and FAQ"}, "performance_metrics": {}},
+    "confidence": {"meaning": "HIGH", "etymology": "HIGH", "origin": "HIGH", "scripts": "HIGH", "pronunciation": "MEDIUM", "gender": "HIGH", "numerology": "MEDIUM", "popularity": "UNKNOWN", "faq": "HIGH", "notable_people": "UNKNOWN", "historical_references": "HIGH"},
+    "data_quality": {"source_was_thin": false, "authenticity_flags": [], "fields_total": 75},
     "created_at": "2025-12-22T19:19:49.927Z",
-    "updated_at": "2026-10-01T04:04:17.000Z",
-    "tier1_verified": {
-      "name": "Aabad",
-      "slug": "aabad",
-      "meaning": "Inhabited; cultivated; prosperous; flourishing",
-      "origin": "Persian",
-      "language": [
-        "Persian",
-        "Urdu",
-        "Pashto",
-        "Hindi"
-      ],
-      "gender": "Male",
-      "root": "Persian ābād (آباد), from āb (آب) 'water'",
-      "etymology": "From Persian ābād (آباد) 'inhabited, cultivated, prosperous', itself from āb (آب) 'water'. It is NOT related to the Arabic ʿabd (عبد) 'servant' - that is the separate name ʿĀbid / Abid. Ābād is a productive Persian/Urdu toponymic element (Islāmābād, Ḥaydarābād, Abbottābād).",
-      "script": {
-        "arabic": "آباد",
-        "urdu": "آباد",
-        "hindi": "आबाद",
-        "pashto": "آباد"
-      },
-      "transliteration": "Ābād",
-      "reference": "Persian/Urdu toponymic and personal-name element; cf. Middle Persian ābād 'populous, thriving, prosperous'.",
-      "confidence": "HIGH"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Inhabited; cultivated; prosperous; flourishing",
-      "long_meaning": "From Persian ābād (آباد) 'inhabited, cultivated, prosperous', itself from āb (آب) 'water'. It is NOT related to the Arabic ʿabd (عبد) 'servant' - that is the separate name ʿĀbid / Abid. Ābād is a productive Persian/Urdu toponymic element (Islāmābād, Ḥaydarābād, Abbottābād). Aabad therefore means “Inhabited; cultivated; prosperous; flourishing”. Persian/Urdu toponymic and personal-name element; cf. Middle Persian ābād 'populous, thriving, prosperous'.",
-      "translations": {
-        "arabic": {
-          "name": "آباد",
-          "meaning": "آباد — المعنى: Inhabited; cultivated; prosperous; flourishing",
-          "confidence": "HIGH"
-        },
-        "urdu": {
-          "name": "آباد",
-          "meaning": "آباد — مطلب: Inhabited; cultivated; prosperous; flourishing",
-          "confidence": "HIGH"
-        },
-        "hindi": {
-          "name": "आबाद",
-          "meaning": "आबाद — अर्थ: Inhabited; cultivated; prosperous; flourishing",
-          "confidence": "HIGH"
-        },
-        "pashto": {
-          "name": "آباد",
-          "meaning": "آباد — معنی: Inhabited; cultivated; prosperous; flourishing",
-          "confidence": "HIGH"
-        },
-        "english": {
-          "name": "Aabad",
-          "meaning": "Inhabited; cultivated; prosperous; flourishing",
-          "confidence": "HIGH"
-        }
-      },
-      "pronunciation": {
-        "english": "ah-BAAD",
-        "ipa": "/ˈɑː.bɑːd/"
-      },
-      "syllables": 2,
-      "name_length": 5,
-      "faqs": [
-        {
-          "q": "Is Aabad related to the Arabic name Abid?",
-          "a": "No. Aabad comes from Persian ābād 'inhabited, cultivated, prosperous'. Abid (عابد) is a different Arabic name meaning 'worshipper', from the root ʿ-b-d. The two are unrelated despite the similar English spelling."
-        },
-        {
-          "q": "What does the Persian word ābād mean?",
-          "a": "Ābād (آباد) is a Persian word meaning 'inhabited, cultivated, prosperous, thriving'. It is built on āb (آب) 'water' and is widely used as a place-name suffix across Iran, Pakistan and India."
-        },
-        {
-          "q": "What does the name Aabad mean?",
-          "a": "Aabad means “Inhabited; cultivated; prosperous; flourishing”."
-        },
-        {
-          "q": "Where does the name Aabad come from?",
-          "a": "Aabad is of Persian origin."
-        },
-        {
-          "q": "What is the linguistic root of Aabad?",
-          "a": "The root of Aabad is Persian ābād (آباد), from āb (آب) 'water'."
-        },
-        {
-          "q": "How is Aabad written in Arabic script?",
-          "a": "Aabad is written آباد in Arabic script."
-        },
-        {
-          "q": "Is Aabad a boy's or a girl's name?",
-          "a": "Aabad is used as a male name."
-        },
-        {
-          "q": "Does Aabad appear in the Qur'an?",
-          "a": "No. Aabad is not a Qur'anic name; it is used in Muslim naming tradition."
-        },
-        {
-          "q": "Is the meaning of Aabad verified?",
-          "a": "Yes — the meaning “Inhabited; cultivated; prosperous; flourishing” is established by Persian/Urdu toponymic and personal-name element; cf. Middle Persian ābād 'populous, thriving, prosperous'.."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 9,
-        "life_path_number": 9,
-        "ruling_planet": "Mars",
-        "lucky_day": "Tuesday",
-        "lucky_stone": "Red Coral",
-        "lucky_colors": [
-          "Red",
-          "Crimson"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aabad total 9, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
-    "verification": {
-      "needs_manual_verification": false,
-      "flags": [],
-      "confidence": "HIGH",
-      "sources": [
-        "Persian/Urdu toponymic and personal-name element; cf. Middle Persian ābād 'populous, thriving, prosperous'."
-      ]
-    },
-    "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": true,
-      "processed_at": "2026-10-01T04:04:17.000Z"
-    }
+    "updated_at": "2026-10-01T10:20:00.000Z",
+    "tier1_verified": {"name": "Aabad", "slug": "aabad", "meaning": "Inhabited; cultivated; prosperous; flourishing", "origin": "Persian", "language": ["Persian", "Urdu", "Pashto", "Hindi"], "gender": "Male", "root": "Persian ābād (آباد), from āb (آب) water", "etymology": "From Persian ābād (آباد) inhabited, cultivated, prosperous, itself from āb (آب) water.", "script": {"arabic": "آباد", "urdu": "آباد", "hindi": "आबाद", "pashto": "آباد", "persian": "آباد"}, "transliteration": "Ābād", "reference": "Persian/Urdu toponymic and personal-name element; cf. Middle Persian ābād populous, thriving, prosperous.", "confidence": "HIGH"},
+    "tier2_explanatory": {"short_meaning": "Inhabited; cultivated; prosperous; flourishing", "long_meaning": "Aabad (آباد) is a Persian name meaning Inhabited; cultivated; prosperous; flourishing. It comes from Persian ābād (آباد), itself from āb (آب) water.", "translations": {"arabic": {"name": "آباد", "meaning": "عامر؛ معمور؛ مزدهر", "confidence": "HIGH"}, "urdu": {"name": "آباد", "meaning": "آباد؛ معمور؛ شاداب", "confidence": "HIGH"}, "hindi": {"name": "आबाद", "meaning": "आबाद; बसा हुआ; समृद्ध", "confidence": "HIGH"}, "pashto": {"name": "آباد", "meaning": "آباد؛ ودان", "confidence": "HIGH"}, "english": {"name": "Aabad", "meaning": "Inhabited; cultivated; prosperous; flourishing", "confidence": "HIGH"}}, "pronunciation": {"english": "ah-BAAD", "ipa": "/ɑːˈbɑːd/"}, "syllables": 2, "name_length": 5, "faqs": 15},
+    "tier3_interpretive": {"disclaimer": "The following fields are interpretive/optional associations derived from traditional numerology, not factual claims.", "numerology": {"lucky_number": 9, "life_path_number": 9, "ruling_planet": "Mars", "lucky_day": "Tuesday", "lucky_stone": "Red Coral", "lucky_colors": ["Red", "Crimson"], "numerology_meaning": "In Pythagorean numerology the letters of Aabad total 9, reducing to 9."}, "personality_associations": [], "spiritual_symbolism": ""},
+    "verification": {"needs_manual_verification": false, "flags": [], "confidence": "HIGH", "sources": ["Persian/Urdu toponymic and personal-name element; cf. Middle Persian ābād populous, thriving, prosperous."]},
+    "nameverse": {"pipeline": "NameVerse Production v5", "methodology": "Original to Verified to Expanded to Enriched", "tier1_verified": true, "processed_at": "2026-10-01T10:20:00.000Z"}
   }
 }

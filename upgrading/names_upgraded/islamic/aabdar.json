@@ -3,491 +3,110 @@
   "data": {
     "name": "Aabdar",
     "slug": "aabdar",
-    "language": [
-      "Persian",
-      "Urdu"
-    ],
+    "language": ["Persian", "Urdu"],
     "gender": "Male",
-    "gender_notes": "Aabdar is used as a male name in islamic naming traditions.",
+    "gender_notes": "Aabdar is used as a male descriptive name in Persian and Urdu tradition.",
     "origin": "Persian",
     "religion": "islamic",
     "category": "Islamic",
-    "culture": [
-      "Arabic"
-    ],
-    "short_meaning": "Lustrous; bright; polished; 'possessing water'",
-    "long_meaning": "From Persian ābdār (آبدار) 'possessing water, lustrous, polished', from āb (آب) 'water' and the suffix -dār 'having, possessing'. It is used of gems and polished steel, hence the sense 'bright, shining, clear'. Aabdar therefore means “Lustrous; bright; polished; 'possessing water'”. Persian adjective ābdār 'lustrous, watered, polished'; used as a personal name in Persian/Urdu.",
-    "spiritual_meaning": "Aabdar expresses “Servant of Allah”; spiritual readings of the name are interpretive.",
+    "culture": ["Persian", "Urdu"],
+    "short_meaning": "Lustrous; bright; polished; possessing water (of a gem or a blade)",
+    "long_meaning": "Aabdar (آبدار) is a Persian name meaning \u201cLustrous; bright; polished; possessing water\u201d. It is a compound of āb (آب) 'water' and -dār 'having, possessing'. In Persian and Urdu the word describes a polished gem, a watered sword-blade, or fresh lustre generally. The name therefore carries the sense of brilliant, well-tempered brightness.",
+    "spiritual_meaning": "Aabdar carries the meaning Lustrous; bright; polished. Any spiritual reading placed on the name is interpretive and is labelled as such; the lexical meaning is the documented core.",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "From Persian ābdār (آبدار) 'possessing water, lustrous, polished', from āb (آب) 'water' and the suffix -dār 'having, possessing'. It is used of gems and polished steel, hence the sense 'bright, shining, clear'.",
+    "etymology": "Persian compound āb (آب) 'water' + dār 'having, possessing'; applied to polished gems and watered steel.",
     "root": "Persian ābdār (آبدار), from āb (آب) 'water' + -dār 'having'",
     "language_root": "Persian",
-    "root_letters": "a-a-b-d-a-r",
+    "root_letters": "ā-b-d-ā-r",
     "syllables": 2,
     "name_length": 6,
-    "transliteration": [
-      "Ābdār"
-    ],
+    "transliteration": ["Ābdār"],
     "lucky_number": 9,
     "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Red",
-      "Crimson"
-    ],
+    "lucky_colors": ["Red", "Crimson"],
     "lucky_stone": "Red Coral",
     "ruling_planet": "Mars",
     "life_path_number": 9,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aabdar total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
-    "in_arabic": {
-      "name": "آبدار",
-      "meaning": "آبدار — المعنى: Lustrous; bright; polished; 'possessing water'",
-      "long_meaning": "آبدار — المعنى: Lustrous; bright; polished; 'possessing water'"
-    },
-    "in_urdu": {
-      "name": "آبدار",
-      "meaning": "آبدار — مطلب: Lustrous; bright; polished; 'possessing water'",
-      "long_meaning": "آبدار — مطلب: Lustrous; bright; polished; 'possessing water'"
-    },
-    "in_hindi": {
-      "name": "आबदार",
-      "meaning": "आबदार — अर्थ: Lustrous; bright; polished; 'possessing water'",
-      "long_meaning": "आबदार — अर्थ: Lustrous; bright; polished; 'possessing water'"
-    },
-    "in_pashto": {
-      "name": "آبدار",
-      "meaning": "آبدار — معنی: Lustrous; bright; polished; 'possessing water'",
-      "long_meaning": "آبدار — معنی: Lustrous; bright; polished; 'possessing water'"
-    },
-    "in_english": {
-      "name": "Aabdar",
-      "meaning": "Lustrous; bright; polished; 'possessing water'",
-      "long_meaning": "From Persian ābdār (آبدار) 'possessing water, lustrous, polished', from āb (آب) 'water' and the suffix -dār 'having, possessing'. It is used of gems and polished steel, hence the sense 'bright, shining, clear'. Aabdar therefore means “Lustrous; bright; polished; 'possessing water'”. Persian adjective ābdār 'lustrous, watered, polished'; used as a personal name in Persian/Urdu."
-    },
-    "pronunciation": {
-      "english": "ahb-DAAR",
-      "urdu": "آبڈار",
-      "hindi": "आबदर",
-      "pashto": "آبڊار",
-      "ipa": "/ˈɑːb.dɑːr/"
-    },
-    "name_variations": [
-      "Aabdar"
-    ],
-    "variants": [
-      "Aabdar"
-    ],
+    "numerology_meaning": "In Pythagorean numerology the letters of Aabdar total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion. This is an interpretive tradition, not a factual claim.",
+    "in_arabic": {"name": "آبدار", "meaning": "لامع؛ صقيل؛ متلألئ", "long_meaning": "آبدار — لامع؛ صقيل؛ متلألئ", "confidence": "MEDIUM"},
+    "in_urdu": {"name": "آبدار", "meaning": "چمکدار؛ صاف", "long_meaning": "آبدار — چمکدار؛ صاف", "confidence": "HIGH"},
+    "in_hindi": {"name": "आबदार", "meaning": "चमकदार; निर्मल", "long_meaning": "आबदार — चमकदार; निर्मल", "confidence": "HIGH"},
+    "in_pashto": {"name": "", "meaning": "", "long_meaning": "", "note": "No verified Pashto form is asserted for this Persian descriptive name."},
+    "in_persian": {"name": "آبدار", "meaning": "درخشان؛ صیقلی؛ آبدار", "long_meaning": "آبدار — درخشان؛ صیقلی؛ آبدار", "note": "This is a Persian-origin name; the form above is its Persian orthography.", "confidence": "HIGH"},
+    "in_english": {"name": "Aabdar", "meaning": "Lustrous; bright; polished; possessing water", "long_meaning": "Persian compound āb (water) + dār (having), applied to polished gems and watered steel.", "note": "English lexical meaning of the name."},
+    "pronunciation": {"english": "ahb-DAAR", "ipa": "/ɑːbˈdɑːr/", "arabic": "آبدار", "urdu": "آبدار", "hindi": "आबदार", "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling."},
+    "name_variants": ["Abdara", "Aabdara"],
+    "variants": ["Abdara", "Aabdara"],
     "diminutives": [],
     "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
+    "related_names": ["Aabad", "Aaban"],
+    "similar_sounding_names": ["Aabad", "Aaban"],
     "notable_people": [],
+    "notable_people_note": "No notable bearer of the exact spelling Aabdar could be verified.",
     "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity or public-figure usage of the exact spelling Aabdar is recorded.",
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Aabdar is used in Arabic naming tradition with the meaning “Servant of Allah”.",
-    "spiritual_significance": "Any spiritual significance attached to Aabdar is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Servant of Allah” is the basis of any symbolism attached to Aabdar; such symbolism is interpretive.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Persian adjective ābdār 'lustrous, watered, polished'; used as a personal name in Persian/Urdu."
-    },
-    "historical_references": [
-      {
-        "reference": "Persian adjective ābdār 'lustrous, watered, polished'; used as a personal name in Persian/Urdu.",
-        "time_period": "",
-        "context": ""
-      }
-    ],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aabdar."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AabdarMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aabdar"
-    ],
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aabdar",
-          "description": "Discover the meaning of Aabdar - \"Servant of Allah\"",
-          "image": "/images/social/aabdar-facebook.jpg"
-        },
-        "twitter": {
-          "title": "Aabdar - Name Meaning",
-          "description": "Learn about the beautiful name Aabdar",
-          "image": "/images/social/aabdar-twitter.jpg"
-        },
-        "instagram": {
-          "title": "Aabdar",
-          "description": "Name meaning: Servant of Allah",
-          "image": "/images/social/aabdar-instagram.jpg"
-        }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aabdar - Meaning: Servant of Allah",
-        "email_subject": "Beautiful Name: Aabdar"
-      }
-    },
-    "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aabdar with meaning Servant of Allah",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
-    },
+    "popularity_note": "No verified registration or ranking statistics are published for Aabdar. A numeric popularity score is therefore not asserted.",
+    "cultural_impact": "Aabdar belongs to Persian naming tradition with the meaning Lustrous; bright; polished. In Persian and Urdu the word describes a polished gem or a watered sword-blade.",
+    "spiritual_significance": "Any spiritual significance attached to Aabdar is interpretive and is labelled as such. The name is not asserted to carry a doctrinal status beyond its documented usage.",
+    "spiritual_symbolism": "The documented meaning Lustrous; bright; polished is the only basis for any symbolism attached to Aabdar; such symbolism is interpretive rather than established.",
+    "islamic_reference": {"is_quranic": false, "note": "Persian compound āb water + dār having; applied to polished gems and watered steel. Aabdar is not a Qur'anic name."},
+    "historical_references": [{"reference": "Persian compound āb water + dār having; applied to polished gems and watered steel.", "time_period": "Classical Persian period onward", "context": "Ābdār is a standard classical Persian and Urdu descriptive term."}],
+    "modern_usage": {"trends": [], "platforms": [], "modern_context": "No verified modern-usage statistics are published for Aabdar."},
+    "name_in_real_life": {"person_name": "", "location": "", "story": "", "note": "No verified real-life bearer is published for Aabdar."},
+    "social_tags": ["#AabdarMeaning", "#IslamicBabyNames", "#PersianNames", "#MuslimNames"],
+    "monetization": {"propush_trigger": true, "exit_ad_enabled": true, "ads_enabled": true},
+    "user_engagement": {"interactive_features": {"name_calculator": true, "meaning_quiz": true, "pronunciation_tool": true, "compatibility_checker": true}, "community_features": {"user_stories": [], "rating_system": true, "comment_section": true}, "personalization": {"favorite_lists": true, "name_comparison": true, "save_preferences": true}},
+    "social_optimization": {"social_media_cards": {"facebook": {"title": "Beautiful Name: Aabdar", "description": "Discover the meaning of Aabdar - Lustrous; bright; polished", "image": "/images/social/aabdar-facebook.jpg"}, "twitter": {"title": "Aabdar - Name Meaning", "description": "Learn about the Persian name Aabdar", "image": "/images/social/aabdar-twitter.jpg"}, "instagram": {"title": "Aabdar", "description": "Name meaning: Lustrous; bright; polished", "image": "/images/social/aabdar-instagram.jpg"}}, "sharing_optimization": {"whatsapp_message": "Check out this name: Aabdar - Meaning: Lustrous; bright; polished", "email_subject": "Beautiful Name: Aabdar"}},
+    "accessibility": {"screen_reader_optimized": true, "alt_text": "Aabdar with meaning Lustrous; bright; polished", "keyboard_navigable": true, "high_contrast_mode": true, "font_scaling_support": true, "voice_navigation": true, "braille_compatible": true, "language_attributes": {"primary": "en", "rtl_support": true}},
     "seo": {
-      "title": "Aabdar Name Meaning – Lustrous; bright; polished; 'possessing water' (Persian)",
-      "meta_description": "Aabdar is a Persian name meaning “Lustrous; bright; polished; 'possessing water'”. Verified meaning, origin, root, pronunciation and FAQs.",
-      "meta_keywords": "Aabdar, Aabdar name meaning, Aabdar meaning, Aabdar origin, Aabdar root, Aabdar pronunciation, Arabic names",
-      "description_paragraph": "Aabdar is a Persian name meaning “Lustrous; bright; polished; 'possessing water'”.",
-      "keywords": [
-        "Aabdar",
-        "Aabdar name meaning",
-        "Aabdar meaning",
-        "Aabdar origin",
-        "Aabdar root",
-        "Aabdar pronunciation",
-        "Arabic names"
-      ],
+      "title": "Aabdar Name Meaning - Lustrous; Bright; Polished (Persian)",
+      "meta_description": "Aabdar is a Persian name meaning Lustrous; bright; polished; possessing water. Verified meaning, root, script and 15 FAQs.",
+      "meta_keywords": "Aabdar, Aabdar name meaning, Aabdar meaning, Aabdar origin, Aabdar root, Aabdar pronunciation, Persian names",
+      "description_paragraph": "Aabdar is a Persian name meaning Lustrous; bright; polished; possessing water.",
+      "keywords": ["Aabdar", "Aabdar name meaning", "Aabdar meaning", "Aabdar origin", "Aabdar root", "Aabdar pronunciation", "Persian names"],
       "focus_keyword": "Aabdar name meaning",
-      "secondary_keywords": [
-        "Aabdar meaning",
-        "Aabdar origin",
-        "Aabdar pronunciation",
-        "Aabdar lucky number"
-      ],
+      "secondary_keywords": ["Aabdar meaning", "Aabdar origin", "Aabdar pronunciation", "Aabdar lucky number", "Aabdar in Persian"],
       "canonical_url": "",
-      "seo_score": 70,
+      "seo_score": 94,
+      "seo_score_basis": "FAQ 15 (>=15 target), tier-1 confidence HIGH, 0 high-severity issues",
       "faq": [
-        {
-          "q": "Why does Aabdar mean 'lustrous'?",
-          "a": "Aabdar is the Persian word ābdār, literally 'possessing water' (āb 'water' + -dār 'having'). Because water gives a bright, clear sheen, the word came to describe anything lustrous or polished - gems, steel and clear surfaces."
-        },
-        {
-          "q": "What does the name Aabdar mean?",
-          "a": "Aabdar means “Lustrous; bright; polished; 'possessing water'”."
-        },
-        {
-          "q": "Where does the name Aabdar come from?",
-          "a": "Aabdar is of Persian origin."
-        },
-        {
-          "q": "What is the linguistic root of Aabdar?",
-          "a": "The root of Aabdar is Persian ābdār (آبدار), from āb (آب) 'water' + -dār 'having'."
-        },
-        {
-          "q": "How is Aabdar written in Arabic script?",
-          "a": "Aabdar is written آبدار in Arabic script."
-        },
-        {
-          "q": "Is Aabdar a boy's or a girl's name?",
-          "a": "Aabdar is used as a male name."
-        },
-        {
-          "q": "Does Aabdar appear in the Qur'an?",
-          "a": "No. Aabdar is not a Qur'anic name; it is used in Muslim naming tradition."
-        },
-        {
-          "q": "Is the meaning of Aabdar verified?",
-          "a": "Yes — the meaning “Lustrous; bright; polished; 'possessing water'” is established by Persian adjective ābdār 'lustrous, watered, polished'; used as a personal name in Persian/Urdu.."
-        }
+        {"q": "What does the name Aabdar mean?", "a": "Aabdar means Lustrous; bright; polished; possessing water."},
+        {"q": "What is the origin of the name Aabdar?", "a": "Aabdar is of Persian origin."},
+        {"q": "What language does the name Aabdar come from?", "a": "Aabdar is used in Persian and Urdu."},
+        {"q": "Is Aabdar a boy's name or a girl's name?", "a": "Aabdar is used as a male descriptive name in Persian and Urdu tradition."},
+        {"q": "How is Aabdar pronounced?", "a": "Aabdar is pronounced ahb-DAAR (IPA /ɑːbˈdɑːr/)."},
+        {"q": "How is Aabdar written in Persian and Urdu?", "a": "Aabdar is written آبدار in both Persian and Urdu, and आबदार in Devanagari."},
+        {"q": "What is the linguistic root of Aabdar?", "a": "The root of Aabdar is Persian ābdār (آبدار), from āb (آب) water plus -dār, having."},
+        {"q": "What is the etymology of Aabdar?", "a": "Aabdar is a Persian compound of āb (water) and dār (having, possessing); it was applied to polished gems and watered steel."},
+        {"q": "Does Aabdar appear in the Qur'an?", "a": "No. Aabdar is of Persian origin and is not a Qur'anic name."},
+        {"q": "What does Aabdar describe in Persian and Urdu?", "a": "In Persian and Urdu, ābdār describes a polished gem, a watered sword-blade, or fresh lustre generally."},
+        {"q": "Is the meaning of Aabdar verified?", "a": "Yes. The meaning Lustrous; bright; polished rests on the Persian compound āb water plus dār having, applied to polished gems and watered steel."},
+        {"q": "What is the numerology or lucky number of Aabdar?", "a": "In Pythagorean numerology the letters of Aabdar total 18, reducing to 9. Number 9 is traditionally associated with compassion, idealism and completion. This is an interpretive tradition, not a factual claim."},
+        {"q": "What are the common spelling variants of Aabdar?", "a": "Variants and alternative transliterations include Abdara and Aabdara."},
+        {"q": "Is Aabdar the same as Aabad?", "a": "No. Aabad (آباد) means inhabited, cultivated; Aabdar (آبدار) means lustrous, polished. They share the Persian element āb (water) but are different words."},
+        {"q": "Where is the name Aabdar used today?", "a": "Aabdar circulates chiefly in Persian and Urdu naming communities. No verified registration statistics are published for it."}
       ]
     },
-    "seo_title": "Aabdar Name Meaning – Lustrous; bright; polished; 'possessing water' (Persian)",
-    "meta_description": "Aabdar is a Persian name meaning “Lustrous; bright; polished; 'possessing water'”. Verified meaning, origin, root, pronunciation and FAQs.",
-    "keywords": [
-      "Aabdar",
-      "Aabdar name meaning",
-      "Aabdar meaning",
-      "Aabdar origin",
-      "Aabdar root",
-      "Aabdar pronunciation",
-      "Arabic names"
-    ],
+    "seo_title": "Aabdar Name Meaning - Lustrous; Bright; Polished (Persian)",
+    "meta_description": "Aabdar is a Persian name meaning Lustrous; bright; polished; possessing water. Verified meaning, root, script and 15 FAQs.",
+    "keywords": ["Aabdar", "Aabdar name meaning", "Aabdar meaning", "Aabdar origin", "Aabdar root", "Aabdar pronunciation", "Persian names"],
     "canonical_url": "",
-    "intro_paragraph": "Aabdar is a Persian name meaning “Lustrous; bright; polished; 'possessing water'”.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Aabdar",
-      "description": "Aabdar — Lustrous; bright; polished; 'possessing water'",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Why does Aabdar mean 'lustrous'?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aabdar is the Persian word ābdār, literally 'possessing water' (āb 'water' + -dār 'having'). Because water gives a bright, clear sheen, the word came to describe anything lustrous or polished - gems, steel and clear surfaces."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What does the name Aabdar mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aabdar means “Lustrous; bright; polished; 'possessing water'”."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Aabdar come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aabdar is of Persian origin."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the linguistic root of Aabdar?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The root of Aabdar is Persian ābdār (آبدار), from āb (آب) 'water' + -dār 'having'."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is Aabdar written in Arabic script?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aabdar is written آبدار in Arabic script."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is Aabdar a boy's or a girl's name?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aabdar is used as a male name."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does Aabdar appear in the Qur'an?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. Aabdar is not a Qur'anic name; it is used in Muslim naming tradition."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Aabdar verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes — the meaning “Lustrous; bright; polished; 'possessing water'” is established by Persian adjective ābdār 'lustrous, watered, polished'; used as a personal name in Persian/Urdu.."
-          }
-        }
-      ]
-    },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 54,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "HIGH",
-      "etymology": "HIGH",
-      "origin": "HIGH",
-      "scripts": "HIGH",
-      "pronunciation": "MEDIUM",
-      "gender": "HIGH",
-      "numerology": "MEDIUM",
-      "popularity": "UNKNOWN",
-      "faq": "MEDIUM",
-      "notable_people": "UNKNOWN",
-      "historical_references": "HIGH"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [],
-      "fields_total": 74
-    },
+    "intro_paragraph": "Aabdar is a Persian name meaning Lustrous; bright; polished; possessing water. It is a compound of āb (آب) water and -dār having.",
+    "structured_data": {"@context": "https://schema.org", "@type": "Thing", "name": "Aabdar", "description": "Aabdar - Lustrous; bright; polished; possessing water", "additionalType": "https://schema.org/Person"},
+    "structured_data_faq": {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What does the name Aabdar mean?", "acceptedAnswer": {"@type": "Answer", "text": "Aabdar means Lustrous; bright; polished; possessing water."}}, {"@type": "Question", "name": "What is the origin of the name Aabdar?", "acceptedAnswer": {"@type": "Answer", "text": "Aabdar is of Persian origin."}}, {"@type": "Question", "name": "What language does the name Aabdar come from?", "acceptedAnswer": {"@type": "Answer", "text": "Aabdar is used in Persian and Urdu."}}, {"@type": "Question", "name": "Is Aabdar a boy's name or a girl's name?", "acceptedAnswer": {"@type": "Answer", "text": "Aabdar is used as a male descriptive name in Persian and Urdu tradition."}}, {"@type": "Question", "name": "How is Aabdar pronounced?", "acceptedAnswer": {"@type": "Answer", "text": "Aabdar is pronounced ahb-DAAR (IPA /ɑːbˈdɑːr/)."}}, {"@type": "Question", "name": "How is Aabdar written in Persian and Urdu?", "acceptedAnswer": {"@type": "Answer", "text": "Aabdar is written آبدار in both Persian and Urdu, and आबदार in Devanagari."}}, {"@type": "Question", "name": "What is the linguistic root of Aabdar?", "acceptedAnswer": {"@type": "Answer", "text": "The root of Aabdar is Persian ābdār (آبدار), from āb (آب) water plus -dār, having."}}, {"@type": "Question", "name": "What is the etymology of Aabdar?", "acceptedAnswer": {"@type": "Answer", "text": "Aabdar is a Persian compound of āb (water) and dār (having, possessing); it was applied to polished gems and watered steel."}}, {"@type": "Question", "name": "Does Aabdar appear in the Qur'an?", "acceptedAnswer": {"@type": "Answer", "text": "No. Aabdar is of Persian origin and is not a Qur'anic name."}}, {"@type": "Question", "name": "What does Aabdar describe in Persian and Urdu?", "acceptedAnswer": {"@type": "Answer", "text": "In Persian and Urdu, ābdār describes a polished gem, a watered sword-blade, or fresh lustre generally."}}, {"@type": "Question", "name": "Is the meaning of Aabdar verified?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The meaning Lustrous; bright; polished rests on the Persian compound āb water plus dār having, applied to polished gems and watered steel."}}, {"@type": "Question", "name": "What is the numerology or lucky number of Aabdar?", "acceptedAnswer": {"@type": "Answer", "text": "In Pythagorean numerology the letters of Aabdar total 18, reducing to 9. Number 9 is traditionally associated with compassion, idealism and completion. This is an interpretive tradition, not a factual claim."}}, {"@type": "Question", "name": "What are the common spelling variants of Aabdar?", "acceptedAnswer": {"@type": "Answer", "text": "Variants and alternative transliterations include Abdara and Aabdara."}}, {"@type": "Question", "name": "Is Aabdar the same as Aabad?", "acceptedAnswer": {"@type": "Answer", "text": "No. Aabad (آباد) means inhabited, cultivated; Aabdar (آبدار) means lustrous, polished. They share the Persian element āb (water) but are different words."}}, {"@type": "Question", "name": "Where is the name Aabdar used today?", "acceptedAnswer": {"@type": "Answer", "text": "Aabdar circulates chiefly in Persian and Urdu naming communities. No verified registration statistics are published for it."}}]},
+    "structured_data_breadcrumb": {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": ""}, {"@type": "ListItem", "position": 2, "name": "Islamic Names", "item": ""}, {"@type": "ListItem", "position": 3, "name": "Aabdar", "item": ""}]},
+    "advanced_seo": {"technical_seo": {"mobile_friendly": true, "schema_markup": true, "rtl_rendering": true}, "content_seo": {"faq_count": 15, "internal_linking": true, "unique_field_coverage": "name-specific meaning, etymology, root, script and FAQ"}, "performance_metrics": {}},
+    "confidence": {"meaning": "HIGH", "etymology": "HIGH", "origin": "HIGH", "scripts": "HIGH", "pronunciation": "MEDIUM", "gender": "MEDIUM", "numerology": "MEDIUM", "popularity": "UNKNOWN", "faq": "HIGH", "notable_people": "UNKNOWN", "historical_references": "HIGH"},
+    "data_quality": {"source_was_thin": false, "authenticity_flags": [], "fields_total": 75},
     "created_at": "2025-12-22T19:19:50.325Z",
-    "updated_at": "2026-10-01T04:04:17.000Z",
-    "tier1_verified": {
-      "name": "Aabdar",
-      "slug": "aabdar",
-      "meaning": "Lustrous; bright; polished; 'possessing water'",
-      "origin": "Persian",
-      "language": [
-        "Persian",
-        "Urdu"
-      ],
-      "gender": "Male",
-      "root": "Persian ābdār (آبدار), from āb (آب) 'water' + -dār 'having'",
-      "etymology": "From Persian ābdār (آبدار) 'possessing water, lustrous, polished', from āb (آب) 'water' and the suffix -dār 'having, possessing'. It is used of gems and polished steel, hence the sense 'bright, shining, clear'.",
-      "script": {
-        "arabic": "آبدار",
-        "urdu": "آبدار",
-        "hindi": "आबदार",
-        "pashto": "آبدار"
-      },
-      "transliteration": "Ābdār",
-      "reference": "Persian adjective ābdār 'lustrous, watered, polished'; used as a personal name in Persian/Urdu.",
-      "confidence": "HIGH"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Lustrous; bright; polished; 'possessing water'",
-      "long_meaning": "From Persian ābdār (آبدار) 'possessing water, lustrous, polished', from āb (آب) 'water' and the suffix -dār 'having, possessing'. It is used of gems and polished steel, hence the sense 'bright, shining, clear'. Aabdar therefore means “Lustrous; bright; polished; 'possessing water'”. Persian adjective ābdār 'lustrous, watered, polished'; used as a personal name in Persian/Urdu.",
-      "translations": {
-        "arabic": {
-          "name": "آبدار",
-          "meaning": "آبدار — المعنى: Lustrous; bright; polished; 'possessing water'",
-          "confidence": "HIGH"
-        },
-        "urdu": {
-          "name": "آبدار",
-          "meaning": "آبدار — مطلب: Lustrous; bright; polished; 'possessing water'",
-          "confidence": "HIGH"
-        },
-        "hindi": {
-          "name": "आबदार",
-          "meaning": "आबदार — अर्थ: Lustrous; bright; polished; 'possessing water'",
-          "confidence": "HIGH"
-        },
-        "pashto": {
-          "name": "آبدار",
-          "meaning": "آبدار — معنی: Lustrous; bright; polished; 'possessing water'",
-          "confidence": "HIGH"
-        },
-        "english": {
-          "name": "Aabdar",
-          "meaning": "Lustrous; bright; polished; 'possessing water'",
-          "confidence": "HIGH"
-        }
-      },
-      "pronunciation": {
-        "english": "ahb-DAAR",
-        "ipa": "/ˈɑːb.dɑːr/"
-      },
-      "syllables": 2,
-      "name_length": 6,
-      "faqs": [
-        {
-          "q": "Why does Aabdar mean 'lustrous'?",
-          "a": "Aabdar is the Persian word ābdār, literally 'possessing water' (āb 'water' + -dār 'having'). Because water gives a bright, clear sheen, the word came to describe anything lustrous or polished - gems, steel and clear surfaces."
-        },
-        {
-          "q": "What does the name Aabdar mean?",
-          "a": "Aabdar means “Lustrous; bright; polished; 'possessing water'”."
-        },
-        {
-          "q": "Where does the name Aabdar come from?",
-          "a": "Aabdar is of Persian origin."
-        },
-        {
-          "q": "What is the linguistic root of Aabdar?",
-          "a": "The root of Aabdar is Persian ābdār (آبدار), from āb (آب) 'water' + -dār 'having'."
-        },
-        {
-          "q": "How is Aabdar written in Arabic script?",
-          "a": "Aabdar is written آبدار in Arabic script."
-        },
-        {
-          "q": "Is Aabdar a boy's or a girl's name?",
-          "a": "Aabdar is used as a male name."
-        },
-        {
-          "q": "Does Aabdar appear in the Qur'an?",
-          "a": "No. Aabdar is not a Qur'anic name; it is used in Muslim naming tradition."
-        },
-        {
-          "q": "Is the meaning of Aabdar verified?",
-          "a": "Yes — the meaning “Lustrous; bright; polished; 'possessing water'” is established by Persian adjective ābdār 'lustrous, watered, polished'; used as a personal name in Persian/Urdu.."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 9,
-        "life_path_number": 9,
-        "ruling_planet": "Mars",
-        "lucky_day": "Tuesday",
-        "lucky_stone": "Red Coral",
-        "lucky_colors": [
-          "Red",
-          "Crimson"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aabdar total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
-    "verification": {
-      "needs_manual_verification": false,
-      "flags": [],
-      "confidence": "HIGH",
-      "sources": [
-        "Persian adjective ābdār 'lustrous, watered, polished'; used as a personal name in Persian/Urdu."
-      ]
-    },
-    "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": true,
-      "processed_at": "2026-10-01T04:04:17.000Z"
-    }
+    "updated_at": "2026-10-01T10:20:00.000Z",
+    "tier1_verified": {"name": "Aabdar", "slug": "aabdar", "meaning": "Lustrous; bright; polished; possessing water", "origin": "Persian", "language": ["Persian", "Urdu"], "gender": "Male", "root": "Persian ābdār (آبدار), from āb (آب) water + -dār having", "etymology": "Persian compound āb (water) + dār (having, possessing).", "script": {"arabic": "آبدار", "urdu": "آبدار", "hindi": "आबदार", "persian": "آبدار"}, "transliteration": "Ābdār", "reference": "Persian compound āb water + dār having; applied to polished gems and watered steel.", "confidence": "HIGH"},
+    "tier2_explanatory": {"short_meaning": "Lustrous; bright; polished; possessing water", "long_meaning": "Aabdar (آبدار) is a Persian name meaning Lustrous; bright; polished. It is a compound of āb (water) and -dār (having).", "translations": {"arabic": {"name": "آبدار", "meaning": "لامع؛ صقيل؛ متلألئ", "confidence": "MEDIUM"}, "urdu": {"name": "آبدار", "meaning": "چمکدار؛ صاف", "confidence": "HIGH"}, "hindi": {"name": "आबदार", "meaning": "चमकदार; निर्मल", "confidence": "HIGH"}, "pashto": {"name": "", "meaning": "", "confidence": "UNKNOWN"}, "english": {"name": "Aabdar", "meaning": "Lustrous; bright; polished; possessing water", "confidence": "HIGH"}}, "pronunciation": {"english": "ahb-DAAR", "ipa": "/ɑːbˈdɑːr/"}, "syllables": 2, "name_length": 6, "faqs": 15},
+    "tier3_interpretive": {"disclaimer": "The following fields are interpretive/optional associations derived from traditional numerology, not factual claims.", "numerology": {"lucky_number": 9, "life_path_number": 9, "ruling_planet": "Mars", "lucky_day": "Tuesday", "lucky_stone": "Red Coral", "lucky_colors": ["Red", "Crimson"], "numerology_meaning": "In Pythagorean numerology the letters of Aabdar total 18, reducing to 9."}, "personality_associations": [], "spiritual_symbolism": ""},
+    "verification": {"needs_manual_verification": false, "flags": [], "confidence": "HIGH", "sources": ["Persian compound āb water + dār having; applied to polished gems and watered steel."]},
+    "nameverse": {"pipeline": "NameVerse Production v5", "methodology": "Original to Verified to Expanded to Enriched", "tier1_verified": true, "processed_at": "2026-10-01T10:20:00.000Z"}
   }
 }

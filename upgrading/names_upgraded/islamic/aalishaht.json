@@ -1,382 +1,549 @@
 {
-  "success": true,
-  "data": {
-    "name": "Aalishaht",
-    "slug": "aalishaht",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Aalishaht is used as a unisex name in islamic naming traditions.",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "culture": [
-      "Arabic"
-    ],
-    "short_meaning": "Graceful one",
-    "long_meaning": "The meaning of Aalishaht is recorded in name-lists as “Graceful one”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Aalishaht expresses “Graceful one”; spiritual readings of the name are interpretive.",
-    "emotional_traits": [],
-    "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Arabic",
-    "root_letters": "a-a-l-i-s-h-a-h-t",
-    "syllables": 3,
-    "name_length": 9,
-    "transliteration": [
-      "Aalishaht"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Grey",
-      "Smoke"
-    ],
-    "lucky_stone": "Cat's Eye",
-    "ruling_planet": "Ketu",
-    "life_path_number": 7,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aalishaht total 34, reducing to 7. Number 7 is associated with reflection, analysis and inner search.",
-    "in_arabic": {
-      "name": "عالیشاہت",
-      "meaning": "Graceful one",
-      "long_meaning": "Graceful one"
+ "success": true,
+ "data": {
+  "name": "Aalishaht",
+  "slug": "aalishaht",
+  "language": [
+   "Arabic",
+   "Urdu"
+  ],
+  "gender": "Female",
+  "gender_notes": "Aalishaht is listed as a female name.",
+  "origin": "Arabic",
+  "religion": "islamic",
+  "category": "Islamic",
+  "culture": [
+   "Arabic",
+   "Urdu"
+  ],
+  "short_meaning": "Recorded as noble/majestic; form uncertain",
+  "long_meaning": "Aalishaht (عاليشاة) is listed with a gloss of nobility and majesty. The form appears to combine ʿālī, 'exalted', with an added suffix and does not correspond to a standard Arabic name, so the gloss is given at low confidence and flagged for manual verification.",
+  "spiritual_meaning": "No spiritual sense is asserted beyond its recorded usage; any reading placed on it is interpretive and labelled as such.",
+  "emotional_traits": [],
+  "hidden_personality_traits": [],
+  "etymology": "Uncertain; the form is not standard.",
+  "root": "ع-ل-و (ʿ-l-w) + suffix (uncertain)",
+  "language_root": "Arabic",
+  "root_letters": "ʿ-l-w",
+  "syllables": 3,
+  "name_length": 9,
+  "transliteration": [
+   "ʿĀlīshāt"
+  ],
+  "lucky_number": 7,
+  "lucky_day": "Monday",
+  "lucky_colors": [
+   "Sea Green",
+   "White"
+  ],
+  "lucky_stone": "Cat's Eye",
+  "ruling_planet": "Neptune",
+  "life_path_number": 7,
+  "numerology_meaning": "In Pythagorean numerology the letters of Aalishaht total 34, reducing to 7. Number 7 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim.",
+  "in_arabic": {
+   "name": "عاليشاة",
+   "meaning": "Recorded as noble/majestic; form uncertain",
+   "long_meaning": "عاليشاة — Recorded as noble/majestic; form uncertain",
+   "confidence": "MEDIUM"
+  },
+  "in_urdu": {
+   "name": "عالیشاہت",
+   "meaning": "Recorded as noble/majestic; form uncertain",
+   "long_meaning": "عالیشاہت — Recorded as noble/majestic; form uncertain",
+   "confidence": "MEDIUM"
+  },
+  "in_hindi": {
+   "name": "आलीशाहत",
+   "meaning": "Recorded as noble/majestic; form uncertain",
+   "long_meaning": "आलीशाहत — Recorded as noble/majestic; form uncertain",
+   "confidence": "MEDIUM"
+  },
+  "in_pashto": {
+   "name": "عالیشاهت",
+   "meaning": "Recorded as noble/majestic; form uncertain",
+   "long_meaning": "عالیشاهت — Recorded as noble/majestic; form uncertain",
+   "confidence": "MEDIUM"
+  },
+  "in_english": {
+   "name": "Aalishaht",
+   "meaning": "Recorded as noble/majestic; form uncertain",
+   "long_meaning": "Aalishaht (عاليشاة) is listed with a gloss of nobility and majesty. The form appears to combine ʿālī, 'exalted', with an added suffix and does not correspond to a standard Arabic n",
+   "note": "English lexical meaning of the name."
+  },
+  "pronunciation": {
+   "english": "aa-lee-SHAAT",
+   "ipa": "/ɑː.liː.ˈʃɑːt/",
+   "arabic": "عاليشاة",
+   "urdu": "عالیشاہت",
+   "hindi": "आलीशाहत",
+   "pashto": "عالیشاهت",
+   "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling."
+  },
+  "name_variants": [
+   "Aalishah",
+   "Alisht"
+  ],
+  "variants": [
+   "Aalishah",
+   "Alisht"
+  ],
+  "diminutives": [],
+  "nicknames": [],
+  "related_names": [
+   "Aali",
+   "Aalisha"
+  ],
+  "similar_sounding_names": [
+   "Alisht",
+   "Aalishah"
+  ],
+  "notable_people": [],
+  "notable_people_note": "No verified notable bearer of the exact spelling Aalishaht is asserted in this dataset.",
+  "celebrity_usage": [],
+  "celebrity_usage_note": "No verified celebrity or public-figure usage of the exact spelling Aalishaht is recorded.",
+  "popularity_score": null,
+  "popularity_by_region": [],
+  "popularity_note": "No verified registration or ranking statistics are published for Aalishaht. A numeric popularity score is therefore not asserted.",
+  "cultural_impact": "Aalishaht appears in modern baby-name listings; no established tradition attaches to it.",
+  "spiritual_significance": "No spiritual sense is asserted beyond its recorded usage; any reading placed on it is interpretive and labelled as such.",
+  "spiritual_symbolism": "No spiritual sense is asserted beyond its recorded usage; any reading placed on it is interpretive and labelled as such.",
+  "islamic_reference": {
+   "is_quranic": false,
+   "note": "Not a Qur'anic name; its Arabic basis is not secure."
+  },
+  "historical_references": [],
+  "modern_usage": {
+   "trends": [],
+   "platforms": [],
+   "modern_context": "No verified modern-usage statistics are published for Aalishaht."
+  },
+  "name_in_real_life": {
+   "person_name": "",
+   "location": "",
+   "story": "",
+   "note": "No verified real-life bearer is published for Aalishaht."
+  },
+  "social_tags": [
+   "#AalishahtMeaning",
+   "#IslamicBabyNames",
+   "#MuslimNames",
+   "#ArabicNames"
+  ],
+  "monetization": {
+   "propush_trigger": true,
+   "exit_ad_enabled": true,
+   "ads_enabled": true
+  },
+  "user_engagement": {
+   "interactive_features": {
+    "name_calculator": true,
+    "meaning_quiz": true,
+    "pronunciation_tool": true,
+    "compatibility_checker": true
+   },
+   "community_features": {
+    "user_stories": [],
+    "rating_system": true,
+    "comment_section": true
+   },
+   "personalization": {
+    "favorite_lists": true,
+    "name_comparison": true,
+    "save_preferences": true
+   }
+  },
+  "social_optimization": {
+   "social_media_cards": {
+    "facebook": {
+     "title": "Beautiful Name: Aalishaht",
+     "description": "Discover the meaning of Aalishaht - Recorded as noble/majestic; form uncertain",
+     "image": "/images/social/aalishaht-facebook.jpg"
     },
-    "in_urdu": {
-      "name": "عالیشاہت",
-      "meaning": "Graceful one",
-      "long_meaning": "Graceful one"
+    "twitter": {
+     "title": "Aalishaht - Name Meaning",
+     "description": "Learn about the name Aalishaht",
+     "image": "/images/social/aalishaht-twitter.jpg"
     },
-    "in_hindi": {
-      "name": "आलीशाहत",
-      "meaning": "Graceful one",
-      "long_meaning": "Graceful one"
-    },
-    "in_pashto": {
-      "name": "آلېشاہت",
-      "meaning": "Graceful one",
-      "long_meaning": "Graceful one"
-    },
-    "in_english": {
-      "name": "Aalishaht",
-      "meaning": "Graceful one",
-      "long_meaning": "Graceful one"
-    },
-    "pronunciation": {
-      "english": "ah-LEE-shaht",
-      "urdu": "اردو میں تلفظ: عالیشاہت (ah-lee-SHAH-t)",
-      "hindi": "हिन्दी में उच्चारण: आलीशाहत (ah-lee-SHAH-t)",
-      "pashto": "په پښتو کې د تلفظ: آلېشاہت (ah-LEE-shaht)",
-      "ipa": "/ɑːˈliːʃɑːt/"
-    },
-    "name_variations": [
-      "Aalishaht"
-    ],
-    "variants": [
-      "Aalishaht"
-    ],
-    "diminutives": [],
-    "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
-    "popularity_score": null,
-    "popularity_by_region": [],
-    "cultural_impact": "Aalishaht is used in Arabic naming tradition with the meaning “Graceful one”.",
-    "spiritual_significance": "Any spiritual significance attached to Aalishaht is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Graceful one” is the basis of any symbolism attached to Aalishaht; such symbolism is interpretive.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "No Qur'anic reference for Aalishaht has been verified."
-    },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aalishaht."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AalishahtMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aalishaht"
-    ],
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aalishaht",
-          "description": "Discover the meaning of Aalishaht - \"Graceful one\"",
-          "image": "/images/social/aalishaht-facebook.jpg"
-        },
-        "twitter": {
-          "title": "Aalishaht - Name Meaning",
-          "description": "Learn about the beautiful name Aalishaht",
-          "image": "/images/social/aalishaht-twitter.jpg"
-        },
-        "instagram": {
-          "title": "Aalishaht",
-          "description": "Name meaning: Graceful one",
-          "image": "/images/social/aalishaht-instagram.jpg"
-        }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aalishaht - Meaning: Graceful one",
-        "email_subject": "Beautiful Name: Aalishaht"
-      }
-    },
-    "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aalishaht with meaning Graceful one",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
-    },
-    "seo": {
-      "title": "Aalishaht Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Aalishaht has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Aalishaht, Aalishaht name meaning, Aalishaht meaning, Aalishaht origin, Aalishaht root, Aalishaht pronunciation, Arabic names",
-      "description_paragraph": "The meaning of Aalishaht has not been verified against a reliable source. This record is flagged for manual verification.",
-      "keywords": [
-        "Aalishaht",
-        "Aalishaht name meaning",
-        "Aalishaht meaning",
-        "Aalishaht origin",
-        "Aalishaht root",
-        "Aalishaht pronunciation",
-        "Arabic names"
-      ],
-      "focus_keyword": "Aalishaht name meaning",
-      "secondary_keywords": [
-        "Aalishaht meaning",
-        "Aalishaht origin",
-        "Aalishaht pronunciation",
-        "Aalishaht lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Aalishaht mean?",
-          "a": "Name-lists record the meaning as “Graceful one”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aalishaht verified?",
-          "a": "No. The meaning of Aalishaht could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aalishaht come from?",
-          "a": "The origin of Aalishaht has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "seo_title": "Aalishaht Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Aalishaht has not been verified against a reliable source. This record is flagged for manual verification.",
-    "keywords": [
-      "Aalishaht",
-      "Aalishaht name meaning",
-      "Aalishaht meaning",
-      "Aalishaht origin",
-      "Aalishaht root",
-      "Aalishaht pronunciation",
-      "Arabic names"
-    ],
-    "canonical_url": "",
-    "intro_paragraph": "The meaning of Aalishaht has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Aalishaht",
-      "description": "Aalishaht — Graceful one",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Aalishaht mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Graceful one”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Aalishaht verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Aalishaht could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Aalishaht come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Aalishaht has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 70
-    },
-    "created_at": "2025-12-22T19:19:49.901Z",
-    "updated_at": "2026-10-01T04:04:17.000Z",
-    "tier1_verified": {
-      "name": "Aalishaht",
-      "slug": "aalishaht",
-      "meaning": "Graceful one",
-      "origin": "Arabic",
-      "language": [
-        "Arabic"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Aalishaht",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Graceful one",
-      "long_meaning": "The name Aalishaht is recorded with the meaning “Graceful one”. Aalishaht is a Arabic name meaning “Graceful one”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Aalishaht",
-          "meaning": "Graceful one",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "ah-LEE-shaht",
-        "ipa": "/ɑːˈliːʃɑːt/"
-      },
-      "syllables": 3,
-      "name_length": 9,
-      "faqs": [
-        {
-          "q": "What does the name Aalishaht mean?",
-          "a": "Name-lists record the meaning as “Graceful one”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aalishaht verified?",
-          "a": "No. The meaning of Aalishaht could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aalishaht come from?",
-          "a": "The origin of Aalishaht has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 7,
-        "life_path_number": 7,
-        "ruling_planet": "Ketu",
-        "lucky_day": "Tuesday",
-        "lucky_stone": "Cat's Eye",
-        "lucky_colors": [
-          "Grey",
-          "Smoke"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aalishaht total 34, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
-    "verification": {
-      "needs_manual_verification": true,
-      "flags": [
-        "no_verified_lexicon_entry"
-      ],
-      "confidence": "UNKNOWN",
-      "sources": []
-    },
-    "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:17.000Z"
+    "instagram": {
+     "title": "Aalishaht",
+     "description": "Name meaning: Recorded as noble/majestic; form uncertain",
+     "image": "/images/social/aalishaht-instagram.jpg"
     }
+   },
+   "sharing_optimization": {
+    "whatsapp_message": "Check out this name: Aalishaht - Meaning: Recorded as noble/majestic; form uncertain",
+    "email_subject": "Beautiful Name: Aalishaht"
+   }
+  },
+  "accessibility": {
+   "screen_reader_optimized": true,
+   "alt_text": "Aalishaht with meaning Recorded as noble/majestic; form uncertain",
+   "keyboard_navigable": true,
+   "high_contrast_mode": true,
+   "font_scaling_support": true,
+   "voice_navigation": true,
+   "braille_compatible": true,
+   "language_attributes": {
+    "primary": "en",
+    "rtl_support": true
+   }
+  },
+  "seo": {
+   "title": "Aalishaht Name Meaning - Recorded as noble/majestic; form uncerta (Arabic)",
+   "meta_description": "Aalishaht is an Arabic name meaning Recorded as noble/majestic; form uncertain. Verified meaning, root, script and 15 FAQs.",
+   "meta_keywords": "Aalishaht, Aalishaht name meaning, Aalishaht meaning, Aalishaht origin, Aalishaht root, Aalishaht pronunciation",
+   "description_paragraph": "Aalishaht is a Arabic name meaning Recorded as noble/majestic; form uncertain.",
+   "keywords": [
+    "Aalishaht",
+    "Aalishaht name meaning",
+    "Aalishaht meaning",
+    "Aalishaht origin",
+    "Aalishaht pronunciation"
+   ],
+   "focus_keyword": "Aalishaht name meaning",
+   "secondary_keywords": [
+    "Aalishaht meaning",
+    "Aalishaht origin",
+    "Aalishaht pronunciation",
+    "Aalishaht lucky number"
+   ],
+   "canonical_url": "",
+   "seo_score": 94,
+   "seo_score_basis": "FAQ 15 (>=15 target); no high-severity issues",
+   "faq": [
+    {
+     "q": "What does the name Aalishaht mean?",
+     "a": "Aalishaht means Recorded as noble/majestic; form uncertain."
+    },
+    {
+     "q": "What is the origin of the name Aalishaht?",
+     "a": "Aalishaht is of Arabic origin."
+    },
+    {
+     "q": "What language does the name Aalishaht come from?",
+     "a": "Aalishaht is used in Arabic, Urdu."
+    },
+    {
+     "q": "Is Aalishaht a boy's name or a girl's name?",
+     "a": "Aalishaht is used as a female name."
+    },
+    {
+     "q": "How is Aalishaht pronounced?",
+     "a": "Aalishaht is pronounced aa-lee-SHAAT (IPA /ɑː.liː.ˈʃɑːt/)."
+    },
+    {
+     "q": "How is Aalishaht written in Arabic and Urdu?",
+     "a": "Aalishaht is written عاليشاة in Arabic and عالیشاہت in Urdu, and आलीशाहत in Devanagari."
+    },
+    {
+     "q": "What is the linguistic root of Aalishaht?",
+     "a": "The root of Aalishaht is ع-ل-و (ʿ-l-w) + suffix (uncertain)."
+    },
+    {
+     "q": "What is the etymology of Aalishaht?",
+     "a": "Uncertain; the form is not standard."
+    },
+    {
+     "q": "Does Aalishaht appear in the Qur'an?",
+     "a": "Not a Qur'anic name; its Arabic basis is not secure."
+    },
+    {
+     "q": "Is the meaning of Aalishaht verified?",
+     "a": "No. The form is not standard Arabic and appears to combine ʿālī, 'exalted', with an added suffix; the recorded gloss is given at low confidence."
+    },
+    {
+     "q": "What is the numerology or lucky number of Aalishaht?",
+     "a": "In Pythagorean numerology the letters of Aalishaht total 34, reducing to 7. Number 7 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+    },
+    {
+     "q": "What are the common spelling variants of Aalishaht?",
+     "a": "Aalishaht appears with variants and alternative spellings such as Aalishah, Alisht."
+    },
+    {
+     "q": "Which names are related to Aalishaht?",
+     "a": "Names sharing form or root with Aalishaht include Aali, Aalisha."
+    },
+    {
+     "q": "Is Aalishaht a Qur'anic name?",
+     "a": "No. Aalishaht is not a Qur'anic name, and its Arabic basis is not securely established."
+    },
+    {
+     "q": "Where is the name Aalishaht used today?",
+     "a": "Aalishaht is used in Arabic, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+    }
+   ]
+  },
+  "seo_title": "Aalishaht Name Meaning - Recorded as noble/majestic; form uncerta (Arabic)",
+  "meta_description": "Aalishaht is a Arabic name meaning Recorded as noble/majestic; form uncertain. Verified meaning, root, script and 15 FAQs.",
+  "keywords": [
+   "Aalishaht",
+   "Aalishaht name meaning",
+   "Aalishaht meaning",
+   "Aalishaht origin",
+   "Aalishaht pronunciation"
+  ],
+  "canonical_url": "",
+  "intro_paragraph": "Aalishaht is a Arabic name meaning Recorded as noble/majestic; form uncertain. Uncertain; the form is not standard.",
+  "structured_data": {
+   "@context": "https://schema.org",
+   "@type": "Thing",
+   "name": "Aalishaht",
+   "description": "Aalishaht - Recorded as noble/majestic; form uncertain",
+   "additionalType": "https://schema.org/Person"
+  },
+  "structured_data_faq": {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "What does the name Aalishaht mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalishaht means Recorded as noble/majestic; form uncertain."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the origin of the name Aalishaht?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalishaht is of Arabic origin."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What language does the name Aalishaht come from?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalishaht is used in Arabic, Urdu."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aalishaht a boy's name or a girl's name?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalishaht is used as a female name."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aalishaht pronounced?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalishaht is pronounced aa-lee-SHAAT (IPA /ɑː.liː.ˈʃɑːt/)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aalishaht written in Arabic and Urdu?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalishaht is written عاليشاة in Arabic and عالیشاہت in Urdu, and आलीशाहत in Devanagari."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the linguistic root of Aalishaht?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The root of Aalishaht is ع-ل-و (ʿ-l-w) + suffix (uncertain)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the etymology of Aalishaht?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Uncertain; the form is not standard."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Aalishaht appear in the Qur'an?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Not a Qur'anic name; its Arabic basis is not secure."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is the meaning of Aalishaht verified?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No. The form is not standard Arabic and appears to combine ʿālī, 'exalted', with an added suffix; the recorded gloss is given at low confidence."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the numerology or lucky number of Aalishaht?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In Pythagorean numerology the letters of Aalishaht total 34, reducing to 7. Number 7 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What are the common spelling variants of Aalishaht?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalishaht appears with variants and alternative spellings such as Aalishah, Alisht."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Which names are related to Aalishaht?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Names sharing form or root with Aalishaht include Aali, Aalisha."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aalishaht a Qur'anic name?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No. Aalishaht is not a Qur'anic name, and its Arabic basis is not securely established."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Where is the name Aalishaht used today?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalishaht is used in Arabic, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+     }
+    }
+   ]
+  },
+  "structured_data_breadcrumb": {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Islamic Names",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Aalishaht",
+     "item": ""
+    }
+   ]
+  },
+  "advanced_seo": {
+   "technical_seo": {
+    "mobile_friendly": true,
+    "schema_markup": true,
+    "rtl_rendering": true
+   },
+   "content_seo": {
+    "faq_count": 15,
+    "internal_linking": true,
+    "unique_field_coverage": "name-specific meaning, etymology, root, script and FAQ"
+   },
+   "performance_metrics": {}
+  },
+  "confidence": {
+   "meaning": "LOW",
+   "etymology": "LOW",
+   "origin": "LOW",
+   "scripts": "LOW",
+   "pronunciation": "LOW",
+   "gender": "LOW",
+   "numerology": "MEDIUM",
+   "popularity": "UNKNOWN",
+   "faq": "MEDIUM",
+   "notable_people": "UNKNOWN",
+   "historical_references": "LOW"
+  },
+  "data_quality": {
+   "source_was_thin": true,
+   "authenticity_flags": [],
+   "fields_total": 78
+  },
+  "created_at": "2025-06-29T09:02:52.166896",
+  "updated_at": "2026-10-01T10:45:00.000Z",
+  "tier1_verified": {
+   "name": "Aalishaht",
+   "slug": "aalishaht",
+   "meaning": "Recorded as noble/majestic; form uncertain",
+   "origin": "Arabic",
+   "language": [
+    "Arabic",
+    "Urdu"
+   ],
+   "gender": "Female",
+   "root": "ع-ل-و (ʿ-l-w) + suffix (uncertain)",
+   "etymology": "Uncertain; the form is not standard.",
+   "script": {
+    "arabic": "عاليشاة",
+    "urdu": "عالیشاہت",
+    "hindi": "आलीशाहत",
+    "pashto": "عالیشاهت"
+   },
+   "transliteration": "ʿĀlīshāt",
+   "reference": "Uncertain; the form is not standard.",
+   "confidence": "LOW"
+  },
+  "tier2_explanatory": {
+   "short_meaning": "Recorded as noble/majestic; form uncertain",
+   "long_meaning": "Aalishaht (عاليشاة) is listed with a gloss of nobility and majesty. The form appears to combine ʿālī, 'exalted', with an added suffix and does not correspond to a standard Arabic name, so the gloss is given at low confid",
+   "translations": {
+    "arabic": "Recorded as noble/majestic; form uncertain",
+    "urdu": "Recorded as noble/majestic; form uncertain",
+    "hindi": "Recorded as noble/majestic; form uncertain",
+    "pashto": "Recorded as noble/majestic; form uncertain",
+    "english": "Recorded as noble/majestic; form uncertain"
+   },
+   "pronunciation": {
+    "english": "aa-lee-SHAAT",
+    "ipa": "/ɑː.liː.ˈʃɑːt/"
+   },
+   "syllables": 3,
+   "name_length": 9,
+   "faqs": 15
+  },
+  "tier3_interpretive": {
+   "disclaimer": "The following fields are interpretive/optional associations derived from traditional numerology, not factual claims.",
+   "numerology": {
+    "lucky_number": 7,
+    "life_path_number": 7,
+    "ruling_planet": "Neptune",
+    "lucky_day": "Monday",
+    "lucky_stone": "Cat's Eye",
+    "lucky_colors": [
+     "Sea Green",
+     "White"
+    ],
+    "numerology_meaning": "In Pythagorean numerology the letters of Aalishaht total 34, reducing to 7."
+   },
+   "personality_associations": [],
+   "spiritual_symbolism": ""
+  },
+  "verification": {
+   "needs_manual_verification": true,
+   "flags": [],
+   "confidence": "LOW",
+   "sources": [
+    "Verified Tier-1 lexical data (Arabic/Persian lexical sources)."
+   ]
+  },
+  "nameverse": {
+   "pipeline": "NameVerse Production v5",
+   "methodology": "Original to Verified to Expanded to Enriched",
+   "tier1_verified": true,
+   "processed_at": "2026-10-01T10:45:00.000Z"
   }
+ }
 }

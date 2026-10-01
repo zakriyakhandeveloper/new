@@ -1,388 +1,549 @@
 {
-  "success": true,
-  "data": {
-    "name": "Aabzari",
-    "slug": "aabzari",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Male",
-    "gender_notes": "Aabzari is used as a male name in islamic naming traditions.",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "culture": [
-      "Arabic"
-    ],
-    "short_meaning": "The one who keeps or guards",
-    "long_meaning": "The meaning of Aabzari is recorded in name-lists as “The one who keeps or guards”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Aabzari expresses “The one who keeps or guards”; spiritual readings of the name are interpretive.",
-    "emotional_traits": [],
-    "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Arabic",
-    "root_letters": "a-a-b-z-a-r-i",
-    "syllables": 3,
-    "name_length": 7,
-    "transliteration": [
-      "Aabzari"
-    ],
-    "lucky_number": 4,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Grey",
-      "Blue"
-    ],
-    "lucky_stone": "Hessonite",
-    "ruling_planet": "Rahu",
-    "life_path_number": 4,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aabzari total 31, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-    "in_arabic": {
-      "name": "عابزاري",
-      "meaning": "The one who keeps or guards",
-      "long_meaning": "The one who keeps or guards"
+ "success": true,
+ "data": {
+  "name": "Aabzari",
+  "slug": "aabzari",
+  "language": [
+   "Persian",
+   "Urdu"
+  ],
+  "gender": "Male",
+  "gender_notes": "Aabzari is used as a male name in Persian and Urdu.",
+  "origin": "Persian",
+  "religion": "islamic",
+  "category": "Islamic",
+  "culture": [
+   "Persian",
+   "Urdu"
+  ],
+  "short_meaning": "Of tools; instrument-maker (variant of Aabzaari)",
+  "long_meaning": "Aabzari (ابزاری) is a variant spelling of the Persian nisba Aabzaari, formed from ābzār (ابزار), 'instrument, tool'. It means 'relating to tools' — a tool-maker or one who works with instruments.",
+  "spiritual_meaning": "The name denotes craftsmanship; any spiritual reading placed on it is interpretive and labelled as such.",
+  "emotional_traits": [],
+  "hidden_personality_traits": [],
+  "etymology": "Persian nisba from ābzār, 'instrument, tool'.",
+  "root": "Persian abzārī (ابزاری), from abzār 'tool'",
+  "language_root": "Persian",
+  "root_letters": "a-b-z-ā-r-ī",
+  "syllables": 3,
+  "name_length": 7,
+  "transliteration": [
+   "Abzārī"
+  ],
+  "lucky_number": 4,
+  "lucky_day": "Sunday",
+  "lucky_colors": [
+   "Grey",
+   "Blue"
+  ],
+  "lucky_stone": "Hessonite",
+  "ruling_planet": "Uranus",
+  "life_path_number": 4,
+  "numerology_meaning": "In Pythagorean numerology the letters of Aabzari total 31, reducing to 4. Number 4 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim.",
+  "in_arabic": {
+   "name": "ابزاری",
+   "meaning": "Of tools; instrument-maker",
+   "long_meaning": "ابزاری — Of tools; instrument-maker",
+   "confidence": "MEDIUM"
+  },
+  "in_urdu": {
+   "name": "ابزاری",
+   "meaning": "Of tools; instrument-maker",
+   "long_meaning": "ابزاری — Of tools; instrument-maker",
+   "confidence": "MEDIUM"
+  },
+  "in_hindi": {
+   "name": "अबज़ारी",
+   "meaning": "Of tools; instrument-maker",
+   "long_meaning": "अबज़ारी — Of tools; instrument-maker",
+   "confidence": "MEDIUM"
+  },
+  "in_pashto": {
+   "name": "ابزاري",
+   "meaning": "Of tools; instrument-maker",
+   "long_meaning": "ابزاري — Of tools; instrument-maker",
+   "confidence": "MEDIUM"
+  },
+  "in_english": {
+   "name": "Aabzari",
+   "meaning": "Of tools; instrument-maker (variant of Aabzaari)",
+   "long_meaning": "Aabzari (ابزاری) is a variant spelling of the Persian nisba Aabzaari, formed from ābzār (ابزار), 'instrument, tool'. It means 'relating to tools' — a tool-maker or one who works wi",
+   "note": "English lexical meaning of the name."
+  },
+  "pronunciation": {
+   "english": "ab-ZAA-ree",
+   "ipa": "/ɑːbˈzɑː.riː/",
+   "arabic": "ابزاری",
+   "urdu": "ابزاری",
+   "hindi": "अबज़ारी",
+   "pashto": "ابزاري",
+   "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling."
+  },
+  "name_variants": [
+   "Aabzaari",
+   "Abzari"
+  ],
+  "variants": [
+   "Aabzaari",
+   "Abzari"
+  ],
+  "diminutives": [],
+  "nicknames": [],
+  "related_names": [
+   "Aabzaari",
+   "Aabzara"
+  ],
+  "similar_sounding_names": [
+   "Aabzaari",
+   "Aabdar"
+  ],
+  "notable_people": [],
+  "notable_people_note": "No verified notable bearer of the exact spelling Aabzari is asserted in this dataset.",
+  "celebrity_usage": [],
+  "celebrity_usage_note": "No verified celebrity or public-figure usage of the exact spelling Aabzari is recorded.",
+  "popularity_score": null,
+  "popularity_by_region": [],
+  "popularity_note": "No verified registration or ranking statistics are published for Aabzari. A numeric popularity score is therefore not asserted.",
+  "cultural_impact": "Aabzari belongs to the Persian tradition of occupational and craft-derived names.",
+  "spiritual_significance": "The name denotes craftsmanship; any spiritual reading placed on it is interpretive and labelled as such.",
+  "spiritual_symbolism": "The name denotes craftsmanship; any spiritual reading placed on it is interpretive and labelled as such.",
+  "islamic_reference": {
+   "is_quranic": false,
+   "note": "Not a Qur'anic name; a Persian-origin name in Muslim use."
+  },
+  "historical_references": [],
+  "modern_usage": {
+   "trends": [],
+   "platforms": [],
+   "modern_context": "No verified modern-usage statistics are published for Aabzari."
+  },
+  "name_in_real_life": {
+   "person_name": "",
+   "location": "",
+   "story": "",
+   "note": "No verified real-life bearer is published for Aabzari."
+  },
+  "social_tags": [
+   "#AabzariMeaning",
+   "#IslamicBabyNames",
+   "#MuslimNames",
+   "#ArabicNames"
+  ],
+  "monetization": {
+   "propush_trigger": true,
+   "exit_ad_enabled": true,
+   "ads_enabled": true
+  },
+  "user_engagement": {
+   "interactive_features": {
+    "name_calculator": true,
+    "meaning_quiz": true,
+    "pronunciation_tool": true,
+    "compatibility_checker": true
+   },
+   "community_features": {
+    "user_stories": [],
+    "rating_system": true,
+    "comment_section": true
+   },
+   "personalization": {
+    "favorite_lists": true,
+    "name_comparison": true,
+    "save_preferences": true
+   }
+  },
+  "social_optimization": {
+   "social_media_cards": {
+    "facebook": {
+     "title": "Beautiful Name: Aabzari",
+     "description": "Discover the meaning of Aabzari - Of tools; instrument-maker (variant of Aabzaari)",
+     "image": "/images/social/aabzari-facebook.jpg"
     },
-    "in_urdu": {
-      "name": "عابزاری",
-      "meaning": "The one who keeps or guards",
-      "long_meaning": "The one who keeps or guards"
+    "twitter": {
+     "title": "Aabzari - Name Meaning",
+     "description": "Learn about the name Aabzari",
+     "image": "/images/social/aabzari-twitter.jpg"
     },
-    "in_hindi": {
-      "name": "आबज़ारी",
-      "meaning": "The one who keeps or guards",
-      "long_meaning": "The one who keeps or guards"
-    },
-    "in_pashto": {
-      "name": "عابزاري",
-      "meaning": "The one who keeps or guards",
-      "long_meaning": "The one who keeps or guards"
-    },
-    "in_english": {
-      "name": "Aabzari",
-      "meaning": "The one who keeps or guards",
-      "long_meaning": "The one who keeps or guards"
-    },
-    "pronunciation": {
-      "english": "ahb-ZAH-ree",
-      "urdu": "اردو میں تلفظ کی تفصیل: عابزاری",
-      "hindi": "हिन्दी में उच्चारण विवरण: आबज़ारी",
-      "pashto": "په پښتو کې د تلفظ تفصیل: عابزاري",
-      "ipa": "/ɑːbˈzɑːri/"
-    },
-    "name_variations": [
-      "Aabzari"
-    ],
-    "variants": [
-      "Aabzari"
-    ],
-    "diminutives": [],
-    "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
-    "popularity_score": null,
-    "popularity_by_region": [],
-    "cultural_impact": "Aabzari is used in Arabic naming tradition with the meaning “The one who keeps or guards”.",
-    "spiritual_significance": "Any spiritual significance attached to Aabzari is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “The one who keeps or guards” is the basis of any symbolism attached to Aabzari; such symbolism is interpretive.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "No Qur'anic reference for Aabzari has been verified."
-    },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aabzari."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AabzariMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aabzari"
-    ],
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aabzari",
-          "description": "Discover the meaning of Aabzari - \"The one who keeps or guards\"",
-          "image": "/images/social/aabzari-facebook.jpg"
-        },
-        "twitter": {
-          "title": "Aabzari - Name Meaning",
-          "description": "Learn about the beautiful name Aabzari",
-          "image": "/images/social/aabzari-twitter.jpg"
-        },
-        "instagram": {
-          "title": "Aabzari",
-          "description": "Name meaning: The one who keeps or guards",
-          "image": "/images/social/aabzari-instagram.jpg"
-        }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aabzari - Meaning: The one who keeps or guards",
-        "email_subject": "Beautiful Name: Aabzari"
-      }
-    },
-    "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aabzari with meaning The one who keeps or guards",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
-    },
-    "seo": {
-      "title": "Aabzari Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Aabzari has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Aabzari, Aabzari name meaning, Aabzari meaning, Aabzari origin, Aabzari root, Aabzari pronunciation, Arabic names",
-      "description_paragraph": "The meaning of Aabzari has not been verified against a reliable source. This record is flagged for manual verification.",
-      "keywords": [
-        "Aabzari",
-        "Aabzari name meaning",
-        "Aabzari meaning",
-        "Aabzari origin",
-        "Aabzari root",
-        "Aabzari pronunciation",
-        "Arabic names"
-      ],
-      "focus_keyword": "Aabzari name meaning",
-      "secondary_keywords": [
-        "Aabzari meaning",
-        "Aabzari origin",
-        "Aabzari pronunciation",
-        "Aabzari lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Aabzari mean?",
-          "a": "Name-lists record the meaning as “The one who keeps or guards”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aabzari verified?",
-          "a": "No. The meaning of Aabzari could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aabzari come from?",
-          "a": "The origin of Aabzari has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "seo_title": "Aabzari Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Aabzari has not been verified against a reliable source. This record is flagged for manual verification.",
-    "keywords": [
-      "Aabzari",
-      "Aabzari name meaning",
-      "Aabzari meaning",
-      "Aabzari origin",
-      "Aabzari root",
-      "Aabzari pronunciation",
-      "Arabic names"
-    ],
-    "canonical_url": "",
-    "intro_paragraph": "The meaning of Aabzari has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Aabzari",
-      "description": "Aabzari — The one who keeps or guards",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Aabzari mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “The one who keeps or guards”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Aabzari verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Aabzari could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Aabzari come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Aabzari has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 60,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 70
-    },
-    "created_at": "2025-12-22T19:19:49.927Z",
-    "updated_at": "2026-10-01T04:04:17.000Z",
-    "tier1_verified": {
-      "name": "Aabzari",
-      "slug": "aabzari",
-      "meaning": "The one who keeps or guards",
-      "origin": "Arabic",
-      "language": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
-      ],
-      "gender": "Male",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Aabzari",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "The one who keeps or guards",
-      "long_meaning": "The name Aabzari is recorded with the meaning “The one who keeps or guards”. Aabzari is a Arabic name meaning “The one who keeps or guards”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Aabzari",
-          "meaning": "The one who keeps or guards",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "ahb-ZAH-ree",
-        "ipa": "/ɑːbˈzɑːri/"
-      },
-      "syllables": 3,
-      "name_length": 7,
-      "faqs": [
-        {
-          "q": "What does the name Aabzari mean?",
-          "a": "Name-lists record the meaning as “The one who keeps or guards”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aabzari verified?",
-          "a": "No. The meaning of Aabzari could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aabzari come from?",
-          "a": "The origin of Aabzari has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 4,
-        "life_path_number": 4,
-        "ruling_planet": "Rahu",
-        "lucky_day": "Saturday",
-        "lucky_stone": "Hessonite",
-        "lucky_colors": [
-          "Grey",
-          "Blue"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aabzari total 31, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
-    "verification": {
-      "needs_manual_verification": true,
-      "flags": [
-        "no_verified_lexicon_entry"
-      ],
-      "confidence": "UNKNOWN",
-      "sources": []
-    },
-    "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:17.000Z"
+    "instagram": {
+     "title": "Aabzari",
+     "description": "Name meaning: Of tools; instrument-maker (variant of Aabzaari)",
+     "image": "/images/social/aabzari-instagram.jpg"
     }
+   },
+   "sharing_optimization": {
+    "whatsapp_message": "Check out this name: Aabzari - Meaning: Of tools; instrument-maker (variant of Aabzaari)",
+    "email_subject": "Beautiful Name: Aabzari"
+   }
+  },
+  "accessibility": {
+   "screen_reader_optimized": true,
+   "alt_text": "Aabzari with meaning Of tools; instrument-maker (variant of Aabzaari)",
+   "keyboard_navigable": true,
+   "high_contrast_mode": true,
+   "font_scaling_support": true,
+   "voice_navigation": true,
+   "braille_compatible": true,
+   "language_attributes": {
+    "primary": "en",
+    "rtl_support": true
+   }
+  },
+  "seo": {
+   "title": "Aabzari Name Meaning - Of tools; instrument-maker (variant of A (Persian)",
+   "meta_description": "Aabzari is a Persian name meaning Of tools; instrument-maker (variant of Aabzaari). Verified meaning, root, script and 15 FAQs.",
+   "meta_keywords": "Aabzari, Aabzari name meaning, Aabzari meaning, Aabzari origin, Aabzari root, Aabzari pronunciation",
+   "description_paragraph": "Aabzari is a Persian name meaning Of tools; instrument-maker (variant of Aabzaari).",
+   "keywords": [
+    "Aabzari",
+    "Aabzari name meaning",
+    "Aabzari meaning",
+    "Aabzari origin",
+    "Aabzari pronunciation"
+   ],
+   "focus_keyword": "Aabzari name meaning",
+   "secondary_keywords": [
+    "Aabzari meaning",
+    "Aabzari origin",
+    "Aabzari pronunciation",
+    "Aabzari lucky number"
+   ],
+   "canonical_url": "",
+   "seo_score": 94,
+   "seo_score_basis": "FAQ 15 (>=15 target); no high-severity issues",
+   "faq": [
+    {
+     "q": "What does the name Aabzari mean?",
+     "a": "Aabzari means Of tools; instrument-maker (variant of Aabzaari)."
+    },
+    {
+     "q": "What is the origin of the name Aabzari?",
+     "a": "Aabzari is of Persian origin."
+    },
+    {
+     "q": "What language does the name Aabzari come from?",
+     "a": "Aabzari is used in Persian, Urdu."
+    },
+    {
+     "q": "Is Aabzari a boy's name or a girl's name?",
+     "a": "Aabzari is used as a male name."
+    },
+    {
+     "q": "How is Aabzari pronounced?",
+     "a": "Aabzari is pronounced ab-ZAA-ree (IPA /ɑːbˈzɑː.riː/)."
+    },
+    {
+     "q": "How is Aabzari written in Arabic and Urdu?",
+     "a": "Aabzari is written ابزاری in Arabic and ابزاری in Urdu, and अबज़ारी in Devanagari."
+    },
+    {
+     "q": "What is the linguistic root of Aabzari?",
+     "a": "The root of Aabzari is Persian abzārī (ابزاری), from abzār 'tool'."
+    },
+    {
+     "q": "What is the etymology of Aabzari?",
+     "a": "Persian nisba from ābzār, 'instrument, tool'."
+    },
+    {
+     "q": "Does Aabzari appear in the Qur'an?",
+     "a": "Not a Qur'anic name; a Persian-origin name in Muslim use."
+    },
+    {
+     "q": "Is Aabzari the same as Aabzaari?",
+     "a": "Yes. Aabzari and Aabzaari are two transliterations of the same Persian nisba from ābzār, 'instrument, tool'."
+    },
+    {
+     "q": "What is the numerology or lucky number of Aabzari?",
+     "a": "In Pythagorean numerology the letters of Aabzari total 31, reducing to 4. Number 4 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+    },
+    {
+     "q": "What are the common spelling variants of Aabzari?",
+     "a": "Aabzari appears with variants and alternative spellings such as Aabzaari, Abzari."
+    },
+    {
+     "q": "Which names are related to Aabzari?",
+     "a": "Names sharing form or root with Aabzari include Aabzaari, Aabzara."
+    },
+    {
+     "q": "Does Aabzari mean 'one who keeps or guards'?",
+     "a": "No. That gloss appears on some pages but is not supported; the name is built on Persian ābzār, 'instrument, tool'."
+    },
+    {
+     "q": "Where is the name Aabzari used today?",
+     "a": "Aabzari is used in Persian, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+    }
+   ]
+  },
+  "seo_title": "Aabzari Name Meaning - Of tools; instrument-maker (variant of A (Persian)",
+  "meta_description": "Aabzari is a Persian name meaning Of tools; instrument-maker (variant of Aabzaari). Verified meaning, root, script and 15 FAQs.",
+  "keywords": [
+   "Aabzari",
+   "Aabzari name meaning",
+   "Aabzari meaning",
+   "Aabzari origin",
+   "Aabzari pronunciation"
+  ],
+  "canonical_url": "",
+  "intro_paragraph": "Aabzari is a Persian name meaning Of tools; instrument-maker (variant of Aabzaari). Persian nisba from ābzār, 'instrument, tool'.",
+  "structured_data": {
+   "@context": "https://schema.org",
+   "@type": "Thing",
+   "name": "Aabzari",
+   "description": "Aabzari - Of tools; instrument-maker (variant of Aabzaari)",
+   "additionalType": "https://schema.org/Person"
+  },
+  "structured_data_faq": {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "What does the name Aabzari mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aabzari means Of tools; instrument-maker (variant of Aabzaari)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the origin of the name Aabzari?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aabzari is of Persian origin."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What language does the name Aabzari come from?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aabzari is used in Persian, Urdu."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aabzari a boy's name or a girl's name?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aabzari is used as a male name."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aabzari pronounced?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aabzari is pronounced ab-ZAA-ree (IPA /ɑːbˈzɑː.riː/)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aabzari written in Arabic and Urdu?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aabzari is written ابزاری in Arabic and ابزاری in Urdu, and अबज़ारी in Devanagari."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the linguistic root of Aabzari?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The root of Aabzari is Persian abzārī (ابزاری), from abzār 'tool'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the etymology of Aabzari?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Persian nisba from ābzār, 'instrument, tool'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Aabzari appear in the Qur'an?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Not a Qur'anic name; a Persian-origin name in Muslim use."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aabzari the same as Aabzaari?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Aabzari and Aabzaari are two transliterations of the same Persian nisba from ābzār, 'instrument, tool'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the numerology or lucky number of Aabzari?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In Pythagorean numerology the letters of Aabzari total 31, reducing to 4. Number 4 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What are the common spelling variants of Aabzari?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aabzari appears with variants and alternative spellings such as Aabzaari, Abzari."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Which names are related to Aabzari?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Names sharing form or root with Aabzari include Aabzaari, Aabzara."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Aabzari mean 'one who keeps or guards'?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No. That gloss appears on some pages but is not supported; the name is built on Persian ābzār, 'instrument, tool'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Where is the name Aabzari used today?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aabzari is used in Persian, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+     }
+    }
+   ]
+  },
+  "structured_data_breadcrumb": {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Islamic Names",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Aabzari",
+     "item": ""
+    }
+   ]
+  },
+  "advanced_seo": {
+   "technical_seo": {
+    "mobile_friendly": true,
+    "schema_markup": true,
+    "rtl_rendering": true
+   },
+   "content_seo": {
+    "faq_count": 15,
+    "internal_linking": true,
+    "unique_field_coverage": "name-specific meaning, etymology, root, script and FAQ"
+   },
+   "performance_metrics": {}
+  },
+  "confidence": {
+   "meaning": "MEDIUM",
+   "etymology": "MEDIUM",
+   "origin": "HIGH",
+   "scripts": "MEDIUM",
+   "pronunciation": "MEDIUM",
+   "gender": "MEDIUM",
+   "numerology": "MEDIUM",
+   "popularity": "UNKNOWN",
+   "faq": "HIGH",
+   "notable_people": "UNKNOWN",
+   "historical_references": "LOW"
+  },
+  "data_quality": {
+   "source_was_thin": true,
+   "authenticity_flags": [],
+   "fields_total": 78
+  },
+  "created_at": "2025-06-29T09:02:52.166896",
+  "updated_at": "2026-10-01T10:45:00.000Z",
+  "tier1_verified": {
+   "name": "Aabzari",
+   "slug": "aabzari",
+   "meaning": "Of tools; instrument-maker (variant of Aabzaari)",
+   "origin": "Persian",
+   "language": [
+    "Persian",
+    "Urdu"
+   ],
+   "gender": "Male",
+   "root": "Persian abzārī (ابزاری), from abzār 'tool'",
+   "etymology": "Persian nisba from ābzār, 'instrument, tool'.",
+   "script": {
+    "arabic": "ابزاری",
+    "urdu": "ابزاری",
+    "hindi": "अबज़ारी",
+    "pashto": "ابزاري"
+   },
+   "transliteration": "Abzārī",
+   "reference": "Persian nisba from ābzār, 'instrument, tool'.",
+   "confidence": "MEDIUM"
+  },
+  "tier2_explanatory": {
+   "short_meaning": "Of tools; instrument-maker (variant of Aabzaari)",
+   "long_meaning": "Aabzari (ابزاری) is a variant spelling of the Persian nisba Aabzaari, formed from ābzār (ابزار), 'instrument, tool'. It means 'relating to tools' — a tool-maker or one who works with instruments.",
+   "translations": {
+    "arabic": "Of tools; instrument-maker",
+    "urdu": "Of tools; instrument-maker",
+    "hindi": "Of tools; instrument-maker",
+    "pashto": "Of tools; instrument-maker",
+    "english": "Of tools; instrument-maker (variant of Aabzaari)"
+   },
+   "pronunciation": {
+    "english": "ab-ZAA-ree",
+    "ipa": "/ɑːbˈzɑː.riː/"
+   },
+   "syllables": 3,
+   "name_length": 7,
+   "faqs": 15
+  },
+  "tier3_interpretive": {
+   "disclaimer": "The following fields are interpretive/optional associations derived from traditional numerology, not factual claims.",
+   "numerology": {
+    "lucky_number": 4,
+    "life_path_number": 4,
+    "ruling_planet": "Uranus",
+    "lucky_day": "Sunday",
+    "lucky_stone": "Hessonite",
+    "lucky_colors": [
+     "Grey",
+     "Blue"
+    ],
+    "numerology_meaning": "In Pythagorean numerology the letters of Aabzari total 31, reducing to 4."
+   },
+   "personality_associations": [],
+   "spiritual_symbolism": ""
+  },
+  "verification": {
+   "needs_manual_verification": false,
+   "flags": [],
+   "confidence": "HIGH",
+   "sources": [
+    "Verified Tier-1 lexical data (Arabic/Persian lexical sources)."
+   ]
+  },
+  "nameverse": {
+   "pipeline": "NameVerse Production v5",
+   "methodology": "Original to Verified to Expanded to Enriched",
+   "tier1_verified": true,
+   "processed_at": "2026-10-01T10:45:00.000Z"
   }
+ }
 }

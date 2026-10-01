@@ -1,493 +1,555 @@
 {
-  "success": true,
-  "data": {
-    "name": "Aadab",
-    "slug": "aadab",
-    "language": [
-      "Arabic",
-      "Urdu"
-    ],
-    "gender": "Female",
-    "gender_notes": "Aadab is used as a unisex name in islamic naming traditions.",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "culture": [
-      "Arabic"
-    ],
-    "short_meaning": "Manners; etiquette; refinement; good conduct",
-    "long_meaning": "From Arabic adab (أدب) 'refinement, good manners, etiquette', whose plural is ādāb (آداب). In Islamic usage adab denotes the prescribed code of courteous and respectful conduct. Used as a given name, chiefly for girls, in Urdu-speaking communities. Aadab therefore means “Manners; etiquette; refinement; good conduct”. Arabic adab 'refinement, etiquette' (plural ādāb); a recognised Islamic concept of proper conduct.",
-    "spiritual_meaning": "Aadab expresses “Respect, Courtesy, Honor”; spiritual readings of the name are interpretive.",
-    "emotional_traits": [],
-    "hidden_personality_traits": [],
-    "etymology": "From Arabic adab (أدب) 'refinement, good manners, etiquette', whose plural is ādāb (آداب). In Islamic usage adab denotes the prescribed code of courteous and respectful conduct. Used as a given name, chiefly for girls, in Urdu-speaking communities.",
-    "root": "أ-د-ب (ʾ-d-b)",
-    "language_root": "Arabic",
-    "root_letters": "a-a-d-a-b",
-    "syllables": 2,
-    "name_length": 5,
-    "transliteration": [
-      "Ādāb"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Red",
-      "Crimson"
-    ],
-    "lucky_stone": "Red Coral",
-    "ruling_planet": "Mars",
-    "life_path_number": 9,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aadab total 9, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
-    "in_arabic": {
-      "name": "آداب",
-      "meaning": "آداب — المعنى: Manners; etiquette; refinement; good conduct",
-      "long_meaning": "آداب — المعنى: Manners; etiquette; refinement; good conduct"
+ "success": true,
+ "data": {
+  "name": "Aadab",
+  "slug": "aadab",
+  "language": [
+   "Arabic",
+   "Urdu"
+  ],
+  "gender": "Unisex",
+  "gender_notes": "Aadab is used for both boys and girls in South Asian Muslim naming.",
+  "origin": "Arabic",
+  "religion": "islamic",
+  "category": "Islamic",
+  "culture": [
+   "Arabic",
+   "Urdu"
+  ],
+  "short_meaning": "Etiquette; good manners; decorum (ādāb)",
+  "long_meaning": "Aadab (آداب) is the Arabic plural ādāb of adab, 'good manners, politeness, breeding, decorum'. It denotes the rules of courteous conduct and respect. In Urdu, ādāb is also used as a greeting of respect.",
+  "spiritual_meaning": "The name points to courtesy and good conduct; any spiritual reading placed on it is interpretive and labelled as such.",
+  "emotional_traits": [],
+  "hidden_personality_traits": [],
+  "etymology": "Plural of Arabic adab, 'manners, politeness'.",
+  "root": "أ-د-ب (ʾ-d-b)",
+  "language_root": "Arabic",
+  "root_letters": "ʾ-d-b",
+  "syllables": 2,
+  "name_length": 5,
+  "transliteration": [
+   "Ādāb"
+  ],
+  "lucky_number": 9,
+  "lucky_day": "Tuesday",
+  "lucky_colors": [
+   "Red",
+   "Crimson"
+  ],
+  "lucky_stone": "Red Coral",
+  "ruling_planet": "Mars",
+  "life_path_number": 9,
+  "numerology_meaning": "In Pythagorean numerology the letters of Aadab total 9, reducing to 9. Number 9 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim.",
+  "in_arabic": {
+   "name": "آداب",
+   "meaning": "Etiquette; good manners; decorum",
+   "long_meaning": "آداب — Etiquette; good manners; decorum",
+   "confidence": "HIGH"
+  },
+  "in_urdu": {
+   "name": "آداب",
+   "meaning": "Etiquette; good manners; decorum",
+   "long_meaning": "آداب — Etiquette; good manners; decorum",
+   "confidence": "HIGH"
+  },
+  "in_hindi": {
+   "name": "आदाब",
+   "meaning": "Etiquette; good manners; decorum",
+   "long_meaning": "आदाब — Etiquette; good manners; decorum",
+   "confidence": "MEDIUM"
+  },
+  "in_pashto": {
+   "name": "آداب",
+   "meaning": "Etiquette; good manners; decorum",
+   "long_meaning": "آداب — Etiquette; good manners; decorum",
+   "confidence": "MEDIUM"
+  },
+  "in_english": {
+   "name": "Aadab",
+   "meaning": "Etiquette; good manners; decorum (ādāb)",
+   "long_meaning": "Aadab (آداب) is the Arabic plural ādāb of adab, 'good manners, politeness, breeding, decorum'. It denotes the rules of courteous conduct and respect. In Urdu, ādāb is also used as ",
+   "note": "English lexical meaning of the name."
+  },
+  "pronunciation": {
+   "english": "AA-daab",
+   "ipa": "/ˈaː.daːb/",
+   "arabic": "آداب",
+   "urdu": "آداب",
+   "hindi": "आदाब",
+   "pashto": "آداب",
+   "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling."
+  },
+  "name_variants": [
+   "Adab",
+   "Adaab"
+  ],
+  "variants": [
+   "Adab",
+   "Adaab"
+  ],
+  "diminutives": [],
+  "nicknames": [],
+  "related_names": [
+   "Aadil",
+   "Aadam"
+  ],
+  "similar_sounding_names": [
+   "Adab",
+   "Aadil"
+  ],
+  "notable_people": [],
+  "notable_people_note": "No verified notable bearer of the exact spelling Aadab is asserted in this dataset.",
+  "celebrity_usage": [],
+  "celebrity_usage_note": "No verified celebrity or public-figure usage of the exact spelling Aadab is recorded.",
+  "popularity_score": null,
+  "popularity_by_region": [],
+  "popularity_note": "No verified registration or ranking statistics are published for Aadab. A numeric popularity score is therefore not asserted.",
+  "cultural_impact": "Aadab belongs to Arabic naming tradition and is also used in Urdu as a greeting of respect.",
+  "spiritual_significance": "The name points to courtesy and good conduct; any spiritual reading placed on it is interpretive and labelled as such.",
+  "spiritual_symbolism": "The name points to courtesy and good conduct; any spiritual reading placed on it is interpretive and labelled as such.",
+  "islamic_reference": {
+   "is_quranic": false,
+   "note": "Not a Qur'anic personal name; ādāb is Arabic vocabulary meaning 'manners, etiquette'."
+  },
+  "historical_references": [
+   {
+    "reference": "Arabic ādāb, the plural of adab, 'manners, politeness, decorum'.",
+    "time_period": "Classical Arabic",
+    "context": "Standard Arabic vocabulary used as a personal name."
+   }
+  ],
+  "modern_usage": {
+   "trends": [],
+   "platforms": [],
+   "modern_context": "No verified modern-usage statistics are published for Aadab."
+  },
+  "name_in_real_life": {
+   "person_name": "",
+   "location": "",
+   "story": "",
+   "note": "No verified real-life bearer is published for Aadab."
+  },
+  "social_tags": [
+   "#AadabMeaning",
+   "#IslamicBabyNames",
+   "#MuslimNames",
+   "#ArabicNames"
+  ],
+  "monetization": {
+   "propush_trigger": true,
+   "exit_ad_enabled": true,
+   "ads_enabled": true
+  },
+  "user_engagement": {
+   "interactive_features": {
+    "name_calculator": true,
+    "meaning_quiz": true,
+    "pronunciation_tool": true,
+    "compatibility_checker": true
+   },
+   "community_features": {
+    "user_stories": [],
+    "rating_system": true,
+    "comment_section": true
+   },
+   "personalization": {
+    "favorite_lists": true,
+    "name_comparison": true,
+    "save_preferences": true
+   }
+  },
+  "social_optimization": {
+   "social_media_cards": {
+    "facebook": {
+     "title": "Beautiful Name: Aadab",
+     "description": "Discover the meaning of Aadab - Etiquette; good manners; decorum (ādāb)",
+     "image": "/images/social/aadab-facebook.jpg"
     },
-    "in_urdu": {
-      "name": "آداب",
-      "meaning": "آداب — مطلب: Manners; etiquette; refinement; good conduct",
-      "long_meaning": "آداب — مطلب: Manners; etiquette; refinement; good conduct"
+    "twitter": {
+     "title": "Aadab - Name Meaning",
+     "description": "Learn about the name Aadab",
+     "image": "/images/social/aadab-twitter.jpg"
     },
-    "in_hindi": {
-      "name": "आदाब",
-      "meaning": "आदाब — अर्थ: Manners; etiquette; refinement; good conduct",
-      "long_meaning": "आदाब — अर्थ: Manners; etiquette; refinement; good conduct"
-    },
-    "in_pashto": {
-      "name": "آداب",
-      "meaning": "آداب — معنی: Manners; etiquette; refinement; good conduct",
-      "long_meaning": "آداب — معنی: Manners; etiquette; refinement; good conduct"
-    },
-    "in_english": {
-      "name": "Aadab",
-      "meaning": "Manners; etiquette; refinement; good conduct",
-      "long_meaning": "From Arabic adab (أدب) 'refinement, good manners, etiquette', whose plural is ādāb (آداب). In Islamic usage adab denotes the prescribed code of courteous and respectful conduct. Used as a given name, chiefly for girls, in Urdu-speaking communities. Aadab therefore means “Manners; etiquette; refinement; good conduct”. Arabic adab 'refinement, etiquette' (plural ādāb); a recognised Islamic concept of proper conduct."
-    },
-    "pronunciation": {
-      "english": "aa-DAAB",
-      "urdu": "ادب",
-      "hindi": "अदब",
-      "pashto": "ادب",
-      "ipa": "/ʔaː.daːb/"
-    },
-    "name_variations": [
-      "Aadab"
-    ],
-    "variants": [
-      "Aadab"
-    ],
-    "diminutives": [],
-    "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
-    "popularity_score": null,
-    "popularity_by_region": [],
-    "cultural_impact": "Aadab is used in Arabic naming tradition with the meaning “Respect, Courtesy, Honor”.",
-    "spiritual_significance": "Any spiritual significance attached to Aadab is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Respect, Courtesy, Honor” is the basis of any symbolism attached to Aadab; such symbolism is interpretive.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Arabic adab 'refinement, etiquette' (plural ādāb); a recognised Islamic concept of proper conduct."
-    },
-    "historical_references": [
-      {
-        "reference": "Arabic adab 'refinement, etiquette' (plural ādāb); a recognised Islamic concept of proper conduct.",
-        "time_period": "",
-        "context": ""
-      }
-    ],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aadab."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AadabMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aadab"
-    ],
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aadab",
-          "description": "Discover the meaning of Aadab - \"Respect, Courtesy, Honor\"",
-          "image": "/images/social/aadab-facebook.jpg"
-        },
-        "twitter": {
-          "title": "Aadab - Name Meaning",
-          "description": "Learn about the beautiful name Aadab",
-          "image": "/images/social/aadab-twitter.jpg"
-        },
-        "instagram": {
-          "title": "Aadab",
-          "description": "Name meaning: Respect, Courtesy, Honor",
-          "image": "/images/social/aadab-instagram.jpg"
-        }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aadab - Meaning: Respect, Courtesy, Honor",
-        "email_subject": "Beautiful Name: Aadab"
-      }
-    },
-    "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aadab with meaning Respect, Courtesy, Honor",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
-    },
-    "seo": {
-      "title": "Aadab Name Meaning – Manners; etiquette; refinement; good conduct (Arabic)",
-      "meta_description": "Aadab is a Arabic name meaning “Manners; etiquette; refinement; good conduct”. Verified meaning, origin, root, pronunciation and FAQs.",
-      "meta_keywords": "Aadab, Aadab name meaning, Aadab meaning, Aadab origin, Aadab root, Aadab pronunciation, Arabic names",
-      "description_paragraph": "Aadab is a Arabic name meaning “Manners; etiquette; refinement; good conduct”.",
-      "keywords": [
-        "Aadab",
-        "Aadab name meaning",
-        "Aadab meaning",
-        "Aadab origin",
-        "Aadab root",
-        "Aadab pronunciation",
-        "Arabic names"
-      ],
-      "focus_keyword": "Aadab name meaning",
-      "secondary_keywords": [
-        "Aadab meaning",
-        "Aadab origin",
-        "Aadab pronunciation",
-        "Aadab lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What is adab in Islamic usage?",
-          "a": "Adab (أدب) is the Arabic term for refined manners and proper conduct - courtesy, respect and appropriateness in daily life. Its plural ādāb (آداب) is the form used as the name Aadab."
-        },
-        {
-          "q": "What does the name Aadab mean?",
-          "a": "Aadab means “Manners; etiquette; refinement; good conduct”."
-        },
-        {
-          "q": "Where does the name Aadab come from?",
-          "a": "Aadab is of Arabic origin."
-        },
-        {
-          "q": "What is the linguistic root of Aadab?",
-          "a": "The root of Aadab is أ-د-ب (ʾ-d-b)."
-        },
-        {
-          "q": "How is Aadab written in Arabic script?",
-          "a": "Aadab is written آداب in Arabic script."
-        },
-        {
-          "q": "Is Aadab a boy's or a girl's name?",
-          "a": "Aadab is used as a female name."
-        },
-        {
-          "q": "Does Aadab appear in the Qur'an?",
-          "a": "No. Aadab is not a Qur'anic name; it is used in Muslim naming tradition."
-        },
-        {
-          "q": "Is the meaning of Aadab verified?",
-          "a": "Yes — the meaning “Manners; etiquette; refinement; good conduct” is established by Arabic adab 'refinement, etiquette' (plural ādāb); a recognised Islamic concept of proper conduct.."
-        }
-      ]
-    },
-    "seo_title": "Aadab Name Meaning – Manners; etiquette; refinement; good conduct (Arabic)",
-    "meta_description": "Aadab is a Arabic name meaning “Manners; etiquette; refinement; good conduct”. Verified meaning, origin, root, pronunciation and FAQs.",
-    "keywords": [
-      "Aadab",
-      "Aadab name meaning",
-      "Aadab meaning",
-      "Aadab origin",
-      "Aadab root",
-      "Aadab pronunciation",
-      "Arabic names"
-    ],
-    "canonical_url": "",
-    "intro_paragraph": "Aadab is a Arabic name meaning “Manners; etiquette; refinement; good conduct”.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Aadab",
-      "description": "Aadab — Manners; etiquette; refinement; good conduct",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is adab in Islamic usage?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Adab (أدب) is the Arabic term for refined manners and proper conduct - courtesy, respect and appropriateness in daily life. Its plural ādāb (آداب) is the form used as the name Aadab."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What does the name Aadab mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aadab means “Manners; etiquette; refinement; good conduct”."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Aadab come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aadab is of Arabic origin."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the linguistic root of Aadab?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The root of Aadab is أ-د-ب (ʾ-d-b)."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is Aadab written in Arabic script?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aadab is written آداب in Arabic script."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is Aadab a boy's or a girl's name?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aadab is used as a female name."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does Aadab appear in the Qur'an?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. Aadab is not a Qur'anic name; it is used in Muslim naming tradition."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Aadab verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes — the meaning “Manners; etiquette; refinement; good conduct” is established by Arabic adab 'refinement, etiquette' (plural ādāb); a recognised Islamic concept of proper conduct.."
-          }
-        }
-      ]
-    },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 54,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "HIGH",
-      "etymology": "HIGH",
-      "origin": "HIGH",
-      "scripts": "HIGH",
-      "pronunciation": "MEDIUM",
-      "gender": "HIGH",
-      "numerology": "MEDIUM",
-      "popularity": "UNKNOWN",
-      "faq": "MEDIUM",
-      "notable_people": "UNKNOWN",
-      "historical_references": "HIGH"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [],
-      "fields_total": 74
-    },
-    "created_at": "2025-12-22T19:19:49.907Z",
-    "updated_at": "2026-10-01T04:04:17.000Z",
-    "tier1_verified": {
-      "name": "Aadab",
-      "slug": "aadab",
-      "meaning": "Manners; etiquette; refinement; good conduct",
-      "origin": "Arabic",
-      "language": [
-        "Arabic",
-        "Urdu"
-      ],
-      "gender": "Female",
-      "root": "أ-د-ب (ʾ-d-b)",
-      "etymology": "From Arabic adab (أدب) 'refinement, good manners, etiquette', whose plural is ādāb (آداب). In Islamic usage adab denotes the prescribed code of courteous and respectful conduct. Used as a given name, chiefly for girls, in Urdu-speaking communities.",
-      "script": {
-        "arabic": "آداب",
-        "urdu": "آداب",
-        "hindi": "आदाब",
-        "pashto": "آداب"
-      },
-      "transliteration": "Ādāb",
-      "reference": "Arabic adab 'refinement, etiquette' (plural ādāb); a recognised Islamic concept of proper conduct.",
-      "confidence": "HIGH"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Manners; etiquette; refinement; good conduct",
-      "long_meaning": "From Arabic adab (أدب) 'refinement, good manners, etiquette', whose plural is ādāb (آداب). In Islamic usage adab denotes the prescribed code of courteous and respectful conduct. Used as a given name, chiefly for girls, in Urdu-speaking communities. Aadab therefore means “Manners; etiquette; refinement; good conduct”. Arabic adab 'refinement, etiquette' (plural ādāb); a recognised Islamic concept of proper conduct.",
-      "translations": {
-        "arabic": {
-          "name": "آداب",
-          "meaning": "آداب — المعنى: Manners; etiquette; refinement; good conduct",
-          "confidence": "HIGH"
-        },
-        "urdu": {
-          "name": "آداب",
-          "meaning": "آداب — مطلب: Manners; etiquette; refinement; good conduct",
-          "confidence": "HIGH"
-        },
-        "hindi": {
-          "name": "आदाब",
-          "meaning": "आदाब — अर्थ: Manners; etiquette; refinement; good conduct",
-          "confidence": "HIGH"
-        },
-        "pashto": {
-          "name": "آداب",
-          "meaning": "آداب — معنی: Manners; etiquette; refinement; good conduct",
-          "confidence": "HIGH"
-        },
-        "english": {
-          "name": "Aadab",
-          "meaning": "Manners; etiquette; refinement; good conduct",
-          "confidence": "HIGH"
-        }
-      },
-      "pronunciation": {
-        "english": "aa-DAAB",
-        "ipa": "/ʔaː.daːb/"
-      },
-      "syllables": 2,
-      "name_length": 5,
-      "faqs": [
-        {
-          "q": "What is adab in Islamic usage?",
-          "a": "Adab (أدب) is the Arabic term for refined manners and proper conduct - courtesy, respect and appropriateness in daily life. Its plural ādāb (آداب) is the form used as the name Aadab."
-        },
-        {
-          "q": "What does the name Aadab mean?",
-          "a": "Aadab means “Manners; etiquette; refinement; good conduct”."
-        },
-        {
-          "q": "Where does the name Aadab come from?",
-          "a": "Aadab is of Arabic origin."
-        },
-        {
-          "q": "What is the linguistic root of Aadab?",
-          "a": "The root of Aadab is أ-د-ب (ʾ-d-b)."
-        },
-        {
-          "q": "How is Aadab written in Arabic script?",
-          "a": "Aadab is written آداب in Arabic script."
-        },
-        {
-          "q": "Is Aadab a boy's or a girl's name?",
-          "a": "Aadab is used as a female name."
-        },
-        {
-          "q": "Does Aadab appear in the Qur'an?",
-          "a": "No. Aadab is not a Qur'anic name; it is used in Muslim naming tradition."
-        },
-        {
-          "q": "Is the meaning of Aadab verified?",
-          "a": "Yes — the meaning “Manners; etiquette; refinement; good conduct” is established by Arabic adab 'refinement, etiquette' (plural ādāb); a recognised Islamic concept of proper conduct.."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 9,
-        "life_path_number": 9,
-        "ruling_planet": "Mars",
-        "lucky_day": "Tuesday",
-        "lucky_stone": "Red Coral",
-        "lucky_colors": [
-          "Red",
-          "Crimson"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aadab total 9, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
-    "verification": {
-      "needs_manual_verification": false,
-      "flags": [],
-      "confidence": "HIGH",
-      "sources": [
-        "Arabic adab 'refinement, etiquette' (plural ādāb); a recognised Islamic concept of proper conduct."
-      ]
-    },
-    "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": true,
-      "processed_at": "2026-10-01T04:04:17.000Z"
+    "instagram": {
+     "title": "Aadab",
+     "description": "Name meaning: Etiquette; good manners; decorum (ādāb)",
+     "image": "/images/social/aadab-instagram.jpg"
     }
+   },
+   "sharing_optimization": {
+    "whatsapp_message": "Check out this name: Aadab - Meaning: Etiquette; good manners; decorum (ādāb)",
+    "email_subject": "Beautiful Name: Aadab"
+   }
+  },
+  "accessibility": {
+   "screen_reader_optimized": true,
+   "alt_text": "Aadab with meaning Etiquette; good manners; decorum (ādāb)",
+   "keyboard_navigable": true,
+   "high_contrast_mode": true,
+   "font_scaling_support": true,
+   "voice_navigation": true,
+   "braille_compatible": true,
+   "language_attributes": {
+    "primary": "en",
+    "rtl_support": true
+   }
+  },
+  "seo": {
+   "title": "Aadab Name Meaning - Etiquette; good manners; decorum (ādāb) (Arabic)",
+   "meta_description": "Aadab is an Arabic name meaning Etiquette; good manners; decorum (ādāb). Verified meaning, root, script and 15 FAQs.",
+   "meta_keywords": "Aadab, Aadab name meaning, Aadab meaning, Aadab origin, Aadab root, Aadab pronunciation",
+   "description_paragraph": "Aadab is a Arabic name meaning Etiquette; good manners; decorum (ādāb).",
+   "keywords": [
+    "Aadab",
+    "Aadab name meaning",
+    "Aadab meaning",
+    "Aadab origin",
+    "Aadab pronunciation"
+   ],
+   "focus_keyword": "Aadab name meaning",
+   "secondary_keywords": [
+    "Aadab meaning",
+    "Aadab origin",
+    "Aadab pronunciation",
+    "Aadab lucky number"
+   ],
+   "canonical_url": "",
+   "seo_score": 94,
+   "seo_score_basis": "FAQ 15 (>=15 target); no high-severity issues",
+   "faq": [
+    {
+     "q": "What does the name Aadab mean?",
+     "a": "Aadab means Etiquette; good manners; decorum (ādāb)."
+    },
+    {
+     "q": "What is the origin of the name Aadab?",
+     "a": "Aadab is of Arabic origin."
+    },
+    {
+     "q": "What language does the name Aadab come from?",
+     "a": "Aadab is used in Arabic, Urdu."
+    },
+    {
+     "q": "Is Aadab a boy's name or a girl's name?",
+     "a": "Aadab is used as a unisex name."
+    },
+    {
+     "q": "How is Aadab pronounced?",
+     "a": "Aadab is pronounced AA-daab (IPA /ˈaː.daːb/)."
+    },
+    {
+     "q": "How is Aadab written in Arabic and Urdu?",
+     "a": "Aadab is written آداب in Arabic and آداب in Urdu, and आदाब in Devanagari."
+    },
+    {
+     "q": "What is the linguistic root of Aadab?",
+     "a": "The root of Aadab is أ-د-ب (ʾ-d-b)."
+    },
+    {
+     "q": "What is the etymology of Aadab?",
+     "a": "Plural of Arabic adab, 'manners, politeness'."
+    },
+    {
+     "q": "Does Aadab appear in the Qur'an?",
+     "a": "Not a Qur'anic personal name; ādāb is Arabic vocabulary meaning 'manners, etiquette'."
+    },
+    {
+     "q": "What does Aadab mean?",
+     "a": "Aadab is the Arabic plural ādāb of adab, meaning 'good manners, etiquette, decorum'."
+    },
+    {
+     "q": "What is the numerology or lucky number of Aadab?",
+     "a": "In Pythagorean numerology the letters of Aadab total 9, reducing to 9. Number 9 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+    },
+    {
+     "q": "What are the common spelling variants of Aadab?",
+     "a": "Aadab appears with variants and alternative spellings such as Adab, Adaab."
+    },
+    {
+     "q": "Which names are related to Aadab?",
+     "a": "Names sharing form or root with Aadab include Aadil, Aadam."
+    },
+    {
+     "q": "Is Aadab a name or a greeting?",
+     "a": "It is both. Ādāb is a personal name meaning 'good manners', and in Urdu ādāb is also used as a greeting of respect."
+    },
+    {
+     "q": "Where is the name Aadab used today?",
+     "a": "Aadab is used in Arabic, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+    }
+   ]
+  },
+  "seo_title": "Aadab Name Meaning - Etiquette; good manners; decorum (ādāb) (Arabic)",
+  "meta_description": "Aadab is a Arabic name meaning Etiquette; good manners; decorum (ādāb). Verified meaning, root, script and 15 FAQs.",
+  "keywords": [
+   "Aadab",
+   "Aadab name meaning",
+   "Aadab meaning",
+   "Aadab origin",
+   "Aadab pronunciation"
+  ],
+  "canonical_url": "",
+  "intro_paragraph": "Aadab is a Arabic name meaning Etiquette; good manners; decorum (ādāb). Plural of Arabic adab, 'manners, politeness'.",
+  "structured_data": {
+   "@context": "https://schema.org",
+   "@type": "Thing",
+   "name": "Aadab",
+   "description": "Aadab - Etiquette; good manners; decorum (ādāb)",
+   "additionalType": "https://schema.org/Person"
+  },
+  "structured_data_faq": {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "What does the name Aadab mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aadab means Etiquette; good manners; decorum (ādāb)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the origin of the name Aadab?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aadab is of Arabic origin."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What language does the name Aadab come from?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aadab is used in Arabic, Urdu."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aadab a boy's name or a girl's name?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aadab is used as a unisex name."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aadab pronounced?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aadab is pronounced AA-daab (IPA /ˈaː.daːb/)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aadab written in Arabic and Urdu?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aadab is written آداب in Arabic and آداب in Urdu, and आदाब in Devanagari."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the linguistic root of Aadab?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The root of Aadab is أ-د-ب (ʾ-d-b)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the etymology of Aadab?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Plural of Arabic adab, 'manners, politeness'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Aadab appear in the Qur'an?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Not a Qur'anic personal name; ādāb is Arabic vocabulary meaning 'manners, etiquette'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What does Aadab mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aadab is the Arabic plural ādāb of adab, meaning 'good manners, etiquette, decorum'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the numerology or lucky number of Aadab?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In Pythagorean numerology the letters of Aadab total 9, reducing to 9. Number 9 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What are the common spelling variants of Aadab?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aadab appears with variants and alternative spellings such as Adab, Adaab."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Which names are related to Aadab?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Names sharing form or root with Aadab include Aadil, Aadam."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aadab a name or a greeting?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "It is both. Ādāb is a personal name meaning 'good manners', and in Urdu ādāb is also used as a greeting of respect."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Where is the name Aadab used today?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aadab is used in Arabic, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+     }
+    }
+   ]
+  },
+  "structured_data_breadcrumb": {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Islamic Names",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Aadab",
+     "item": ""
+    }
+   ]
+  },
+  "advanced_seo": {
+   "technical_seo": {
+    "mobile_friendly": true,
+    "schema_markup": true,
+    "rtl_rendering": true
+   },
+   "content_seo": {
+    "faq_count": 15,
+    "internal_linking": true,
+    "unique_field_coverage": "name-specific meaning, etymology, root, script and FAQ"
+   },
+   "performance_metrics": {}
+  },
+  "confidence": {
+   "meaning": "HIGH",
+   "etymology": "HIGH",
+   "origin": "HIGH",
+   "scripts": "HIGH",
+   "pronunciation": "MEDIUM",
+   "gender": "MEDIUM",
+   "numerology": "MEDIUM",
+   "popularity": "UNKNOWN",
+   "faq": "HIGH",
+   "notable_people": "UNKNOWN",
+   "historical_references": "HIGH"
+  },
+  "data_quality": {
+   "source_was_thin": true,
+   "authenticity_flags": [],
+   "fields_total": 78
+  },
+  "created_at": "2025-06-29T09:02:52.166896",
+  "updated_at": "2026-10-01T10:45:00.000Z",
+  "tier1_verified": {
+   "name": "Aadab",
+   "slug": "aadab",
+   "meaning": "Etiquette; good manners; decorum (ādāb)",
+   "origin": "Arabic",
+   "language": [
+    "Arabic",
+    "Urdu"
+   ],
+   "gender": "Unisex",
+   "root": "أ-د-ب (ʾ-d-b)",
+   "etymology": "Plural of Arabic adab, 'manners, politeness'.",
+   "script": {
+    "arabic": "آداب",
+    "urdu": "آداب",
+    "hindi": "आदाब",
+    "pashto": "آداب"
+   },
+   "transliteration": "Ādāb",
+   "reference": "Arabic ādāb, the plural of adab, 'manners, politeness, decorum'.",
+   "confidence": "HIGH"
+  },
+  "tier2_explanatory": {
+   "short_meaning": "Etiquette; good manners; decorum (ādāb)",
+   "long_meaning": "Aadab (آداب) is the Arabic plural ādāb of adab, 'good manners, politeness, breeding, decorum'. It denotes the rules of courteous conduct and respect. In Urdu, ādāb is also used as a greeting of respect.",
+   "translations": {
+    "arabic": "Etiquette; good manners; decorum",
+    "urdu": "Etiquette; good manners; decorum",
+    "hindi": "Etiquette; good manners; decorum",
+    "pashto": "Etiquette; good manners; decorum",
+    "english": "Etiquette; good manners; decorum (ādāb)"
+   },
+   "pronunciation": {
+    "english": "AA-daab",
+    "ipa": "/ˈaː.daːb/"
+   },
+   "syllables": 2,
+   "name_length": 5,
+   "faqs": 15
+  },
+  "tier3_interpretive": {
+   "disclaimer": "The following fields are interpretive/optional associations derived from traditional numerology, not factual claims.",
+   "numerology": {
+    "lucky_number": 9,
+    "life_path_number": 9,
+    "ruling_planet": "Mars",
+    "lucky_day": "Tuesday",
+    "lucky_stone": "Red Coral",
+    "lucky_colors": [
+     "Red",
+     "Crimson"
+    ],
+    "numerology_meaning": "In Pythagorean numerology the letters of Aadab total 9, reducing to 9."
+   },
+   "personality_associations": [],
+   "spiritual_symbolism": ""
+  },
+  "verification": {
+   "needs_manual_verification": false,
+   "flags": [],
+   "confidence": "HIGH",
+   "sources": [
+    "Arabic ādāb, the plural of adab, 'manners, politeness, decorum'."
+   ]
+  },
+  "nameverse": {
+   "pipeline": "NameVerse Production v5",
+   "methodology": "Original to Verified to Expanded to Enriched",
+   "tier1_verified": true,
+   "processed_at": "2026-10-01T10:45:00.000Z"
   }
+ }
 }

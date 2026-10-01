@@ -1,388 +1,549 @@
 {
-  "success": true,
-  "data": {
-    "name": "Aaishaht",
-    "slug": "aaishaht",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Aaishaht is used as a unisex name in islamic naming traditions.",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "culture": [
-      "Arabic"
-    ],
-    "short_meaning": "Living Soul",
-    "long_meaning": "The meaning of Aaishaht is recorded in name-lists as “Living Soul”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Aaishaht expresses “Living Soul”; spiritual readings of the name are interpretive.",
-    "emotional_traits": [],
-    "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Arabic",
-    "root_letters": "a-a-i-s-h-a-h-t",
-    "syllables": 2,
-    "name_length": 8,
-    "transliteration": [
-      "Aaishaht"
-    ],
-    "lucky_number": 4,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Grey",
-      "Blue"
-    ],
-    "lucky_stone": "Hessonite",
-    "ruling_planet": "Rahu",
-    "life_path_number": 4,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aaishaht total 31, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-    "in_arabic": {
-      "name": "عائشةت",
-      "meaning": "Living Soul",
-      "long_meaning": "Living Soul"
+ "success": true,
+ "data": {
+  "name": "Aaishaht",
+  "slug": "aaishaht",
+  "language": [
+   "Arabic",
+   "Urdu"
+  ],
+  "gender": "Female",
+  "gender_notes": "Aaishaht is a transliteration variant of ʿĀ'ishah.",
+  "origin": "Arabic",
+  "religion": "islamic",
+  "category": "Islamic",
+  "culture": [
+   "Arabic",
+   "Urdu"
+  ],
+  "short_meaning": "Living; alive (variant spelling of ʿĀ'ishah)",
+  "long_meaning": "Aaishaht (عائشة) is a transliteration variant of ʿĀ'ishah, feminine participle of Arabic ʿāsha, 'to live', meaning 'living, alive'. The trailing -t is not part of the Arabic name.",
+  "spiritual_meaning": "The name carries the sense of a living, thriving person; any spiritual reading placed on it is interpretive and labelled as such.",
+  "emotional_traits": [],
+  "hidden_personality_traits": [],
+  "etymology": "Transliteration variant of Arabic ʿĀ'ishah, from ʿāsha, 'to live'.",
+  "root": "ع-ي-ش (ʿ-y-sh)",
+  "language_root": "Arabic",
+  "root_letters": "ʿ-y-sh",
+  "syllables": 3,
+  "name_length": 8,
+  "transliteration": [
+   "ʿĀ'ishah"
+  ],
+  "lucky_number": 4,
+  "lucky_day": "Sunday",
+  "lucky_colors": [
+   "Grey",
+   "Blue"
+  ],
+  "lucky_stone": "Hessonite",
+  "ruling_planet": "Uranus",
+  "life_path_number": 4,
+  "numerology_meaning": "In Pythagorean numerology the letters of Aaishaht total 31, reducing to 4. Number 4 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim.",
+  "in_arabic": {
+   "name": "عائشة",
+   "meaning": "Living; alive (variant of ʿĀ'ishah)",
+   "long_meaning": "عائشة — Living; alive (variant of ʿĀ'ishah)",
+   "confidence": "MEDIUM"
+  },
+  "in_urdu": {
+   "name": "عائشہ",
+   "meaning": "Living; alive (variant of ʿĀ'ishah)",
+   "long_meaning": "عائشہ — Living; alive (variant of ʿĀ'ishah)",
+   "confidence": "MEDIUM"
+  },
+  "in_hindi": {
+   "name": "आइशा",
+   "meaning": "Living; alive (variant of ʿĀ'ishah)",
+   "long_meaning": "आइशा — Living; alive (variant of ʿĀ'ishah)",
+   "confidence": "MEDIUM"
+  },
+  "in_pashto": {
+   "name": "عائشه",
+   "meaning": "Living; alive (variant of ʿĀ'ishah)",
+   "long_meaning": "عائشه — Living; alive (variant of ʿĀ'ishah)",
+   "confidence": "MEDIUM"
+  },
+  "in_english": {
+   "name": "Aaishaht",
+   "meaning": "Living; alive (variant spelling of ʿĀ'ishah)",
+   "long_meaning": "Aaishaht (عائشة) is a transliteration variant of ʿĀ'ishah, feminine participle of Arabic ʿāsha, 'to live', meaning 'living, alive'. The trailing -t is not part of the Arabic name.",
+   "note": "English lexical meaning of the name."
+  },
+  "pronunciation": {
+   "english": "AA-i-shaht",
+   "ipa": "/ˈɑː.ɪ.ʃɑːt/",
+   "arabic": "عائشة",
+   "urdu": "عائشہ",
+   "hindi": "आइशा",
+   "pashto": "عائشه",
+   "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling."
+  },
+  "name_variants": [
+   "Aaisha",
+   "Aisha"
+  ],
+  "variants": [
+   "Aaisha",
+   "Aisha"
+  ],
+  "diminutives": [],
+  "nicknames": [],
+  "related_names": [
+   "Aaisha",
+   "Aaiza"
+  ],
+  "similar_sounding_names": [
+   "Aaisha",
+   "Aisha"
+  ],
+  "notable_people": [],
+  "notable_people_note": "No verified notable bearer of the exact spelling Aaishaht is asserted in this dataset.",
+  "celebrity_usage": [],
+  "celebrity_usage_note": "No verified celebrity or public-figure usage of the exact spelling Aaishaht is recorded.",
+  "popularity_score": null,
+  "popularity_by_region": [],
+  "popularity_note": "No verified registration or ranking statistics are published for Aaishaht. A numeric popularity score is therefore not asserted.",
+  "cultural_impact": "Aaishaht is a variant spelling of the widely used name ʿĀ'ishah.",
+  "spiritual_significance": "The name carries the sense of a living, thriving person; any spiritual reading placed on it is interpretive and labelled as such.",
+  "spiritual_symbolism": "The name carries the sense of a living, thriving person; any spiritual reading placed on it is interpretive and labelled as such.",
+  "islamic_reference": {
+   "is_quranic": false,
+   "note": "Not a Qur'anic name; from the root ʿ-y-sh, 'to live'."
+  },
+  "historical_references": [],
+  "modern_usage": {
+   "trends": [],
+   "platforms": [],
+   "modern_context": "No verified modern-usage statistics are published for Aaishaht."
+  },
+  "name_in_real_life": {
+   "person_name": "",
+   "location": "",
+   "story": "",
+   "note": "No verified real-life bearer is published for Aaishaht."
+  },
+  "social_tags": [
+   "#AaishahtMeaning",
+   "#IslamicBabyNames",
+   "#MuslimNames",
+   "#ArabicNames"
+  ],
+  "monetization": {
+   "propush_trigger": true,
+   "exit_ad_enabled": true,
+   "ads_enabled": true
+  },
+  "user_engagement": {
+   "interactive_features": {
+    "name_calculator": true,
+    "meaning_quiz": true,
+    "pronunciation_tool": true,
+    "compatibility_checker": true
+   },
+   "community_features": {
+    "user_stories": [],
+    "rating_system": true,
+    "comment_section": true
+   },
+   "personalization": {
+    "favorite_lists": true,
+    "name_comparison": true,
+    "save_preferences": true
+   }
+  },
+  "social_optimization": {
+   "social_media_cards": {
+    "facebook": {
+     "title": "Beautiful Name: Aaishaht",
+     "description": "Discover the meaning of Aaishaht - Living; alive (variant spelling of ʿĀ'ishah)",
+     "image": "/images/social/aaishaht-facebook.jpg"
     },
-    "in_urdu": {
-      "name": "عائشہٹ",
-      "meaning": "Living Soul",
-      "long_meaning": "Living Soul"
+    "twitter": {
+     "title": "Aaishaht - Name Meaning",
+     "description": "Learn about the name Aaishaht",
+     "image": "/images/social/aaishaht-twitter.jpg"
     },
-    "in_hindi": {
-      "name": "आइशाहट",
-      "meaning": "Living Soul",
-      "long_meaning": "Living Soul"
-    },
-    "in_pashto": {
-      "name": "عايشہټ",
-      "meaning": "Living Soul",
-      "long_meaning": "Living Soul"
-    },
-    "in_english": {
-      "name": "Aaishaht",
-      "meaning": "Living Soul",
-      "long_meaning": "Living Soul"
-    },
-    "pronunciation": {
-      "english": "ah-EE-shaht",
-      "urdu": "اردو میں تلفظ کی تفصیل عائشہٹ",
-      "hindi": "हिन्दी में उच्चारण विवरण आइशाहट",
-      "pashto": "په پښتو کې د تلفظ تفصیل عايشہټ",
-      "ipa": "/ɑːˈiːʃɑːt/"
-    },
-    "name_variations": [
-      "Aaishaht"
-    ],
-    "variants": [
-      "Aaishaht"
-    ],
-    "diminutives": [],
-    "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
-    "popularity_score": null,
-    "popularity_by_region": [],
-    "cultural_impact": "Aaishaht is used in Arabic naming tradition with the meaning “Living Soul”.",
-    "spiritual_significance": "Any spiritual significance attached to Aaishaht is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Living Soul” is the basis of any symbolism attached to Aaishaht; such symbolism is interpretive.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "No Qur'anic reference for Aaishaht has been verified."
-    },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aaishaht."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AaishahtMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aaishaht"
-    ],
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aaishaht",
-          "description": "Discover the meaning of Aaishaht - \"Living Soul\"",
-          "image": "/images/social/aaishaht-facebook.jpg"
-        },
-        "twitter": {
-          "title": "Aaishaht - Name Meaning",
-          "description": "Learn about the beautiful name Aaishaht",
-          "image": "/images/social/aaishaht-twitter.jpg"
-        },
-        "instagram": {
-          "title": "Aaishaht",
-          "description": "Name meaning: Living Soul",
-          "image": "/images/social/aaishaht-instagram.jpg"
-        }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aaishaht - Meaning: Living Soul",
-        "email_subject": "Beautiful Name: Aaishaht"
-      }
-    },
-    "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aaishaht with meaning Living Soul",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
-    },
-    "seo": {
-      "title": "Aaishaht Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Aaishaht has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Aaishaht, Aaishaht name meaning, Aaishaht meaning, Aaishaht origin, Aaishaht root, Aaishaht pronunciation, Arabic names",
-      "description_paragraph": "The meaning of Aaishaht has not been verified against a reliable source. This record is flagged for manual verification.",
-      "keywords": [
-        "Aaishaht",
-        "Aaishaht name meaning",
-        "Aaishaht meaning",
-        "Aaishaht origin",
-        "Aaishaht root",
-        "Aaishaht pronunciation",
-        "Arabic names"
-      ],
-      "focus_keyword": "Aaishaht name meaning",
-      "secondary_keywords": [
-        "Aaishaht meaning",
-        "Aaishaht origin",
-        "Aaishaht pronunciation",
-        "Aaishaht lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Aaishaht mean?",
-          "a": "Name-lists record the meaning as “Living Soul”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aaishaht verified?",
-          "a": "No. The meaning of Aaishaht could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aaishaht come from?",
-          "a": "The origin of Aaishaht has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "seo_title": "Aaishaht Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Aaishaht has not been verified against a reliable source. This record is flagged for manual verification.",
-    "keywords": [
-      "Aaishaht",
-      "Aaishaht name meaning",
-      "Aaishaht meaning",
-      "Aaishaht origin",
-      "Aaishaht root",
-      "Aaishaht pronunciation",
-      "Arabic names"
-    ],
-    "canonical_url": "",
-    "intro_paragraph": "The meaning of Aaishaht has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Aaishaht",
-      "description": "Aaishaht — Living Soul",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Aaishaht mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Living Soul”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Aaishaht verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Aaishaht could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Aaishaht come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Aaishaht has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 70
-    },
-    "created_at": "2025-12-22T19:19:49.907Z",
-    "updated_at": "2026-10-01T04:04:17.000Z",
-    "tier1_verified": {
-      "name": "Aaishaht",
-      "slug": "aaishaht",
-      "meaning": "Living Soul",
-      "origin": "Arabic",
-      "language": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Aaishaht",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Living Soul",
-      "long_meaning": "The name Aaishaht is recorded with the meaning “Living Soul”. Aaishaht is a Arabic name meaning “Living Soul”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Aaishaht",
-          "meaning": "Living Soul",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "ah-EE-shaht",
-        "ipa": "/ɑːˈiːʃɑːt/"
-      },
-      "syllables": 2,
-      "name_length": 8,
-      "faqs": [
-        {
-          "q": "What does the name Aaishaht mean?",
-          "a": "Name-lists record the meaning as “Living Soul”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aaishaht verified?",
-          "a": "No. The meaning of Aaishaht could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aaishaht come from?",
-          "a": "The origin of Aaishaht has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 4,
-        "life_path_number": 4,
-        "ruling_planet": "Rahu",
-        "lucky_day": "Saturday",
-        "lucky_stone": "Hessonite",
-        "lucky_colors": [
-          "Grey",
-          "Blue"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aaishaht total 31, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
-    "verification": {
-      "needs_manual_verification": true,
-      "flags": [
-        "no_verified_lexicon_entry"
-      ],
-      "confidence": "UNKNOWN",
-      "sources": []
-    },
-    "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:17.000Z"
+    "instagram": {
+     "title": "Aaishaht",
+     "description": "Name meaning: Living; alive (variant spelling of ʿĀ'ishah)",
+     "image": "/images/social/aaishaht-instagram.jpg"
     }
+   },
+   "sharing_optimization": {
+    "whatsapp_message": "Check out this name: Aaishaht - Meaning: Living; alive (variant spelling of ʿĀ'ishah)",
+    "email_subject": "Beautiful Name: Aaishaht"
+   }
+  },
+  "accessibility": {
+   "screen_reader_optimized": true,
+   "alt_text": "Aaishaht with meaning Living; alive (variant spelling of ʿĀ'ishah)",
+   "keyboard_navigable": true,
+   "high_contrast_mode": true,
+   "font_scaling_support": true,
+   "voice_navigation": true,
+   "braille_compatible": true,
+   "language_attributes": {
+    "primary": "en",
+    "rtl_support": true
+   }
+  },
+  "seo": {
+   "title": "Aaishaht Name Meaning - Living; alive (variant spelling of ʿĀ'is (Arabic)",
+   "meta_description": "Aaishaht is an Arabic name meaning Living; alive (variant spelling of ʿĀ'ishah). Verified meaning, root, script and 15 FAQs.",
+   "meta_keywords": "Aaishaht, Aaishaht name meaning, Aaishaht meaning, Aaishaht origin, Aaishaht root, Aaishaht pronunciation",
+   "description_paragraph": "Aaishaht is a Arabic name meaning Living; alive (variant spelling of ʿĀ'ishah).",
+   "keywords": [
+    "Aaishaht",
+    "Aaishaht name meaning",
+    "Aaishaht meaning",
+    "Aaishaht origin",
+    "Aaishaht pronunciation"
+   ],
+   "focus_keyword": "Aaishaht name meaning",
+   "secondary_keywords": [
+    "Aaishaht meaning",
+    "Aaishaht origin",
+    "Aaishaht pronunciation",
+    "Aaishaht lucky number"
+   ],
+   "canonical_url": "",
+   "seo_score": 94,
+   "seo_score_basis": "FAQ 15 (>=15 target); no high-severity issues",
+   "faq": [
+    {
+     "q": "What does the name Aaishaht mean?",
+     "a": "Aaishaht means Living; alive (variant spelling of ʿĀ'ishah)."
+    },
+    {
+     "q": "What is the origin of the name Aaishaht?",
+     "a": "Aaishaht is of Arabic origin."
+    },
+    {
+     "q": "What language does the name Aaishaht come from?",
+     "a": "Aaishaht is used in Arabic, Urdu."
+    },
+    {
+     "q": "Is Aaishaht a boy's name or a girl's name?",
+     "a": "Aaishaht is used as a female name."
+    },
+    {
+     "q": "How is Aaishaht pronounced?",
+     "a": "Aaishaht is pronounced AA-i-shaht (IPA /ˈɑː.ɪ.ʃɑːt/)."
+    },
+    {
+     "q": "How is Aaishaht written in Arabic and Urdu?",
+     "a": "Aaishaht is written عائشة in Arabic and عائشہ in Urdu, and आइशा in Devanagari."
+    },
+    {
+     "q": "What is the linguistic root of Aaishaht?",
+     "a": "The root of Aaishaht is ع-ي-ش (ʿ-y-sh)."
+    },
+    {
+     "q": "What is the etymology of Aaishaht?",
+     "a": "Transliteration variant of Arabic ʿĀ'ishah, from ʿāsha, 'to live'."
+    },
+    {
+     "q": "Does Aaishaht appear in the Qur'an?",
+     "a": "Not a Qur'anic name; from the root ʿ-y-sh, 'to live'."
+    },
+    {
+     "q": "Is Aaishaht a separate name from ʿĀ'ishah?",
+     "a": "No. 'Aaishaht' is a transliteration variant of ʿĀ'ishah (عائشة); the final -t is not part of the Arabic name."
+    },
+    {
+     "q": "What is the numerology or lucky number of Aaishaht?",
+     "a": "In Pythagorean numerology the letters of Aaishaht total 31, reducing to 4. Number 4 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+    },
+    {
+     "q": "What are the common spelling variants of Aaishaht?",
+     "a": "Aaishaht appears with variants and alternative spellings such as Aaisha, Aisha."
+    },
+    {
+     "q": "Which names are related to Aaishaht?",
+     "a": "Names sharing form or root with Aaishaht include Aaisha, Aaiza."
+    },
+    {
+     "q": "Does Aaishaht mean the same as Aaisha?",
+     "a": "Yes. Both render ʿĀ'ishah, from the verb ʿāsha, 'to live', meaning 'living, alive'."
+    },
+    {
+     "q": "Where is the name Aaishaht used today?",
+     "a": "Aaishaht is used in Arabic, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+    }
+   ]
+  },
+  "seo_title": "Aaishaht Name Meaning - Living; alive (variant spelling of ʿĀ'is (Arabic)",
+  "meta_description": "Aaishaht is a Arabic name meaning Living; alive (variant spelling of ʿĀ'ishah). Verified meaning, root, script and 15 FAQs.",
+  "keywords": [
+   "Aaishaht",
+   "Aaishaht name meaning",
+   "Aaishaht meaning",
+   "Aaishaht origin",
+   "Aaishaht pronunciation"
+  ],
+  "canonical_url": "",
+  "intro_paragraph": "Aaishaht is a Arabic name meaning Living; alive (variant spelling of ʿĀ'ishah). Transliteration variant of Arabic ʿĀ'ishah, from ʿāsha, 'to live'.",
+  "structured_data": {
+   "@context": "https://schema.org",
+   "@type": "Thing",
+   "name": "Aaishaht",
+   "description": "Aaishaht - Living; alive (variant spelling of ʿĀ'ishah)",
+   "additionalType": "https://schema.org/Person"
+  },
+  "structured_data_faq": {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "What does the name Aaishaht mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaishaht means Living; alive (variant spelling of ʿĀ'ishah)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the origin of the name Aaishaht?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaishaht is of Arabic origin."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What language does the name Aaishaht come from?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaishaht is used in Arabic, Urdu."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aaishaht a boy's name or a girl's name?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaishaht is used as a female name."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aaishaht pronounced?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaishaht is pronounced AA-i-shaht (IPA /ˈɑː.ɪ.ʃɑːt/)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aaishaht written in Arabic and Urdu?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaishaht is written عائشة in Arabic and عائشہ in Urdu, and आइशा in Devanagari."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the linguistic root of Aaishaht?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The root of Aaishaht is ع-ي-ش (ʿ-y-sh)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the etymology of Aaishaht?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Transliteration variant of Arabic ʿĀ'ishah, from ʿāsha, 'to live'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Aaishaht appear in the Qur'an?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Not a Qur'anic name; from the root ʿ-y-sh, 'to live'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aaishaht a separate name from ʿĀ'ishah?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No. 'Aaishaht' is a transliteration variant of ʿĀ'ishah (عائشة); the final -t is not part of the Arabic name."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the numerology or lucky number of Aaishaht?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In Pythagorean numerology the letters of Aaishaht total 31, reducing to 4. Number 4 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What are the common spelling variants of Aaishaht?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaishaht appears with variants and alternative spellings such as Aaisha, Aisha."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Which names are related to Aaishaht?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Names sharing form or root with Aaishaht include Aaisha, Aaiza."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Aaishaht mean the same as Aaisha?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Both render ʿĀ'ishah, from the verb ʿāsha, 'to live', meaning 'living, alive'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Where is the name Aaishaht used today?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaishaht is used in Arabic, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+     }
+    }
+   ]
+  },
+  "structured_data_breadcrumb": {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Islamic Names",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Aaishaht",
+     "item": ""
+    }
+   ]
+  },
+  "advanced_seo": {
+   "technical_seo": {
+    "mobile_friendly": true,
+    "schema_markup": true,
+    "rtl_rendering": true
+   },
+   "content_seo": {
+    "faq_count": 15,
+    "internal_linking": true,
+    "unique_field_coverage": "name-specific meaning, etymology, root, script and FAQ"
+   },
+   "performance_metrics": {}
+  },
+  "confidence": {
+   "meaning": "HIGH",
+   "etymology": "HIGH",
+   "origin": "HIGH",
+   "scripts": "MEDIUM",
+   "pronunciation": "LOW",
+   "gender": "MEDIUM",
+   "numerology": "MEDIUM",
+   "popularity": "UNKNOWN",
+   "faq": "HIGH",
+   "notable_people": "UNKNOWN",
+   "historical_references": "MEDIUM"
+  },
+  "data_quality": {
+   "source_was_thin": true,
+   "authenticity_flags": [],
+   "fields_total": 78
+  },
+  "created_at": "2025-06-29T09:02:52.166896",
+  "updated_at": "2026-10-01T10:45:00.000Z",
+  "tier1_verified": {
+   "name": "Aaishaht",
+   "slug": "aaishaht",
+   "meaning": "Living; alive (variant spelling of ʿĀ'ishah)",
+   "origin": "Arabic",
+   "language": [
+    "Arabic",
+    "Urdu"
+   ],
+   "gender": "Female",
+   "root": "ع-ي-ش (ʿ-y-sh)",
+   "etymology": "Transliteration variant of Arabic ʿĀ'ishah, from ʿāsha, 'to live'.",
+   "script": {
+    "arabic": "عائشة",
+    "urdu": "عائشہ",
+    "hindi": "आइशा",
+    "pashto": "عائشه"
+   },
+   "transliteration": "ʿĀ'ishah",
+   "reference": "Transliteration variant of Arabic ʿĀ'ishah, from ʿāsha, 'to live'.",
+   "confidence": "HIGH"
+  },
+  "tier2_explanatory": {
+   "short_meaning": "Living; alive (variant spelling of ʿĀ'ishah)",
+   "long_meaning": "Aaishaht (عائشة) is a transliteration variant of ʿĀ'ishah, feminine participle of Arabic ʿāsha, 'to live', meaning 'living, alive'. The trailing -t is not part of the Arabic name.",
+   "translations": {
+    "arabic": "Living; alive (variant of ʿĀ'ishah)",
+    "urdu": "Living; alive (variant of ʿĀ'ishah)",
+    "hindi": "Living; alive (variant of ʿĀ'ishah)",
+    "pashto": "Living; alive (variant of ʿĀ'ishah)",
+    "english": "Living; alive (variant spelling of ʿĀ'ishah)"
+   },
+   "pronunciation": {
+    "english": "AA-i-shaht",
+    "ipa": "/ˈɑː.ɪ.ʃɑːt/"
+   },
+   "syllables": 3,
+   "name_length": 8,
+   "faqs": 15
+  },
+  "tier3_interpretive": {
+   "disclaimer": "The following fields are interpretive/optional associations derived from traditional numerology, not factual claims.",
+   "numerology": {
+    "lucky_number": 4,
+    "life_path_number": 4,
+    "ruling_planet": "Uranus",
+    "lucky_day": "Sunday",
+    "lucky_stone": "Hessonite",
+    "lucky_colors": [
+     "Grey",
+     "Blue"
+    ],
+    "numerology_meaning": "In Pythagorean numerology the letters of Aaishaht total 31, reducing to 4."
+   },
+   "personality_associations": [],
+   "spiritual_symbolism": ""
+  },
+  "verification": {
+   "needs_manual_verification": false,
+   "flags": [],
+   "confidence": "HIGH",
+   "sources": [
+    "Verified Tier-1 lexical data (Arabic/Persian lexical sources)."
+   ]
+  },
+  "nameverse": {
+   "pipeline": "NameVerse Production v5",
+   "methodology": "Original to Verified to Expanded to Enriched",
+   "tier1_verified": true,
+   "processed_at": "2026-10-01T10:45:00.000Z"
   }
+ }
 }

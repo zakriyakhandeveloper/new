@@ -1,497 +1,112 @@
 {
-  "success": true,
-  "data": {
-    "name": "Aabid",
-    "slug": "aabid",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Male",
-    "gender_notes": "Aabid is used as a male name in islamic naming traditions.",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "culture": [
-      "Arabic"
-    ],
-    "short_meaning": "Worshipper; devout servant (of God)",
-    "long_meaning": "From Arabic ʿābid (عابد) 'worshipper, one who serves (God)', the active participle of ʿabada 'to worship, to serve', from the root ʿ-b-d. The same root forms ʿibāda 'worship' and the theophoric element ʿabd 'servant'. Aabid therefore means “Worshipper; devout servant (of God)”. Arabic active participle ʿābid 'worshipper'; a standard Muslim male given name.",
-    "spiritual_meaning": "Aabid expresses “Servant of God”; spiritual readings of the name are interpretive.",
-    "emotional_traits": [],
-    "hidden_personality_traits": [],
-    "etymology": "From Arabic ʿābid (عابد) 'worshipper, one who serves (God)', the active participle of ʿabada 'to worship, to serve', from the root ʿ-b-d. The same root forms ʿibāda 'worship' and the theophoric element ʿabd 'servant'.",
-    "root": "ع-ب-د (ʿ-b-d)",
-    "language_root": "Arabic",
-    "root_letters": "a-a-b-i-d",
-    "syllables": 2,
-    "name_length": 5,
-    "transliteration": [
-      "ʿĀbid"
-    ],
-    "lucky_number": 8,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Blue",
-      "Black"
-    ],
-    "lucky_stone": "Blue Sapphire",
-    "ruling_planet": "Saturn",
-    "life_path_number": 8,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aabid total 17, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-    "in_arabic": {
-      "name": "عابد",
-      "meaning": "عابد — المعنى: Worshipper; devout servant (of God)",
-      "long_meaning": "عابد — المعنى: Worshipper; devout servant (of God)"
-    },
-    "in_urdu": {
-      "name": "عابد",
-      "meaning": "عابد — مطلب: Worshipper; devout servant (of God)",
-      "long_meaning": "عابد — مطلب: Worshipper; devout servant (of God)"
-    },
-    "in_hindi": {
-      "name": "आबिद",
-      "meaning": "आबिद — अर्थ: Worshipper; devout servant (of God)",
-      "long_meaning": "आबिद — अर्थ: Worshipper; devout servant (of God)"
-    },
-    "in_pashto": {
-      "name": "عابد",
-      "meaning": "عابد — معنی: Worshipper; devout servant (of God)",
-      "long_meaning": "عابد — معنی: Worshipper; devout servant (of God)"
-    },
-    "in_english": {
-      "name": "Aabid",
-      "meaning": "Worshipper; devout servant (of God)",
-      "long_meaning": "From Arabic ʿābid (عابد) 'worshipper, one who serves (God)', the active participle of ʿabada 'to worship, to serve', from the root ʿ-b-d. The same root forms ʿibāda 'worship' and the theophoric element ʿabd 'servant'. Aabid therefore means “Worshipper; devout servant (of God)”. Arabic active participle ʿābid 'worshipper'; a standard Muslim male given name."
-    },
-    "pronunciation": {
-      "english": "AA-bid",
-      "urdu": "اردو میں تلفظ کی تفصیل: عابد (ah-beed)",
-      "hindi": "हिन्दी में उच्चारण विवरण: आबिद (ābid)",
-      "pashto": "په پښتو کې د تلفظ تفصیل: عبید (a-beed)",
-      "ipa": "/ʕaː.bid/"
-    },
-    "name_variations": [
-      "Aabid"
-    ],
-    "variants": [
-      "Aabid"
-    ],
-    "diminutives": [],
-    "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
-    "popularity_score": null,
-    "popularity_by_region": [],
-    "cultural_impact": "Aabid is used in Arabic naming tradition with the meaning “Servant of God”.",
-    "spiritual_significance": "Any spiritual significance attached to Aabid is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Servant of God” is the basis of any symbolism attached to Aabid; such symbolism is interpretive.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Arabic active participle ʿābid 'worshipper'; a standard Muslim male given name."
-    },
-    "historical_references": [
-      {
-        "reference": "Arabic active participle ʿābid 'worshipper'; a standard Muslim male given name.",
-        "time_period": "",
-        "context": ""
-      }
-    ],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aabid."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AabidMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aabid"
-    ],
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aabid",
-          "description": "Discover the meaning of Aabid - \"Servant of God\"",
-          "image": "/images/social/aabid-facebook.jpg"
-        },
-        "twitter": {
-          "title": "Aabid - Name Meaning",
-          "description": "Learn about the beautiful name Aabid",
-          "image": "/images/social/aabid-twitter.jpg"
-        },
-        "instagram": {
-          "title": "Aabid",
-          "description": "Name meaning: Servant of God",
-          "image": "/images/social/aabid-instagram.jpg"
-        }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aabid - Meaning: Servant of God",
-        "email_subject": "Beautiful Name: Aabid"
-      }
-    },
-    "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aabid with meaning Servant of God",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
-    },
-    "seo": {
-      "title": "Aabid Name Meaning – Worshipper; devout servant (of God) (Arabic)",
-      "meta_description": "Aabid is a Arabic name meaning “Worshipper; devout servant (of God)”. Verified meaning, origin, root, pronunciation and FAQs.",
-      "meta_keywords": "Aabid, Aabid name meaning, Aabid meaning, Aabid origin, Aabid root, Aabid pronunciation, Arabic names",
-      "description_paragraph": "Aabid is a Arabic name meaning “Worshipper; devout servant (of God)”.",
-      "keywords": [
-        "Aabid",
-        "Aabid name meaning",
-        "Aabid meaning",
-        "Aabid origin",
-        "Aabid root",
-        "Aabid pronunciation",
-        "Arabic names"
-      ],
-      "focus_keyword": "Aabid name meaning",
-      "secondary_keywords": [
-        "Aabid meaning",
-        "Aabid origin",
-        "Aabid pronunciation",
-        "Aabid lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What is the root of the name Aabid?",
-          "a": "Aabid comes from the Arabic root ʿ-b-d (ع-ب-د), which carries the sense of worship and service. The same root gives ʿibāda 'worship' and ʿabd 'servant', so Aabid means 'one who worships'."
-        },
-        {
-          "q": "What does the name Aabid mean?",
-          "a": "Aabid means “Worshipper; devout servant (of God)”."
-        },
-        {
-          "q": "Where does the name Aabid come from?",
-          "a": "Aabid is of Arabic origin."
-        },
-        {
-          "q": "What is the linguistic root of Aabid?",
-          "a": "The root of Aabid is ع-ب-د (ʿ-b-d)."
-        },
-        {
-          "q": "How is Aabid written in Arabic script?",
-          "a": "Aabid is written عابد in Arabic script."
-        },
-        {
-          "q": "Is Aabid a boy's or a girl's name?",
-          "a": "Aabid is used as a male name."
-        },
-        {
-          "q": "Does Aabid appear in the Qur'an?",
-          "a": "No. Aabid is not a Qur'anic name; it is used in Muslim naming tradition."
-        },
-        {
-          "q": "Is the meaning of Aabid verified?",
-          "a": "Yes — the meaning “Worshipper; devout servant (of God)” is established by Arabic active participle ʿābid 'worshipper'; a standard Muslim male given name.."
-        }
-      ]
-    },
-    "seo_title": "Aabid Name Meaning – Worshipper; devout servant (of God) (Arabic)",
-    "meta_description": "Aabid is a Arabic name meaning “Worshipper; devout servant (of God)”. Verified meaning, origin, root, pronunciation and FAQs.",
-    "keywords": [
-      "Aabid",
-      "Aabid name meaning",
-      "Aabid meaning",
-      "Aabid origin",
-      "Aabid root",
-      "Aabid pronunciation",
-      "Arabic names"
-    ],
-    "canonical_url": "",
-    "intro_paragraph": "Aabid is a Arabic name meaning “Worshipper; devout servant (of God)”.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Aabid",
-      "description": "Aabid — Worshipper; devout servant (of God)",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is the root of the name Aabid?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aabid comes from the Arabic root ʿ-b-d (ع-ب-د), which carries the sense of worship and service. The same root gives ʿibāda 'worship' and ʿabd 'servant', so Aabid means 'one who worships'."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What does the name Aabid mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aabid means “Worshipper; devout servant (of God)”."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Aabid come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aabid is of Arabic origin."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the linguistic root of Aabid?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The root of Aabid is ع-ب-د (ʿ-b-d)."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is Aabid written in Arabic script?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aabid is written عابد in Arabic script."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is Aabid a boy's or a girl's name?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aabid is used as a male name."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does Aabid appear in the Qur'an?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. Aabid is not a Qur'anic name; it is used in Muslim naming tradition."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Aabid verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes — the meaning “Worshipper; devout servant (of God)” is established by Arabic active participle ʿābid 'worshipper'; a standard Muslim male given name.."
-          }
-        }
-      ]
-    },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 54,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "HIGH",
-      "etymology": "HIGH",
-      "origin": "HIGH",
-      "scripts": "HIGH",
-      "pronunciation": "MEDIUM",
-      "gender": "HIGH",
-      "numerology": "MEDIUM",
-      "popularity": "UNKNOWN",
-      "faq": "MEDIUM",
-      "notable_people": "UNKNOWN",
-      "historical_references": "HIGH"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [],
-      "fields_total": 74
-    },
-    "created_at": "2025-12-22T19:19:49.839Z",
-    "updated_at": "2026-10-01T04:04:17.000Z",
-    "tier1_verified": {
-      "name": "Aabid",
-      "slug": "aabid",
-      "meaning": "Worshipper; devout servant (of God)",
-      "origin": "Arabic",
-      "language": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
-      ],
-      "gender": "Male",
-      "root": "ع-ب-د (ʿ-b-d)",
-      "etymology": "From Arabic ʿābid (عابد) 'worshipper, one who serves (God)', the active participle of ʿabada 'to worship, to serve', from the root ʿ-b-d. The same root forms ʿibāda 'worship' and the theophoric element ʿabd 'servant'.",
-      "script": {
-        "arabic": "عابد",
-        "urdu": "عابد",
-        "hindi": "आबिद",
-        "pashto": "عابد"
-      },
-      "transliteration": "ʿĀbid",
-      "reference": "Arabic active participle ʿābid 'worshipper'; a standard Muslim male given name.",
-      "confidence": "HIGH"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Worshipper; devout servant (of God)",
-      "long_meaning": "From Arabic ʿābid (عابد) 'worshipper, one who serves (God)', the active participle of ʿabada 'to worship, to serve', from the root ʿ-b-d. The same root forms ʿibāda 'worship' and the theophoric element ʿabd 'servant'. Aabid therefore means “Worshipper; devout servant (of God)”. Arabic active participle ʿābid 'worshipper'; a standard Muslim male given name.",
-      "translations": {
-        "arabic": {
-          "name": "عابد",
-          "meaning": "عابد — المعنى: Worshipper; devout servant (of God)",
-          "confidence": "HIGH"
-        },
-        "urdu": {
-          "name": "عابد",
-          "meaning": "عابد — مطلب: Worshipper; devout servant (of God)",
-          "confidence": "HIGH"
-        },
-        "hindi": {
-          "name": "आबिद",
-          "meaning": "आबिद — अर्थ: Worshipper; devout servant (of God)",
-          "confidence": "HIGH"
-        },
-        "pashto": {
-          "name": "عابد",
-          "meaning": "عابد — معنی: Worshipper; devout servant (of God)",
-          "confidence": "HIGH"
-        },
-        "english": {
-          "name": "Aabid",
-          "meaning": "Worshipper; devout servant (of God)",
-          "confidence": "HIGH"
-        }
-      },
-      "pronunciation": {
-        "english": "AA-bid",
-        "ipa": "/ʕaː.bid/"
-      },
-      "syllables": 2,
-      "name_length": 5,
-      "faqs": [
-        {
-          "q": "What is the root of the name Aabid?",
-          "a": "Aabid comes from the Arabic root ʿ-b-d (ع-ب-د), which carries the sense of worship and service. The same root gives ʿibāda 'worship' and ʿabd 'servant', so Aabid means 'one who worships'."
-        },
-        {
-          "q": "What does the name Aabid mean?",
-          "a": "Aabid means “Worshipper; devout servant (of God)”."
-        },
-        {
-          "q": "Where does the name Aabid come from?",
-          "a": "Aabid is of Arabic origin."
-        },
-        {
-          "q": "What is the linguistic root of Aabid?",
-          "a": "The root of Aabid is ع-ب-د (ʿ-b-d)."
-        },
-        {
-          "q": "How is Aabid written in Arabic script?",
-          "a": "Aabid is written عابد in Arabic script."
-        },
-        {
-          "q": "Is Aabid a boy's or a girl's name?",
-          "a": "Aabid is used as a male name."
-        },
-        {
-          "q": "Does Aabid appear in the Qur'an?",
-          "a": "No. Aabid is not a Qur'anic name; it is used in Muslim naming tradition."
-        },
-        {
-          "q": "Is the meaning of Aabid verified?",
-          "a": "Yes — the meaning “Worshipper; devout servant (of God)” is established by Arabic active participle ʿābid 'worshipper'; a standard Muslim male given name.."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 8,
-        "life_path_number": 8,
-        "ruling_planet": "Saturn",
-        "lucky_day": "Saturday",
-        "lucky_stone": "Blue Sapphire",
-        "lucky_colors": [
-          "Blue",
-          "Black"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aabid total 17, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
-    "verification": {
-      "needs_manual_verification": false,
-      "flags": [],
-      "confidence": "HIGH",
-      "sources": [
-        "Arabic active participle ʿābid 'worshipper'; a standard Muslim male given name."
-      ]
-    },
-    "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": true,
-      "processed_at": "2026-10-01T04:04:17.000Z"
-    }
-  }
+ "success": true,
+ "data": {
+  "name": "Aabid",
+  "slug": "aabid",
+  "language": ["Arabic", "Urdu", "Persian", "Pashto"],
+  "gender": "Male",
+  "gender_notes": "Aabid is used as a male name in Arabic and Muslim naming tradition.",
+  "origin": "Arabic",
+  "religion": "islamic",
+  "category": "Islamic",
+  "culture": ["Arabic", "Urdu"],
+  "short_meaning": "Worshipper; devout servant (of God)",
+  "long_meaning": "Aabid (عابد) is an Arabic name meaning “Worshipper; devout servant (of God)”. It comes from Arabic ʿābid (عابد) 'worshipper, devout servant', the active participle of ʿabada 'to worship'. The active participle ʿābid denotes one who is actively engaged in ʿibādah (worship). It is distinct from Aabad (آباد, Persian 'inhabited'), despite the similar English spelling.",
+  "spiritual_meaning": "Aabid carries the meaning Worshipper; devout servant of God. The name expresses religious devotion; this is its documented lexical sense rather than an added doctrinal claim.",
+  "emotional_traits": [],
+  "hidden_personality_traits": [],
+  "etymology": "From Arabic ʿābid (عابد) 'worshipper, devout servant', active participle of ʿabada 'to worship'.",
+  "root": "ع-ب-د (ʿ-b-d), from ʿābid (عابد)",
+  "language_root": "Arabic",
+  "root_letters": "ʿ-b-d",
+  "syllables": 2,
+  "name_length": 5,
+  "transliteration": ["ʿĀbid"],
+  "lucky_number": 9,
+  "lucky_day": "Tuesday",
+  "lucky_colors": ["Red", "Crimson"],
+  "lucky_stone": "Red Coral",
+  "ruling_planet": "Mars",
+  "life_path_number": 9,
+  "numerology_meaning": "In Pythagorean numerology the letters of Aabid total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion. This is an interpretive tradition, not a factual claim.",
+  "in_arabic": {"name": "عابد", "meaning": "العابد؛ المتعبد", "long_meaning": "عابد — العابد؛ المتعبد", "confidence": "HIGH"},
+  "in_urdu": {"name": "عابد", "meaning": "عابد؛ بندگی کرنے والا", "long_meaning": "عابد — عابد؛ بندگی کرنے والا", "confidence": "HIGH"},
+  "in_hindi": {"name": "आबिद", "meaning": "उपासक; इबादत करने वाला", "long_meaning": "आबिद — उपासक; इबादत करने वाला", "confidence": "HIGH"},
+  "in_pashto": {"name": "عابد", "meaning": "عابد؛ عبادت کوونکی", "long_meaning": "عابد — عابد؛ عبادت کوونکی", "confidence": "HIGH"},
+  "in_persian": {"name": "عابد", "meaning": "", "long_meaning": "", "note": "This name is not of Persian origin, so no Persian form is asserted."},
+  "in_english": {"name": "Aabid", "meaning": "Worshipper; devout servant (of God)", "long_meaning": "Arabic active participle ʿābid, from the root ʿ-b-d, to serve and to worship.", "note": "English lexical meaning of the name."},
+  "pronunciation": {"english": "AH-bid", "ipa": "/ˈʕaː.bid/", "arabic": "عابد", "urdu": "عابد", "hindi": "आबिद", "pashto": "عابد", "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling."},
+  "name_variants": ["Abid", "Aabed"],
+  "variants": ["Abid", "Aabed"],
+  "diminutives": [],
+  "nicknames": [],
+  "related_names": ["Aabida", "Abd"],
+  "similar_sounding_names": ["Aabida", "Aabidah"],
+  "notable_people": [],
+  "notable_people_note": "No notable bearer of the exact spelling Aabid could be verified.",
+  "celebrity_usage": [],
+  "celebrity_usage_note": "No verified celebrity or public-figure usage of the exact spelling Aabid is recorded.",
+  "popularity_score": null,
+  "popularity_by_region": [],
+  "popularity_note": "No verified registration or ranking statistics are published for Aabid. A numeric popularity score is therefore not asserted.",
+  "cultural_impact": "Aabid belongs to Arabic naming tradition with the meaning Worshipper; devout servant. ʿIbādah (worship) is a central concept of Islamic practice.",
+  "spiritual_significance": "Aabid expresses devotion, and the name's documented sense is 'worshipper'. Any further spiritual reading is interpretive and labelled as such.",
+  "spiritual_symbolism": "The documented meaning Worshipper is the only basis for any symbolism attached to Aabid; such symbolism is interpretive rather than established.",
+  "islamic_reference": {"is_quranic": false, "note": "Arabic active participle ʿābid, from the root ʿ-b-d 'to serve, to worship'. Aabid is not itself a Qur'anic name; it is used in Muslim naming tradition."},
+  "historical_references": [{"reference": "Arabic active participle ʿābid, from the root ʿ-b-d.", "time_period": "Classical Arabic", "context": "ʿIbādah (worship) is a central Islamic concept."}],
+  "modern_usage": {"trends": [], "platforms": [], "modern_context": "No verified modern-usage statistics are published for Aabid."},
+  "name_in_real_life": {"person_name": "", "location": "", "story": "", "note": "No verified real-life bearer is published for Aabid."},
+  "social_tags": ["#AabidMeaning", "#IslamicBabyNames", "#ArabicNames", "#MuslimNames"],
+  "monetization": {"propush_trigger": true, "exit_ad_enabled": true, "ads_enabled": true},
+  "user_engagement": {"interactive_features": {"name_calculator": true, "meaning_quiz": true, "pronunciation_tool": true, "compatibility_checker": true}, "community_features": {"user_stories": [], "rating_system": true, "comment_section": true}, "personalization": {"favorite_lists": true, "name_comparison": true, "save_preferences": true}},
+  "social_optimization": {"social_media_cards": {"facebook": {"title": "Beautiful Name: Aabid", "description": "Discover the meaning of Aabid - Worshipper; devout servant", "image": "/images/social/aabid-facebook.jpg"}, "twitter": {"title": "Aabid - Name Meaning", "description": "Learn about the Arabic name Aabid", "image": "/images/social/aabid-twitter.jpg"}, "instagram": {"title": "Aabid", "description": "Name meaning: Worshipper; devout servant", "image": "/images/social/aabid-instagram.jpg"}}, "sharing_optimization": {"whatsapp_message": "Check out this name: Aabid - Meaning: Worshipper; devout servant", "email_subject": "Beautiful Name: Aabid"}},
+  "accessibility": {"screen_reader_optimized": true, "alt_text": "Aabid with meaning Worshipper; devout servant", "keyboard_navigable": true, "high_contrast_mode": true, "font_scaling_support": true, "voice_navigation": true, "braille_compatible": true, "language_attributes": {"primary": "en", "rtl_support": true}},
+  "seo": {
+   "title": "Aabid Name Meaning - Worshipper; Devout Servant (Arabic)",
+   "meta_description": "Aabid is an Arabic name meaning Worshipper; devout servant of God, from the root ʿ-b-d. Verified meaning, root, script and 15 FAQs.",
+   "meta_keywords": "Aabid, Aabid name meaning, Aabid meaning, Aabid origin, Aabid root, Aabid pronunciation, Arabic names",
+   "description_paragraph": "Aabid is an Arabic name meaning Worshipper; devout servant (of God).",
+   "keywords": ["Aabid", "Aabid name meaning", "Aabid meaning", "Aabid origin", "Aabid root", "Aabid pronunciation", "Arabic names"],
+   "focus_keyword": "Aabid name meaning",
+   "secondary_keywords": ["Aabid meaning", "Aabid origin", "Aabid pronunciation", "Aabid lucky number", "Aabid in Arabic"],
+   "canonical_url": "",
+   "seo_score": 94,
+   "seo_score_basis": "FAQ 15 (>=15 target), tier-1 confidence HIGH, 0 high-severity issues",
+   "faq": [
+    {"q": "What does the name Aabid mean?", "a": "Aabid means Worshipper; devout servant (of God)."},
+    {"q": "What is the origin of the name Aabid?", "a": "Aabid is of Arabic origin."},
+    {"q": "What language does the name Aabid come from?", "a": "Aabid is used in Arabic, Urdu, Persian and Pashto."},
+    {"q": "Is Aabid a boy's name or a girl's name?", "a": "Aabid is used as a male name."},
+    {"q": "How is Aabid pronounced?", "a": "Aabid is pronounced AH-bid (IPA /ˈʕaː.bid/)."},
+    {"q": "How is Aabid written in Arabic?", "a": "Aabid is written عابد in Arabic, Urdu and Pashto, and आबिद in Devanagari."},
+    {"q": "What is the linguistic root of Aabid?", "a": "The root of Aabid is ʿ-b-d (ع-ب-د), from ʿābid (عابد)."},
+    {"q": "What is the etymology of Aabid?", "a": "From Arabic ʿābid (عابد) worshipper, devout servant, the active participle of ʿabada, to worship."},
+    {"q": "Does Aabid appear in the Qur'an?", "a": "No. Aabid is not itself a Qur'anic name; it is used in Muslim naming tradition."},
+    {"q": "What is the feminine form of Aabid?", "a": "The feminine form is ʿĀbidah (عابدة), meaning a female worshipper, listed in this dataset as Aabida."},
+    {"q": "Is Aabid related to the name Abd?", "a": "Yes. Both come from the root ʿ-b-d, to serve and to worship. Abd appears in theophoric names such as ʿAbdullāh, servant of God."},
+    {"q": "Is the meaning of Aabid verified?", "a": "Yes. The meaning Worshipper rests on the Arabic active participle ʿābid, from the root ʿ-b-d."},
+    {"q": "What is the numerology or lucky number of Aabid?", "a": "In Pythagorean numerology the letters of Aabid total 18, reducing to 9. Number 9 is traditionally associated with compassion, idealism and completion. This is an interpretive tradition, not a factual claim."},
+    {"q": "What are the common spelling variants of Aabid?", "a": "Variants and alternative transliterations include Abid and Aabed."},
+    {"q": "Is Aabid the same as Aabad?", "a": "No. Aabid (عابد) means worshipper and comes from Arabic. Aabad (آباد) means inhabited and comes from Persian. They are unrelated despite the similar English spelling."}
+   ]
+  },
+  "seo_title": "Aabid Name Meaning - Worshipper; Devout Servant (Arabic)",
+  "meta_description": "Aabid is an Arabic name meaning Worshipper; devout servant of God, from the root ʿ-b-d. Verified meaning, root, script and 15 FAQs.",
+  "keywords": ["Aabid", "Aabid name meaning", "Aabid meaning", "Aabid origin", "Aabid root", "Aabid pronunciation", "Arabic names"],
+  "canonical_url": "",
+  "intro_paragraph": "Aabid is an Arabic name meaning Worshipper; devout servant (of God). It comes from Arabic ʿābid (عابد), the active participle of ʿabada, to worship.",
+  "structured_data": {"@context": "https://schema.org", "@type": "Thing", "name": "Aabid", "description": "Aabid - Worshipper; devout servant (of God)", "additionalType": "https://schema.org/Person"},
+  "structured_data_faq": {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What does the name Aabid mean?", "acceptedAnswer": {"@type": "Answer", "text": "Aabid means Worshipper; devout servant (of God)."}}, {"@type": "Question", "name": "What is the origin of the name Aabid?", "acceptedAnswer": {"@type": "Answer", "text": "Aabid is of Arabic origin."}}, {"@type": "Question", "name": "What language does the name Aabid come from?", "acceptedAnswer": {"@type": "Answer", "text": "Aabid is used in Arabic, Urdu, Persian and Pashto."}}, {"@type": "Question", "name": "Is Aabid a boy's name or a girl's name?", "acceptedAnswer": {"@type": "Answer", "text": "Aabid is used as a male name."}}, {"@type": "Question", "name": "How is Aabid pronounced?", "acceptedAnswer": {"@type": "Answer", "text": "Aabid is pronounced AH-bid (IPA /ˈʕaː.bid/)."}}, {"@type": "Question", "name": "How is Aabid written in Arabic?", "acceptedAnswer": {"@type": "Answer", "text": "Aabid is written عابد in Arabic, Urdu and Pashto, and आबिद in Devanagari."}}, {"@type": "Question", "name": "What is the linguistic root of Aabid?", "acceptedAnswer": {"@type": "Answer", "text": "The root of Aabid is ʿ-b-d (ع-ب-د), from ʿābid (عابد)."}}, {"@type": "Question", "name": "What is the etymology of Aabid?", "acceptedAnswer": {"@type": "Answer", "text": "From Arabic ʿābid (عابد) worshipper, devout servant, the active participle of ʿabada, to worship."}}, {"@type": "Question", "name": "Does Aabid appear in the Qur'an?", "acceptedAnswer": {"@type": "Answer", "text": "No. Aabid is not itself a Qur'anic name; it is used in Muslim naming tradition."}}, {"@type": "Question", "name": "What is the feminine form of Aabid?", "acceptedAnswer": {"@type": "Answer", "text": "The feminine form is ʿĀbidah (عابدة), meaning a female worshipper, listed in this dataset as Aabida."}}, {"@type": "Question", "name": "Is Aabid related to the name Abd?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Both come from the root ʿ-b-d, to serve and to worship. Abd appears in theophoric names such as ʿAbdullāh, servant of God."}}, {"@type": "Question", "name": "Is the meaning of Aabid verified?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The meaning Worshipper rests on the Arabic active participle ʿābid, from the root ʿ-b-d."}}, {"@type": "Question", "name": "What is the numerology or lucky number of Aabid?", "acceptedAnswer": {"@type": "Answer", "text": "In Pythagorean numerology the letters of Aabid total 18, reducing to 9. Number 9 is traditionally associated with compassion, idealism and completion. This is an interpretive tradition, not a factual claim."}}, {"@type": "Question", "name": "What are the common spelling variants of Aabid?", "acceptedAnswer": {"@type": "Answer", "text": "Variants and alternative transliterations include Abid and Aabed."}}, {"@type": "Question", "name": "Is Aabid the same as Aabad?", "acceptedAnswer": {"@type": "Answer", "text": "No. Aabid (عابد) means worshipper and comes from Arabic. Aabad (آباد) means inhabited and comes from Persian. They are unrelated despite the similar English spelling."}}]},
+  "structured_data_breadcrumb": {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": ""}, {"@type": "ListItem", "position": 2, "name": "Islamic Names", "item": ""}, {"@type": "ListItem", "position": 3, "name": "Aabid", "item": ""}]},
+  "advanced_seo": {"technical_seo": {"mobile_friendly": true, "schema_markup": true, "rtl_rendering": true}, "content_seo": {"faq_count": 15, "internal_linking": true, "unique_field_coverage": "name-specific meaning, etymology, root, script and FAQ"}, "performance_metrics": {}},
+  "confidence": {"meaning": "HIGH", "etymology": "HIGH", "origin": "HIGH", "scripts": "HIGH", "pronunciation": "MEDIUM", "gender": "HIGH", "numerology": "MEDIUM", "popularity": "UNKNOWN", "faq": "HIGH", "notable_people": "UNKNOWN", "historical_references": "HIGH"},
+  "data_quality": {"source_was_thin": false, "authenticity_flags": [], "fields_total": 79},
+  "created_at": "2025-12-22T19:19:49.839Z",
+  "updated_at": "2026-10-01T10:30:00.000Z",
+  "tier1_verified": {"name": "Aabid", "slug": "aabid", "meaning": "Worshipper; devout servant (of God)", "origin": "Arabic", "language": ["Arabic", "Urdu", "Persian", "Pashto"], "gender": "Male", "root": "ع-ب-د (ʿ-b-d), from ʿābid (عابد)", "etymology": "From Arabic ʿābid (عابد), active participle of ʿabada, to worship.", "script": {"arabic": "عابد", "urdu": "عابد", "hindi": "आबिद", "pashto": "عابد"}, "transliteration": "ʿĀbid", "reference": "Arabic active participle ʿābid, from the root ʿ-b-d.", "confidence": "HIGH"},
+  "tier2_explanatory": {"short_meaning": "Worshipper; devout servant (of God)", "long_meaning": "Aabid (عابد) is an Arabic name meaning Worshipper; devout servant. It is the active participle of ʿabada, to worship, from the root ʿ-b-d.", "translations": {"arabic": {"name": "عابد", "meaning": "العابد؛ المتعبد", "confidence": "HIGH"}, "urdu": {"name": "عابد", "meaning": "عابد؛ بندگی کرنے والا", "confidence": "HIGH"}, "hindi": {"name": "आबिद", "meaning": "उपासक; इबादत करने वाला", "confidence": "HIGH"}, "pashto": {"name": "عابد", "meaning": "عابد؛ عبادت کوونکی", "confidence": "HIGH"}, "english": {"name": "Aabid", "meaning": "Worshipper; devout servant (of God)", "confidence": "HIGH"}}, "pronunciation": {"english": "AH-bid", "ipa": "/ˈʕaː.bid/"}, "syllables": 2, "name_length": 5, "faqs": 15},
+  "tier3_interpretive": {"disclaimer": "The following fields are interpretive/optional associations derived from traditional numerology, not factual claims.", "numerology": {"lucky_number": 9, "life_path_number": 9, "ruling_planet": "Mars", "lucky_day": "Tuesday", "lucky_stone": "Red Coral", "lucky_colors": ["Red", "Crimson"], "numerology_meaning": "In Pythagorean numerology the letters of Aabid total 18, reducing to 9."}, "personality_associations": [], "spiritual_symbolism": ""},
+  "verification": {"needs_manual_verification": false, "flags": [], "confidence": "HIGH", "sources": ["Arabic active participle ʿābid, from the root ʿ-b-d."]},
+  "nameverse": {"pipeline": "NameVerse Production v5", "methodology": "Original to Verified to Expanded to Enriched", "tier1_verified": true, "processed_at": "2026-10-01T10:30:00.000Z"}
+ }
 }

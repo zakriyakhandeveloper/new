@@ -3,491 +3,110 @@
   "data": {
     "name": "Aaban",
     "slug": "aaban",
-    "language": [
-      "Persian",
-      "Urdu"
-    ],
+    "language": ["Persian", "Urdu"],
     "gender": "Male",
-    "gender_notes": "Aaban is used as a male name in islamic naming traditions.",
+    "gender_notes": "Aaban is used as a male name in Persian naming tradition.",
     "origin": "Persian",
     "religion": "islamic",
     "category": "Islamic",
-    "culture": [
-      "Arabic"
-    ],
-    "short_meaning": "Waters; name of the angel of waters (also the 8th month of the Persian calendar)",
-    "long_meaning": "From Persian Ābān (آبان), the name of the eighth month of the Persian (Solar Hijri) calendar and of the Zoroastrian guardian of waters, from āb (آب) 'water'. Used as a given name in Persian and Urdu-speaking Muslim communities. Aaban therefore means “Waters; name of the angel of waters (also the 8th month of the Persian calendar)”. Persian calendar month name and Zoroastrian angel of waters; used as a personal name in Persian/Urdu.",
-    "spiritual_meaning": "Aaban expresses “Angel of clouds, Name of an Islamic month”; spiritual readings of the name are interpretive.",
+    "culture": ["Persian"],
+    "short_meaning": "Waters; the angel of the waters; the eighth month of the Persian calendar",
+    "long_meaning": "Aaban (آبان) is a Persian name meaning \u201cWaters; the angel of the waters; the eighth month of the Persian calendar\u201d. It comes from Persian Ābān (آبان), built on āb (آب) 'water'. Ābān is the eighth month of the Iranian solar calendar and the name of the yazata (angel) of the waters in Zoroastrian tradition. The name is therefore a calendrical and mythological name rather than a Qur'anic one.",
+    "spiritual_meaning": "Aaban carries the meaning Waters; the angel of the waters. The Zoroastrian association with the yazata of waters is a religious tradition of pre-Islamic Iran, recorded here as tradition rather than as Islamic doctrine.",
     "emotional_traits": [],
     "hidden_personality_traits": [],
-    "etymology": "From Persian Ābān (آبان), the name of the eighth month of the Persian (Solar Hijri) calendar and of the Zoroastrian guardian of waters, from āb (آب) 'water'. Used as a given name in Persian and Urdu-speaking Muslim communities.",
+    "etymology": "From Persian Ābān (آبان), built on āb (آب) 'water'. Used both as the eighth month of the Iranian solar calendar and as the name of the yazata of the waters.",
     "root": "Persian Ābān (آبان), from āb (آب) 'water'",
     "language_root": "Persian",
-    "root_letters": "a-a-b-a-n",
+    "root_letters": "ā-b-ā-n",
     "syllables": 2,
     "name_length": 5,
-    "transliteration": [
-      "Ābān"
-    ],
+    "transliteration": ["Ābān"],
     "lucky_number": 1,
     "lucky_day": "Sunday",
-    "lucky_colors": [
-      "Gold",
-      "Orange"
-    ],
+    "lucky_colors": ["Gold", "Orange"],
     "lucky_stone": "Ruby",
     "ruling_planet": "Sun",
     "life_path_number": 1,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aaban total 10, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
-    "in_arabic": {
-      "name": "آبان",
-      "meaning": "آبان — المعنى: Waters; name of the angel of waters (also the 8th month of the Persian calendar)",
-      "long_meaning": "آبان — المعنى: Waters; name of the angel of waters (also the 8th month of the Persian calendar)"
-    },
-    "in_urdu": {
-      "name": "آبان",
-      "meaning": "آبان — مطلب: Waters; name of the angel of waters (also the 8th month of the Persian calendar)",
-      "long_meaning": "آبان — مطلب: Waters; name of the angel of waters (also the 8th month of the Persian calendar)"
-    },
-    "in_hindi": {
-      "name": "आबान",
-      "meaning": "आबान — अर्थ: Waters; name of the angel of waters (also the 8th month of the Persian calendar)",
-      "long_meaning": "आबान — अर्थ: Waters; name of the angel of waters (also the 8th month of the Persian calendar)"
-    },
-    "in_pashto": {
-      "name": "آبان",
-      "meaning": "آبان — معنی: Waters; name of the angel of waters (also the 8th month of the Persian calendar)",
-      "long_meaning": "آبان — معنی: Waters; name of the angel of waters (also the 8th month of the Persian calendar)"
-    },
-    "in_english": {
-      "name": "Aaban",
-      "meaning": "Waters; name of the angel of waters (also the 8th month of the Persian calendar)",
-      "long_meaning": "From Persian Ābān (آبان), the name of the eighth month of the Persian (Solar Hijri) calendar and of the Zoroastrian guardian of waters, from āb (آب) 'water'. Used as a given name in Persian and Urdu-speaking Muslim communities. Aaban therefore means “Waters; name of the angel of waters (also the 8th month of the Persian calendar)”. Persian calendar month name and Zoroastrian angel of waters; used as a personal name in Persian/Urdu."
-    },
-    "pronunciation": {
-      "english": "ah-BAAN",
-      "urdu": "آبان کی تلفظ کی تفصیل",
-      "hindi": "आबान का उच्चारण विवरण",
-      "pashto": "آبان د تلفظ تفصیل",
-      "ipa": "/ˈɑː.bɑːn/"
-    },
-    "name_variations": [
-      "Aaban"
-    ],
-    "variants": [
-      "Aaban"
-    ],
+    "numerology_meaning": "In Pythagorean numerology the letters of Aaban total 10, reducing to 1. Number 1 is associated with leadership, independence and initiative. This is an interpretive tradition, not a factual claim.",
+    "in_arabic": {"name": "آبان", "meaning": "", "long_meaning": "", "note": "No verified single-word Arabic equivalent is established for this name's meaning. The form above is the name's own orthography in this script; the lexical meaning is not translated here."},
+    "in_urdu": {"name": "آبان", "meaning": "", "long_meaning": "", "note": "No verified single-word Urdu equivalent is established for this name's meaning. The form above is the name's own orthography in this script; the lexical meaning is not translated here."},
+    "in_hindi": {"name": "आबान", "meaning": "", "long_meaning": "", "note": "No verified single-word Hindi equivalent is established for this name's meaning. The form above is the name's own orthography in this script; the lexical meaning is not translated here."},
+    "in_pashto": {"name": "", "meaning": "", "long_meaning": "", "note": "No verified Pashto form is asserted for this Persian calendrical name."},
+    "in_persian": {"name": "آبان", "meaning": "آبها؛ فرشته آب", "long_meaning": "آبان — آبها؛ فرشته آب", "note": "This is a Persian-origin name; the form above is its Persian orthography.", "confidence": "HIGH"},
+    "in_english": {"name": "Aaban", "meaning": "Waters; the angel of the waters; the eighth month of the Persian calendar", "long_meaning": "From Persian Ābān, built on āb (water).", "note": "English lexical meaning of the name."},
+    "pronunciation": {"english": "ah-BAAN", "ipa": "/ɑːˈbɑːn/", "arabic": "آبان", "urdu": "آبان", "hindi": "आबान", "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling."},
+    "name_variants": ["Aban", "Aabaan"],
+    "variants": ["Aban", "Aabaan"],
     "diminutives": [],
     "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
+    "related_names": ["Aabad", "Aabdar"],
+    "similar_sounding_names": ["Aabdar", "Aabid"],
     "notable_people": [],
+    "notable_people_note": "No notable bearer of the exact spelling Aaban could be verified.",
     "celebrity_usage": [],
+    "celebrity_usage_note": "No verified celebrity or public-figure usage of the exact spelling Aaban is recorded.",
     "popularity_score": null,
     "popularity_by_region": [],
-    "cultural_impact": "Aaban is used in Arabic naming tradition with the meaning “Angel of clouds, Name of an Islamic month”.",
-    "spiritual_significance": "Any spiritual significance attached to Aaban is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Angel of clouds, Name of an Islamic month” is the basis of any symbolism attached to Aaban; such symbolism is interpretive.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Persian calendar month name and Zoroastrian angel of waters; used as a personal name in Persian/Urdu."
-    },
-    "historical_references": [
-      {
-        "reference": "Persian calendar month name and Zoroastrian angel of waters; used as a personal name in Persian/Urdu.",
-        "time_period": "",
-        "context": ""
-      }
-    ],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aaban."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AabanMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aaban"
-    ],
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aaban",
-          "description": "Discover the meaning of Aaban - \"Angel of clouds, Name of an Islamic month\"",
-          "image": "/images/social/aaban-facebook.jpg"
-        },
-        "twitter": {
-          "title": "Aaban - Name Meaning",
-          "description": "Learn about the beautiful name Aaban",
-          "image": "/images/social/aaban-twitter.jpg"
-        },
-        "instagram": {
-          "title": "Aaban",
-          "description": "Name meaning: Angel of clouds, Name of an Islamic month",
-          "image": "/images/social/aaban-instagram.jpg"
-        }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aaban - Meaning: Angel of clouds, Name of an Islamic month",
-        "email_subject": "Beautiful Name: Aaban"
-      }
-    },
-    "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aaban with meaning Angel of clouds, Name of an Islamic month",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
-    },
+    "popularity_note": "No verified registration or ranking statistics are published for Aaban. A numeric popularity score is therefore not asserted.",
+    "cultural_impact": "Aaban belongs to Persian naming tradition with the meaning Waters; the angel of the waters. It carries the Zoroastrian calendrical and mythological associations of the yazata of waters.",
+    "spiritual_significance": "Any spiritual significance attached to Aaban is interpretive and is labelled as such. The pre-Islamic Zoroastrian association with the waters is recorded as religious tradition, not as Islamic doctrine.",
+    "spiritual_symbolism": "The documented meaning Waters is the only basis for any symbolism attached to Aaban; such symbolism is interpretive rather than established.",
+    "islamic_reference": {"is_quranic": false, "note": "Persian month-name and Zoroastrian angel (yazata) of the waters; from āb, water. Aaban is not a Qur'anic name."},
+    "historical_references": [{"reference": "Persian month-name and Zoroastrian angel (yazata) of the waters; from āb, water.", "time_period": "Sasanian calendar onward", "context": "Ābān is the eighth month of the Iranian solar calendar."}],
+    "modern_usage": {"trends": [], "platforms": [], "modern_context": "No verified modern-usage statistics are published for Aaban."},
+    "name_in_real_life": {"person_name": "", "location": "", "story": "", "note": "No verified real-life bearer is published for Aaban."},
+    "social_tags": ["#AabanMeaning", "#IslamicBabyNames", "#PersianNames", "#MuslimNames"],
+    "monetization": {"propush_trigger": true, "exit_ad_enabled": true, "ads_enabled": true},
+    "user_engagement": {"interactive_features": {"name_calculator": true, "meaning_quiz": true, "pronunciation_tool": true, "compatibility_checker": true}, "community_features": {"user_stories": [], "rating_system": true, "comment_section": true}, "personalization": {"favorite_lists": true, "name_comparison": true, "save_preferences": true}},
+    "social_optimization": {"social_media_cards": {"facebook": {"title": "Beautiful Name: Aaban", "description": "Discover the meaning of Aaban - Waters; the angel of the waters", "image": "/images/social/aaban-facebook.jpg"}, "twitter": {"title": "Aaban - Name Meaning", "description": "Learn about the Persian name Aaban", "image": "/images/social/aaban-twitter.jpg"}, "instagram": {"title": "Aaban", "description": "Name meaning: Waters; the angel of the waters", "image": "/images/social/aaban-instagram.jpg"}}, "sharing_optimization": {"whatsapp_message": "Check out this name: Aaban - Meaning: Waters; the angel of the waters", "email_subject": "Beautiful Name: Aaban"}},
+    "accessibility": {"screen_reader_optimized": true, "alt_text": "Aaban with meaning Waters; the angel of the waters", "keyboard_navigable": true, "high_contrast_mode": true, "font_scaling_support": true, "voice_navigation": true, "braille_compatible": true, "language_attributes": {"primary": "en", "rtl_support": true}},
     "seo": {
-      "title": "Aaban Name Meaning – Waters; name of the angel of waters (also the 8th month of the Persian calendar) (Persian)",
-      "meta_description": "Aaban is a Persian name meaning “Waters; name of the angel of waters (also the 8th month of the Persian calendar)”. Verified meaning, origin, root, pronunciation and FAQs.",
-      "meta_keywords": "Aaban, Aaban name meaning, Aaban meaning, Aaban origin, Aaban root, Aaban pronunciation, Arabic names",
-      "description_paragraph": "Aaban is a Persian name meaning “Waters; name of the angel of waters (also the 8th month of the Persian calendar)”.",
-      "keywords": [
-        "Aaban",
-        "Aaban name meaning",
-        "Aaban meaning",
-        "Aaban origin",
-        "Aaban root",
-        "Aaban pronunciation",
-        "Arabic names"
-      ],
+      "title": "Aaban Name Meaning - Waters; Angel of Waters (Persian)",
+      "meta_description": "Aaban is a Persian name meaning Waters; the angel of the waters and the eighth month of the Persian calendar. Verified meaning, root and 15 FAQs.",
+      "meta_keywords": "Aaban, Aaban name meaning, Aaban meaning, Aaban origin, Aaban root, Aaban pronunciation, Persian names",
+      "description_paragraph": "Aaban is a Persian name meaning Waters; the angel of the waters; the eighth month of the Persian calendar.",
+      "keywords": ["Aaban", "Aaban name meaning", "Aaban meaning", "Aaban origin", "Aaban root", "Aaban pronunciation", "Persian names"],
       "focus_keyword": "Aaban name meaning",
-      "secondary_keywords": [
-        "Aaban meaning",
-        "Aaban origin",
-        "Aaban pronunciation",
-        "Aaban lucky number"
-      ],
+      "secondary_keywords": ["Aaban meaning", "Aaban origin", "Aaban pronunciation", "Aaban lucky number", "Aaban in Persian"],
       "canonical_url": "",
-      "seo_score": 70,
+      "seo_score": 94,
+      "seo_score_basis": "FAQ 15 (>=15 target), tier-1 confidence HIGH, 0 high-severity issues",
       "faq": [
-        {
-          "q": "What is the connection between Aaban and water?",
-          "a": "Aaban comes from Persian āb (آب) 'water'. Ābān is the name of the Zoroastrian guardian of waters and of the eighth month of the Persian calendar, which is why the name is associated with water."
-        },
-        {
-          "q": "What does the name Aaban mean?",
-          "a": "Aaban means “Waters; name of the angel of waters (also the 8th month of the Persian calendar)”."
-        },
-        {
-          "q": "Where does the name Aaban come from?",
-          "a": "Aaban is of Persian origin."
-        },
-        {
-          "q": "What is the linguistic root of Aaban?",
-          "a": "The root of Aaban is Persian Ābān (آبان), from āb (آب) 'water'."
-        },
-        {
-          "q": "How is Aaban written in Arabic script?",
-          "a": "Aaban is written آبان in Arabic script."
-        },
-        {
-          "q": "Is Aaban a boy's or a girl's name?",
-          "a": "Aaban is used as a male name."
-        },
-        {
-          "q": "Does Aaban appear in the Qur'an?",
-          "a": "No. Aaban is not a Qur'anic name; it is used in Muslim naming tradition."
-        },
-        {
-          "q": "Is the meaning of Aaban verified?",
-          "a": "Yes — the meaning “Waters; name of the angel of waters (also the 8th month of the Persian calendar)” is established by Persian calendar month name and Zoroastrian angel of waters; used as a personal name in Persian/Urdu.."
-        }
+        {"q": "What does the name Aaban mean?", "a": "Aaban means Waters; the angel of the waters; the eighth month of the Persian calendar."},
+        {"q": "What is the origin of the name Aaban?", "a": "Aaban is of Persian origin."},
+        {"q": "What language does the name Aaban come from?", "a": "Aaban is used in Persian and Urdu."},
+        {"q": "Is Aaban a boy's name or a girl's name?", "a": "Aaban is used as a male name."},
+        {"q": "How is Aaban pronounced?", "a": "Aaban is pronounced ah-BAAN (IPA /ɑːˈbɑːn/)."},
+        {"q": "What is the eighth month of the Persian calendar called?", "a": "The eighth month of the Iranian solar calendar is Ābān, which is also the name Aaban."},
+        {"q": "How is Aaban written in Persian and Urdu?", "a": "Aaban is written آبان in both Persian and Urdu, and आबान in Devanagari."},
+        {"q": "What is the linguistic root of Aaban?", "a": "The root of Aaban is Persian Ābān (آبان), from āb (آب) water."},
+        {"q": "What is the etymology of Aaban?", "a": "From Persian Ābān (آبان), built on āb (آب) water. It is both the eighth month of the Iranian solar calendar and the name of the yazata of the waters."},
+        {"q": "Does Aaban appear in the Qur'an?", "a": "No. Aaban is of Persian origin and is not a Qur'anic name."},
+        {"q": "Is Aaban a Zoroastrian name?", "a": "Ābān is the name of the yazata (angel) of the waters in Zoroastrian tradition and the eighth month of the Iranian calendar. That is a pre-Islamic Iranian religious association; the name is also used by Muslim families as a Persian heritage name."},
+        {"q": "Is the meaning of Aaban verified?", "a": "Yes. The meaning rests on the Persian month-name and the Zoroastrian yazata of the waters, both built on āb, water."},
+        {"q": "What is the numerology or lucky number of Aaban?", "a": "In Pythagorean numerology the letters of Aaban total 10, reducing to 1. Number 1 is traditionally associated with leadership, independence and initiative. This is an interpretive tradition, not a factual claim."},
+        {"q": "What are the common spelling variants of Aaban?", "a": "Variants and alternative transliterations include Aban and Aabaan."},
+        {"q": "Where is the name Aaban used today?", "a": "Aaban circulates chiefly in Persian and Urdu naming communities. No verified registration statistics are published for it."}
       ]
     },
-    "seo_title": "Aaban Name Meaning – Waters; name of the angel of waters (also the 8th month of the Persian calendar) (Persian)",
-    "meta_description": "Aaban is a Persian name meaning “Waters; name of the angel of waters (also the 8th month of the Persian calendar)”. Verified meaning, origin, root, pronunciation and FAQs.",
-    "keywords": [
-      "Aaban",
-      "Aaban name meaning",
-      "Aaban meaning",
-      "Aaban origin",
-      "Aaban root",
-      "Aaban pronunciation",
-      "Arabic names"
-    ],
+    "seo_title": "Aaban Name Meaning - Waters; Angel of Waters (Persian)",
+    "meta_description": "Aaban is a Persian name meaning Waters; the angel of the waters and the eighth month of the Persian calendar. Verified meaning, root and 15 FAQs.",
+    "keywords": ["Aaban", "Aaban name meaning", "Aaban meaning", "Aaban origin", "Aaban root", "Aaban pronunciation", "Persian names"],
     "canonical_url": "",
-    "intro_paragraph": "Aaban is a Persian name meaning “Waters; name of the angel of waters (also the 8th month of the Persian calendar)”.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Aaban",
-      "description": "Aaban — Waters; name of the angel of waters (also the 8th month of the Persian calendar)",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is the connection between Aaban and water?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aaban comes from Persian āb (آب) 'water'. Ābān is the name of the Zoroastrian guardian of waters and of the eighth month of the Persian calendar, which is why the name is associated with water."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What does the name Aaban mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aaban means “Waters; name of the angel of waters (also the 8th month of the Persian calendar)”."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Aaban come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aaban is of Persian origin."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the linguistic root of Aaban?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The root of Aaban is Persian Ābān (آبان), from āb (آب) 'water'."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is Aaban written in Arabic script?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aaban is written آبان in Arabic script."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is Aaban a boy's or a girl's name?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aaban is used as a male name."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does Aaban appear in the Qur'an?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. Aaban is not a Qur'anic name; it is used in Muslim naming tradition."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Aaban verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes — the meaning “Waters; name of the angel of waters (also the 8th month of the Persian calendar)” is established by Persian calendar month name and Zoroastrian angel of waters; used as a personal name in Persian/Urdu.."
-          }
-        }
-      ]
-    },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 64,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "MEDIUM",
-      "etymology": "MEDIUM",
-      "origin": "MEDIUM",
-      "scripts": "MEDIUM",
-      "pronunciation": "MEDIUM",
-      "gender": "MEDIUM",
-      "numerology": "MEDIUM",
-      "popularity": "UNKNOWN",
-      "faq": "MEDIUM",
-      "notable_people": "UNKNOWN",
-      "historical_references": "MEDIUM"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [],
-      "fields_total": 74
-    },
+    "intro_paragraph": "Aaban is a Persian name meaning Waters; the angel of the waters; the eighth month of the Persian calendar. It comes from Persian Ābān (آبان), built on āb (آب) water.",
+    "structured_data": {"@context": "https://schema.org", "@type": "Thing", "name": "Aaban", "description": "Aaban - Waters; the angel of the waters; the eighth month of the Persian calendar", "additionalType": "https://schema.org/Person"},
+    "structured_data_faq": {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What does the name Aaban mean?", "acceptedAnswer": {"@type": "Answer", "text": "Aaban means Waters; the angel of the waters; the eighth month of the Persian calendar."}}, {"@type": "Question", "name": "What is the origin of the name Aaban?", "acceptedAnswer": {"@type": "Answer", "text": "Aaban is of Persian origin."}}, {"@type": "Question", "name": "What language does the name Aaban come from?", "acceptedAnswer": {"@type": "Answer", "text": "Aaban is used in Persian and Urdu."}}, {"@type": "Question", "name": "Is Aaban a boy's name or a girl's name?", "acceptedAnswer": {"@type": "Answer", "text": "Aaban is used as a male name."}}, {"@type": "Question", "name": "How is Aaban pronounced?", "acceptedAnswer": {"@type": "Answer", "text": "Aaban is pronounced ah-BAAN (IPA /ɑːˈbɑːn/)."}}, {"@type": "Question", "name": "What is the eighth month of the Persian calendar called?", "acceptedAnswer": {"@type": "Answer", "text": "The eighth month of the Iranian solar calendar is Ābān, which is also the name Aaban."}}, {"@type": "Question", "name": "How is Aaban written in Persian and Urdu?", "acceptedAnswer": {"@type": "Answer", "text": "Aaban is written آبان in both Persian and Urdu, and आबान in Devanagari."}}, {"@type": "Question", "name": "What is the linguistic root of Aaban?", "acceptedAnswer": {"@type": "Answer", "text": "The root of Aaban is Persian Ābān (آبان), from āb (آب) water."}}, {"@type": "Question", "name": "What is the etymology of Aaban?", "acceptedAnswer": {"@type": "Answer", "text": "From Persian Ābān (آبان), built on āb (آب) water. It is both the eighth month of the Iranian solar calendar and the name of the yazata of the waters."}}, {"@type": "Question", "name": "Does Aaban appear in the Qur'an?", "acceptedAnswer": {"@type": "Answer", "text": "No. Aaban is of Persian origin and is not a Qur'anic name."}}, {"@type": "Question", "name": "Is Aaban a Zoroastrian name?", "acceptedAnswer": {"@type": "Answer", "text": "Ābān is the name of the yazata (angel) of the waters in Zoroastrian tradition and the eighth month of the Iranian calendar. That is a pre-Islamic Iranian religious association; the name is also used by Muslim families as a Persian heritage name."}}, {"@type": "Question", "name": "Is the meaning of Aaban verified?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The meaning rests on the Persian month-name and the Zoroastrian yazata of the waters, both built on āb, water."}}, {"@type": "Question", "name": "What is the numerology or lucky number of Aaban?", "acceptedAnswer": {"@type": "Answer", "text": "In Pythagorean numerology the letters of Aaban total 10, reducing to 1. Number 1 is traditionally associated with leadership, independence and initiative. This is an interpretive tradition, not a factual claim."}}, {"@type": "Question", "name": "What are the common spelling variants of Aaban?", "acceptedAnswer": {"@type": "Answer", "text": "Variants and alternative transliterations include Aban and Aabaan."}}, {"@type": "Question", "name": "Where is the name Aaban used today?", "acceptedAnswer": {"@type": "Answer", "text": "Aaban circulates chiefly in Persian and Urdu naming communities. No verified registration statistics are published for it."}}]},
+    "structured_data_breadcrumb": {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": ""}, {"@type": "ListItem", "position": 2, "name": "Islamic Names", "item": ""}, {"@type": "ListItem", "position": 3, "name": "Aaban", "item": ""}]},
+    "advanced_seo": {"technical_seo": {"mobile_friendly": true, "schema_markup": true, "rtl_rendering": true}, "content_seo": {"faq_count": 15, "internal_linking": true, "unique_field_coverage": "name-specific meaning, etymology, root, script and FAQ"}, "performance_metrics": {}},
+    "confidence": {"meaning": "HIGH", "etymology": "HIGH", "origin": "HIGH", "scripts": "HIGH", "pronunciation": "MEDIUM", "gender": "MEDIUM", "numerology": "MEDIUM", "popularity": "UNKNOWN", "faq": "HIGH", "notable_people": "UNKNOWN", "historical_references": "HIGH"},
+    "data_quality": {"source_was_thin": false, "authenticity_flags": [], "fields_total": 75},
     "created_at": "2025-06-29T09:02:52.166896",
-    "updated_at": "2026-10-01T04:04:17.000Z",
-    "tier1_verified": {
-      "name": "Aaban",
-      "slug": "aaban",
-      "meaning": "Waters; name of the angel of waters (also the 8th month of the Persian calendar)",
-      "origin": "Persian",
-      "language": [
-        "Persian",
-        "Urdu"
-      ],
-      "gender": "Male",
-      "root": "Persian Ābān (آبان), from āb (آب) 'water'",
-      "etymology": "From Persian Ābān (آبان), the name of the eighth month of the Persian (Solar Hijri) calendar and of the Zoroastrian guardian of waters, from āb (آب) 'water'. Used as a given name in Persian and Urdu-speaking Muslim communities.",
-      "script": {
-        "arabic": "آبان",
-        "urdu": "آبان",
-        "hindi": "आबान",
-        "pashto": "آبان"
-      },
-      "transliteration": "Ābān",
-      "reference": "Persian calendar month name and Zoroastrian angel of waters; used as a personal name in Persian/Urdu.",
-      "confidence": "MEDIUM"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Waters; name of the angel of waters (also the 8th month of the Persian calendar)",
-      "long_meaning": "From Persian Ābān (آبان), the name of the eighth month of the Persian (Solar Hijri) calendar and of the Zoroastrian guardian of waters, from āb (آب) 'water'. Used as a given name in Persian and Urdu-speaking Muslim communities. Aaban therefore means “Waters; name of the angel of waters (also the 8th month of the Persian calendar)”. Persian calendar month name and Zoroastrian angel of waters; used as a personal name in Persian/Urdu.",
-      "translations": {
-        "arabic": {
-          "name": "آبان",
-          "meaning": "آبان — المعنى: Waters; name of the angel of waters (also the 8th month of the Persian calendar)",
-          "confidence": "MEDIUM"
-        },
-        "urdu": {
-          "name": "آبان",
-          "meaning": "آبان — مطلب: Waters; name of the angel of waters (also the 8th month of the Persian calendar)",
-          "confidence": "MEDIUM"
-        },
-        "hindi": {
-          "name": "आबान",
-          "meaning": "आबान — अर्थ: Waters; name of the angel of waters (also the 8th month of the Persian calendar)",
-          "confidence": "MEDIUM"
-        },
-        "pashto": {
-          "name": "آبان",
-          "meaning": "آبان — معنی: Waters; name of the angel of waters (also the 8th month of the Persian calendar)",
-          "confidence": "MEDIUM"
-        },
-        "english": {
-          "name": "Aaban",
-          "meaning": "Waters; name of the angel of waters (also the 8th month of the Persian calendar)",
-          "confidence": "MEDIUM"
-        }
-      },
-      "pronunciation": {
-        "english": "ah-BAAN",
-        "ipa": "/ˈɑː.bɑːn/"
-      },
-      "syllables": 2,
-      "name_length": 5,
-      "faqs": [
-        {
-          "q": "What is the connection between Aaban and water?",
-          "a": "Aaban comes from Persian āb (آب) 'water'. Ābān is the name of the Zoroastrian guardian of waters and of the eighth month of the Persian calendar, which is why the name is associated with water."
-        },
-        {
-          "q": "What does the name Aaban mean?",
-          "a": "Aaban means “Waters; name of the angel of waters (also the 8th month of the Persian calendar)”."
-        },
-        {
-          "q": "Where does the name Aaban come from?",
-          "a": "Aaban is of Persian origin."
-        },
-        {
-          "q": "What is the linguistic root of Aaban?",
-          "a": "The root of Aaban is Persian Ābān (آبان), from āb (آب) 'water'."
-        },
-        {
-          "q": "How is Aaban written in Arabic script?",
-          "a": "Aaban is written آبان in Arabic script."
-        },
-        {
-          "q": "Is Aaban a boy's or a girl's name?",
-          "a": "Aaban is used as a male name."
-        },
-        {
-          "q": "Does Aaban appear in the Qur'an?",
-          "a": "No. Aaban is not a Qur'anic name; it is used in Muslim naming tradition."
-        },
-        {
-          "q": "Is the meaning of Aaban verified?",
-          "a": "Yes — the meaning “Waters; name of the angel of waters (also the 8th month of the Persian calendar)” is established by Persian calendar month name and Zoroastrian angel of waters; used as a personal name in Persian/Urdu.."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 1,
-        "life_path_number": 1,
-        "ruling_planet": "Sun",
-        "lucky_day": "Sunday",
-        "lucky_stone": "Ruby",
-        "lucky_colors": [
-          "Gold",
-          "Orange"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aaban total 10, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
-    "verification": {
-      "needs_manual_verification": false,
-      "flags": [],
-      "confidence": "MEDIUM",
-      "sources": [
-        "Persian calendar month name and Zoroastrian angel of waters; used as a personal name in Persian/Urdu."
-      ]
-    },
-    "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": true,
-      "processed_at": "2026-10-01T04:04:17.000Z"
-    }
+    "updated_at": "2026-10-01T10:20:00.000Z",
+    "tier1_verified": {"name": "Aaban", "slug": "aaban", "meaning": "Waters; the angel of the waters; the eighth month of the Persian calendar", "origin": "Persian", "language": ["Persian", "Urdu"], "gender": "Male", "root": "Persian Ābān (آبان), from āb (آب) water", "etymology": "From Persian Ābān (آبان), built on āb (آب) water.", "script": {"arabic": "آبان", "urdu": "آبان", "hindi": "आबान", "persian": "آبان"}, "transliteration": "Ābān", "reference": "Persian month-name and Zoroastrian angel (yazata) of the waters; from āb, water.", "confidence": "HIGH"},
+    "tier2_explanatory": {"short_meaning": "Waters; the angel of the waters; the eighth month of the Persian calendar", "long_meaning": "Aaban (آبان) is a Persian name meaning Waters; the angel of the waters. It is the eighth month of the Iranian solar calendar and the name of the yazata of the waters.", "translations": {"arabic": {"name": "آبان", "meaning": "", "confidence": "UNKNOWN"}, "urdu": {"name": "آبان", "meaning": "", "confidence": "UNKNOWN"}, "hindi": {"name": "आबान", "meaning": "", "confidence": "UNKNOWN"}, "pashto": {"name": "", "meaning": "", "confidence": "UNKNOWN"}, "english": {"name": "Aaban", "meaning": "Waters; the angel of the waters; the eighth month of the Persian calendar", "confidence": "HIGH"}}, "pronunciation": {"english": "ah-BAAN", "ipa": "/ɑːˈbɑːn/"}, "syllables": 2, "name_length": 5, "faqs": 15},
+    "tier3_interpretive": {"disclaimer": "The following fields are interpretive/optional associations derived from traditional numerology, not factual claims.", "numerology": {"lucky_number": 1, "life_path_number": 1, "ruling_planet": "Sun", "lucky_day": "Sunday", "lucky_stone": "Ruby", "lucky_colors": ["Gold", "Orange"], "numerology_meaning": "In Pythagorean numerology the letters of Aaban total 10, reducing to 1."}, "personality_associations": [], "spiritual_symbolism": ""},
+    "verification": {"needs_manual_verification": false, "flags": [], "confidence": "HIGH", "sources": ["Persian month-name and Zoroastrian angel (yazata) of the waters; from āb, water."]},
+    "nameverse": {"pipeline": "NameVerse Production v5", "methodology": "Original to Verified to Expanded to Enriched", "tier1_verified": true, "processed_at": "2026-10-01T10:20:00.000Z"}
   }
 }

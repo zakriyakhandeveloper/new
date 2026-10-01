@@ -1,383 +1,549 @@
 {
-  "success": true,
-  "data": {
-    "name": "Aalifa",
-    "slug": "aalifa",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Aalifa is used as a unisex name in islamic naming traditions.",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "culture": [
-      "Arabic"
-    ],
-    "short_meaning": "Exalted, Noble",
-    "long_meaning": "The meaning of Aalifa is recorded in name-lists as “Exalted, Noble”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Aalifa expresses “Exalted, Noble”; spiritual readings of the name are interpretive.",
-    "emotional_traits": [],
-    "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Arabic",
-    "root_letters": "a-a-l-i-f-a",
-    "syllables": 3,
-    "name_length": 6,
-    "transliteration": [
-      "Aalifa"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Yellow",
-      "Gold"
-    ],
-    "lucky_stone": "Yellow Sapphire",
-    "ruling_planet": "Jupiter",
-    "life_path_number": 3,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aalifa total 21, reducing to 3. Number 3 is associated with expression, creativity and optimism.",
-    "in_arabic": {
-      "name": "عليفة",
-      "meaning": "Exalted, Noble",
-      "long_meaning": "Exalted, Noble"
+ "success": true,
+ "data": {
+  "name": "Aalifa",
+  "slug": "aalifa",
+  "language": [
+   "Arabic",
+   "Urdu"
+  ],
+  "gender": "Female",
+  "gender_notes": "Aalifa is used as a female name.",
+  "origin": "Arabic",
+  "religion": "islamic",
+  "category": "Islamic",
+  "culture": [
+   "Arabic",
+   "Urdu"
+  ],
+  "short_meaning": "Friendly; affectionate; familiar (alīfah)",
+  "long_meaning": "Aalifa (أليفة) is the feminine of the Arabic alīf, 'friendly, familiar, kind, affectionate' — also used of a tamed animal. It is a rare but well-formed name.",
+  "spiritual_meaning": "The name points to friendship and kindness; any spiritual reading placed on it is interpretive and labelled as such.",
+  "emotional_traits": [],
+  "hidden_personality_traits": [],
+  "etymology": "Feminine of Arabic alīf, 'friendly, familiar', from the root ʾ-l-f.",
+  "root": "أ-ل-ف (ʾ-l-f)",
+  "language_root": "Arabic",
+  "root_letters": "ʾ-l-f",
+  "syllables": 3,
+  "name_length": 6,
+  "transliteration": [
+   "Alīfah"
+  ],
+  "lucky_number": 3,
+  "lucky_day": "Thursday",
+  "lucky_colors": [
+   "Yellow",
+   "Gold"
+  ],
+  "lucky_stone": "Yellow Sapphire",
+  "ruling_planet": "Jupiter",
+  "life_path_number": 3,
+  "numerology_meaning": "In Pythagorean numerology the letters of Aalifa total 21, reducing to 3. Number 3 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim.",
+  "in_arabic": {
+   "name": "أليفة",
+   "meaning": "Friendly; affectionate; familiar",
+   "long_meaning": "أليفة — Friendly; affectionate; familiar",
+   "confidence": "MEDIUM"
+  },
+  "in_urdu": {
+   "name": "الیفہ",
+   "meaning": "Friendly; affectionate; familiar",
+   "long_meaning": "الیفہ — Friendly; affectionate; familiar",
+   "confidence": "MEDIUM"
+  },
+  "in_hindi": {
+   "name": "अलीफ़ा",
+   "meaning": "Friendly; affectionate; familiar",
+   "long_meaning": "अलीफ़ा — Friendly; affectionate; familiar",
+   "confidence": "MEDIUM"
+  },
+  "in_pashto": {
+   "name": "اليفه",
+   "meaning": "Friendly; affectionate; familiar",
+   "long_meaning": "اليفه — Friendly; affectionate; familiar",
+   "confidence": "MEDIUM"
+  },
+  "in_english": {
+   "name": "Aalifa",
+   "meaning": "Friendly; affectionate; familiar (alīfah)",
+   "long_meaning": "Aalifa (أليفة) is the feminine of the Arabic alīf, 'friendly, familiar, kind, affectionate' — also used of a tamed animal. It is a rare but well-formed name.",
+   "note": "English lexical meaning of the name."
+  },
+  "pronunciation": {
+   "english": "AA-li-fah",
+   "ipa": "/ˈɑː.li.fɑː/",
+   "arabic": "أليفة",
+   "urdu": "الیفہ",
+   "hindi": "अलीफ़ा",
+   "pashto": "اليفه",
+   "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling."
+  },
+  "name_variants": [
+   "Alifa",
+   "Aleefa"
+  ],
+  "variants": [
+   "Alifa",
+   "Aleefa"
+  ],
+  "diminutives": [],
+  "nicknames": [],
+  "related_names": [
+   "Aalif",
+   "Aalia"
+  ],
+  "similar_sounding_names": [
+   "Alifa",
+   "Aleefa"
+  ],
+  "notable_people": [],
+  "notable_people_note": "No verified notable bearer of the exact spelling Aalifa is asserted in this dataset.",
+  "celebrity_usage": [],
+  "celebrity_usage_note": "No verified celebrity or public-figure usage of the exact spelling Aalifa is recorded.",
+  "popularity_score": null,
+  "popularity_by_region": [],
+  "popularity_note": "No verified registration or ranking statistics are published for Aalifa. A numeric popularity score is therefore not asserted.",
+  "cultural_impact": "Aalifa belongs to Arabic naming tradition with the sense of friendliness.",
+  "spiritual_significance": "The name points to friendship and kindness; any spiritual reading placed on it is interpretive and labelled as such.",
+  "spiritual_symbolism": "The name points to friendship and kindness; any spiritual reading placed on it is interpretive and labelled as such.",
+  "islamic_reference": {
+   "is_quranic": false,
+   "note": "Not a Qur'anic personal name; from the Arabic root ʾ-l-f, 'to be familiar'."
+  },
+  "historical_references": [],
+  "modern_usage": {
+   "trends": [],
+   "platforms": [],
+   "modern_context": "No verified modern-usage statistics are published for Aalifa."
+  },
+  "name_in_real_life": {
+   "person_name": "",
+   "location": "",
+   "story": "",
+   "note": "No verified real-life bearer is published for Aalifa."
+  },
+  "social_tags": [
+   "#AalifaMeaning",
+   "#IslamicBabyNames",
+   "#MuslimNames",
+   "#ArabicNames"
+  ],
+  "monetization": {
+   "propush_trigger": true,
+   "exit_ad_enabled": true,
+   "ads_enabled": true
+  },
+  "user_engagement": {
+   "interactive_features": {
+    "name_calculator": true,
+    "meaning_quiz": true,
+    "pronunciation_tool": true,
+    "compatibility_checker": true
+   },
+   "community_features": {
+    "user_stories": [],
+    "rating_system": true,
+    "comment_section": true
+   },
+   "personalization": {
+    "favorite_lists": true,
+    "name_comparison": true,
+    "save_preferences": true
+   }
+  },
+  "social_optimization": {
+   "social_media_cards": {
+    "facebook": {
+     "title": "Beautiful Name: Aalifa",
+     "description": "Discover the meaning of Aalifa - Friendly; affectionate; familiar (alīfah)",
+     "image": "/images/social/aalifa-facebook.jpg"
     },
-    "in_urdu": {
-      "name": "علیفہ",
-      "meaning": "Exalted, Noble",
-      "long_meaning": "Exalted, Noble"
+    "twitter": {
+     "title": "Aalifa - Name Meaning",
+     "description": "Learn about the name Aalifa",
+     "image": "/images/social/aalifa-twitter.jpg"
     },
-    "in_hindi": {
-      "name": "औलिफ़ा",
-      "meaning": "Exalted, Noble",
-      "long_meaning": "Exalted, Noble"
-    },
-    "in_pashto": {
-      "name": "عليفه",
-      "meaning": "Exalted, Noble",
-      "long_meaning": "Exalted, Noble"
-    },
-    "in_english": {
-      "name": "Aalifa",
-      "meaning": "Exalted, Noble",
-      "long_meaning": "Exalted, Noble"
-    },
-    "pronunciation": {
-      "english": "/ˈælɪfə/",
-      "urdu": "/ˈɔːliːfə/",
-      "hindi": "/ˈɔːlɪfə/",
-      "pashto": "/ˈɔːlɪfə/",
-      "ipa": "https://en.wikipedia.org/wiki/Help:IPA_for_English#A"
-    },
-    "name_variations": [
-      "Aalifa"
-    ],
-    "variants": [
-      "Aalifa"
-    ],
-    "diminutives": [],
-    "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
-    "popularity_score": null,
-    "popularity_by_region": [],
-    "cultural_impact": "Aalifa is used in Arabic naming tradition with the meaning “Exalted, Noble”.",
-    "spiritual_significance": "Any spiritual significance attached to Aalifa is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Exalted, Noble” is the basis of any symbolism attached to Aalifa; such symbolism is interpretive.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "No Qur'anic reference for Aalifa has been verified."
-    },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aalifa."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AalifaMeaning",
-      "#IslamicNames"
-    ],
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aalifa",
-          "description": "Discover the meaning of Aalifa - \"Exalted, Noble\"",
-          "image": "/images/social/aalifa-facebook.jpg"
-        },
-        "twitter": {
-          "title": "Aalifa - Name Meaning",
-          "description": "Learn about the beautiful name Aalifa",
-          "image": "/images/social/aalifa-twitter.jpg"
-        },
-        "instagram": {
-          "title": "Aalifa",
-          "description": "Name meaning: Exalted, Noble",
-          "image": "/images/social/aalifa-instagram.jpg"
-        }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aalifa - Meaning: Exalted, Noble",
-        "email_subject": "Beautiful Name: Aalifa"
-      }
-    },
-    "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aalifa with meaning Exalted, Noble",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
-    },
-    "seo": {
-      "title": "Aalifa Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Aalifa has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Aalifa, Aalifa name meaning, Aalifa meaning, Aalifa origin, Aalifa root, Aalifa pronunciation, Arabic names",
-      "description_paragraph": "The meaning of Aalifa has not been verified against a reliable source. This record is flagged for manual verification.",
-      "keywords": [
-        "Aalifa",
-        "Aalifa name meaning",
-        "Aalifa meaning",
-        "Aalifa origin",
-        "Aalifa root",
-        "Aalifa pronunciation",
-        "Arabic names"
-      ],
-      "focus_keyword": "Aalifa name meaning",
-      "secondary_keywords": [
-        "Aalifa meaning",
-        "Aalifa origin",
-        "Aalifa pronunciation",
-        "Aalifa lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Aalifa mean?",
-          "a": "Name-lists record the meaning as “Exalted, Noble”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aalifa verified?",
-          "a": "No. The meaning of Aalifa could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aalifa come from?",
-          "a": "The origin of Aalifa has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "seo_title": "Aalifa Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Aalifa has not been verified against a reliable source. This record is flagged for manual verification.",
-    "keywords": [
-      "Aalifa",
-      "Aalifa name meaning",
-      "Aalifa meaning",
-      "Aalifa origin",
-      "Aalifa root",
-      "Aalifa pronunciation",
-      "Arabic names"
-    ],
-    "canonical_url": "",
-    "intro_paragraph": "The meaning of Aalifa has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Aalifa",
-      "description": "Aalifa — Exalted, Noble",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Aalifa mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Exalted, Noble”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Aalifa verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Aalifa could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Aalifa come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Aalifa has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 70
-    },
-    "created_at": "2025-12-22T19:19:50.601Z",
-    "updated_at": "2026-10-01T04:04:17.000Z",
-    "tier1_verified": {
-      "name": "Aalifa",
-      "slug": "aalifa",
-      "meaning": "Exalted, Noble",
-      "origin": "Arabic",
-      "language": [
-        "Arabic",
-        "Urdu",
-        "Persian"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Aalifa",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Exalted, Noble",
-      "long_meaning": "The name Aalifa is recorded with the meaning “Exalted, Noble”. Aalifa is a Arabic name meaning “Exalted, Noble”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Aalifa",
-          "meaning": "Exalted, Noble",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "/ˈælɪfə/",
-        "ipa": "https://en.wikipedia.org/wiki/Help:IPA_for_English#A"
-      },
-      "syllables": 3,
-      "name_length": 6,
-      "faqs": [
-        {
-          "q": "What does the name Aalifa mean?",
-          "a": "Name-lists record the meaning as “Exalted, Noble”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aalifa verified?",
-          "a": "No. The meaning of Aalifa could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aalifa come from?",
-          "a": "The origin of Aalifa has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 3,
-        "life_path_number": 3,
-        "ruling_planet": "Jupiter",
-        "lucky_day": "Thursday",
-        "lucky_stone": "Yellow Sapphire",
-        "lucky_colors": [
-          "Yellow",
-          "Gold"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aalifa total 21, reducing to 3. Number 3 is associated with expression, creativity and optimism."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
-    "verification": {
-      "needs_manual_verification": true,
-      "flags": [
-        "no_verified_lexicon_entry"
-      ],
-      "confidence": "UNKNOWN",
-      "sources": []
-    },
-    "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:17.000Z"
+    "instagram": {
+     "title": "Aalifa",
+     "description": "Name meaning: Friendly; affectionate; familiar (alīfah)",
+     "image": "/images/social/aalifa-instagram.jpg"
     }
+   },
+   "sharing_optimization": {
+    "whatsapp_message": "Check out this name: Aalifa - Meaning: Friendly; affectionate; familiar (alīfah)",
+    "email_subject": "Beautiful Name: Aalifa"
+   }
+  },
+  "accessibility": {
+   "screen_reader_optimized": true,
+   "alt_text": "Aalifa with meaning Friendly; affectionate; familiar (alīfah)",
+   "keyboard_navigable": true,
+   "high_contrast_mode": true,
+   "font_scaling_support": true,
+   "voice_navigation": true,
+   "braille_compatible": true,
+   "language_attributes": {
+    "primary": "en",
+    "rtl_support": true
+   }
+  },
+  "seo": {
+   "title": "Aalifa Name Meaning - Friendly; affectionate; familiar (alīfah (Arabic)",
+   "meta_description": "Aalifa is an Arabic name meaning Friendly; affectionate; familiar (alīfah). Verified meaning, root, script and 15 FAQs.",
+   "meta_keywords": "Aalifa, Aalifa name meaning, Aalifa meaning, Aalifa origin, Aalifa root, Aalifa pronunciation",
+   "description_paragraph": "Aalifa is a Arabic name meaning Friendly; affectionate; familiar (alīfah).",
+   "keywords": [
+    "Aalifa",
+    "Aalifa name meaning",
+    "Aalifa meaning",
+    "Aalifa origin",
+    "Aalifa pronunciation"
+   ],
+   "focus_keyword": "Aalifa name meaning",
+   "secondary_keywords": [
+    "Aalifa meaning",
+    "Aalifa origin",
+    "Aalifa pronunciation",
+    "Aalifa lucky number"
+   ],
+   "canonical_url": "",
+   "seo_score": 94,
+   "seo_score_basis": "FAQ 15 (>=15 target); no high-severity issues",
+   "faq": [
+    {
+     "q": "What does the name Aalifa mean?",
+     "a": "Aalifa means Friendly; affectionate; familiar (alīfah)."
+    },
+    {
+     "q": "What is the origin of the name Aalifa?",
+     "a": "Aalifa is of Arabic origin."
+    },
+    {
+     "q": "What language does the name Aalifa come from?",
+     "a": "Aalifa is used in Arabic, Urdu."
+    },
+    {
+     "q": "Is Aalifa a boy's name or a girl's name?",
+     "a": "Aalifa is used as a female name."
+    },
+    {
+     "q": "How is Aalifa pronounced?",
+     "a": "Aalifa is pronounced AA-li-fah (IPA /ˈɑː.li.fɑː/)."
+    },
+    {
+     "q": "How is Aalifa written in Arabic and Urdu?",
+     "a": "Aalifa is written أليفة in Arabic and الیفہ in Urdu, and अलीफ़ा in Devanagari."
+    },
+    {
+     "q": "What is the linguistic root of Aalifa?",
+     "a": "The root of Aalifa is أ-ل-ف (ʾ-l-f)."
+    },
+    {
+     "q": "What is the etymology of Aalifa?",
+     "a": "Feminine of Arabic alīf, 'friendly, familiar', from the root ʾ-l-f."
+    },
+    {
+     "q": "Does Aalifa appear in the Qur'an?",
+     "a": "Not a Qur'anic personal name; from the Arabic root ʾ-l-f, 'to be familiar'."
+    },
+    {
+     "q": "What does Aalifa mean?",
+     "a": "Aalifa is the feminine of alīf, meaning 'friendly, affectionate, familiar'."
+    },
+    {
+     "q": "What is the numerology or lucky number of Aalifa?",
+     "a": "In Pythagorean numerology the letters of Aalifa total 21, reducing to 3. Number 3 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+    },
+    {
+     "q": "What are the common spelling variants of Aalifa?",
+     "a": "Aalifa appears with variants and alternative spellings such as Alifa, Aleefa."
+    },
+    {
+     "q": "Which names are related to Aalifa?",
+     "a": "Names sharing form or root with Aalifa include Aalif, Aalia."
+    },
+    {
+     "q": "Is Aalifa related to Aalif?",
+     "a": "Yes. Aalifa is the feminine form of alīf (Aalif); both come from the root ʾ-l-f."
+    },
+    {
+     "q": "Where is the name Aalifa used today?",
+     "a": "Aalifa is used in Arabic, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+    }
+   ]
+  },
+  "seo_title": "Aalifa Name Meaning - Friendly; affectionate; familiar (alīfah (Arabic)",
+  "meta_description": "Aalifa is a Arabic name meaning Friendly; affectionate; familiar (alīfah). Verified meaning, root, script and 15 FAQs.",
+  "keywords": [
+   "Aalifa",
+   "Aalifa name meaning",
+   "Aalifa meaning",
+   "Aalifa origin",
+   "Aalifa pronunciation"
+  ],
+  "canonical_url": "",
+  "intro_paragraph": "Aalifa is a Arabic name meaning Friendly; affectionate; familiar (alīfah). Feminine of Arabic alīf, 'friendly, familiar', from the root ʾ-l-f.",
+  "structured_data": {
+   "@context": "https://schema.org",
+   "@type": "Thing",
+   "name": "Aalifa",
+   "description": "Aalifa - Friendly; affectionate; familiar (alīfah)",
+   "additionalType": "https://schema.org/Person"
+  },
+  "structured_data_faq": {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "What does the name Aalifa mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalifa means Friendly; affectionate; familiar (alīfah)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the origin of the name Aalifa?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalifa is of Arabic origin."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What language does the name Aalifa come from?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalifa is used in Arabic, Urdu."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aalifa a boy's name or a girl's name?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalifa is used as a female name."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aalifa pronounced?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalifa is pronounced AA-li-fah (IPA /ˈɑː.li.fɑː/)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aalifa written in Arabic and Urdu?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalifa is written أليفة in Arabic and الیفہ in Urdu, and अलीफ़ा in Devanagari."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the linguistic root of Aalifa?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The root of Aalifa is أ-ل-ف (ʾ-l-f)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the etymology of Aalifa?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Feminine of Arabic alīf, 'friendly, familiar', from the root ʾ-l-f."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Aalifa appear in the Qur'an?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Not a Qur'anic personal name; from the Arabic root ʾ-l-f, 'to be familiar'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What does Aalifa mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalifa is the feminine of alīf, meaning 'friendly, affectionate, familiar'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the numerology or lucky number of Aalifa?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In Pythagorean numerology the letters of Aalifa total 21, reducing to 3. Number 3 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What are the common spelling variants of Aalifa?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalifa appears with variants and alternative spellings such as Alifa, Aleefa."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Which names are related to Aalifa?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Names sharing form or root with Aalifa include Aalif, Aalia."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aalifa related to Aalif?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Aalifa is the feminine form of alīf (Aalif); both come from the root ʾ-l-f."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Where is the name Aalifa used today?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalifa is used in Arabic, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+     }
+    }
+   ]
+  },
+  "structured_data_breadcrumb": {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Islamic Names",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Aalifa",
+     "item": ""
+    }
+   ]
+  },
+  "advanced_seo": {
+   "technical_seo": {
+    "mobile_friendly": true,
+    "schema_markup": true,
+    "rtl_rendering": true
+   },
+   "content_seo": {
+    "faq_count": 15,
+    "internal_linking": true,
+    "unique_field_coverage": "name-specific meaning, etymology, root, script and FAQ"
+   },
+   "performance_metrics": {}
+  },
+  "confidence": {
+   "meaning": "MEDIUM",
+   "etymology": "MEDIUM",
+   "origin": "HIGH",
+   "scripts": "MEDIUM",
+   "pronunciation": "MEDIUM",
+   "gender": "MEDIUM",
+   "numerology": "MEDIUM",
+   "popularity": "UNKNOWN",
+   "faq": "MEDIUM",
+   "notable_people": "UNKNOWN",
+   "historical_references": "LOW"
+  },
+  "data_quality": {
+   "source_was_thin": true,
+   "authenticity_flags": [],
+   "fields_total": 78
+  },
+  "created_at": "2025-06-29T09:02:52.166896",
+  "updated_at": "2026-10-01T10:45:00.000Z",
+  "tier1_verified": {
+   "name": "Aalifa",
+   "slug": "aalifa",
+   "meaning": "Friendly; affectionate; familiar (alīfah)",
+   "origin": "Arabic",
+   "language": [
+    "Arabic",
+    "Urdu"
+   ],
+   "gender": "Female",
+   "root": "أ-ل-ف (ʾ-l-f)",
+   "etymology": "Feminine of Arabic alīf, 'friendly, familiar', from the root ʾ-l-f.",
+   "script": {
+    "arabic": "أليفة",
+    "urdu": "الیفہ",
+    "hindi": "अलीफ़ा",
+    "pashto": "اليفه"
+   },
+   "transliteration": "Alīfah",
+   "reference": "Feminine of Arabic alīf, 'friendly, familiar', from the root ʾ-l-f.",
+   "confidence": "MEDIUM"
+  },
+  "tier2_explanatory": {
+   "short_meaning": "Friendly; affectionate; familiar (alīfah)",
+   "long_meaning": "Aalifa (أليفة) is the feminine of the Arabic alīf, 'friendly, familiar, kind, affectionate' — also used of a tamed animal. It is a rare but well-formed name.",
+   "translations": {
+    "arabic": "Friendly; affectionate; familiar",
+    "urdu": "Friendly; affectionate; familiar",
+    "hindi": "Friendly; affectionate; familiar",
+    "pashto": "Friendly; affectionate; familiar",
+    "english": "Friendly; affectionate; familiar (alīfah)"
+   },
+   "pronunciation": {
+    "english": "AA-li-fah",
+    "ipa": "/ˈɑː.li.fɑː/"
+   },
+   "syllables": 3,
+   "name_length": 6,
+   "faqs": 15
+  },
+  "tier3_interpretive": {
+   "disclaimer": "The following fields are interpretive/optional associations derived from traditional numerology, not factual claims.",
+   "numerology": {
+    "lucky_number": 3,
+    "life_path_number": 3,
+    "ruling_planet": "Jupiter",
+    "lucky_day": "Thursday",
+    "lucky_stone": "Yellow Sapphire",
+    "lucky_colors": [
+     "Yellow",
+     "Gold"
+    ],
+    "numerology_meaning": "In Pythagorean numerology the letters of Aalifa total 21, reducing to 3."
+   },
+   "personality_associations": [],
+   "spiritual_symbolism": ""
+  },
+  "verification": {
+   "needs_manual_verification": false,
+   "flags": [],
+   "confidence": "HIGH",
+   "sources": [
+    "Verified Tier-1 lexical data (Arabic/Persian lexical sources)."
+   ]
+  },
+  "nameverse": {
+   "pipeline": "NameVerse Production v5",
+   "methodology": "Original to Verified to Expanded to Enriched",
+   "tier1_verified": true,
+   "processed_at": "2026-10-01T10:45:00.000Z"
   }
+ }
 }

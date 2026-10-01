@@ -1,490 +1,549 @@
 {
-  "success": true,
-  "data": {
-    "name": "aaidah",
-    "slug": "aaidah",
-    "language": [
-      "Arabic",
-      "Urdu"
-    ],
-    "gender": "Female",
-    "gender_notes": "aaidah is used as a unisex name in islamic naming traditions.",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "culture": [
-      "Arabic"
-    ],
-    "short_meaning": "Returning; visitor; benefit; advantage",
-    "long_meaning": "Variant spelling of Arabic ʿāʾida (عائدة), the feminine active participle of ʿāda 'to return', from the root ʿ-w-d. aaidah therefore means “Returning; visitor; benefit; advantage”. Arabic feminine active participle ʿāʾida 'returning; benefit'; spelling variant of Aaida.",
-    "spiritual_meaning": "aaidah expresses “Guide, Symbol, Sign”; spiritual readings of the name are interpretive.",
-    "emotional_traits": [],
-    "hidden_personality_traits": [],
-    "etymology": "Variant spelling of Arabic ʿāʾida (عائدة), the feminine active participle of ʿāda 'to return', from the root ʿ-w-d.",
-    "root": "ع-و-د (ʿ-w-d)",
-    "language_root": "Arabic",
-    "root_letters": "a-a-i-d-a-h",
-    "syllables": 2,
-    "name_length": 6,
-    "transliteration": [
-      "ʿĀʾidah"
-    ],
-    "lucky_number": 6,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "White",
-      "Pink"
-    ],
-    "lucky_stone": "Diamond",
-    "ruling_planet": "Venus",
-    "life_path_number": 6,
-    "numerology_meaning": "In Pythagorean numerology the letters of aaidah total 24, reducing to 6. Number 6 is associated with responsibility, care and harmony.",
-    "in_arabic": {
-      "name": "عائدة",
-      "meaning": "عائدة — المعنى: Returning; visitor; benefit; advantage",
-      "long_meaning": "عائدة — المعنى: Returning; visitor; benefit; advantage"
+ "success": true,
+ "data": {
+  "name": "Aaidah",
+  "slug": "aaidah",
+  "language": [
+   "Arabic",
+   "Urdu"
+  ],
+  "gender": "Female",
+  "gender_notes": "Aaidah is used as a female name.",
+  "origin": "Arabic",
+  "religion": "islamic",
+  "category": "Islamic",
+  "culture": [
+   "Arabic",
+   "Urdu"
+  ],
+  "short_meaning": "Returning; one who returns; benefit (ʿĀ'idah)",
+  "long_meaning": "Aaidah (عائدة) is the feminine active participle of the Arabic verb ʿāda, 'to return', meaning 'returning, one who returns'. The related noun ʿāʾid means 'benefit, advantage'.",
+  "spiritual_meaning": "The name is understood as 'one who returns'; any further spiritual reading is interpretive and labelled as such.",
+  "emotional_traits": [],
+  "hidden_personality_traits": [],
+  "etymology": "Feminine active participle of Arabic ʿāda, 'to return'.",
+  "root": "ع-و-د (ʿ-w-d)",
+  "language_root": "Arabic",
+  "root_letters": "ʿ-w-d",
+  "syllables": 3,
+  "name_length": 6,
+  "transliteration": [
+   "ʿĀ'idah"
+  ],
+  "lucky_number": 6,
+  "lucky_day": "Friday",
+  "lucky_colors": [
+   "Pink",
+   "Sky Blue"
+  ],
+  "lucky_stone": "Diamond",
+  "ruling_planet": "Venus",
+  "life_path_number": 6,
+  "numerology_meaning": "In Pythagorean numerology the letters of Aaidah total 24, reducing to 6. Number 6 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim.",
+  "in_arabic": {
+   "name": "عائدة",
+   "meaning": "Returning; one who returns; benefit",
+   "long_meaning": "عائدة — Returning; one who returns; benefit",
+   "confidence": "HIGH"
+  },
+  "in_urdu": {
+   "name": "عائدہ",
+   "meaning": "Returning; one who returns; benefit",
+   "long_meaning": "عائدہ — Returning; one who returns; benefit",
+   "confidence": "HIGH"
+  },
+  "in_hindi": {
+   "name": "आइदा",
+   "meaning": "Returning; one who returns; benefit",
+   "long_meaning": "आइदा — Returning; one who returns; benefit",
+   "confidence": "MEDIUM"
+  },
+  "in_pashto": {
+   "name": "عائده",
+   "meaning": "Returning; one who returns; benefit",
+   "long_meaning": "عائده — Returning; one who returns; benefit",
+   "confidence": "MEDIUM"
+  },
+  "in_english": {
+   "name": "Aaidah",
+   "meaning": "Returning; one who returns; benefit (ʿĀ'idah)",
+   "long_meaning": "Aaidah (عائدة) is the feminine active participle of the Arabic verb ʿāda, 'to return', meaning 'returning, one who returns'. The related noun ʿāʾid means 'benefit, advantage'.",
+   "note": "English lexical meaning of the name."
+  },
+  "pronunciation": {
+   "english": "AA-i-dah",
+   "ipa": "/ˈaː.i.da/",
+   "arabic": "عائدة",
+   "urdu": "عائدہ",
+   "hindi": "आइदा",
+   "pashto": "عائده",
+   "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling."
+  },
+  "name_variants": [
+   "Aaida",
+   "Aaeedah"
+  ],
+  "variants": [
+   "Aaida",
+   "Aaeedah"
+  ],
+  "diminutives": [],
+  "nicknames": [],
+  "related_names": [
+   "Aaida",
+   "Aaeedah"
+  ],
+  "similar_sounding_names": [
+   "Aaida",
+   "Aaeedah"
+  ],
+  "notable_people": [],
+  "notable_people_note": "No verified notable bearer of the exact spelling Aaidah is asserted in this dataset.",
+  "celebrity_usage": [],
+  "celebrity_usage_note": "No verified celebrity or public-figure usage of the exact spelling Aaidah is recorded.",
+  "popularity_score": null,
+  "popularity_by_region": [],
+  "popularity_note": "No verified registration or ranking statistics are published for Aaidah. A numeric popularity score is therefore not asserted.",
+  "cultural_impact": "Aaidah belongs to Arabic naming tradition with the meaning 'returning'.",
+  "spiritual_significance": "The name is understood as 'one who returns'; any further spiritual reading is interpretive and labelled as such.",
+  "spiritual_symbolism": "The name is understood as 'one who returns'; any further spiritual reading is interpretive and labelled as such.",
+  "islamic_reference": {
+   "is_quranic": false,
+   "note": "Not itself a Qur'anic name; formed from the root ʿ-w-d, which occurs in the Qur'an."
+  },
+  "historical_references": [],
+  "modern_usage": {
+   "trends": [],
+   "platforms": [],
+   "modern_context": "No verified modern-usage statistics are published for Aaidah."
+  },
+  "name_in_real_life": {
+   "person_name": "",
+   "location": "",
+   "story": "",
+   "note": "No verified real-life bearer is published for Aaidah."
+  },
+  "social_tags": [
+   "#AaidahMeaning",
+   "#IslamicBabyNames",
+   "#MuslimNames",
+   "#ArabicNames"
+  ],
+  "monetization": {
+   "propush_trigger": true,
+   "exit_ad_enabled": true,
+   "ads_enabled": true
+  },
+  "user_engagement": {
+   "interactive_features": {
+    "name_calculator": true,
+    "meaning_quiz": true,
+    "pronunciation_tool": true,
+    "compatibility_checker": true
+   },
+   "community_features": {
+    "user_stories": [],
+    "rating_system": true,
+    "comment_section": true
+   },
+   "personalization": {
+    "favorite_lists": true,
+    "name_comparison": true,
+    "save_preferences": true
+   }
+  },
+  "social_optimization": {
+   "social_media_cards": {
+    "facebook": {
+     "title": "Beautiful Name: Aaidah",
+     "description": "Discover the meaning of Aaidah - Returning; one who returns; benefit (ʿĀ'idah)",
+     "image": "/images/social/aaidah-facebook.jpg"
     },
-    "in_urdu": {
-      "name": "عائدہ",
-      "meaning": "عائدہ — مطلب: Returning; visitor; benefit; advantage",
-      "long_meaning": "عائدہ — مطلب: Returning; visitor; benefit; advantage"
+    "twitter": {
+     "title": "Aaidah - Name Meaning",
+     "description": "Learn about the name Aaidah",
+     "image": "/images/social/aaidah-twitter.jpg"
     },
-    "in_hindi": {
-      "name": "आइदा",
-      "meaning": "आइदा — अर्थ: Returning; visitor; benefit; advantage",
-      "long_meaning": "आइदा — अर्थ: Returning; visitor; benefit; advantage"
-    },
-    "in_pashto": {
-      "name": "عائده",
-      "meaning": "عائده — معنی: Returning; visitor; benefit; advantage",
-      "long_meaning": "عائده — معنی: Returning; visitor; benefit; advantage"
-    },
-    "in_english": {
-      "name": "aaidah",
-      "meaning": "Returning; visitor; benefit; advantage",
-      "long_meaning": "Variant spelling of Arabic ʿāʾida (عائدة), the feminine active participle of ʿāda 'to return', from the root ʿ-w-d. aaidah therefore means “Returning; visitor; benefit; advantage”. Arabic feminine active participle ʿāʾida 'returning; benefit'; spelling variant of Aaida."
-    },
-    "pronunciation": {
-      "english": "AA-i-da",
-      "urdu": "/ˈaː.iː.dɑː/",
-      "hindi": "/ˈaː.iː.dɑː/",
-      "pashto": "/əˈaː.iː.dɑː/",
-      "ipa": "/ʕaː.ʔi.da/"
-    },
-    "name_variations": [
-      "aaidah"
-    ],
-    "variants": [
-      "aaidah"
-    ],
-    "diminutives": [],
-    "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
-    "popularity_score": null,
-    "popularity_by_region": [],
-    "cultural_impact": "aaidah is used in Arabic naming tradition with the meaning “Guide, Symbol, Sign”.",
-    "spiritual_significance": "Any spiritual significance attached to aaidah is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Guide, Symbol, Sign” is the basis of any symbolism attached to aaidah; such symbolism is interpretive.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Arabic feminine active participle ʿāʾida 'returning; benefit'; spelling variant of Aaida."
-    },
-    "historical_references": [
-      {
-        "reference": "Arabic feminine active participle ʿāʾida 'returning; benefit'; spelling variant of Aaida.",
-        "time_period": "",
-        "context": ""
-      }
-    ],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for aaidah."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#aaidahMeaning",
-      "#IslamicNames"
-    ],
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: aaidah",
-          "description": "Discover the meaning of aaidah - \"Guide, Symbol, Sign\"",
-          "image": "/images/social/aaidah-facebook.jpg"
-        },
-        "twitter": {
-          "title": "aaidah - Name Meaning",
-          "description": "Learn about the beautiful name aaidah",
-          "image": "/images/social/aaidah-twitter.jpg"
-        },
-        "instagram": {
-          "title": "aaidah",
-          "description": "Name meaning: Guide, Symbol, Sign",
-          "image": "/images/social/aaidah-instagram.jpg"
-        }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: aaidah - Meaning: Guide, Symbol, Sign",
-        "email_subject": "Beautiful Name: aaidah"
-      }
-    },
-    "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "aaidah with meaning Guide, Symbol, Sign",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
-    },
-    "seo": {
-      "title": "aaidah Name Meaning – Returning; visitor; benefit; advantage (Arabic)",
-      "meta_description": "aaidah is a Arabic name meaning “Returning; visitor; benefit; advantage”. Verified meaning, origin, root, pronunciation and FAQs.",
-      "meta_keywords": "aaidah, aaidah name meaning, aaidah meaning, aaidah origin, aaidah root, aaidah pronunciation, Arabic names",
-      "description_paragraph": "aaidah is a Arabic name meaning “Returning; visitor; benefit; advantage”.",
-      "keywords": [
-        "aaidah",
-        "aaidah name meaning",
-        "aaidah meaning",
-        "aaidah origin",
-        "aaidah root",
-        "aaidah pronunciation",
-        "Arabic names"
-      ],
-      "focus_keyword": "aaidah name meaning",
-      "secondary_keywords": [
-        "aaidah meaning",
-        "aaidah origin",
-        "aaidah pronunciation",
-        "aaidah lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "Is Aaidah the same name as Aaida?",
-          "a": "Yes - Aaidah and Aaida are two English spellings of the same Arabic name عائدة, meaning 'returning; benefit'."
-        },
-        {
-          "q": "What does the name aaidah mean?",
-          "a": "aaidah means “Returning; visitor; benefit; advantage”."
-        },
-        {
-          "q": "Where does the name aaidah come from?",
-          "a": "aaidah is of Arabic origin."
-        },
-        {
-          "q": "What is the linguistic root of aaidah?",
-          "a": "The root of aaidah is ع-و-د (ʿ-w-d)."
-        },
-        {
-          "q": "How is aaidah written in Arabic script?",
-          "a": "aaidah is written عائدة in Arabic script."
-        },
-        {
-          "q": "Is aaidah a boy's or a girl's name?",
-          "a": "aaidah is used as a female name."
-        },
-        {
-          "q": "Does aaidah appear in the Qur'an?",
-          "a": "No. aaidah is not a Qur'anic name; it is used in Muslim naming tradition."
-        },
-        {
-          "q": "Is the meaning of aaidah verified?",
-          "a": "Yes — the meaning “Returning; visitor; benefit; advantage” is established by Arabic feminine active participle ʿāʾida 'returning; benefit'; spelling variant of Aaida.."
-        }
-      ]
-    },
-    "seo_title": "aaidah Name Meaning – Returning; visitor; benefit; advantage (Arabic)",
-    "meta_description": "aaidah is a Arabic name meaning “Returning; visitor; benefit; advantage”. Verified meaning, origin, root, pronunciation and FAQs.",
-    "keywords": [
-      "aaidah",
-      "aaidah name meaning",
-      "aaidah meaning",
-      "aaidah origin",
-      "aaidah root",
-      "aaidah pronunciation",
-      "Arabic names"
-    ],
-    "canonical_url": "",
-    "intro_paragraph": "aaidah is a Arabic name meaning “Returning; visitor; benefit; advantage”.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "aaidah",
-      "description": "aaidah — Returning; visitor; benefit; advantage",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Is Aaidah the same name as Aaida?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes - Aaidah and Aaida are two English spellings of the same Arabic name عائدة, meaning 'returning; benefit'."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What does the name aaidah mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "aaidah means “Returning; visitor; benefit; advantage”."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name aaidah come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "aaidah is of Arabic origin."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the linguistic root of aaidah?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The root of aaidah is ع-و-د (ʿ-w-d)."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is aaidah written in Arabic script?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "aaidah is written عائدة in Arabic script."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is aaidah a boy's or a girl's name?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "aaidah is used as a female name."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does aaidah appear in the Qur'an?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. aaidah is not a Qur'anic name; it is used in Muslim naming tradition."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of aaidah verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes — the meaning “Returning; visitor; benefit; advantage” is established by Arabic feminine active participle ʿāʾida 'returning; benefit'; spelling variant of Aaida.."
-          }
-        }
-      ]
-    },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 54,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "MEDIUM",
-      "etymology": "MEDIUM",
-      "origin": "MEDIUM",
-      "scripts": "MEDIUM",
-      "pronunciation": "MEDIUM",
-      "gender": "MEDIUM",
-      "numerology": "MEDIUM",
-      "popularity": "UNKNOWN",
-      "faq": "MEDIUM",
-      "notable_people": "UNKNOWN",
-      "historical_references": "MEDIUM"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [],
-      "fields_total": 74
-    },
-    "created_at": "2025-12-22T19:19:50.954Z",
-    "updated_at": "2026-10-01T04:04:17.000Z",
-    "tier1_verified": {
-      "name": "aaidah",
-      "slug": "aaidah",
-      "meaning": "Returning; visitor; benefit; advantage",
-      "origin": "Arabic",
-      "language": [
-        "Arabic",
-        "Urdu"
-      ],
-      "gender": "Female",
-      "root": "ع-و-د (ʿ-w-d)",
-      "etymology": "Variant spelling of Arabic ʿāʾida (عائدة), the feminine active participle of ʿāda 'to return', from the root ʿ-w-d.",
-      "script": {
-        "arabic": "عائدة",
-        "urdu": "عائدہ",
-        "hindi": "आइदा",
-        "pashto": "عائده"
-      },
-      "transliteration": "ʿĀʾidah",
-      "reference": "Arabic feminine active participle ʿāʾida 'returning; benefit'; spelling variant of Aaida.",
-      "confidence": "MEDIUM"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Returning; visitor; benefit; advantage",
-      "long_meaning": "Variant spelling of Arabic ʿāʾida (عائدة), the feminine active participle of ʿāda 'to return', from the root ʿ-w-d. aaidah therefore means “Returning; visitor; benefit; advantage”. Arabic feminine active participle ʿāʾida 'returning; benefit'; spelling variant of Aaida.",
-      "translations": {
-        "arabic": {
-          "name": "عائدة",
-          "meaning": "عائدة — المعنى: Returning; visitor; benefit; advantage",
-          "confidence": "MEDIUM"
-        },
-        "urdu": {
-          "name": "عائدہ",
-          "meaning": "عائدہ — مطلب: Returning; visitor; benefit; advantage",
-          "confidence": "MEDIUM"
-        },
-        "hindi": {
-          "name": "आइदा",
-          "meaning": "आइदा — अर्थ: Returning; visitor; benefit; advantage",
-          "confidence": "MEDIUM"
-        },
-        "pashto": {
-          "name": "عائده",
-          "meaning": "عائده — معنی: Returning; visitor; benefit; advantage",
-          "confidence": "MEDIUM"
-        },
-        "english": {
-          "name": "aaidah",
-          "meaning": "Returning; visitor; benefit; advantage",
-          "confidence": "MEDIUM"
-        }
-      },
-      "pronunciation": {
-        "english": "AA-i-da",
-        "ipa": "/ʕaː.ʔi.da/"
-      },
-      "syllables": 2,
-      "name_length": 6,
-      "faqs": [
-        {
-          "q": "Is Aaidah the same name as Aaida?",
-          "a": "Yes - Aaidah and Aaida are two English spellings of the same Arabic name عائدة, meaning 'returning; benefit'."
-        },
-        {
-          "q": "What does the name aaidah mean?",
-          "a": "aaidah means “Returning; visitor; benefit; advantage”."
-        },
-        {
-          "q": "Where does the name aaidah come from?",
-          "a": "aaidah is of Arabic origin."
-        },
-        {
-          "q": "What is the linguistic root of aaidah?",
-          "a": "The root of aaidah is ع-و-د (ʿ-w-d)."
-        },
-        {
-          "q": "How is aaidah written in Arabic script?",
-          "a": "aaidah is written عائدة in Arabic script."
-        },
-        {
-          "q": "Is aaidah a boy's or a girl's name?",
-          "a": "aaidah is used as a female name."
-        },
-        {
-          "q": "Does aaidah appear in the Qur'an?",
-          "a": "No. aaidah is not a Qur'anic name; it is used in Muslim naming tradition."
-        },
-        {
-          "q": "Is the meaning of aaidah verified?",
-          "a": "Yes — the meaning “Returning; visitor; benefit; advantage” is established by Arabic feminine active participle ʿāʾida 'returning; benefit'; spelling variant of Aaida.."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 6,
-        "life_path_number": 6,
-        "ruling_planet": "Venus",
-        "lucky_day": "Friday",
-        "lucky_stone": "Diamond",
-        "lucky_colors": [
-          "White",
-          "Pink"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of aaidah total 24, reducing to 6. Number 6 is associated with responsibility, care and harmony."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
-    "verification": {
-      "needs_manual_verification": false,
-      "flags": [],
-      "confidence": "MEDIUM",
-      "sources": [
-        "Arabic feminine active participle ʿāʾida 'returning; benefit'; spelling variant of Aaida."
-      ]
-    },
-    "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": true,
-      "processed_at": "2026-10-01T04:04:17.000Z"
+    "instagram": {
+     "title": "Aaidah",
+     "description": "Name meaning: Returning; one who returns; benefit (ʿĀ'idah)",
+     "image": "/images/social/aaidah-instagram.jpg"
     }
+   },
+   "sharing_optimization": {
+    "whatsapp_message": "Check out this name: Aaidah - Meaning: Returning; one who returns; benefit (ʿĀ'idah)",
+    "email_subject": "Beautiful Name: Aaidah"
+   }
+  },
+  "accessibility": {
+   "screen_reader_optimized": true,
+   "alt_text": "Aaidah with meaning Returning; one who returns; benefit (ʿĀ'idah)",
+   "keyboard_navigable": true,
+   "high_contrast_mode": true,
+   "font_scaling_support": true,
+   "voice_navigation": true,
+   "braille_compatible": true,
+   "language_attributes": {
+    "primary": "en",
+    "rtl_support": true
+   }
+  },
+  "seo": {
+   "title": "Aaidah Name Meaning - Returning; one who returns; benefit (ʿĀ' (Arabic)",
+   "meta_description": "Aaidah is an Arabic name meaning Returning; one who returns; benefit (ʿĀ'idah). Verified meaning, root, script and 15 FAQs.",
+   "meta_keywords": "Aaidah, Aaidah name meaning, Aaidah meaning, Aaidah origin, Aaidah root, Aaidah pronunciation",
+   "description_paragraph": "Aaidah is a Arabic name meaning Returning; one who returns; benefit (ʿĀ'idah).",
+   "keywords": [
+    "Aaidah",
+    "Aaidah name meaning",
+    "Aaidah meaning",
+    "Aaidah origin",
+    "Aaidah pronunciation"
+   ],
+   "focus_keyword": "Aaidah name meaning",
+   "secondary_keywords": [
+    "Aaidah meaning",
+    "Aaidah origin",
+    "Aaidah pronunciation",
+    "Aaidah lucky number"
+   ],
+   "canonical_url": "",
+   "seo_score": 94,
+   "seo_score_basis": "FAQ 15 (>=15 target); no high-severity issues",
+   "faq": [
+    {
+     "q": "What does the name Aaidah mean?",
+     "a": "Aaidah means Returning; one who returns; benefit (ʿĀ'idah)."
+    },
+    {
+     "q": "What is the origin of the name Aaidah?",
+     "a": "Aaidah is of Arabic origin."
+    },
+    {
+     "q": "What language does the name Aaidah come from?",
+     "a": "Aaidah is used in Arabic, Urdu."
+    },
+    {
+     "q": "Is Aaidah a boy's name or a girl's name?",
+     "a": "Aaidah is used as a female name."
+    },
+    {
+     "q": "How is Aaidah pronounced?",
+     "a": "Aaidah is pronounced AA-i-dah (IPA /ˈaː.i.da/)."
+    },
+    {
+     "q": "How is Aaidah written in Arabic and Urdu?",
+     "a": "Aaidah is written عائدة in Arabic and عائدہ in Urdu, and आइदा in Devanagari."
+    },
+    {
+     "q": "What is the linguistic root of Aaidah?",
+     "a": "The root of Aaidah is ع-و-د (ʿ-w-d)."
+    },
+    {
+     "q": "What is the etymology of Aaidah?",
+     "a": "Feminine active participle of Arabic ʿāda, 'to return'."
+    },
+    {
+     "q": "Does Aaidah appear in the Qur'an?",
+     "a": "Not itself a Qur'anic name; formed from the root ʿ-w-d, which occurs in the Qur'an."
+    },
+    {
+     "q": "What does Aaidah mean?",
+     "a": "Aaidah is the feminine participle of ʿāda, 'to return', meaning 'returning'; the related noun ʿāʾid means 'benefit'."
+    },
+    {
+     "q": "What is the numerology or lucky number of Aaidah?",
+     "a": "In Pythagorean numerology the letters of Aaidah total 24, reducing to 6. Number 6 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+    },
+    {
+     "q": "What are the common spelling variants of Aaidah?",
+     "a": "Aaidah appears with variants and alternative spellings such as Aaida, Aaeedah."
+    },
+    {
+     "q": "Which names are related to Aaidah?",
+     "a": "Names sharing form or root with Aaidah include Aaida, Aaeedah."
+    },
+    {
+     "q": "Is Aaidah the same as Aaida?",
+     "a": "Yes. Aaidah and Aaida are transliterations of the same Arabic ʿĀ'idah (عائدة)."
+    },
+    {
+     "q": "Where is the name Aaidah used today?",
+     "a": "Aaidah is used in Arabic, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+    }
+   ]
+  },
+  "seo_title": "Aaidah Name Meaning - Returning; one who returns; benefit (ʿĀ' (Arabic)",
+  "meta_description": "Aaidah is a Arabic name meaning Returning; one who returns; benefit (ʿĀ'idah). Verified meaning, root, script and 15 FAQs.",
+  "keywords": [
+   "Aaidah",
+   "Aaidah name meaning",
+   "Aaidah meaning",
+   "Aaidah origin",
+   "Aaidah pronunciation"
+  ],
+  "canonical_url": "",
+  "intro_paragraph": "Aaidah is a Arabic name meaning Returning; one who returns; benefit (ʿĀ'idah). Feminine active participle of Arabic ʿāda, 'to return'.",
+  "structured_data": {
+   "@context": "https://schema.org",
+   "@type": "Thing",
+   "name": "Aaidah",
+   "description": "Aaidah - Returning; one who returns; benefit (ʿĀ'idah)",
+   "additionalType": "https://schema.org/Person"
+  },
+  "structured_data_faq": {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "What does the name Aaidah mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaidah means Returning; one who returns; benefit (ʿĀ'idah)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the origin of the name Aaidah?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaidah is of Arabic origin."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What language does the name Aaidah come from?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaidah is used in Arabic, Urdu."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aaidah a boy's name or a girl's name?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaidah is used as a female name."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aaidah pronounced?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaidah is pronounced AA-i-dah (IPA /ˈaː.i.da/)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aaidah written in Arabic and Urdu?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaidah is written عائدة in Arabic and عائدہ in Urdu, and आइदा in Devanagari."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the linguistic root of Aaidah?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The root of Aaidah is ع-و-د (ʿ-w-d)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the etymology of Aaidah?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Feminine active participle of Arabic ʿāda, 'to return'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Aaidah appear in the Qur'an?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Not itself a Qur'anic name; formed from the root ʿ-w-d, which occurs in the Qur'an."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What does Aaidah mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaidah is the feminine participle of ʿāda, 'to return', meaning 'returning'; the related noun ʿāʾid means 'benefit'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the numerology or lucky number of Aaidah?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In Pythagorean numerology the letters of Aaidah total 24, reducing to 6. Number 6 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What are the common spelling variants of Aaidah?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaidah appears with variants and alternative spellings such as Aaida, Aaeedah."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Which names are related to Aaidah?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Names sharing form or root with Aaidah include Aaida, Aaeedah."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aaidah the same as Aaida?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Aaidah and Aaida are transliterations of the same Arabic ʿĀ'idah (عائدة)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Where is the name Aaidah used today?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaidah is used in Arabic, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+     }
+    }
+   ]
+  },
+  "structured_data_breadcrumb": {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Islamic Names",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Aaidah",
+     "item": ""
+    }
+   ]
+  },
+  "advanced_seo": {
+   "technical_seo": {
+    "mobile_friendly": true,
+    "schema_markup": true,
+    "rtl_rendering": true
+   },
+   "content_seo": {
+    "faq_count": 15,
+    "internal_linking": true,
+    "unique_field_coverage": "name-specific meaning, etymology, root, script and FAQ"
+   },
+   "performance_metrics": {}
+  },
+  "confidence": {
+   "meaning": "HIGH",
+   "etymology": "HIGH",
+   "origin": "HIGH",
+   "scripts": "HIGH",
+   "pronunciation": "MEDIUM",
+   "gender": "HIGH",
+   "numerology": "MEDIUM",
+   "popularity": "UNKNOWN",
+   "faq": "HIGH",
+   "notable_people": "UNKNOWN",
+   "historical_references": "HIGH"
+  },
+  "data_quality": {
+   "source_was_thin": true,
+   "authenticity_flags": [],
+   "fields_total": 78
+  },
+  "created_at": "2025-06-29T09:02:52.166896",
+  "updated_at": "2026-10-01T10:45:00.000Z",
+  "tier1_verified": {
+   "name": "Aaidah",
+   "slug": "aaidah",
+   "meaning": "Returning; one who returns; benefit (ʿĀ'idah)",
+   "origin": "Arabic",
+   "language": [
+    "Arabic",
+    "Urdu"
+   ],
+   "gender": "Female",
+   "root": "ع-و-د (ʿ-w-d)",
+   "etymology": "Feminine active participle of Arabic ʿāda, 'to return'.",
+   "script": {
+    "arabic": "عائدة",
+    "urdu": "عائدہ",
+    "hindi": "आइदा",
+    "pashto": "عائده"
+   },
+   "transliteration": "ʿĀ'idah",
+   "reference": "Feminine active participle of Arabic ʿāda, 'to return'.",
+   "confidence": "HIGH"
+  },
+  "tier2_explanatory": {
+   "short_meaning": "Returning; one who returns; benefit (ʿĀ'idah)",
+   "long_meaning": "Aaidah (عائدة) is the feminine active participle of the Arabic verb ʿāda, 'to return', meaning 'returning, one who returns'. The related noun ʿāʾid means 'benefit, advantage'.",
+   "translations": {
+    "arabic": "Returning; one who returns; benefit",
+    "urdu": "Returning; one who returns; benefit",
+    "hindi": "Returning; one who returns; benefit",
+    "pashto": "Returning; one who returns; benefit",
+    "english": "Returning; one who returns; benefit (ʿĀ'idah)"
+   },
+   "pronunciation": {
+    "english": "AA-i-dah",
+    "ipa": "/ˈaː.i.da/"
+   },
+   "syllables": 3,
+   "name_length": 6,
+   "faqs": 15
+  },
+  "tier3_interpretive": {
+   "disclaimer": "The following fields are interpretive/optional associations derived from traditional numerology, not factual claims.",
+   "numerology": {
+    "lucky_number": 6,
+    "life_path_number": 6,
+    "ruling_planet": "Venus",
+    "lucky_day": "Friday",
+    "lucky_stone": "Diamond",
+    "lucky_colors": [
+     "Pink",
+     "Sky Blue"
+    ],
+    "numerology_meaning": "In Pythagorean numerology the letters of Aaidah total 24, reducing to 6."
+   },
+   "personality_associations": [],
+   "spiritual_symbolism": ""
+  },
+  "verification": {
+   "needs_manual_verification": false,
+   "flags": [],
+   "confidence": "HIGH",
+   "sources": [
+    "Verified Tier-1 lexical data (Arabic/Persian lexical sources)."
+   ]
+  },
+  "nameverse": {
+   "pipeline": "NameVerse Production v5",
+   "methodology": "Original to Verified to Expanded to Enriched",
+   "tier1_verified": true,
+   "processed_at": "2026-10-01T10:45:00.000Z"
   }
+ }
 }

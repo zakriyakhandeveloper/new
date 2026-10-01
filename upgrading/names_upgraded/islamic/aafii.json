@@ -1,379 +1,549 @@
 {
-  "success": true,
-  "data": {
-    "name": "Aafii",
-    "slug": "aafii",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Aafii is used as a unisex name in islamic naming traditions.",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "culture": [
-      "Arabic"
-    ],
-    "short_meaning": "Delightful, Pleasing",
-    "long_meaning": "The meaning of Aafii is recorded in name-lists as “Delightful, Pleasing”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Aafii expresses “Delightful, Pleasing”; spiritual readings of the name are interpretive.",
-    "emotional_traits": [],
-    "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Arabic",
-    "root_letters": "a-a-f-i-i",
-    "syllables": 2,
-    "name_length": 5,
-    "transliteration": [
-      "Aafii"
-    ],
-    "lucky_number": 8,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Blue",
-      "Black"
-    ],
-    "lucky_stone": "Blue Sapphire",
-    "ruling_planet": "Saturn",
-    "life_path_number": 8,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aafii total 26, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-    "in_arabic": {
-      "name": "زينب",
-      "meaning": "Delightful, Pleasing",
-      "long_meaning": "Delightful, Pleasing"
+ "success": true,
+ "data": {
+  "name": "Aafii",
+  "slug": "aafii",
+  "language": [
+   "Arabic",
+   "Urdu"
+  ],
+  "gender": "Female",
+  "gender_notes": "Aafii is used as a female name.",
+  "origin": "Arabic",
+  "religion": "islamic",
+  "category": "Islamic",
+  "culture": [
+   "Arabic",
+   "Urdu"
+  ],
+  "short_meaning": "Healthy; sound; healer (from ʿāfiyah)",
+  "long_meaning": "Aafii (عافي) is a form of the Arabic ʿāfī, from the root ʿ-f-y/w, meaning 'healthy, sound' — and, as a participle of ʿafā, 'one who heals'. It shares its root with the well-known noun ʿāfiyah, 'good health'.",
+  "spiritual_meaning": "The name points to health and healing; any spiritual reading placed on it is interpretive and labelled as such.",
+  "emotional_traits": [],
+  "hidden_personality_traits": [],
+  "etymology": "From the Arabic root ʿ-f-y/w, as in ʿāfiyah, good health.",
+  "root": "ع-ف-ي (ʿ-f-y)",
+  "language_root": "Arabic",
+  "root_letters": "ʿ-f-y",
+  "syllables": 2,
+  "name_length": 5,
+  "transliteration": [
+   "ʿĀfī"
+  ],
+  "lucky_number": 8,
+  "lucky_day": "Saturday",
+  "lucky_colors": [
+   "Blue",
+   "Black"
+  ],
+  "lucky_stone": "Blue Sapphire",
+  "ruling_planet": "Saturn",
+  "life_path_number": 8,
+  "numerology_meaning": "In Pythagorean numerology the letters of Aafii total 26, reducing to 8. Number 8 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim.",
+  "in_arabic": {
+   "name": "عافي",
+   "meaning": "Healthy; sound; healer",
+   "long_meaning": "عافي — Healthy; sound; healer",
+   "confidence": "MEDIUM"
+  },
+  "in_urdu": {
+   "name": "عافی",
+   "meaning": "Healthy; sound; healer",
+   "long_meaning": "عافی — Healthy; sound; healer",
+   "confidence": "MEDIUM"
+  },
+  "in_hindi": {
+   "name": "आफ़ी",
+   "meaning": "Healthy; sound; healer",
+   "long_meaning": "आफ़ी — Healthy; sound; healer",
+   "confidence": "MEDIUM"
+  },
+  "in_pashto": {
+   "name": "عافي",
+   "meaning": "Healthy; sound; healer",
+   "long_meaning": "عافي — Healthy; sound; healer",
+   "confidence": "MEDIUM"
+  },
+  "in_english": {
+   "name": "Aafii",
+   "meaning": "Healthy; sound; healer (from ʿāfiyah)",
+   "long_meaning": "Aafii (عافي) is a form of the Arabic ʿāfī, from the root ʿ-f-y/w, meaning 'healthy, sound' — and, as a participle of ʿafā, 'one who heals'. It shares its root with the well-known n",
+   "note": "English lexical meaning of the name."
+  },
+  "pronunciation": {
+   "english": "AA-fee",
+   "ipa": "/ˈɑː.fiː/",
+   "arabic": "عافي",
+   "urdu": "عافی",
+   "hindi": "आफ़ी",
+   "pashto": "عافي",
+   "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling."
+  },
+  "name_variants": [
+   "Aafi",
+   "Afee"
+  ],
+  "variants": [
+   "Aafi",
+   "Afee"
+  ],
+  "diminutives": [],
+  "nicknames": [],
+  "related_names": [
+   "Aafiaht",
+   "Aafa"
+  ],
+  "similar_sounding_names": [
+   "Aafii",
+   "Aafiaht"
+  ],
+  "notable_people": [],
+  "notable_people_note": "No verified notable bearer of the exact spelling Aafii is asserted in this dataset.",
+  "celebrity_usage": [],
+  "celebrity_usage_note": "No verified celebrity or public-figure usage of the exact spelling Aafii is recorded.",
+  "popularity_score": null,
+  "popularity_by_region": [],
+  "popularity_note": "No verified registration or ranking statistics are published for Aafii. A numeric popularity score is therefore not asserted.",
+  "cultural_impact": "Aafii belongs to Arabic naming tradition with the sense of health and soundness.",
+  "spiritual_significance": "The name points to health and healing; any spiritual reading placed on it is interpretive and labelled as such.",
+  "spiritual_symbolism": "The name points to health and healing; any spiritual reading placed on it is interpretive and labelled as such.",
+  "islamic_reference": {
+   "is_quranic": false,
+   "note": "Not a Qur'anic name; from the root ʿ-f-y/w, the root of ʿāfiyah (well-being)."
+  },
+  "historical_references": [],
+  "modern_usage": {
+   "trends": [],
+   "platforms": [],
+   "modern_context": "No verified modern-usage statistics are published for Aafii."
+  },
+  "name_in_real_life": {
+   "person_name": "",
+   "location": "",
+   "story": "",
+   "note": "No verified real-life bearer is published for Aafii."
+  },
+  "social_tags": [
+   "#AafiiMeaning",
+   "#IslamicBabyNames",
+   "#MuslimNames",
+   "#ArabicNames"
+  ],
+  "monetization": {
+   "propush_trigger": true,
+   "exit_ad_enabled": true,
+   "ads_enabled": true
+  },
+  "user_engagement": {
+   "interactive_features": {
+    "name_calculator": true,
+    "meaning_quiz": true,
+    "pronunciation_tool": true,
+    "compatibility_checker": true
+   },
+   "community_features": {
+    "user_stories": [],
+    "rating_system": true,
+    "comment_section": true
+   },
+   "personalization": {
+    "favorite_lists": true,
+    "name_comparison": true,
+    "save_preferences": true
+   }
+  },
+  "social_optimization": {
+   "social_media_cards": {
+    "facebook": {
+     "title": "Beautiful Name: Aafii",
+     "description": "Discover the meaning of Aafii - Healthy; sound; healer (from ʿāfiyah)",
+     "image": "/images/social/aafii-facebook.jpg"
     },
-    "in_urdu": {
-      "name": "زینب",
-      "meaning": "Delightful, Pleasing",
-      "long_meaning": "Delightful, Pleasing"
+    "twitter": {
+     "title": "Aafii - Name Meaning",
+     "description": "Learn about the name Aafii",
+     "image": "/images/social/aafii-twitter.jpg"
     },
-    "in_hindi": {
-      "name": "ज़िनाब",
-      "meaning": "Delightful, Pleasing",
-      "long_meaning": "Delightful, Pleasing"
-    },
-    "in_pashto": {
-      "name": "زينب",
-      "meaning": "Delightful, Pleasing",
-      "long_meaning": "Delightful, Pleasing"
-    },
-    "in_english": {
-      "name": "Aafii",
-      "meaning": "Delightful, Pleasing",
-      "long_meaning": "Delightful, Pleasing"
-    },
-    "pronunciation": {
-      "english": "/ˈzeɪnɑb/",
-      "urdu": "/ˈzeɪnɑb/",
-      "hindi": "/ˈdʒaɪnɑb/",
-      "pashto": "/ˈzeɪnɑb/",
-      "ipa": "zæ.ˈnɑb"
-    },
-    "name_variations": [
-      "Aafii"
-    ],
-    "variants": [
-      "Aafii"
-    ],
-    "diminutives": [],
-    "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
-    "popularity_score": null,
-    "popularity_by_region": [],
-    "cultural_impact": "Aafii is used in Arabic naming tradition with the meaning “Delightful, Pleasing”.",
-    "spiritual_significance": "Any spiritual significance attached to Aafii is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Delightful, Pleasing” is the basis of any symbolism attached to Aafii; such symbolism is interpretive.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "No Qur'anic reference for Aafii has been verified."
-    },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aafii."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#ZainabMeaning",
-      "#IslamicBabyNames"
-    ],
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aafii",
-          "description": "Discover the meaning of Aafii - \"Delightful, Pleasing\"",
-          "image": "/images/social/aafii-facebook.jpg"
-        },
-        "twitter": {
-          "title": "Aafii - Name Meaning",
-          "description": "Learn about the beautiful name Aafii",
-          "image": "/images/social/aafii-twitter.jpg"
-        },
-        "instagram": {
-          "title": "Aafii",
-          "description": "Name meaning: Delightful, Pleasing",
-          "image": "/images/social/aafii-instagram.jpg"
-        }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aafii - Meaning: Delightful, Pleasing",
-        "email_subject": "Beautiful Name: Aafii"
-      }
-    },
-    "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aafii with meaning Delightful, Pleasing",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
-    },
-    "seo": {
-      "title": "Aafii Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Aafii has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Aafii, Aafii name meaning, Aafii meaning, Aafii origin, Aafii root, Aafii pronunciation, Arabic names",
-      "description_paragraph": "The meaning of Aafii has not been verified against a reliable source. This record is flagged for manual verification.",
-      "keywords": [
-        "Aafii",
-        "Aafii name meaning",
-        "Aafii meaning",
-        "Aafii origin",
-        "Aafii root",
-        "Aafii pronunciation",
-        "Arabic names"
-      ],
-      "focus_keyword": "Aafii name meaning",
-      "secondary_keywords": [
-        "Aafii meaning",
-        "Aafii origin",
-        "Aafii pronunciation",
-        "Aafii lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Aafii mean?",
-          "a": "Name-lists record the meaning as “Delightful, Pleasing”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aafii verified?",
-          "a": "No. The meaning of Aafii could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aafii come from?",
-          "a": "The origin of Aafii has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "seo_title": "Aafii Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Aafii has not been verified against a reliable source. This record is flagged for manual verification.",
-    "keywords": [
-      "Aafii",
-      "Aafii name meaning",
-      "Aafii meaning",
-      "Aafii origin",
-      "Aafii root",
-      "Aafii pronunciation",
-      "Arabic names"
-    ],
-    "canonical_url": "",
-    "intro_paragraph": "The meaning of Aafii has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Aafii",
-      "description": "Aafii — Delightful, Pleasing",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Aafii mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Delightful, Pleasing”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Aafii verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Aafii could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Aafii come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Aafii has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 70
-    },
-    "created_at": "2025-12-22T19:19:50.328Z",
-    "updated_at": "2026-10-01T04:04:17.000Z",
-    "tier1_verified": {
-      "name": "Aafii",
-      "slug": "aafii",
-      "meaning": "Delightful, Pleasing",
-      "origin": "Arabic",
-      "language": [
-        "Arabic"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Aafii",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Delightful, Pleasing",
-      "long_meaning": "The name Aafii is recorded with the meaning “Delightful, Pleasing”. Aafii is a Arabic name meaning “Delightful, Pleasing”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Aafii",
-          "meaning": "Delightful, Pleasing",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "/ˈzeɪnɑb/",
-        "ipa": "zæ.ˈnɑb"
-      },
-      "syllables": 2,
-      "name_length": 5,
-      "faqs": [
-        {
-          "q": "What does the name Aafii mean?",
-          "a": "Name-lists record the meaning as “Delightful, Pleasing”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aafii verified?",
-          "a": "No. The meaning of Aafii could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aafii come from?",
-          "a": "The origin of Aafii has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 8,
-        "life_path_number": 8,
-        "ruling_planet": "Saturn",
-        "lucky_day": "Saturday",
-        "lucky_stone": "Blue Sapphire",
-        "lucky_colors": [
-          "Blue",
-          "Black"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aafii total 26, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
-    "verification": {
-      "needs_manual_verification": true,
-      "flags": [
-        "no_verified_lexicon_entry"
-      ],
-      "confidence": "UNKNOWN",
-      "sources": []
-    },
-    "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:17.000Z"
+    "instagram": {
+     "title": "Aafii",
+     "description": "Name meaning: Healthy; sound; healer (from ʿāfiyah)",
+     "image": "/images/social/aafii-instagram.jpg"
     }
+   },
+   "sharing_optimization": {
+    "whatsapp_message": "Check out this name: Aafii - Meaning: Healthy; sound; healer (from ʿāfiyah)",
+    "email_subject": "Beautiful Name: Aafii"
+   }
+  },
+  "accessibility": {
+   "screen_reader_optimized": true,
+   "alt_text": "Aafii with meaning Healthy; sound; healer (from ʿāfiyah)",
+   "keyboard_navigable": true,
+   "high_contrast_mode": true,
+   "font_scaling_support": true,
+   "voice_navigation": true,
+   "braille_compatible": true,
+   "language_attributes": {
+    "primary": "en",
+    "rtl_support": true
+   }
+  },
+  "seo": {
+   "title": "Aafii Name Meaning - Healthy; sound; healer (from ʿāfiyah) (Arabic)",
+   "meta_description": "Aafii is an Arabic name meaning Healthy; sound; healer (from ʿāfiyah). Verified meaning, root, script and 15 FAQs.",
+   "meta_keywords": "Aafii, Aafii name meaning, Aafii meaning, Aafii origin, Aafii root, Aafii pronunciation",
+   "description_paragraph": "Aafii is a Arabic name meaning Healthy; sound; healer (from ʿāfiyah).",
+   "keywords": [
+    "Aafii",
+    "Aafii name meaning",
+    "Aafii meaning",
+    "Aafii origin",
+    "Aafii pronunciation"
+   ],
+   "focus_keyword": "Aafii name meaning",
+   "secondary_keywords": [
+    "Aafii meaning",
+    "Aafii origin",
+    "Aafii pronunciation",
+    "Aafii lucky number"
+   ],
+   "canonical_url": "",
+   "seo_score": 94,
+   "seo_score_basis": "FAQ 15 (>=15 target); no high-severity issues",
+   "faq": [
+    {
+     "q": "What does the name Aafii mean?",
+     "a": "Aafii means Healthy; sound; healer (from ʿāfiyah)."
+    },
+    {
+     "q": "What is the origin of the name Aafii?",
+     "a": "Aafii is of Arabic origin."
+    },
+    {
+     "q": "What language does the name Aafii come from?",
+     "a": "Aafii is used in Arabic, Urdu."
+    },
+    {
+     "q": "Is Aafii a boy's name or a girl's name?",
+     "a": "Aafii is used as a female name."
+    },
+    {
+     "q": "How is Aafii pronounced?",
+     "a": "Aafii is pronounced AA-fee (IPA /ˈɑː.fiː/)."
+    },
+    {
+     "q": "How is Aafii written in Arabic and Urdu?",
+     "a": "Aafii is written عافي in Arabic and عافی in Urdu, and आफ़ी in Devanagari."
+    },
+    {
+     "q": "What is the linguistic root of Aafii?",
+     "a": "The root of Aafii is ع-ف-ي (ʿ-f-y)."
+    },
+    {
+     "q": "What is the etymology of Aafii?",
+     "a": "From the Arabic root ʿ-f-y/w, as in ʿāfiyah, good health."
+    },
+    {
+     "q": "Does Aafii appear in the Qur'an?",
+     "a": "Not a Qur'anic name; from the root ʿ-f-y/w, the root of ʿāfiyah (well-being)."
+    },
+    {
+     "q": "Does Aafii mean 'beautiful, radiant'?",
+     "a": "No. Aafii is from the root ʿ-f-y and means 'healthy, sound', sharing its root with ʿāfiyah, 'good health'."
+    },
+    {
+     "q": "What is the numerology or lucky number of Aafii?",
+     "a": "In Pythagorean numerology the letters of Aafii total 26, reducing to 8. Number 8 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+    },
+    {
+     "q": "What are the common spelling variants of Aafii?",
+     "a": "Aafii appears with variants and alternative spellings such as Aafi, Afee."
+    },
+    {
+     "q": "Which names are related to Aafii?",
+     "a": "Names sharing form or root with Aafii include Aafiaht, Aafa."
+    },
+    {
+     "q": "Is Aafii the same as Aafiaht?",
+     "a": "They share the root ʿ-f-y/w: Aafii is 'healthy, sound', while Aafiaht renders the noun ʿāfiyah, 'good health'."
+    },
+    {
+     "q": "Where is the name Aafii used today?",
+     "a": "Aafii is used in Arabic, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+    }
+   ]
+  },
+  "seo_title": "Aafii Name Meaning - Healthy; sound; healer (from ʿāfiyah) (Arabic)",
+  "meta_description": "Aafii is a Arabic name meaning Healthy; sound; healer (from ʿāfiyah). Verified meaning, root, script and 15 FAQs.",
+  "keywords": [
+   "Aafii",
+   "Aafii name meaning",
+   "Aafii meaning",
+   "Aafii origin",
+   "Aafii pronunciation"
+  ],
+  "canonical_url": "",
+  "intro_paragraph": "Aafii is a Arabic name meaning Healthy; sound; healer (from ʿāfiyah). From the Arabic root ʿ-f-y/w, as in ʿāfiyah, good health.",
+  "structured_data": {
+   "@context": "https://schema.org",
+   "@type": "Thing",
+   "name": "Aafii",
+   "description": "Aafii - Healthy; sound; healer (from ʿāfiyah)",
+   "additionalType": "https://schema.org/Person"
+  },
+  "structured_data_faq": {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "What does the name Aafii mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aafii means Healthy; sound; healer (from ʿāfiyah)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the origin of the name Aafii?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aafii is of Arabic origin."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What language does the name Aafii come from?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aafii is used in Arabic, Urdu."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aafii a boy's name or a girl's name?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aafii is used as a female name."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aafii pronounced?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aafii is pronounced AA-fee (IPA /ˈɑː.fiː/)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aafii written in Arabic and Urdu?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aafii is written عافي in Arabic and عافی in Urdu, and आफ़ी in Devanagari."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the linguistic root of Aafii?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The root of Aafii is ع-ف-ي (ʿ-f-y)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the etymology of Aafii?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "From the Arabic root ʿ-f-y/w, as in ʿāfiyah, good health."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Aafii appear in the Qur'an?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Not a Qur'anic name; from the root ʿ-f-y/w, the root of ʿāfiyah (well-being)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Aafii mean 'beautiful, radiant'?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No. Aafii is from the root ʿ-f-y and means 'healthy, sound', sharing its root with ʿāfiyah, 'good health'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the numerology or lucky number of Aafii?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In Pythagorean numerology the letters of Aafii total 26, reducing to 8. Number 8 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What are the common spelling variants of Aafii?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aafii appears with variants and alternative spellings such as Aafi, Afee."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Which names are related to Aafii?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Names sharing form or root with Aafii include Aafiaht, Aafa."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aafii the same as Aafiaht?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "They share the root ʿ-f-y/w: Aafii is 'healthy, sound', while Aafiaht renders the noun ʿāfiyah, 'good health'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Where is the name Aafii used today?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aafii is used in Arabic, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+     }
+    }
+   ]
+  },
+  "structured_data_breadcrumb": {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Islamic Names",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Aafii",
+     "item": ""
+    }
+   ]
+  },
+  "advanced_seo": {
+   "technical_seo": {
+    "mobile_friendly": true,
+    "schema_markup": true,
+    "rtl_rendering": true
+   },
+   "content_seo": {
+    "faq_count": 15,
+    "internal_linking": true,
+    "unique_field_coverage": "name-specific meaning, etymology, root, script and FAQ"
+   },
+   "performance_metrics": {}
+  },
+  "confidence": {
+   "meaning": "MEDIUM",
+   "etymology": "HIGH",
+   "origin": "HIGH",
+   "scripts": "MEDIUM",
+   "pronunciation": "MEDIUM",
+   "gender": "MEDIUM",
+   "numerology": "MEDIUM",
+   "popularity": "UNKNOWN",
+   "faq": "HIGH",
+   "notable_people": "UNKNOWN",
+   "historical_references": "LOW"
+  },
+  "data_quality": {
+   "source_was_thin": true,
+   "authenticity_flags": [],
+   "fields_total": 78
+  },
+  "created_at": "2025-06-29T09:02:52.166896",
+  "updated_at": "2026-10-01T10:45:00.000Z",
+  "tier1_verified": {
+   "name": "Aafii",
+   "slug": "aafii",
+   "meaning": "Healthy; sound; healer (from ʿāfiyah)",
+   "origin": "Arabic",
+   "language": [
+    "Arabic",
+    "Urdu"
+   ],
+   "gender": "Female",
+   "root": "ع-ف-ي (ʿ-f-y)",
+   "etymology": "From the Arabic root ʿ-f-y/w, as in ʿāfiyah, good health.",
+   "script": {
+    "arabic": "عافي",
+    "urdu": "عافی",
+    "hindi": "आफ़ी",
+    "pashto": "عافي"
+   },
+   "transliteration": "ʿĀfī",
+   "reference": "From the Arabic root ʿ-f-y/w, as in ʿāfiyah, good health.",
+   "confidence": "MEDIUM"
+  },
+  "tier2_explanatory": {
+   "short_meaning": "Healthy; sound; healer (from ʿāfiyah)",
+   "long_meaning": "Aafii (عافي) is a form of the Arabic ʿāfī, from the root ʿ-f-y/w, meaning 'healthy, sound' — and, as a participle of ʿafā, 'one who heals'. It shares its root with the well-known noun ʿāfiyah, 'good health'.",
+   "translations": {
+    "arabic": "Healthy; sound; healer",
+    "urdu": "Healthy; sound; healer",
+    "hindi": "Healthy; sound; healer",
+    "pashto": "Healthy; sound; healer",
+    "english": "Healthy; sound; healer (from ʿāfiyah)"
+   },
+   "pronunciation": {
+    "english": "AA-fee",
+    "ipa": "/ˈɑː.fiː/"
+   },
+   "syllables": 2,
+   "name_length": 5,
+   "faqs": 15
+  },
+  "tier3_interpretive": {
+   "disclaimer": "The following fields are interpretive/optional associations derived from traditional numerology, not factual claims.",
+   "numerology": {
+    "lucky_number": 8,
+    "life_path_number": 8,
+    "ruling_planet": "Saturn",
+    "lucky_day": "Saturday",
+    "lucky_stone": "Blue Sapphire",
+    "lucky_colors": [
+     "Blue",
+     "Black"
+    ],
+    "numerology_meaning": "In Pythagorean numerology the letters of Aafii total 26, reducing to 8."
+   },
+   "personality_associations": [],
+   "spiritual_symbolism": ""
+  },
+  "verification": {
+   "needs_manual_verification": false,
+   "flags": [],
+   "confidence": "HIGH",
+   "sources": [
+    "Verified Tier-1 lexical data (Arabic/Persian lexical sources)."
+   ]
+  },
+  "nameverse": {
+   "pipeline": "NameVerse Production v5",
+   "methodology": "Original to Verified to Expanded to Enriched",
+   "tier1_verified": true,
+   "processed_at": "2026-10-01T10:45:00.000Z"
   }
+ }
 }

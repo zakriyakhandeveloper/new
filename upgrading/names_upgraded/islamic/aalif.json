@@ -1,382 +1,555 @@
 {
-  "success": true,
-  "data": {
-    "name": "Aalif",
-    "slug": "aalif",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "Unisex",
-    "gender_notes": "Aalif is used as a unisex name in islamic naming traditions.",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "culture": [
-      "Arabic"
-    ],
-    "short_meaning": "Letter A",
-    "long_meaning": "The meaning of Aalif is recorded in name-lists as “Letter A”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Aalif expresses “Letter A”; spiritual readings of the name are interpretive.",
-    "emotional_traits": [],
-    "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Arabic",
-    "root_letters": "a-a-l-i-f",
-    "syllables": 2,
-    "name_length": 5,
-    "transliteration": [
-      "Aalif"
-    ],
-    "lucky_number": 2,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "White",
-      "Silver"
-    ],
-    "lucky_stone": "Pearl",
-    "ruling_planet": "Moon",
-    "life_path_number": 2,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aalif total 20, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
-    "in_arabic": {
-      "name": "أَلِف",
-      "long_meaning": "Letter A",
-      "meaning": "Letter A"
+ "success": true,
+ "data": {
+  "name": "Aalif",
+  "slug": "aalif",
+  "language": [
+   "Arabic",
+   "Urdu"
+  ],
+  "gender": "Unisex",
+  "gender_notes": "Aalif is used for both boys and girls.",
+  "origin": "Arabic",
+  "religion": "islamic",
+  "category": "Islamic",
+  "culture": [
+   "Arabic",
+   "Urdu"
+  ],
+  "short_meaning": "The letter alif; also alīf, friendly (أليف)",
+  "long_meaning": "Aalif (ألف) is the name of alif, the first letter of the Arabic alphabet. It also corresponds to the adjective alīf (أليف), 'friendly, familiar, kind, harmonious'. Both senses are recorded.",
+  "spiritual_meaning": "No spiritual sense is asserted beyond its lexical meanings; any reading placed on it is interpretive and labelled as such.",
+  "emotional_traits": [],
+  "hidden_personality_traits": [],
+  "etymology": "Arabic alif (the letter alif) / alīf (friendly, familiar).",
+  "root": "أ-ل-ف (ʾ-l-f)",
+  "language_root": "Arabic",
+  "root_letters": "ʾ-l-f",
+  "syllables": 2,
+  "name_length": 5,
+  "transliteration": [
+   "Alif"
+  ],
+  "lucky_number": 2,
+  "lucky_day": "Monday",
+  "lucky_colors": [
+   "White",
+   "Cream"
+  ],
+  "lucky_stone": "Pearl",
+  "ruling_planet": "Moon",
+  "life_path_number": 2,
+  "numerology_meaning": "In Pythagorean numerology the letters of Aalif total 20, reducing to 2. Number 2 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim.",
+  "in_arabic": {
+   "name": "ألف",
+   "meaning": "The letter alif; also alīf, friendly",
+   "long_meaning": "ألف — The letter alif; also alīf, friendly",
+   "confidence": "MEDIUM"
+  },
+  "in_urdu": {
+   "name": "الیف",
+   "meaning": "The letter alif; also alīf, friendly",
+   "long_meaning": "الیف — The letter alif; also alīf, friendly",
+   "confidence": "MEDIUM"
+  },
+  "in_hindi": {
+   "name": "अलीफ़",
+   "meaning": "The letter alif; also alīf, friendly",
+   "long_meaning": "अलीफ़ — The letter alif; also alīf, friendly",
+   "confidence": "MEDIUM"
+  },
+  "in_pashto": {
+   "name": "الیف",
+   "meaning": "The letter alif; also alīf, friendly",
+   "long_meaning": "الیف — The letter alif; also alīf, friendly",
+   "confidence": "MEDIUM"
+  },
+  "in_english": {
+   "name": "Aalif",
+   "meaning": "The letter alif; also alīf, friendly (أليف)",
+   "long_meaning": "Aalif (ألف) is the name of alif, the first letter of the Arabic alphabet. It also corresponds to the adjective alīf (أليف), 'friendly, familiar, kind, harmonious'. Both senses are ",
+   "note": "English lexical meaning of the name."
+  },
+  "pronunciation": {
+   "english": "AA-lif",
+   "ipa": "/ˈɑː.lɪf/",
+   "arabic": "ألف",
+   "urdu": "الیف",
+   "hindi": "अलीफ़",
+   "pashto": "الیف",
+   "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling."
+  },
+  "name_variants": [
+   "Alif",
+   "Aleef"
+  ],
+  "variants": [
+   "Alif",
+   "Aleef"
+  ],
+  "diminutives": [],
+  "nicknames": [],
+  "related_names": [
+   "Aalifa",
+   "Aalii"
+  ],
+  "similar_sounding_names": [
+   "Alif",
+   "Aleef"
+  ],
+  "notable_people": [],
+  "notable_people_note": "No verified notable bearer of the exact spelling Aalif is asserted in this dataset.",
+  "celebrity_usage": [],
+  "celebrity_usage_note": "No verified celebrity or public-figure usage of the exact spelling Aalif is recorded.",
+  "popularity_score": null,
+  "popularity_by_region": [],
+  "popularity_note": "No verified registration or ranking statistics are published for Aalif. A numeric popularity score is therefore not asserted.",
+  "cultural_impact": "Aalif belongs to Arabic naming tradition as a script- and vocabulary-derived name.",
+  "spiritual_significance": "No spiritual sense is asserted beyond its lexical meanings; any reading placed on it is interpretive and labelled as such.",
+  "spiritual_symbolism": "No spiritual sense is asserted beyond its lexical meanings; any reading placed on it is interpretive and labelled as such.",
+  "islamic_reference": {
+   "is_quranic": false,
+   "note": "Not a Qur'anic personal name; alif is the first letter of the Arabic script."
+  },
+  "historical_references": [
+   {
+    "reference": "Alif is the first letter of the Arabic alphabet; alīf means 'friendly, familiar'.",
+    "time_period": "Classical Arabic",
+    "context": "Arabic script and vocabulary."
+   }
+  ],
+  "modern_usage": {
+   "trends": [],
+   "platforms": [],
+   "modern_context": "No verified modern-usage statistics are published for Aalif."
+  },
+  "name_in_real_life": {
+   "person_name": "",
+   "location": "",
+   "story": "",
+   "note": "No verified real-life bearer is published for Aalif."
+  },
+  "social_tags": [
+   "#AalifMeaning",
+   "#IslamicBabyNames",
+   "#MuslimNames",
+   "#ArabicNames"
+  ],
+  "monetization": {
+   "propush_trigger": true,
+   "exit_ad_enabled": true,
+   "ads_enabled": true
+  },
+  "user_engagement": {
+   "interactive_features": {
+    "name_calculator": true,
+    "meaning_quiz": true,
+    "pronunciation_tool": true,
+    "compatibility_checker": true
+   },
+   "community_features": {
+    "user_stories": [],
+    "rating_system": true,
+    "comment_section": true
+   },
+   "personalization": {
+    "favorite_lists": true,
+    "name_comparison": true,
+    "save_preferences": true
+   }
+  },
+  "social_optimization": {
+   "social_media_cards": {
+    "facebook": {
+     "title": "Beautiful Name: Aalif",
+     "description": "Discover the meaning of Aalif - The letter alif; also alīf, friendly (أليف)",
+     "image": "/images/social/aalif-facebook.jpg"
     },
-    "in_urdu": {
-      "name": "آلیف",
-      "long_meaning": "Letter A",
-      "meaning": "Letter A"
+    "twitter": {
+     "title": "Aalif - Name Meaning",
+     "description": "Learn about the name Aalif",
+     "image": "/images/social/aalif-twitter.jpg"
     },
-    "in_hindi": {
-      "name": "आलिफ़",
-      "long_meaning": "Letter A",
-      "meaning": "Letter A"
-    },
-    "in_pashto": {
-      "name": "آلیف",
-      "long_meaning": "Letter A",
-      "meaning": "Letter A"
-    },
-    "in_english": {
-      "name": "Aalif",
-      "meaning": "Letter A",
-      "long_meaning": "Letter A"
-    },
-    "pronunciation": {
-      "english": "/ˈɑː.liːm/",
-      "urdu": "اردو میں تلفظ کی تفصیل: آلیف کا تلفظ 'آلیف' ہے",
-      "hindi": "हिन्दी में उच्चारण विवरण: आलिफ़ का उच्चारण 'आलिफ़' है",
-      "pashto": "په پښتو کې د تلفظ تفصیل: آلیف کې د تلفظ 'آلیف' ګڼل کېږي",
-      "ipa": "/ˈɑː.liːm/"
-    },
-    "name_variations": [
-      "Aalif"
-    ],
-    "variants": [
-      "Aalif"
-    ],
-    "diminutives": [],
-    "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
-    "popularity_score": null,
-    "popularity_by_region": [],
-    "cultural_impact": "Aalif is used in Arabic naming tradition with the meaning “Letter A”.",
-    "spiritual_significance": "Any spiritual significance attached to Aalif is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Letter A” is the basis of any symbolism attached to Aalif; such symbolism is interpretive.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "No Qur'anic reference for Aalif has been verified."
-    },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aalif."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AalifMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aalif"
-    ],
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aalif",
-          "description": "Discover the meaning of Aalif - \"Letter A\"",
-          "image": "/images/social/aalif-facebook.jpg"
-        },
-        "twitter": {
-          "title": "Aalif - Name Meaning",
-          "description": "Learn about the beautiful name Aalif",
-          "image": "/images/social/aalif-twitter.jpg"
-        },
-        "instagram": {
-          "title": "Aalif",
-          "description": "Name meaning: Letter A",
-          "image": "/images/social/aalif-instagram.jpg"
-        }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aalif - Meaning: Letter A",
-        "email_subject": "Beautiful Name: Aalif"
-      }
-    },
-    "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aalif with meaning Letter A",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
-    },
-    "seo": {
-      "title": "Aalif Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Aalif has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Aalif, Aalif name meaning, Aalif meaning, Aalif origin, Aalif root, Aalif pronunciation, Arabic names",
-      "description_paragraph": "The meaning of Aalif has not been verified against a reliable source. This record is flagged for manual verification.",
-      "keywords": [
-        "Aalif",
-        "Aalif name meaning",
-        "Aalif meaning",
-        "Aalif origin",
-        "Aalif root",
-        "Aalif pronunciation",
-        "Arabic names"
-      ],
-      "focus_keyword": "Aalif name meaning",
-      "secondary_keywords": [
-        "Aalif meaning",
-        "Aalif origin",
-        "Aalif pronunciation",
-        "Aalif lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Aalif mean?",
-          "a": "Name-lists record the meaning as “Letter A”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aalif verified?",
-          "a": "No. The meaning of Aalif could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aalif come from?",
-          "a": "The origin of Aalif has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "seo_title": "Aalif Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Aalif has not been verified against a reliable source. This record is flagged for manual verification.",
-    "keywords": [
-      "Aalif",
-      "Aalif name meaning",
-      "Aalif meaning",
-      "Aalif origin",
-      "Aalif root",
-      "Aalif pronunciation",
-      "Arabic names"
-    ],
-    "canonical_url": "",
-    "intro_paragraph": "The meaning of Aalif has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Aalif",
-      "description": "Aalif — Letter A",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Aalif mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Letter A”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Aalif verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Aalif could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Aalif come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Aalif has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 70
-    },
-    "created_at": "2025-12-22T19:19:49.951Z",
-    "updated_at": "2026-10-01T04:04:17.000Z",
-    "tier1_verified": {
-      "name": "Aalif",
-      "slug": "aalif",
-      "meaning": "Letter A",
-      "origin": "Arabic",
-      "language": [
-        "Arabic"
-      ],
-      "gender": "Unisex",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Aalif",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Letter A",
-      "long_meaning": "The name Aalif is recorded with the meaning “Letter A”. Aalif is a Arabic name meaning “Letter A”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Aalif",
-          "meaning": "Letter A",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "/ˈɑː.liːm/",
-        "ipa": "/ˈɑː.liːm/"
-      },
-      "syllables": 2,
-      "name_length": 5,
-      "faqs": [
-        {
-          "q": "What does the name Aalif mean?",
-          "a": "Name-lists record the meaning as “Letter A”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aalif verified?",
-          "a": "No. The meaning of Aalif could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aalif come from?",
-          "a": "The origin of Aalif has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 2,
-        "life_path_number": 2,
-        "ruling_planet": "Moon",
-        "lucky_day": "Monday",
-        "lucky_stone": "Pearl",
-        "lucky_colors": [
-          "White",
-          "Silver"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aalif total 20, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
-    "verification": {
-      "needs_manual_verification": true,
-      "flags": [
-        "no_verified_lexicon_entry"
-      ],
-      "confidence": "UNKNOWN",
-      "sources": []
-    },
-    "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:17.000Z"
+    "instagram": {
+     "title": "Aalif",
+     "description": "Name meaning: The letter alif; also alīf, friendly (أليف)",
+     "image": "/images/social/aalif-instagram.jpg"
     }
+   },
+   "sharing_optimization": {
+    "whatsapp_message": "Check out this name: Aalif - Meaning: The letter alif; also alīf, friendly (أليف)",
+    "email_subject": "Beautiful Name: Aalif"
+   }
+  },
+  "accessibility": {
+   "screen_reader_optimized": true,
+   "alt_text": "Aalif with meaning The letter alif; also alīf, friendly (أليف)",
+   "keyboard_navigable": true,
+   "high_contrast_mode": true,
+   "font_scaling_support": true,
+   "voice_navigation": true,
+   "braille_compatible": true,
+   "language_attributes": {
+    "primary": "en",
+    "rtl_support": true
+   }
+  },
+  "seo": {
+   "title": "Aalif Name Meaning - The letter alif; also alīf, friendly (أل (Arabic)",
+   "meta_description": "Aalif is an Arabic name meaning The letter alif; also alīf, friendly (أليف). Verified meaning, root, script and 15 FAQs.",
+   "meta_keywords": "Aalif, Aalif name meaning, Aalif meaning, Aalif origin, Aalif root, Aalif pronunciation",
+   "description_paragraph": "Aalif is a Arabic name meaning The letter alif; also alīf, friendly (أليف).",
+   "keywords": [
+    "Aalif",
+    "Aalif name meaning",
+    "Aalif meaning",
+    "Aalif origin",
+    "Aalif pronunciation"
+   ],
+   "focus_keyword": "Aalif name meaning",
+   "secondary_keywords": [
+    "Aalif meaning",
+    "Aalif origin",
+    "Aalif pronunciation",
+    "Aalif lucky number"
+   ],
+   "canonical_url": "",
+   "seo_score": 94,
+   "seo_score_basis": "FAQ 15 (>=15 target); no high-severity issues",
+   "faq": [
+    {
+     "q": "What does the name Aalif mean?",
+     "a": "Aalif means The letter alif; also alīf, friendly (أليف)."
+    },
+    {
+     "q": "What is the origin of the name Aalif?",
+     "a": "Aalif is of Arabic origin."
+    },
+    {
+     "q": "What language does the name Aalif come from?",
+     "a": "Aalif is used in Arabic, Urdu."
+    },
+    {
+     "q": "Is Aalif a boy's name or a girl's name?",
+     "a": "Aalif is used as a unisex name."
+    },
+    {
+     "q": "How is Aalif pronounced?",
+     "a": "Aalif is pronounced AA-lif (IPA /ˈɑː.lɪf/)."
+    },
+    {
+     "q": "How is Aalif written in Arabic and Urdu?",
+     "a": "Aalif is written ألف in Arabic and الیف in Urdu, and अलीफ़ in Devanagari."
+    },
+    {
+     "q": "What is the linguistic root of Aalif?",
+     "a": "The root of Aalif is أ-ل-ف (ʾ-l-f)."
+    },
+    {
+     "q": "What is the etymology of Aalif?",
+     "a": "Arabic alif (the letter alif) / alīf (friendly, familiar)."
+    },
+    {
+     "q": "Does Aalif appear in the Qur'an?",
+     "a": "Not a Qur'anic personal name; alif is the first letter of the Arabic script."
+    },
+    {
+     "q": "Does Aalif mean 'the letter A'?",
+     "a": "Aalif is the name of alif, the first letter of the Arabic alphabet, corresponding to a long 'ā'. The same letters read alīf mean 'friendly, kind'."
+    },
+    {
+     "q": "What is the numerology or lucky number of Aalif?",
+     "a": "In Pythagorean numerology the letters of Aalif total 20, reducing to 2. Number 2 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+    },
+    {
+     "q": "What are the common spelling variants of Aalif?",
+     "a": "Aalif appears with variants and alternative spellings such as Alif, Aleef."
+    },
+    {
+     "q": "Which names are related to Aalif?",
+     "a": "Names sharing form or root with Aalif include Aalifa, Aalii."
+    },
+    {
+     "q": "Does Aalif also mean 'friendly'?",
+     "a": "Yes. Read alīf (أليف), the word means 'friendly, familiar, kind, harmonious'."
+    },
+    {
+     "q": "Where is the name Aalif used today?",
+     "a": "Aalif is used in Arabic, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+    }
+   ]
+  },
+  "seo_title": "Aalif Name Meaning - The letter alif; also alīf, friendly (أل (Arabic)",
+  "meta_description": "Aalif is a Arabic name meaning The letter alif; also alīf, friendly (أليف). Verified meaning, root, script and 15 FAQs.",
+  "keywords": [
+   "Aalif",
+   "Aalif name meaning",
+   "Aalif meaning",
+   "Aalif origin",
+   "Aalif pronunciation"
+  ],
+  "canonical_url": "",
+  "intro_paragraph": "Aalif is a Arabic name meaning The letter alif; also alīf, friendly (أليف). Arabic alif (the letter alif) / alīf (friendly, familiar).",
+  "structured_data": {
+   "@context": "https://schema.org",
+   "@type": "Thing",
+   "name": "Aalif",
+   "description": "Aalif - The letter alif; also alīf, friendly (أليف)",
+   "additionalType": "https://schema.org/Person"
+  },
+  "structured_data_faq": {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "What does the name Aalif mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalif means The letter alif; also alīf, friendly (أليف)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the origin of the name Aalif?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalif is of Arabic origin."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What language does the name Aalif come from?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalif is used in Arabic, Urdu."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aalif a boy's name or a girl's name?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalif is used as a unisex name."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aalif pronounced?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalif is pronounced AA-lif (IPA /ˈɑː.lɪf/)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aalif written in Arabic and Urdu?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalif is written ألف in Arabic and الیف in Urdu, and अलीफ़ in Devanagari."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the linguistic root of Aalif?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The root of Aalif is أ-ل-ف (ʾ-l-f)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the etymology of Aalif?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Arabic alif (the letter alif) / alīf (friendly, familiar)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Aalif appear in the Qur'an?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Not a Qur'anic personal name; alif is the first letter of the Arabic script."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Aalif mean 'the letter A'?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalif is the name of alif, the first letter of the Arabic alphabet, corresponding to a long 'ā'. The same letters read alīf mean 'friendly, kind'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the numerology or lucky number of Aalif?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In Pythagorean numerology the letters of Aalif total 20, reducing to 2. Number 2 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What are the common spelling variants of Aalif?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalif appears with variants and alternative spellings such as Alif, Aleef."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Which names are related to Aalif?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Names sharing form or root with Aalif include Aalifa, Aalii."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Aalif also mean 'friendly'?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Read alīf (أليف), the word means 'friendly, familiar, kind, harmonious'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Where is the name Aalif used today?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalif is used in Arabic, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+     }
+    }
+   ]
+  },
+  "structured_data_breadcrumb": {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Islamic Names",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Aalif",
+     "item": ""
+    }
+   ]
+  },
+  "advanced_seo": {
+   "technical_seo": {
+    "mobile_friendly": true,
+    "schema_markup": true,
+    "rtl_rendering": true
+   },
+   "content_seo": {
+    "faq_count": 15,
+    "internal_linking": true,
+    "unique_field_coverage": "name-specific meaning, etymology, root, script and FAQ"
+   },
+   "performance_metrics": {}
+  },
+  "confidence": {
+   "meaning": "MEDIUM",
+   "etymology": "MEDIUM",
+   "origin": "HIGH",
+   "scripts": "MEDIUM",
+   "pronunciation": "MEDIUM",
+   "gender": "MEDIUM",
+   "numerology": "MEDIUM",
+   "popularity": "UNKNOWN",
+   "faq": "MEDIUM",
+   "notable_people": "UNKNOWN",
+   "historical_references": "MEDIUM"
+  },
+  "data_quality": {
+   "source_was_thin": true,
+   "authenticity_flags": [],
+   "fields_total": 78
+  },
+  "created_at": "2025-06-29T09:02:52.166896",
+  "updated_at": "2026-10-01T10:45:00.000Z",
+  "tier1_verified": {
+   "name": "Aalif",
+   "slug": "aalif",
+   "meaning": "The letter alif; also alīf, friendly (أليف)",
+   "origin": "Arabic",
+   "language": [
+    "Arabic",
+    "Urdu"
+   ],
+   "gender": "Unisex",
+   "root": "أ-ل-ف (ʾ-l-f)",
+   "etymology": "Arabic alif (the letter alif) / alīf (friendly, familiar).",
+   "script": {
+    "arabic": "ألف",
+    "urdu": "الیف",
+    "hindi": "अलीफ़",
+    "pashto": "الیف"
+   },
+   "transliteration": "Alif",
+   "reference": "Alif is the first letter of the Arabic alphabet; alīf means 'friendly, familiar'.",
+   "confidence": "MEDIUM"
+  },
+  "tier2_explanatory": {
+   "short_meaning": "The letter alif; also alīf, friendly (أليف)",
+   "long_meaning": "Aalif (ألف) is the name of alif, the first letter of the Arabic alphabet. It also corresponds to the adjective alīf (أليف), 'friendly, familiar, kind, harmonious'. Both senses are recorded.",
+   "translations": {
+    "arabic": "The letter alif; also alīf, friendly",
+    "urdu": "The letter alif; also alīf, friendly",
+    "hindi": "The letter alif; also alīf, friendly",
+    "pashto": "The letter alif; also alīf, friendly",
+    "english": "The letter alif; also alīf, friendly (أليف)"
+   },
+   "pronunciation": {
+    "english": "AA-lif",
+    "ipa": "/ˈɑː.lɪf/"
+   },
+   "syllables": 2,
+   "name_length": 5,
+   "faqs": 15
+  },
+  "tier3_interpretive": {
+   "disclaimer": "The following fields are interpretive/optional associations derived from traditional numerology, not factual claims.",
+   "numerology": {
+    "lucky_number": 2,
+    "life_path_number": 2,
+    "ruling_planet": "Moon",
+    "lucky_day": "Monday",
+    "lucky_stone": "Pearl",
+    "lucky_colors": [
+     "White",
+     "Cream"
+    ],
+    "numerology_meaning": "In Pythagorean numerology the letters of Aalif total 20, reducing to 2."
+   },
+   "personality_associations": [],
+   "spiritual_symbolism": ""
+  },
+  "verification": {
+   "needs_manual_verification": false,
+   "flags": [],
+   "confidence": "HIGH",
+   "sources": [
+    "Alif is the first letter of the Arabic alphabet; alīf means 'friendly, familiar'."
+   ]
+  },
+  "nameverse": {
+   "pipeline": "NameVerse Production v5",
+   "methodology": "Original to Verified to Expanded to Enriched",
+   "tier1_verified": true,
+   "processed_at": "2026-10-01T10:45:00.000Z"
   }
+ }
 }

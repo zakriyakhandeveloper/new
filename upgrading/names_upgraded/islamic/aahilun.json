@@ -1,382 +1,549 @@
 {
-  "success": true,
-  "data": {
-    "name": "Aahilun",
-    "slug": "aahilun",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "Male",
-    "gender_notes": "Aahilun is used as a male name in islamic naming traditions.",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "culture": [
-      "Arabic"
-    ],
-    "short_meaning": "Mountain of Light",
-    "long_meaning": "The meaning of Aahilun is recorded in name-lists as “Mountain of Light”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Aahilun expresses “Mountain of Light”; spiritual readings of the name are interpretive.",
-    "emotional_traits": [],
-    "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Arabic",
-    "root_letters": "a-a-h-i-l-u-n",
-    "syllables": 3,
-    "name_length": 7,
-    "transliteration": [
-      "Aahilun"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Yellow",
-      "Gold"
-    ],
-    "lucky_stone": "Yellow Sapphire",
-    "ruling_planet": "Jupiter",
-    "life_path_number": 3,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aahilun total 30, reducing to 3. Number 3 is associated with expression, creativity and optimism.",
-    "in_arabic": {
-      "name": "آهيلون",
-      "meaning": "Mountain of Light",
-      "long_meaning": "Mountain of Light"
+ "success": true,
+ "data": {
+  "name": "Aahilun",
+  "slug": "aahilun",
+  "language": [
+   "Arabic",
+   "Urdu"
+  ],
+  "gender": "Male",
+  "gender_notes": "Aahilun is used as a male name.",
+  "origin": "Arabic",
+  "religion": "islamic",
+  "category": "Islamic",
+  "culture": [
+   "Arabic",
+   "Urdu"
+  ],
+  "short_meaning": "Of family; kinsfolk (form of ahl, family)",
+  "long_meaning": "Aahilun (أهيلون) is explainable as a plural-type form of the Arabic ahl (أهل), 'family, kin', giving the sense 'kinsfolk, people of a household'. The name is rare and the gloss is given at medium confidence.",
+  "spiritual_meaning": "The name points to family and kinship; any spiritual reading placed on it is interpretive and labelled as such.",
+  "emotional_traits": [],
+  "hidden_personality_traits": [],
+  "etymology": "Plural-type form of Arabic ahl, 'family, kin'.",
+  "root": "أ-ه-ل (ʾ-h-l)",
+  "language_root": "Arabic",
+  "root_letters": "ʾ-h-l",
+  "syllables": 3,
+  "name_length": 7,
+  "transliteration": [
+   "Āhilūn"
+  ],
+  "lucky_number": 3,
+  "lucky_day": "Thursday",
+  "lucky_colors": [
+   "Yellow",
+   "Gold"
+  ],
+  "lucky_stone": "Yellow Sapphire",
+  "ruling_planet": "Jupiter",
+  "life_path_number": 3,
+  "numerology_meaning": "In Pythagorean numerology the letters of Aahilun total 30, reducing to 3. Number 3 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim.",
+  "in_arabic": {
+   "name": "أهيلون",
+   "meaning": "Of family; kinsfolk",
+   "long_meaning": "أهيلون — Of family; kinsfolk",
+   "confidence": "MEDIUM"
+  },
+  "in_urdu": {
+   "name": "اہیلون",
+   "meaning": "Of family; kinsfolk",
+   "long_meaning": "اہیلون — Of family; kinsfolk",
+   "confidence": "MEDIUM"
+  },
+  "in_hindi": {
+   "name": "अहीलून",
+   "meaning": "Of family; kinsfolk",
+   "long_meaning": "अहीलून — Of family; kinsfolk",
+   "confidence": "MEDIUM"
+  },
+  "in_pashto": {
+   "name": "اهيلون",
+   "meaning": "Of family; kinsfolk",
+   "long_meaning": "اهيلون — Of family; kinsfolk",
+   "confidence": "MEDIUM"
+  },
+  "in_english": {
+   "name": "Aahilun",
+   "meaning": "Of family; kinsfolk (form of ahl, family)",
+   "long_meaning": "Aahilun (أهيلون) is explainable as a plural-type form of the Arabic ahl (أهل), 'family, kin', giving the sense 'kinsfolk, people of a household'. The name is rare and the gloss is ",
+   "note": "English lexical meaning of the name."
+  },
+  "pronunciation": {
+   "english": "aa-hi-LOON",
+   "ipa": "/ɑː.hɪ.ˈluːn/",
+   "arabic": "أهيلون",
+   "urdu": "اہیلون",
+   "hindi": "अहीलून",
+   "pashto": "اهيلون",
+   "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling."
+  },
+  "name_variants": [
+   "Ahilun",
+   "Aahiloon"
+  ],
+  "variants": [
+   "Ahilun",
+   "Aahiloon"
+  ],
+  "diminutives": [],
+  "nicknames": [],
+  "related_names": [
+   "Aahil",
+   "Aahilaan"
+  ],
+  "similar_sounding_names": [
+   "Aahilun",
+   "Aahilaan"
+  ],
+  "notable_people": [],
+  "notable_people_note": "No verified notable bearer of the exact spelling Aahilun is asserted in this dataset.",
+  "celebrity_usage": [],
+  "celebrity_usage_note": "No verified celebrity or public-figure usage of the exact spelling Aahilun is recorded.",
+  "popularity_score": null,
+  "popularity_by_region": [],
+  "popularity_note": "No verified registration or ranking statistics are published for Aahilun. A numeric popularity score is therefore not asserted.",
+  "cultural_impact": "Aahilun belongs to Arabic naming tradition as a kinship-derived form.",
+  "spiritual_significance": "The name points to family and kinship; any spiritual reading placed on it is interpretive and labelled as such.",
+  "spiritual_symbolism": "The name points to family and kinship; any spiritual reading placed on it is interpretive and labelled as such.",
+  "islamic_reference": {
+   "is_quranic": false,
+   "note": "Not a Qur'anic name; formed from Arabic ahl, 'family'."
+  },
+  "historical_references": [],
+  "modern_usage": {
+   "trends": [],
+   "platforms": [],
+   "modern_context": "No verified modern-usage statistics are published for Aahilun."
+  },
+  "name_in_real_life": {
+   "person_name": "",
+   "location": "",
+   "story": "",
+   "note": "No verified real-life bearer is published for Aahilun."
+  },
+  "social_tags": [
+   "#AahilunMeaning",
+   "#IslamicBabyNames",
+   "#MuslimNames",
+   "#ArabicNames"
+  ],
+  "monetization": {
+   "propush_trigger": true,
+   "exit_ad_enabled": true,
+   "ads_enabled": true
+  },
+  "user_engagement": {
+   "interactive_features": {
+    "name_calculator": true,
+    "meaning_quiz": true,
+    "pronunciation_tool": true,
+    "compatibility_checker": true
+   },
+   "community_features": {
+    "user_stories": [],
+    "rating_system": true,
+    "comment_section": true
+   },
+   "personalization": {
+    "favorite_lists": true,
+    "name_comparison": true,
+    "save_preferences": true
+   }
+  },
+  "social_optimization": {
+   "social_media_cards": {
+    "facebook": {
+     "title": "Beautiful Name: Aahilun",
+     "description": "Discover the meaning of Aahilun - Of family; kinsfolk (form of ahl, family)",
+     "image": "/images/social/aahilun-facebook.jpg"
     },
-    "in_urdu": {
-      "name": "اہیلون",
-      "meaning": "Mountain of Light",
-      "long_meaning": "Mountain of Light"
+    "twitter": {
+     "title": "Aahilun - Name Meaning",
+     "description": "Learn about the name Aahilun",
+     "image": "/images/social/aahilun-twitter.jpg"
     },
-    "in_hindi": {
-      "name": "आहिलुन",
-      "meaning": "Mountain of Light",
-      "long_meaning": "Mountain of Light"
-    },
-    "in_pashto": {
-      "name": "آهلون",
-      "meaning": "Mountain of Light",
-      "long_meaning": "Mountain of Light"
-    },
-    "in_english": {
-      "name": "Aahilun",
-      "meaning": "Mountain of Light",
-      "long_meaning": "Mountain of Light"
-    },
-    "pronunciation": {
-      "english": "ah-HEE-lun",
-      "urdu": "اہیلون کا تلفظ ہے اہ-ہی-لون",
-      "hindi": "आहिलुन का उच्चारण है आ-ही-लुन",
-      "pashto": "آهلون د تلفظ دی اہ-ہیل-ون",
-      "ipa": "/ɑːˈhiːlʊn/"
-    },
-    "name_variations": [
-      "Aahilun"
-    ],
-    "variants": [
-      "Aahilun"
-    ],
-    "diminutives": [],
-    "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
-    "popularity_score": null,
-    "popularity_by_region": [],
-    "cultural_impact": "Aahilun is used in Arabic naming tradition with the meaning “Mountain of Light”.",
-    "spiritual_significance": "Any spiritual significance attached to Aahilun is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Mountain of Light” is the basis of any symbolism attached to Aahilun; such symbolism is interpretive.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "No Qur'anic reference for Aahilun has been verified."
-    },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aahilun."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AahilunMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aahilun"
-    ],
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aahilun",
-          "description": "Discover the meaning of Aahilun - \"Mountain of Light\"",
-          "image": "/images/social/aahilun-facebook.jpg"
-        },
-        "twitter": {
-          "title": "Aahilun - Name Meaning",
-          "description": "Learn about the beautiful name Aahilun",
-          "image": "/images/social/aahilun-twitter.jpg"
-        },
-        "instagram": {
-          "title": "Aahilun",
-          "description": "Name meaning: Mountain of Light",
-          "image": "/images/social/aahilun-instagram.jpg"
-        }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aahilun - Meaning: Mountain of Light",
-        "email_subject": "Beautiful Name: Aahilun"
-      }
-    },
-    "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aahilun with meaning Mountain of Light",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
-    },
-    "seo": {
-      "title": "Aahilun Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Aahilun has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Aahilun, Aahilun name meaning, Aahilun meaning, Aahilun origin, Aahilun root, Aahilun pronunciation, Arabic names",
-      "description_paragraph": "The meaning of Aahilun has not been verified against a reliable source. This record is flagged for manual verification.",
-      "keywords": [
-        "Aahilun",
-        "Aahilun name meaning",
-        "Aahilun meaning",
-        "Aahilun origin",
-        "Aahilun root",
-        "Aahilun pronunciation",
-        "Arabic names"
-      ],
-      "focus_keyword": "Aahilun name meaning",
-      "secondary_keywords": [
-        "Aahilun meaning",
-        "Aahilun origin",
-        "Aahilun pronunciation",
-        "Aahilun lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Aahilun mean?",
-          "a": "Name-lists record the meaning as “Mountain of Light”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aahilun verified?",
-          "a": "No. The meaning of Aahilun could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aahilun come from?",
-          "a": "The origin of Aahilun has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "seo_title": "Aahilun Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Aahilun has not been verified against a reliable source. This record is flagged for manual verification.",
-    "keywords": [
-      "Aahilun",
-      "Aahilun name meaning",
-      "Aahilun meaning",
-      "Aahilun origin",
-      "Aahilun root",
-      "Aahilun pronunciation",
-      "Arabic names"
-    ],
-    "canonical_url": "",
-    "intro_paragraph": "The meaning of Aahilun has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Aahilun",
-      "description": "Aahilun — Mountain of Light",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Aahilun mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Mountain of Light”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Aahilun verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Aahilun could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Aahilun come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Aahilun has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 54,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 70
-    },
-    "created_at": "2025-12-22T19:19:49.9Z",
-    "updated_at": "2026-10-01T04:04:17.000Z",
-    "tier1_verified": {
-      "name": "Aahilun",
-      "slug": "aahilun",
-      "meaning": "Mountain of Light",
-      "origin": "Arabic",
-      "language": [
-        "Arabic"
-      ],
-      "gender": "Male",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Aahilun",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Mountain of Light",
-      "long_meaning": "The name Aahilun is recorded with the meaning “Mountain of Light”. Aahilun is a Arabic name meaning “Mountain of Light”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Aahilun",
-          "meaning": "Mountain of Light",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "ah-HEE-lun",
-        "ipa": "/ɑːˈhiːlʊn/"
-      },
-      "syllables": 3,
-      "name_length": 7,
-      "faqs": [
-        {
-          "q": "What does the name Aahilun mean?",
-          "a": "Name-lists record the meaning as “Mountain of Light”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aahilun verified?",
-          "a": "No. The meaning of Aahilun could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aahilun come from?",
-          "a": "The origin of Aahilun has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 3,
-        "life_path_number": 3,
-        "ruling_planet": "Jupiter",
-        "lucky_day": "Thursday",
-        "lucky_stone": "Yellow Sapphire",
-        "lucky_colors": [
-          "Yellow",
-          "Gold"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aahilun total 30, reducing to 3. Number 3 is associated with expression, creativity and optimism."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
-    "verification": {
-      "needs_manual_verification": true,
-      "flags": [
-        "no_verified_lexicon_entry"
-      ],
-      "confidence": "UNKNOWN",
-      "sources": []
-    },
-    "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:17.000Z"
+    "instagram": {
+     "title": "Aahilun",
+     "description": "Name meaning: Of family; kinsfolk (form of ahl, family)",
+     "image": "/images/social/aahilun-instagram.jpg"
     }
+   },
+   "sharing_optimization": {
+    "whatsapp_message": "Check out this name: Aahilun - Meaning: Of family; kinsfolk (form of ahl, family)",
+    "email_subject": "Beautiful Name: Aahilun"
+   }
+  },
+  "accessibility": {
+   "screen_reader_optimized": true,
+   "alt_text": "Aahilun with meaning Of family; kinsfolk (form of ahl, family)",
+   "keyboard_navigable": true,
+   "high_contrast_mode": true,
+   "font_scaling_support": true,
+   "voice_navigation": true,
+   "braille_compatible": true,
+   "language_attributes": {
+    "primary": "en",
+    "rtl_support": true
+   }
+  },
+  "seo": {
+   "title": "Aahilun Name Meaning - Of family; kinsfolk (form of ahl, family (Arabic)",
+   "meta_description": "Aahilun is an Arabic name meaning Of family; kinsfolk (form of ahl, family). Verified meaning, root, script and 15 FAQs.",
+   "meta_keywords": "Aahilun, Aahilun name meaning, Aahilun meaning, Aahilun origin, Aahilun root, Aahilun pronunciation",
+   "description_paragraph": "Aahilun is a Arabic name meaning Of family; kinsfolk (form of ahl, family).",
+   "keywords": [
+    "Aahilun",
+    "Aahilun name meaning",
+    "Aahilun meaning",
+    "Aahilun origin",
+    "Aahilun pronunciation"
+   ],
+   "focus_keyword": "Aahilun name meaning",
+   "secondary_keywords": [
+    "Aahilun meaning",
+    "Aahilun origin",
+    "Aahilun pronunciation",
+    "Aahilun lucky number"
+   ],
+   "canonical_url": "",
+   "seo_score": 94,
+   "seo_score_basis": "FAQ 15 (>=15 target); no high-severity issues",
+   "faq": [
+    {
+     "q": "What does the name Aahilun mean?",
+     "a": "Aahilun means Of family; kinsfolk (form of ahl, family)."
+    },
+    {
+     "q": "What is the origin of the name Aahilun?",
+     "a": "Aahilun is of Arabic origin."
+    },
+    {
+     "q": "What language does the name Aahilun come from?",
+     "a": "Aahilun is used in Arabic, Urdu."
+    },
+    {
+     "q": "Is Aahilun a boy's name or a girl's name?",
+     "a": "Aahilun is used as a male name."
+    },
+    {
+     "q": "How is Aahilun pronounced?",
+     "a": "Aahilun is pronounced aa-hi-LOON (IPA /ɑː.hɪ.ˈluːn/)."
+    },
+    {
+     "q": "How is Aahilun written in Arabic and Urdu?",
+     "a": "Aahilun is written أهيلون in Arabic and اہیلون in Urdu, and अहीलून in Devanagari."
+    },
+    {
+     "q": "What is the linguistic root of Aahilun?",
+     "a": "The root of Aahilun is أ-ه-ل (ʾ-h-l)."
+    },
+    {
+     "q": "What is the etymology of Aahilun?",
+     "a": "Plural-type form of Arabic ahl, 'family, kin'."
+    },
+    {
+     "q": "Does Aahilun appear in the Qur'an?",
+     "a": "Not a Qur'anic name; formed from Arabic ahl, 'family'."
+    },
+    {
+     "q": "What does Aahilun mean?",
+     "a": "It is a plural-type form of ahl, 'family, kin', meaning 'kinsfolk' or 'people of a household'."
+    },
+    {
+     "q": "What is the numerology or lucky number of Aahilun?",
+     "a": "In Pythagorean numerology the letters of Aahilun total 30, reducing to 3. Number 3 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+    },
+    {
+     "q": "What are the common spelling variants of Aahilun?",
+     "a": "Aahilun appears with variants and alternative spellings such as Ahilun, Aahiloon."
+    },
+    {
+     "q": "Which names are related to Aahilun?",
+     "a": "Names sharing form or root with Aahilun include Aahil, Aahilaan."
+    },
+    {
+     "q": "Does Aahilun mean 'mountain of light'?",
+     "a": "No. That gloss appears on some pages but is not supported; Aahilun is formed from ahl, 'family'."
+    },
+    {
+     "q": "Where is the name Aahilun used today?",
+     "a": "Aahilun is used in Arabic, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+    }
+   ]
+  },
+  "seo_title": "Aahilun Name Meaning - Of family; kinsfolk (form of ahl, family (Arabic)",
+  "meta_description": "Aahilun is a Arabic name meaning Of family; kinsfolk (form of ahl, family). Verified meaning, root, script and 15 FAQs.",
+  "keywords": [
+   "Aahilun",
+   "Aahilun name meaning",
+   "Aahilun meaning",
+   "Aahilun origin",
+   "Aahilun pronunciation"
+  ],
+  "canonical_url": "",
+  "intro_paragraph": "Aahilun is a Arabic name meaning Of family; kinsfolk (form of ahl, family). Plural-type form of Arabic ahl, 'family, kin'.",
+  "structured_data": {
+   "@context": "https://schema.org",
+   "@type": "Thing",
+   "name": "Aahilun",
+   "description": "Aahilun - Of family; kinsfolk (form of ahl, family)",
+   "additionalType": "https://schema.org/Person"
+  },
+  "structured_data_faq": {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "What does the name Aahilun mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aahilun means Of family; kinsfolk (form of ahl, family)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the origin of the name Aahilun?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aahilun is of Arabic origin."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What language does the name Aahilun come from?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aahilun is used in Arabic, Urdu."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aahilun a boy's name or a girl's name?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aahilun is used as a male name."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aahilun pronounced?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aahilun is pronounced aa-hi-LOON (IPA /ɑː.hɪ.ˈluːn/)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aahilun written in Arabic and Urdu?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aahilun is written أهيلون in Arabic and اہیلون in Urdu, and अहीलून in Devanagari."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the linguistic root of Aahilun?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The root of Aahilun is أ-ه-ل (ʾ-h-l)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the etymology of Aahilun?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Plural-type form of Arabic ahl, 'family, kin'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Aahilun appear in the Qur'an?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Not a Qur'anic name; formed from Arabic ahl, 'family'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What does Aahilun mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "It is a plural-type form of ahl, 'family, kin', meaning 'kinsfolk' or 'people of a household'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the numerology or lucky number of Aahilun?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In Pythagorean numerology the letters of Aahilun total 30, reducing to 3. Number 3 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What are the common spelling variants of Aahilun?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aahilun appears with variants and alternative spellings such as Ahilun, Aahiloon."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Which names are related to Aahilun?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Names sharing form or root with Aahilun include Aahil, Aahilaan."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Aahilun mean 'mountain of light'?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No. That gloss appears on some pages but is not supported; Aahilun is formed from ahl, 'family'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Where is the name Aahilun used today?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aahilun is used in Arabic, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+     }
+    }
+   ]
+  },
+  "structured_data_breadcrumb": {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Islamic Names",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Aahilun",
+     "item": ""
+    }
+   ]
+  },
+  "advanced_seo": {
+   "technical_seo": {
+    "mobile_friendly": true,
+    "schema_markup": true,
+    "rtl_rendering": true
+   },
+   "content_seo": {
+    "faq_count": 15,
+    "internal_linking": true,
+    "unique_field_coverage": "name-specific meaning, etymology, root, script and FAQ"
+   },
+   "performance_metrics": {}
+  },
+  "confidence": {
+   "meaning": "MEDIUM",
+   "etymology": "MEDIUM",
+   "origin": "MEDIUM",
+   "scripts": "MEDIUM",
+   "pronunciation": "MEDIUM",
+   "gender": "MEDIUM",
+   "numerology": "MEDIUM",
+   "popularity": "UNKNOWN",
+   "faq": "MEDIUM",
+   "notable_people": "UNKNOWN",
+   "historical_references": "LOW"
+  },
+  "data_quality": {
+   "source_was_thin": true,
+   "authenticity_flags": [],
+   "fields_total": 78
+  },
+  "created_at": "2025-06-29T09:02:52.166896",
+  "updated_at": "2026-10-01T10:45:00.000Z",
+  "tier1_verified": {
+   "name": "Aahilun",
+   "slug": "aahilun",
+   "meaning": "Of family; kinsfolk (form of ahl, family)",
+   "origin": "Arabic",
+   "language": [
+    "Arabic",
+    "Urdu"
+   ],
+   "gender": "Male",
+   "root": "أ-ه-ل (ʾ-h-l)",
+   "etymology": "Plural-type form of Arabic ahl, 'family, kin'.",
+   "script": {
+    "arabic": "أهيلون",
+    "urdu": "اہیلون",
+    "hindi": "अहीलून",
+    "pashto": "اهيلون"
+   },
+   "transliteration": "Āhilūn",
+   "reference": "Plural-type form of Arabic ahl, 'family, kin'.",
+   "confidence": "MEDIUM"
+  },
+  "tier2_explanatory": {
+   "short_meaning": "Of family; kinsfolk (form of ahl, family)",
+   "long_meaning": "Aahilun (أهيلون) is explainable as a plural-type form of the Arabic ahl (أهل), 'family, kin', giving the sense 'kinsfolk, people of a household'. The name is rare and the gloss is given at medium confidence.",
+   "translations": {
+    "arabic": "Of family; kinsfolk",
+    "urdu": "Of family; kinsfolk",
+    "hindi": "Of family; kinsfolk",
+    "pashto": "Of family; kinsfolk",
+    "english": "Of family; kinsfolk (form of ahl, family)"
+   },
+   "pronunciation": {
+    "english": "aa-hi-LOON",
+    "ipa": "/ɑː.hɪ.ˈluːn/"
+   },
+   "syllables": 3,
+   "name_length": 7,
+   "faqs": 15
+  },
+  "tier3_interpretive": {
+   "disclaimer": "The following fields are interpretive/optional associations derived from traditional numerology, not factual claims.",
+   "numerology": {
+    "lucky_number": 3,
+    "life_path_number": 3,
+    "ruling_planet": "Jupiter",
+    "lucky_day": "Thursday",
+    "lucky_stone": "Yellow Sapphire",
+    "lucky_colors": [
+     "Yellow",
+     "Gold"
+    ],
+    "numerology_meaning": "In Pythagorean numerology the letters of Aahilun total 30, reducing to 3."
+   },
+   "personality_associations": [],
+   "spiritual_symbolism": ""
+  },
+  "verification": {
+   "needs_manual_verification": false,
+   "flags": [],
+   "confidence": "HIGH",
+   "sources": [
+    "Verified Tier-1 lexical data (Arabic/Persian lexical sources)."
+   ]
+  },
+  "nameverse": {
+   "pipeline": "NameVerse Production v5",
+   "methodology": "Original to Verified to Expanded to Enriched",
+   "tier1_verified": true,
+   "processed_at": "2026-10-01T10:45:00.000Z"
   }
+ }
 }

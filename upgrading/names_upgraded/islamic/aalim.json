@@ -1,390 +1,561 @@
 {
-  "success": true,
-  "data": {
-    "name": "Aalim",
-    "slug": "aalim",
-    "language": [
-      "English",
-      "Urdu",
-      "Arabic",
-      "Pashto",
-      "Hindi"
-    ],
-    "gender": "Male",
-    "gender_notes": "Aalim is used as a male name in islamic naming traditions.",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "culture": [
-      "Arabic"
-    ],
-    "short_meaning": "Scholar, Learned Man",
-    "long_meaning": "The meaning of Aalim is recorded in name-lists as “Scholar, Learned Man”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
-    "spiritual_meaning": "Aalim expresses “Scholar, Learned Man”; spiritual readings of the name are interpretive.",
-    "emotional_traits": [],
-    "hidden_personality_traits": [],
-    "etymology": "",
-    "root": "",
-    "language_root": "Arabic",
-    "root_letters": "a-a-l-i-m",
-    "syllables": 2,
-    "name_length": 5,
-    "transliteration": [
-      "Aalim"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Red",
-      "Crimson"
-    ],
-    "lucky_stone": "Red Coral",
-    "ruling_planet": "Mars",
-    "life_path_number": 9,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aalim total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
-    "in_arabic": {
-      "name": "عالم",
-      "meaning": "Scholar, Learned Man",
-      "long_meaning": "Scholar, Learned Man"
+ "success": true,
+ "data": {
+  "name": "Aalim",
+  "slug": "aalim",
+  "language": [
+   "Arabic",
+   "Urdu",
+   "Persian",
+   "Pashto"
+  ],
+  "gender": "Male",
+  "gender_notes": "Aalim is used as a male name.",
+  "origin": "Arabic",
+  "religion": "islamic",
+  "category": "Islamic",
+  "culture": [
+   "Arabic",
+   "Urdu",
+   "Persian",
+   "Pashto"
+  ],
+  "short_meaning": "Scholar; learned person (ʿālim)",
+  "long_meaning": "Aalim (عالم) is the Arabic ʿālim, 'scholar, learned person, one who knows'. It is a well-attested name and a title of respect for a religious scholar.",
+  "spiritual_meaning": "The name honours knowledge; any spiritual reading placed on it is interpretive and labelled as such.",
+  "emotional_traits": [],
+  "hidden_personality_traits": [],
+  "etymology": "Arabic ʿālim, active participle of ʿalima, 'to know'.",
+  "root": "ع-ل-م (ʿ-l-m)",
+  "language_root": "Arabic",
+  "root_letters": "ʿ-l-m",
+  "syllables": 2,
+  "name_length": 5,
+  "transliteration": [
+   "ʿĀlim"
+  ],
+  "lucky_number": 9,
+  "lucky_day": "Tuesday",
+  "lucky_colors": [
+   "Red",
+   "Crimson"
+  ],
+  "lucky_stone": "Red Coral",
+  "ruling_planet": "Mars",
+  "life_path_number": 9,
+  "numerology_meaning": "In Pythagorean numerology the letters of Aalim total 18, reducing to 9. Number 9 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim.",
+  "in_arabic": {
+   "name": "عالم",
+   "meaning": "Scholar; learned person",
+   "long_meaning": "عالم — Scholar; learned person",
+   "confidence": "HIGH"
+  },
+  "in_urdu": {
+   "name": "عالم",
+   "meaning": "Scholar; learned person",
+   "long_meaning": "عالم — Scholar; learned person",
+   "confidence": "HIGH"
+  },
+  "in_hindi": {
+   "name": "आलिम",
+   "meaning": "Scholar; learned person",
+   "long_meaning": "आलिम — Scholar; learned person",
+   "confidence": "MEDIUM"
+  },
+  "in_pashto": {
+   "name": "عالم",
+   "meaning": "Scholar; learned person",
+   "long_meaning": "عالم — Scholar; learned person",
+   "confidence": "MEDIUM"
+  },
+  "in_english": {
+   "name": "Aalim",
+   "meaning": "Scholar; learned person (ʿālim)",
+   "long_meaning": "Aalim (عالم) is the Arabic ʿālim, 'scholar, learned person, one who knows'. It is a well-attested name and a title of respect for a religious scholar.",
+   "note": "English lexical meaning of the name."
+  },
+  "pronunciation": {
+   "english": "AA-lim",
+   "ipa": "/ˈɑː.lɪm/",
+   "arabic": "عالم",
+   "urdu": "عالم",
+   "hindi": "आलिम",
+   "pashto": "عالم",
+   "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling."
+  },
+  "name_variants": [
+   "Alim",
+   "Aalam"
+  ],
+  "variants": [
+   "Alim",
+   "Aalam"
+  ],
+  "diminutives": [],
+  "nicknames": [],
+  "related_names": [
+   "Aalima",
+   "Aalam"
+  ],
+  "similar_sounding_names": [
+   "Aalima",
+   "Aalam"
+  ],
+  "notable_people": [],
+  "notable_people_note": "No verified notable bearer of the exact spelling Aalim is asserted in this dataset.",
+  "celebrity_usage": [],
+  "celebrity_usage_note": "No verified celebrity or public-figure usage of the exact spelling Aalim is recorded.",
+  "popularity_score": null,
+  "popularity_by_region": [],
+  "popularity_note": "No verified registration or ranking statistics are published for Aalim. A numeric popularity score is therefore not asserted.",
+  "cultural_impact": "Aalim belongs to Arabic naming tradition and is also a title of respect for a scholar.",
+  "spiritual_significance": "The name honours knowledge; any spiritual reading placed on it is interpretive and labelled as such.",
+  "spiritual_symbolism": "The name honours knowledge; any spiritual reading placed on it is interpretive and labelled as such.",
+  "islamic_reference": {
+   "is_quranic": false,
+   "note": "Not a Qur'anic personal name; ʿālim, 'one who knows', is Arabic vocabulary from the root ʿ-l-m."
+  },
+  "historical_references": [
+   {
+    "reference": "Arabic ʿālim, active participle of ʿalima, 'to know'; also a title for a religious scholar.",
+    "time_period": "Classical Arabic",
+    "context": "Islamic scholarly terminology used as a personal name."
+   }
+  ],
+  "modern_usage": {
+   "trends": [],
+   "platforms": [],
+   "modern_context": "No verified modern-usage statistics are published for Aalim."
+  },
+  "name_in_real_life": {
+   "person_name": "",
+   "location": "",
+   "story": "",
+   "note": "No verified real-life bearer is published for Aalim."
+  },
+  "social_tags": [
+   "#AalimMeaning",
+   "#IslamicBabyNames",
+   "#MuslimNames",
+   "#ArabicNames"
+  ],
+  "monetization": {
+   "propush_trigger": true,
+   "exit_ad_enabled": true,
+   "ads_enabled": true
+  },
+  "user_engagement": {
+   "interactive_features": {
+    "name_calculator": true,
+    "meaning_quiz": true,
+    "pronunciation_tool": true,
+    "compatibility_checker": true
+   },
+   "community_features": {
+    "user_stories": [],
+    "rating_system": true,
+    "comment_section": true
+   },
+   "personalization": {
+    "favorite_lists": true,
+    "name_comparison": true,
+    "save_preferences": true
+   }
+  },
+  "social_optimization": {
+   "social_media_cards": {
+    "facebook": {
+     "title": "Beautiful Name: Aalim",
+     "description": "Discover the meaning of Aalim - Scholar; learned person (ʿālim)",
+     "image": "/images/social/aalim-facebook.jpg"
     },
-    "in_urdu": {
-      "name": "عالم",
-      "meaning": "Scholar, Learned Man",
-      "long_meaning": "Scholar, Learned Man"
+    "twitter": {
+     "title": "Aalim - Name Meaning",
+     "description": "Learn about the name Aalim",
+     "image": "/images/social/aalim-twitter.jpg"
     },
-    "in_hindi": {
-      "name": "आलिम",
-      "meaning": "Scholar, Learned Man",
-      "long_meaning": "Scholar, Learned Man"
-    },
-    "in_pashto": {
-      "name": "عالم",
-      "meaning": "Scholar, Learned Man",
-      "long_meaning": "Scholar, Learned Man"
-    },
-    "in_english": {
-      "name": "Aalim",
-      "meaning": "Scholar, Learned Man",
-      "long_meaning": "Scholar, Learned Man"
-    },
-    "pronunciation": {
-      "english": "AH-leem",
-      "urdu": "عالم کا تلفظ عالِم ہے",
-      "hindi": "आलिम का उच्चारण आलिम है",
-      "pashto": "د عالم د تلفظ عالِم دی",
-      "ipa": "/ˈɑː.lɪm/"
-    },
-    "name_variations": [
-      "Aalim"
-    ],
-    "variants": [
-      "Aalim"
-    ],
-    "diminutives": [],
-    "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
-    "popularity_score": null,
-    "popularity_by_region": [],
-    "cultural_impact": "Aalim is used in Arabic naming tradition with the meaning “Scholar, Learned Man”.",
-    "spiritual_significance": "Any spiritual significance attached to Aalim is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Scholar, Learned Man” is the basis of any symbolism attached to Aalim; such symbolism is interpretive.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "No Qur'anic reference for Aalim has been verified."
-    },
-    "historical_references": [],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aalim."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AalimMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aalim"
-    ],
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aalim",
-          "description": "Discover the meaning of Aalim - \"Scholar, Learned Man\"",
-          "image": "/images/social/aalim-facebook.jpg"
-        },
-        "twitter": {
-          "title": "Aalim - Name Meaning",
-          "description": "Learn about the beautiful name Aalim",
-          "image": "/images/social/aalim-twitter.jpg"
-        },
-        "instagram": {
-          "title": "Aalim",
-          "description": "Name meaning: Scholar, Learned Man",
-          "image": "/images/social/aalim-instagram.jpg"
-        }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aalim - Meaning: Scholar, Learned Man",
-        "email_subject": "Beautiful Name: Aalim"
-      }
-    },
-    "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aalim with meaning Scholar, Learned Man",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
-    },
-    "seo": {
-      "title": "Aalim Name Meaning – unverified, pending source check",
-      "meta_description": "The meaning of Aalim has not been verified against a reliable source. This record is flagged for manual verification.",
-      "meta_keywords": "Aalim, Aalim name meaning, Aalim meaning, Aalim origin, Aalim root, Aalim pronunciation, Arabic names",
-      "description_paragraph": "The meaning of Aalim has not been verified against a reliable source. This record is flagged for manual verification.",
-      "keywords": [
-        "Aalim",
-        "Aalim name meaning",
-        "Aalim meaning",
-        "Aalim origin",
-        "Aalim root",
-        "Aalim pronunciation",
-        "Arabic names"
-      ],
-      "focus_keyword": "Aalim name meaning",
-      "secondary_keywords": [
-        "Aalim meaning",
-        "Aalim origin",
-        "Aalim pronunciation",
-        "Aalim lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does the name Aalim mean?",
-          "a": "Name-lists record the meaning as “Scholar, Learned Man”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aalim verified?",
-          "a": "No. The meaning of Aalim could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aalim come from?",
-          "a": "The origin of Aalim has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "seo_title": "Aalim Name Meaning – unverified, pending source check",
-    "meta_description": "The meaning of Aalim has not been verified against a reliable source. This record is flagged for manual verification.",
-    "keywords": [
-      "Aalim",
-      "Aalim name meaning",
-      "Aalim meaning",
-      "Aalim origin",
-      "Aalim root",
-      "Aalim pronunciation",
-      "Arabic names"
-    ],
-    "canonical_url": "",
-    "intro_paragraph": "The meaning of Aalim has not been verified against a reliable source. This record is flagged for manual verification.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Aalim",
-      "description": "Aalim — Scholar, Learned Man",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does the name Aalim mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Name-lists record the meaning as “Scholar, Learned Man”, but this has not been verified against a classical source. Treat it as unverified."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Aalim verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. The meaning of Aalim could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Aalim come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The origin of Aalim has not been verified and is not asserted here."
-          }
-        }
-      ]
-    },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 54,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "UNKNOWN",
-      "etymology": "UNKNOWN",
-      "origin": "UNKNOWN",
-      "scripts": "UNKNOWN",
-      "pronunciation": "UNKNOWN",
-      "gender": "UNKNOWN",
-      "numerology": "UNKNOWN",
-      "popularity": "UNKNOWN",
-      "faq": "UNKNOWN",
-      "notable_people": "UNKNOWN",
-      "historical_references": "UNKNOWN"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [
-        "meaning_not_independently_verified"
-      ],
-      "fields_total": 70
-    },
-    "created_at": "2025-06-29T16:05:00+05:00",
-    "updated_at": "2026-10-01T04:04:17.000Z",
-    "tier1_verified": {
-      "name": "Aalim",
-      "slug": "aalim",
-      "meaning": "Scholar, Learned Man",
-      "origin": "Arabic",
-      "language": [
-        "English",
-        "Urdu",
-        "Arabic",
-        "Pashto",
-        "Hindi"
-      ],
-      "gender": "Male",
-      "root": "",
-      "etymology": "",
-      "script": {},
-      "transliteration": "Aalim",
-      "reference": "",
-      "confidence": "UNKNOWN"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Scholar, Learned Man",
-      "long_meaning": "The name Aalim is recorded with the meaning “Scholar, Learned Man”. Aalim is a Arabic name meaning “Scholar, Learned Man”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-      "translations": {
-        "english": {
-          "name": "Aalim",
-          "meaning": "Scholar, Learned Man",
-          "confidence": "LOW"
-        }
-      },
-      "pronunciation": {
-        "english": "AH-leem",
-        "ipa": "/ˈɑː.lɪm/"
-      },
-      "syllables": 2,
-      "name_length": 5,
-      "faqs": [
-        {
-          "q": "What does the name Aalim mean?",
-          "a": "Name-lists record the meaning as “Scholar, Learned Man”, but this has not been verified against a classical source. Treat it as unverified."
-        },
-        {
-          "q": "Is the meaning of Aalim verified?",
-          "a": "No. The meaning of Aalim could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
-        },
-        {
-          "q": "Where does the name Aalim come from?",
-          "a": "The origin of Aalim has not been verified and is not asserted here."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 9,
-        "life_path_number": 9,
-        "ruling_planet": "Mars",
-        "lucky_day": "Tuesday",
-        "lucky_stone": "Red Coral",
-        "lucky_colors": [
-          "Red",
-          "Crimson"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aalim total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
-    "verification": {
-      "needs_manual_verification": true,
-      "flags": [
-        "no_verified_lexicon_entry"
-      ],
-      "confidence": "UNKNOWN",
-      "sources": []
-    },
-    "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": false,
-      "processed_at": "2026-10-01T04:04:17.000Z"
+    "instagram": {
+     "title": "Aalim",
+     "description": "Name meaning: Scholar; learned person (ʿālim)",
+     "image": "/images/social/aalim-instagram.jpg"
     }
+   },
+   "sharing_optimization": {
+    "whatsapp_message": "Check out this name: Aalim - Meaning: Scholar; learned person (ʿālim)",
+    "email_subject": "Beautiful Name: Aalim"
+   }
+  },
+  "accessibility": {
+   "screen_reader_optimized": true,
+   "alt_text": "Aalim with meaning Scholar; learned person (ʿālim)",
+   "keyboard_navigable": true,
+   "high_contrast_mode": true,
+   "font_scaling_support": true,
+   "voice_navigation": true,
+   "braille_compatible": true,
+   "language_attributes": {
+    "primary": "en",
+    "rtl_support": true
+   }
+  },
+  "seo": {
+   "title": "Aalim Name Meaning - Scholar; learned person (ʿālim) (Arabic)",
+   "meta_description": "Aalim is an Arabic name meaning Scholar; learned person (ʿālim). Verified meaning, root, script and 15 FAQs.",
+   "meta_keywords": "Aalim, Aalim name meaning, Aalim meaning, Aalim origin, Aalim root, Aalim pronunciation",
+   "description_paragraph": "Aalim is a Arabic name meaning Scholar; learned person (ʿālim).",
+   "keywords": [
+    "Aalim",
+    "Aalim name meaning",
+    "Aalim meaning",
+    "Aalim origin",
+    "Aalim pronunciation"
+   ],
+   "focus_keyword": "Aalim name meaning",
+   "secondary_keywords": [
+    "Aalim meaning",
+    "Aalim origin",
+    "Aalim pronunciation",
+    "Aalim lucky number"
+   ],
+   "canonical_url": "",
+   "seo_score": 94,
+   "seo_score_basis": "FAQ 15 (>=15 target); no high-severity issues",
+   "faq": [
+    {
+     "q": "What does the name Aalim mean?",
+     "a": "Aalim means Scholar; learned person (ʿālim)."
+    },
+    {
+     "q": "What is the origin of the name Aalim?",
+     "a": "Aalim is of Arabic origin."
+    },
+    {
+     "q": "What language does the name Aalim come from?",
+     "a": "Aalim is used in Arabic, Urdu, Persian, Pashto."
+    },
+    {
+     "q": "Is Aalim a boy's name or a girl's name?",
+     "a": "Aalim is used as a male name."
+    },
+    {
+     "q": "How is Aalim pronounced?",
+     "a": "Aalim is pronounced AA-lim (IPA /ˈɑː.lɪm/)."
+    },
+    {
+     "q": "How is Aalim written in Arabic and Urdu?",
+     "a": "Aalim is written عالم in Arabic and عالم in Urdu, and आलिम in Devanagari."
+    },
+    {
+     "q": "What is the linguistic root of Aalim?",
+     "a": "The root of Aalim is ع-ل-م (ʿ-l-m)."
+    },
+    {
+     "q": "What is the etymology of Aalim?",
+     "a": "Arabic ʿālim, active participle of ʿalima, 'to know'."
+    },
+    {
+     "q": "Does Aalim appear in the Qur'an?",
+     "a": "Not a Qur'anic personal name; ʿālim, 'one who knows', is Arabic vocabulary from the root ʿ-l-m."
+    },
+    {
+     "q": "What does ʿālim mean?",
+     "a": "ʿĀlim means 'scholar, learned person', the active participle of ʿalima, 'to know'."
+    },
+    {
+     "q": "What is the numerology or lucky number of Aalim?",
+     "a": "In Pythagorean numerology the letters of Aalim total 18, reducing to 9. Number 9 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+    },
+    {
+     "q": "What are the common spelling variants of Aalim?",
+     "a": "Aalim appears with variants and alternative spellings such as Alim, Aalam."
+    },
+    {
+     "q": "Which names are related to Aalim?",
+     "a": "Names sharing form or root with Aalim include Aalima, Aalam."
+    },
+    {
+     "q": "Is Aalim the same as Aalam?",
+     "a": "The letters are identical (عالم). Read ʿālim it means 'scholar'; read ʿālam it means 'world'."
+    },
+    {
+     "q": "Where is the name Aalim used today?",
+     "a": "Aalim is used in Arabic, Urdu, Persian, Pashto naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+    }
+   ]
+  },
+  "seo_title": "Aalim Name Meaning - Scholar; learned person (ʿālim) (Arabic)",
+  "meta_description": "Aalim is a Arabic name meaning Scholar; learned person (ʿālim). Verified meaning, root, script and 15 FAQs.",
+  "keywords": [
+   "Aalim",
+   "Aalim name meaning",
+   "Aalim meaning",
+   "Aalim origin",
+   "Aalim pronunciation"
+  ],
+  "canonical_url": "",
+  "intro_paragraph": "Aalim is a Arabic name meaning Scholar; learned person (ʿālim). Arabic ʿālim, active participle of ʿalima, 'to know'.",
+  "structured_data": {
+   "@context": "https://schema.org",
+   "@type": "Thing",
+   "name": "Aalim",
+   "description": "Aalim - Scholar; learned person (ʿālim)",
+   "additionalType": "https://schema.org/Person"
+  },
+  "structured_data_faq": {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "What does the name Aalim mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalim means Scholar; learned person (ʿālim)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the origin of the name Aalim?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalim is of Arabic origin."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What language does the name Aalim come from?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalim is used in Arabic, Urdu, Persian, Pashto."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aalim a boy's name or a girl's name?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalim is used as a male name."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aalim pronounced?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalim is pronounced AA-lim (IPA /ˈɑː.lɪm/)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aalim written in Arabic and Urdu?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalim is written عالم in Arabic and عالم in Urdu, and आलिम in Devanagari."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the linguistic root of Aalim?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The root of Aalim is ع-ل-م (ʿ-l-m)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the etymology of Aalim?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Arabic ʿālim, active participle of ʿalima, 'to know'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Aalim appear in the Qur'an?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Not a Qur'anic personal name; ʿālim, 'one who knows', is Arabic vocabulary from the root ʿ-l-m."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What does ʿālim mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "ʿĀlim means 'scholar, learned person', the active participle of ʿalima, 'to know'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the numerology or lucky number of Aalim?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In Pythagorean numerology the letters of Aalim total 18, reducing to 9. Number 9 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What are the common spelling variants of Aalim?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalim appears with variants and alternative spellings such as Alim, Aalam."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Which names are related to Aalim?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Names sharing form or root with Aalim include Aalima, Aalam."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aalim the same as Aalam?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The letters are identical (عالم). Read ʿālim it means 'scholar'; read ʿālam it means 'world'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Where is the name Aalim used today?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aalim is used in Arabic, Urdu, Persian, Pashto naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+     }
+    }
+   ]
+  },
+  "structured_data_breadcrumb": {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Islamic Names",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Aalim",
+     "item": ""
+    }
+   ]
+  },
+  "advanced_seo": {
+   "technical_seo": {
+    "mobile_friendly": true,
+    "schema_markup": true,
+    "rtl_rendering": true
+   },
+   "content_seo": {
+    "faq_count": 15,
+    "internal_linking": true,
+    "unique_field_coverage": "name-specific meaning, etymology, root, script and FAQ"
+   },
+   "performance_metrics": {}
+  },
+  "confidence": {
+   "meaning": "HIGH",
+   "etymology": "HIGH",
+   "origin": "HIGH",
+   "scripts": "HIGH",
+   "pronunciation": "MEDIUM",
+   "gender": "HIGH",
+   "numerology": "MEDIUM",
+   "popularity": "UNKNOWN",
+   "faq": "HIGH",
+   "notable_people": "UNKNOWN",
+   "historical_references": "HIGH"
+  },
+  "data_quality": {
+   "source_was_thin": true,
+   "authenticity_flags": [],
+   "fields_total": 78
+  },
+  "created_at": "2025-06-29T09:02:52.166896",
+  "updated_at": "2026-10-01T10:45:00.000Z",
+  "tier1_verified": {
+   "name": "Aalim",
+   "slug": "aalim",
+   "meaning": "Scholar; learned person (ʿālim)",
+   "origin": "Arabic",
+   "language": [
+    "Arabic",
+    "Urdu",
+    "Persian",
+    "Pashto"
+   ],
+   "gender": "Male",
+   "root": "ع-ل-م (ʿ-l-m)",
+   "etymology": "Arabic ʿālim, active participle of ʿalima, 'to know'.",
+   "script": {
+    "arabic": "عالم",
+    "urdu": "عالم",
+    "hindi": "आलिम",
+    "pashto": "عالم"
+   },
+   "transliteration": "ʿĀlim",
+   "reference": "Arabic ʿālim, active participle of ʿalima, 'to know'; also a title for a religious scholar.",
+   "confidence": "HIGH"
+  },
+  "tier2_explanatory": {
+   "short_meaning": "Scholar; learned person (ʿālim)",
+   "long_meaning": "Aalim (عالم) is the Arabic ʿālim, 'scholar, learned person, one who knows'. It is a well-attested name and a title of respect for a religious scholar.",
+   "translations": {
+    "arabic": "Scholar; learned person",
+    "urdu": "Scholar; learned person",
+    "hindi": "Scholar; learned person",
+    "pashto": "Scholar; learned person",
+    "english": "Scholar; learned person (ʿālim)"
+   },
+   "pronunciation": {
+    "english": "AA-lim",
+    "ipa": "/ˈɑː.lɪm/"
+   },
+   "syllables": 2,
+   "name_length": 5,
+   "faqs": 15
+  },
+  "tier3_interpretive": {
+   "disclaimer": "The following fields are interpretive/optional associations derived from traditional numerology, not factual claims.",
+   "numerology": {
+    "lucky_number": 9,
+    "life_path_number": 9,
+    "ruling_planet": "Mars",
+    "lucky_day": "Tuesday",
+    "lucky_stone": "Red Coral",
+    "lucky_colors": [
+     "Red",
+     "Crimson"
+    ],
+    "numerology_meaning": "In Pythagorean numerology the letters of Aalim total 18, reducing to 9."
+   },
+   "personality_associations": [],
+   "spiritual_symbolism": ""
+  },
+  "verification": {
+   "needs_manual_verification": false,
+   "flags": [],
+   "confidence": "HIGH",
+   "sources": [
+    "Arabic ʿālim, active participle of ʿalima, 'to know'; also a title for a religious scholar."
+   ]
+  },
+  "nameverse": {
+   "pipeline": "NameVerse Production v5",
+   "methodology": "Original to Verified to Expanded to Enriched",
+   "tier1_verified": true,
+   "processed_at": "2026-10-01T10:45:00.000Z"
   }
+ }
 }

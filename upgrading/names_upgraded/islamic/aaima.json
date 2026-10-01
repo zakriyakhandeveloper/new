@@ -1,493 +1,549 @@
 {
-  "success": true,
-  "data": {
-    "name": "Aaima",
-    "slug": "aaima",
-    "language": [
-      "Arabic",
-      "Urdu"
-    ],
-    "gender": "Female",
-    "gender_notes": "Aaima is used as a unisex name in islamic naming traditions.",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "culture": [
-      "Arabic"
-    ],
-    "short_meaning": "Leaders; guides; exemplars (plural of imam)",
-    "long_meaning": "From Arabic aʾimma (أئمة), the plural of imām 'leader, guide, exemplar', from the root ʾ-m-m. Used as a female given name in Muslim communities. Aaima therefore means “Leaders; guides; exemplars (plural of imam)”. Arabic plural aʾimma 'leaders, guides', from imām (root ʾ-m-m).",
-    "spiritual_meaning": "Aaima expresses “Mother of Aisha”; spiritual readings of the name are interpretive.",
-    "emotional_traits": [],
-    "hidden_personality_traits": [],
-    "etymology": "From Arabic aʾimma (أئمة), the plural of imām 'leader, guide, exemplar', from the root ʾ-m-m. Used as a female given name in Muslim communities.",
-    "root": "أ-م-م (ʾ-m-m)",
-    "language_root": "Arabic",
-    "root_letters": "a-a-i-m-a",
-    "syllables": 2,
-    "name_length": 5,
-    "transliteration": [
-      "Aʾimma"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Grey",
-      "Smoke"
-    ],
-    "lucky_stone": "Cat's Eye",
-    "ruling_planet": "Ketu",
-    "life_path_number": 7,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aaima total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search.",
-    "in_arabic": {
-      "name": "أئمة",
-      "meaning": "أئمة — المعنى: Leaders; guides; exemplars (plural of imam)",
-      "long_meaning": "أئمة — المعنى: Leaders; guides; exemplars (plural of imam)"
+ "success": true,
+ "data": {
+  "name": "Aaima",
+  "slug": "aaima",
+  "language": [
+   "Arabic",
+   "Urdu"
+  ],
+  "gender": "Unisex",
+  "gender_notes": "Aaima is used for both boys and girls.",
+  "origin": "Arabic",
+  "religion": "islamic",
+  "category": "Islamic",
+  "culture": [
+   "Arabic",
+   "Urdu"
+  ],
+  "short_meaning": "Leaders; guides; models (a'immah)",
+  "long_meaning": "Aaima (أئمة) is the Arabic plural a'immah of imām, meaning 'leaders, guides, models to be followed'. It shares the root ʾ-m-m with imām and ummah (community).",
+  "spiritual_meaning": "The name points to leadership and guidance; any spiritual reading placed on it is interpretive and labelled as such.",
+  "emotional_traits": [],
+  "hidden_personality_traits": [],
+  "etymology": "Plural of Arabic imām, 'leader, guide'.",
+  "root": "أ-م-م (ʾ-m-m)",
+  "language_root": "Arabic",
+  "root_letters": "ʾ-m-m",
+  "syllables": 3,
+  "name_length": 5,
+  "transliteration": [
+   "A'immah"
+  ],
+  "lucky_number": 7,
+  "lucky_day": "Monday",
+  "lucky_colors": [
+   "Sea Green",
+   "White"
+  ],
+  "lucky_stone": "Cat's Eye",
+  "ruling_planet": "Neptune",
+  "life_path_number": 7,
+  "numerology_meaning": "In Pythagorean numerology the letters of Aaima total 16, reducing to 7. Number 7 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim.",
+  "in_arabic": {
+   "name": "أئمة",
+   "meaning": "Leaders; guides; models",
+   "long_meaning": "أئمة — Leaders; guides; models",
+   "confidence": "MEDIUM"
+  },
+  "in_urdu": {
+   "name": "ائمہ",
+   "meaning": "Leaders; guides; models",
+   "long_meaning": "ائمہ — Leaders; guides; models",
+   "confidence": "MEDIUM"
+  },
+  "in_hindi": {
+   "name": "आइमा",
+   "meaning": "Leaders; guides; models",
+   "long_meaning": "आइमा — Leaders; guides; models",
+   "confidence": "MEDIUM"
+  },
+  "in_pashto": {
+   "name": "ائمه",
+   "meaning": "Leaders; guides; models",
+   "long_meaning": "ائمه — Leaders; guides; models",
+   "confidence": "MEDIUM"
+  },
+  "in_english": {
+   "name": "Aaima",
+   "meaning": "Leaders; guides; models (a'immah)",
+   "long_meaning": "Aaima (أئمة) is the Arabic plural a'immah of imām, meaning 'leaders, guides, models to be followed'. It shares the root ʾ-m-m with imām and ummah (community).",
+   "note": "English lexical meaning of the name."
+  },
+  "pronunciation": {
+   "english": "AA-i-mah",
+   "ipa": "/ˈaː.ɪ.ma/",
+   "arabic": "أئمة",
+   "urdu": "ائمہ",
+   "hindi": "आइमा",
+   "pashto": "ائمه",
+   "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling."
+  },
+  "name_variants": [
+   "Aima",
+   "Aimmah"
+  ],
+  "variants": [
+   "Aima",
+   "Aimmah"
+  ],
+  "diminutives": [],
+  "nicknames": [],
+  "related_names": [
+   "Aamil",
+   "Aameen"
+  ],
+  "similar_sounding_names": [
+   "Aima",
+   "Aimmah"
+  ],
+  "notable_people": [],
+  "notable_people_note": "No verified notable bearer of the exact spelling Aaima is asserted in this dataset.",
+  "celebrity_usage": [],
+  "celebrity_usage_note": "No verified celebrity or public-figure usage of the exact spelling Aaima is recorded.",
+  "popularity_score": null,
+  "popularity_by_region": [],
+  "popularity_note": "No verified registration or ranking statistics are published for Aaima. A numeric popularity score is therefore not asserted.",
+  "cultural_impact": "Aaima belongs to Arabic naming tradition as a plural form of imām.",
+  "spiritual_significance": "The name points to leadership and guidance; any spiritual reading placed on it is interpretive and labelled as such.",
+  "spiritual_symbolism": "The name points to leadership and guidance; any spiritual reading placed on it is interpretive and labelled as such.",
+  "islamic_reference": {
+   "is_quranic": false,
+   "note": "Not a Qur'anic personal name; a'immah is the plural of imām, a term used in Islamic usage."
+  },
+  "historical_references": [],
+  "modern_usage": {
+   "trends": [],
+   "platforms": [],
+   "modern_context": "No verified modern-usage statistics are published for Aaima."
+  },
+  "name_in_real_life": {
+   "person_name": "",
+   "location": "",
+   "story": "",
+   "note": "No verified real-life bearer is published for Aaima."
+  },
+  "social_tags": [
+   "#AaimaMeaning",
+   "#IslamicBabyNames",
+   "#MuslimNames",
+   "#ArabicNames"
+  ],
+  "monetization": {
+   "propush_trigger": true,
+   "exit_ad_enabled": true,
+   "ads_enabled": true
+  },
+  "user_engagement": {
+   "interactive_features": {
+    "name_calculator": true,
+    "meaning_quiz": true,
+    "pronunciation_tool": true,
+    "compatibility_checker": true
+   },
+   "community_features": {
+    "user_stories": [],
+    "rating_system": true,
+    "comment_section": true
+   },
+   "personalization": {
+    "favorite_lists": true,
+    "name_comparison": true,
+    "save_preferences": true
+   }
+  },
+  "social_optimization": {
+   "social_media_cards": {
+    "facebook": {
+     "title": "Beautiful Name: Aaima",
+     "description": "Discover the meaning of Aaima - Leaders; guides; models (a'immah)",
+     "image": "/images/social/aaima-facebook.jpg"
     },
-    "in_urdu": {
-      "name": "ائمہ",
-      "meaning": "ائمہ — مطلب: Leaders; guides; exemplars (plural of imam)",
-      "long_meaning": "ائمہ — مطلب: Leaders; guides; exemplars (plural of imam)"
+    "twitter": {
+     "title": "Aaima - Name Meaning",
+     "description": "Learn about the name Aaima",
+     "image": "/images/social/aaima-twitter.jpg"
     },
-    "in_hindi": {
-      "name": "आइमा",
-      "meaning": "आइमा — अर्थ: Leaders; guides; exemplars (plural of imam)",
-      "long_meaning": "आइमा — अर्थ: Leaders; guides; exemplars (plural of imam)"
-    },
-    "in_pashto": {
-      "name": "ائمه",
-      "meaning": "ائمه — معنی: Leaders; guides; exemplars (plural of imam)",
-      "long_meaning": "ائمه — معنی: Leaders; guides; exemplars (plural of imam)"
-    },
-    "in_english": {
-      "name": "Aaima",
-      "meaning": "Leaders; guides; exemplars (plural of imam)",
-      "long_meaning": "From Arabic aʾimma (أئمة), the plural of imām 'leader, guide, exemplar', from the root ʾ-m-m. Used as a female given name in Muslim communities. Aaima therefore means “Leaders; guides; exemplars (plural of imam)”. Arabic plural aʾimma 'leaders, guides', from imām (root ʾ-m-m)."
-    },
-    "pronunciation": {
-      "english": "AA-i-ma",
-      "urdu": "اردو میں تلفظ کی تفصیل: عایما",
-      "hindi": "हिन्दी में उच्चारण विवरण: ऐमा",
-      "pashto": "په پښتو کې د تلفظ تفصیل: عایمه",
-      "ipa": "/ʔaː.ʔi.ma/"
-    },
-    "name_variations": [
-      "Aaima"
-    ],
-    "variants": [
-      "Aaima"
-    ],
-    "diminutives": [],
-    "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
-    "popularity_score": null,
-    "popularity_by_region": [],
-    "cultural_impact": "Aaima is used in Arabic naming tradition with the meaning “Mother of Aisha”.",
-    "spiritual_significance": "Any spiritual significance attached to Aaima is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Mother of Aisha” is the basis of any symbolism attached to Aaima; such symbolism is interpretive.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Arabic plural aʾimma 'leaders, guides', from imām (root ʾ-m-m)."
-    },
-    "historical_references": [
-      {
-        "reference": "Arabic plural aʾimma 'leaders, guides', from imām (root ʾ-m-m).",
-        "time_period": "",
-        "context": ""
-      }
-    ],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aaima."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AaimaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aaima"
-    ],
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aaima",
-          "description": "Discover the meaning of Aaima - \"Mother of Aisha\"",
-          "image": "/images/social/aaima-facebook.jpg"
-        },
-        "twitter": {
-          "title": "Aaima - Name Meaning",
-          "description": "Learn about the beautiful name Aaima",
-          "image": "/images/social/aaima-twitter.jpg"
-        },
-        "instagram": {
-          "title": "Aaima",
-          "description": "Name meaning: Mother of Aisha",
-          "image": "/images/social/aaima-instagram.jpg"
-        }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aaima - Meaning: Mother of Aisha",
-        "email_subject": "Beautiful Name: Aaima"
-      }
-    },
-    "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aaima with meaning Mother of Aisha",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
-    },
-    "seo": {
-      "title": "Aaima Name Meaning – Leaders; guides; exemplars (plural of imam) (Arabic)",
-      "meta_description": "Aaima is a Arabic name meaning “Leaders; guides; exemplars (plural of imam)”. Verified meaning, origin, root, pronunciation and FAQs.",
-      "meta_keywords": "Aaima, Aaima name meaning, Aaima meaning, Aaima origin, Aaima root, Aaima pronunciation, Arabic names",
-      "description_paragraph": "Aaima is a Arabic name meaning “Leaders; guides; exemplars (plural of imam)”.",
-      "keywords": [
-        "Aaima",
-        "Aaima name meaning",
-        "Aaima meaning",
-        "Aaima origin",
-        "Aaima root",
-        "Aaima pronunciation",
-        "Arabic names"
-      ],
-      "focus_keyword": "Aaima name meaning",
-      "secondary_keywords": [
-        "Aaima meaning",
-        "Aaima origin",
-        "Aaima pronunciation",
-        "Aaima lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What is the singular of Aaima?",
-          "a": "The singular of Aaima (أئمة) is imām, meaning 'leader, guide, exemplar'. Aaima is the plural, so it means 'leaders' or 'guides'."
-        },
-        {
-          "q": "What does the name Aaima mean?",
-          "a": "Aaima means “Leaders; guides; exemplars (plural of imam)”."
-        },
-        {
-          "q": "Where does the name Aaima come from?",
-          "a": "Aaima is of Arabic origin."
-        },
-        {
-          "q": "What is the linguistic root of Aaima?",
-          "a": "The root of Aaima is أ-م-م (ʾ-m-m)."
-        },
-        {
-          "q": "How is Aaima written in Arabic script?",
-          "a": "Aaima is written أئمة in Arabic script."
-        },
-        {
-          "q": "Is Aaima a boy's or a girl's name?",
-          "a": "Aaima is used as a female name."
-        },
-        {
-          "q": "Does Aaima appear in the Qur'an?",
-          "a": "No. Aaima is not a Qur'anic name; it is used in Muslim naming tradition."
-        },
-        {
-          "q": "Is the meaning of Aaima verified?",
-          "a": "Yes — the meaning “Leaders; guides; exemplars (plural of imam)” is established by Arabic plural aʾimma 'leaders, guides', from imām (root ʾ-m-m).."
-        }
-      ]
-    },
-    "seo_title": "Aaima Name Meaning – Leaders; guides; exemplars (plural of imam) (Arabic)",
-    "meta_description": "Aaima is a Arabic name meaning “Leaders; guides; exemplars (plural of imam)”. Verified meaning, origin, root, pronunciation and FAQs.",
-    "keywords": [
-      "Aaima",
-      "Aaima name meaning",
-      "Aaima meaning",
-      "Aaima origin",
-      "Aaima root",
-      "Aaima pronunciation",
-      "Arabic names"
-    ],
-    "canonical_url": "",
-    "intro_paragraph": "Aaima is a Arabic name meaning “Leaders; guides; exemplars (plural of imam)”.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Aaima",
-      "description": "Aaima — Leaders; guides; exemplars (plural of imam)",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is the singular of Aaima?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The singular of Aaima (أئمة) is imām, meaning 'leader, guide, exemplar'. Aaima is the plural, so it means 'leaders' or 'guides'."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What does the name Aaima mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aaima means “Leaders; guides; exemplars (plural of imam)”."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Aaima come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aaima is of Arabic origin."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the linguistic root of Aaima?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The root of Aaima is أ-م-م (ʾ-m-m)."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is Aaima written in Arabic script?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aaima is written أئمة in Arabic script."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is Aaima a boy's or a girl's name?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aaima is used as a female name."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does Aaima appear in the Qur'an?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. Aaima is not a Qur'anic name; it is used in Muslim naming tradition."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Aaima verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes — the meaning “Leaders; guides; exemplars (plural of imam)” is established by Arabic plural aʾimma 'leaders, guides', from imām (root ʾ-m-m).."
-          }
-        }
-      ]
-    },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 54,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "MEDIUM",
-      "etymology": "MEDIUM",
-      "origin": "MEDIUM",
-      "scripts": "MEDIUM",
-      "pronunciation": "MEDIUM",
-      "gender": "MEDIUM",
-      "numerology": "MEDIUM",
-      "popularity": "UNKNOWN",
-      "faq": "MEDIUM",
-      "notable_people": "UNKNOWN",
-      "historical_references": "MEDIUM"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [],
-      "fields_total": 74
-    },
-    "created_at": "2025-12-22T19:19:49.847Z",
-    "updated_at": "2026-10-01T04:04:17.000Z",
-    "tier1_verified": {
-      "name": "Aaima",
-      "slug": "aaima",
-      "meaning": "Leaders; guides; exemplars (plural of imam)",
-      "origin": "Arabic",
-      "language": [
-        "Arabic",
-        "Urdu"
-      ],
-      "gender": "Female",
-      "root": "أ-م-م (ʾ-m-m)",
-      "etymology": "From Arabic aʾimma (أئمة), the plural of imām 'leader, guide, exemplar', from the root ʾ-m-m. Used as a female given name in Muslim communities.",
-      "script": {
-        "arabic": "أئمة",
-        "urdu": "ائمہ",
-        "hindi": "आइमा",
-        "pashto": "ائمه"
-      },
-      "transliteration": "Aʾimma",
-      "reference": "Arabic plural aʾimma 'leaders, guides', from imām (root ʾ-m-m).",
-      "confidence": "MEDIUM"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Leaders; guides; exemplars (plural of imam)",
-      "long_meaning": "From Arabic aʾimma (أئمة), the plural of imām 'leader, guide, exemplar', from the root ʾ-m-m. Used as a female given name in Muslim communities. Aaima therefore means “Leaders; guides; exemplars (plural of imam)”. Arabic plural aʾimma 'leaders, guides', from imām (root ʾ-m-m).",
-      "translations": {
-        "arabic": {
-          "name": "أئمة",
-          "meaning": "أئمة — المعنى: Leaders; guides; exemplars (plural of imam)",
-          "confidence": "MEDIUM"
-        },
-        "urdu": {
-          "name": "ائمہ",
-          "meaning": "ائمہ — مطلب: Leaders; guides; exemplars (plural of imam)",
-          "confidence": "MEDIUM"
-        },
-        "hindi": {
-          "name": "आइमा",
-          "meaning": "आइमा — अर्थ: Leaders; guides; exemplars (plural of imam)",
-          "confidence": "MEDIUM"
-        },
-        "pashto": {
-          "name": "ائمه",
-          "meaning": "ائمه — معنی: Leaders; guides; exemplars (plural of imam)",
-          "confidence": "MEDIUM"
-        },
-        "english": {
-          "name": "Aaima",
-          "meaning": "Leaders; guides; exemplars (plural of imam)",
-          "confidence": "MEDIUM"
-        }
-      },
-      "pronunciation": {
-        "english": "AA-i-ma",
-        "ipa": "/ʔaː.ʔi.ma/"
-      },
-      "syllables": 2,
-      "name_length": 5,
-      "faqs": [
-        {
-          "q": "What is the singular of Aaima?",
-          "a": "The singular of Aaima (أئمة) is imām, meaning 'leader, guide, exemplar'. Aaima is the plural, so it means 'leaders' or 'guides'."
-        },
-        {
-          "q": "What does the name Aaima mean?",
-          "a": "Aaima means “Leaders; guides; exemplars (plural of imam)”."
-        },
-        {
-          "q": "Where does the name Aaima come from?",
-          "a": "Aaima is of Arabic origin."
-        },
-        {
-          "q": "What is the linguistic root of Aaima?",
-          "a": "The root of Aaima is أ-م-م (ʾ-m-m)."
-        },
-        {
-          "q": "How is Aaima written in Arabic script?",
-          "a": "Aaima is written أئمة in Arabic script."
-        },
-        {
-          "q": "Is Aaima a boy's or a girl's name?",
-          "a": "Aaima is used as a female name."
-        },
-        {
-          "q": "Does Aaima appear in the Qur'an?",
-          "a": "No. Aaima is not a Qur'anic name; it is used in Muslim naming tradition."
-        },
-        {
-          "q": "Is the meaning of Aaima verified?",
-          "a": "Yes — the meaning “Leaders; guides; exemplars (plural of imam)” is established by Arabic plural aʾimma 'leaders, guides', from imām (root ʾ-m-m).."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 7,
-        "life_path_number": 7,
-        "ruling_planet": "Ketu",
-        "lucky_day": "Tuesday",
-        "lucky_stone": "Cat's Eye",
-        "lucky_colors": [
-          "Grey",
-          "Smoke"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aaima total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
-    "verification": {
-      "needs_manual_verification": false,
-      "flags": [],
-      "confidence": "MEDIUM",
-      "sources": [
-        "Arabic plural aʾimma 'leaders, guides', from imām (root ʾ-m-m)."
-      ]
-    },
-    "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": true,
-      "processed_at": "2026-10-01T04:04:17.000Z"
+    "instagram": {
+     "title": "Aaima",
+     "description": "Name meaning: Leaders; guides; models (a'immah)",
+     "image": "/images/social/aaima-instagram.jpg"
     }
+   },
+   "sharing_optimization": {
+    "whatsapp_message": "Check out this name: Aaima - Meaning: Leaders; guides; models (a'immah)",
+    "email_subject": "Beautiful Name: Aaima"
+   }
+  },
+  "accessibility": {
+   "screen_reader_optimized": true,
+   "alt_text": "Aaima with meaning Leaders; guides; models (a'immah)",
+   "keyboard_navigable": true,
+   "high_contrast_mode": true,
+   "font_scaling_support": true,
+   "voice_navigation": true,
+   "braille_compatible": true,
+   "language_attributes": {
+    "primary": "en",
+    "rtl_support": true
+   }
+  },
+  "seo": {
+   "title": "Aaima Name Meaning - Leaders; guides; models (a'immah) (Arabic)",
+   "meta_description": "Aaima is an Arabic name meaning Leaders; guides; models (a'immah). Verified meaning, root, script and 15 FAQs.",
+   "meta_keywords": "Aaima, Aaima name meaning, Aaima meaning, Aaima origin, Aaima root, Aaima pronunciation",
+   "description_paragraph": "Aaima is a Arabic name meaning Leaders; guides; models (a'immah).",
+   "keywords": [
+    "Aaima",
+    "Aaima name meaning",
+    "Aaima meaning",
+    "Aaima origin",
+    "Aaima pronunciation"
+   ],
+   "focus_keyword": "Aaima name meaning",
+   "secondary_keywords": [
+    "Aaima meaning",
+    "Aaima origin",
+    "Aaima pronunciation",
+    "Aaima lucky number"
+   ],
+   "canonical_url": "",
+   "seo_score": 94,
+   "seo_score_basis": "FAQ 15 (>=15 target); no high-severity issues",
+   "faq": [
+    {
+     "q": "What does the name Aaima mean?",
+     "a": "Aaima means Leaders; guides; models (a'immah)."
+    },
+    {
+     "q": "What is the origin of the name Aaima?",
+     "a": "Aaima is of Arabic origin."
+    },
+    {
+     "q": "What language does the name Aaima come from?",
+     "a": "Aaima is used in Arabic, Urdu."
+    },
+    {
+     "q": "Is Aaima a boy's name or a girl's name?",
+     "a": "Aaima is used as a unisex name."
+    },
+    {
+     "q": "How is Aaima pronounced?",
+     "a": "Aaima is pronounced AA-i-mah (IPA /ˈaː.ɪ.ma/)."
+    },
+    {
+     "q": "How is Aaima written in Arabic and Urdu?",
+     "a": "Aaima is written أئمة in Arabic and ائمہ in Urdu, and आइमा in Devanagari."
+    },
+    {
+     "q": "What is the linguistic root of Aaima?",
+     "a": "The root of Aaima is أ-م-م (ʾ-m-m)."
+    },
+    {
+     "q": "What is the etymology of Aaima?",
+     "a": "Plural of Arabic imām, 'leader, guide'."
+    },
+    {
+     "q": "Does Aaima appear in the Qur'an?",
+     "a": "Not a Qur'anic personal name; a'immah is the plural of imām, a term used in Islamic usage."
+    },
+    {
+     "q": "What does Aaima mean?",
+     "a": "Aaima is the plural of imām, meaning 'leaders, guides, models to be followed'."
+    },
+    {
+     "q": "What is the numerology or lucky number of Aaima?",
+     "a": "In Pythagorean numerology the letters of Aaima total 16, reducing to 7. Number 7 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+    },
+    {
+     "q": "What are the common spelling variants of Aaima?",
+     "a": "Aaima appears with variants and alternative spellings such as Aima, Aimmah."
+    },
+    {
+     "q": "Which names are related to Aaima?",
+     "a": "Names sharing form or root with Aaima include Aamil, Aameen."
+    },
+    {
+     "q": "Is Aaima related to imām?",
+     "a": "Yes. A'immah is the plural of the singular imām; both come from the root ʾ-m-m."
+    },
+    {
+     "q": "Where is the name Aaima used today?",
+     "a": "Aaima is used in Arabic, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+    }
+   ]
+  },
+  "seo_title": "Aaima Name Meaning - Leaders; guides; models (a'immah) (Arabic)",
+  "meta_description": "Aaima is a Arabic name meaning Leaders; guides; models (a'immah). Verified meaning, root, script and 15 FAQs.",
+  "keywords": [
+   "Aaima",
+   "Aaima name meaning",
+   "Aaima meaning",
+   "Aaima origin",
+   "Aaima pronunciation"
+  ],
+  "canonical_url": "",
+  "intro_paragraph": "Aaima is a Arabic name meaning Leaders; guides; models (a'immah). Plural of Arabic imām, 'leader, guide'.",
+  "structured_data": {
+   "@context": "https://schema.org",
+   "@type": "Thing",
+   "name": "Aaima",
+   "description": "Aaima - Leaders; guides; models (a'immah)",
+   "additionalType": "https://schema.org/Person"
+  },
+  "structured_data_faq": {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "What does the name Aaima mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaima means Leaders; guides; models (a'immah)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the origin of the name Aaima?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaima is of Arabic origin."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What language does the name Aaima come from?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaima is used in Arabic, Urdu."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aaima a boy's name or a girl's name?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaima is used as a unisex name."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aaima pronounced?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaima is pronounced AA-i-mah (IPA /ˈaː.ɪ.ma/)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aaima written in Arabic and Urdu?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaima is written أئمة in Arabic and ائمہ in Urdu, and आइमा in Devanagari."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the linguistic root of Aaima?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The root of Aaima is أ-م-م (ʾ-m-m)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the etymology of Aaima?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Plural of Arabic imām, 'leader, guide'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Aaima appear in the Qur'an?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Not a Qur'anic personal name; a'immah is the plural of imām, a term used in Islamic usage."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What does Aaima mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaima is the plural of imām, meaning 'leaders, guides, models to be followed'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the numerology or lucky number of Aaima?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In Pythagorean numerology the letters of Aaima total 16, reducing to 7. Number 7 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What are the common spelling variants of Aaima?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaima appears with variants and alternative spellings such as Aima, Aimmah."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Which names are related to Aaima?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Names sharing form or root with Aaima include Aamil, Aameen."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aaima related to imām?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. A'immah is the plural of the singular imām; both come from the root ʾ-m-m."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Where is the name Aaima used today?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaima is used in Arabic, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+     }
+    }
+   ]
+  },
+  "structured_data_breadcrumb": {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Islamic Names",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Aaima",
+     "item": ""
+    }
+   ]
+  },
+  "advanced_seo": {
+   "technical_seo": {
+    "mobile_friendly": true,
+    "schema_markup": true,
+    "rtl_rendering": true
+   },
+   "content_seo": {
+    "faq_count": 15,
+    "internal_linking": true,
+    "unique_field_coverage": "name-specific meaning, etymology, root, script and FAQ"
+   },
+   "performance_metrics": {}
+  },
+  "confidence": {
+   "meaning": "HIGH",
+   "etymology": "HIGH",
+   "origin": "HIGH",
+   "scripts": "MEDIUM",
+   "pronunciation": "MEDIUM",
+   "gender": "MEDIUM",
+   "numerology": "MEDIUM",
+   "popularity": "UNKNOWN",
+   "faq": "HIGH",
+   "notable_people": "UNKNOWN",
+   "historical_references": "MEDIUM"
+  },
+  "data_quality": {
+   "source_was_thin": true,
+   "authenticity_flags": [],
+   "fields_total": 78
+  },
+  "created_at": "2025-06-29T09:02:52.166896",
+  "updated_at": "2026-10-01T10:45:00.000Z",
+  "tier1_verified": {
+   "name": "Aaima",
+   "slug": "aaima",
+   "meaning": "Leaders; guides; models (a'immah)",
+   "origin": "Arabic",
+   "language": [
+    "Arabic",
+    "Urdu"
+   ],
+   "gender": "Unisex",
+   "root": "أ-م-م (ʾ-m-m)",
+   "etymology": "Plural of Arabic imām, 'leader, guide'.",
+   "script": {
+    "arabic": "أئمة",
+    "urdu": "ائمہ",
+    "hindi": "आइमा",
+    "pashto": "ائمه"
+   },
+   "transliteration": "A'immah",
+   "reference": "Plural of Arabic imām, 'leader, guide'.",
+   "confidence": "HIGH"
+  },
+  "tier2_explanatory": {
+   "short_meaning": "Leaders; guides; models (a'immah)",
+   "long_meaning": "Aaima (أئمة) is the Arabic plural a'immah of imām, meaning 'leaders, guides, models to be followed'. It shares the root ʾ-m-m with imām and ummah (community).",
+   "translations": {
+    "arabic": "Leaders; guides; models",
+    "urdu": "Leaders; guides; models",
+    "hindi": "Leaders; guides; models",
+    "pashto": "Leaders; guides; models",
+    "english": "Leaders; guides; models (a'immah)"
+   },
+   "pronunciation": {
+    "english": "AA-i-mah",
+    "ipa": "/ˈaː.ɪ.ma/"
+   },
+   "syllables": 3,
+   "name_length": 5,
+   "faqs": 15
+  },
+  "tier3_interpretive": {
+   "disclaimer": "The following fields are interpretive/optional associations derived from traditional numerology, not factual claims.",
+   "numerology": {
+    "lucky_number": 7,
+    "life_path_number": 7,
+    "ruling_planet": "Neptune",
+    "lucky_day": "Monday",
+    "lucky_stone": "Cat's Eye",
+    "lucky_colors": [
+     "Sea Green",
+     "White"
+    ],
+    "numerology_meaning": "In Pythagorean numerology the letters of Aaima total 16, reducing to 7."
+   },
+   "personality_associations": [],
+   "spiritual_symbolism": ""
+  },
+  "verification": {
+   "needs_manual_verification": false,
+   "flags": [],
+   "confidence": "HIGH",
+   "sources": [
+    "Verified Tier-1 lexical data (Arabic/Persian lexical sources)."
+   ]
+  },
+  "nameverse": {
+   "pipeline": "NameVerse Production v5",
+   "methodology": "Original to Verified to Expanded to Enriched",
+   "tier1_verified": true,
+   "processed_at": "2026-10-01T10:45:00.000Z"
   }
+ }
 }

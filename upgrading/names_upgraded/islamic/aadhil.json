@@ -1,493 +1,555 @@
 {
-  "success": true,
-  "data": {
-    "name": "Aadhil",
-    "slug": "aadhil",
-    "language": [
-      "Arabic",
-      "Urdu"
-    ],
-    "gender": "Male",
-    "gender_notes": "Aadhil is used as a male name in islamic naming traditions.",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "culture": [
-      "Arabic"
-    ],
-    "short_meaning": "Just; fair; honourable; one who judges fairly",
-    "long_meaning": "Variant spelling of Arabic ʿādil (عادل) 'just, fair, equitable', the active participle of ʿadala 'to act justly', from the root ʿ-d-l which also gives ʿadl 'justice'. Aadhil therefore means “Just; fair; honourable; one who judges fairly”. Arabic active participle ʿādil 'just, fair'; spelling variant of Aadil.",
-    "spiritual_meaning": "Aadhil expresses “Close friend”; spiritual readings of the name are interpretive.",
-    "emotional_traits": [],
-    "hidden_personality_traits": [],
-    "etymology": "Variant spelling of Arabic ʿādil (عادل) 'just, fair, equitable', the active participle of ʿadala 'to act justly', from the root ʿ-d-l which also gives ʿadl 'justice'.",
-    "root": "ع-د-ل (ʿ-d-l)",
-    "language_root": "Arabic",
-    "root_letters": "a-a-d-h-i-l",
-    "syllables": 2,
-    "name_length": 6,
-    "transliteration": [
-      "ʿĀdhil"
-    ],
-    "lucky_number": 8,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Blue",
-      "Black"
-    ],
-    "lucky_stone": "Blue Sapphire",
-    "ruling_planet": "Saturn",
-    "life_path_number": 8,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aadhil total 26, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-    "in_arabic": {
-      "name": "عادل",
-      "meaning": "عادل — المعنى: Just; fair; honourable; one who judges fairly",
-      "long_meaning": "عادل — المعنى: Just; fair; honourable; one who judges fairly"
+ "success": true,
+ "data": {
+  "name": "Aadhil",
+  "slug": "aadhil",
+  "language": [
+   "Arabic",
+   "Urdu"
+  ],
+  "gender": "Male",
+  "gender_notes": "Aadhil is used as a male name.",
+  "origin": "Arabic",
+  "religion": "islamic",
+  "category": "Islamic",
+  "culture": [
+   "Arabic",
+   "Urdu"
+  ],
+  "short_meaning": "Just; fair; honest (ʿādil)",
+  "long_meaning": "Aadhil (عادل) is a transliteration of the Arabic ʿādil, 'just, fair, equitable', the active participle of ʿadala, 'to act justly'. It is a well-attested name from the root ʿ-d-l, the root of ʿadl, 'justice'.",
+  "spiritual_meaning": "The name holds up justice as its ideal; any spiritual reading placed on it is interpretive and labelled as such.",
+  "emotional_traits": [],
+  "hidden_personality_traits": [],
+  "etymology": "Arabic ʿādil, active participle of ʿadala, 'to act justly'.",
+  "root": "ع-د-ل (ʿ-d-l)",
+  "language_root": "Arabic",
+  "root_letters": "ʿ-d-l",
+  "syllables": 2,
+  "name_length": 6,
+  "transliteration": [
+   "ʿĀdil"
+  ],
+  "lucky_number": 8,
+  "lucky_day": "Saturday",
+  "lucky_colors": [
+   "Blue",
+   "Black"
+  ],
+  "lucky_stone": "Blue Sapphire",
+  "ruling_planet": "Saturn",
+  "life_path_number": 8,
+  "numerology_meaning": "In Pythagorean numerology the letters of Aadhil total 26, reducing to 8. Number 8 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim.",
+  "in_arabic": {
+   "name": "عادل",
+   "meaning": "Just; fair; honest",
+   "long_meaning": "عادل — Just; fair; honest",
+   "confidence": "HIGH"
+  },
+  "in_urdu": {
+   "name": "عادل",
+   "meaning": "Just; fair; honest",
+   "long_meaning": "عادل — Just; fair; honest",
+   "confidence": "HIGH"
+  },
+  "in_hindi": {
+   "name": "आदिल",
+   "meaning": "Just; fair; honest",
+   "long_meaning": "आदिल — Just; fair; honest",
+   "confidence": "MEDIUM"
+  },
+  "in_pashto": {
+   "name": "عادل",
+   "meaning": "Just; fair; honest",
+   "long_meaning": "عادل — Just; fair; honest",
+   "confidence": "MEDIUM"
+  },
+  "in_english": {
+   "name": "Aadhil",
+   "meaning": "Just; fair; honest (ʿādil)",
+   "long_meaning": "Aadhil (عادل) is a transliteration of the Arabic ʿādil, 'just, fair, equitable', the active participle of ʿadala, 'to act justly'. It is a well-attested name from the root ʿ-d-l, t",
+   "note": "English lexical meaning of the name."
+  },
+  "pronunciation": {
+   "english": "AA-dhil",
+   "ipa": "/ˈʕaː.dil/",
+   "arabic": "عادل",
+   "urdu": "عادل",
+   "hindi": "आदिल",
+   "pashto": "عادل",
+   "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling."
+  },
+  "name_variants": [
+   "Adil",
+   "Aadil"
+  ],
+  "variants": [
+   "Adil",
+   "Aadil"
+  ],
+  "diminutives": [],
+  "nicknames": [],
+  "related_names": [
+   "Aadil",
+   "Aadila"
+  ],
+  "similar_sounding_names": [
+   "Aadil",
+   "Adil"
+  ],
+  "notable_people": [],
+  "notable_people_note": "No verified notable bearer of the exact spelling Aadhil is asserted in this dataset.",
+  "celebrity_usage": [],
+  "celebrity_usage_note": "No verified celebrity or public-figure usage of the exact spelling Aadhil is recorded.",
+  "popularity_score": null,
+  "popularity_by_region": [],
+  "popularity_note": "No verified registration or ranking statistics are published for Aadhil. A numeric popularity score is therefore not asserted.",
+  "cultural_impact": "Aadhil belongs to Arabic naming tradition with the sense of justice.",
+  "spiritual_significance": "The name holds up justice as its ideal; any spiritual reading placed on it is interpretive and labelled as such.",
+  "spiritual_symbolism": "The name holds up justice as its ideal; any spiritual reading placed on it is interpretive and labelled as such.",
+  "islamic_reference": {
+   "is_quranic": false,
+   "note": "Not a Qur'anic personal name; ʿādil is Arabic vocabulary from the root ʿ-d-l."
+  },
+  "historical_references": [
+   {
+    "reference": "Arabic ʿādil, 'just, equitable', the active participle of ʿadala; the root also yields ʿadl, 'justice'.",
+    "time_period": "Classical Arabic",
+    "context": "Standard Arabic vocabulary used as a personal name."
+   }
+  ],
+  "modern_usage": {
+   "trends": [],
+   "platforms": [],
+   "modern_context": "No verified modern-usage statistics are published for Aadhil."
+  },
+  "name_in_real_life": {
+   "person_name": "",
+   "location": "",
+   "story": "",
+   "note": "No verified real-life bearer is published for Aadhil."
+  },
+  "social_tags": [
+   "#AadhilMeaning",
+   "#IslamicBabyNames",
+   "#MuslimNames",
+   "#ArabicNames"
+  ],
+  "monetization": {
+   "propush_trigger": true,
+   "exit_ad_enabled": true,
+   "ads_enabled": true
+  },
+  "user_engagement": {
+   "interactive_features": {
+    "name_calculator": true,
+    "meaning_quiz": true,
+    "pronunciation_tool": true,
+    "compatibility_checker": true
+   },
+   "community_features": {
+    "user_stories": [],
+    "rating_system": true,
+    "comment_section": true
+   },
+   "personalization": {
+    "favorite_lists": true,
+    "name_comparison": true,
+    "save_preferences": true
+   }
+  },
+  "social_optimization": {
+   "social_media_cards": {
+    "facebook": {
+     "title": "Beautiful Name: Aadhil",
+     "description": "Discover the meaning of Aadhil - Just; fair; honest (ʿādil)",
+     "image": "/images/social/aadhil-facebook.jpg"
     },
-    "in_urdu": {
-      "name": "عادل",
-      "meaning": "عادل — مطلب: Just; fair; honourable; one who judges fairly",
-      "long_meaning": "عادل — مطلب: Just; fair; honourable; one who judges fairly"
+    "twitter": {
+     "title": "Aadhil - Name Meaning",
+     "description": "Learn about the name Aadhil",
+     "image": "/images/social/aadhil-twitter.jpg"
     },
-    "in_hindi": {
-      "name": "आदिल",
-      "meaning": "आदिल — अर्थ: Just; fair; honourable; one who judges fairly",
-      "long_meaning": "आदिल — अर्थ: Just; fair; honourable; one who judges fairly"
-    },
-    "in_pashto": {
-      "name": "عادل",
-      "meaning": "عادل — معنی: Just; fair; honourable; one who judges fairly",
-      "long_meaning": "عادل — معنی: Just; fair; honourable; one who judges fairly"
-    },
-    "in_english": {
-      "name": "Aadhil",
-      "meaning": "Just; fair; honourable; one who judges fairly",
-      "long_meaning": "Variant spelling of Arabic ʿādil (عادل) 'just, fair, equitable', the active participle of ʿadala 'to act justly', from the root ʿ-d-l which also gives ʿadl 'justice'. Aadhil therefore means “Just; fair; honourable; one who judges fairly”. Arabic active participle ʿādil 'just, fair'; spelling variant of Aadil."
-    },
-    "pronunciation": {
-      "english": "AA-dhil",
-      "urdu": "اردو میں تلفظ کی تفصیل: عادل",
-      "hindi": "हिन्दी में उच्चारण विवरण: आदिल",
-      "pashto": "په پښتو کې د تلفظ تفصیل: عادل",
-      "ipa": "/ʕaː.ðil/"
-    },
-    "name_variations": [
-      "Aadhil"
-    ],
-    "variants": [
-      "Aadhil"
-    ],
-    "diminutives": [],
-    "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
-    "popularity_score": null,
-    "popularity_by_region": [],
-    "cultural_impact": "Aadhil is used in Arabic naming tradition with the meaning “Close friend”.",
-    "spiritual_significance": "Any spiritual significance attached to Aadhil is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Close friend” is the basis of any symbolism attached to Aadhil; such symbolism is interpretive.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Arabic active participle ʿādil 'just, fair'; spelling variant of Aadil."
-    },
-    "historical_references": [
-      {
-        "reference": "Arabic active participle ʿādil 'just, fair'; spelling variant of Aadil.",
-        "time_period": "",
-        "context": ""
-      }
-    ],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aadhil."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AadhilMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aadhil"
-    ],
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aadhil",
-          "description": "Discover the meaning of Aadhil - \"Close friend\"",
-          "image": "/images/social/aadhil-facebook.jpg"
-        },
-        "twitter": {
-          "title": "Aadhil - Name Meaning",
-          "description": "Learn about the beautiful name Aadhil",
-          "image": "/images/social/aadhil-twitter.jpg"
-        },
-        "instagram": {
-          "title": "Aadhil",
-          "description": "Name meaning: Close friend",
-          "image": "/images/social/aadhil-instagram.jpg"
-        }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aadhil - Meaning: Close friend",
-        "email_subject": "Beautiful Name: Aadhil"
-      }
-    },
-    "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aadhil with meaning Close friend",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
-    },
-    "seo": {
-      "title": "Aadhil Name Meaning – Just; fair; honourable; one who judges fairly (Arabic)",
-      "meta_description": "Aadhil is a Arabic name meaning “Just; fair; honourable; one who judges fairly”. Verified meaning, origin, root, pronunciation and FAQs.",
-      "meta_keywords": "Aadhil, Aadhil name meaning, Aadhil meaning, Aadhil origin, Aadhil root, Aadhil pronunciation, Arabic names",
-      "description_paragraph": "Aadhil is a Arabic name meaning “Just; fair; honourable; one who judges fairly”.",
-      "keywords": [
-        "Aadhil",
-        "Aadhil name meaning",
-        "Aadhil meaning",
-        "Aadhil origin",
-        "Aadhil root",
-        "Aadhil pronunciation",
-        "Arabic names"
-      ],
-      "focus_keyword": "Aadhil name meaning",
-      "secondary_keywords": [
-        "Aadhil meaning",
-        "Aadhil origin",
-        "Aadhil pronunciation",
-        "Aadhil lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "Is Aadhil the same name as Aadil?",
-          "a": "Yes - Aadhil and Aadil are two English spellings of the same Arabic name عادل, meaning 'just, fair'. The -dh- is a transliteration choice for the Arabic letter ض/د sound."
-        },
-        {
-          "q": "What does the name Aadhil mean?",
-          "a": "Aadhil means “Just; fair; honourable; one who judges fairly”."
-        },
-        {
-          "q": "Where does the name Aadhil come from?",
-          "a": "Aadhil is of Arabic origin."
-        },
-        {
-          "q": "What is the linguistic root of Aadhil?",
-          "a": "The root of Aadhil is ع-د-ل (ʿ-d-l)."
-        },
-        {
-          "q": "How is Aadhil written in Arabic script?",
-          "a": "Aadhil is written عادل in Arabic script."
-        },
-        {
-          "q": "Is Aadhil a boy's or a girl's name?",
-          "a": "Aadhil is used as a male name."
-        },
-        {
-          "q": "Does Aadhil appear in the Qur'an?",
-          "a": "No. Aadhil is not a Qur'anic name; it is used in Muslim naming tradition."
-        },
-        {
-          "q": "Is the meaning of Aadhil verified?",
-          "a": "Yes — the meaning “Just; fair; honourable; one who judges fairly” is established by Arabic active participle ʿādil 'just, fair'; spelling variant of Aadil.."
-        }
-      ]
-    },
-    "seo_title": "Aadhil Name Meaning – Just; fair; honourable; one who judges fairly (Arabic)",
-    "meta_description": "Aadhil is a Arabic name meaning “Just; fair; honourable; one who judges fairly”. Verified meaning, origin, root, pronunciation and FAQs.",
-    "keywords": [
-      "Aadhil",
-      "Aadhil name meaning",
-      "Aadhil meaning",
-      "Aadhil origin",
-      "Aadhil root",
-      "Aadhil pronunciation",
-      "Arabic names"
-    ],
-    "canonical_url": "",
-    "intro_paragraph": "Aadhil is a Arabic name meaning “Just; fair; honourable; one who judges fairly”.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Aadhil",
-      "description": "Aadhil — Just; fair; honourable; one who judges fairly",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Is Aadhil the same name as Aadil?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes - Aadhil and Aadil are two English spellings of the same Arabic name عادل, meaning 'just, fair'. The -dh- is a transliteration choice for the Arabic letter ض/د sound."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What does the name Aadhil mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aadhil means “Just; fair; honourable; one who judges fairly”."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Aadhil come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aadhil is of Arabic origin."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the linguistic root of Aadhil?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The root of Aadhil is ع-د-ل (ʿ-d-l)."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is Aadhil written in Arabic script?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aadhil is written عادل in Arabic script."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is Aadhil a boy's or a girl's name?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aadhil is used as a male name."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does Aadhil appear in the Qur'an?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. Aadhil is not a Qur'anic name; it is used in Muslim naming tradition."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Aadhil verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes — the meaning “Just; fair; honourable; one who judges fairly” is established by Arabic active participle ʿādil 'just, fair'; spelling variant of Aadil.."
-          }
-        }
-      ]
-    },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 52,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "HIGH",
-      "etymology": "HIGH",
-      "origin": "HIGH",
-      "scripts": "HIGH",
-      "pronunciation": "MEDIUM",
-      "gender": "HIGH",
-      "numerology": "MEDIUM",
-      "popularity": "UNKNOWN",
-      "faq": "MEDIUM",
-      "notable_people": "UNKNOWN",
-      "historical_references": "HIGH"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [],
-      "fields_total": 74
-    },
-    "created_at": "2025-12-22T19:19:49.928Z",
-    "updated_at": "2026-10-01T04:04:17.000Z",
-    "tier1_verified": {
-      "name": "Aadhil",
-      "slug": "aadhil",
-      "meaning": "Just; fair; honourable; one who judges fairly",
-      "origin": "Arabic",
-      "language": [
-        "Arabic",
-        "Urdu"
-      ],
-      "gender": "Male",
-      "root": "ع-د-ل (ʿ-d-l)",
-      "etymology": "Variant spelling of Arabic ʿādil (عادل) 'just, fair, equitable', the active participle of ʿadala 'to act justly', from the root ʿ-d-l which also gives ʿadl 'justice'.",
-      "script": {
-        "arabic": "عادل",
-        "urdu": "عادل",
-        "hindi": "आदिल",
-        "pashto": "عادل"
-      },
-      "transliteration": "ʿĀdhil",
-      "reference": "Arabic active participle ʿādil 'just, fair'; spelling variant of Aadil.",
-      "confidence": "HIGH"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Just; fair; honourable; one who judges fairly",
-      "long_meaning": "Variant spelling of Arabic ʿādil (عادل) 'just, fair, equitable', the active participle of ʿadala 'to act justly', from the root ʿ-d-l which also gives ʿadl 'justice'. Aadhil therefore means “Just; fair; honourable; one who judges fairly”. Arabic active participle ʿādil 'just, fair'; spelling variant of Aadil.",
-      "translations": {
-        "arabic": {
-          "name": "عادل",
-          "meaning": "عادل — المعنى: Just; fair; honourable; one who judges fairly",
-          "confidence": "HIGH"
-        },
-        "urdu": {
-          "name": "عادل",
-          "meaning": "عادل — مطلب: Just; fair; honourable; one who judges fairly",
-          "confidence": "HIGH"
-        },
-        "hindi": {
-          "name": "आदिल",
-          "meaning": "आदिल — अर्थ: Just; fair; honourable; one who judges fairly",
-          "confidence": "HIGH"
-        },
-        "pashto": {
-          "name": "عادل",
-          "meaning": "عادل — معنی: Just; fair; honourable; one who judges fairly",
-          "confidence": "HIGH"
-        },
-        "english": {
-          "name": "Aadhil",
-          "meaning": "Just; fair; honourable; one who judges fairly",
-          "confidence": "HIGH"
-        }
-      },
-      "pronunciation": {
-        "english": "AA-dhil",
-        "ipa": "/ʕaː.ðil/"
-      },
-      "syllables": 2,
-      "name_length": 6,
-      "faqs": [
-        {
-          "q": "Is Aadhil the same name as Aadil?",
-          "a": "Yes - Aadhil and Aadil are two English spellings of the same Arabic name عادل, meaning 'just, fair'. The -dh- is a transliteration choice for the Arabic letter ض/د sound."
-        },
-        {
-          "q": "What does the name Aadhil mean?",
-          "a": "Aadhil means “Just; fair; honourable; one who judges fairly”."
-        },
-        {
-          "q": "Where does the name Aadhil come from?",
-          "a": "Aadhil is of Arabic origin."
-        },
-        {
-          "q": "What is the linguistic root of Aadhil?",
-          "a": "The root of Aadhil is ع-د-ل (ʿ-d-l)."
-        },
-        {
-          "q": "How is Aadhil written in Arabic script?",
-          "a": "Aadhil is written عادل in Arabic script."
-        },
-        {
-          "q": "Is Aadhil a boy's or a girl's name?",
-          "a": "Aadhil is used as a male name."
-        },
-        {
-          "q": "Does Aadhil appear in the Qur'an?",
-          "a": "No. Aadhil is not a Qur'anic name; it is used in Muslim naming tradition."
-        },
-        {
-          "q": "Is the meaning of Aadhil verified?",
-          "a": "Yes — the meaning “Just; fair; honourable; one who judges fairly” is established by Arabic active participle ʿādil 'just, fair'; spelling variant of Aadil.."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 8,
-        "life_path_number": 8,
-        "ruling_planet": "Saturn",
-        "lucky_day": "Saturday",
-        "lucky_stone": "Blue Sapphire",
-        "lucky_colors": [
-          "Blue",
-          "Black"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aadhil total 26, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
-    "verification": {
-      "needs_manual_verification": false,
-      "flags": [],
-      "confidence": "HIGH",
-      "sources": [
-        "Arabic active participle ʿādil 'just, fair'; spelling variant of Aadil."
-      ]
-    },
-    "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": true,
-      "processed_at": "2026-10-01T04:04:17.000Z"
+    "instagram": {
+     "title": "Aadhil",
+     "description": "Name meaning: Just; fair; honest (ʿādil)",
+     "image": "/images/social/aadhil-instagram.jpg"
     }
+   },
+   "sharing_optimization": {
+    "whatsapp_message": "Check out this name: Aadhil - Meaning: Just; fair; honest (ʿādil)",
+    "email_subject": "Beautiful Name: Aadhil"
+   }
+  },
+  "accessibility": {
+   "screen_reader_optimized": true,
+   "alt_text": "Aadhil with meaning Just; fair; honest (ʿādil)",
+   "keyboard_navigable": true,
+   "high_contrast_mode": true,
+   "font_scaling_support": true,
+   "voice_navigation": true,
+   "braille_compatible": true,
+   "language_attributes": {
+    "primary": "en",
+    "rtl_support": true
+   }
+  },
+  "seo": {
+   "title": "Aadhil Name Meaning - Just; fair; honest (ʿādil) (Arabic)",
+   "meta_description": "Aadhil is an Arabic name meaning Just; fair; honest (ʿādil). Verified meaning, root, script and 15 FAQs.",
+   "meta_keywords": "Aadhil, Aadhil name meaning, Aadhil meaning, Aadhil origin, Aadhil root, Aadhil pronunciation",
+   "description_paragraph": "Aadhil is a Arabic name meaning Just; fair; honest (ʿādil).",
+   "keywords": [
+    "Aadhil",
+    "Aadhil name meaning",
+    "Aadhil meaning",
+    "Aadhil origin",
+    "Aadhil pronunciation"
+   ],
+   "focus_keyword": "Aadhil name meaning",
+   "secondary_keywords": [
+    "Aadhil meaning",
+    "Aadhil origin",
+    "Aadhil pronunciation",
+    "Aadhil lucky number"
+   ],
+   "canonical_url": "",
+   "seo_score": 94,
+   "seo_score_basis": "FAQ 15 (>=15 target); no high-severity issues",
+   "faq": [
+    {
+     "q": "What does the name Aadhil mean?",
+     "a": "Aadhil means Just; fair; honest (ʿādil)."
+    },
+    {
+     "q": "What is the origin of the name Aadhil?",
+     "a": "Aadhil is of Arabic origin."
+    },
+    {
+     "q": "What language does the name Aadhil come from?",
+     "a": "Aadhil is used in Arabic, Urdu."
+    },
+    {
+     "q": "Is Aadhil a boy's name or a girl's name?",
+     "a": "Aadhil is used as a male name."
+    },
+    {
+     "q": "How is Aadhil pronounced?",
+     "a": "Aadhil is pronounced AA-dhil (IPA /ˈʕaː.dil/)."
+    },
+    {
+     "q": "How is Aadhil written in Arabic and Urdu?",
+     "a": "Aadhil is written عادل in Arabic and عادل in Urdu, and आदिल in Devanagari."
+    },
+    {
+     "q": "What is the linguistic root of Aadhil?",
+     "a": "The root of Aadhil is ع-د-ل (ʿ-d-l)."
+    },
+    {
+     "q": "What is the etymology of Aadhil?",
+     "a": "Arabic ʿādil, active participle of ʿadala, 'to act justly'."
+    },
+    {
+     "q": "Does Aadhil appear in the Qur'an?",
+     "a": "Not a Qur'anic personal name; ʿādil is Arabic vocabulary from the root ʿ-d-l."
+    },
+    {
+     "q": "Is Aadhil the same as Aadil?",
+     "a": "Yes. Aadhil and Aadil are transliterations of the same Arabic ʿādil (عادل), meaning 'just, fair'."
+    },
+    {
+     "q": "What is the numerology or lucky number of Aadhil?",
+     "a": "In Pythagorean numerology the letters of Aadhil total 26, reducing to 8. Number 8 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+    },
+    {
+     "q": "What are the common spelling variants of Aadhil?",
+     "a": "Aadhil appears with variants and alternative spellings such as Adil, Aadil."
+    },
+    {
+     "q": "Which names are related to Aadhil?",
+     "a": "Names sharing form or root with Aadhil include Aadil, Aadila."
+    },
+    {
+     "q": "What does ʿādil mean?",
+     "a": "ʿĀdil means 'just, fair, equitable', from the root ʿ-d-l, the root of ʿadl, 'justice'."
+    },
+    {
+     "q": "Where is the name Aadhil used today?",
+     "a": "Aadhil is used in Arabic, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+    }
+   ]
+  },
+  "seo_title": "Aadhil Name Meaning - Just; fair; honest (ʿādil) (Arabic)",
+  "meta_description": "Aadhil is a Arabic name meaning Just; fair; honest (ʿādil). Verified meaning, root, script and 15 FAQs.",
+  "keywords": [
+   "Aadhil",
+   "Aadhil name meaning",
+   "Aadhil meaning",
+   "Aadhil origin",
+   "Aadhil pronunciation"
+  ],
+  "canonical_url": "",
+  "intro_paragraph": "Aadhil is a Arabic name meaning Just; fair; honest (ʿādil). Arabic ʿādil, active participle of ʿadala, 'to act justly'.",
+  "structured_data": {
+   "@context": "https://schema.org",
+   "@type": "Thing",
+   "name": "Aadhil",
+   "description": "Aadhil - Just; fair; honest (ʿādil)",
+   "additionalType": "https://schema.org/Person"
+  },
+  "structured_data_faq": {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "What does the name Aadhil mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aadhil means Just; fair; honest (ʿādil)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the origin of the name Aadhil?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aadhil is of Arabic origin."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What language does the name Aadhil come from?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aadhil is used in Arabic, Urdu."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aadhil a boy's name or a girl's name?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aadhil is used as a male name."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aadhil pronounced?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aadhil is pronounced AA-dhil (IPA /ˈʕaː.dil/)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aadhil written in Arabic and Urdu?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aadhil is written عادل in Arabic and عادل in Urdu, and आदिल in Devanagari."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the linguistic root of Aadhil?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The root of Aadhil is ع-د-ل (ʿ-d-l)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the etymology of Aadhil?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Arabic ʿādil, active participle of ʿadala, 'to act justly'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Aadhil appear in the Qur'an?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Not a Qur'anic personal name; ʿādil is Arabic vocabulary from the root ʿ-d-l."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aadhil the same as Aadil?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Aadhil and Aadil are transliterations of the same Arabic ʿādil (عادل), meaning 'just, fair'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the numerology or lucky number of Aadhil?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In Pythagorean numerology the letters of Aadhil total 26, reducing to 8. Number 8 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What are the common spelling variants of Aadhil?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aadhil appears with variants and alternative spellings such as Adil, Aadil."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Which names are related to Aadhil?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Names sharing form or root with Aadhil include Aadil, Aadila."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What does ʿādil mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "ʿĀdil means 'just, fair, equitable', from the root ʿ-d-l, the root of ʿadl, 'justice'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Where is the name Aadhil used today?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aadhil is used in Arabic, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+     }
+    }
+   ]
+  },
+  "structured_data_breadcrumb": {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Islamic Names",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Aadhil",
+     "item": ""
+    }
+   ]
+  },
+  "advanced_seo": {
+   "technical_seo": {
+    "mobile_friendly": true,
+    "schema_markup": true,
+    "rtl_rendering": true
+   },
+   "content_seo": {
+    "faq_count": 15,
+    "internal_linking": true,
+    "unique_field_coverage": "name-specific meaning, etymology, root, script and FAQ"
+   },
+   "performance_metrics": {}
+  },
+  "confidence": {
+   "meaning": "HIGH",
+   "etymology": "HIGH",
+   "origin": "HIGH",
+   "scripts": "HIGH",
+   "pronunciation": "MEDIUM",
+   "gender": "HIGH",
+   "numerology": "MEDIUM",
+   "popularity": "UNKNOWN",
+   "faq": "HIGH",
+   "notable_people": "UNKNOWN",
+   "historical_references": "HIGH"
+  },
+  "data_quality": {
+   "source_was_thin": true,
+   "authenticity_flags": [],
+   "fields_total": 78
+  },
+  "created_at": "2025-06-29T09:02:52.166896",
+  "updated_at": "2026-10-01T10:45:00.000Z",
+  "tier1_verified": {
+   "name": "Aadhil",
+   "slug": "aadhil",
+   "meaning": "Just; fair; honest (ʿādil)",
+   "origin": "Arabic",
+   "language": [
+    "Arabic",
+    "Urdu"
+   ],
+   "gender": "Male",
+   "root": "ع-د-ل (ʿ-d-l)",
+   "etymology": "Arabic ʿādil, active participle of ʿadala, 'to act justly'.",
+   "script": {
+    "arabic": "عادل",
+    "urdu": "عادل",
+    "hindi": "आदिल",
+    "pashto": "عادل"
+   },
+   "transliteration": "ʿĀdil",
+   "reference": "Arabic ʿādil, 'just, equitable', the active participle of ʿadala; the root also yields ʿadl, 'justice'.",
+   "confidence": "HIGH"
+  },
+  "tier2_explanatory": {
+   "short_meaning": "Just; fair; honest (ʿādil)",
+   "long_meaning": "Aadhil (عادل) is a transliteration of the Arabic ʿādil, 'just, fair, equitable', the active participle of ʿadala, 'to act justly'. It is a well-attested name from the root ʿ-d-l, the root of ʿadl, 'justice'.",
+   "translations": {
+    "arabic": "Just; fair; honest",
+    "urdu": "Just; fair; honest",
+    "hindi": "Just; fair; honest",
+    "pashto": "Just; fair; honest",
+    "english": "Just; fair; honest (ʿādil)"
+   },
+   "pronunciation": {
+    "english": "AA-dhil",
+    "ipa": "/ˈʕaː.dil/"
+   },
+   "syllables": 2,
+   "name_length": 6,
+   "faqs": 15
+  },
+  "tier3_interpretive": {
+   "disclaimer": "The following fields are interpretive/optional associations derived from traditional numerology, not factual claims.",
+   "numerology": {
+    "lucky_number": 8,
+    "life_path_number": 8,
+    "ruling_planet": "Saturn",
+    "lucky_day": "Saturday",
+    "lucky_stone": "Blue Sapphire",
+    "lucky_colors": [
+     "Blue",
+     "Black"
+    ],
+    "numerology_meaning": "In Pythagorean numerology the letters of Aadhil total 26, reducing to 8."
+   },
+   "personality_associations": [],
+   "spiritual_symbolism": ""
+  },
+  "verification": {
+   "needs_manual_verification": false,
+   "flags": [],
+   "confidence": "HIGH",
+   "sources": [
+    "Arabic ʿādil, 'just, equitable', the active participle of ʿadala; the root also yields ʿadl, 'justice'."
+   ]
+  },
+  "nameverse": {
+   "pipeline": "NameVerse Production v5",
+   "methodology": "Original to Verified to Expanded to Enriched",
+   "tier1_verified": true,
+   "processed_at": "2026-10-01T10:45:00.000Z"
   }
+ }
 }

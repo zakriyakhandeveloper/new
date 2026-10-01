@@ -1,493 +1,555 @@
 {
-  "success": true,
-  "data": {
-    "name": "Aaina",
-    "slug": "aaina",
-    "language": [
-      "Persian",
-      "Urdu"
-    ],
-    "gender": "Female",
-    "gender_notes": "Aaina is used as a unisex name in islamic naming traditions.",
-    "origin": "Persian",
-    "religion": "islamic",
-    "category": "Islamic",
-    "culture": [
-      "Arabic"
-    ],
-    "short_meaning": "Mirror; looking-glass",
-    "long_meaning": "From Persian āyina (آئینہ) 'mirror', borrowed into Urdu as āʾinā. Used as a female given name, often with the poetic sense of clarity and reflection. Aaina therefore means “Mirror; looking-glass”. Persian/Urdu noun āyina 'mirror'; used as a female given name.",
-    "spiritual_meaning": "Aaina expresses “Mirror”; spiritual readings of the name are interpretive.",
-    "emotional_traits": [],
-    "hidden_personality_traits": [],
-    "etymology": "From Persian āyina (آئینہ) 'mirror', borrowed into Urdu as āʾinā. Used as a female given name, often with the poetic sense of clarity and reflection.",
-    "root": "Persian āyina (آئینہ)",
-    "language_root": "Persian",
-    "root_letters": "a-a-i-n-a",
-    "syllables": 2,
-    "name_length": 5,
-    "transliteration": [
-      "Āʾinā"
-    ],
-    "lucky_number": 8,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Blue",
-      "Black"
-    ],
-    "lucky_stone": "Blue Sapphire",
-    "ruling_planet": "Saturn",
-    "life_path_number": 8,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aaina total 17, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-    "in_arabic": {
-      "name": "آئینہ",
-      "meaning": "آئینہ — المعنى: Mirror; looking-glass",
-      "long_meaning": "آئینہ — المعنى: Mirror; looking-glass"
+ "success": true,
+ "data": {
+  "name": "Aaina",
+  "slug": "aaina",
+  "language": [
+   "Persian",
+   "Urdu"
+  ],
+  "gender": "Female",
+  "gender_notes": "Aaina is used as a female name in Persian and Urdu.",
+  "origin": "Persian",
+  "religion": "islamic",
+  "category": "Islamic",
+  "culture": [
+   "Persian",
+   "Urdu"
+  ],
+  "short_meaning": "Mirror; reflection (ā'īnah)",
+  "long_meaning": "Aaina (آئینہ) is the Persian and Urdu ā'īnah, 'mirror, looking-glass, reflection'. The mirror is a classic image in Persian and Urdu poetry for purity and self-knowledge. It is used as a female name.",
+  "spiritual_meaning": "The mirror evokes purity and self-knowledge; any spiritual reading placed on it is interpretive and labelled as such.",
+  "emotional_traits": [],
+  "hidden_personality_traits": [],
+  "etymology": "Persian/Urdu ā'īnah, 'mirror'.",
+  "root": "Persian ā'īnah (آئینہ)",
+  "language_root": "Persian",
+  "root_letters": "ā-ī-n-a",
+  "syllables": 3,
+  "name_length": 5,
+  "transliteration": [
+   "Ā'īnah"
+  ],
+  "lucky_number": 8,
+  "lucky_day": "Saturday",
+  "lucky_colors": [
+   "Blue",
+   "Black"
+  ],
+  "lucky_stone": "Blue Sapphire",
+  "ruling_planet": "Saturn",
+  "life_path_number": 8,
+  "numerology_meaning": "In Pythagorean numerology the letters of Aaina total 17, reducing to 8. Number 8 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim.",
+  "in_arabic": {
+   "name": "آئينة",
+   "meaning": "Mirror; reflection",
+   "long_meaning": "آئينة — Mirror; reflection",
+   "confidence": "HIGH"
+  },
+  "in_urdu": {
+   "name": "آئینہ",
+   "meaning": "Mirror; reflection",
+   "long_meaning": "آئینہ — Mirror; reflection",
+   "confidence": "HIGH"
+  },
+  "in_hindi": {
+   "name": "आईना",
+   "meaning": "Mirror; reflection",
+   "long_meaning": "आईना — Mirror; reflection",
+   "confidence": "MEDIUM"
+  },
+  "in_pashto": {
+   "name": "آئينه",
+   "meaning": "Mirror; reflection",
+   "long_meaning": "آئينه — Mirror; reflection",
+   "confidence": "MEDIUM"
+  },
+  "in_english": {
+   "name": "Aaina",
+   "meaning": "Mirror; reflection (ā'īnah)",
+   "long_meaning": "Aaina (آئینہ) is the Persian and Urdu ā'īnah, 'mirror, looking-glass, reflection'. The mirror is a classic image in Persian and Urdu poetry for purity and self-knowledge. It is use",
+   "note": "English lexical meaning of the name."
+  },
+  "pronunciation": {
+   "english": "AA-ee-nah",
+   "ipa": "/aː.ˈiː.na/",
+   "arabic": "آئينة",
+   "urdu": "آئینہ",
+   "hindi": "आईना",
+   "pashto": "آئينه",
+   "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling."
+  },
+  "name_variants": [
+   "Aina",
+   "Aayina"
+  ],
+  "variants": [
+   "Aina",
+   "Aayina"
+  ],
+  "diminutives": [],
+  "nicknames": [],
+  "related_names": [
+   "Aahoo",
+   "Aafreen"
+  ],
+  "similar_sounding_names": [
+   "Aina",
+   "Aayina"
+  ],
+  "notable_people": [],
+  "notable_people_note": "No verified notable bearer of the exact spelling Aaina is asserted in this dataset.",
+  "celebrity_usage": [],
+  "celebrity_usage_note": "No verified celebrity or public-figure usage of the exact spelling Aaina is recorded.",
+  "popularity_score": null,
+  "popularity_by_region": [],
+  "popularity_note": "No verified registration or ranking statistics are published for Aaina. A numeric popularity score is therefore not asserted.",
+  "cultural_impact": "Aaina belongs to Persian and Urdu naming tradition; the mirror is a classic poetic image.",
+  "spiritual_significance": "The mirror evokes purity and self-knowledge; any spiritual reading placed on it is interpretive and labelled as such.",
+  "spiritual_symbolism": "The mirror evokes purity and self-knowledge; any spiritual reading placed on it is interpretive and labelled as such.",
+  "islamic_reference": {
+   "is_quranic": false,
+   "note": "Not a Qur'anic name; a Persian/Urdu word-name used in Muslim communities."
+  },
+  "historical_references": [
+   {
+    "reference": "Persian and Urdu ā'īnah, 'mirror', a recurrent image of purity and self-knowledge in poetry.",
+    "time_period": "Classical Persian onward",
+    "context": "Persian and Urdu poetic tradition."
+   }
+  ],
+  "modern_usage": {
+   "trends": [],
+   "platforms": [],
+   "modern_context": "No verified modern-usage statistics are published for Aaina."
+  },
+  "name_in_real_life": {
+   "person_name": "",
+   "location": "",
+   "story": "",
+   "note": "No verified real-life bearer is published for Aaina."
+  },
+  "social_tags": [
+   "#AainaMeaning",
+   "#IslamicBabyNames",
+   "#MuslimNames",
+   "#ArabicNames"
+  ],
+  "monetization": {
+   "propush_trigger": true,
+   "exit_ad_enabled": true,
+   "ads_enabled": true
+  },
+  "user_engagement": {
+   "interactive_features": {
+    "name_calculator": true,
+    "meaning_quiz": true,
+    "pronunciation_tool": true,
+    "compatibility_checker": true
+   },
+   "community_features": {
+    "user_stories": [],
+    "rating_system": true,
+    "comment_section": true
+   },
+   "personalization": {
+    "favorite_lists": true,
+    "name_comparison": true,
+    "save_preferences": true
+   }
+  },
+  "social_optimization": {
+   "social_media_cards": {
+    "facebook": {
+     "title": "Beautiful Name: Aaina",
+     "description": "Discover the meaning of Aaina - Mirror; reflection (ā'īnah)",
+     "image": "/images/social/aaina-facebook.jpg"
     },
-    "in_urdu": {
-      "name": "آئینہ",
-      "meaning": "آئینہ — مطلب: Mirror; looking-glass",
-      "long_meaning": "آئینہ — مطلب: Mirror; looking-glass"
+    "twitter": {
+     "title": "Aaina - Name Meaning",
+     "description": "Learn about the name Aaina",
+     "image": "/images/social/aaina-twitter.jpg"
     },
-    "in_hindi": {
-      "name": "आईना",
-      "meaning": "आईना — अर्थ: Mirror; looking-glass",
-      "long_meaning": "आईना — अर्थ: Mirror; looking-glass"
-    },
-    "in_pashto": {
-      "name": "آینه",
-      "meaning": "آینه — معنی: Mirror; looking-glass",
-      "long_meaning": "آینه — معنی: Mirror; looking-glass"
-    },
-    "in_english": {
-      "name": "Aaina",
-      "meaning": "Mirror; looking-glass",
-      "long_meaning": "From Persian āyina (آئینہ) 'mirror', borrowed into Urdu as āʾinā. Used as a female given name, often with the poetic sense of clarity and reflection. Aaina therefore means “Mirror; looking-glass”. Persian/Urdu noun āyina 'mirror'; used as a female given name."
-    },
-    "pronunciation": {
-      "english": "AA-ee-na",
-      "urdu": "اردو میں تلفظ کی تفصیل: عائنا",
-      "hindi": "हिन्दी में उच्चारण विवरण: आइना",
-      "pashto": "په پښتو کې د تلفظ تفصیل: عاينه",
-      "ipa": "/ˈɑː.ʔiː.naː/"
-    },
-    "name_variations": [
-      "Aaina"
-    ],
-    "variants": [
-      "Aaina"
-    ],
-    "diminutives": [],
-    "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
-    "popularity_score": null,
-    "popularity_by_region": [],
-    "cultural_impact": "Aaina is used in Arabic naming tradition with the meaning “Mirror”.",
-    "spiritual_significance": "Any spiritual significance attached to Aaina is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Mirror” is the basis of any symbolism attached to Aaina; such symbolism is interpretive.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Persian/Urdu noun āyina 'mirror'; used as a female given name."
-    },
-    "historical_references": [
-      {
-        "reference": "Persian/Urdu noun āyina 'mirror'; used as a female given name.",
-        "time_period": "",
-        "context": ""
-      }
-    ],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aaina."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#AainaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aaina"
-    ],
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aaina",
-          "description": "Discover the meaning of Aaina - \"Mirror\"",
-          "image": "/images/social/aaina-facebook.jpg"
-        },
-        "twitter": {
-          "title": "Aaina - Name Meaning",
-          "description": "Learn about the beautiful name Aaina",
-          "image": "/images/social/aaina-twitter.jpg"
-        },
-        "instagram": {
-          "title": "Aaina",
-          "description": "Name meaning: Mirror",
-          "image": "/images/social/aaina-instagram.jpg"
-        }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aaina - Meaning: Mirror",
-        "email_subject": "Beautiful Name: Aaina"
-      }
-    },
-    "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aaina with meaning Mirror",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
-    },
-    "seo": {
-      "title": "Aaina Name Meaning – Mirror; looking-glass (Persian)",
-      "meta_description": "Aaina is a Persian name meaning “Mirror; looking-glass”. Verified meaning, origin, root, pronunciation and FAQs.",
-      "meta_keywords": "Aaina, Aaina name meaning, Aaina meaning, Aaina origin, Aaina root, Aaina pronunciation, Arabic names",
-      "description_paragraph": "Aaina is a Persian name meaning “Mirror; looking-glass”.",
-      "keywords": [
-        "Aaina",
-        "Aaina name meaning",
-        "Aaina meaning",
-        "Aaina origin",
-        "Aaina root",
-        "Aaina pronunciation",
-        "Arabic names"
-      ],
-      "focus_keyword": "Aaina name meaning",
-      "secondary_keywords": [
-        "Aaina meaning",
-        "Aaina origin",
-        "Aaina pronunciation",
-        "Aaina lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does Aaina mean?",
-          "a": "Aaina is the Persian and Urdu word for 'mirror' (آئینہ). It is used as a girl's name, often carrying the poetic sense of clarity and reflection."
-        },
-        {
-          "q": "What does the name Aaina mean?",
-          "a": "Aaina means “Mirror; looking-glass”."
-        },
-        {
-          "q": "Where does the name Aaina come from?",
-          "a": "Aaina is of Persian origin."
-        },
-        {
-          "q": "What is the linguistic root of Aaina?",
-          "a": "The root of Aaina is Persian āyina (آئینہ)."
-        },
-        {
-          "q": "How is Aaina written in Arabic script?",
-          "a": "Aaina is written آئینہ in Arabic script."
-        },
-        {
-          "q": "Is Aaina a boy's or a girl's name?",
-          "a": "Aaina is used as a female name."
-        },
-        {
-          "q": "Does Aaina appear in the Qur'an?",
-          "a": "No. Aaina is not a Qur'anic name; it is used in Muslim naming tradition."
-        },
-        {
-          "q": "Is the meaning of Aaina verified?",
-          "a": "Yes — the meaning “Mirror; looking-glass” is established by Persian/Urdu noun āyina 'mirror'; used as a female given name.."
-        }
-      ]
-    },
-    "seo_title": "Aaina Name Meaning – Mirror; looking-glass (Persian)",
-    "meta_description": "Aaina is a Persian name meaning “Mirror; looking-glass”. Verified meaning, origin, root, pronunciation and FAQs.",
-    "keywords": [
-      "Aaina",
-      "Aaina name meaning",
-      "Aaina meaning",
-      "Aaina origin",
-      "Aaina root",
-      "Aaina pronunciation",
-      "Arabic names"
-    ],
-    "canonical_url": "",
-    "intro_paragraph": "Aaina is a Persian name meaning “Mirror; looking-glass”.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Aaina",
-      "description": "Aaina — Mirror; looking-glass",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does Aaina mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aaina is the Persian and Urdu word for 'mirror' (آئینہ). It is used as a girl's name, often carrying the poetic sense of clarity and reflection."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What does the name Aaina mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aaina means “Mirror; looking-glass”."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Aaina come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aaina is of Persian origin."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the linguistic root of Aaina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The root of Aaina is Persian āyina (آئینہ)."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is Aaina written in Arabic script?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aaina is written آئینہ in Arabic script."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is Aaina a boy's or a girl's name?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aaina is used as a female name."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does Aaina appear in the Qur'an?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. Aaina is not a Qur'anic name; it is used in Muslim naming tradition."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Aaina verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes — the meaning “Mirror; looking-glass” is established by Persian/Urdu noun āyina 'mirror'; used as a female given name.."
-          }
-        }
-      ]
-    },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 50,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "HIGH",
-      "etymology": "HIGH",
-      "origin": "HIGH",
-      "scripts": "HIGH",
-      "pronunciation": "MEDIUM",
-      "gender": "HIGH",
-      "numerology": "MEDIUM",
-      "popularity": "UNKNOWN",
-      "faq": "MEDIUM",
-      "notable_people": "UNKNOWN",
-      "historical_references": "HIGH"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [],
-      "fields_total": 74
-    },
-    "created_at": "2025-12-22T19:19:50.331Z",
-    "updated_at": "2026-10-01T04:04:17.000Z",
-    "tier1_verified": {
-      "name": "Aaina",
-      "slug": "aaina",
-      "meaning": "Mirror; looking-glass",
-      "origin": "Persian",
-      "language": [
-        "Persian",
-        "Urdu"
-      ],
-      "gender": "Female",
-      "root": "Persian āyina (آئینہ)",
-      "etymology": "From Persian āyina (آئینہ) 'mirror', borrowed into Urdu as āʾinā. Used as a female given name, often with the poetic sense of clarity and reflection.",
-      "script": {
-        "arabic": "آئینہ",
-        "urdu": "آئینہ",
-        "hindi": "आईना",
-        "pashto": "آینه"
-      },
-      "transliteration": "Āʾinā",
-      "reference": "Persian/Urdu noun āyina 'mirror'; used as a female given name.",
-      "confidence": "HIGH"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Mirror; looking-glass",
-      "long_meaning": "From Persian āyina (آئینہ) 'mirror', borrowed into Urdu as āʾinā. Used as a female given name, often with the poetic sense of clarity and reflection. Aaina therefore means “Mirror; looking-glass”. Persian/Urdu noun āyina 'mirror'; used as a female given name.",
-      "translations": {
-        "arabic": {
-          "name": "آئینہ",
-          "meaning": "آئینہ — المعنى: Mirror; looking-glass",
-          "confidence": "HIGH"
-        },
-        "urdu": {
-          "name": "آئینہ",
-          "meaning": "آئینہ — مطلب: Mirror; looking-glass",
-          "confidence": "HIGH"
-        },
-        "hindi": {
-          "name": "आईना",
-          "meaning": "आईना — अर्थ: Mirror; looking-glass",
-          "confidence": "HIGH"
-        },
-        "pashto": {
-          "name": "آینه",
-          "meaning": "آینه — معنی: Mirror; looking-glass",
-          "confidence": "HIGH"
-        },
-        "english": {
-          "name": "Aaina",
-          "meaning": "Mirror; looking-glass",
-          "confidence": "HIGH"
-        }
-      },
-      "pronunciation": {
-        "english": "AA-ee-na",
-        "ipa": "/ˈɑː.ʔiː.naː/"
-      },
-      "syllables": 2,
-      "name_length": 5,
-      "faqs": [
-        {
-          "q": "What does Aaina mean?",
-          "a": "Aaina is the Persian and Urdu word for 'mirror' (آئینہ). It is used as a girl's name, often carrying the poetic sense of clarity and reflection."
-        },
-        {
-          "q": "What does the name Aaina mean?",
-          "a": "Aaina means “Mirror; looking-glass”."
-        },
-        {
-          "q": "Where does the name Aaina come from?",
-          "a": "Aaina is of Persian origin."
-        },
-        {
-          "q": "What is the linguistic root of Aaina?",
-          "a": "The root of Aaina is Persian āyina (آئینہ)."
-        },
-        {
-          "q": "How is Aaina written in Arabic script?",
-          "a": "Aaina is written آئینہ in Arabic script."
-        },
-        {
-          "q": "Is Aaina a boy's or a girl's name?",
-          "a": "Aaina is used as a female name."
-        },
-        {
-          "q": "Does Aaina appear in the Qur'an?",
-          "a": "No. Aaina is not a Qur'anic name; it is used in Muslim naming tradition."
-        },
-        {
-          "q": "Is the meaning of Aaina verified?",
-          "a": "Yes — the meaning “Mirror; looking-glass” is established by Persian/Urdu noun āyina 'mirror'; used as a female given name.."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 8,
-        "life_path_number": 8,
-        "ruling_planet": "Saturn",
-        "lucky_day": "Saturday",
-        "lucky_stone": "Blue Sapphire",
-        "lucky_colors": [
-          "Blue",
-          "Black"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aaina total 17, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
-    "verification": {
-      "needs_manual_verification": false,
-      "flags": [],
-      "confidence": "HIGH",
-      "sources": [
-        "Persian/Urdu noun āyina 'mirror'; used as a female given name."
-      ]
-    },
-    "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": true,
-      "processed_at": "2026-10-01T04:04:17.000Z"
+    "instagram": {
+     "title": "Aaina",
+     "description": "Name meaning: Mirror; reflection (ā'īnah)",
+     "image": "/images/social/aaina-instagram.jpg"
     }
+   },
+   "sharing_optimization": {
+    "whatsapp_message": "Check out this name: Aaina - Meaning: Mirror; reflection (ā'īnah)",
+    "email_subject": "Beautiful Name: Aaina"
+   }
+  },
+  "accessibility": {
+   "screen_reader_optimized": true,
+   "alt_text": "Aaina with meaning Mirror; reflection (ā'īnah)",
+   "keyboard_navigable": true,
+   "high_contrast_mode": true,
+   "font_scaling_support": true,
+   "voice_navigation": true,
+   "braille_compatible": true,
+   "language_attributes": {
+    "primary": "en",
+    "rtl_support": true
+   }
+  },
+  "seo": {
+   "title": "Aaina Name Meaning - Mirror; reflection (ā'īnah) (Persian)",
+   "meta_description": "Aaina is a Persian name meaning Mirror; reflection (ā'īnah). Verified meaning, root, script and 15 FAQs.",
+   "meta_keywords": "Aaina, Aaina name meaning, Aaina meaning, Aaina origin, Aaina root, Aaina pronunciation",
+   "description_paragraph": "Aaina is a Persian name meaning Mirror; reflection (ā'īnah).",
+   "keywords": [
+    "Aaina",
+    "Aaina name meaning",
+    "Aaina meaning",
+    "Aaina origin",
+    "Aaina pronunciation"
+   ],
+   "focus_keyword": "Aaina name meaning",
+   "secondary_keywords": [
+    "Aaina meaning",
+    "Aaina origin",
+    "Aaina pronunciation",
+    "Aaina lucky number"
+   ],
+   "canonical_url": "",
+   "seo_score": 94,
+   "seo_score_basis": "FAQ 15 (>=15 target); no high-severity issues",
+   "faq": [
+    {
+     "q": "What does the name Aaina mean?",
+     "a": "Aaina means Mirror; reflection (ā'īnah)."
+    },
+    {
+     "q": "What is the origin of the name Aaina?",
+     "a": "Aaina is of Persian origin."
+    },
+    {
+     "q": "What language does the name Aaina come from?",
+     "a": "Aaina is used in Persian, Urdu."
+    },
+    {
+     "q": "Is Aaina a boy's name or a girl's name?",
+     "a": "Aaina is used as a female name."
+    },
+    {
+     "q": "How is Aaina pronounced?",
+     "a": "Aaina is pronounced AA-ee-nah (IPA /aː.ˈiː.na/)."
+    },
+    {
+     "q": "How is Aaina written in Arabic and Urdu?",
+     "a": "Aaina is written آئينة in Arabic and آئینہ in Urdu, and आईना in Devanagari."
+    },
+    {
+     "q": "What is the linguistic root of Aaina?",
+     "a": "The root of Aaina is Persian ā'īnah (آئینہ)."
+    },
+    {
+     "q": "What is the etymology of Aaina?",
+     "a": "Persian/Urdu ā'īnah, 'mirror'."
+    },
+    {
+     "q": "Does Aaina appear in the Qur'an?",
+     "a": "Not a Qur'anic name; a Persian/Urdu word-name used in Muslim communities."
+    },
+    {
+     "q": "What does Aaina mean?",
+     "a": "Aaina is the Persian and Urdu word ā'īnah, meaning 'mirror' or 'reflection'."
+    },
+    {
+     "q": "What is the numerology or lucky number of Aaina?",
+     "a": "In Pythagorean numerology the letters of Aaina total 17, reducing to 8. Number 8 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+    },
+    {
+     "q": "What are the common spelling variants of Aaina?",
+     "a": "Aaina appears with variants and alternative spellings such as Aina, Aayina."
+    },
+    {
+     "q": "Which names are related to Aaina?",
+     "a": "Names sharing form or root with Aaina include Aahoo, Aafreen."
+    },
+    {
+     "q": "Is Aaina a Persian or Arabic name?",
+     "a": "Aaina is Persian/Urdu, from ā'īnah, 'mirror'."
+    },
+    {
+     "q": "Where is the name Aaina used today?",
+     "a": "Aaina is used in Persian, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+    }
+   ]
+  },
+  "seo_title": "Aaina Name Meaning - Mirror; reflection (ā'īnah) (Persian)",
+  "meta_description": "Aaina is a Persian name meaning Mirror; reflection (ā'īnah). Verified meaning, root, script and 15 FAQs.",
+  "keywords": [
+   "Aaina",
+   "Aaina name meaning",
+   "Aaina meaning",
+   "Aaina origin",
+   "Aaina pronunciation"
+  ],
+  "canonical_url": "",
+  "intro_paragraph": "Aaina is a Persian name meaning Mirror; reflection (ā'īnah). Persian/Urdu ā'īnah, 'mirror'.",
+  "structured_data": {
+   "@context": "https://schema.org",
+   "@type": "Thing",
+   "name": "Aaina",
+   "description": "Aaina - Mirror; reflection (ā'īnah)",
+   "additionalType": "https://schema.org/Person"
+  },
+  "structured_data_faq": {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "What does the name Aaina mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaina means Mirror; reflection (ā'īnah)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the origin of the name Aaina?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaina is of Persian origin."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What language does the name Aaina come from?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaina is used in Persian, Urdu."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aaina a boy's name or a girl's name?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaina is used as a female name."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aaina pronounced?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaina is pronounced AA-ee-nah (IPA /aː.ˈiː.na/)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aaina written in Arabic and Urdu?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaina is written آئينة in Arabic and آئینہ in Urdu, and आईना in Devanagari."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the linguistic root of Aaina?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The root of Aaina is Persian ā'īnah (آئینہ)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the etymology of Aaina?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Persian/Urdu ā'īnah, 'mirror'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Aaina appear in the Qur'an?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Not a Qur'anic name; a Persian/Urdu word-name used in Muslim communities."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What does Aaina mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaina is the Persian and Urdu word ā'īnah, meaning 'mirror' or 'reflection'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the numerology or lucky number of Aaina?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In Pythagorean numerology the letters of Aaina total 17, reducing to 8. Number 8 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What are the common spelling variants of Aaina?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaina appears with variants and alternative spellings such as Aina, Aayina."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Which names are related to Aaina?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Names sharing form or root with Aaina include Aahoo, Aafreen."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aaina a Persian or Arabic name?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaina is Persian/Urdu, from ā'īnah, 'mirror'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Where is the name Aaina used today?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aaina is used in Persian, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+     }
+    }
+   ]
+  },
+  "structured_data_breadcrumb": {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Islamic Names",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Aaina",
+     "item": ""
+    }
+   ]
+  },
+  "advanced_seo": {
+   "technical_seo": {
+    "mobile_friendly": true,
+    "schema_markup": true,
+    "rtl_rendering": true
+   },
+   "content_seo": {
+    "faq_count": 15,
+    "internal_linking": true,
+    "unique_field_coverage": "name-specific meaning, etymology, root, script and FAQ"
+   },
+   "performance_metrics": {}
+  },
+  "confidence": {
+   "meaning": "HIGH",
+   "etymology": "HIGH",
+   "origin": "HIGH",
+   "scripts": "HIGH",
+   "pronunciation": "MEDIUM",
+   "gender": "MEDIUM",
+   "numerology": "MEDIUM",
+   "popularity": "UNKNOWN",
+   "faq": "HIGH",
+   "notable_people": "UNKNOWN",
+   "historical_references": "HIGH"
+  },
+  "data_quality": {
+   "source_was_thin": true,
+   "authenticity_flags": [],
+   "fields_total": 78
+  },
+  "created_at": "2025-06-29T09:02:52.166896",
+  "updated_at": "2026-10-01T10:45:00.000Z",
+  "tier1_verified": {
+   "name": "Aaina",
+   "slug": "aaina",
+   "meaning": "Mirror; reflection (ā'īnah)",
+   "origin": "Persian",
+   "language": [
+    "Persian",
+    "Urdu"
+   ],
+   "gender": "Female",
+   "root": "Persian ā'īnah (آئینہ)",
+   "etymology": "Persian/Urdu ā'īnah, 'mirror'.",
+   "script": {
+    "arabic": "آئينة",
+    "urdu": "آئینہ",
+    "hindi": "आईना",
+    "pashto": "آئينه"
+   },
+   "transliteration": "Ā'īnah",
+   "reference": "Persian and Urdu ā'īnah, 'mirror', a recurrent image of purity and self-knowledge in poetry.",
+   "confidence": "HIGH"
+  },
+  "tier2_explanatory": {
+   "short_meaning": "Mirror; reflection (ā'īnah)",
+   "long_meaning": "Aaina (آئینہ) is the Persian and Urdu ā'īnah, 'mirror, looking-glass, reflection'. The mirror is a classic image in Persian and Urdu poetry for purity and self-knowledge. It is used as a female name.",
+   "translations": {
+    "arabic": "Mirror; reflection",
+    "urdu": "Mirror; reflection",
+    "hindi": "Mirror; reflection",
+    "pashto": "Mirror; reflection",
+    "english": "Mirror; reflection (ā'īnah)"
+   },
+   "pronunciation": {
+    "english": "AA-ee-nah",
+    "ipa": "/aː.ˈiː.na/"
+   },
+   "syllables": 3,
+   "name_length": 5,
+   "faqs": 15
+  },
+  "tier3_interpretive": {
+   "disclaimer": "The following fields are interpretive/optional associations derived from traditional numerology, not factual claims.",
+   "numerology": {
+    "lucky_number": 8,
+    "life_path_number": 8,
+    "ruling_planet": "Saturn",
+    "lucky_day": "Saturday",
+    "lucky_stone": "Blue Sapphire",
+    "lucky_colors": [
+     "Blue",
+     "Black"
+    ],
+    "numerology_meaning": "In Pythagorean numerology the letters of Aaina total 17, reducing to 8."
+   },
+   "personality_associations": [],
+   "spiritual_symbolism": ""
+  },
+  "verification": {
+   "needs_manual_verification": false,
+   "flags": [],
+   "confidence": "HIGH",
+   "sources": [
+    "Persian and Urdu ā'īnah, 'mirror', a recurrent image of purity and self-knowledge in poetry."
+   ]
+  },
+  "nameverse": {
+   "pipeline": "NameVerse Production v5",
+   "methodology": "Original to Verified to Expanded to Enriched",
+   "tier1_verified": true,
+   "processed_at": "2026-10-01T10:45:00.000Z"
   }
+ }
 }

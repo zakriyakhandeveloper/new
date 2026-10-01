@@ -1,491 +1,555 @@
 {
-  "success": true,
-  "data": {
-    "name": "Aahoo",
-    "slug": "aahoo",
-    "language": [
-      "Persian",
-      "Urdu"
-    ],
-    "gender": "Female",
-    "gender_notes": "Aahoo is used as a unisex name in islamic naming traditions.",
-    "origin": "Persian",
-    "religion": "islamic",
-    "category": "Islamic",
-    "culture": [
-      "Arabic"
-    ],
-    "short_meaning": "Gazelle; deer",
-    "long_meaning": "From Persian āhū (آهو) 'gazelle, deer'. In Persian and Urdu poetry the gazelle is a classic image of beauty and grace, which is why the word is used as a female given name. Aahoo therefore means “Gazelle; deer”. Persian noun āhū 'gazelle, deer'; used as a female given name in Persian and Urdu.",
-    "spiritual_meaning": "Aahoo expresses “Jasmine”; spiritual readings of the name are interpretive.",
-    "emotional_traits": [],
-    "hidden_personality_traits": [],
-    "etymology": "From Persian āhū (آهو) 'gazelle, deer'. In Persian and Urdu poetry the gazelle is a classic image of beauty and grace, which is why the word is used as a female given name.",
-    "root": "Persian āhū (آهو)",
-    "language_root": "Persian",
-    "root_letters": "a-a-h-o-o",
-    "syllables": 2,
-    "name_length": 5,
-    "transliteration": [
-      "Āhū"
-    ],
-    "lucky_number": 4,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Grey",
-      "Blue"
-    ],
-    "lucky_stone": "Hessonite",
-    "ruling_planet": "Rahu",
-    "life_path_number": 4,
-    "numerology_meaning": "In Pythagorean numerology the letters of Aahoo total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-    "in_arabic": {
-      "name": "آهو",
-      "meaning": "آهو — المعنى: Gazelle; deer",
-      "long_meaning": "آهو — المعنى: Gazelle; deer"
+ "success": true,
+ "data": {
+  "name": "Aahoo",
+  "slug": "aahoo",
+  "language": [
+   "Persian",
+   "Urdu"
+  ],
+  "gender": "Female",
+  "gender_notes": "Aahoo is used as a female name in Persian and Urdu.",
+  "origin": "Persian",
+  "religion": "islamic",
+  "category": "Islamic",
+  "culture": [
+   "Persian",
+   "Urdu"
+  ],
+  "short_meaning": "Gazelle; deer (āhū)",
+  "long_meaning": "Aahoo (آهو) is the Persian āhū, 'gazelle, deer', a classic image of beauty and grace in Persian and Urdu poetry. It is used as a female name.",
+  "spiritual_meaning": "The name evokes the grace of the gazelle; any spiritual reading placed on it is interpretive and labelled as such.",
+  "emotional_traits": [],
+  "hidden_personality_traits": [],
+  "etymology": "Persian āhū, 'gazelle, deer'.",
+  "root": "Persian āhū (آهو)",
+  "language_root": "Persian",
+  "root_letters": "ā-h-ū",
+  "syllables": 2,
+  "name_length": 5,
+  "transliteration": [
+   "Āhū"
+  ],
+  "lucky_number": 4,
+  "lucky_day": "Sunday",
+  "lucky_colors": [
+   "Grey",
+   "Blue"
+  ],
+  "lucky_stone": "Hessonite",
+  "ruling_planet": "Uranus",
+  "life_path_number": 4,
+  "numerology_meaning": "In Pythagorean numerology the letters of Aahoo total 22, reducing to 4. Number 4 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim.",
+  "in_arabic": {
+   "name": "آهو",
+   "meaning": "Gazelle; deer",
+   "long_meaning": "آهو — Gazelle; deer",
+   "confidence": "HIGH"
+  },
+  "in_urdu": {
+   "name": "آہو",
+   "meaning": "Gazelle; deer",
+   "long_meaning": "آہو — Gazelle; deer",
+   "confidence": "HIGH"
+  },
+  "in_hindi": {
+   "name": "आहू",
+   "meaning": "Gazelle; deer",
+   "long_meaning": "आहू — Gazelle; deer",
+   "confidence": "MEDIUM"
+  },
+  "in_pashto": {
+   "name": "آهو",
+   "meaning": "Gazelle; deer",
+   "long_meaning": "آهو — Gazelle; deer",
+   "confidence": "MEDIUM"
+  },
+  "in_english": {
+   "name": "Aahoo",
+   "meaning": "Gazelle; deer (āhū)",
+   "long_meaning": "Aahoo (آهو) is the Persian āhū, 'gazelle, deer', a classic image of beauty and grace in Persian and Urdu poetry. It is used as a female name.",
+   "note": "English lexical meaning of the name."
+  },
+  "pronunciation": {
+   "english": "AA-hoo",
+   "ipa": "/aː.ˈhuː/",
+   "arabic": "آهو",
+   "urdu": "آہو",
+   "hindi": "आहू",
+   "pashto": "آهو",
+   "note": "The native-script entries show the name's orthography in each writing system; they are not a phonetic respelling."
+  },
+  "name_variants": [
+   "Ahu",
+   "Ahoo"
+  ],
+  "variants": [
+   "Ahu",
+   "Ahoo"
+  ],
+  "diminutives": [],
+  "nicknames": [],
+  "related_names": [
+   "Aafreen",
+   "Aabroo"
+  ],
+  "similar_sounding_names": [
+   "Ahu",
+   "Ahoo"
+  ],
+  "notable_people": [],
+  "notable_people_note": "No verified notable bearer of the exact spelling Aahoo is asserted in this dataset.",
+  "celebrity_usage": [],
+  "celebrity_usage_note": "No verified celebrity or public-figure usage of the exact spelling Aahoo is recorded.",
+  "popularity_score": null,
+  "popularity_by_region": [],
+  "popularity_note": "No verified registration or ranking statistics are published for Aahoo. A numeric popularity score is therefore not asserted.",
+  "cultural_impact": "Aahoo belongs to Persian naming tradition; the gazelle is a classic symbol of beauty in Persian poetry.",
+  "spiritual_significance": "The name evokes the grace of the gazelle; any spiritual reading placed on it is interpretive and labelled as such.",
+  "spiritual_symbolism": "The name evokes the grace of the gazelle; any spiritual reading placed on it is interpretive and labelled as such.",
+  "islamic_reference": {
+   "is_quranic": false,
+   "note": "Not a Qur'anic name; a Persian word-name used in Muslim communities."
+  },
+  "historical_references": [
+   {
+    "reference": "Persian āhū, 'gazelle', a recurrent image of beauty and grace in Persian and Urdu poetry.",
+    "time_period": "Classical Persian onward",
+    "context": "Persian and Urdu poetic tradition."
+   }
+  ],
+  "modern_usage": {
+   "trends": [],
+   "platforms": [],
+   "modern_context": "No verified modern-usage statistics are published for Aahoo."
+  },
+  "name_in_real_life": {
+   "person_name": "",
+   "location": "",
+   "story": "",
+   "note": "No verified real-life bearer is published for Aahoo."
+  },
+  "social_tags": [
+   "#AahooMeaning",
+   "#IslamicBabyNames",
+   "#MuslimNames",
+   "#ArabicNames"
+  ],
+  "monetization": {
+   "propush_trigger": true,
+   "exit_ad_enabled": true,
+   "ads_enabled": true
+  },
+  "user_engagement": {
+   "interactive_features": {
+    "name_calculator": true,
+    "meaning_quiz": true,
+    "pronunciation_tool": true,
+    "compatibility_checker": true
+   },
+   "community_features": {
+    "user_stories": [],
+    "rating_system": true,
+    "comment_section": true
+   },
+   "personalization": {
+    "favorite_lists": true,
+    "name_comparison": true,
+    "save_preferences": true
+   }
+  },
+  "social_optimization": {
+   "social_media_cards": {
+    "facebook": {
+     "title": "Beautiful Name: Aahoo",
+     "description": "Discover the meaning of Aahoo - Gazelle; deer (āhū)",
+     "image": "/images/social/aahoo-facebook.jpg"
     },
-    "in_urdu": {
-      "name": "آهو",
-      "meaning": "آهو — مطلب: Gazelle; deer",
-      "long_meaning": "آهو — مطلب: Gazelle; deer"
+    "twitter": {
+     "title": "Aahoo - Name Meaning",
+     "description": "Learn about the name Aahoo",
+     "image": "/images/social/aahoo-twitter.jpg"
     },
-    "in_hindi": {
-      "name": "आहू",
-      "meaning": "आहू — अर्थ: Gazelle; deer",
-      "long_meaning": "आहू — अर्थ: Gazelle; deer"
-    },
-    "in_pashto": {
-      "name": "آهو",
-      "meaning": "آهو — معنی: Gazelle; deer",
-      "long_meaning": "آهو — معنی: Gazelle; deer"
-    },
-    "in_english": {
-      "name": "Aahoo",
-      "meaning": "Gazelle; deer",
-      "long_meaning": "From Persian āhū (آهو) 'gazelle, deer'. In Persian and Urdu poetry the gazelle is a classic image of beauty and grace, which is why the word is used as a female given name. Aahoo therefore means “Gazelle; deer”. Persian noun āhū 'gazelle, deer'; used as a female given name in Persian and Urdu."
-    },
-    "pronunciation": {
-      "english": "AA-hoo",
-      "urdu": "Aahoo کا تلفظ",
-      "hindi": "Aahoo का उच्चारण",
-      "pashto": "د Aahoo تلفظ",
-      "ipa": "/ˈɑː.huː/"
-    },
-    "name_variations": [
-      "Aahoo"
-    ],
-    "variants": [
-      "Aahoo"
-    ],
-    "diminutives": [],
-    "nicknames": [],
-    "related_names": [],
-    "similar_sounding_names": [],
-    "notable_people": [],
-    "celebrity_usage": [],
-    "popularity_score": null,
-    "popularity_by_region": [],
-    "cultural_impact": "Aahoo is used in Arabic naming tradition with the meaning “Jasmine”.",
-    "spiritual_significance": "Any spiritual significance attached to Aahoo is interpretive and is labelled as such.",
-    "spiritual_symbolism": "The meaning “Jasmine” is the basis of any symbolism attached to Aahoo; such symbolism is interpretive.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Persian noun āhū 'gazelle, deer'; used as a female given name in Persian and Urdu."
-    },
-    "historical_references": [
-      {
-        "reference": "Persian noun āhū 'gazelle, deer'; used as a female given name in Persian and Urdu.",
-        "time_period": "",
-        "context": ""
-      }
-    ],
-    "modern_usage": {
-      "trends": [],
-      "platforms": [],
-      "modern_context": "No verified modern-usage statistics are published for Aahoo."
-    },
-    "name_in_real_life": {
-      "person_name": "",
-      "location": "",
-      "story": "",
-      "note": "No verified real-life bearer is published for this name."
-    },
-    "social_tags": [
-      "#PersianNames",
-      "#IslamicNames",
-      "#FlowerNames"
-    ],
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aahoo",
-          "description": "Discover the meaning of Aahoo - \"Jasmine\"",
-          "image": "/images/social/aahoo-facebook.jpg"
-        },
-        "twitter": {
-          "title": "Aahoo - Name Meaning",
-          "description": "Learn about the beautiful name Aahoo",
-          "image": "/images/social/aahoo-twitter.jpg"
-        },
-        "instagram": {
-          "title": "Aahoo",
-          "description": "Name meaning: Jasmine",
-          "image": "/images/social/aahoo-instagram.jpg"
-        }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aahoo - Meaning: Jasmine",
-        "email_subject": "Beautiful Name: Aahoo"
-      }
-    },
-    "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aahoo with meaning Jasmine",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
-    },
-    "seo": {
-      "title": "Aahoo Name Meaning – Gazelle; deer (Persian)",
-      "meta_description": "Aahoo is a Persian name meaning “Gazelle; deer”. Verified meaning, origin, root, pronunciation and FAQs.",
-      "meta_keywords": "Aahoo, Aahoo name meaning, Aahoo meaning, Aahoo origin, Aahoo root, Aahoo pronunciation, Arabic names",
-      "description_paragraph": "Aahoo is a Persian name meaning “Gazelle; deer”.",
-      "keywords": [
-        "Aahoo",
-        "Aahoo name meaning",
-        "Aahoo meaning",
-        "Aahoo origin",
-        "Aahoo root",
-        "Aahoo pronunciation",
-        "Arabic names"
-      ],
-      "focus_keyword": "Aahoo name meaning",
-      "secondary_keywords": [
-        "Aahoo meaning",
-        "Aahoo origin",
-        "Aahoo pronunciation",
-        "Aahoo lucky number"
-      ],
-      "canonical_url": "",
-      "seo_score": 70,
-      "faq": [
-        {
-          "q": "What does Aahoo mean?",
-          "a": "Aahoo is the Persian word āhū (آهو) meaning 'gazelle, deer'. In Persian and Urdu poetry the gazelle symbolises beauty and grace, which is why it is used as a girl's name."
-        },
-        {
-          "q": "What does the name Aahoo mean?",
-          "a": "Aahoo means “Gazelle; deer”."
-        },
-        {
-          "q": "Where does the name Aahoo come from?",
-          "a": "Aahoo is of Persian origin."
-        },
-        {
-          "q": "What is the linguistic root of Aahoo?",
-          "a": "The root of Aahoo is Persian āhū (آهو)."
-        },
-        {
-          "q": "How is Aahoo written in Arabic script?",
-          "a": "Aahoo is written آهو in Arabic script."
-        },
-        {
-          "q": "Is Aahoo a boy's or a girl's name?",
-          "a": "Aahoo is used as a female name."
-        },
-        {
-          "q": "Does Aahoo appear in the Qur'an?",
-          "a": "No. Aahoo is not a Qur'anic name; it is used in Muslim naming tradition."
-        },
-        {
-          "q": "Is the meaning of Aahoo verified?",
-          "a": "Yes — the meaning “Gazelle; deer” is established by Persian noun āhū 'gazelle, deer'; used as a female given name in Persian and Urdu.."
-        }
-      ]
-    },
-    "seo_title": "Aahoo Name Meaning – Gazelle; deer (Persian)",
-    "meta_description": "Aahoo is a Persian name meaning “Gazelle; deer”. Verified meaning, origin, root, pronunciation and FAQs.",
-    "keywords": [
-      "Aahoo",
-      "Aahoo name meaning",
-      "Aahoo meaning",
-      "Aahoo origin",
-      "Aahoo root",
-      "Aahoo pronunciation",
-      "Arabic names"
-    ],
-    "canonical_url": "",
-    "intro_paragraph": "Aahoo is a Persian name meaning “Gazelle; deer”.",
-    "structured_data": {
-      "@context": "https://schema.org",
-      "@type": "Thing",
-      "name": "Aahoo",
-      "description": "Aahoo — Gazelle; deer",
-      "additionalType": "https://schema.org/Person"
-    },
-    "structured_data_faq": {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What does Aahoo mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aahoo is the Persian word āhū (آهو) meaning 'gazelle, deer'. In Persian and Urdu poetry the gazelle symbolises beauty and grace, which is why it is used as a girl's name."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What does the name Aahoo mean?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aahoo means “Gazelle; deer”."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where does the name Aahoo come from?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aahoo is of Persian origin."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the linguistic root of Aahoo?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The root of Aahoo is Persian āhū (آهو)."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is Aahoo written in Arabic script?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aahoo is written آهو in Arabic script."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is Aahoo a boy's or a girl's name?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aahoo is used as a female name."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does Aahoo appear in the Qur'an?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. Aahoo is not a Qur'anic name; it is used in Muslim naming tradition."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the meaning of Aahoo verified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes — the meaning “Gazelle; deer” is established by Persian noun āhū 'gazelle, deer'; used as a female given name in Persian and Urdu.."
-          }
-        }
-      ]
-    },
-    "structured_data_breadcrumb": {},
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 50,
-        "readability_score": "A",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
-    },
-    "confidence": {
-      "meaning": "HIGH",
-      "etymology": "HIGH",
-      "origin": "HIGH",
-      "scripts": "HIGH",
-      "pronunciation": "MEDIUM",
-      "gender": "HIGH",
-      "numerology": "MEDIUM",
-      "popularity": "UNKNOWN",
-      "faq": "MEDIUM",
-      "notable_people": "UNKNOWN",
-      "historical_references": "HIGH"
-    },
-    "data_quality": {
-      "source_was_thin": false,
-      "authenticity_flags": [],
-      "fields_total": 74
-    },
-    "created_at": "2025-12-22T19:19:50.339Z",
-    "updated_at": "2026-10-01T04:04:17.000Z",
-    "tier1_verified": {
-      "name": "Aahoo",
-      "slug": "aahoo",
-      "meaning": "Gazelle; deer",
-      "origin": "Persian",
-      "language": [
-        "Persian",
-        "Urdu"
-      ],
-      "gender": "Female",
-      "root": "Persian āhū (آهو)",
-      "etymology": "From Persian āhū (آهو) 'gazelle, deer'. In Persian and Urdu poetry the gazelle is a classic image of beauty and grace, which is why the word is used as a female given name.",
-      "script": {
-        "arabic": "آهو",
-        "urdu": "آهو",
-        "hindi": "आहू",
-        "pashto": "آهو"
-      },
-      "transliteration": "Āhū",
-      "reference": "Persian noun āhū 'gazelle, deer'; used as a female given name in Persian and Urdu.",
-      "confidence": "HIGH"
-    },
-    "tier2_explanatory": {
-      "short_meaning": "Gazelle; deer",
-      "long_meaning": "From Persian āhū (آهو) 'gazelle, deer'. In Persian and Urdu poetry the gazelle is a classic image of beauty and grace, which is why the word is used as a female given name. Aahoo therefore means “Gazelle; deer”. Persian noun āhū 'gazelle, deer'; used as a female given name in Persian and Urdu.",
-      "translations": {
-        "arabic": {
-          "name": "آهو",
-          "meaning": "آهو — المعنى: Gazelle; deer",
-          "confidence": "HIGH"
-        },
-        "urdu": {
-          "name": "آهو",
-          "meaning": "آهو — مطلب: Gazelle; deer",
-          "confidence": "HIGH"
-        },
-        "hindi": {
-          "name": "आहू",
-          "meaning": "आहू — अर्थ: Gazelle; deer",
-          "confidence": "HIGH"
-        },
-        "pashto": {
-          "name": "آهو",
-          "meaning": "آهو — معنی: Gazelle; deer",
-          "confidence": "HIGH"
-        },
-        "english": {
-          "name": "Aahoo",
-          "meaning": "Gazelle; deer",
-          "confidence": "HIGH"
-        }
-      },
-      "pronunciation": {
-        "english": "AA-hoo",
-        "ipa": "/ˈɑː.huː/"
-      },
-      "syllables": 2,
-      "name_length": 5,
-      "faqs": [
-        {
-          "q": "What does Aahoo mean?",
-          "a": "Aahoo is the Persian word āhū (آهو) meaning 'gazelle, deer'. In Persian and Urdu poetry the gazelle symbolises beauty and grace, which is why it is used as a girl's name."
-        },
-        {
-          "q": "What does the name Aahoo mean?",
-          "a": "Aahoo means “Gazelle; deer”."
-        },
-        {
-          "q": "Where does the name Aahoo come from?",
-          "a": "Aahoo is of Persian origin."
-        },
-        {
-          "q": "What is the linguistic root of Aahoo?",
-          "a": "The root of Aahoo is Persian āhū (آهو)."
-        },
-        {
-          "q": "How is Aahoo written in Arabic script?",
-          "a": "Aahoo is written آهو in Arabic script."
-        },
-        {
-          "q": "Is Aahoo a boy's or a girl's name?",
-          "a": "Aahoo is used as a female name."
-        },
-        {
-          "q": "Does Aahoo appear in the Qur'an?",
-          "a": "No. Aahoo is not a Qur'anic name; it is used in Muslim naming tradition."
-        },
-        {
-          "q": "Is the meaning of Aahoo verified?",
-          "a": "Yes — the meaning “Gazelle; deer” is established by Persian noun āhū 'gazelle, deer'; used as a female given name in Persian and Urdu.."
-        }
-      ]
-    },
-    "tier3_interpretive": {
-      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-      "numerology": {
-        "lucky_number": 4,
-        "life_path_number": 4,
-        "ruling_planet": "Rahu",
-        "lucky_day": "Saturday",
-        "lucky_stone": "Hessonite",
-        "lucky_colors": [
-          "Grey",
-          "Blue"
-        ],
-        "numerology_meaning": "In Pythagorean numerology the letters of Aahoo total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-      },
-      "personality_associations": [],
-      "spiritual_symbolism": ""
-    },
-    "verification": {
-      "needs_manual_verification": false,
-      "flags": [],
-      "confidence": "HIGH",
-      "sources": [
-        "Persian noun āhū 'gazelle, deer'; used as a female given name in Persian and Urdu."
-      ]
-    },
-    "nameverse": {
-      "pipeline": "NameVerse v4",
-      "methodology": "Original -> Verified -> Expanded -> Enriched",
-      "tier1_verified": true,
-      "processed_at": "2026-10-01T04:04:17.000Z"
+    "instagram": {
+     "title": "Aahoo",
+     "description": "Name meaning: Gazelle; deer (āhū)",
+     "image": "/images/social/aahoo-instagram.jpg"
     }
+   },
+   "sharing_optimization": {
+    "whatsapp_message": "Check out this name: Aahoo - Meaning: Gazelle; deer (āhū)",
+    "email_subject": "Beautiful Name: Aahoo"
+   }
+  },
+  "accessibility": {
+   "screen_reader_optimized": true,
+   "alt_text": "Aahoo with meaning Gazelle; deer (āhū)",
+   "keyboard_navigable": true,
+   "high_contrast_mode": true,
+   "font_scaling_support": true,
+   "voice_navigation": true,
+   "braille_compatible": true,
+   "language_attributes": {
+    "primary": "en",
+    "rtl_support": true
+   }
+  },
+  "seo": {
+   "title": "Aahoo Name Meaning - Gazelle; deer (āhū) (Persian)",
+   "meta_description": "Aahoo is a Persian name meaning Gazelle; deer (āhū). Verified meaning, root, script and 15 FAQs.",
+   "meta_keywords": "Aahoo, Aahoo name meaning, Aahoo meaning, Aahoo origin, Aahoo root, Aahoo pronunciation",
+   "description_paragraph": "Aahoo is a Persian name meaning Gazelle; deer (āhū).",
+   "keywords": [
+    "Aahoo",
+    "Aahoo name meaning",
+    "Aahoo meaning",
+    "Aahoo origin",
+    "Aahoo pronunciation"
+   ],
+   "focus_keyword": "Aahoo name meaning",
+   "secondary_keywords": [
+    "Aahoo meaning",
+    "Aahoo origin",
+    "Aahoo pronunciation",
+    "Aahoo lucky number"
+   ],
+   "canonical_url": "",
+   "seo_score": 94,
+   "seo_score_basis": "FAQ 15 (>=15 target); no high-severity issues",
+   "faq": [
+    {
+     "q": "What does the name Aahoo mean?",
+     "a": "Aahoo means Gazelle; deer (āhū)."
+    },
+    {
+     "q": "What is the origin of the name Aahoo?",
+     "a": "Aahoo is of Persian origin."
+    },
+    {
+     "q": "What language does the name Aahoo come from?",
+     "a": "Aahoo is used in Persian, Urdu."
+    },
+    {
+     "q": "Is Aahoo a boy's name or a girl's name?",
+     "a": "Aahoo is used as a female name."
+    },
+    {
+     "q": "How is Aahoo pronounced?",
+     "a": "Aahoo is pronounced AA-hoo (IPA /aː.ˈhuː/)."
+    },
+    {
+     "q": "How is Aahoo written in Arabic and Urdu?",
+     "a": "Aahoo is written آهو in Arabic and آہو in Urdu, and आहू in Devanagari."
+    },
+    {
+     "q": "What is the linguistic root of Aahoo?",
+     "a": "The root of Aahoo is Persian āhū (آهو)."
+    },
+    {
+     "q": "What is the etymology of Aahoo?",
+     "a": "Persian āhū, 'gazelle, deer'."
+    },
+    {
+     "q": "Does Aahoo appear in the Qur'an?",
+     "a": "Not a Qur'anic name; a Persian word-name used in Muslim communities."
+    },
+    {
+     "q": "What does Aahoo mean?",
+     "a": "Aahoo is the Persian āhū, meaning 'gazelle' or 'deer'."
+    },
+    {
+     "q": "What is the numerology or lucky number of Aahoo?",
+     "a": "In Pythagorean numerology the letters of Aahoo total 22, reducing to 4. Number 4 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+    },
+    {
+     "q": "What are the common spelling variants of Aahoo?",
+     "a": "Aahoo appears with variants and alternative spellings such as Ahu, Ahoo."
+    },
+    {
+     "q": "Which names are related to Aahoo?",
+     "a": "Names sharing form or root with Aahoo include Aafreen, Aabroo."
+    },
+    {
+     "q": "Why is Aahoo used as a name?",
+     "a": "The gazelle is a classic image of beauty and grace in Persian and Urdu poetry, which is why āhū is used as a name."
+    },
+    {
+     "q": "Where is the name Aahoo used today?",
+     "a": "Aahoo is used in Persian, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+    }
+   ]
+  },
+  "seo_title": "Aahoo Name Meaning - Gazelle; deer (āhū) (Persian)",
+  "meta_description": "Aahoo is a Persian name meaning Gazelle; deer (āhū). Verified meaning, root, script and 15 FAQs.",
+  "keywords": [
+   "Aahoo",
+   "Aahoo name meaning",
+   "Aahoo meaning",
+   "Aahoo origin",
+   "Aahoo pronunciation"
+  ],
+  "canonical_url": "",
+  "intro_paragraph": "Aahoo is a Persian name meaning Gazelle; deer (āhū). Persian āhū, 'gazelle, deer'.",
+  "structured_data": {
+   "@context": "https://schema.org",
+   "@type": "Thing",
+   "name": "Aahoo",
+   "description": "Aahoo - Gazelle; deer (āhū)",
+   "additionalType": "https://schema.org/Person"
+  },
+  "structured_data_faq": {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "What does the name Aahoo mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aahoo means Gazelle; deer (āhū)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the origin of the name Aahoo?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aahoo is of Persian origin."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What language does the name Aahoo come from?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aahoo is used in Persian, Urdu."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Aahoo a boy's name or a girl's name?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aahoo is used as a female name."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aahoo pronounced?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aahoo is pronounced AA-hoo (IPA /aː.ˈhuː/)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Aahoo written in Arabic and Urdu?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aahoo is written آهو in Arabic and آہو in Urdu, and आहू in Devanagari."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the linguistic root of Aahoo?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The root of Aahoo is Persian āhū (آهو)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the etymology of Aahoo?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Persian āhū, 'gazelle, deer'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Aahoo appear in the Qur'an?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Not a Qur'anic name; a Persian word-name used in Muslim communities."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What does Aahoo mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aahoo is the Persian āhū, meaning 'gazelle' or 'deer'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the numerology or lucky number of Aahoo?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In Pythagorean numerology the letters of Aahoo total 22, reducing to 4. Number 4 is traditionally associated with its own character. This is an interpretive tradition, not a factual claim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What are the common spelling variants of Aahoo?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aahoo appears with variants and alternative spellings such as Ahu, Ahoo."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Which names are related to Aahoo?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Names sharing form or root with Aahoo include Aafreen, Aabroo."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Why is Aahoo used as a name?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The gazelle is a classic image of beauty and grace in Persian and Urdu poetry, which is why āhū is used as a name."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Where is the name Aahoo used today?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aahoo is used in Persian, Urdu naming communities. No verified registration statistics are published for it, so no popularity score is asserted."
+     }
+    }
+   ]
+  },
+  "structured_data_breadcrumb": {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Islamic Names",
+     "item": ""
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Aahoo",
+     "item": ""
+    }
+   ]
+  },
+  "advanced_seo": {
+   "technical_seo": {
+    "mobile_friendly": true,
+    "schema_markup": true,
+    "rtl_rendering": true
+   },
+   "content_seo": {
+    "faq_count": 15,
+    "internal_linking": true,
+    "unique_field_coverage": "name-specific meaning, etymology, root, script and FAQ"
+   },
+   "performance_metrics": {}
+  },
+  "confidence": {
+   "meaning": "HIGH",
+   "etymology": "HIGH",
+   "origin": "HIGH",
+   "scripts": "HIGH",
+   "pronunciation": "MEDIUM",
+   "gender": "MEDIUM",
+   "numerology": "MEDIUM",
+   "popularity": "UNKNOWN",
+   "faq": "HIGH",
+   "notable_people": "UNKNOWN",
+   "historical_references": "HIGH"
+  },
+  "data_quality": {
+   "source_was_thin": true,
+   "authenticity_flags": [],
+   "fields_total": 78
+  },
+  "created_at": "2025-06-29T09:02:52.166896",
+  "updated_at": "2026-10-01T10:45:00.000Z",
+  "tier1_verified": {
+   "name": "Aahoo",
+   "slug": "aahoo",
+   "meaning": "Gazelle; deer (āhū)",
+   "origin": "Persian",
+   "language": [
+    "Persian",
+    "Urdu"
+   ],
+   "gender": "Female",
+   "root": "Persian āhū (آهو)",
+   "etymology": "Persian āhū, 'gazelle, deer'.",
+   "script": {
+    "arabic": "آهو",
+    "urdu": "آہو",
+    "hindi": "आहू",
+    "pashto": "آهو"
+   },
+   "transliteration": "Āhū",
+   "reference": "Persian āhū, 'gazelle', a recurrent image of beauty and grace in Persian and Urdu poetry.",
+   "confidence": "HIGH"
+  },
+  "tier2_explanatory": {
+   "short_meaning": "Gazelle; deer (āhū)",
+   "long_meaning": "Aahoo (آهو) is the Persian āhū, 'gazelle, deer', a classic image of beauty and grace in Persian and Urdu poetry. It is used as a female name.",
+   "translations": {
+    "arabic": "Gazelle; deer",
+    "urdu": "Gazelle; deer",
+    "hindi": "Gazelle; deer",
+    "pashto": "Gazelle; deer",
+    "english": "Gazelle; deer (āhū)"
+   },
+   "pronunciation": {
+    "english": "AA-hoo",
+    "ipa": "/aː.ˈhuː/"
+   },
+   "syllables": 2,
+   "name_length": 5,
+   "faqs": 15
+  },
+  "tier3_interpretive": {
+   "disclaimer": "The following fields are interpretive/optional associations derived from traditional numerology, not factual claims.",
+   "numerology": {
+    "lucky_number": 4,
+    "life_path_number": 4,
+    "ruling_planet": "Uranus",
+    "lucky_day": "Sunday",
+    "lucky_stone": "Hessonite",
+    "lucky_colors": [
+     "Grey",
+     "Blue"
+    ],
+    "numerology_meaning": "In Pythagorean numerology the letters of Aahoo total 22, reducing to 4."
+   },
+   "personality_associations": [],
+   "spiritual_symbolism": ""
+  },
+  "verification": {
+   "needs_manual_verification": false,
+   "flags": [],
+   "confidence": "HIGH",
+   "sources": [
+    "Persian āhū, 'gazelle', a recurrent image of beauty and grace in Persian and Urdu poetry."
+   ]
+  },
+  "nameverse": {
+   "pipeline": "NameVerse Production v5",
+   "methodology": "Original to Verified to Expanded to Enriched",
+   "tier1_verified": true,
+   "processed_at": "2026-10-01T10:45:00.000Z"
   }
+ }
 }
