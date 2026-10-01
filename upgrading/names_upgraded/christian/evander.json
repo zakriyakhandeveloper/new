@@ -1,505 +1,344 @@
 {
- "success": true,
- "data": {
-  "name": "Evander",
-  "slug": "evander",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Evander is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Evander means 'good man' in Greek.",
-  "long_meaning": "The name Evander is recorded with the meaning “Evander means 'good man' in Greek.”. Evander is a Biblical name meaning “Evander means 'good man' in Greek.”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Evander expresses “Evander means 'good man' in Greek.”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Evander is recorded with the meaning “Evander means 'good man' in Greek.”. Evander is a Biblical name meaning “Evander means 'good man' in Greek.”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "e-v-a-n-d-e-r",
-  "syllables": 3,
-  "name_length": 7,
-  "transliteration": [
-   "Evander"
-  ],
-  "lucky_number": 6,
-  "lucky_day": "Friday",
-  "lucky_colors": [
-   "White",
-   "Pink"
-  ],
-  "lucky_stone": "Diamond",
-  "ruling_planet": "Venus",
-  "life_path_number": 6,
-  "numerology_meaning": "In Pythagorean numerology the letters of Evander total 33, reducing to 6. Number 6 is associated with responsibility, care and harmony.",
-  "in_hebrew": {
-   "name": "אוונדר",
-   "meaning": "אלוהים הוא גואל ומגן",
-   "long_meaning": "אוונדר הוא שם שמקורו במילה היוונית 'Εὐάνδηρος' (Evanderos), שמשמעותה 'אלוהים הוא גואל ומגן'. השם נגזר מהמילים 'εὐ' (eu), שמשמעותה 'טוב' או 'אלוהים', ו'ἀνδρός' (andros), שמשמעותה 'גבר' או 'גואל'. השם אוונדר מופיע בתנ'ך העברית רק באופן עקיף, אך הוא משמש כשם פרטי בקרב הנוצרים, המסמל את הקשר בין האל לאדם."
-  },
-  "in_greek": {
-   "name": "Εὐάνδηρος",
-   "meaning": "Εὐ (καλός) + ἄνδρος (ἀνδρεία), ἀνδρός",
-   "long_meaning": "Εὐάνδηρος (Evanderos) προέρχεται ἀπό τίς σύνθεση τῶν λέξεων 'εὐ' (καλός) καί 'ἄνδρος' (ἀνδρεία), ἐκφράζοντας τὴν ἰδέα τοῦ ἀγαθοῦ ἤ τοῦ θεοῦ ὡς ἀνδρός, τῆς ἀνδρείας ἤ τοῦ ἀσφαλιστή. Ὁ ὄρος Εὐάνδηρος εἰς τὴν Καινή Διαθήκη δὲν ἀναφέρεται ἄμεσα, ἀλλὰ ὁ ὄρος αὐτός εἶναι σύνθετος μὲ τὴν πρῶτον εἰς τὴν ἑλληνικὴ χριστιανικὴ παράδοση."
-  },
-  "in_latin": {
-   "name": "Evander",
-   "meaning": "bonus andros, id est vir bonus",
-   "long_meaning": "Nomen Evander derivatur ex vocibus Graecis 'εὐ' (bonus) et 'ἄνδρος' (vir), quae simul significant 'vir bonus' seu 'bonus andros'. Evander in traditione Christiana significationem habet virtutis et tutelae divinae, quae est consensus inter Deum et hominem."
-  },
-  "in_english": {
-   "name": "Evander",
-   "meaning": "Evander means 'good man' in Greek.",
-   "long_meaning": "The name Evander is recorded with the meaning “Evander means 'good man' in Greek.”. Evander is a Biblical name meaning “Evander means 'good man' in Greek.”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "eh-VAN-der",
-   "ipa": "/ɛˈvændər/"
-  },
-  "name_variations": [
-   "Evander"
-  ],
-  "variants": [
-   "Evander"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Evander is used in Biblical naming tradition with the meaning “Evander means 'good man' in Greek.”.",
-  "spiritual_significance": "Any spiritual significance attached to Evander is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Evander means 'good man' in Greek.” is the basis of any symbolism attached to Evander; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Evander."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#EvanderMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Evander"
-  ],
-  "monetization": {
-   "ad_places": [
-    {
-     "position": "above_content",
-     "size": "medium_rectangle"
-    },
-    {
-     "position": "below_content",
-     "size": "leaderboard"
-    }
-   ],
-   "affiliate_links": [
-    {
-     "text": "Shop for baby clothes and accessories with the name Evander.",
-     "url": "https://example.com/evander-baby-shop"
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Evander Name Meaning – Evander means 'good man' in Greek. (Biblical)",
-   "meta_description": "Evander is a Biblical name meaning “Evander means 'good man' in Greek.”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Evander, Evander name meaning, Evander meaning, Evander origin, Evander root, Evander pronunciation, Biblical names",
-   "description_paragraph": "Evander is a Biblical name meaning “Evander means 'good man' in Greek.”.",
-   "keywords": [
-    "Evander",
-    "Evander name meaning",
-    "Evander meaning",
-    "Evander origin",
-    "Evander root",
-    "Evander pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Evander name meaning",
-   "secondary_keywords": [
-    "Evander meaning",
-    "Evander origin",
-    "Evander pronunciation",
-    "Evander lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/evander",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "How reliable is the meaning given for Evander?",
-     "a": "The meaning of Evander carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Evander have a religious meaning?",
-     "a": "Evander is recorded as a christian name meaning “Evander means 'good man' in Greek.”."
-    },
-    {
-     "q": "What is the English meaning of Evander?",
-     "a": "In English, Evander is rendered as “Evander means 'good man' in Greek.”."
-    },
-    {
-     "q": "Is Evander suitable for a baby?",
-     "a": "Evander is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Evander?",
-     "a": "Evander is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Evander?",
-     "a": "Evander is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Evander have a positive meaning?",
-     "a": "Evander carries the meaning “Evander means 'good man' in Greek.”."
-    },
-    {
-     "q": "What does the name Evander mean?",
-     "a": "Evander means “Evander means 'good man' in Greek.”."
-    },
-    {
-     "q": "What is the origin of the name Evander?",
-     "a": "Evander is of Biblical origin."
-    },
-    {
-     "q": "Is Evander a male name?",
-     "a": "Evander is used as a male name."
-    },
-    {
-     "q": "How many syllables does Evander have?",
-     "a": "Evander has 3 syllables."
-    },
-    {
-     "q": "How is Evander pronounced?",
-     "a": "Evander is pronounced as given in the pronunciation field of this record."
-    }
-   ]
-  },
-  "seo_title": "Evander Name Meaning – Evander means 'good man' in Greek. (Biblical)",
-  "meta_description": "Evander is a Biblical name meaning “Evander means 'good man' in Greek.”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Evander",
-   "Evander name meaning",
-   "Evander meaning",
-   "Evander origin",
-   "Evander root",
-   "Evander pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/evander",
-  "intro_paragraph": "Evander is a Biblical name meaning “Evander means 'good man' in Greek.”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Evander",
-   "description": "Evander — Evander means 'good man' in Greek.",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Evander?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Evander carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Evander have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Evander is recorded as a christian name meaning “Evander means 'good man' in Greek.”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Evander?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Evander is rendered as “Evander means 'good man' in Greek.”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Evander suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Evander is used as a male given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Evander?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Evander is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Evander?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Evander is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Evander have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Evander carries the meaning “Evander means 'good man' in Greek.”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Evander mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Evander means “Evander means 'good man' in Greek.”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Evander?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Evander is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Evander a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Evander is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Evander have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Evander has 3 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Evander pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Evander is pronounced as given in the pronunciation field of this record."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Evander",
-     "item": "https://namemeaning.example/name/evander"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 60,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Evander",
-   "slug": "evander",
-   "meaning": "Evander means 'good man' in Greek.",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Evander",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Evander means 'good man' in Greek.",
-   "long_meaning": "The name Evander is recorded with the meaning “Evander means 'good man' in Greek.”. Evander is a Biblical name meaning “Evander means 'good man' in Greek.”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Evander",
-     "meaning": "Evander means 'good man' in Greek.",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "eh-VAN-der",
-    "ipa": "/ɛˈvændər/"
-   },
-   "syllables": 3,
-   "name_length": 7,
-   "faqs": [
-    {
-     "q": "How reliable is the meaning given for Evander?",
-     "a": "The meaning of Evander carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Evander have a religious meaning?",
-     "a": "Evander is recorded as a christian name meaning “Evander means 'good man' in Greek.”."
-    },
-    {
-     "q": "What is the English meaning of Evander?",
-     "a": "In English, Evander is rendered as “Evander means 'good man' in Greek.”."
-    },
-    {
-     "q": "Is Evander suitable for a baby?",
-     "a": "Evander is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Evander?",
-     "a": "Evander is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Evander?",
-     "a": "Evander is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Evander have a positive meaning?",
-     "a": "Evander carries the meaning “Evander means 'good man' in Greek.”."
-    },
-    {
-     "q": "What does the name Evander mean?",
-     "a": "Evander means “Evander means 'good man' in Greek.”."
-    },
-    {
-     "q": "What is the origin of the name Evander?",
-     "a": "Evander is of Biblical origin."
-    },
-    {
-     "q": "Is Evander a male name?",
-     "a": "Evander is used as a male name."
-    },
-    {
-     "q": "How many syllables does Evander have?",
-     "a": "Evander has 3 syllables."
-    },
-    {
-     "q": "How is Evander pronounced?",
-     "a": "Evander is pronounced as given in the pronunciation field of this record."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 6,
-    "life_path_number": 6,
-    "ruling_planet": "Venus",
-    "lucky_day": "Friday",
-    "lucky_stone": "Diamond",
-    "lucky_colors": [
-     "White",
-     "Pink"
+  "success": true,
+  "data": {
+    "name": "Evander",
+    "slug": "evander",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Evander total 33, reducing to 6. Number 6 is associated with responsibility, care and harmony."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Evander is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Evander means 'good man' in Greek.",
+    "long_meaning": "The meaning of Evander is recorded in name-lists as “Evander means 'good man' in Greek.”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Evander expresses “Evander means 'good man' in Greek.”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "e-v-a-n-d-e-r",
+    "syllables": 3,
+    "name_length": 7,
+    "transliteration": [
+      "Evander"
+    ],
+    "lucky_number": 6,
+    "lucky_day": "Friday",
+    "lucky_colors": [
+      "White",
+      "Pink"
+    ],
+    "lucky_stone": "Diamond",
+    "ruling_planet": "Venus",
+    "life_path_number": 6,
+    "numerology_meaning": "In Pythagorean numerology the letters of Evander total 33, reducing to 6. Number 6 is associated with responsibility, care and harmony.",
+    "in_hebrew": {
+      "name": "אוונדר",
+      "meaning": "אלוהים הוא גואל ומגן",
+      "long_meaning": "אוונדר הוא שם שמקורו במילה היוונית 'Εὐάνδηρος' (Evanderos), שמשמעותה 'אלוהים הוא גואל ומגן'. השם נגזר מהמילים 'εὐ' (eu), שמשמעותה 'טוב' או 'אלוהים', ו'ἀνδρός' (andros), שמשמעותה 'גבר' או 'גואל'. השם אוונדר מופיע בתנ'ך העברית רק באופן עקיף, אך הוא משמש כשם פרטי בקרב הנוצרים, המסמל את הקשר בין האל לאדם."
+    },
+    "in_greek": {
+      "name": "Εὐάνδηρος",
+      "meaning": "Εὐ (καλός) + ἄνδρος (ἀνδρεία), ἀνδρός",
+      "long_meaning": "Εὐάνδηρος (Evanderos) προέρχεται ἀπό τίς σύνθεση τῶν λέξεων 'εὐ' (καλός) καί 'ἄνδρος' (ἀνδρεία), ἐκφράζοντας τὴν ἰδέα τοῦ ἀγαθοῦ ἤ τοῦ θεοῦ ὡς ἀνδρός, τῆς ἀνδρείας ἤ τοῦ ἀσφαλιστή. Ὁ ὄρος Εὐάνδηρος εἰς τὴν Καινή Διαθήκη δὲν ἀναφέρεται ἄμεσα, ἀλλὰ ὁ ὄρος αὐτός εἶναι σύνθετος μὲ τὴν πρῶτον εἰς τὴν ἑλληνικὴ χριστιανικὴ παράδοση."
+    },
+    "in_latin": {
+      "name": "Evander",
+      "meaning": "bonus andros, id est vir bonus",
+      "long_meaning": "Nomen Evander derivatur ex vocibus Graecis 'εὐ' (bonus) et 'ἄνδρος' (vir), quae simul significant 'vir bonus' seu 'bonus andros'. Evander in traditione Christiana significationem habet virtutis et tutelae divinae, quae est consensus inter Deum et hominem."
+    },
+    "in_english": {
+      "name": "Evander",
+      "meaning": "Evander means 'good man' in Greek.",
+      "long_meaning": "Evander means 'good man' in Greek."
+    },
+    "pronunciation": {
+      "english": "eh-VAN-der",
+      "ipa": "/ɛˈvændər/"
+    },
+    "name_variations": [
+      "Evander"
+    ],
+    "variants": [
+      "Evander"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Evander is used in Biblical naming tradition with the meaning “Evander means 'good man' in Greek.”.",
+    "spiritual_significance": "Any spiritual significance attached to Evander is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Evander means 'good man' in Greek.” is the basis of any symbolism attached to Evander; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Evander."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#EvanderMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Evander"
+    ],
+    "monetization": {
+      "ad_places": [
+        {
+          "position": "above_content",
+          "size": "medium_rectangle"
+        },
+        {
+          "position": "below_content",
+          "size": "leaderboard"
+        }
+      ],
+      "affiliate_links": [
+        {
+          "text": "Shop for baby clothes and accessories with the name Evander.",
+          "url": "https://example.com/evander-baby-shop"
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Evander Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Evander has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Evander, Evander name meaning, Evander meaning, Evander origin, Evander root, Evander pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Evander has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Evander",
+        "Evander name meaning",
+        "Evander meaning",
+        "Evander origin",
+        "Evander root",
+        "Evander pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Evander name meaning",
+      "secondary_keywords": [
+        "Evander meaning",
+        "Evander origin",
+        "Evander pronunciation",
+        "Evander lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Evander mean?",
+          "a": "Name-lists record the meaning as “Evander means 'good man' in Greek.”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Evander verified?",
+          "a": "No. The meaning of Evander could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Evander come from?",
+          "a": "The origin of Evander has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Evander Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Evander has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Evander",
+      "Evander name meaning",
+      "Evander meaning",
+      "Evander origin",
+      "Evander root",
+      "Evander pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Evander has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Evander",
+      "description": "Evander — Evander means 'good man' in Greek.",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Evander mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Evander means 'good man' in Greek.”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Evander verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Evander could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Evander come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Evander has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 60,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:10:17.000Z",
+    "tier1_verified": {
+      "name": "Evander",
+      "slug": "evander",
+      "meaning": "Evander means 'good man' in Greek.",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Evander",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Evander means 'good man' in Greek.",
+      "long_meaning": "The name Evander is recorded with the meaning “Evander means 'good man' in Greek.”. Evander is a Biblical name meaning “Evander means 'good man' in Greek.”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Evander",
+          "meaning": "Evander means 'good man' in Greek.",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "eh-VAN-der",
+        "ipa": "/ɛˈvændər/"
+      },
+      "syllables": 3,
+      "name_length": 7,
+      "faqs": [
+        {
+          "q": "What does the name Evander mean?",
+          "a": "Name-lists record the meaning as “Evander means 'good man' in Greek.”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Evander verified?",
+          "a": "No. The meaning of Evander could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Evander come from?",
+          "a": "The origin of Evander has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 6,
+        "life_path_number": 6,
+        "ruling_planet": "Venus",
+        "lucky_day": "Friday",
+        "lucky_stone": "Diamond",
+        "lucky_colors": [
+          "White",
+          "Pink"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Evander total 33, reducing to 6. Number 6 is associated with responsibility, care and harmony."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:10:17.000Z"
+    }
   }
- }
 }

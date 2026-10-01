@@ -1,489 +1,328 @@
 {
- "success": true,
- "data": {
-  "name": "Laelia",
-  "slug": "laelia",
-  "language": [
-   "English",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Laelia is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Dawn, gentle, elegant",
-  "long_meaning": "The name Laelia is recorded with the meaning “Dawn, gentle, elegant”. Laelia is a Biblical name meaning “Dawn, gentle, elegant”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Laelia expresses “Dawn, gentle, elegant”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Laelia is recorded with the meaning “Dawn, gentle, elegant”. Laelia is a Biblical name meaning “Dawn, gentle, elegant”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "l-a-e-l-i-a",
-  "syllables": 2,
-  "name_length": 6,
-  "transliteration": [
-   "Laelia"
-  ],
-  "lucky_number": 4,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Grey",
-   "Blue"
-  ],
-  "lucky_stone": "Hessonite",
-  "ruling_planet": "Rahu",
-  "life_path_number": 4,
-  "numerology_meaning": "In Pythagorean numerology the letters of Laelia total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-  "in_hebrew": {
-   "name": "לאליה",
-   "meaning": "שם נשים שמקורו בלטינית, שמשמעו 'אליל'",
-   "long_meaning": "בעברית, 'לא' פירושה 'אל', 'אליה' פירושה 'אל'. שם נשים שמקורו בלטינית, שמשמעו 'אליל' ונחשב כמושך. בספרו 'דברי הימים א' (1:18), המלך שלמה השתחווה לאליל, האלוהות המתפללת. בעת החדשה, 'לאליה' היא שם נפוץ בקרב יהודים ונוצרים, ומסמלת את האלוהות."
-  },
-  "in_greek": {
-   "name": "Λαελία",
-   "meaning": "όνομα γυναικών με καταγωγή από την λατινική, σημαίνει 'αειλάτρευτος'",
-   "long_meaning": "Ο Λαελίας είναι ονομάτων γυναικών με καταγωγή από την λατινική, που σημαίνει 'αειλάτρευτος' hoặc 'παντοτε λατρευόμενη'. Στη Νέα Διαθήκη, δεν υπάρχει αναφορά σε κάποιον με αυτό το όνομα. Ωστόσο, σε κάποιες παλαιοχριστιανικές εκκλησίες, το όνομα Λαελία χρησιμοποιείτο για να παραμείνει η ανάμνηση των θυσιαστηρίων στους οποίους οι πιστοί έκαναν θυσίες για την τιμή του Θεού. Τέλος, το όνομα Λαελία φαίνεται να συνδέεται με την εύνοια και την ευλογημένη φύση."
-  },
-  "in_latin": {
-   "name": "Laelia",
-   "meaning": "nomen femininum Latinae originis, significat 'idolum'",
-   "long_meaning": "Laelia, nomen femininum Latinae originis, significat 'idolum' vel 'simulacrum Dei'. In historia ecclesiae Christianae, Laelia est nomen quod habetur significari 'idolum', id est 'simulacrum Dei'. Hoc nomen est in usu ab antiquis temporibus, quando Christiani venerabantur simulacra Dei. Sicut in libro 'De Civitate Dei' (III, 18), Augustinus retulit ut 'idolum' significet 'simulacrum Dei'."
-  },
-  "in_english": {
-   "name": "Laelia",
-   "meaning": "Dawn, gentle, elegant",
-   "long_meaning": "The name Laelia is recorded with the meaning “Dawn, gentle, elegant”. Laelia is a Biblical name meaning “Dawn, gentle, elegant”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "LAY-lee-ah",
-   "biblical": "N/A",
-   "ipa": "/leɪˈli.ə/"
-  },
-  "name_variations": [
-   "Laelia"
-  ],
-  "variants": [
-   "Laelia"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Laelia is used in Biblical naming tradition with the meaning “Dawn, gentle, elegant”.",
-  "spiritual_significance": "Any spiritual significance attached to Laelia is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Dawn, gentle, elegant” is the basis of any symbolism attached to Laelia; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "note": "Laelia is not mentioned in the Bible as a personal name."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Laelia."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#LaeliaMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Laelia"
-  ],
-  "monetization": {
-   "google_ads": true,
-   "affiliate_links": [
-    "https://example.com/buy-books-on-name-meaning",
-    "https://example.com/buy-jewelry-with-lucky-stones"
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Laelia Name Meaning – Dawn, gentle, elegant (Biblical)",
-   "meta_description": "Laelia is a Biblical name meaning “Dawn, gentle, elegant”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Laelia, Laelia name meaning, Laelia meaning, Laelia origin, Laelia root, Laelia pronunciation, Biblical names",
-   "description_paragraph": "Laelia is a Biblical name meaning “Dawn, gentle, elegant”.",
-   "keywords": [
-    "Laelia",
-    "Laelia name meaning",
-    "Laelia meaning",
-    "Laelia origin",
-    "Laelia root",
-    "Laelia pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Laelia name meaning",
-   "secondary_keywords": [
-    "Laelia meaning",
-    "Laelia origin",
-    "Laelia pronunciation",
-    "Laelia lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/laelia",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What does the name Laelia say about a child?",
-     "a": "The name Laelia expresses “Dawn, gentle, elegant”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Laelia be used in another language?",
-     "a": "Laelia is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Laelia mentioned in scripture?",
-     "a": "No scriptural reference for Laelia has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Laelia?",
-     "a": "The Pythagorean lucky number for Laelia is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Laelia?",
-     "a": "Saturday is the traditional association for Laelia. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Laelia?",
-     "a": "Hessonite is the traditional association for Laelia. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Laelia?",
-     "a": "Grey, Blue are the traditional associations for Laelia. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Laelia?",
-     "a": "In Pythagorean numerology the letters of Laelia total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-    },
-    {
-     "q": "How reliable is the meaning given for Laelia?",
-     "a": "The meaning of Laelia carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Laelia have a religious meaning?",
-     "a": "Laelia is recorded as a christian name meaning “Dawn, gentle, elegant”."
-    },
-    {
-     "q": "What is the English meaning of Laelia?",
-     "a": "In English, Laelia is rendered as “Dawn, gentle, elegant”."
-    },
-    {
-     "q": "Is Laelia suitable for a baby?",
-     "a": "Laelia is used as a unisex given name; suitability is a personal choice."
-    }
-   ]
-  },
-  "seo_title": "Laelia Name Meaning – Dawn, gentle, elegant (Biblical)",
-  "meta_description": "Laelia is a Biblical name meaning “Dawn, gentle, elegant”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Laelia",
-   "Laelia name meaning",
-   "Laelia meaning",
-   "Laelia origin",
-   "Laelia root",
-   "Laelia pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/laelia",
-  "intro_paragraph": "Laelia is a Biblical name meaning “Dawn, gentle, elegant”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Laelia",
-   "description": "Laelia — Dawn, gentle, elegant",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What does the name Laelia say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Laelia expresses “Dawn, gentle, elegant”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Laelia be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Laelia is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Laelia mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Laelia has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Laelia?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Laelia is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Laelia?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Saturday is the traditional association for Laelia. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Laelia?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Hessonite is the traditional association for Laelia. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Laelia?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Grey, Blue are the traditional associations for Laelia. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Laelia?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Laelia total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Laelia?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Laelia carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Laelia have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Laelia is recorded as a christian name meaning “Dawn, gentle, elegant”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Laelia?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Laelia is rendered as “Dawn, gentle, elegant”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Laelia suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Laelia is used as a unisex given name; suitability is a personal choice."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Laelia",
-     "item": "https://namemeaning.example/name/laelia"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Laelia",
-   "slug": "laelia",
-   "meaning": "Dawn, gentle, elegant",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Laelia",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Dawn, gentle, elegant",
-   "long_meaning": "The name Laelia is recorded with the meaning “Dawn, gentle, elegant”. Laelia is a Biblical name meaning “Dawn, gentle, elegant”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Laelia",
-     "meaning": "Dawn, gentle, elegant",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "LAY-lee-ah",
-    "ipa": "/leɪˈli.ə/"
-   },
-   "syllables": 2,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "What does the name Laelia say about a child?",
-     "a": "The name Laelia expresses “Dawn, gentle, elegant”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Laelia be used in another language?",
-     "a": "Laelia is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Laelia mentioned in scripture?",
-     "a": "No scriptural reference for Laelia has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Laelia?",
-     "a": "The Pythagorean lucky number for Laelia is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Laelia?",
-     "a": "Saturday is the traditional association for Laelia. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Laelia?",
-     "a": "Hessonite is the traditional association for Laelia. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Laelia?",
-     "a": "Grey, Blue are the traditional associations for Laelia. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Laelia?",
-     "a": "In Pythagorean numerology the letters of Laelia total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-    },
-    {
-     "q": "How reliable is the meaning given for Laelia?",
-     "a": "The meaning of Laelia carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Laelia have a religious meaning?",
-     "a": "Laelia is recorded as a christian name meaning “Dawn, gentle, elegant”."
-    },
-    {
-     "q": "What is the English meaning of Laelia?",
-     "a": "In English, Laelia is rendered as “Dawn, gentle, elegant”."
-    },
-    {
-     "q": "Is Laelia suitable for a baby?",
-     "a": "Laelia is used as a unisex given name; suitability is a personal choice."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 4,
-    "life_path_number": 4,
-    "ruling_planet": "Rahu",
-    "lucky_day": "Saturday",
-    "lucky_stone": "Hessonite",
-    "lucky_colors": [
-     "Grey",
-     "Blue"
+  "success": true,
+  "data": {
+    "name": "Laelia",
+    "slug": "laelia",
+    "language": [
+      "English",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Laelia total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Laelia is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Dawn, gentle, elegant",
+    "long_meaning": "The meaning of Laelia is recorded in name-lists as “Dawn, gentle, elegant”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Laelia expresses “Dawn, gentle, elegant”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "l-a-e-l-i-a",
+    "syllables": 2,
+    "name_length": 6,
+    "transliteration": [
+      "Laelia"
+    ],
+    "lucky_number": 4,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Grey",
+      "Blue"
+    ],
+    "lucky_stone": "Hessonite",
+    "ruling_planet": "Rahu",
+    "life_path_number": 4,
+    "numerology_meaning": "In Pythagorean numerology the letters of Laelia total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
+    "in_hebrew": {
+      "name": "לאליה",
+      "meaning": "שם נשים שמקורו בלטינית, שמשמעו 'אליל'",
+      "long_meaning": "בעברית, 'לא' פירושה 'אל', 'אליה' פירושה 'אל'. שם נשים שמקורו בלטינית, שמשמעו 'אליל' ונחשב כמושך. בספרו 'דברי הימים א' (1:18), המלך שלמה השתחווה לאליל, האלוהות המתפללת. בעת החדשה, 'לאליה' היא שם נפוץ בקרב יהודים ונוצרים, ומסמלת את האלוהות."
+    },
+    "in_greek": {
+      "name": "Λαελία",
+      "meaning": "όνομα γυναικών με καταγωγή από την λατινική, σημαίνει 'αειλάτρευτος'",
+      "long_meaning": "Ο Λαελίας είναι ονομάτων γυναικών με καταγωγή από την λατινική, που σημαίνει 'αειλάτρευτος' hoặc 'παντοτε λατρευόμενη'. Στη Νέα Διαθήκη, δεν υπάρχει αναφορά σε κάποιον με αυτό το όνομα. Ωστόσο, σε κάποιες παλαιοχριστιανικές εκκλησίες, το όνομα Λαελία χρησιμοποιείτο για να παραμείνει η ανάμνηση των θυσιαστηρίων στους οποίους οι πιστοί έκαναν θυσίες για την τιμή του Θεού. Τέλος, το όνομα Λαελία φαίνεται να συνδέεται με την εύνοια και την ευλογημένη φύση."
+    },
+    "in_latin": {
+      "name": "Laelia",
+      "meaning": "nomen femininum Latinae originis, significat 'idolum'",
+      "long_meaning": "Laelia, nomen femininum Latinae originis, significat 'idolum' vel 'simulacrum Dei'. In historia ecclesiae Christianae, Laelia est nomen quod habetur significari 'idolum', id est 'simulacrum Dei'. Hoc nomen est in usu ab antiquis temporibus, quando Christiani venerabantur simulacra Dei. Sicut in libro 'De Civitate Dei' (III, 18), Augustinus retulit ut 'idolum' significet 'simulacrum Dei'."
+    },
+    "in_english": {
+      "name": "Laelia",
+      "meaning": "Dawn, gentle, elegant",
+      "long_meaning": "Dawn, gentle, elegant"
+    },
+    "pronunciation": {
+      "english": "LAY-lee-ah",
+      "biblical": "N/A",
+      "ipa": "/leɪˈli.ə/"
+    },
+    "name_variations": [
+      "Laelia"
+    ],
+    "variants": [
+      "Laelia"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Laelia is used in Biblical naming tradition with the meaning “Dawn, gentle, elegant”.",
+    "spiritual_significance": "Any spiritual significance attached to Laelia is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Dawn, gentle, elegant” is the basis of any symbolism attached to Laelia; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "note": "Laelia is not mentioned in the Bible as a personal name."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Laelia."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#LaeliaMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Laelia"
+    ],
+    "monetization": {
+      "google_ads": true,
+      "affiliate_links": [
+        "https://example.com/buy-books-on-name-meaning",
+        "https://example.com/buy-jewelry-with-lucky-stones"
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Laelia Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Laelia has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Laelia, Laelia name meaning, Laelia meaning, Laelia origin, Laelia root, Laelia pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Laelia has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Laelia",
+        "Laelia name meaning",
+        "Laelia meaning",
+        "Laelia origin",
+        "Laelia root",
+        "Laelia pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Laelia name meaning",
+      "secondary_keywords": [
+        "Laelia meaning",
+        "Laelia origin",
+        "Laelia pronunciation",
+        "Laelia lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Laelia mean?",
+          "a": "Name-lists record the meaning as “Dawn, gentle, elegant”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Laelia verified?",
+          "a": "No. The meaning of Laelia could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Laelia come from?",
+          "a": "The origin of Laelia has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Laelia Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Laelia has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Laelia",
+      "Laelia name meaning",
+      "Laelia meaning",
+      "Laelia origin",
+      "Laelia root",
+      "Laelia pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Laelia has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Laelia",
+      "description": "Laelia — Dawn, gentle, elegant",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Laelia mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Dawn, gentle, elegant”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Laelia verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Laelia could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Laelia come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Laelia has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:20:09.000Z",
+    "tier1_verified": {
+      "name": "Laelia",
+      "slug": "laelia",
+      "meaning": "Dawn, gentle, elegant",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Laelia",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Dawn, gentle, elegant",
+      "long_meaning": "The name Laelia is recorded with the meaning “Dawn, gentle, elegant”. Laelia is a Biblical name meaning “Dawn, gentle, elegant”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Laelia",
+          "meaning": "Dawn, gentle, elegant",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "LAY-lee-ah",
+        "ipa": "/leɪˈli.ə/"
+      },
+      "syllables": 2,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Laelia mean?",
+          "a": "Name-lists record the meaning as “Dawn, gentle, elegant”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Laelia verified?",
+          "a": "No. The meaning of Laelia could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Laelia come from?",
+          "a": "The origin of Laelia has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 4,
+        "life_path_number": 4,
+        "ruling_planet": "Rahu",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Hessonite",
+        "lucky_colors": [
+          "Grey",
+          "Blue"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Laelia total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:20:09.000Z"
+    }
   }
- }
 }

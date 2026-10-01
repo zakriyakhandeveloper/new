@@ -1,493 +1,332 @@
 {
- "success": true,
- "data": {
-  "name": "Eleonara",
-  "slug": "eleonara",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Eleonara is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Sunny, shining light, sunlit hill",
-  "long_meaning": "The name Eleonara is recorded with the meaning “Sunny, shining light, sunlit hill”. Eleonara is a Biblical name meaning “Sunny, shining light, sunlit hill”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Eleonara expresses “Sunny, shining light, sunlit hill”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Eleonara is recorded with the meaning “Sunny, shining light, sunlit hill”. Eleonara is a Biblical name meaning “Sunny, shining light, sunlit hill”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "e-l-e-o-n-a-r-a",
-  "syllables": 4,
-  "name_length": 8,
-  "transliteration": [
-   "Eleonara"
-  ],
-  "lucky_number": 8,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Blue",
-   "Black"
-  ],
-  "lucky_stone": "Blue Sapphire",
-  "ruling_planet": "Saturn",
-  "life_path_number": 8,
-  "numerology_meaning": "In Pythagorean numerology the letters of Eleonara total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-  "in_hebrew": {
-   "name": "אלעונרה",
-   "meaning": "אלעונרה היא אלעונ - אור אלוהים שלי",
-   "long_meaning": "אלעונרה היא שם נוצרי שמקורו במילים 'אלעונ' שפירושו 'אור אלוהים שלי' או 'אלוהים הוא האור שלי'. השם אלעונרה הוא גרסה נשית של השם אלעונ, שמקורו ביוונית ומשמעותו 'אור אלוהים'. השם אלעונרה משמש כמחווה לאור הרוחני והאלוהי בחיי הנושא אותו."
-  },
-  "in_greek": {
-   "name": "Ελεονορα",
-   "meaning": "Ελεονορα σημαίνει το φως του Θεού",
-   "long_meaning": "Ελεονορα είναι ένα χριστιανικό όνομα που προέρχεται από τις λέξεις 'Ελεος' που σημαίνει 'έλεος' ή 'φως' και 'νορα' που σημαίνει 'φως'. Το όνομα Ελεονορα είναι η θηλυκή μορφή του ονόματος Ελεον, που προέρχεται από την ελληνική γλώσσα και σημαίνει 'φως του Θεού'. Το όνομα Ελεονορα χρησιμοποιείται ως φόρος τιμής στο πνευματικό και θεϊκό φως στη ζωή του ατόμου που το φέρει."
-  },
-  "in_latin": {
-   "name": "Eleonara",
-   "meaning": "Eleonara means light of God",
-   "long_meaning": "Eleonara is a Christian name derived from the words 'Eleos' meaning 'mercy' or 'light' and 'nara' meaning 'light'. The name Eleonara is the feminine form of the name Eleon, which originates from the Greek language and means 'light of God'. The name Eleonara is used as a tribute to the spiritual and divine light in the life of the person who bears it."
-  },
-  "in_english": {
-   "name": "Eleonara",
-   "meaning": "Sunny, shining light, sunlit hill",
-   "long_meaning": "The name Eleonara is recorded with the meaning “Sunny, shining light, sunlit hill”. Eleonara is a Biblical name meaning “Sunny, shining light, sunlit hill”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "eh-lee-oh-NAH-ruh",
-   "ipa": "/ɛliːoʊˈnɑːrə/"
-  },
-  "name_variations": [
-   "Eleonara"
-  ],
-  "variants": [
-   "Eleonara"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Eleonara is used in Biblical naming tradition with the meaning “Sunny, shining light, sunlit hill”.",
-  "spiritual_significance": "Any spiritual significance attached to Eleonara is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Sunny, shining light, sunlit hill” is the basis of any symbolism attached to Eleonara; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Eleonara."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#EleonaraMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Eleonara"
-  ],
-  "monetization": {
-   "affiliate_links": [
-    "https://example.com/baby-names/eleonara"
-   ],
-   "donation_link": "https://example.com/donate"
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Eleonara Name Meaning – Sunny, shining light, sunlit hill (Biblical)",
-   "meta_description": "Eleonara is a Biblical name meaning “Sunny, shining light, sunlit hill”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Eleonara, Eleonara name meaning, Eleonara meaning, Eleonara origin, Eleonara root, Eleonara pronunciation, Biblical names",
-   "description_paragraph": "Eleonara is a Biblical name meaning “Sunny, shining light, sunlit hill”.",
-   "keywords": [
-    "Eleonara",
-    "Eleonara name meaning",
-    "Eleonara meaning",
-    "Eleonara origin",
-    "Eleonara root",
-    "Eleonara pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Eleonara name meaning",
-   "secondary_keywords": [
-    "Eleonara meaning",
-    "Eleonara origin",
-    "Eleonara pronunciation",
-    "Eleonara lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/eleonara",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Which colours are associated with Eleonara?",
-     "a": "Blue, Black are the traditional associations for Eleonara. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Eleonara?",
-     "a": "In Pythagorean numerology the letters of Eleonara total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-    },
-    {
-     "q": "How reliable is the meaning given for Eleonara?",
-     "a": "The meaning of Eleonara carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Eleonara have a religious meaning?",
-     "a": "Eleonara is recorded as a christian name meaning “Sunny, shining light, sunlit hill”."
-    },
-    {
-     "q": "What is the English meaning of Eleonara?",
-     "a": "In English, Eleonara is rendered as “Sunny, shining light, sunlit hill”."
-    },
-    {
-     "q": "Is Eleonara suitable for a baby?",
-     "a": "Eleonara is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Eleonara?",
-     "a": "Eleonara is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Eleonara?",
-     "a": "Eleonara is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Eleonara have a positive meaning?",
-     "a": "Eleonara carries the meaning “Sunny, shining light, sunlit hill”."
-    },
-    {
-     "q": "What does the name Eleonara mean?",
-     "a": "Eleonara means “Sunny, shining light, sunlit hill”."
-    },
-    {
-     "q": "What is the origin of the name Eleonara?",
-     "a": "Eleonara is of Biblical origin."
-    },
-    {
-     "q": "Is Eleonara a unisex name?",
-     "a": "Eleonara is used as a unisex name."
-    }
-   ]
-  },
-  "seo_title": "Eleonara Name Meaning – Sunny, shining light, sunlit hill (Biblical)",
-  "meta_description": "Eleonara is a Biblical name meaning “Sunny, shining light, sunlit hill”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Eleonara",
-   "Eleonara name meaning",
-   "Eleonara meaning",
-   "Eleonara origin",
-   "Eleonara root",
-   "Eleonara pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/eleonara",
-  "intro_paragraph": "Eleonara is a Biblical name meaning “Sunny, shining light, sunlit hill”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Eleonara",
-   "description": "Eleonara — Sunny, shining light, sunlit hill",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Eleonara?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Blue, Black are the traditional associations for Eleonara. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Eleonara?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Eleonara total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Eleonara?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Eleonara carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Eleonara have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Eleonara is recorded as a christian name meaning “Sunny, shining light, sunlit hill”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Eleonara?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Eleonara is rendered as “Sunny, shining light, sunlit hill”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Eleonara suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Eleonara is used as a unisex given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Eleonara?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Eleonara is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Eleonara?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Eleonara is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Eleonara have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Eleonara carries the meaning “Sunny, shining light, sunlit hill”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Eleonara mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Eleonara means “Sunny, shining light, sunlit hill”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Eleonara?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Eleonara is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Eleonara a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Eleonara is used as a unisex name."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Eleonara",
-     "item": "https://namemeaning.example/name/eleonara"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 58,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Eleonara",
-   "slug": "eleonara",
-   "meaning": "Sunny, shining light, sunlit hill",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Eleonara",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Sunny, shining light, sunlit hill",
-   "long_meaning": "The name Eleonara is recorded with the meaning “Sunny, shining light, sunlit hill”. Eleonara is a Biblical name meaning “Sunny, shining light, sunlit hill”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Eleonara",
-     "meaning": "Sunny, shining light, sunlit hill",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "eh-lee-oh-NAH-ruh",
-    "ipa": "/ɛliːoʊˈnɑːrə/"
-   },
-   "syllables": 4,
-   "name_length": 8,
-   "faqs": [
-    {
-     "q": "Which colours are associated with Eleonara?",
-     "a": "Blue, Black are the traditional associations for Eleonara. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Eleonara?",
-     "a": "In Pythagorean numerology the letters of Eleonara total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-    },
-    {
-     "q": "How reliable is the meaning given for Eleonara?",
-     "a": "The meaning of Eleonara carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Eleonara have a religious meaning?",
-     "a": "Eleonara is recorded as a christian name meaning “Sunny, shining light, sunlit hill”."
-    },
-    {
-     "q": "What is the English meaning of Eleonara?",
-     "a": "In English, Eleonara is rendered as “Sunny, shining light, sunlit hill”."
-    },
-    {
-     "q": "Is Eleonara suitable for a baby?",
-     "a": "Eleonara is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Eleonara?",
-     "a": "Eleonara is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Eleonara?",
-     "a": "Eleonara is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Eleonara have a positive meaning?",
-     "a": "Eleonara carries the meaning “Sunny, shining light, sunlit hill”."
-    },
-    {
-     "q": "What does the name Eleonara mean?",
-     "a": "Eleonara means “Sunny, shining light, sunlit hill”."
-    },
-    {
-     "q": "What is the origin of the name Eleonara?",
-     "a": "Eleonara is of Biblical origin."
-    },
-    {
-     "q": "Is Eleonara a unisex name?",
-     "a": "Eleonara is used as a unisex name."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 8,
-    "life_path_number": 8,
-    "ruling_planet": "Saturn",
-    "lucky_day": "Saturday",
-    "lucky_stone": "Blue Sapphire",
-    "lucky_colors": [
-     "Blue",
-     "Black"
+  "success": true,
+  "data": {
+    "name": "Eleonara",
+    "slug": "eleonara",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Eleonara total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Eleonara is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Sunny, shining light, sunlit hill",
+    "long_meaning": "The meaning of Eleonara is recorded in name-lists as “Sunny, shining light, sunlit hill”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Eleonara expresses “Sunny, shining light, sunlit hill”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "e-l-e-o-n-a-r-a",
+    "syllables": 4,
+    "name_length": 8,
+    "transliteration": [
+      "Eleonara"
+    ],
+    "lucky_number": 8,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Blue",
+      "Black"
+    ],
+    "lucky_stone": "Blue Sapphire",
+    "ruling_planet": "Saturn",
+    "life_path_number": 8,
+    "numerology_meaning": "In Pythagorean numerology the letters of Eleonara total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
+    "in_hebrew": {
+      "name": "אלעונרה",
+      "meaning": "אלעונרה היא אלעונ - אור אלוהים שלי",
+      "long_meaning": "אלעונרה היא שם נוצרי שמקורו במילים 'אלעונ' שפירושו 'אור אלוהים שלי' או 'אלוהים הוא האור שלי'. השם אלעונרה הוא גרסה נשית של השם אלעונ, שמקורו ביוונית ומשמעותו 'אור אלוהים'. השם אלעונרה משמש כמחווה לאור הרוחני והאלוהי בחיי הנושא אותו."
+    },
+    "in_greek": {
+      "name": "Ελεονορα",
+      "meaning": "Ελεονορα σημαίνει το φως του Θεού",
+      "long_meaning": "Ελεονορα είναι ένα χριστιανικό όνομα που προέρχεται από τις λέξεις 'Ελεος' που σημαίνει 'έλεος' ή 'φως' και 'νορα' που σημαίνει 'φως'. Το όνομα Ελεονορα είναι η θηλυκή μορφή του ονόματος Ελεον, που προέρχεται από την ελληνική γλώσσα και σημαίνει 'φως του Θεού'. Το όνομα Ελεονορα χρησιμοποιείται ως φόρος τιμής στο πνευματικό και θεϊκό φως στη ζωή του ατόμου που το φέρει."
+    },
+    "in_latin": {
+      "name": "Eleonara",
+      "meaning": "Eleonara means light of God",
+      "long_meaning": "Eleonara is a Christian name derived from the words 'Eleos' meaning 'mercy' or 'light' and 'nara' meaning 'light'. The name Eleonara is the feminine form of the name Eleon, which originates from the Greek language and means 'light of God'. The name Eleonara is used as a tribute to the spiritual and divine light in the life of the person who bears it."
+    },
+    "in_english": {
+      "name": "Eleonara",
+      "meaning": "Sunny, shining light, sunlit hill",
+      "long_meaning": "Sunny, shining light, sunlit hill"
+    },
+    "pronunciation": {
+      "english": "eh-lee-oh-NAH-ruh",
+      "ipa": "/ɛliːoʊˈnɑːrə/"
+    },
+    "name_variations": [
+      "Eleonara"
+    ],
+    "variants": [
+      "Eleonara"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Eleonara is used in Biblical naming tradition with the meaning “Sunny, shining light, sunlit hill”.",
+    "spiritual_significance": "Any spiritual significance attached to Eleonara is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Sunny, shining light, sunlit hill” is the basis of any symbolism attached to Eleonara; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Eleonara."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#EleonaraMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Eleonara"
+    ],
+    "monetization": {
+      "affiliate_links": [
+        "https://example.com/baby-names/eleonara"
+      ],
+      "donation_link": "https://example.com/donate"
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Eleonara Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Eleonara has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Eleonara, Eleonara name meaning, Eleonara meaning, Eleonara origin, Eleonara root, Eleonara pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Eleonara has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Eleonara",
+        "Eleonara name meaning",
+        "Eleonara meaning",
+        "Eleonara origin",
+        "Eleonara root",
+        "Eleonara pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Eleonara name meaning",
+      "secondary_keywords": [
+        "Eleonara meaning",
+        "Eleonara origin",
+        "Eleonara pronunciation",
+        "Eleonara lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Eleonara mean?",
+          "a": "Name-lists record the meaning as “Sunny, shining light, sunlit hill”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Eleonara verified?",
+          "a": "No. The meaning of Eleonara could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Eleonara come from?",
+          "a": "The origin of Eleonara has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Eleonara Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Eleonara has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Eleonara",
+      "Eleonara name meaning",
+      "Eleonara meaning",
+      "Eleonara origin",
+      "Eleonara root",
+      "Eleonara pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Eleonara has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Eleonara",
+      "description": "Eleonara — Sunny, shining light, sunlit hill",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Eleonara mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Sunny, shining light, sunlit hill”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Eleonara verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Eleonara could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Eleonara come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Eleonara has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 58,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:09:17.000Z",
+    "tier1_verified": {
+      "name": "Eleonara",
+      "slug": "eleonara",
+      "meaning": "Sunny, shining light, sunlit hill",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Eleonara",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Sunny, shining light, sunlit hill",
+      "long_meaning": "The name Eleonara is recorded with the meaning “Sunny, shining light, sunlit hill”. Eleonara is a Biblical name meaning “Sunny, shining light, sunlit hill”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Eleonara",
+          "meaning": "Sunny, shining light, sunlit hill",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "eh-lee-oh-NAH-ruh",
+        "ipa": "/ɛliːoʊˈnɑːrə/"
+      },
+      "syllables": 4,
+      "name_length": 8,
+      "faqs": [
+        {
+          "q": "What does the name Eleonara mean?",
+          "a": "Name-lists record the meaning as “Sunny, shining light, sunlit hill”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Eleonara verified?",
+          "a": "No. The meaning of Eleonara could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Eleonara come from?",
+          "a": "The origin of Eleonara has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 8,
+        "life_path_number": 8,
+        "ruling_planet": "Saturn",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Blue Sapphire",
+        "lucky_colors": [
+          "Blue",
+          "Black"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Eleonara total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:09:17.000Z"
+    }
   }
- }
 }

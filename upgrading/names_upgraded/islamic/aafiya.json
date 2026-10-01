@@ -1,549 +1,493 @@
 {
- "success": true,
- "data": {
-  "name": "Aafiya",
-  "slug": "aafiya",
-  "language": [
-   "Arabic",
-   "Urdu",
-   "Persian",
-   "Pashto"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Aafiya is used as a unisex name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Healer, curer",
-  "long_meaning": "The name Aafiya is recorded with the meaning “Healer, curer”. Aafiya is a Arabic name meaning “Healer, curer”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Aafiya expresses “Healer, curer”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Aafiya is recorded with the meaning “Healer, curer”. Aafiya is a Arabic name meaning “Healer, curer”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-a-f-i-y-a",
-  "syllables": 2,
-  "name_length": 6,
-  "transliteration": [
-   "Aafiya"
-  ],
-  "lucky_number": 7,
-  "lucky_day": "Tuesday",
-  "lucky_colors": [
-   "Grey",
-   "Smoke"
-  ],
-  "lucky_stone": "Cat's Eye",
-  "ruling_planet": "Ketu",
-  "life_path_number": 7,
-  "numerology_meaning": "In Pythagorean numerology the letters of Aafiya total 25, reducing to 7. Number 7 is associated with reflection, analysis and inner search.",
-  "in_arabic": {
-   "name": "عافية",
-   "meaning": "سلامتی، تندرستی، بیماری سے نجات",
-   "long_meaning": "عافية (ʿāfiyah) کا مطلب ہے سلامتی، تندرستی اور بیماری سے نجات۔ یہ نام عربی زبان کے 'ع-ف-ی' (ʿ-f-y) روٹ سے ماخوذ ہے، جس کا مطلب ہے 'سلامتی' یا 'بچاو'۔ قرآن کریم میں بھی اس روٹ کا ذکر ہے، جیسے کہ 'وَيَضُمُّ عَافِيَتَهُ' (الأنعام: ١٢٨)۔ تاریخی طور پر، یہ نام اسلامی ثقافت میں اہمیت رکھتا ہے کیونکہ یہ تندرستی اور سلامتی کی دعا کے طور پر استعمال ہوتا ہے۔"
-  },
-  "in_urdu": {
-   "name": "عافیہ",
-   "meaning": "عافیہ کا مطلب ہے تندرستی، سلامتی، اور بیماری سے بچاؤ",
-   "long_meaning": "عافیہ (ʿāfiyah) نام عربی زبان کی 'ع-ف-ی' (ʿ-f-y) جڑ سے نکلا ہے، جس کا مطلب ہے 'سلامتی' یا 'نجات'۔ یہ نام خاص طور پر تندرستی اور صحت کی معنویت رکھتا ہے۔ جنوبی ایشیائی اسلامی روایت میں، عافیہ ایک مقبول نام ہے کیونکہ یہ بیماریوں سے بچاؤ اور صحت مندی کی دعا کے طور پر استعمال ہوتا ہے۔"
-  },
-  "in_hindi": {
-   "name": "आफिया",
-   "meaning": "आफिया का अर्थ है स्वास्थ्य, सुरक्षा और बीमारी से मुक्ति",
-   "long_meaning": "आफिया (ʿāfiyah) नाम की उत्पत्ति अरबी भाषा के 'ع-ف-ی' (ʿ-f-y) मूल से हुई है, जिसका अर्थ है 'सुरक्षा' या 'बचाव'। भारतीय मुस्लिम समुदाय में, आफिया नाम का महत्व इस्लामी परंपरा में स्वास्थ्य और तंदुरुस्ती की दुआ के रूप में है। यह नाम अक्सर माता-पिता द्वारा अपनी संतान के लिए अच्छे स्वास्थ्य की कामना के रूप में चुना जाता है।"
-  },
-  "in_pashto": {
-   "name": "عافية",
-   "meaning": "عافية د معنا دي روغتیا، خوندیتوب، او ناروغۍ څخه ژغورل",
-   "long_meaning": "عافية (ʿāfiyah) نوم د عربی ژبې د 'ع-ف-ی' (ʿ-f-y) ريښې څخه اخیستل شوی دی، چې معنی یې 'روغتیا' یا 'ژغورل' دی. په پښتني او افغان اسلامی روایت کې، دغه نوم د روغتیا او تندرستی د دعا په توګه کارول کېږي. دا نوم د پښتنو او افغانانو لخوا د خپلو ماشومانو لپاره د ښې روغتیا د غوښتنې په توګه غوره شوی دی."
-  },
-  "in_english": {
-   "name": "Aafiya",
-   "meaning": "Healer, curer",
-   "long_meaning": "The name Aafiya is recorded with the meaning “Healer, curer”. Aafiya is a Arabic name meaning “Healer, curer”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "ah-FAH-ee-yah",
-   "urdu": "اردو میں تلفظ کی تفصیل: عافیہ (ʿāfiyah) کا تلفظ 'أ-ف-ی-ہ' ہے",
-   "hindi": "हिन्दी में उच्चारण विवरण: आफिया (āphiyā) का उच्चारण 'आ-फी-या' है",
-   "pashto": "په پښتو کې د تلفظ تفصیل: عافية (ʿāfiyah) د 'أ-ف-ی-ہ' په توګه تلفظ کیږي",
-   "ipa": "/ɑːˈfiːjɑː/"
-  },
-  "name_variations": [
-   "Aafiya"
-  ],
-  "variants": [
-   "Aafiya"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Aafiya is used in Arabic naming tradition with the meaning “Healer, curer”.",
-  "spiritual_significance": "Any spiritual significance attached to Aafiya is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Healer, curer” is the basis of any symbolism attached to Aafiya; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Aafiya has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Aafiya."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AafiyaMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Aafiya"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Aafiya",
-     "description": "Discover the meaning of Aafiya - \"Healer, curer\"",
-     "image": "/images/social/aafiya-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Aafiya - Name Meaning",
-     "description": "Learn about the beautiful name Aafiya",
-     "image": "/images/social/aafiya-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Aafiya",
-     "description": "Name meaning: Healer, curer",
-     "image": "/images/social/aafiya-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Aafiya - Meaning: Healer, curer",
-    "email_subject": "Beautiful Name: Aafiya"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Aafiya with meaning Healer, curer",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Aafiya Name Meaning – Healer, curer (Arabic)",
-   "meta_description": "Aafiya is a Arabic name meaning “Healer, curer”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Aafiya, Aafiya name meaning, Aafiya meaning, Aafiya origin, Aafiya root, Aafiya pronunciation, Arabic names",
-   "description_paragraph": "Aafiya is a Arabic name meaning “Healer, curer”.",
-   "keywords": [
-    "Aafiya",
-    "Aafiya name meaning",
-    "Aafiya meaning",
-    "Aafiya origin",
-    "Aafiya root",
-    "Aafiya pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Aafiya name meaning",
-   "secondary_keywords": [
-    "Aafiya meaning",
-    "Aafiya origin",
-    "Aafiya pronunciation",
-    "Aafiya lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/aafiya",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "How many syllables does Aafiya have?",
-     "a": "Aafiya has 2 syllables."
-    },
-    {
-     "q": "How is Aafiya pronounced?",
-     "a": "Aafiya is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Aafiya?",
-     "a": "Any spiritual significance attached to Aafiya is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Aafiya?",
-     "a": "Variant spellings of Aafiya are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Aafiya a common name?",
-     "a": "Popularity figures for Aafiya have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Aafiya say about a child?",
-     "a": "The name Aafiya expresses “Healer, curer”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Aafiya be used in another language?",
-     "a": "Aafiya is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Aafiya mentioned in scripture?",
-     "a": "No scriptural reference for Aafiya has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Aafiya?",
-     "a": "The Pythagorean lucky number for Aafiya is 7 (ruling planet Ketu). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Aafiya?",
-     "a": "Tuesday is the traditional association for Aafiya. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Aafiya?",
-     "a": "Cat's Eye is the traditional association for Aafiya. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Aafiya?",
-     "a": "Grey, Smoke are the traditional associations for Aafiya. These are interpretive."
-    }
-   ]
-  },
-  "seo_title": "Aafiya Name Meaning – Healer, curer (Arabic)",
-  "meta_description": "Aafiya is a Arabic name meaning “Healer, curer”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Aafiya",
-   "Aafiya name meaning",
-   "Aafiya meaning",
-   "Aafiya origin",
-   "Aafiya root",
-   "Aafiya pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/aafiya",
-  "intro_paragraph": "Aafiya is a Arabic name meaning “Healer, curer”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Aafiya",
-   "description": "Aafiya — Healer, curer",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "How many syllables does Aafiya have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aafiya has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Aafiya pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aafiya is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Aafiya?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Aafiya is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Aafiya?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Aafiya are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aafiya a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Aafiya have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Aafiya say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Aafiya expresses “Healer, curer”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Aafiya be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aafiya is recorded in Arabic; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aafiya mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Aafiya has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Aafiya?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Aafiya is 7 (ruling planet Ketu). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Aafiya?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Tuesday is the traditional association for Aafiya. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Aafiya?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Cat's Eye is the traditional association for Aafiya. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Aafiya?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Grey, Smoke are the traditional associations for Aafiya. These are interpretive."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Aafiya",
-     "item": "https://namemeaning.example/name/aafiya"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-12-22T19:19:49.907Z",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Aafiya",
-   "slug": "aafiya",
-   "meaning": "Healer, curer",
-   "origin": "Arabic",
-   "language": [
-    "Arabic",
-    "Urdu",
-    "Persian",
-    "Pashto"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Aafiya",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Healer, curer",
-   "long_meaning": "The name Aafiya is recorded with the meaning “Healer, curer”. Aafiya is a Arabic name meaning “Healer, curer”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Aafiya",
-     "meaning": "Healer, curer",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "ah-FAH-ee-yah",
-    "ipa": "/ɑːˈfiːjɑː/"
-   },
-   "syllables": 2,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "How many syllables does Aafiya have?",
-     "a": "Aafiya has 2 syllables."
-    },
-    {
-     "q": "How is Aafiya pronounced?",
-     "a": "Aafiya is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Aafiya?",
-     "a": "Any spiritual significance attached to Aafiya is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Aafiya?",
-     "a": "Variant spellings of Aafiya are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Aafiya a common name?",
-     "a": "Popularity figures for Aafiya have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Aafiya say about a child?",
-     "a": "The name Aafiya expresses “Healer, curer”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Aafiya be used in another language?",
-     "a": "Aafiya is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Aafiya mentioned in scripture?",
-     "a": "No scriptural reference for Aafiya has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Aafiya?",
-     "a": "The Pythagorean lucky number for Aafiya is 7 (ruling planet Ketu). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Aafiya?",
-     "a": "Tuesday is the traditional association for Aafiya. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Aafiya?",
-     "a": "Cat's Eye is the traditional association for Aafiya. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Aafiya?",
-     "a": "Grey, Smoke are the traditional associations for Aafiya. These are interpretive."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 7,
-    "life_path_number": 7,
-    "ruling_planet": "Ketu",
-    "lucky_day": "Tuesday",
-    "lucky_stone": "Cat's Eye",
-    "lucky_colors": [
-     "Grey",
-     "Smoke"
+  "success": true,
+  "data": {
+    "name": "Aafiya",
+    "slug": "aafiya",
+    "language": [
+      "Arabic",
+      "Urdu"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Aafiya total 25, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Female",
+    "gender_notes": "Aafiya is used as a unisex name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Health; well-being; soundness; freedom from illness",
+    "long_meaning": "Variant spelling of Arabic ʿāfiya (عافية) 'health, well-being, soundness', from the root ʿ-f-w. Aafiya therefore means “Health; well-being; soundness; freedom from illness”. Arabic noun ʿāfiya 'health, well-being'; spelling variant of Aafia.",
+    "spiritual_meaning": "Aafiya expresses “Healer, curer”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "Variant spelling of Arabic ʿāfiya (عافية) 'health, well-being, soundness', from the root ʿ-f-w.",
+    "root": "ع-ف-و (ʿ-f-w)",
+    "language_root": "Arabic",
+    "root_letters": "a-a-f-i-y-a",
+    "syllables": 2,
+    "name_length": 6,
+    "transliteration": [
+      "ʿĀfiya"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Tuesday",
+    "lucky_colors": [
+      "Grey",
+      "Smoke"
+    ],
+    "lucky_stone": "Cat's Eye",
+    "ruling_planet": "Ketu",
+    "life_path_number": 7,
+    "numerology_meaning": "In Pythagorean numerology the letters of Aafiya total 25, reducing to 7. Number 7 is associated with reflection, analysis and inner search.",
+    "in_arabic": {
+      "name": "عافية",
+      "meaning": "عافية — المعنى: Health; well-being; soundness; freedom from illness",
+      "long_meaning": "عافية — المعنى: Health; well-being; soundness; freedom from illness"
+    },
+    "in_urdu": {
+      "name": "عافیہ",
+      "meaning": "عافیہ — مطلب: Health; well-being; soundness; freedom from illness",
+      "long_meaning": "عافیہ — مطلب: Health; well-being; soundness; freedom from illness"
+    },
+    "in_hindi": {
+      "name": "आफिया",
+      "meaning": "आफिया — अर्थ: Health; well-being; soundness; freedom from illness",
+      "long_meaning": "आफिया — अर्थ: Health; well-being; soundness; freedom from illness"
+    },
+    "in_pashto": {
+      "name": "عافیه",
+      "meaning": "عافیه — معنی: Health; well-being; soundness; freedom from illness",
+      "long_meaning": "عافیه — معنی: Health; well-being; soundness; freedom from illness"
+    },
+    "in_english": {
+      "name": "Aafiya",
+      "meaning": "Health; well-being; soundness; freedom from illness",
+      "long_meaning": "Variant spelling of Arabic ʿāfiya (عافية) 'health, well-being, soundness', from the root ʿ-f-w. Aafiya therefore means “Health; well-being; soundness; freedom from illness”. Arabic noun ʿāfiya 'health, well-being'; spelling variant of Aafia."
+    },
+    "pronunciation": {
+      "english": "AA-fi-ya",
+      "urdu": "اردو میں تلفظ کی تفصیل: عافیہ (ʿāfiyah) کا تلفظ 'أ-ف-ی-ہ' ہے",
+      "hindi": "हिन्दी में उच्चारण विवरण: आफिया (āphiyā) का उच्चारण 'आ-फी-या' है",
+      "pashto": "په پښتو کې د تلفظ تفصیل: عافية (ʿāfiyah) د 'أ-ف-ی-ہ' په توګه تلفظ کیږي",
+      "ipa": "/ʕaː.fi.ja/"
+    },
+    "name_variations": [
+      "Aafiya"
+    ],
+    "variants": [
+      "Aafiya"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Aafiya is used in Arabic naming tradition with the meaning “Healer, curer”.",
+    "spiritual_significance": "Any spiritual significance attached to Aafiya is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Healer, curer” is the basis of any symbolism attached to Aafiya; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Arabic noun ʿāfiya 'health, well-being'; spelling variant of Aafia."
+    },
+    "historical_references": [
+      {
+        "reference": "Arabic noun ʿāfiya 'health, well-being'; spelling variant of Aafia.",
+        "time_period": "",
+        "context": ""
+      }
+    ],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Aafiya."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AafiyaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Aafiya"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Aafiya",
+          "description": "Discover the meaning of Aafiya - \"Healer, curer\"",
+          "image": "/images/social/aafiya-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Aafiya - Name Meaning",
+          "description": "Learn about the beautiful name Aafiya",
+          "image": "/images/social/aafiya-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Aafiya",
+          "description": "Name meaning: Healer, curer",
+          "image": "/images/social/aafiya-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Aafiya - Meaning: Healer, curer",
+        "email_subject": "Beautiful Name: Aafiya"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Aafiya with meaning Healer, curer",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Aafiya Name Meaning – Health; well-being; soundness; freedom from illness (Arabic)",
+      "meta_description": "Aafiya is a Arabic name meaning “Health; well-being; soundness; freedom from illness”. Verified meaning, origin, root, pronunciation and FAQs.",
+      "meta_keywords": "Aafiya, Aafiya name meaning, Aafiya meaning, Aafiya origin, Aafiya root, Aafiya pronunciation, Arabic names",
+      "description_paragraph": "Aafiya is a Arabic name meaning “Health; well-being; soundness; freedom from illness”.",
+      "keywords": [
+        "Aafiya",
+        "Aafiya name meaning",
+        "Aafiya meaning",
+        "Aafiya origin",
+        "Aafiya root",
+        "Aafiya pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Aafiya name meaning",
+      "secondary_keywords": [
+        "Aafiya meaning",
+        "Aafiya origin",
+        "Aafiya pronunciation",
+        "Aafiya lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "Is Aafiya the same name as Aafia?",
+          "a": "Yes - Aafiya and Aafia are two English spellings of the same Arabic name عافية, meaning 'health, well-being'."
+        },
+        {
+          "q": "What does the name Aafiya mean?",
+          "a": "Aafiya means “Health; well-being; soundness; freedom from illness”."
+        },
+        {
+          "q": "Where does the name Aafiya come from?",
+          "a": "Aafiya is of Arabic origin."
+        },
+        {
+          "q": "What is the linguistic root of Aafiya?",
+          "a": "The root of Aafiya is ع-ف-و (ʿ-f-w)."
+        },
+        {
+          "q": "How is Aafiya written in Arabic script?",
+          "a": "Aafiya is written عافية in Arabic script."
+        },
+        {
+          "q": "Is Aafiya a boy's or a girl's name?",
+          "a": "Aafiya is used as a female name."
+        },
+        {
+          "q": "Does Aafiya appear in the Qur'an?",
+          "a": "No. Aafiya is not a Qur'anic name; it is used in Muslim naming tradition."
+        },
+        {
+          "q": "Is the meaning of Aafiya verified?",
+          "a": "Yes — the meaning “Health; well-being; soundness; freedom from illness” is established by Arabic noun ʿāfiya 'health, well-being'; spelling variant of Aafia.."
+        }
+      ]
+    },
+    "seo_title": "Aafiya Name Meaning – Health; well-being; soundness; freedom from illness (Arabic)",
+    "meta_description": "Aafiya is a Arabic name meaning “Health; well-being; soundness; freedom from illness”. Verified meaning, origin, root, pronunciation and FAQs.",
+    "keywords": [
+      "Aafiya",
+      "Aafiya name meaning",
+      "Aafiya meaning",
+      "Aafiya origin",
+      "Aafiya root",
+      "Aafiya pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "Aafiya is a Arabic name meaning “Health; well-being; soundness; freedom from illness”.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Aafiya",
+      "description": "Aafiya — Health; well-being; soundness; freedom from illness",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is Aafiya the same name as Aafia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes - Aafiya and Aafia are two English spellings of the same Arabic name عافية, meaning 'health, well-being'."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does the name Aafiya mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aafiya means “Health; well-being; soundness; freedom from illness”."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Aafiya come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aafiya is of Arabic origin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the linguistic root of Aafiya?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The root of Aafiya is ع-ف-و (ʿ-f-w)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Aafiya written in Arabic script?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aafiya is written عافية in Arabic script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Aafiya a boy's or a girl's name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aafiya is used as a female name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Aafiya appear in the Qur'an?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Aafiya is not a Qur'anic name; it is used in Muslim naming tradition."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Aafiya verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — the meaning “Health; well-being; soundness; freedom from illness” is established by Arabic noun ʿāfiya 'health, well-being'; spelling variant of Aafia.."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "HIGH",
+      "etymology": "HIGH",
+      "origin": "HIGH",
+      "scripts": "HIGH",
+      "pronunciation": "MEDIUM",
+      "gender": "HIGH",
+      "numerology": "MEDIUM",
+      "popularity": "UNKNOWN",
+      "faq": "MEDIUM",
+      "notable_people": "UNKNOWN",
+      "historical_references": "HIGH"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [],
+      "fields_total": 74
+    },
+    "created_at": "2025-12-22T19:19:49.907Z",
+    "updated_at": "2026-10-01T04:04:17.000Z",
+    "tier1_verified": {
+      "name": "Aafiya",
+      "slug": "aafiya",
+      "meaning": "Health; well-being; soundness; freedom from illness",
+      "origin": "Arabic",
+      "language": [
+        "Arabic",
+        "Urdu"
+      ],
+      "gender": "Female",
+      "root": "ع-ف-و (ʿ-f-w)",
+      "etymology": "Variant spelling of Arabic ʿāfiya (عافية) 'health, well-being, soundness', from the root ʿ-f-w.",
+      "script": {
+        "arabic": "عافية",
+        "urdu": "عافیہ",
+        "hindi": "आफिया",
+        "pashto": "عافیه"
+      },
+      "transliteration": "ʿĀfiya",
+      "reference": "Arabic noun ʿāfiya 'health, well-being'; spelling variant of Aafia.",
+      "confidence": "HIGH"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Health; well-being; soundness; freedom from illness",
+      "long_meaning": "Variant spelling of Arabic ʿāfiya (عافية) 'health, well-being, soundness', from the root ʿ-f-w. Aafiya therefore means “Health; well-being; soundness; freedom from illness”. Arabic noun ʿāfiya 'health, well-being'; spelling variant of Aafia.",
+      "translations": {
+        "arabic": {
+          "name": "عافية",
+          "meaning": "عافية — المعنى: Health; well-being; soundness; freedom from illness",
+          "confidence": "HIGH"
+        },
+        "urdu": {
+          "name": "عافیہ",
+          "meaning": "عافیہ — مطلب: Health; well-being; soundness; freedom from illness",
+          "confidence": "HIGH"
+        },
+        "hindi": {
+          "name": "आफिया",
+          "meaning": "आफिया — अर्थ: Health; well-being; soundness; freedom from illness",
+          "confidence": "HIGH"
+        },
+        "pashto": {
+          "name": "عافیه",
+          "meaning": "عافیه — معنی: Health; well-being; soundness; freedom from illness",
+          "confidence": "HIGH"
+        },
+        "english": {
+          "name": "Aafiya",
+          "meaning": "Health; well-being; soundness; freedom from illness",
+          "confidence": "HIGH"
+        }
+      },
+      "pronunciation": {
+        "english": "AA-fi-ya",
+        "ipa": "/ʕaː.fi.ja/"
+      },
+      "syllables": 2,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "Is Aafiya the same name as Aafia?",
+          "a": "Yes - Aafiya and Aafia are two English spellings of the same Arabic name عافية, meaning 'health, well-being'."
+        },
+        {
+          "q": "What does the name Aafiya mean?",
+          "a": "Aafiya means “Health; well-being; soundness; freedom from illness”."
+        },
+        {
+          "q": "Where does the name Aafiya come from?",
+          "a": "Aafiya is of Arabic origin."
+        },
+        {
+          "q": "What is the linguistic root of Aafiya?",
+          "a": "The root of Aafiya is ع-ف-و (ʿ-f-w)."
+        },
+        {
+          "q": "How is Aafiya written in Arabic script?",
+          "a": "Aafiya is written عافية in Arabic script."
+        },
+        {
+          "q": "Is Aafiya a boy's or a girl's name?",
+          "a": "Aafiya is used as a female name."
+        },
+        {
+          "q": "Does Aafiya appear in the Qur'an?",
+          "a": "No. Aafiya is not a Qur'anic name; it is used in Muslim naming tradition."
+        },
+        {
+          "q": "Is the meaning of Aafiya verified?",
+          "a": "Yes — the meaning “Health; well-being; soundness; freedom from illness” is established by Arabic noun ʿāfiya 'health, well-being'; spelling variant of Aafia.."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 7,
+        "life_path_number": 7,
+        "ruling_planet": "Ketu",
+        "lucky_day": "Tuesday",
+        "lucky_stone": "Cat's Eye",
+        "lucky_colors": [
+          "Grey",
+          "Smoke"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Aafiya total 25, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "sources": [
+        "Arabic noun ʿāfiya 'health, well-being'; spelling variant of Aafia."
+      ]
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": true,
+      "processed_at": "2026-10-01T04:04:17.000Z"
+    }
   }
- }
 }

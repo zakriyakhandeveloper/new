@@ -1,549 +1,388 @@
 {
- "success": true,
- "data": {
-  "name": "Aga",
-  "slug": "aga",
-  "language": [
-   "Arabic",
-   "Urdu",
-   "Persian",
-   "Pashto"
-  ],
-  "gender": "Male",
-  "gender_notes": "Aga is used as a male name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Warrior, Leader",
-  "long_meaning": "The name Aga is recorded with the meaning “Warrior, Leader”. Aga is a Arabic name meaning “Warrior, Leader”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Aga expresses “Warrior, Leader”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Aga is recorded with the meaning “Warrior, Leader”. Aga is a Arabic name meaning “Warrior, Leader”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-g-a",
-  "syllables": 2,
-  "name_length": 3,
-  "transliteration": [
-   "Aga"
-  ],
-  "lucky_number": 9,
-  "lucky_day": "Tuesday",
-  "lucky_colors": [
-   "Red",
-   "Crimson"
-  ],
-  "lucky_stone": "Red Coral",
-  "ruling_planet": "Mars",
-  "life_path_number": 9,
-  "numerology_meaning": "In Pythagorean numerology the letters of Aga total 9, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
-  "in_arabic": {
-   "name": "آقا",
-   "meaning": "زعيم أو قائد أو مخدوم",
-   "long_meaning": "مصدر من اللغة الفارسية القديمة والتركية العثمانية، يشير إلى زعيم أو قائد أو مخدوم أو رب، ويحمل هذا الاسم دلالات تاريخية وثقافية وحضارية في العالم الإسلامي"
-  },
-  "in_urdu": {
-   "name": "آقا",
-   "meaning": "سرپرست یا مالک یا آقا",
-   "long_meaning": "یہ نام فارسی اور ترکی کے مخلوط اثرات سے تشکیل پایا ہے، جس کا مطلب ہے سرپرست یا مالک یا آقا، اور اس کا استعمال اسلامی روایات میں خاص مقام رکھتا ہے"
-  },
-  "in_hindi": {
-   "name": "आगा",
-   "meaning": "मालिक या स्वामी या आगा",
-   "long_meaning": "यह नाम फारसी और तुर्की के मेल से बना है, जिसका अर्थ है मालिक या स्वामी या आगा, और इसका उपयोग भारतीय मुस्लिम समुदाय में विशेष महत्व रखता है"
-  },
-  "in_pashto": {
-   "name": "آغا",
-   "meaning": "سرپرست يا مالک يا آغا",
-   "long_meaning": "دا نوم د فارسی او ترکي د مخلوط تاثيراتو څخه جوړ شوي دي، چې د سرپرست يا مالک يا آغا په معنا دي، او د افغانستان او پښتنو په دودونو کې ځانگړی اهمیت لري"
-  },
-  "in_english": {
-   "name": "Aga",
-   "meaning": "Warrior, Leader",
-   "long_meaning": "The name Aga is recorded with the meaning “Warrior, Leader”. Aga is a Arabic name meaning “Warrior, Leader”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "AH-gah",
-   "urdu": "آقا کا تلفظ آگا ہے",
-   "hindi": "आगा का उच्चारण आगा है",
-   "pashto": "آغا د تلفظ آغا دی",
-   "ipa": "/ˈɑːɡɑː/"
-  },
-  "name_variations": [
-   "Aga"
-  ],
-  "variants": [
-   "Aga"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Aga is used in Arabic naming tradition with the meaning “Warrior, Leader”.",
-  "spiritual_significance": "Any spiritual significance attached to Aga is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Warrior, Leader” is the basis of any symbolism attached to Aga; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Aga has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Aga."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AgaMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Aga"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Aga",
-     "description": "Discover the meaning of Aga - \"Warrior, Leader\"",
-     "image": "/images/social/aga-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Aga - Name Meaning",
-     "description": "Learn about the beautiful name Aga",
-     "image": "/images/social/aga-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Aga",
-     "description": "Name meaning: Warrior, Leader",
-     "image": "/images/social/aga-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Aga - Meaning: Warrior, Leader",
-    "email_subject": "Beautiful Name: Aga"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Aga with meaning Warrior, Leader",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Aga Name Meaning – Warrior, Leader (Arabic)",
-   "meta_description": "Aga is a Arabic name meaning “Warrior, Leader”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Aga, Aga name meaning, Aga meaning, Aga origin, Aga root, Aga pronunciation, Arabic names",
-   "description_paragraph": "Aga is a Arabic name meaning “Warrior, Leader”.",
-   "keywords": [
-    "Aga",
-    "Aga name meaning",
-    "Aga meaning",
-    "Aga origin",
-    "Aga root",
-    "Aga pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Aga name meaning",
-   "secondary_keywords": [
-    "Aga meaning",
-    "Aga origin",
-    "Aga pronunciation",
-    "Aga lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/aga",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Which colours are associated with Aga?",
-     "a": "Red, Crimson are the traditional associations for Aga. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Aga?",
-     "a": "In Pythagorean numerology the letters of Aga total 9, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-    },
-    {
-     "q": "How reliable is the meaning given for Aga?",
-     "a": "The meaning of Aga carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Aga have a religious meaning?",
-     "a": "Aga is recorded as a islamic name meaning “Warrior, Leader”."
-    },
-    {
-     "q": "What is the English meaning of Aga?",
-     "a": "In English, Aga is rendered as “Warrior, Leader”."
-    },
-    {
-     "q": "Is Aga suitable for a baby?",
-     "a": "Aga is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Aga?",
-     "a": "Aga is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Aga?",
-     "a": "Aga is used in Arabic naming traditions."
-    },
-    {
-     "q": "Does Aga have a positive meaning?",
-     "a": "Aga carries the meaning “Warrior, Leader”."
-    },
-    {
-     "q": "What does the name Aga mean?",
-     "a": "Aga means “Warrior, Leader”."
-    },
-    {
-     "q": "What is the origin of the name Aga?",
-     "a": "Aga is of Arabic origin."
-    },
-    {
-     "q": "Is Aga a male name?",
-     "a": "Aga is used as a male name."
-    }
-   ]
-  },
-  "seo_title": "Aga Name Meaning – Warrior, Leader (Arabic)",
-  "meta_description": "Aga is a Arabic name meaning “Warrior, Leader”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Aga",
-   "Aga name meaning",
-   "Aga meaning",
-   "Aga origin",
-   "Aga root",
-   "Aga pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/aga",
-  "intro_paragraph": "Aga is a Arabic name meaning “Warrior, Leader”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Aga",
-   "description": "Aga — Warrior, Leader",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Aga?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Red, Crimson are the traditional associations for Aga. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Aga?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Aga total 9, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Aga?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Aga carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Aga have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aga is recorded as a islamic name meaning “Warrior, Leader”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Aga?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Aga is rendered as “Warrior, Leader”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aga suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aga is used as a male given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Aga?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aga is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Aga?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aga is used in Arabic naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Aga have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aga carries the meaning “Warrior, Leader”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Aga mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aga means “Warrior, Leader”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Aga?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aga is of Arabic origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aga a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aga is used as a male name."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Aga",
-     "item": "https://namemeaning.example/name/aga"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-12-22T19:19:49.93Z",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Aga",
-   "slug": "aga",
-   "meaning": "Warrior, Leader",
-   "origin": "Arabic",
-   "language": [
-    "Arabic",
-    "Urdu",
-    "Persian",
-    "Pashto"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Aga",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Warrior, Leader",
-   "long_meaning": "The name Aga is recorded with the meaning “Warrior, Leader”. Aga is a Arabic name meaning “Warrior, Leader”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Aga",
-     "meaning": "Warrior, Leader",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "AH-gah",
-    "ipa": "/ˈɑːɡɑː/"
-   },
-   "syllables": 2,
-   "name_length": 3,
-   "faqs": [
-    {
-     "q": "Which colours are associated with Aga?",
-     "a": "Red, Crimson are the traditional associations for Aga. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Aga?",
-     "a": "In Pythagorean numerology the letters of Aga total 9, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-    },
-    {
-     "q": "How reliable is the meaning given for Aga?",
-     "a": "The meaning of Aga carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Aga have a religious meaning?",
-     "a": "Aga is recorded as a islamic name meaning “Warrior, Leader”."
-    },
-    {
-     "q": "What is the English meaning of Aga?",
-     "a": "In English, Aga is rendered as “Warrior, Leader”."
-    },
-    {
-     "q": "Is Aga suitable for a baby?",
-     "a": "Aga is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Aga?",
-     "a": "Aga is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Aga?",
-     "a": "Aga is used in Arabic naming traditions."
-    },
-    {
-     "q": "Does Aga have a positive meaning?",
-     "a": "Aga carries the meaning “Warrior, Leader”."
-    },
-    {
-     "q": "What does the name Aga mean?",
-     "a": "Aga means “Warrior, Leader”."
-    },
-    {
-     "q": "What is the origin of the name Aga?",
-     "a": "Aga is of Arabic origin."
-    },
-    {
-     "q": "Is Aga a male name?",
-     "a": "Aga is used as a male name."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 9,
-    "life_path_number": 9,
-    "ruling_planet": "Mars",
-    "lucky_day": "Tuesday",
-    "lucky_stone": "Red Coral",
-    "lucky_colors": [
-     "Red",
-     "Crimson"
+  "success": true,
+  "data": {
+    "name": "Aga",
+    "slug": "aga",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Aga total 9, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Aga is used as a male name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Warrior, Leader",
+    "long_meaning": "The meaning of Aga is recorded in name-lists as “Warrior, Leader”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Aga expresses “Warrior, Leader”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Arabic",
+    "root_letters": "a-g-a",
+    "syllables": 2,
+    "name_length": 3,
+    "transliteration": [
+      "Aga"
+    ],
+    "lucky_number": 9,
+    "lucky_day": "Tuesday",
+    "lucky_colors": [
+      "Red",
+      "Crimson"
+    ],
+    "lucky_stone": "Red Coral",
+    "ruling_planet": "Mars",
+    "life_path_number": 9,
+    "numerology_meaning": "In Pythagorean numerology the letters of Aga total 9, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
+    "in_arabic": {
+      "name": "آقا",
+      "meaning": "Warrior, Leader",
+      "long_meaning": "Warrior, Leader"
+    },
+    "in_urdu": {
+      "name": "آقا",
+      "meaning": "Warrior, Leader",
+      "long_meaning": "Warrior, Leader"
+    },
+    "in_hindi": {
+      "name": "आगा",
+      "meaning": "Warrior, Leader",
+      "long_meaning": "Warrior, Leader"
+    },
+    "in_pashto": {
+      "name": "آغا",
+      "meaning": "Warrior, Leader",
+      "long_meaning": "Warrior, Leader"
+    },
+    "in_english": {
+      "name": "Aga",
+      "meaning": "Warrior, Leader",
+      "long_meaning": "Warrior, Leader"
+    },
+    "pronunciation": {
+      "english": "AH-gah",
+      "urdu": "آقا کا تلفظ آگا ہے",
+      "hindi": "आगा का उच्चारण आगा है",
+      "pashto": "آغا د تلفظ آغا دی",
+      "ipa": "/ˈɑːɡɑː/"
+    },
+    "name_variations": [
+      "Aga"
+    ],
+    "variants": [
+      "Aga"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Aga is used in Arabic naming tradition with the meaning “Warrior, Leader”.",
+    "spiritual_significance": "Any spiritual significance attached to Aga is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Warrior, Leader” is the basis of any symbolism attached to Aga; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "No Qur'anic reference for Aga has been verified."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Aga."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AgaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Aga"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Aga",
+          "description": "Discover the meaning of Aga - \"Warrior, Leader\"",
+          "image": "/images/social/aga-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Aga - Name Meaning",
+          "description": "Learn about the beautiful name Aga",
+          "image": "/images/social/aga-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Aga",
+          "description": "Name meaning: Warrior, Leader",
+          "image": "/images/social/aga-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Aga - Meaning: Warrior, Leader",
+        "email_subject": "Beautiful Name: Aga"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Aga with meaning Warrior, Leader",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Aga Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Aga has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Aga, Aga name meaning, Aga meaning, Aga origin, Aga root, Aga pronunciation, Arabic names",
+      "description_paragraph": "The meaning of Aga has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Aga",
+        "Aga name meaning",
+        "Aga meaning",
+        "Aga origin",
+        "Aga root",
+        "Aga pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Aga name meaning",
+      "secondary_keywords": [
+        "Aga meaning",
+        "Aga origin",
+        "Aga pronunciation",
+        "Aga lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Aga mean?",
+          "a": "Name-lists record the meaning as “Warrior, Leader”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Aga verified?",
+          "a": "No. The meaning of Aga could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Aga come from?",
+          "a": "The origin of Aga has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Aga Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Aga has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Aga",
+      "Aga name meaning",
+      "Aga meaning",
+      "Aga origin",
+      "Aga root",
+      "Aga pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Aga has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Aga",
+      "description": "Aga — Warrior, Leader",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Aga mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Warrior, Leader”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Aga verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Aga could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Aga come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Aga has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 70
+    },
+    "created_at": "2025-12-22T19:19:49.93Z",
+    "updated_at": "2026-10-01T04:04:26.000Z",
+    "tier1_verified": {
+      "name": "Aga",
+      "slug": "aga",
+      "meaning": "Warrior, Leader",
+      "origin": "Arabic",
+      "language": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Aga",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Warrior, Leader",
+      "long_meaning": "The name Aga is recorded with the meaning “Warrior, Leader”. Aga is a Arabic name meaning “Warrior, Leader”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Aga",
+          "meaning": "Warrior, Leader",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "AH-gah",
+        "ipa": "/ˈɑːɡɑː/"
+      },
+      "syllables": 2,
+      "name_length": 3,
+      "faqs": [
+        {
+          "q": "What does the name Aga mean?",
+          "a": "Name-lists record the meaning as “Warrior, Leader”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Aga verified?",
+          "a": "No. The meaning of Aga could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Aga come from?",
+          "a": "The origin of Aga has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 9,
+        "life_path_number": 9,
+        "ruling_planet": "Mars",
+        "lucky_day": "Tuesday",
+        "lucky_stone": "Red Coral",
+        "lucky_colors": [
+          "Red",
+          "Crimson"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Aga total 9, reducing to 9. Number 9 is associated with compassion, idealism and completion."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:26.000Z"
+    }
   }
- }
 }

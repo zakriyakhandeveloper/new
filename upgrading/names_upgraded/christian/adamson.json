@@ -1,502 +1,341 @@
 {
- "success": true,
- "data": {
-  "name": "Adamson",
-  "slug": "adamson",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Adamson is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Son of Adam",
-  "long_meaning": "The name Adamson is recorded with the meaning “Son of Adam”. Adamson is a Biblical name meaning “Son of Adam”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Adamson expresses “Son of Adam”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Adamson is recorded with the meaning “Son of Adam”. Adamson is a Biblical name meaning “Son of Adam”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "a-d-a-m-s-o-n",
-  "syllables": 3,
-  "name_length": 7,
-  "transliteration": [
-   "Adamson"
-  ],
-  "lucky_number": 4,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Grey",
-   "Blue"
-  ],
-  "lucky_stone": "Hessonite",
-  "ruling_planet": "Rahu",
-  "life_path_number": 4,
-  "numerology_meaning": "In Pythagorean numerology the letters of Adamson total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-  "in_hebrew": {
-   "name": "אדמסון",
-   "meaning": "בן אדם, בנו של אדם הראשון",
-   "long_meaning": "השם אדמסון הוא שם משפחה שמשמעותו 'בן אדם' או 'בנו של אדם הראשון'. הוא נגזר מהשם העברי 'אדם' שפירושו אדם הראשון שנברא על ידי אלוהים. השם אדמסון הוא שם פטרונימי שמציין כי הנושא הוא בנו של אדם, ובכך הוא קושר את הנושא לאדם הראשון ולמורשתו."
-  },
-  "in_greek": {
-   "name": "Άνταμσον",
-   "meaning": "παράγωγο του Αδάμ",
-   "long_meaning": "Το όνομα Άνταμσον είναι ένα επώνυμο που προέρχεται από το ελληνικό όνομα 'Αδάμ', που σημαίνει 'ο πρώτος άνθρωπος'. Το όνομα αυτό είναι γνωστό από την Καινή Διαθήκη και συγκεκριμένα από το βιβλίο της Γενέσεως. Ο Άνταμσον είναι ένα πατρωνυμικό όνομα που δηλώνει ότι ο κάτοχος είναι γιος του Αδάμ, συνδέοντας τον με τον πρώτο άνθρωπο και την κληρονομιά του."
-  },
-  "in_latin": {
-   "name": "Adamson",
-   "meaning": "filius Adam",
-   "long_meaning": "Nomen Adamson est nomen familiae quod significat 'filius Adam' vel 'descendens a primo homine'. Nomen Adamson est patronymicum nomen quod indicat possessorem esse filium Adam, et ita eum coniungit cum primo homine et hereditate eius. Hoc nomen habet radices in traditione christiana et biblica."
-  },
-  "in_english": {
-   "name": "Adamson",
-   "meaning": "Son of Adam",
-   "long_meaning": "The name Adamson is recorded with the meaning “Son of Adam”. Adamson is a Biblical name meaning “Son of Adam”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "AD-əm-sən",
-   "biblical": "אָדָם",
-   "ipa": "/ˈædəmson/"
-  },
-  "name_variations": [
-   "Adamson"
-  ],
-  "variants": [
-   "Adamson"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Adamson is used in Biblical naming tradition with the meaning “Son of Adam”.",
-  "spiritual_significance": "Any spiritual significance attached to Adamson is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Son of Adam” is the basis of any symbolism attached to Adamson; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": true,
-   "origin_scripture": "Genesis",
-   "verse_reference": "Genesis 2:20",
-   "note": "The name Adam is directly mentioned in the Bible as the first human created by God."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Adamson."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AdamsonMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Adamson"
-  ],
-  "monetization": {
-   "ads": {
-    "display": true,
-    "positions": [
-     "top",
-     "sidebar"
-    ]
-   },
-   "affiliate": {
-    "products": [
-     "Baby Clothes",
-     "Baby Toys"
+  "success": true,
+  "data": {
+    "name": "Adamson",
+    "slug": "adamson",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "commission": 0.1
-   }
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Adamson Name Meaning – Son of Adam (Biblical)",
-   "meta_description": "Adamson is a Biblical name meaning “Son of Adam”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Adamson, Adamson name meaning, Adamson meaning, Adamson origin, Adamson root, Adamson pronunciation, Biblical names",
-   "description_paragraph": "Adamson is a Biblical name meaning “Son of Adam”.",
-   "keywords": [
-    "Adamson",
-    "Adamson name meaning",
-    "Adamson meaning",
-    "Adamson origin",
-    "Adamson root",
-    "Adamson pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Adamson name meaning",
-   "secondary_keywords": [
-    "Adamson meaning",
-    "Adamson origin",
-    "Adamson pronunciation",
-    "Adamson lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/adamson",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the English meaning of Adamson?",
-     "a": "In English, Adamson is rendered as “Son of Adam”."
-    },
-    {
-     "q": "Is Adamson suitable for a baby?",
-     "a": "Adamson is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Adamson?",
-     "a": "Adamson is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Adamson?",
-     "a": "Adamson is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Adamson have a positive meaning?",
-     "a": "Adamson carries the meaning “Son of Adam”."
-    },
-    {
-     "q": "What does the name Adamson mean?",
-     "a": "Adamson means “Son of Adam”."
-    },
-    {
-     "q": "What is the origin of the name Adamson?",
-     "a": "Adamson is of Biblical origin."
-    },
-    {
-     "q": "Is Adamson a male name?",
-     "a": "Adamson is used as a male name."
-    },
-    {
-     "q": "How many syllables does Adamson have?",
-     "a": "Adamson has 3 syllables."
-    },
-    {
-     "q": "How is Adamson pronounced?",
-     "a": "Adamson is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Adamson?",
-     "a": "Any spiritual significance attached to Adamson is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Adamson?",
-     "a": "Variant spellings of Adamson are listed in the variants field of this record."
-    }
-   ]
-  },
-  "seo_title": "Adamson Name Meaning – Son of Adam (Biblical)",
-  "meta_description": "Adamson is a Biblical name meaning “Son of Adam”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Adamson",
-   "Adamson name meaning",
-   "Adamson meaning",
-   "Adamson origin",
-   "Adamson root",
-   "Adamson pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/adamson",
-  "intro_paragraph": "Adamson is a Biblical name meaning “Son of Adam”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Adamson",
-   "description": "Adamson — Son of Adam",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Adamson?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Adamson is rendered as “Son of Adam”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Adamson suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Adamson is used as a male given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Adamson?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Adamson is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Adamson?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Adamson is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Adamson have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Adamson carries the meaning “Son of Adam”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Adamson mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Adamson means “Son of Adam”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Adamson?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Adamson is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Adamson a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Adamson is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Adamson have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Adamson has 3 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Adamson pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Adamson is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Adamson?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Adamson is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Adamson?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Adamson are listed in the variants field of this record."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Adamson",
-     "item": "https://namemeaning.example/name/adamson"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Adamson",
-   "slug": "adamson",
-   "meaning": "Son of Adam",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Adamson",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Son of Adam",
-   "long_meaning": "The name Adamson is recorded with the meaning “Son of Adam”. Adamson is a Biblical name meaning “Son of Adam”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Adamson",
-     "meaning": "Son of Adam",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "AD-əm-sən",
-    "ipa": "/ˈædəmson/"
-   },
-   "syllables": 3,
-   "name_length": 7,
-   "faqs": [
-    {
-     "q": "What is the English meaning of Adamson?",
-     "a": "In English, Adamson is rendered as “Son of Adam”."
-    },
-    {
-     "q": "Is Adamson suitable for a baby?",
-     "a": "Adamson is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Adamson?",
-     "a": "Adamson is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Adamson?",
-     "a": "Adamson is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Adamson have a positive meaning?",
-     "a": "Adamson carries the meaning “Son of Adam”."
-    },
-    {
-     "q": "What does the name Adamson mean?",
-     "a": "Adamson means “Son of Adam”."
-    },
-    {
-     "q": "What is the origin of the name Adamson?",
-     "a": "Adamson is of Biblical origin."
-    },
-    {
-     "q": "Is Adamson a male name?",
-     "a": "Adamson is used as a male name."
-    },
-    {
-     "q": "How many syllables does Adamson have?",
-     "a": "Adamson has 3 syllables."
-    },
-    {
-     "q": "How is Adamson pronounced?",
-     "a": "Adamson is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Adamson?",
-     "a": "Any spiritual significance attached to Adamson is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Adamson?",
-     "a": "Variant spellings of Adamson are listed in the variants field of this record."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
+    "gender": "Male",
+    "gender_notes": "Adamson is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Son of Adam",
+    "long_meaning": "The meaning of Adamson is recorded in name-lists as “Son of Adam”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Adamson expresses “Son of Adam”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "a-d-a-m-s-o-n",
+    "syllables": 3,
+    "name_length": 7,
+    "transliteration": [
+      "Adamson"
+    ],
     "lucky_number": 4,
-    "life_path_number": 4,
-    "ruling_planet": "Rahu",
     "lucky_day": "Saturday",
-    "lucky_stone": "Hessonite",
     "lucky_colors": [
-     "Grey",
-     "Blue"
+      "Grey",
+      "Blue"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Adamson total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "lucky_stone": "Hessonite",
+    "ruling_planet": "Rahu",
+    "life_path_number": 4,
+    "numerology_meaning": "In Pythagorean numerology the letters of Adamson total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
+    "in_hebrew": {
+      "name": "אדמסון",
+      "meaning": "בן אדם, בנו של אדם הראשון",
+      "long_meaning": "השם אדמסון הוא שם משפחה שמשמעותו 'בן אדם' או 'בנו של אדם הראשון'. הוא נגזר מהשם העברי 'אדם' שפירושו אדם הראשון שנברא על ידי אלוהים. השם אדמסון הוא שם פטרונימי שמציין כי הנושא הוא בנו של אדם, ובכך הוא קושר את הנושא לאדם הראשון ולמורשתו."
+    },
+    "in_greek": {
+      "name": "Άνταμσον",
+      "meaning": "παράγωγο του Αδάμ",
+      "long_meaning": "Το όνομα Άνταμσον είναι ένα επώνυμο που προέρχεται από το ελληνικό όνομα 'Αδάμ', που σημαίνει 'ο πρώτος άνθρωπος'. Το όνομα αυτό είναι γνωστό από την Καινή Διαθήκη και συγκεκριμένα από το βιβλίο της Γενέσεως. Ο Άνταμσον είναι ένα πατρωνυμικό όνομα που δηλώνει ότι ο κάτοχος είναι γιος του Αδάμ, συνδέοντας τον με τον πρώτο άνθρωπο και την κληρονομιά του."
+    },
+    "in_latin": {
+      "name": "Adamson",
+      "meaning": "filius Adam",
+      "long_meaning": "Nomen Adamson est nomen familiae quod significat 'filius Adam' vel 'descendens a primo homine'. Nomen Adamson est patronymicum nomen quod indicat possessorem esse filium Adam, et ita eum coniungit cum primo homine et hereditate eius. Hoc nomen habet radices in traditione christiana et biblica."
+    },
+    "in_english": {
+      "name": "Adamson",
+      "meaning": "Son of Adam",
+      "long_meaning": "Son of Adam"
+    },
+    "pronunciation": {
+      "english": "AD-əm-sən",
+      "biblical": "אָדָם",
+      "ipa": "/ˈædəmson/"
+    },
+    "name_variations": [
+      "Adamson"
+    ],
+    "variants": [
+      "Adamson"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Adamson is used in Biblical naming tradition with the meaning “Son of Adam”.",
+    "spiritual_significance": "Any spiritual significance attached to Adamson is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Son of Adam” is the basis of any symbolism attached to Adamson; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "Genesis",
+      "verse_reference": "Genesis 2:20",
+      "note": "The name Adam is directly mentioned in the Bible as the first human created by God."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Adamson."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AdamsonMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Adamson"
+    ],
+    "monetization": {
+      "ads": {
+        "display": true,
+        "positions": [
+          "top",
+          "sidebar"
+        ]
+      },
+      "affiliate": {
+        "products": [
+          "Baby Clothes",
+          "Baby Toys"
+        ],
+        "commission": 0.1
+      }
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Adamson Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Adamson has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Adamson, Adamson name meaning, Adamson meaning, Adamson origin, Adamson root, Adamson pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Adamson has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Adamson",
+        "Adamson name meaning",
+        "Adamson meaning",
+        "Adamson origin",
+        "Adamson root",
+        "Adamson pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Adamson name meaning",
+      "secondary_keywords": [
+        "Adamson meaning",
+        "Adamson origin",
+        "Adamson pronunciation",
+        "Adamson lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Adamson mean?",
+          "a": "Name-lists record the meaning as “Son of Adam”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Adamson verified?",
+          "a": "No. The meaning of Adamson could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Adamson come from?",
+          "a": "The origin of Adamson has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Adamson Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Adamson has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Adamson",
+      "Adamson name meaning",
+      "Adamson meaning",
+      "Adamson origin",
+      "Adamson root",
+      "Adamson pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Adamson has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Adamson",
+      "description": "Adamson — Son of Adam",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Adamson mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Son of Adam”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Adamson verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Adamson could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Adamson come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Adamson has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:04:45.000Z",
+    "tier1_verified": {
+      "name": "Adamson",
+      "slug": "adamson",
+      "meaning": "Son of Adam",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Adamson",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Son of Adam",
+      "long_meaning": "The name Adamson is recorded with the meaning “Son of Adam”. Adamson is a Biblical name meaning “Son of Adam”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Adamson",
+          "meaning": "Son of Adam",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "AD-əm-sən",
+        "ipa": "/ˈædəmson/"
+      },
+      "syllables": 3,
+      "name_length": 7,
+      "faqs": [
+        {
+          "q": "What does the name Adamson mean?",
+          "a": "Name-lists record the meaning as “Son of Adam”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Adamson verified?",
+          "a": "No. The meaning of Adamson could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Adamson come from?",
+          "a": "The origin of Adamson has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 4,
+        "life_path_number": 4,
+        "ruling_planet": "Rahu",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Hessonite",
+        "lucky_colors": [
+          "Grey",
+          "Blue"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Adamson total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:45.000Z"
+    }
   }
- }
 }

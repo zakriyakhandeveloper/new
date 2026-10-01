@@ -1,503 +1,342 @@
 {
- "success": true,
- "data": {
-  "name": "Giada",
-  "slug": "giada",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Giada is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Jewish name of 'YHWH knows'",
-  "long_meaning": "The name Giada is recorded with the meaning “Jewish name of 'YHWH knows'”. Giada is a Biblical name meaning “Jewish name of 'YHWH knows'”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Giada expresses “Jewish name of 'YHWH knows'”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Giada is recorded with the meaning “Jewish name of 'YHWH knows'”. Giada is a Biblical name meaning “Jewish name of 'YHWH knows'”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "g-i-a-d-a",
-  "syllables": 2,
-  "name_length": 5,
-  "transliteration": [
-   "Giada"
-  ],
-  "lucky_number": 4,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Grey",
-   "Blue"
-  ],
-  "lucky_stone": "Hessonite",
-  "ruling_planet": "Rahu",
-  "life_path_number": 4,
-  "numerology_meaning": "In Pythagorean numerology the letters of Giada total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-  "in_hebrew": {
-   "name": "ג'אדה",
-   "meaning": "ללא מקור עברי ישיר, קשור לאבן חן",
-   "long_meaning": "השם ג'אדה אינו מופיע ישירות במקרא או בעברית קלאסית. עם זאת, הוא עשוי להיות קשור למילה 'אבן גאדה' או 'גוון של אבן', שיכולה להיות קשורה למונחי תכשיטים או אבני חן. השימוש בשם זה עשוי להיות מושפע משמות שמקורם באיטלקית או בשפות אחרות."
-  },
-  "in_greek": {
-   "name": "Τζάδα",
-   "meaning": "Το όνομα Τζάδα δεν έχει άμεση ελληνική ρίζα",
-   "long_meaning": "Το όνομα Τζάδα δεν εμφανίζεται στην ελληνική βιβλιογραφία ή στην Καινή Διαθήκη. Μπορεί να είναι 영향을 από ξένες γλώσσες. Στην ελληνική παράδοση, ονόματα συχνά έχουν βαθιά ετυμολογία και συμβολισμό, αλλά το Τζάδα δεν έχει καταγραφεί ως παραδοσιακό όνομα."
-  },
-  "in_latin": {
-   "name": "Giada",
-   "meaning": "Name Giada derived from Italian, possibly related to gemstone",
-   "long_meaning": "The name Giada is of Italian origin, possibly derived from the word for 'jade', a type of gemstone. While it does not appear directly in Latin literature or Christian scripture, its connection to precious stones may hold symbolic meaning in the context of Christian tradition, where stones and gems are often used metaphorically."
-  },
-  "in_english": {
-   "name": "Giada",
-   "meaning": "Jewish name of 'YHWH knows'",
-   "long_meaning": "The name Giada is recorded with the meaning “Jewish name of 'YHWH knows'”. Giada is a Biblical name meaning “Jewish name of 'YHWH knows'”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "JYAH-dah",
-   "ipa": "/dʒɑːdə/"
-  },
-  "name_variations": [
-   "Giada"
-  ],
-  "variants": [
-   "Giada"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Giada is used in Biblical naming tradition with the meaning “Jewish name of 'YHWH knows'”.",
-  "spiritual_significance": "Any spiritual significance attached to Giada is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Jewish name of 'YHWH knows'” is the basis of any symbolism attached to Giada; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Giada."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#GiadaMeaning",
-   "#ChristianBabyNames",
-   "#ItalianNames",
-   "#GemstoneNames"
-  ],
-  "monetization": {
-   "ad_units": [
-    {
-     "type": "display",
-     "format": "rectangle",
-     "size": [
-      300,
-      250
-     ]
-    },
-    {
-     "type": "native",
-     "format": "content_recommendations",
-     "position": "after_content"
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Giada Name Meaning – Jewish name of 'YHWH knows' (Biblical)",
-   "meta_description": "Giada is a Biblical name meaning “Jewish name of 'YHWH knows'”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Giada, Giada name meaning, Giada meaning, Giada origin, Giada root, Giada pronunciation, Biblical names",
-   "description_paragraph": "Giada is a Biblical name meaning “Jewish name of 'YHWH knows'”.",
-   "keywords": [
-    "Giada",
-    "Giada name meaning",
-    "Giada meaning",
-    "Giada origin",
-    "Giada root",
-    "Giada pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Giada name meaning",
-   "secondary_keywords": [
-    "Giada meaning",
-    "Giada origin",
-    "Giada pronunciation",
-    "Giada lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/giada",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Does Giada have a religious meaning?",
-     "a": "Giada is recorded as a christian name meaning “Jewish name of 'YHWH knows'”."
-    },
-    {
-     "q": "What is the English meaning of Giada?",
-     "a": "In English, Giada is rendered as “Jewish name of 'YHWH knows'”."
-    },
-    {
-     "q": "Is Giada suitable for a baby?",
-     "a": "Giada is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Giada?",
-     "a": "Giada is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Giada?",
-     "a": "Giada is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Giada have a positive meaning?",
-     "a": "Giada carries the meaning “Jewish name of 'YHWH knows'”."
-    },
-    {
-     "q": "What does the name Giada mean?",
-     "a": "Giada means “Jewish name of 'YHWH knows'”."
-    },
-    {
-     "q": "What is the origin of the name Giada?",
-     "a": "Giada is of Biblical origin."
-    },
-    {
-     "q": "Is Giada a unisex name?",
-     "a": "Giada is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Giada have?",
-     "a": "Giada has 2 syllables."
-    },
-    {
-     "q": "How is Giada pronounced?",
-     "a": "Giada is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Giada?",
-     "a": "Any spiritual significance attached to Giada is interpretive and is labelled as such in this record."
-    }
-   ]
-  },
-  "seo_title": "Giada Name Meaning – Jewish name of 'YHWH knows' (Biblical)",
-  "meta_description": "Giada is a Biblical name meaning “Jewish name of 'YHWH knows'”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Giada",
-   "Giada name meaning",
-   "Giada meaning",
-   "Giada origin",
-   "Giada root",
-   "Giada pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/giada",
-  "intro_paragraph": "Giada is a Biblical name meaning “Jewish name of 'YHWH knows'”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Giada",
-   "description": "Giada — Jewish name of 'YHWH knows'",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Does Giada have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Giada is recorded as a christian name meaning “Jewish name of 'YHWH knows'”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Giada?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Giada is rendered as “Jewish name of 'YHWH knows'”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Giada suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Giada is used as a unisex given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Giada?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Giada is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Giada?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Giada is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Giada have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Giada carries the meaning “Jewish name of 'YHWH knows'”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Giada mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Giada means “Jewish name of 'YHWH knows'”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Giada?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Giada is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Giada a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Giada is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Giada have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Giada has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Giada pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Giada is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Giada?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Giada is interpretive and is labelled as such in this record."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Giada",
-     "item": "https://namemeaning.example/name/giada"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 58,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Giada",
-   "slug": "giada",
-   "meaning": "Jewish name of 'YHWH knows'",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Giada",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Jewish name of 'YHWH knows'",
-   "long_meaning": "The name Giada is recorded with the meaning “Jewish name of 'YHWH knows'”. Giada is a Biblical name meaning “Jewish name of 'YHWH knows'”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Giada",
-     "meaning": "Jewish name of 'YHWH knows'",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "JYAH-dah",
-    "ipa": "/dʒɑːdə/"
-   },
-   "syllables": 2,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "Does Giada have a religious meaning?",
-     "a": "Giada is recorded as a christian name meaning “Jewish name of 'YHWH knows'”."
-    },
-    {
-     "q": "What is the English meaning of Giada?",
-     "a": "In English, Giada is rendered as “Jewish name of 'YHWH knows'”."
-    },
-    {
-     "q": "Is Giada suitable for a baby?",
-     "a": "Giada is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Giada?",
-     "a": "Giada is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Giada?",
-     "a": "Giada is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Giada have a positive meaning?",
-     "a": "Giada carries the meaning “Jewish name of 'YHWH knows'”."
-    },
-    {
-     "q": "What does the name Giada mean?",
-     "a": "Giada means “Jewish name of 'YHWH knows'”."
-    },
-    {
-     "q": "What is the origin of the name Giada?",
-     "a": "Giada is of Biblical origin."
-    },
-    {
-     "q": "Is Giada a unisex name?",
-     "a": "Giada is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Giada have?",
-     "a": "Giada has 2 syllables."
-    },
-    {
-     "q": "How is Giada pronounced?",
-     "a": "Giada is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Giada?",
-     "a": "Any spiritual significance attached to Giada is interpretive and is labelled as such in this record."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 4,
-    "life_path_number": 4,
-    "ruling_planet": "Rahu",
-    "lucky_day": "Saturday",
-    "lucky_stone": "Hessonite",
-    "lucky_colors": [
-     "Grey",
-     "Blue"
+  "success": true,
+  "data": {
+    "name": "Giada",
+    "slug": "giada",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Giada total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Giada is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Jewish name of 'YHWH knows'",
+    "long_meaning": "The meaning of Giada is recorded in name-lists as “Jewish name of 'YHWH knows'”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Giada expresses “Jewish name of 'YHWH knows'”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "g-i-a-d-a",
+    "syllables": 2,
+    "name_length": 5,
+    "transliteration": [
+      "Giada"
+    ],
+    "lucky_number": 4,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Grey",
+      "Blue"
+    ],
+    "lucky_stone": "Hessonite",
+    "ruling_planet": "Rahu",
+    "life_path_number": 4,
+    "numerology_meaning": "In Pythagorean numerology the letters of Giada total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
+    "in_hebrew": {
+      "name": "ג'אדה",
+      "meaning": "ללא מקור עברי ישיר, קשור לאבן חן",
+      "long_meaning": "השם ג'אדה אינו מופיע ישירות במקרא או בעברית קלאסית. עם זאת, הוא עשוי להיות קשור למילה 'אבן גאדה' או 'גוון של אבן', שיכולה להיות קשורה למונחי תכשיטים או אבני חן. השימוש בשם זה עשוי להיות מושפע משמות שמקורם באיטלקית או בשפות אחרות."
+    },
+    "in_greek": {
+      "name": "Τζάδα",
+      "meaning": "Το όνομα Τζάδα δεν έχει άμεση ελληνική ρίζα",
+      "long_meaning": "Το όνομα Τζάδα δεν εμφανίζεται στην ελληνική βιβλιογραφία ή στην Καινή Διαθήκη. Μπορεί να είναι 영향을 από ξένες γλώσσες. Στην ελληνική παράδοση, ονόματα συχνά έχουν βαθιά ετυμολογία και συμβολισμό, αλλά το Τζάδα δεν έχει καταγραφεί ως παραδοσιακό όνομα."
+    },
+    "in_latin": {
+      "name": "Giada",
+      "meaning": "Name Giada derived from Italian, possibly related to gemstone",
+      "long_meaning": "The name Giada is of Italian origin, possibly derived from the word for 'jade', a type of gemstone. While it does not appear directly in Latin literature or Christian scripture, its connection to precious stones may hold symbolic meaning in the context of Christian tradition, where stones and gems are often used metaphorically."
+    },
+    "in_english": {
+      "name": "Giada",
+      "meaning": "Jewish name of 'YHWH knows'",
+      "long_meaning": "Jewish name of 'YHWH knows'"
+    },
+    "pronunciation": {
+      "english": "JYAH-dah",
+      "ipa": "/dʒɑːdə/"
+    },
+    "name_variations": [
+      "Giada"
+    ],
+    "variants": [
+      "Giada"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Giada is used in Biblical naming tradition with the meaning “Jewish name of 'YHWH knows'”.",
+    "spiritual_significance": "Any spiritual significance attached to Giada is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Jewish name of 'YHWH knows'” is the basis of any symbolism attached to Giada; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Giada."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#GiadaMeaning",
+      "#ChristianBabyNames",
+      "#ItalianNames",
+      "#GemstoneNames"
+    ],
+    "monetization": {
+      "ad_units": [
+        {
+          "type": "display",
+          "format": "rectangle",
+          "size": [
+            300,
+            250
+          ]
+        },
+        {
+          "type": "native",
+          "format": "content_recommendations",
+          "position": "after_content"
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Giada Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Giada has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Giada, Giada name meaning, Giada meaning, Giada origin, Giada root, Giada pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Giada has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Giada",
+        "Giada name meaning",
+        "Giada meaning",
+        "Giada origin",
+        "Giada root",
+        "Giada pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Giada name meaning",
+      "secondary_keywords": [
+        "Giada meaning",
+        "Giada origin",
+        "Giada pronunciation",
+        "Giada lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Giada mean?",
+          "a": "Name-lists record the meaning as “Jewish name of 'YHWH knows'”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Giada verified?",
+          "a": "No. The meaning of Giada could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Giada come from?",
+          "a": "The origin of Giada has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Giada Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Giada has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Giada",
+      "Giada name meaning",
+      "Giada meaning",
+      "Giada origin",
+      "Giada root",
+      "Giada pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Giada has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Giada",
+      "description": "Giada — Jewish name of 'YHWH knows'",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Giada mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Jewish name of 'YHWH knows'”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Giada verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Giada could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Giada come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Giada has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 58,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:12:29.000Z",
+    "tier1_verified": {
+      "name": "Giada",
+      "slug": "giada",
+      "meaning": "Jewish name of 'YHWH knows'",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Giada",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Jewish name of 'YHWH knows'",
+      "long_meaning": "The name Giada is recorded with the meaning “Jewish name of 'YHWH knows'”. Giada is a Biblical name meaning “Jewish name of 'YHWH knows'”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Giada",
+          "meaning": "Jewish name of 'YHWH knows'",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "JYAH-dah",
+        "ipa": "/dʒɑːdə/"
+      },
+      "syllables": 2,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Giada mean?",
+          "a": "Name-lists record the meaning as “Jewish name of 'YHWH knows'”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Giada verified?",
+          "a": "No. The meaning of Giada could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Giada come from?",
+          "a": "The origin of Giada has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 4,
+        "life_path_number": 4,
+        "ruling_planet": "Rahu",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Hessonite",
+        "lucky_colors": [
+          "Grey",
+          "Blue"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Giada total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:12:29.000Z"
+    }
   }
- }
 }

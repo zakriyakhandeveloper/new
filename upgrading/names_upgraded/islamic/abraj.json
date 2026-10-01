@@ -1,549 +1,388 @@
 {
- "success": true,
- "data": {
-  "name": "Abraj",
-  "slug": "abraj",
-  "language": [
-   "Arabic",
-   "Urdu",
-   "Persian",
-   "Pashto"
-  ],
-  "gender": "Male",
-  "gender_notes": "Abraj is used as a male name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Towers, Fortresses",
-  "long_meaning": "The name Abraj is recorded with the meaning “Towers, Fortresses”. Abraj is a Arabic name meaning “Towers, Fortresses”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Abraj expresses “Towers, Fortresses”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Abraj is recorded with the meaning “Towers, Fortresses”. Abraj is a Arabic name meaning “Towers, Fortresses”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-b-r-a-j",
-  "syllables": 2,
-  "name_length": 5,
-  "transliteration": [
-   "Abraj"
-  ],
-  "lucky_number": 5,
-  "lucky_day": "Wednesday",
-  "lucky_colors": [
-   "Green",
-   "Turquoise"
-  ],
-  "lucky_stone": "Emerald",
-  "ruling_planet": "Mercury",
-  "life_path_number": 5,
-  "numerology_meaning": "In Pythagorean numerology the letters of Abraj total 14, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
-  "in_arabic": {
-   "name": "أبراج",
-   "meaning": "أبراج تعني المرتفعات العالية في اللغة العربية",
-   "long_meaning": "اسم أبراج هو جمع برج، ويشير إلى الهياكل العالية أو المرتفعات في اللغة العربية. يوحي الاسم بالقوة والارتفاع والتميز. في بعض الأحيان، يُربط الاسم ببرج النجوم أو الفلك، مما يضيف بعدًا جديدًا من المعنى يتعلق بالمراقبة أو النظر إلى المستقبل. وقد وردت كلمة برج في القرآن الكريم في عدة مواضع، مما يعزز الأهمية اللغوية والروحية للاسم."
-  },
-  "in_urdu": {
-   "name": "ابراج",
-   "meaning": "ابراج کا مطلب ہے بلند و بالا ڈھانچے یا عمارات",
-   "long_meaning": "ابراج نام عربی زبان کے جمع برج سے ماخوذ ہے، جو بلند و بالا ڈھانچوں یا عمارتوں کو کہا جاتا ہے۔ یہ نام طاقت، عظمت اور اونچائی کی علامت ہے۔ بعض اوقات اس کا تعلق فلکیات یا نجوم سے بھی جوڑا جاتا ہے، جو مستقبل کو دیکھنے یا اہم واقعات کی پیش گوئی کی نشاندہی کرتا ہے۔ عربی زبان میں برج کی اہمیت کو دیکھتے ہوئے، یہ نام اسلامی ثقافت میں خاصا مقبول ہے۔"
-  },
-  "in_hindi": {
-   "name": "अब्राज",
-   "meaning": "अब्राज का अर्थ है ऊँची संरचनाएँ या इमारतें",
-   "long_meaning": "अब्राज नाम अरबी भाषा से लिया गया है, जिसका अर्थ है ऊँची संरचनाएँ या इमारतें। यह नाम शक्ति, महत्ता और ऊँचाई का प्रतीक है। कभी-कभी इसे खगोल विज्ञान या ज्योतिष से भी जोड़ा जाता है, जो भविष्य को देखने या महत्वपूर्ण घटनाओं की भविष्यवाणी की ओर संकेत करता है। अरबी भाषा में इसकी महत्ता को देखते हुए, यह नाम भारतीय मुस्लिम समुदाय में विशेष रूप से लोकप्रिय है।"
-  },
-  "in_pashto": {
-   "name": "ابریج",
-   "meaning": "ابریج د لوړو جوړښتو یا ودانیو معنی لري",
-   "long_meaning": "د ابریج نوم عربی ژبې څخه اخیستل شوی دی، کوم چې لوړو جوړښتو یا ودانیو ته ویل کیږي. دا نوم د ځواک، عظمت او لوړوالی نښه ده. کله کله دا د فلکيات یا ستورپوهنې سره هم تړاو لري، کوم چې راتلونکي ته کتنې یا مهمو پېښو د وړاندوينې نښه کوي. په عربی ژبه کې د هغې د اهميت په نظر کې نیولو سره، دا نوم په افغان او پښتني دود کې ځانګړی اهمیت لري."
-  },
-  "in_english": {
-   "name": "Abraj",
-   "meaning": "Towers, Fortresses",
-   "long_meaning": "The name Abraj is recorded with the meaning “Towers, Fortresses”. Abraj is a Arabic name meaning “Towers, Fortresses”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "ah-brahj",
-   "urdu": "ابراج کا تلفظ ہے اے-برا-ج",
-   "hindi": "अब्राज का उच्चारण है ए-ब्रा-ज",
-   "pashto": "د ابریج تلفظ دی اې-برا-ج",
-   "ipa": "/ˈɑːbrɑːdʒ/"
-  },
-  "name_variations": [
-   "Abraj"
-  ],
-  "variants": [
-   "Abraj"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Abraj is used in Arabic naming tradition with the meaning “Towers, Fortresses”.",
-  "spiritual_significance": "Any spiritual significance attached to Abraj is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Towers, Fortresses” is the basis of any symbolism attached to Abraj; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Abraj has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Abraj."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AbrajMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Abraj"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Abraj",
-     "description": "Discover the meaning of Abraj - \"Towers, Fortresses\"",
-     "image": "/images/social/abraj-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Abraj - Name Meaning",
-     "description": "Learn about the beautiful name Abraj",
-     "image": "/images/social/abraj-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Abraj",
-     "description": "Name meaning: Towers, Fortresses",
-     "image": "/images/social/abraj-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Abraj - Meaning: Towers, Fortresses",
-    "email_subject": "Beautiful Name: Abraj"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Abraj with meaning Towers, Fortresses",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Abraj Name Meaning – Towers, Fortresses (Arabic)",
-   "meta_description": "Abraj is a Arabic name meaning “Towers, Fortresses”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Abraj, Abraj name meaning, Abraj meaning, Abraj origin, Abraj root, Abraj pronunciation, Arabic names",
-   "description_paragraph": "Abraj is a Arabic name meaning “Towers, Fortresses”.",
-   "keywords": [
-    "Abraj",
-    "Abraj name meaning",
-    "Abraj meaning",
-    "Abraj origin",
-    "Abraj root",
-    "Abraj pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Abraj name meaning",
-   "secondary_keywords": [
-    "Abraj meaning",
-    "Abraj origin",
-    "Abraj pronunciation",
-    "Abraj lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/abraj",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the origin of the name Abraj?",
-     "a": "Abraj is of Arabic origin."
-    },
-    {
-     "q": "Is Abraj a male name?",
-     "a": "Abraj is used as a male name."
-    },
-    {
-     "q": "How many syllables does Abraj have?",
-     "a": "Abraj has 2 syllables."
-    },
-    {
-     "q": "How is Abraj pronounced?",
-     "a": "Abraj is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Abraj?",
-     "a": "Any spiritual significance attached to Abraj is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Abraj?",
-     "a": "Variant spellings of Abraj are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Abraj a common name?",
-     "a": "Popularity figures for Abraj have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Abraj say about a child?",
-     "a": "The name Abraj expresses “Towers, Fortresses”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Abraj be used in another language?",
-     "a": "Abraj is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Abraj mentioned in scripture?",
-     "a": "No scriptural reference for Abraj has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Abraj?",
-     "a": "The Pythagorean lucky number for Abraj is 5 (ruling planet Mercury). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Abraj?",
-     "a": "Wednesday is the traditional association for Abraj. This is interpretive."
-    }
-   ]
-  },
-  "seo_title": "Abraj Name Meaning – Towers, Fortresses (Arabic)",
-  "meta_description": "Abraj is a Arabic name meaning “Towers, Fortresses”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Abraj",
-   "Abraj name meaning",
-   "Abraj meaning",
-   "Abraj origin",
-   "Abraj root",
-   "Abraj pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/abraj",
-  "intro_paragraph": "Abraj is a Arabic name meaning “Towers, Fortresses”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Abraj",
-   "description": "Abraj — Towers, Fortresses",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Abraj?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abraj is of Arabic origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Abraj a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abraj is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Abraj have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abraj has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Abraj pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abraj is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Abraj?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Abraj is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Abraj?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Abraj are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Abraj a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Abraj have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Abraj say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Abraj expresses “Towers, Fortresses”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Abraj be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abraj is recorded in Arabic; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Abraj mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Abraj has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Abraj?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Abraj is 5 (ruling planet Mercury). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Abraj?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Wednesday is the traditional association for Abraj. This is interpretive."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Abraj",
-     "item": "https://namemeaning.example/name/abraj"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-12-22T19:19:49.929Z",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Abraj",
-   "slug": "abraj",
-   "meaning": "Towers, Fortresses",
-   "origin": "Arabic",
-   "language": [
-    "Arabic",
-    "Urdu",
-    "Persian",
-    "Pashto"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Abraj",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Towers, Fortresses",
-   "long_meaning": "The name Abraj is recorded with the meaning “Towers, Fortresses”. Abraj is a Arabic name meaning “Towers, Fortresses”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Abraj",
-     "meaning": "Towers, Fortresses",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "ah-brahj",
-    "ipa": "/ˈɑːbrɑːdʒ/"
-   },
-   "syllables": 2,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "What is the origin of the name Abraj?",
-     "a": "Abraj is of Arabic origin."
-    },
-    {
-     "q": "Is Abraj a male name?",
-     "a": "Abraj is used as a male name."
-    },
-    {
-     "q": "How many syllables does Abraj have?",
-     "a": "Abraj has 2 syllables."
-    },
-    {
-     "q": "How is Abraj pronounced?",
-     "a": "Abraj is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Abraj?",
-     "a": "Any spiritual significance attached to Abraj is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Abraj?",
-     "a": "Variant spellings of Abraj are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Abraj a common name?",
-     "a": "Popularity figures for Abraj have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Abraj say about a child?",
-     "a": "The name Abraj expresses “Towers, Fortresses”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Abraj be used in another language?",
-     "a": "Abraj is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Abraj mentioned in scripture?",
-     "a": "No scriptural reference for Abraj has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Abraj?",
-     "a": "The Pythagorean lucky number for Abraj is 5 (ruling planet Mercury). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Abraj?",
-     "a": "Wednesday is the traditional association for Abraj. This is interpretive."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 5,
-    "life_path_number": 5,
-    "ruling_planet": "Mercury",
-    "lucky_day": "Wednesday",
-    "lucky_stone": "Emerald",
-    "lucky_colors": [
-     "Green",
-     "Turquoise"
+  "success": true,
+  "data": {
+    "name": "Abraj",
+    "slug": "abraj",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Abraj total 14, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Abraj is used as a male name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Towers, Fortresses",
+    "long_meaning": "The meaning of Abraj is recorded in name-lists as “Towers, Fortresses”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Abraj expresses “Towers, Fortresses”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Arabic",
+    "root_letters": "a-b-r-a-j",
+    "syllables": 2,
+    "name_length": 5,
+    "transliteration": [
+      "Abraj"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Wednesday",
+    "lucky_colors": [
+      "Green",
+      "Turquoise"
+    ],
+    "lucky_stone": "Emerald",
+    "ruling_planet": "Mercury",
+    "life_path_number": 5,
+    "numerology_meaning": "In Pythagorean numerology the letters of Abraj total 14, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
+    "in_arabic": {
+      "name": "أبراج",
+      "meaning": "Towers, Fortresses",
+      "long_meaning": "Towers, Fortresses"
+    },
+    "in_urdu": {
+      "name": "ابراج",
+      "meaning": "Towers, Fortresses",
+      "long_meaning": "Towers, Fortresses"
+    },
+    "in_hindi": {
+      "name": "अब्राज",
+      "meaning": "Towers, Fortresses",
+      "long_meaning": "Towers, Fortresses"
+    },
+    "in_pashto": {
+      "name": "ابریج",
+      "meaning": "Towers, Fortresses",
+      "long_meaning": "Towers, Fortresses"
+    },
+    "in_english": {
+      "name": "Abraj",
+      "meaning": "Towers, Fortresses",
+      "long_meaning": "Towers, Fortresses"
+    },
+    "pronunciation": {
+      "english": "ah-brahj",
+      "urdu": "ابراج کا تلفظ ہے اے-برا-ج",
+      "hindi": "अब्राज का उच्चारण है ए-ब्रा-ज",
+      "pashto": "د ابریج تلفظ دی اې-برا-ج",
+      "ipa": "/ˈɑːbrɑːdʒ/"
+    },
+    "name_variations": [
+      "Abraj"
+    ],
+    "variants": [
+      "Abraj"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Abraj is used in Arabic naming tradition with the meaning “Towers, Fortresses”.",
+    "spiritual_significance": "Any spiritual significance attached to Abraj is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Towers, Fortresses” is the basis of any symbolism attached to Abraj; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "No Qur'anic reference for Abraj has been verified."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Abraj."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AbrajMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Abraj"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Abraj",
+          "description": "Discover the meaning of Abraj - \"Towers, Fortresses\"",
+          "image": "/images/social/abraj-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Abraj - Name Meaning",
+          "description": "Learn about the beautiful name Abraj",
+          "image": "/images/social/abraj-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Abraj",
+          "description": "Name meaning: Towers, Fortresses",
+          "image": "/images/social/abraj-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Abraj - Meaning: Towers, Fortresses",
+        "email_subject": "Beautiful Name: Abraj"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Abraj with meaning Towers, Fortresses",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Abraj Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Abraj has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Abraj, Abraj name meaning, Abraj meaning, Abraj origin, Abraj root, Abraj pronunciation, Arabic names",
+      "description_paragraph": "The meaning of Abraj has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Abraj",
+        "Abraj name meaning",
+        "Abraj meaning",
+        "Abraj origin",
+        "Abraj root",
+        "Abraj pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Abraj name meaning",
+      "secondary_keywords": [
+        "Abraj meaning",
+        "Abraj origin",
+        "Abraj pronunciation",
+        "Abraj lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Abraj mean?",
+          "a": "Name-lists record the meaning as “Towers, Fortresses”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Abraj verified?",
+          "a": "No. The meaning of Abraj could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Abraj come from?",
+          "a": "The origin of Abraj has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Abraj Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Abraj has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Abraj",
+      "Abraj name meaning",
+      "Abraj meaning",
+      "Abraj origin",
+      "Abraj root",
+      "Abraj pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Abraj has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Abraj",
+      "description": "Abraj — Towers, Fortresses",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Abraj mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Towers, Fortresses”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Abraj verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Abraj could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Abraj come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Abraj has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 70
+    },
+    "created_at": "2025-12-22T19:19:49.929Z",
+    "updated_at": "2026-10-01T04:04:21.000Z",
+    "tier1_verified": {
+      "name": "Abraj",
+      "slug": "abraj",
+      "meaning": "Towers, Fortresses",
+      "origin": "Arabic",
+      "language": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Abraj",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Towers, Fortresses",
+      "long_meaning": "The name Abraj is recorded with the meaning “Towers, Fortresses”. Abraj is a Arabic name meaning “Towers, Fortresses”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Abraj",
+          "meaning": "Towers, Fortresses",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "ah-brahj",
+        "ipa": "/ˈɑːbrɑːdʒ/"
+      },
+      "syllables": 2,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Abraj mean?",
+          "a": "Name-lists record the meaning as “Towers, Fortresses”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Abraj verified?",
+          "a": "No. The meaning of Abraj could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Abraj come from?",
+          "a": "The origin of Abraj has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 5,
+        "life_path_number": 5,
+        "ruling_planet": "Mercury",
+        "lucky_day": "Wednesday",
+        "lucky_stone": "Emerald",
+        "lucky_colors": [
+          "Green",
+          "Turquoise"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Abraj total 14, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:21.000Z"
+    }
   }
- }
 }

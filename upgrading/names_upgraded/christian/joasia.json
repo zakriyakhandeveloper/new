@@ -1,494 +1,333 @@
 {
- "success": true,
- "data": {
-  "name": "Joasia",
-  "slug": "joasia",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Joasia is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "God is gracious",
-  "long_meaning": "The name Joasia is recorded with the meaning “God is gracious”. Joasia is a Biblical name meaning “God is gracious”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Joasia expresses “God is gracious”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Joasia is recorded with the meaning “God is gracious”. Joasia is a Biblical name meaning “God is gracious”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "j-o-a-s-i-a",
-  "syllables": 2,
-  "name_length": 6,
-  "transliteration": [
-   "Joasia"
-  ],
-  "lucky_number": 1,
-  "lucky_day": "Sunday",
-  "lucky_colors": [
-   "Gold",
-   "Orange"
-  ],
-  "lucky_stone": "Ruby",
-  "ruling_planet": "Sun",
-  "life_path_number": 1,
-  "numerology_meaning": "In Pythagorean numerology the letters of Joasia total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
-  "in_hebrew": {
-   "name": "יואסיה",
-   "meaning": "בן יוסף, זה יהי, יוחס",
-   "long_meaning": "יואסיה היא שם שמקורו בעברית. הוא יכול להיות שם של בן, או שם של אדם שנחשב לבן של משה רבינו. יואסיה היא גם שם של אחד מהספרי החיצוניים של חמשת חומשי התורה, שנכתב בעברית. במסורת היהודית, יואסיה יכול להיות שם של אדם שנחשב לחכם ולאדיב, ושמירת שבת ותורה יסודות של הדת היהודית. לפי ההגיון, שמירת שבת ותורה יכולות להעניק לאדם חיי אור, ולאפשר לו לעבור דרך החיים באופן שמוביל לשלום ולשמחה."
-  },
-  "in_greek": {
-   "name": "Ιωασία",
-   "meaning": "υιός του Ιωσήφ, αυτός εστί, συγγενής",
-   "long_meaning": "Ιωασία είναι ένα όνομα που προέρχεται από την ελληνική γλώσσα. Θα μπορούσε να είναι όνομα για一个 αγόρι, ή ένα όνομα για someone που θεωρείται ως ένα αγόρι του Μωϋσέ. Η Ιωασία είναι επίσης το όνομα ενός από τα εξωβιβλικά βιβλία της Πεντατεύχου, γραμμένα στην ελληνική γλώσσα. Στη δίωξη της Ιουδαίας, η Ιωασία μπορεί να είναι το όνομα ενός άντρα που θεωρείται σοφός και ευγενής, και η διατήρηση της Σαββάτου και της Θησαυρού είναι τα θεμέλια της Εβραϊκής θρησκείας. Κατά την ισότητα, η διατήρηση της Σαββάτου και της Θησαυρού μπορεί να δώσει στο άτομο μια ζωή φωτός, και να επιτρέψει να περάσει από τους βιώνοντας έτσι τη ζωή με τρόπο που οδηγεί στο ειρήνη και την ευτυχία."
-  },
-  "in_latin": {
-   "name": "Joasia",
-   "meaning": "femina, femina Ioasia, Ioasia",
-   "long_meaning": "Joasia est nomen femininum, quod originem ducit ex lingua Hebraea. Potest esse nomen femininum Ioasia, Ioasia, Ioasia. Joasia est etiam nomen femininum ex Bibliis, Ioasia Ioasia. In Ecclesia, Joasia potest esse nomen femininum Ioasia, Ioasia, Ioasia. Joasia est etiam nomen femininum Ioasia, Ioasia, Ioasia. Joasia est nomen femininum Ioasia, Ioasia, Ioasia. Ioasia Ioasia Ioasia Ioasia"
-  },
-  "in_english": {
-   "name": "Joasia",
-   "meaning": "God is gracious",
-   "long_meaning": "The name Joasia is recorded with the meaning “God is gracious”. Joasia is a Biblical name meaning “God is gracious”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "JOH-ah-see-ah",
-   "biblical": "Yō‘āsīyā (יוֹעָסִיָּה)",
-   "ipa": "/joʊ.əˈsi.ə/"
-  },
-  "name_variations": [
-   "Joasia"
-  ],
-  "variants": [
-   "Joasia"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Joasia is used in Biblical naming tradition with the meaning “God is gracious”.",
-  "spiritual_significance": "Any spiritual significance attached to Joasia is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “God is gracious” is the basis of any symbolism attached to Joasia; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": true,
-   "origin_scripture": "1 Chronicles",
-   "verse_reference": "3:24",
-   "note": "The name Joasia is found in the biblical book of 1 Chronicles 3:24, where it refers to a descendant of Judah."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Joasia."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#JoasiaMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Joasia"
-  ],
-  "monetization": {
-   "ads": true,
-   "affiliate_links": [
-    "https://example.com/affiliate1",
-    "https://example.com/affiliate2"
-   ],
-   "sponsored_posts": true
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Joasia Name Meaning – God is gracious (Biblical)",
-   "meta_description": "Joasia is a Biblical name meaning “God is gracious”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Joasia, Joasia name meaning, Joasia meaning, Joasia origin, Joasia root, Joasia pronunciation, Biblical names",
-   "description_paragraph": "Joasia is a Biblical name meaning “God is gracious”.",
-   "keywords": [
-    "Joasia",
-    "Joasia name meaning",
-    "Joasia meaning",
-    "Joasia origin",
-    "Joasia root",
-    "Joasia pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Joasia name meaning",
-   "secondary_keywords": [
-    "Joasia meaning",
-    "Joasia origin",
-    "Joasia pronunciation",
-    "Joasia lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/joasia",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Which day is associated with Joasia?",
-     "a": "Sunday is the traditional association for Joasia. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Joasia?",
-     "a": "Ruby is the traditional association for Joasia. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Joasia?",
-     "a": "Gold, Orange are the traditional associations for Joasia. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Joasia?",
-     "a": "In Pythagorean numerology the letters of Joasia total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-    },
-    {
-     "q": "How reliable is the meaning given for Joasia?",
-     "a": "The meaning of Joasia carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Joasia have a religious meaning?",
-     "a": "Joasia is recorded as a christian name meaning “God is gracious”."
-    },
-    {
-     "q": "What is the English meaning of Joasia?",
-     "a": "In English, Joasia is rendered as “God is gracious”."
-    },
-    {
-     "q": "Is Joasia suitable for a baby?",
-     "a": "Joasia is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Joasia?",
-     "a": "Joasia is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Joasia?",
-     "a": "Joasia is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Joasia have a positive meaning?",
-     "a": "Joasia carries the meaning “God is gracious”."
-    },
-    {
-     "q": "What does the name Joasia mean?",
-     "a": "Joasia means “God is gracious”."
-    }
-   ]
-  },
-  "seo_title": "Joasia Name Meaning – God is gracious (Biblical)",
-  "meta_description": "Joasia is a Biblical name meaning “God is gracious”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Joasia",
-   "Joasia name meaning",
-   "Joasia meaning",
-   "Joasia origin",
-   "Joasia root",
-   "Joasia pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/joasia",
-  "intro_paragraph": "Joasia is a Biblical name meaning “God is gracious”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Joasia",
-   "description": "Joasia — God is gracious",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Joasia?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sunday is the traditional association for Joasia. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Joasia?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ruby is the traditional association for Joasia. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Joasia?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Gold, Orange are the traditional associations for Joasia. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Joasia?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Joasia total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Joasia?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Joasia carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Joasia have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Joasia is recorded as a christian name meaning “God is gracious”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Joasia?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Joasia is rendered as “God is gracious”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Joasia suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Joasia is used as a unisex given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Joasia?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Joasia is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Joasia?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Joasia is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Joasia have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Joasia carries the meaning “God is gracious”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Joasia mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Joasia means “God is gracious”."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Joasia",
-     "item": "https://namemeaning.example/name/joasia"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Joasia",
-   "slug": "joasia",
-   "meaning": "God is gracious",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Joasia",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "God is gracious",
-   "long_meaning": "The name Joasia is recorded with the meaning “God is gracious”. Joasia is a Biblical name meaning “God is gracious”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Joasia",
-     "meaning": "God is gracious",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "JOH-ah-see-ah",
-    "ipa": "/joʊ.əˈsi.ə/"
-   },
-   "syllables": 2,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "Which day is associated with Joasia?",
-     "a": "Sunday is the traditional association for Joasia. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Joasia?",
-     "a": "Ruby is the traditional association for Joasia. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Joasia?",
-     "a": "Gold, Orange are the traditional associations for Joasia. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Joasia?",
-     "a": "In Pythagorean numerology the letters of Joasia total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-    },
-    {
-     "q": "How reliable is the meaning given for Joasia?",
-     "a": "The meaning of Joasia carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Joasia have a religious meaning?",
-     "a": "Joasia is recorded as a christian name meaning “God is gracious”."
-    },
-    {
-     "q": "What is the English meaning of Joasia?",
-     "a": "In English, Joasia is rendered as “God is gracious”."
-    },
-    {
-     "q": "Is Joasia suitable for a baby?",
-     "a": "Joasia is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Joasia?",
-     "a": "Joasia is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Joasia?",
-     "a": "Joasia is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Joasia have a positive meaning?",
-     "a": "Joasia carries the meaning “God is gracious”."
-    },
-    {
-     "q": "What does the name Joasia mean?",
-     "a": "Joasia means “God is gracious”."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 1,
-    "life_path_number": 1,
-    "ruling_planet": "Sun",
-    "lucky_day": "Sunday",
-    "lucky_stone": "Ruby",
-    "lucky_colors": [
-     "Gold",
-     "Orange"
+  "success": true,
+  "data": {
+    "name": "Joasia",
+    "slug": "joasia",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Joasia total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Joasia is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "God is gracious",
+    "long_meaning": "The meaning of Joasia is recorded in name-lists as “God is gracious”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Joasia expresses “God is gracious”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "j-o-a-s-i-a",
+    "syllables": 2,
+    "name_length": 6,
+    "transliteration": [
+      "Joasia"
+    ],
+    "lucky_number": 1,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Gold",
+      "Orange"
+    ],
+    "lucky_stone": "Ruby",
+    "ruling_planet": "Sun",
+    "life_path_number": 1,
+    "numerology_meaning": "In Pythagorean numerology the letters of Joasia total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
+    "in_hebrew": {
+      "name": "יואסיה",
+      "meaning": "בן יוסף, זה יהי, יוחס",
+      "long_meaning": "יואסיה היא שם שמקורו בעברית. הוא יכול להיות שם של בן, או שם של אדם שנחשב לבן של משה רבינו. יואסיה היא גם שם של אחד מהספרי החיצוניים של חמשת חומשי התורה, שנכתב בעברית. במסורת היהודית, יואסיה יכול להיות שם של אדם שנחשב לחכם ולאדיב, ושמירת שבת ותורה יסודות של הדת היהודית. לפי ההגיון, שמירת שבת ותורה יכולות להעניק לאדם חיי אור, ולאפשר לו לעבור דרך החיים באופן שמוביל לשלום ולשמחה."
+    },
+    "in_greek": {
+      "name": "Ιωασία",
+      "meaning": "υιός του Ιωσήφ, αυτός εστί, συγγενής",
+      "long_meaning": "Ιωασία είναι ένα όνομα που προέρχεται από την ελληνική γλώσσα. Θα μπορούσε να είναι όνομα για一个 αγόρι, ή ένα όνομα για someone που θεωρείται ως ένα αγόρι του Μωϋσέ. Η Ιωασία είναι επίσης το όνομα ενός από τα εξωβιβλικά βιβλία της Πεντατεύχου, γραμμένα στην ελληνική γλώσσα. Στη δίωξη της Ιουδαίας, η Ιωασία μπορεί να είναι το όνομα ενός άντρα που θεωρείται σοφός και ευγενής, και η διατήρηση της Σαββάτου και της Θησαυρού είναι τα θεμέλια της Εβραϊκής θρησκείας. Κατά την ισότητα, η διατήρηση της Σαββάτου και της Θησαυρού μπορεί να δώσει στο άτομο μια ζωή φωτός, και να επιτρέψει να περάσει από τους βιώνοντας έτσι τη ζωή με τρόπο που οδηγεί στο ειρήνη και την ευτυχία."
+    },
+    "in_latin": {
+      "name": "Joasia",
+      "meaning": "femina, femina Ioasia, Ioasia",
+      "long_meaning": "Joasia est nomen femininum, quod originem ducit ex lingua Hebraea. Potest esse nomen femininum Ioasia, Ioasia, Ioasia. Joasia est etiam nomen femininum ex Bibliis, Ioasia Ioasia. In Ecclesia, Joasia potest esse nomen femininum Ioasia, Ioasia, Ioasia. Joasia est etiam nomen femininum Ioasia, Ioasia, Ioasia. Joasia est nomen femininum Ioasia, Ioasia, Ioasia. Ioasia Ioasia Ioasia Ioasia"
+    },
+    "in_english": {
+      "name": "Joasia",
+      "meaning": "God is gracious",
+      "long_meaning": "God is gracious"
+    },
+    "pronunciation": {
+      "english": "JOH-ah-see-ah",
+      "biblical": "Yō‘āsīyā (יוֹעָסִיָּה)",
+      "ipa": "/joʊ.əˈsi.ə/"
+    },
+    "name_variations": [
+      "Joasia"
+    ],
+    "variants": [
+      "Joasia"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Joasia is used in Biblical naming tradition with the meaning “God is gracious”.",
+    "spiritual_significance": "Any spiritual significance attached to Joasia is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “God is gracious” is the basis of any symbolism attached to Joasia; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "1 Chronicles",
+      "verse_reference": "3:24",
+      "note": "The name Joasia is found in the biblical book of 1 Chronicles 3:24, where it refers to a descendant of Judah."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Joasia."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#JoasiaMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Joasia"
+    ],
+    "monetization": {
+      "ads": true,
+      "affiliate_links": [
+        "https://example.com/affiliate1",
+        "https://example.com/affiliate2"
+      ],
+      "sponsored_posts": true
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Joasia Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Joasia has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Joasia, Joasia name meaning, Joasia meaning, Joasia origin, Joasia root, Joasia pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Joasia has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Joasia",
+        "Joasia name meaning",
+        "Joasia meaning",
+        "Joasia origin",
+        "Joasia root",
+        "Joasia pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Joasia name meaning",
+      "secondary_keywords": [
+        "Joasia meaning",
+        "Joasia origin",
+        "Joasia pronunciation",
+        "Joasia lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Joasia mean?",
+          "a": "Name-lists record the meaning as “God is gracious”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Joasia verified?",
+          "a": "No. The meaning of Joasia could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Joasia come from?",
+          "a": "The origin of Joasia has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Joasia Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Joasia has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Joasia",
+      "Joasia name meaning",
+      "Joasia meaning",
+      "Joasia origin",
+      "Joasia root",
+      "Joasia pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Joasia has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Joasia",
+      "description": "Joasia — God is gracious",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Joasia mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “God is gracious”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Joasia verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Joasia could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Joasia come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Joasia has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:17:58.000Z",
+    "tier1_verified": {
+      "name": "Joasia",
+      "slug": "joasia",
+      "meaning": "God is gracious",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Joasia",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "God is gracious",
+      "long_meaning": "The name Joasia is recorded with the meaning “God is gracious”. Joasia is a Biblical name meaning “God is gracious”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Joasia",
+          "meaning": "God is gracious",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "JOH-ah-see-ah",
+        "ipa": "/joʊ.əˈsi.ə/"
+      },
+      "syllables": 2,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Joasia mean?",
+          "a": "Name-lists record the meaning as “God is gracious”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Joasia verified?",
+          "a": "No. The meaning of Joasia could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Joasia come from?",
+          "a": "The origin of Joasia has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 1,
+        "life_path_number": 1,
+        "ruling_planet": "Sun",
+        "lucky_day": "Sunday",
+        "lucky_stone": "Ruby",
+        "lucky_colors": [
+          "Gold",
+          "Orange"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Joasia total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:17:58.000Z"
+    }
   }
- }
 }

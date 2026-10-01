@@ -1,491 +1,330 @@
 {
- "success": true,
- "data": {
-  "name": "Abril",
-  "slug": "abril",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Abril is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "April, Month of New Beginnings",
-  "long_meaning": "The name Abril is recorded with the meaning “April, Month of New Beginnings”. Abril is a Biblical name meaning “April, Month of New Beginnings”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Abril expresses “April, Month of New Beginnings”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Abril is recorded with the meaning “April, Month of New Beginnings”. Abril is a Biblical name meaning “April, Month of New Beginnings”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "a-b-r-i-l",
-  "syllables": 2,
-  "name_length": 5,
-  "transliteration": [
-   "Abril"
-  ],
-  "lucky_number": 6,
-  "lucky_day": "Friday",
-  "lucky_colors": [
-   "White",
-   "Pink"
-  ],
-  "lucky_stone": "Diamond",
-  "ruling_planet": "Venus",
-  "life_path_number": 6,
-  "numerology_meaning": "In Pythagorean numerology the letters of Abril total 24, reducing to 6. Number 6 is associated with responsibility, care and harmony.",
-  "in_hebrew": {
-   "name": "אבריל",
-   "meaning": "אפריל הוא חודש עברי שמשמעותו פתיחה או נפתח",
-   "long_meaning": "אבריל הוא שם שמקורו בחודש העברי אפריל, שמשמעותו פתיחה או נפתח. הוא נגזר מהמילה הארמית 'אפרילא', שמתייחסת לחודש האזרחי הרביעי בלוח השנה הרומי. בחודש זה, הצמחים והפרחים מתחילים לפרוח ולנבוט, ועל כן הוא נקרא כך. השם אבריל משמש גם כחודש השנה בארצות דוברות עברית, ומשמעותו הרחבה יותר היא של פתיחה ושחרור."
-  },
-  "in_greek": {
-   "name": "Απρίλιος",
-   "meaning": "Απρίλιος σημαίνει το άνοιγμα ή την άνθηση",
-   "long_meaning": "Ο Απρίλιος είναι ο τέταρτος μήνας του έτους στο Γρηγοριανό ημερολόγιο και προέρχεται από τη λατινική λέξη 'Aprilis', που πιθανότατα συνδέεται με τη λέξη 'aperire', που σημαίνει 'να ανοίγω'. Στην Καινή Διαθήκη, δεν υπάρχει άμεση αναφορά στο μήνα Απρίλιο, αλλά η εποχή της άνοιξης έχει μεγάλη σημασία στην πνευματική και ιστορική παράδοση της Εκκλησίας. Ο Απρίλιος συμβολίζει την ανανέωση, την αναγέννηση και την έναρξη μιας νέας ζωής."
-  },
-  "in_latin": {
-   "name": "Aprilis",
-   "meaning": "Aprilis means opening or blooming",
-   "long_meaning": "The name Abril originates from the Latin word 'Aprilis', which is derived from 'aperire', meaning 'to open'. This refers to the spring season in the Northern Hemisphere, where plants and flowers begin to bloom. In early Christian tradition, the month of April, or Abril, symbolized renewal and spiritual awakening. The Latin root signifies the breaking forth of new life, aligning with Christian themes of resurrection and hope."
-  },
-  "in_english": {
-   "name": "Abril",
-   "meaning": "April, Month of New Beginnings",
-   "long_meaning": "The name Abril is recorded with the meaning “April, Month of New Beginnings”. Abril is a Biblical name meaning “April, Month of New Beginnings”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "AH-bril",
-   "ipa": "/əˈbrɪl/"
-  },
-  "name_variations": [
-   "Abril"
-  ],
-  "variants": [
-   "Abril"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Abril is used in Biblical naming tradition with the meaning “April, Month of New Beginnings”.",
-  "spiritual_significance": "Any spiritual significance attached to Abril is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “April, Month of New Beginnings” is the basis of any symbolism attached to Abril; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Abril."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AbrilMeaning",
-   "#ChristianBabyNames",
-   "#BibleInspiration",
-   "#ChristianNames",
-   "#Abril"
-  ],
-  "monetization": {
-   "ad_places": [
-    "top",
-    "bottom"
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Abril Name Meaning – April, Month of New Beginnings (Biblical)",
-   "meta_description": "Abril is a Biblical name meaning “April, Month of New Beginnings”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Abril, Abril name meaning, Abril meaning, Abril origin, Abril root, Abril pronunciation, Biblical names",
-   "description_paragraph": "Abril is a Biblical name meaning “April, Month of New Beginnings”.",
-   "keywords": [
-    "Abril",
-    "Abril name meaning",
-    "Abril meaning",
-    "Abril origin",
-    "Abril root",
-    "Abril pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Abril name meaning",
-   "secondary_keywords": [
-    "Abril meaning",
-    "Abril origin",
-    "Abril pronunciation",
-    "Abril lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/abril",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the English meaning of Abril?",
-     "a": "In English, Abril is rendered as “April, Month of New Beginnings”."
-    },
-    {
-     "q": "Is Abril suitable for a baby?",
-     "a": "Abril is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Abril?",
-     "a": "Abril is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Abril?",
-     "a": "Abril is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Abril have a positive meaning?",
-     "a": "Abril carries the meaning “April, Month of New Beginnings”."
-    },
-    {
-     "q": "What does the name Abril mean?",
-     "a": "Abril means “April, Month of New Beginnings”."
-    },
-    {
-     "q": "What is the origin of the name Abril?",
-     "a": "Abril is of Biblical origin."
-    },
-    {
-     "q": "Is Abril a unisex name?",
-     "a": "Abril is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Abril have?",
-     "a": "Abril has 2 syllables."
-    },
-    {
-     "q": "How is Abril pronounced?",
-     "a": "Abril is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Abril?",
-     "a": "Any spiritual significance attached to Abril is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Abril?",
-     "a": "Variant spellings of Abril are listed in the variants field of this record."
-    }
-   ]
-  },
-  "seo_title": "Abril Name Meaning – April, Month of New Beginnings (Biblical)",
-  "meta_description": "Abril is a Biblical name meaning “April, Month of New Beginnings”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Abril",
-   "Abril name meaning",
-   "Abril meaning",
-   "Abril origin",
-   "Abril root",
-   "Abril pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/abril",
-  "intro_paragraph": "Abril is a Biblical name meaning “April, Month of New Beginnings”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Abril",
-   "description": "Abril — April, Month of New Beginnings",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Abril?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Abril is rendered as “April, Month of New Beginnings”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Abril suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abril is used as a unisex given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Abril?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abril is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Abril?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abril is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Abril have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abril carries the meaning “April, Month of New Beginnings”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Abril mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abril means “April, Month of New Beginnings”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Abril?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abril is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Abril a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abril is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Abril have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abril has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Abril pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abril is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Abril?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Abril is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Abril?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Abril are listed in the variants field of this record."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Abril",
-     "item": "https://namemeaning.example/name/abril"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 58,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Abril",
-   "slug": "abril",
-   "meaning": "April, Month of New Beginnings",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Abril",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "April, Month of New Beginnings",
-   "long_meaning": "The name Abril is recorded with the meaning “April, Month of New Beginnings”. Abril is a Biblical name meaning “April, Month of New Beginnings”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Abril",
-     "meaning": "April, Month of New Beginnings",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "AH-bril",
-    "ipa": "/əˈbrɪl/"
-   },
-   "syllables": 2,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "What is the English meaning of Abril?",
-     "a": "In English, Abril is rendered as “April, Month of New Beginnings”."
-    },
-    {
-     "q": "Is Abril suitable for a baby?",
-     "a": "Abril is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Abril?",
-     "a": "Abril is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Abril?",
-     "a": "Abril is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Abril have a positive meaning?",
-     "a": "Abril carries the meaning “April, Month of New Beginnings”."
-    },
-    {
-     "q": "What does the name Abril mean?",
-     "a": "Abril means “April, Month of New Beginnings”."
-    },
-    {
-     "q": "What is the origin of the name Abril?",
-     "a": "Abril is of Biblical origin."
-    },
-    {
-     "q": "Is Abril a unisex name?",
-     "a": "Abril is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Abril have?",
-     "a": "Abril has 2 syllables."
-    },
-    {
-     "q": "How is Abril pronounced?",
-     "a": "Abril is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Abril?",
-     "a": "Any spiritual significance attached to Abril is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Abril?",
-     "a": "Variant spellings of Abril are listed in the variants field of this record."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 6,
-    "life_path_number": 6,
-    "ruling_planet": "Venus",
-    "lucky_day": "Friday",
-    "lucky_stone": "Diamond",
-    "lucky_colors": [
-     "White",
-     "Pink"
+  "success": true,
+  "data": {
+    "name": "Abril",
+    "slug": "abril",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Abril total 24, reducing to 6. Number 6 is associated with responsibility, care and harmony."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Abril is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "April, Month of New Beginnings",
+    "long_meaning": "The meaning of Abril is recorded in name-lists as “April, Month of New Beginnings”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Abril expresses “April, Month of New Beginnings”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "a-b-r-i-l",
+    "syllables": 2,
+    "name_length": 5,
+    "transliteration": [
+      "Abril"
+    ],
+    "lucky_number": 6,
+    "lucky_day": "Friday",
+    "lucky_colors": [
+      "White",
+      "Pink"
+    ],
+    "lucky_stone": "Diamond",
+    "ruling_planet": "Venus",
+    "life_path_number": 6,
+    "numerology_meaning": "In Pythagorean numerology the letters of Abril total 24, reducing to 6. Number 6 is associated with responsibility, care and harmony.",
+    "in_hebrew": {
+      "name": "אבריל",
+      "meaning": "אפריל הוא חודש עברי שמשמעותו פתיחה או נפתח",
+      "long_meaning": "אבריל הוא שם שמקורו בחודש העברי אפריל, שמשמעותו פתיחה או נפתח. הוא נגזר מהמילה הארמית 'אפרילא', שמתייחסת לחודש האזרחי הרביעי בלוח השנה הרומי. בחודש זה, הצמחים והפרחים מתחילים לפרוח ולנבוט, ועל כן הוא נקרא כך. השם אבריל משמש גם כחודש השנה בארצות דוברות עברית, ומשמעותו הרחבה יותר היא של פתיחה ושחרור."
+    },
+    "in_greek": {
+      "name": "Απρίλιος",
+      "meaning": "Απρίλιος σημαίνει το άνοιγμα ή την άνθηση",
+      "long_meaning": "Ο Απρίλιος είναι ο τέταρτος μήνας του έτους στο Γρηγοριανό ημερολόγιο και προέρχεται από τη λατινική λέξη 'Aprilis', που πιθανότατα συνδέεται με τη λέξη 'aperire', που σημαίνει 'να ανοίγω'. Στην Καινή Διαθήκη, δεν υπάρχει άμεση αναφορά στο μήνα Απρίλιο, αλλά η εποχή της άνοιξης έχει μεγάλη σημασία στην πνευματική και ιστορική παράδοση της Εκκλησίας. Ο Απρίλιος συμβολίζει την ανανέωση, την αναγέννηση και την έναρξη μιας νέας ζωής."
+    },
+    "in_latin": {
+      "name": "Aprilis",
+      "meaning": "Aprilis means opening or blooming",
+      "long_meaning": "The name Abril originates from the Latin word 'Aprilis', which is derived from 'aperire', meaning 'to open'. This refers to the spring season in the Northern Hemisphere, where plants and flowers begin to bloom. In early Christian tradition, the month of April, or Abril, symbolized renewal and spiritual awakening. The Latin root signifies the breaking forth of new life, aligning with Christian themes of resurrection and hope."
+    },
+    "in_english": {
+      "name": "Abril",
+      "meaning": "April, Month of New Beginnings",
+      "long_meaning": "April, Month of New Beginnings"
+    },
+    "pronunciation": {
+      "english": "AH-bril",
+      "ipa": "/əˈbrɪl/"
+    },
+    "name_variations": [
+      "Abril"
+    ],
+    "variants": [
+      "Abril"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Abril is used in Biblical naming tradition with the meaning “April, Month of New Beginnings”.",
+    "spiritual_significance": "Any spiritual significance attached to Abril is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “April, Month of New Beginnings” is the basis of any symbolism attached to Abril; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Abril."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AbrilMeaning",
+      "#ChristianBabyNames",
+      "#BibleInspiration",
+      "#ChristianNames",
+      "#Abril"
+    ],
+    "monetization": {
+      "ad_places": [
+        "top",
+        "bottom"
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Abril Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Abril has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Abril, Abril name meaning, Abril meaning, Abril origin, Abril root, Abril pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Abril has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Abril",
+        "Abril name meaning",
+        "Abril meaning",
+        "Abril origin",
+        "Abril root",
+        "Abril pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Abril name meaning",
+      "secondary_keywords": [
+        "Abril meaning",
+        "Abril origin",
+        "Abril pronunciation",
+        "Abril lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Abril mean?",
+          "a": "Name-lists record the meaning as “April, Month of New Beginnings”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Abril verified?",
+          "a": "No. The meaning of Abril could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Abril come from?",
+          "a": "The origin of Abril has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Abril Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Abril has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Abril",
+      "Abril name meaning",
+      "Abril meaning",
+      "Abril origin",
+      "Abril root",
+      "Abril pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Abril has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Abril",
+      "description": "Abril — April, Month of New Beginnings",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Abril mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “April, Month of New Beginnings”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Abril verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Abril could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Abril come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Abril has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 58,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:04:43.000Z",
+    "tier1_verified": {
+      "name": "Abril",
+      "slug": "abril",
+      "meaning": "April, Month of New Beginnings",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Abril",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "April, Month of New Beginnings",
+      "long_meaning": "The name Abril is recorded with the meaning “April, Month of New Beginnings”. Abril is a Biblical name meaning “April, Month of New Beginnings”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Abril",
+          "meaning": "April, Month of New Beginnings",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "AH-bril",
+        "ipa": "/əˈbrɪl/"
+      },
+      "syllables": 2,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Abril mean?",
+          "a": "Name-lists record the meaning as “April, Month of New Beginnings”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Abril verified?",
+          "a": "No. The meaning of Abril could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Abril come from?",
+          "a": "The origin of Abril has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 6,
+        "life_path_number": 6,
+        "ruling_planet": "Venus",
+        "lucky_day": "Friday",
+        "lucky_stone": "Diamond",
+        "lucky_colors": [
+          "White",
+          "Pink"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Abril total 24, reducing to 6. Number 6 is associated with responsibility, care and harmony."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:43.000Z"
+    }
   }
- }
 }

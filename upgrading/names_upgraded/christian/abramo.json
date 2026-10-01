@@ -1,493 +1,332 @@
 {
- "success": true,
- "data": {
-  "name": "Abramo",
-  "slug": "abramo",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Abramo is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Father of a multitude",
-  "long_meaning": "The name Abramo is recorded with the meaning “Father of a multitude”. Abramo is a Biblical name meaning “Father of a multitude”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Abramo expresses “Father of a multitude”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Abramo is recorded with the meaning “Father of a multitude”. Abramo is a Biblical name meaning “Father of a multitude”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "a-b-r-a-m-o",
-  "syllables": 3,
-  "name_length": 6,
-  "transliteration": [
-   "Abramo"
-  ],
-  "lucky_number": 5,
-  "lucky_day": "Wednesday",
-  "lucky_colors": [
-   "Green",
-   "Turquoise"
-  ],
-  "lucky_stone": "Emerald",
-  "ruling_planet": "Mercury",
-  "life_path_number": 5,
-  "numerology_meaning": "In Pythagorean numerology the letters of Abramo total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
-  "in_hebrew": {
-   "name": "אברהמו",
-   "meaning": "אב הרם, אב רם, גבוה, מרומם",
-   "long_meaning": "השם אברהמו נגזר משורש עבר, רם או הרם, שפירושו גבוה או מרומם. בהקשר המקראי, השם מתייחס לאברהם, האב של עם ישראל, שזכה למעמד גבוה ולקרבה אל האל. השם משקף את מעמדו הרם ואת תפקידו כמנהיג רוחני."
-  },
-  "in_greek": {
-   "name": "Αβραμο",
-   "meaning": "Υψηλός, ανώτατος, πατήρ πλήθους",
-   "long_meaning": "Το όνομα Αβραμο προέρχεται από το εβραϊκό όνομα אברהמו, που σημαίνει υψηλός ή ανώτατος. Στην Καινή Διαθήκη, το όνομα συνδέεται με τον Αβραάμ, τον πατέρα του έθνους Ισραήλ, που είχε υψηλή θέση στην θρησκευτική παράδοση. Το όνομα αντανακλά την πνευματική του σημασία και την ηγετική του θέση."
-  },
-  "in_latin": {
-   "name": "Abramo",
-   "meaning": "Exalted, elevated, father of many",
-   "long_meaning": "The name Abramo is derived from the Hebrew root עבר, meaning to be high or exalted. In the Christian tradition, the name Abramo is associated with Abraham, the father of the faithful, who held a high spiritual position. The name reflects his elevated status and leadership role in the biblical narrative."
-  },
-  "in_english": {
-   "name": "Abramo",
-   "meaning": "Father of a multitude",
-   "long_meaning": "The name Abramo is recorded with the meaning “Father of a multitude”. Abramo is a Biblical name meaning “Father of a multitude”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "ah-BRAH-moh",
-   "biblical": "av-RAH-moh",
-   "ipa": "/aˈbraːmo/"
-  },
-  "name_variations": [
-   "Abramo"
-  ],
-  "variants": [
-   "Abramo"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Abramo is used in Biblical naming tradition with the meaning “Father of a multitude”.",
-  "spiritual_significance": "Any spiritual significance attached to Abramo is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Father of a multitude” is the basis of any symbolism attached to Abramo; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": true,
-   "origin_scripture": "Genesis",
-   "verse_reference": "Genesis 11:27",
-   "note": "The name Abramo is associated with Abraham, a key figure in the book of Genesis."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Abramo."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AbramoMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Abramo"
-  ],
-  "monetization": {
-   "display_ads": true,
-   "affiliate_links": [
-    "https://example.com/abramo-books",
-    "https://example.com/abramo-jewelry"
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Abramo Name Meaning – Father of a multitude (Biblical)",
-   "meta_description": "Abramo is a Biblical name meaning “Father of a multitude”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Abramo, Abramo name meaning, Abramo meaning, Abramo origin, Abramo root, Abramo pronunciation, Biblical names",
-   "description_paragraph": "Abramo is a Biblical name meaning “Father of a multitude”.",
-   "keywords": [
-    "Abramo",
-    "Abramo name meaning",
-    "Abramo meaning",
-    "Abramo origin",
-    "Abramo root",
-    "Abramo pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Abramo name meaning",
-   "secondary_keywords": [
-    "Abramo meaning",
-    "Abramo origin",
-    "Abramo pronunciation",
-    "Abramo lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/abramo",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Are there variant spellings of Abramo?",
-     "a": "Variant spellings of Abramo are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Abramo a common name?",
-     "a": "Popularity figures for Abramo have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Abramo say about a child?",
-     "a": "The name Abramo expresses “Father of a multitude”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Abramo be used in another language?",
-     "a": "Abramo is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Abramo mentioned in scripture?",
-     "a": "No scriptural reference for Abramo has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Abramo?",
-     "a": "The Pythagorean lucky number for Abramo is 5 (ruling planet Mercury). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Abramo?",
-     "a": "Wednesday is the traditional association for Abramo. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Abramo?",
-     "a": "Emerald is the traditional association for Abramo. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Abramo?",
-     "a": "Green, Turquoise are the traditional associations for Abramo. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Abramo?",
-     "a": "In Pythagorean numerology the letters of Abramo total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-    },
-    {
-     "q": "How reliable is the meaning given for Abramo?",
-     "a": "The meaning of Abramo carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Abramo have a religious meaning?",
-     "a": "Abramo is recorded as a christian name meaning “Father of a multitude”."
-    }
-   ]
-  },
-  "seo_title": "Abramo Name Meaning – Father of a multitude (Biblical)",
-  "meta_description": "Abramo is a Biblical name meaning “Father of a multitude”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Abramo",
-   "Abramo name meaning",
-   "Abramo meaning",
-   "Abramo origin",
-   "Abramo root",
-   "Abramo pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/abramo",
-  "intro_paragraph": "Abramo is a Biblical name meaning “Father of a multitude”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Abramo",
-   "description": "Abramo — Father of a multitude",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Abramo?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Abramo are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Abramo a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Abramo have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Abramo say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Abramo expresses “Father of a multitude”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Abramo be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abramo is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Abramo mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Abramo has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Abramo?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Abramo is 5 (ruling planet Mercury). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Abramo?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Wednesday is the traditional association for Abramo. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Abramo?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Emerald is the traditional association for Abramo. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Abramo?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Green, Turquoise are the traditional associations for Abramo. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Abramo?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Abramo total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Abramo?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Abramo carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Abramo have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abramo is recorded as a christian name meaning “Father of a multitude”."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Abramo",
-     "item": "https://namemeaning.example/name/abramo"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 56,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Abramo",
-   "slug": "abramo",
-   "meaning": "Father of a multitude",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Abramo",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Father of a multitude",
-   "long_meaning": "The name Abramo is recorded with the meaning “Father of a multitude”. Abramo is a Biblical name meaning “Father of a multitude”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Abramo",
-     "meaning": "Father of a multitude",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "ah-BRAH-moh",
-    "ipa": "/aˈbraːmo/"
-   },
-   "syllables": 3,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "Are there variant spellings of Abramo?",
-     "a": "Variant spellings of Abramo are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Abramo a common name?",
-     "a": "Popularity figures for Abramo have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Abramo say about a child?",
-     "a": "The name Abramo expresses “Father of a multitude”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Abramo be used in another language?",
-     "a": "Abramo is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Abramo mentioned in scripture?",
-     "a": "No scriptural reference for Abramo has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Abramo?",
-     "a": "The Pythagorean lucky number for Abramo is 5 (ruling planet Mercury). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Abramo?",
-     "a": "Wednesday is the traditional association for Abramo. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Abramo?",
-     "a": "Emerald is the traditional association for Abramo. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Abramo?",
-     "a": "Green, Turquoise are the traditional associations for Abramo. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Abramo?",
-     "a": "In Pythagorean numerology the letters of Abramo total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-    },
-    {
-     "q": "How reliable is the meaning given for Abramo?",
-     "a": "The meaning of Abramo carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Abramo have a religious meaning?",
-     "a": "Abramo is recorded as a christian name meaning “Father of a multitude”."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 5,
-    "life_path_number": 5,
-    "ruling_planet": "Mercury",
-    "lucky_day": "Wednesday",
-    "lucky_stone": "Emerald",
-    "lucky_colors": [
-     "Green",
-     "Turquoise"
+  "success": true,
+  "data": {
+    "name": "Abramo",
+    "slug": "abramo",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Abramo total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Abramo is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Father of a multitude",
+    "long_meaning": "The meaning of Abramo is recorded in name-lists as “Father of a multitude”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Abramo expresses “Father of a multitude”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "a-b-r-a-m-o",
+    "syllables": 3,
+    "name_length": 6,
+    "transliteration": [
+      "Abramo"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Wednesday",
+    "lucky_colors": [
+      "Green",
+      "Turquoise"
+    ],
+    "lucky_stone": "Emerald",
+    "ruling_planet": "Mercury",
+    "life_path_number": 5,
+    "numerology_meaning": "In Pythagorean numerology the letters of Abramo total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
+    "in_hebrew": {
+      "name": "אברהמו",
+      "meaning": "אב הרם, אב רם, גבוה, מרומם",
+      "long_meaning": "השם אברהמו נגזר משורש עבר, רם או הרם, שפירושו גבוה או מרומם. בהקשר המקראי, השם מתייחס לאברהם, האב של עם ישראל, שזכה למעמד גבוה ולקרבה אל האל. השם משקף את מעמדו הרם ואת תפקידו כמנהיג רוחני."
+    },
+    "in_greek": {
+      "name": "Αβραμο",
+      "meaning": "Υψηλός, ανώτατος, πατήρ πλήθους",
+      "long_meaning": "Το όνομα Αβραμο προέρχεται από το εβραϊκό όνομα אברהמו, που σημαίνει υψηλός ή ανώτατος. Στην Καινή Διαθήκη, το όνομα συνδέεται με τον Αβραάμ, τον πατέρα του έθνους Ισραήλ, που είχε υψηλή θέση στην θρησκευτική παράδοση. Το όνομα αντανακλά την πνευματική του σημασία και την ηγετική του θέση."
+    },
+    "in_latin": {
+      "name": "Abramo",
+      "meaning": "Exalted, elevated, father of many",
+      "long_meaning": "The name Abramo is derived from the Hebrew root עבר, meaning to be high or exalted. In the Christian tradition, the name Abramo is associated with Abraham, the father of the faithful, who held a high spiritual position. The name reflects his elevated status and leadership role in the biblical narrative."
+    },
+    "in_english": {
+      "name": "Abramo",
+      "meaning": "Father of a multitude",
+      "long_meaning": "Father of a multitude"
+    },
+    "pronunciation": {
+      "english": "ah-BRAH-moh",
+      "biblical": "av-RAH-moh",
+      "ipa": "/aˈbraːmo/"
+    },
+    "name_variations": [
+      "Abramo"
+    ],
+    "variants": [
+      "Abramo"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Abramo is used in Biblical naming tradition with the meaning “Father of a multitude”.",
+    "spiritual_significance": "Any spiritual significance attached to Abramo is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Father of a multitude” is the basis of any symbolism attached to Abramo; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "Genesis",
+      "verse_reference": "Genesis 11:27",
+      "note": "The name Abramo is associated with Abraham, a key figure in the book of Genesis."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Abramo."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AbramoMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Abramo"
+    ],
+    "monetization": {
+      "display_ads": true,
+      "affiliate_links": [
+        "https://example.com/abramo-books",
+        "https://example.com/abramo-jewelry"
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Abramo Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Abramo has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Abramo, Abramo name meaning, Abramo meaning, Abramo origin, Abramo root, Abramo pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Abramo has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Abramo",
+        "Abramo name meaning",
+        "Abramo meaning",
+        "Abramo origin",
+        "Abramo root",
+        "Abramo pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Abramo name meaning",
+      "secondary_keywords": [
+        "Abramo meaning",
+        "Abramo origin",
+        "Abramo pronunciation",
+        "Abramo lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Abramo mean?",
+          "a": "Name-lists record the meaning as “Father of a multitude”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Abramo verified?",
+          "a": "No. The meaning of Abramo could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Abramo come from?",
+          "a": "The origin of Abramo has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Abramo Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Abramo has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Abramo",
+      "Abramo name meaning",
+      "Abramo meaning",
+      "Abramo origin",
+      "Abramo root",
+      "Abramo pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Abramo has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Abramo",
+      "description": "Abramo — Father of a multitude",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Abramo mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Father of a multitude”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Abramo verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Abramo could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Abramo come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Abramo has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 56,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:04:43.000Z",
+    "tier1_verified": {
+      "name": "Abramo",
+      "slug": "abramo",
+      "meaning": "Father of a multitude",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Abramo",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Father of a multitude",
+      "long_meaning": "The name Abramo is recorded with the meaning “Father of a multitude”. Abramo is a Biblical name meaning “Father of a multitude”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Abramo",
+          "meaning": "Father of a multitude",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "ah-BRAH-moh",
+        "ipa": "/aˈbraːmo/"
+      },
+      "syllables": 3,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Abramo mean?",
+          "a": "Name-lists record the meaning as “Father of a multitude”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Abramo verified?",
+          "a": "No. The meaning of Abramo could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Abramo come from?",
+          "a": "The origin of Abramo has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 5,
+        "life_path_number": 5,
+        "ruling_planet": "Mercury",
+        "lucky_day": "Wednesday",
+        "lucky_stone": "Emerald",
+        "lucky_colors": [
+          "Green",
+          "Turquoise"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Abramo total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:43.000Z"
+    }
   }
- }
 }

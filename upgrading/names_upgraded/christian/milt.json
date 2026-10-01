@@ -1,510 +1,349 @@
 {
- "success": true,
- "data": {
-  "name": "Milt",
-  "slug": "milt",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Milt is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Powerful warrior",
-  "long_meaning": "The name Milt is recorded with the meaning “Powerful warrior”. Milt is a Biblical name meaning “Powerful warrior”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Milt expresses “Powerful warrior”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Milt is recorded with the meaning “Powerful warrior”. Milt is a Biblical name meaning “Powerful warrior”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "m-i-l-t",
-  "syllables": 1,
-  "name_length": 4,
-  "transliteration": [
-   "Milt"
-  ],
-  "lucky_number": 9,
-  "lucky_day": "Tuesday",
-  "lucky_colors": [
-   "Red",
-   "Crimson"
-  ],
-  "lucky_stone": "Red Coral",
-  "ruling_planet": "Mars",
-  "life_path_number": 9,
-  "numerology_meaning": "In Pythagorean numerology the letters of Milt total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
-  "in_hebrew": {
-   "name": "מילט",
-   "meaning": "מילט הוא שם שפירושו שירות צבאי או כוח צבאי",
-   "long_meaning": "מילט הוא שם שמקורו במילה העברית 'מלח' שפירושה מלחמה או שירות צבאי. הוא קשור למושגים של גבורה, אומץ ומסירות. השם נמצא בשימוש בקרב הקהילות היהודיות והנוצריות כאחד, ומשמעותו הרחבה קשורה לכוח, הגנה ושרות."
-  },
-  "in_greek": {
-   "name": "Μιλτ",
-   "meaning": "Μιλτ σημαίνει στρατιωτική υπηρεσία ή στρατιωτική δύναμη",
-   "long_meaning": "Μιλτ είναι ένα όνομα που προέρχεται από την ελληνική λέξη 'μυλος' που σημαίνει μύλος ή στρατιώτης. Το όνομα συνδέεται με έννοιες όπως η ανδρεία, η γενναιότητα και η αφοσίωση. Στην παράδοση της Εκκλησίας, το όνομα Μιλτ έχει συσχετιστεί με την προστασία και την υπεράσπιση της πίστης."
-  },
-  "in_latin": {
-   "name": "Milt",
-   "meaning": "Milt means military service or military power",
-   "long_meaning": "Milt is a name derived from the Latin word 'miles' meaning soldier. It is associated with concepts of courage, bravery, and devotion. In Christian tradition, the name Milt has been linked to the ideals of protection and defense of faith, reflecting the values of early Christian martyrs and soldiers of Christ."
-  },
-  "in_english": {
-   "name": "Milt",
-   "meaning": "Powerful warrior",
-   "long_meaning": "The name Milt is recorded with the meaning “Powerful warrior”. Milt is a Biblical name meaning “Powerful warrior”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "MIL-t",
-   "ipa": "/mɪlt/"
-  },
-  "name_variations": [
-   "Milt"
-  ],
-  "variants": [
-   "Milt"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Milt is used in Biblical naming tradition with the meaning “Powerful warrior”.",
-  "spiritual_significance": "Any spiritual significance attached to Milt is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Powerful warrior” is the basis of any symbolism attached to Milt; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Milt."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#MiltMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Milt"
-  ],
-  "monetization": {
-   "ads": {
-    "placement": [
-     "header",
-     "sidebar"
+  "success": true,
+  "data": {
+    "name": "Milt",
+    "slug": "milt",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "types": [
-     "display",
-     "text",
-     "native"
-    ]
-   },
-   "affiliate": {
-    "programs": [
-     "Amazon",
-     "BabyCenter"
-    ]
-   },
-   "sponsored_content": {
-    "categories": [
-     "Baby Names",
-     "Spirituality"
-    ]
-   }
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Milt Name Meaning – Powerful warrior (Biblical)",
-   "meta_description": "Milt is a Biblical name meaning “Powerful warrior”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Milt, Milt name meaning, Milt meaning, Milt origin, Milt root, Milt pronunciation, Biblical names",
-   "description_paragraph": "Milt is a Biblical name meaning “Powerful warrior”.",
-   "keywords": [
-    "Milt",
-    "Milt name meaning",
-    "Milt meaning",
-    "Milt origin",
-    "Milt root",
-    "Milt pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Milt name meaning",
-   "secondary_keywords": [
-    "Milt meaning",
-    "Milt origin",
-    "Milt pronunciation",
-    "Milt lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/milt",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Is Milt suitable for a baby?",
-     "a": "Milt is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Milt?",
-     "a": "Milt is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Milt?",
-     "a": "Milt is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Milt have a positive meaning?",
-     "a": "Milt carries the meaning “Powerful warrior”."
-    },
-    {
-     "q": "What does the name Milt mean?",
-     "a": "Milt means “Powerful warrior”."
-    },
-    {
-     "q": "What is the origin of the name Milt?",
-     "a": "Milt is of Biblical origin."
-    },
-    {
-     "q": "Is Milt a male name?",
-     "a": "Milt is used as a male name."
-    },
-    {
-     "q": "How many syllables does Milt have?",
-     "a": "Milt has 1 syllable."
-    },
-    {
-     "q": "How is Milt pronounced?",
-     "a": "Milt is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Milt?",
-     "a": "Any spiritual significance attached to Milt is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Milt?",
-     "a": "Variant spellings of Milt are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Milt a common name?",
-     "a": "Popularity figures for Milt have not been verified and are not published."
-    }
-   ]
-  },
-  "seo_title": "Milt Name Meaning – Powerful warrior (Biblical)",
-  "meta_description": "Milt is a Biblical name meaning “Powerful warrior”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Milt",
-   "Milt name meaning",
-   "Milt meaning",
-   "Milt origin",
-   "Milt root",
-   "Milt pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/milt",
-  "intro_paragraph": "Milt is a Biblical name meaning “Powerful warrior”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Milt",
-   "description": "Milt — Powerful warrior",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Is Milt suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Milt is used as a male given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Milt?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Milt is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Milt?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Milt is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Milt have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Milt carries the meaning “Powerful warrior”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Milt mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Milt means “Powerful warrior”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Milt?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Milt is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Milt a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Milt is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Milt have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Milt has 1 syllable."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Milt pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Milt is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Milt?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Milt is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Milt?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Milt are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Milt a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Milt have not been verified and are not published."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Milt",
-     "item": "https://namemeaning.example/name/milt"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Milt",
-   "slug": "milt",
-   "meaning": "Powerful warrior",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Milt",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Powerful warrior",
-   "long_meaning": "The name Milt is recorded with the meaning “Powerful warrior”. Milt is a Biblical name meaning “Powerful warrior”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Milt",
-     "meaning": "Powerful warrior",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "MIL-t",
-    "ipa": "/mɪlt/"
-   },
-   "syllables": 1,
-   "name_length": 4,
-   "faqs": [
-    {
-     "q": "Is Milt suitable for a baby?",
-     "a": "Milt is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Milt?",
-     "a": "Milt is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Milt?",
-     "a": "Milt is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Milt have a positive meaning?",
-     "a": "Milt carries the meaning “Powerful warrior”."
-    },
-    {
-     "q": "What does the name Milt mean?",
-     "a": "Milt means “Powerful warrior”."
-    },
-    {
-     "q": "What is the origin of the name Milt?",
-     "a": "Milt is of Biblical origin."
-    },
-    {
-     "q": "Is Milt a male name?",
-     "a": "Milt is used as a male name."
-    },
-    {
-     "q": "How many syllables does Milt have?",
-     "a": "Milt has 1 syllable."
-    },
-    {
-     "q": "How is Milt pronounced?",
-     "a": "Milt is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Milt?",
-     "a": "Any spiritual significance attached to Milt is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Milt?",
-     "a": "Variant spellings of Milt are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Milt a common name?",
-     "a": "Popularity figures for Milt have not been verified and are not published."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
+    "gender": "Male",
+    "gender_notes": "Milt is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Powerful warrior",
+    "long_meaning": "The meaning of Milt is recorded in name-lists as “Powerful warrior”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Milt expresses “Powerful warrior”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "m-i-l-t",
+    "syllables": 1,
+    "name_length": 4,
+    "transliteration": [
+      "Milt"
+    ],
     "lucky_number": 9,
-    "life_path_number": 9,
-    "ruling_planet": "Mars",
     "lucky_day": "Tuesday",
-    "lucky_stone": "Red Coral",
     "lucky_colors": [
-     "Red",
-     "Crimson"
+      "Red",
+      "Crimson"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Milt total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "lucky_stone": "Red Coral",
+    "ruling_planet": "Mars",
+    "life_path_number": 9,
+    "numerology_meaning": "In Pythagorean numerology the letters of Milt total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
+    "in_hebrew": {
+      "name": "מילט",
+      "meaning": "מילט הוא שם שפירושו שירות צבאי או כוח צבאי",
+      "long_meaning": "מילט הוא שם שמקורו במילה העברית 'מלח' שפירושה מלחמה או שירות צבאי. הוא קשור למושגים של גבורה, אומץ ומסירות. השם נמצא בשימוש בקרב הקהילות היהודיות והנוצריות כאחד, ומשמעותו הרחבה קשורה לכוח, הגנה ושרות."
+    },
+    "in_greek": {
+      "name": "Μιλτ",
+      "meaning": "Μιλτ σημαίνει στρατιωτική υπηρεσία ή στρατιωτική δύναμη",
+      "long_meaning": "Μιλτ είναι ένα όνομα που προέρχεται από την ελληνική λέξη 'μυλος' που σημαίνει μύλος ή στρατιώτης. Το όνομα συνδέεται με έννοιες όπως η ανδρεία, η γενναιότητα και η αφοσίωση. Στην παράδοση της Εκκλησίας, το όνομα Μιλτ έχει συσχετιστεί με την προστασία και την υπεράσπιση της πίστης."
+    },
+    "in_latin": {
+      "name": "Milt",
+      "meaning": "Milt means military service or military power",
+      "long_meaning": "Milt is a name derived from the Latin word 'miles' meaning soldier. It is associated with concepts of courage, bravery, and devotion. In Christian tradition, the name Milt has been linked to the ideals of protection and defense of faith, reflecting the values of early Christian martyrs and soldiers of Christ."
+    },
+    "in_english": {
+      "name": "Milt",
+      "meaning": "Powerful warrior",
+      "long_meaning": "Powerful warrior"
+    },
+    "pronunciation": {
+      "english": "MIL-t",
+      "ipa": "/mɪlt/"
+    },
+    "name_variations": [
+      "Milt"
+    ],
+    "variants": [
+      "Milt"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Milt is used in Biblical naming tradition with the meaning “Powerful warrior”.",
+    "spiritual_significance": "Any spiritual significance attached to Milt is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Powerful warrior” is the basis of any symbolism attached to Milt; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Milt."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#MiltMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Milt"
+    ],
+    "monetization": {
+      "ads": {
+        "placement": [
+          "header",
+          "sidebar"
+        ],
+        "types": [
+          "display",
+          "text",
+          "native"
+        ]
+      },
+      "affiliate": {
+        "programs": [
+          "Amazon",
+          "BabyCenter"
+        ]
+      },
+      "sponsored_content": {
+        "categories": [
+          "Baby Names",
+          "Spirituality"
+        ]
+      }
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Milt Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Milt has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Milt, Milt name meaning, Milt meaning, Milt origin, Milt root, Milt pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Milt has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Milt",
+        "Milt name meaning",
+        "Milt meaning",
+        "Milt origin",
+        "Milt root",
+        "Milt pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Milt name meaning",
+      "secondary_keywords": [
+        "Milt meaning",
+        "Milt origin",
+        "Milt pronunciation",
+        "Milt lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Milt mean?",
+          "a": "Name-lists record the meaning as “Powerful warrior”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Milt verified?",
+          "a": "No. The meaning of Milt could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Milt come from?",
+          "a": "The origin of Milt has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Milt Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Milt has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Milt",
+      "Milt name meaning",
+      "Milt meaning",
+      "Milt origin",
+      "Milt root",
+      "Milt pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Milt has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Milt",
+      "description": "Milt — Powerful warrior",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Milt mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Powerful warrior”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Milt verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Milt could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Milt come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Milt has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:24:15.000Z",
+    "tier1_verified": {
+      "name": "Milt",
+      "slug": "milt",
+      "meaning": "Powerful warrior",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Milt",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Powerful warrior",
+      "long_meaning": "The name Milt is recorded with the meaning “Powerful warrior”. Milt is a Biblical name meaning “Powerful warrior”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Milt",
+          "meaning": "Powerful warrior",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "MIL-t",
+        "ipa": "/mɪlt/"
+      },
+      "syllables": 1,
+      "name_length": 4,
+      "faqs": [
+        {
+          "q": "What does the name Milt mean?",
+          "a": "Name-lists record the meaning as “Powerful warrior”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Milt verified?",
+          "a": "No. The meaning of Milt could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Milt come from?",
+          "a": "The origin of Milt has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 9,
+        "life_path_number": 9,
+        "ruling_planet": "Mars",
+        "lucky_day": "Tuesday",
+        "lucky_stone": "Red Coral",
+        "lucky_colors": [
+          "Red",
+          "Crimson"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Milt total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:24:15.000Z"
+    }
   }
- }
 }

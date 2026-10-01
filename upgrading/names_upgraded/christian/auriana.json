@@ -1,488 +1,327 @@
 {
- "success": true,
- "data": {
-  "name": "Auriana",
-  "slug": "auriana",
-  "language": [
-   "English",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Auriana is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Golden Dawn",
-  "long_meaning": "The name Auriana is recorded with the meaning “Golden Dawn”. Auriana is a Biblical name meaning “Golden Dawn”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Auriana expresses “Golden Dawn”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Auriana is recorded with the meaning “Golden Dawn”. Auriana is a Biblical name meaning “Golden Dawn”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "a-u-r-i-a-n-a",
-  "syllables": 3,
-  "name_length": 7,
-  "transliteration": [
-   "Auriana"
-  ],
-  "lucky_number": 2,
-  "lucky_day": "Monday",
-  "lucky_colors": [
-   "White",
-   "Silver"
-  ],
-  "lucky_stone": "Pearl",
-  "ruling_planet": "Moon",
-  "life_path_number": 2,
-  "numerology_meaning": "In Pythagorean numerology the letters of Auriana total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
-  "in_hebrew": {
-   "name": "אוריאנה",
-   "meaning": "אוריאנה משמעות שם נוצרי קורן אור זהב",
-   "long_meaning": "אוריאנה הוא שם נוצרי שמקורו במילה העברית 'אור', שפירושה אור קורן. השם אוריאנה הוא נגזר מהמילה 'אור' ומוסיף לה את הסיומת הנשית '-יאנה', שפירושה 'אלוהים הוא אור' או 'אור אלוהים'. השם אוריאנה משמש כזכר לאור האלוהי שמאיר על הנשמה."
-  },
-  "in_greek": {
-   "name": "Αυριανά",
-   "meaning": "Αυριανά σημαίνει φωτεινή αύρα χρυσή",
-   "long_meaning": "Το όνομα Αυριανά προέρχεται από τη λατινική λέξη 'Aurora', που σημαίνει αυγή. Στη συνέχεια, το όνομα μεταφέρθηκε στην ελληνική γλώσσα ως Αυριανά, διατηρώντας την ίδια σημασία. Το όνομα Αυριανά συνδέεται με την έννοια του φωτός και της φωτεινότητας, που αποτελεί σύμβολο της πνευματικής αναγέννησης και της προσάρτησης στο Θεό."
-  },
-  "in_latin": {
-   "name": "Auriana",
-   "meaning": "Auriana means golden dawn radiant light",
-   "long_meaning": "The name Auriana originates from the Latin word 'Aurora', which refers to the Roman goddess of the dawn. In Christian tradition, the name Auriana symbolizes the light of God and spiritual awakening. The name is composed of 'Aurum', meaning gold, and the suffix '-iana', indicating a connection to the divine. Thus, Auriana signifies a person who embodies the qualities of light, hope, and divine guidance."
-  },
-  "in_english": {
-   "name": "Auriana",
-   "meaning": "Golden Dawn",
-   "long_meaning": "The name Auriana is recorded with the meaning “Golden Dawn”. Auriana is a Biblical name meaning “Golden Dawn”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "aw-ree-AH-nah",
-   "ipa": "/ɔːriˈɑːnə/"
-  },
-  "name_variations": [
-   "Auriana"
-  ],
-  "variants": [
-   "Auriana"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Auriana is used in Biblical naming tradition with the meaning “Golden Dawn”.",
-  "spiritual_significance": "Any spiritual significance attached to Auriana is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Golden Dawn” is the basis of any symbolism attached to Auriana; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Auriana."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AurianaMeaning",
-   "#ChristianBabyNames",
-   "#BibleInspiredNames",
-   "#ChristianNames",
-   "#Auriana"
-  ],
-  "monetization": {
-   "ads": true,
-   "affiliate": false,
-   "sponsored_content": false
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Auriana Name Meaning – Golden Dawn (Biblical)",
-   "meta_description": "Auriana is a Biblical name meaning “Golden Dawn”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Auriana, Auriana name meaning, Auriana meaning, Auriana origin, Auriana root, Auriana pronunciation, Biblical names",
-   "description_paragraph": "Auriana is a Biblical name meaning “Golden Dawn”.",
-   "keywords": [
-    "Auriana",
-    "Auriana name meaning",
-    "Auriana meaning",
-    "Auriana origin",
-    "Auriana root",
-    "Auriana pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Auriana name meaning",
-   "secondary_keywords": [
-    "Auriana meaning",
-    "Auriana origin",
-    "Auriana pronunciation",
-    "Auriana lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/auriana",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the spiritual significance of Auriana?",
-     "a": "Any spiritual significance attached to Auriana is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Auriana?",
-     "a": "Variant spellings of Auriana are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Auriana a common name?",
-     "a": "Popularity figures for Auriana have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Auriana say about a child?",
-     "a": "The name Auriana expresses “Golden Dawn”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Auriana be used in another language?",
-     "a": "Auriana is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Auriana mentioned in scripture?",
-     "a": "No scriptural reference for Auriana has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Auriana?",
-     "a": "The Pythagorean lucky number for Auriana is 2 (ruling planet Moon). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Auriana?",
-     "a": "Monday is the traditional association for Auriana. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Auriana?",
-     "a": "Pearl is the traditional association for Auriana. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Auriana?",
-     "a": "White, Silver are the traditional associations for Auriana. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Auriana?",
-     "a": "In Pythagorean numerology the letters of Auriana total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-    },
-    {
-     "q": "How reliable is the meaning given for Auriana?",
-     "a": "The meaning of Auriana carries confidence LOW in this record. It is flagged for source verification."
-    }
-   ]
-  },
-  "seo_title": "Auriana Name Meaning – Golden Dawn (Biblical)",
-  "meta_description": "Auriana is a Biblical name meaning “Golden Dawn”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Auriana",
-   "Auriana name meaning",
-   "Auriana meaning",
-   "Auriana origin",
-   "Auriana root",
-   "Auriana pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/auriana",
-  "intro_paragraph": "Auriana is a Biblical name meaning “Golden Dawn”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Auriana",
-   "description": "Auriana — Golden Dawn",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Auriana?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Auriana is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Auriana?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Auriana are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Auriana a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Auriana have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Auriana say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Auriana expresses “Golden Dawn”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Auriana be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Auriana is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Auriana mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Auriana has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Auriana?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Auriana is 2 (ruling planet Moon). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Auriana?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Monday is the traditional association for Auriana. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Auriana?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pearl is the traditional association for Auriana. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Auriana?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "White, Silver are the traditional associations for Auriana. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Auriana?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Auriana total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Auriana?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Auriana carries confidence LOW in this record. It is flagged for source verification."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Auriana",
-     "item": "https://namemeaning.example/name/auriana"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Auriana",
-   "slug": "auriana",
-   "meaning": "Golden Dawn",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Auriana",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Golden Dawn",
-   "long_meaning": "The name Auriana is recorded with the meaning “Golden Dawn”. Auriana is a Biblical name meaning “Golden Dawn”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Auriana",
-     "meaning": "Golden Dawn",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "aw-ree-AH-nah",
-    "ipa": "/ɔːriˈɑːnə/"
-   },
-   "syllables": 3,
-   "name_length": 7,
-   "faqs": [
-    {
-     "q": "What is the spiritual significance of Auriana?",
-     "a": "Any spiritual significance attached to Auriana is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Auriana?",
-     "a": "Variant spellings of Auriana are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Auriana a common name?",
-     "a": "Popularity figures for Auriana have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Auriana say about a child?",
-     "a": "The name Auriana expresses “Golden Dawn”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Auriana be used in another language?",
-     "a": "Auriana is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Auriana mentioned in scripture?",
-     "a": "No scriptural reference for Auriana has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Auriana?",
-     "a": "The Pythagorean lucky number for Auriana is 2 (ruling planet Moon). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Auriana?",
-     "a": "Monday is the traditional association for Auriana. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Auriana?",
-     "a": "Pearl is the traditional association for Auriana. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Auriana?",
-     "a": "White, Silver are the traditional associations for Auriana. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Auriana?",
-     "a": "In Pythagorean numerology the letters of Auriana total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-    },
-    {
-     "q": "How reliable is the meaning given for Auriana?",
-     "a": "The meaning of Auriana carries confidence LOW in this record. It is flagged for source verification."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 2,
-    "life_path_number": 2,
-    "ruling_planet": "Moon",
-    "lucky_day": "Monday",
-    "lucky_stone": "Pearl",
-    "lucky_colors": [
-     "White",
-     "Silver"
+  "success": true,
+  "data": {
+    "name": "Auriana",
+    "slug": "auriana",
+    "language": [
+      "English",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Auriana total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Auriana is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Golden Dawn",
+    "long_meaning": "The meaning of Auriana is recorded in name-lists as “Golden Dawn”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Auriana expresses “Golden Dawn”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "a-u-r-i-a-n-a",
+    "syllables": 3,
+    "name_length": 7,
+    "transliteration": [
+      "Auriana"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "White",
+      "Silver"
+    ],
+    "lucky_stone": "Pearl",
+    "ruling_planet": "Moon",
+    "life_path_number": 2,
+    "numerology_meaning": "In Pythagorean numerology the letters of Auriana total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
+    "in_hebrew": {
+      "name": "אוריאנה",
+      "meaning": "אוריאנה משמעות שם נוצרי קורן אור זהב",
+      "long_meaning": "אוריאנה הוא שם נוצרי שמקורו במילה העברית 'אור', שפירושה אור קורן. השם אוריאנה הוא נגזר מהמילה 'אור' ומוסיף לה את הסיומת הנשית '-יאנה', שפירושה 'אלוהים הוא אור' או 'אור אלוהים'. השם אוריאנה משמש כזכר לאור האלוהי שמאיר על הנשמה."
+    },
+    "in_greek": {
+      "name": "Αυριανά",
+      "meaning": "Αυριανά σημαίνει φωτεινή αύρα χρυσή",
+      "long_meaning": "Το όνομα Αυριανά προέρχεται από τη λατινική λέξη 'Aurora', που σημαίνει αυγή. Στη συνέχεια, το όνομα μεταφέρθηκε στην ελληνική γλώσσα ως Αυριανά, διατηρώντας την ίδια σημασία. Το όνομα Αυριανά συνδέεται με την έννοια του φωτός και της φωτεινότητας, που αποτελεί σύμβολο της πνευματικής αναγέννησης και της προσάρτησης στο Θεό."
+    },
+    "in_latin": {
+      "name": "Auriana",
+      "meaning": "Auriana means golden dawn radiant light",
+      "long_meaning": "The name Auriana originates from the Latin word 'Aurora', which refers to the Roman goddess of the dawn. In Christian tradition, the name Auriana symbolizes the light of God and spiritual awakening. The name is composed of 'Aurum', meaning gold, and the suffix '-iana', indicating a connection to the divine. Thus, Auriana signifies a person who embodies the qualities of light, hope, and divine guidance."
+    },
+    "in_english": {
+      "name": "Auriana",
+      "meaning": "Golden Dawn",
+      "long_meaning": "Golden Dawn"
+    },
+    "pronunciation": {
+      "english": "aw-ree-AH-nah",
+      "ipa": "/ɔːriˈɑːnə/"
+    },
+    "name_variations": [
+      "Auriana"
+    ],
+    "variants": [
+      "Auriana"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Auriana is used in Biblical naming tradition with the meaning “Golden Dawn”.",
+    "spiritual_significance": "Any spiritual significance attached to Auriana is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Golden Dawn” is the basis of any symbolism attached to Auriana; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Auriana."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AurianaMeaning",
+      "#ChristianBabyNames",
+      "#BibleInspiredNames",
+      "#ChristianNames",
+      "#Auriana"
+    ],
+    "monetization": {
+      "ads": true,
+      "affiliate": false,
+      "sponsored_content": false
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Auriana Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Auriana has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Auriana, Auriana name meaning, Auriana meaning, Auriana origin, Auriana root, Auriana pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Auriana has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Auriana",
+        "Auriana name meaning",
+        "Auriana meaning",
+        "Auriana origin",
+        "Auriana root",
+        "Auriana pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Auriana name meaning",
+      "secondary_keywords": [
+        "Auriana meaning",
+        "Auriana origin",
+        "Auriana pronunciation",
+        "Auriana lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Auriana mean?",
+          "a": "Name-lists record the meaning as “Golden Dawn”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Auriana verified?",
+          "a": "No. The meaning of Auriana could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Auriana come from?",
+          "a": "The origin of Auriana has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Auriana Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Auriana has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Auriana",
+      "Auriana name meaning",
+      "Auriana meaning",
+      "Auriana origin",
+      "Auriana root",
+      "Auriana pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Auriana has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Auriana",
+      "description": "Auriana — Golden Dawn",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Auriana mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Golden Dawn”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Auriana verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Auriana could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Auriana come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Auriana has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:05:46.000Z",
+    "tier1_verified": {
+      "name": "Auriana",
+      "slug": "auriana",
+      "meaning": "Golden Dawn",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Auriana",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Golden Dawn",
+      "long_meaning": "The name Auriana is recorded with the meaning “Golden Dawn”. Auriana is a Biblical name meaning “Golden Dawn”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Auriana",
+          "meaning": "Golden Dawn",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "aw-ree-AH-nah",
+        "ipa": "/ɔːriˈɑːnə/"
+      },
+      "syllables": 3,
+      "name_length": 7,
+      "faqs": [
+        {
+          "q": "What does the name Auriana mean?",
+          "a": "Name-lists record the meaning as “Golden Dawn”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Auriana verified?",
+          "a": "No. The meaning of Auriana could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Auriana come from?",
+          "a": "The origin of Auriana has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 2,
+        "life_path_number": 2,
+        "ruling_planet": "Moon",
+        "lucky_day": "Monday",
+        "lucky_stone": "Pearl",
+        "lucky_colors": [
+          "White",
+          "Silver"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Auriana total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:05:46.000Z"
+    }
   }
- }
 }

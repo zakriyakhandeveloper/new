@@ -1,497 +1,336 @@
 {
- "success": true,
- "data": {
-  "name": "Coral",
-  "slug": "coral",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Coral is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Gemstone",
-  "long_meaning": "The name Coral is recorded with the meaning “Gemstone”. Coral is a Biblical name meaning “Gemstone”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Coral expresses “Gemstone”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Coral is recorded with the meaning “Gemstone”. Coral is a Biblical name meaning “Gemstone”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "c-o-r-a-l",
-  "syllables": 2,
-  "name_length": 5,
-  "transliteration": [
-   "Coral"
-  ],
-  "lucky_number": 4,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Grey",
-   "Blue"
-  ],
-  "lucky_stone": "Hessonite",
-  "ruling_planet": "Rahu",
-  "life_path_number": 4,
-  "numerology_meaning": "In Pythagorean numerology the letters of Coral total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-  "in_hebrew": {
-   "name": "קורל",
-   "meaning": "אבן יקרה ימית",
-   "long_meaning": "קורל הוא שם הנגזר מהמילה היוונית קוראליון, המתייחס לאבן יקרה ימית, ששימשה כסמל ליופי ולטוהר במסורת הנוצרית"
-  },
-  "in_greek": {
-   "name": "Κόραλ",
-   "meaning": "θάλασσα κόραλλι",
-   "long_meaning": "Η λέξη Κόραλ προέρχεται από την ελληνική λέξη κόραλλι, που αναφέρεται στο θάλασσιό κόραλλο, ένα υλικό που χρησιμοποιούταν σε διακοσμητικά αντικείμενα και συμβολίζοντας την ομορφιά και τη γονιμότητα"
-  },
-  "in_latin": {
-   "name": "Coral",
-   "meaning": "corallium mare",
-   "long_meaning": "Nomen Coral derivatur a verbo corallium, quod refertur ad corallium marinum, materiam quae in ornamentis et symbolis propter pulchritudinem et fecunditatem utebatur"
-  },
-  "in_english": {
-   "name": "Coral",
-   "meaning": "Gemstone",
-   "long_meaning": "The name Coral is recorded with the meaning “Gemstone”. Coral is a Biblical name meaning “Gemstone”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "KOR-al",
-   "biblical": "no direct biblical reference",
-   "ipa": "/ˈkɔrəl/"
-  },
-  "name_variations": [
-   "Coral"
-  ],
-  "variants": [
-   "Coral"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Coral is used in Biblical naming tradition with the meaning “Gemstone”.",
-  "spiritual_significance": "Any spiritual significance attached to Coral is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Gemstone” is the basis of any symbolism attached to Coral; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "none",
-   "verse_reference": "none",
-   "note": "no direct biblical reference, but coral is mentioned in ancient Greek and Roman texts"
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Coral."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#CoralMeaning",
-   "#ChristianBabyNames",
-   "#NatureInspiredNames",
-   "#Coral"
-  ],
-  "monetization": {
-   "affiliate_links": [
-    {
-     "product": "Baby Clothes",
-     "url": "https://example.com/baby-clothes"
-    },
-    {
-     "product": "Baby Books",
-     "url": "https://example.com/baby-books"
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Coral Name Meaning – Gemstone (Biblical)",
-   "meta_description": "Coral is a Biblical name meaning “Gemstone”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Coral, Coral name meaning, Coral meaning, Coral origin, Coral root, Coral pronunciation, Biblical names",
-   "description_paragraph": "Coral is a Biblical name meaning “Gemstone”.",
-   "keywords": [
-    "Coral",
-    "Coral name meaning",
-    "Coral meaning",
-    "Coral origin",
-    "Coral root",
-    "Coral pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Coral name meaning",
-   "secondary_keywords": [
-    "Coral meaning",
-    "Coral origin",
-    "Coral pronunciation",
-    "Coral lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/coral",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Does Coral have a religious meaning?",
-     "a": "Coral is recorded as a christian name meaning “Gemstone”."
-    },
-    {
-     "q": "What is the English meaning of Coral?",
-     "a": "In English, Coral is rendered as “Gemstone”."
-    },
-    {
-     "q": "Is Coral suitable for a baby?",
-     "a": "Coral is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Coral?",
-     "a": "Coral is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Coral?",
-     "a": "Coral is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Coral have a positive meaning?",
-     "a": "Coral carries the meaning “Gemstone”."
-    },
-    {
-     "q": "What does the name Coral mean?",
-     "a": "Coral means “Gemstone”."
-    },
-    {
-     "q": "What is the origin of the name Coral?",
-     "a": "Coral is of Biblical origin."
-    },
-    {
-     "q": "Is Coral a unisex name?",
-     "a": "Coral is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Coral have?",
-     "a": "Coral has 2 syllables."
-    },
-    {
-     "q": "How is Coral pronounced?",
-     "a": "Coral is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Coral?",
-     "a": "Any spiritual significance attached to Coral is interpretive and is labelled as such in this record."
-    }
-   ]
-  },
-  "seo_title": "Coral Name Meaning – Gemstone (Biblical)",
-  "meta_description": "Coral is a Biblical name meaning “Gemstone”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Coral",
-   "Coral name meaning",
-   "Coral meaning",
-   "Coral origin",
-   "Coral root",
-   "Coral pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/coral",
-  "intro_paragraph": "Coral is a Biblical name meaning “Gemstone”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Coral",
-   "description": "Coral — Gemstone",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Does Coral have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Coral is recorded as a christian name meaning “Gemstone”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Coral?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Coral is rendered as “Gemstone”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Coral suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Coral is used as a unisex given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Coral?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Coral is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Coral?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Coral is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Coral have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Coral carries the meaning “Gemstone”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Coral mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Coral means “Gemstone”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Coral?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Coral is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Coral a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Coral is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Coral have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Coral has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Coral pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Coral is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Coral?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Coral is interpretive and is labelled as such in this record."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Coral",
-     "item": "https://namemeaning.example/name/coral"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 50,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Coral",
-   "slug": "coral",
-   "meaning": "Gemstone",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Coral",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Gemstone",
-   "long_meaning": "The name Coral is recorded with the meaning “Gemstone”. Coral is a Biblical name meaning “Gemstone”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Coral",
-     "meaning": "Gemstone",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "KOR-al",
-    "ipa": "/ˈkɔrəl/"
-   },
-   "syllables": 2,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "Does Coral have a religious meaning?",
-     "a": "Coral is recorded as a christian name meaning “Gemstone”."
-    },
-    {
-     "q": "What is the English meaning of Coral?",
-     "a": "In English, Coral is rendered as “Gemstone”."
-    },
-    {
-     "q": "Is Coral suitable for a baby?",
-     "a": "Coral is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Coral?",
-     "a": "Coral is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Coral?",
-     "a": "Coral is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Coral have a positive meaning?",
-     "a": "Coral carries the meaning “Gemstone”."
-    },
-    {
-     "q": "What does the name Coral mean?",
-     "a": "Coral means “Gemstone”."
-    },
-    {
-     "q": "What is the origin of the name Coral?",
-     "a": "Coral is of Biblical origin."
-    },
-    {
-     "q": "Is Coral a unisex name?",
-     "a": "Coral is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Coral have?",
-     "a": "Coral has 2 syllables."
-    },
-    {
-     "q": "How is Coral pronounced?",
-     "a": "Coral is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Coral?",
-     "a": "Any spiritual significance attached to Coral is interpretive and is labelled as such in this record."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 4,
-    "life_path_number": 4,
-    "ruling_planet": "Rahu",
-    "lucky_day": "Saturday",
-    "lucky_stone": "Hessonite",
-    "lucky_colors": [
-     "Grey",
-     "Blue"
+  "success": true,
+  "data": {
+    "name": "Coral",
+    "slug": "coral",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Coral total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Coral is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Gemstone",
+    "long_meaning": "The meaning of Coral is recorded in name-lists as “Gemstone”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Coral expresses “Gemstone”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "c-o-r-a-l",
+    "syllables": 2,
+    "name_length": 5,
+    "transliteration": [
+      "Coral"
+    ],
+    "lucky_number": 4,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Grey",
+      "Blue"
+    ],
+    "lucky_stone": "Hessonite",
+    "ruling_planet": "Rahu",
+    "life_path_number": 4,
+    "numerology_meaning": "In Pythagorean numerology the letters of Coral total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
+    "in_hebrew": {
+      "name": "קורל",
+      "meaning": "אבן יקרה ימית",
+      "long_meaning": "קורל הוא שם הנגזר מהמילה היוונית קוראליון, המתייחס לאבן יקרה ימית, ששימשה כסמל ליופי ולטוהר במסורת הנוצרית"
+    },
+    "in_greek": {
+      "name": "Κόραλ",
+      "meaning": "θάλασσα κόραλλι",
+      "long_meaning": "Η λέξη Κόραλ προέρχεται από την ελληνική λέξη κόραλλι, που αναφέρεται στο θάλασσιό κόραλλο, ένα υλικό που χρησιμοποιούταν σε διακοσμητικά αντικείμενα και συμβολίζοντας την ομορφιά και τη γονιμότητα"
+    },
+    "in_latin": {
+      "name": "Coral",
+      "meaning": "corallium mare",
+      "long_meaning": "Nomen Coral derivatur a verbo corallium, quod refertur ad corallium marinum, materiam quae in ornamentis et symbolis propter pulchritudinem et fecunditatem utebatur"
+    },
+    "in_english": {
+      "name": "Coral",
+      "meaning": "Gemstone",
+      "long_meaning": "Gemstone"
+    },
+    "pronunciation": {
+      "english": "KOR-al",
+      "biblical": "no direct biblical reference",
+      "ipa": "/ˈkɔrəl/"
+    },
+    "name_variations": [
+      "Coral"
+    ],
+    "variants": [
+      "Coral"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Coral is used in Biblical naming tradition with the meaning “Gemstone”.",
+    "spiritual_significance": "Any spiritual significance attached to Coral is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Gemstone” is the basis of any symbolism attached to Coral; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "none",
+      "verse_reference": "none",
+      "note": "no direct biblical reference, but coral is mentioned in ancient Greek and Roman texts"
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Coral."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#CoralMeaning",
+      "#ChristianBabyNames",
+      "#NatureInspiredNames",
+      "#Coral"
+    ],
+    "monetization": {
+      "affiliate_links": [
+        {
+          "product": "Baby Clothes",
+          "url": "https://example.com/baby-clothes"
+        },
+        {
+          "product": "Baby Books",
+          "url": "https://example.com/baby-books"
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Coral Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Coral has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Coral, Coral name meaning, Coral meaning, Coral origin, Coral root, Coral pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Coral has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Coral",
+        "Coral name meaning",
+        "Coral meaning",
+        "Coral origin",
+        "Coral root",
+        "Coral pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Coral name meaning",
+      "secondary_keywords": [
+        "Coral meaning",
+        "Coral origin",
+        "Coral pronunciation",
+        "Coral lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Coral mean?",
+          "a": "Name-lists record the meaning as “Gemstone”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Coral verified?",
+          "a": "No. The meaning of Coral could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Coral come from?",
+          "a": "The origin of Coral has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Coral Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Coral has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Coral",
+      "Coral name meaning",
+      "Coral meaning",
+      "Coral origin",
+      "Coral root",
+      "Coral pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Coral has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Coral",
+      "description": "Coral — Gemstone",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Coral mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Gemstone”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Coral verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Coral could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Coral come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Coral has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 50,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:07:51.000Z",
+    "tier1_verified": {
+      "name": "Coral",
+      "slug": "coral",
+      "meaning": "Gemstone",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Coral",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Gemstone",
+      "long_meaning": "The name Coral is recorded with the meaning “Gemstone”. Coral is a Biblical name meaning “Gemstone”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Coral",
+          "meaning": "Gemstone",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "KOR-al",
+        "ipa": "/ˈkɔrəl/"
+      },
+      "syllables": 2,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Coral mean?",
+          "a": "Name-lists record the meaning as “Gemstone”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Coral verified?",
+          "a": "No. The meaning of Coral could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Coral come from?",
+          "a": "The origin of Coral has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 4,
+        "life_path_number": 4,
+        "ruling_planet": "Rahu",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Hessonite",
+        "lucky_colors": [
+          "Grey",
+          "Blue"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Coral total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:07:51.000Z"
+    }
   }
- }
 }

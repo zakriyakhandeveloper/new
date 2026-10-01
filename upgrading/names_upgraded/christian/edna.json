@@ -1,490 +1,329 @@
 {
- "success": true,
- "data": {
-  "name": "Edna",
-  "slug": "edna",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Edna is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Wealthy; God's favour",
-  "long_meaning": "The name Edna is recorded with the meaning “Wealthy; God's favour”. Edna is a Biblical name meaning “Wealthy; God's favour”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Edna expresses “Wealthy; God's favour”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Edna is recorded with the meaning “Wealthy; God's favour”. Edna is a Biblical name meaning “Wealthy; God's favour”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "e-d-n-a",
-  "syllables": 2,
-  "name_length": 4,
-  "transliteration": [
-   "Edna"
-  ],
-  "lucky_number": 6,
-  "lucky_day": "Friday",
-  "lucky_colors": [
-   "White",
-   "Pink"
-  ],
-  "lucky_stone": "Diamond",
-  "ruling_planet": "Venus",
-  "life_path_number": 6,
-  "numerology_meaning": "In Pythagorean numerology the letters of Edna total 15, reducing to 6. Number 6 is associated with responsibility, care and harmony.",
-  "in_hebrew": {
-   "name": "עדנה",
-   "meaning": "אישה חזקה, חיזק, חוזק, חזק, חזקה",
-   "long_meaning": "עדנה היא שם נשי שמקורו בעברית, נחשב לחזק וחזקה, ומשמעותו 'אישה חזקה' או 'חזקה'. השם עדנה נמצא במקרא, בספר יחזקאל (16:46), ומשמעותו 'בת חזק' או 'בת חזקה'. בתרבות היהודית, השם עדנה נחשב לשם נשי חזק ושורשי. בנוסף, השם עדנה מיוחס לחזקיה, מלך יהודה, שהקדיש את בתו, אדני, לאלוהים (2 מלכים 15:13). במסורת הנוצרית, השם עדנה נחשב לשם נשי חזק ושורשי, ומשמעותו 'אישה חזקה' או 'חזקה'."
-  },
-  "in_greek": {
-   "name": "Εδνά",
-   "meaning": "ισχυρή γυνή",
-   "long_meaning": "Εδνά είναι ονομασία γυναικείου φύλου που έχει κοινή ρίζα με την εβραϊκή γλώσσα. Η Εδνά είναι ένα ισχυρό και δυνατό όνομα, που σημαίνει 'ισχυρή γυνή' ή 'γυναίκα με δύναμη'. Αναφέρεται στο Βιβλίο του Εζεκιήλ (16:46), ως το όνομα μιας γυναίκας που είχε δει όνειρο. Στην αρχαία ελληνική γλώσσα, η Εδνά ήταν ένα κοινό όνομα για γυναίκες με υψηλή κοινωνική θέση. Στην Καινή Διαθήκη, δεν υπάρχει αναφορά με το όνομα Εδνά. Είναι, όμως, ένα δημοφιλές όνομα στις σύγχρονες χριστιανικές κοινότητες."
-  },
-  "in_latin": {
-   "name": "Edna",
-   "meaning": "femina robusta",
-   "long_meaning": "Edna est nomen femininum quod ex lingua Hebraea venit. Edna significat 'femina robusta' vel 'femina fortis'. In Scriptura Sacra, nomen Edna non invenitur, sed in libro prophetae Ezechiel (16:46) nomen Edna invenitur, cum significet 'uxorem robustam'. In cultura christiana, nomen Edna est nomen femininum fortis et robustum. Edna significat 'uxorem fortem' vel 'uxorem robustam'."
-  },
-  "in_english": {
-   "name": "Edna",
-   "meaning": "Wealthy; God's favour",
-   "long_meaning": "The name Edna is recorded with the meaning “Wealthy; God's favour”. Edna is a Biblical name meaning “Wealthy; God's favour”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "ED-nah",
-   "biblical": "In biblical Hebrew, the pronunciation is 'A-dnah' (with a long 'a'), while in biblical Greek, the pronunciation is 'Id-nah'.",
-   "ipa": "/ɛdnə/"
-  },
-  "name_variations": [
-   "Edna"
-  ],
-  "variants": [
-   "Edna"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Edna is used in Biblical naming tradition with the meaning “Wealthy; God's favour”.",
-  "spiritual_significance": "Any spiritual significance attached to Edna is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Wealthy; God's favour” is the basis of any symbolism attached to Edna; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": true,
-   "origin_scripture": "Ezekiel",
-   "verse_reference": "16:46",
-   "note": "Edna is mentioned in Ezekiel 16:46 as the name of a woman who had a dream."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Edna."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#EdnaMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Edna"
-  ],
-  "monetization": {
-   "google_ads": true,
-   "affiliate_links": true
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Edna Name Meaning – Wealthy; God's favour (Biblical)",
-   "meta_description": "Edna is a Biblical name meaning “Wealthy; God's favour”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Edna, Edna name meaning, Edna meaning, Edna origin, Edna root, Edna pronunciation, Biblical names",
-   "description_paragraph": "Edna is a Biblical name meaning “Wealthy; God's favour”.",
-   "keywords": [
-    "Edna",
-    "Edna name meaning",
-    "Edna meaning",
-    "Edna origin",
-    "Edna root",
-    "Edna pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Edna name meaning",
-   "secondary_keywords": [
-    "Edna meaning",
-    "Edna origin",
-    "Edna pronunciation",
-    "Edna lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/edna",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Does Edna have a positive meaning?",
-     "a": "Edna carries the meaning “Wealthy; God's favour”."
-    },
-    {
-     "q": "What does the name Edna mean?",
-     "a": "Edna means “Wealthy; God's favour”."
-    },
-    {
-     "q": "What is the origin of the name Edna?",
-     "a": "Edna is of Biblical origin."
-    },
-    {
-     "q": "Is Edna a unisex name?",
-     "a": "Edna is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Edna have?",
-     "a": "Edna has 2 syllables."
-    },
-    {
-     "q": "How is Edna pronounced?",
-     "a": "Edna is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Edna?",
-     "a": "Any spiritual significance attached to Edna is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Edna?",
-     "a": "Variant spellings of Edna are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Edna a common name?",
-     "a": "Popularity figures for Edna have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Edna say about a child?",
-     "a": "The name Edna expresses “Wealthy; God's favour”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Edna be used in another language?",
-     "a": "Edna is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Edna mentioned in scripture?",
-     "a": "No scriptural reference for Edna has been verified; the record is flagged for source verification."
-    }
-   ]
-  },
-  "seo_title": "Edna Name Meaning – Wealthy; God's favour (Biblical)",
-  "meta_description": "Edna is a Biblical name meaning “Wealthy; God's favour”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Edna",
-   "Edna name meaning",
-   "Edna meaning",
-   "Edna origin",
-   "Edna root",
-   "Edna pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/edna",
-  "intro_paragraph": "Edna is a Biblical name meaning “Wealthy; God's favour”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Edna",
-   "description": "Edna — Wealthy; God's favour",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Does Edna have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Edna carries the meaning “Wealthy; God's favour”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Edna mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Edna means “Wealthy; God's favour”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Edna?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Edna is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Edna a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Edna is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Edna have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Edna has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Edna pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Edna is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Edna?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Edna is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Edna?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Edna are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Edna a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Edna have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Edna say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Edna expresses “Wealthy; God's favour”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Edna be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Edna is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Edna mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Edna has been verified; the record is flagged for source verification."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Edna",
-     "item": "https://namemeaning.example/name/edna"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Edna",
-   "slug": "edna",
-   "meaning": "Wealthy; God's favour",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Edna",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Wealthy; God's favour",
-   "long_meaning": "The name Edna is recorded with the meaning “Wealthy; God's favour”. Edna is a Biblical name meaning “Wealthy; God's favour”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Edna",
-     "meaning": "Wealthy; God's favour",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "ED-nah",
-    "ipa": "/ɛdnə/"
-   },
-   "syllables": 2,
-   "name_length": 4,
-   "faqs": [
-    {
-     "q": "Does Edna have a positive meaning?",
-     "a": "Edna carries the meaning “Wealthy; God's favour”."
-    },
-    {
-     "q": "What does the name Edna mean?",
-     "a": "Edna means “Wealthy; God's favour”."
-    },
-    {
-     "q": "What is the origin of the name Edna?",
-     "a": "Edna is of Biblical origin."
-    },
-    {
-     "q": "Is Edna a unisex name?",
-     "a": "Edna is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Edna have?",
-     "a": "Edna has 2 syllables."
-    },
-    {
-     "q": "How is Edna pronounced?",
-     "a": "Edna is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Edna?",
-     "a": "Any spiritual significance attached to Edna is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Edna?",
-     "a": "Variant spellings of Edna are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Edna a common name?",
-     "a": "Popularity figures for Edna have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Edna say about a child?",
-     "a": "The name Edna expresses “Wealthy; God's favour”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Edna be used in another language?",
-     "a": "Edna is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Edna mentioned in scripture?",
-     "a": "No scriptural reference for Edna has been verified; the record is flagged for source verification."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 6,
-    "life_path_number": 6,
-    "ruling_planet": "Venus",
-    "lucky_day": "Friday",
-    "lucky_stone": "Diamond",
-    "lucky_colors": [
-     "White",
-     "Pink"
+  "success": true,
+  "data": {
+    "name": "Edna",
+    "slug": "edna",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Edna total 15, reducing to 6. Number 6 is associated with responsibility, care and harmony."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Edna is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Wealthy; God's favour",
+    "long_meaning": "The meaning of Edna is recorded in name-lists as “Wealthy; God's favour”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Edna expresses “Wealthy; God's favour”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "e-d-n-a",
+    "syllables": 2,
+    "name_length": 4,
+    "transliteration": [
+      "Edna"
+    ],
+    "lucky_number": 6,
+    "lucky_day": "Friday",
+    "lucky_colors": [
+      "White",
+      "Pink"
+    ],
+    "lucky_stone": "Diamond",
+    "ruling_planet": "Venus",
+    "life_path_number": 6,
+    "numerology_meaning": "In Pythagorean numerology the letters of Edna total 15, reducing to 6. Number 6 is associated with responsibility, care and harmony.",
+    "in_hebrew": {
+      "name": "עדנה",
+      "meaning": "אישה חזקה, חיזק, חוזק, חזק, חזקה",
+      "long_meaning": "עדנה היא שם נשי שמקורו בעברית, נחשב לחזק וחזקה, ומשמעותו 'אישה חזקה' או 'חזקה'. השם עדנה נמצא במקרא, בספר יחזקאל (16:46), ומשמעותו 'בת חזק' או 'בת חזקה'. בתרבות היהודית, השם עדנה נחשב לשם נשי חזק ושורשי. בנוסף, השם עדנה מיוחס לחזקיה, מלך יהודה, שהקדיש את בתו, אדני, לאלוהים (2 מלכים 15:13). במסורת הנוצרית, השם עדנה נחשב לשם נשי חזק ושורשי, ומשמעותו 'אישה חזקה' או 'חזקה'."
+    },
+    "in_greek": {
+      "name": "Εδνά",
+      "meaning": "ισχυρή γυνή",
+      "long_meaning": "Εδνά είναι ονομασία γυναικείου φύλου που έχει κοινή ρίζα με την εβραϊκή γλώσσα. Η Εδνά είναι ένα ισχυρό και δυνατό όνομα, που σημαίνει 'ισχυρή γυνή' ή 'γυναίκα με δύναμη'. Αναφέρεται στο Βιβλίο του Εζεκιήλ (16:46), ως το όνομα μιας γυναίκας που είχε δει όνειρο. Στην αρχαία ελληνική γλώσσα, η Εδνά ήταν ένα κοινό όνομα για γυναίκες με υψηλή κοινωνική θέση. Στην Καινή Διαθήκη, δεν υπάρχει αναφορά με το όνομα Εδνά. Είναι, όμως, ένα δημοφιλές όνομα στις σύγχρονες χριστιανικές κοινότητες."
+    },
+    "in_latin": {
+      "name": "Edna",
+      "meaning": "femina robusta",
+      "long_meaning": "Edna est nomen femininum quod ex lingua Hebraea venit. Edna significat 'femina robusta' vel 'femina fortis'. In Scriptura Sacra, nomen Edna non invenitur, sed in libro prophetae Ezechiel (16:46) nomen Edna invenitur, cum significet 'uxorem robustam'. In cultura christiana, nomen Edna est nomen femininum fortis et robustum. Edna significat 'uxorem fortem' vel 'uxorem robustam'."
+    },
+    "in_english": {
+      "name": "Edna",
+      "meaning": "Wealthy; God's favour",
+      "long_meaning": "Wealthy; God's favour"
+    },
+    "pronunciation": {
+      "english": "ED-nah",
+      "biblical": "In biblical Hebrew, the pronunciation is 'A-dnah' (with a long 'a'), while in biblical Greek, the pronunciation is 'Id-nah'.",
+      "ipa": "/ɛdnə/"
+    },
+    "name_variations": [
+      "Edna"
+    ],
+    "variants": [
+      "Edna"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Edna is used in Biblical naming tradition with the meaning “Wealthy; God's favour”.",
+    "spiritual_significance": "Any spiritual significance attached to Edna is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Wealthy; God's favour” is the basis of any symbolism attached to Edna; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "Ezekiel",
+      "verse_reference": "16:46",
+      "note": "Edna is mentioned in Ezekiel 16:46 as the name of a woman who had a dream."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Edna."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#EdnaMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Edna"
+    ],
+    "monetization": {
+      "google_ads": true,
+      "affiliate_links": true
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Edna Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Edna has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Edna, Edna name meaning, Edna meaning, Edna origin, Edna root, Edna pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Edna has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Edna",
+        "Edna name meaning",
+        "Edna meaning",
+        "Edna origin",
+        "Edna root",
+        "Edna pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Edna name meaning",
+      "secondary_keywords": [
+        "Edna meaning",
+        "Edna origin",
+        "Edna pronunciation",
+        "Edna lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Edna mean?",
+          "a": "Name-lists record the meaning as “Wealthy; God's favour”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Edna verified?",
+          "a": "No. The meaning of Edna could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Edna come from?",
+          "a": "The origin of Edna has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Edna Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Edna has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Edna",
+      "Edna name meaning",
+      "Edna meaning",
+      "Edna origin",
+      "Edna root",
+      "Edna pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Edna has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Edna",
+      "description": "Edna — Wealthy; God's favour",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Edna mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Wealthy; God's favour”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Edna verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Edna could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Edna come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Edna has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:09:09.000Z",
+    "tier1_verified": {
+      "name": "Edna",
+      "slug": "edna",
+      "meaning": "Wealthy; God's favour",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Edna",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Wealthy; God's favour",
+      "long_meaning": "The name Edna is recorded with the meaning “Wealthy; God's favour”. Edna is a Biblical name meaning “Wealthy; God's favour”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Edna",
+          "meaning": "Wealthy; God's favour",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "ED-nah",
+        "ipa": "/ɛdnə/"
+      },
+      "syllables": 2,
+      "name_length": 4,
+      "faqs": [
+        {
+          "q": "What does the name Edna mean?",
+          "a": "Name-lists record the meaning as “Wealthy; God's favour”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Edna verified?",
+          "a": "No. The meaning of Edna could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Edna come from?",
+          "a": "The origin of Edna has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 6,
+        "life_path_number": 6,
+        "ruling_planet": "Venus",
+        "lucky_day": "Friday",
+        "lucky_stone": "Diamond",
+        "lucky_colors": [
+          "White",
+          "Pink"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Edna total 15, reducing to 6. Number 6 is associated with responsibility, care and harmony."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:09:09.000Z"
+    }
   }
- }
 }

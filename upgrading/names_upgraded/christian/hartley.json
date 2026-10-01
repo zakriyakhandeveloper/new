@@ -1,495 +1,334 @@
 {
- "success": true,
- "data": {
-  "name": "Hartley",
-  "slug": "hartley",
-  "language": [
-   "English"
-  ],
-  "gender": "Male",
-  "gender_notes": "Hartley is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Hart: stag, deer; ley: clearing, wood, meadow",
-  "long_meaning": "The name Hartley is recorded with the meaning “Hart: stag, deer; ley: clearing, wood, meadow”. Hartley is a Biblical name meaning “Hart: stag, deer; ley: clearing, wood, meadow”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Hartley expresses “Hart: stag, deer; ley: clearing, wood, meadow”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Hartley is recorded with the meaning “Hart: stag, deer; ley: clearing, wood, meadow”. Hartley is a Biblical name meaning “Hart: stag, deer; ley: clearing, wood, meadow”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "h-a-r-t-l-e-y",
-  "syllables": 2,
-  "name_length": 7,
-  "transliteration": [
-   "Hartley"
-  ],
-  "lucky_number": 8,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Blue",
-   "Black"
-  ],
-  "lucky_stone": "Blue Sapphire",
-  "ruling_planet": "Saturn",
-  "life_path_number": 8,
-  "numerology_meaning": "In Pythagorean numerology the letters of Hartley total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-  "in_hebrew": {
-   "name": "הארטלי",
-   "meaning": "עיר היריה או מקום של חית",
-   "long_meaning": "הארטלי הוא שם שמקורו באנגלית ומשמעותו עיר היריה או מקום של חית, אך אין לו שורשים עבריים ישירים. הוא משמש לעתים קרובות ככינוי לאדם שמגיע ממקום עם שם כזה. השם אינו מופיע ישירות בתנ\"ך, אך הוא עשוי להיות קשור למושגים של מקום או יריה."
-  },
-  "in_greek": {
-   "name": "Χάρτλεϋ",
-   "meaning": "τόπος του Hart ή αρσενικό ελάφι",
-   "long_meaning": "Ο Χάρτλεϋ είναι όνομα που προέρχεται από την αγγλική γλώσσα και σημαίνει τόπος του Hart ή αρσενικό ελάφι. Στην ελληνική παράδοση, τέτοια ονόματα συχνά συνδέονται με την φύση και τα χαρακτηριστικά της. Δεν υπάρχει άμεση αναφορά στο όνομα αυτό στην Καινή Διαθήκη, αλλά μπορεί να σχετίζεται με έννοιες όπως η δύναμη ή η ευγένεια."
-  },
-  "in_latin": {
-   "name": "Hartley",
-   "meaning": "stag's meadow or clearing",
-   "long_meaning": "Hartley is derived from Old English 'hart' meaning stag or deer and 'leah' meaning meadow or clearing. This name likely originally referred to a place known for its deer or a meadow where deer were found. In early Christian contexts, such names might reflect a connection to nature and God's creation."
-  },
-  "in_english": {
-   "name": "Hartley",
-   "meaning": "Hart: stag, deer; ley: clearing, wood, meadow",
-   "long_meaning": "The name Hartley is recorded with the meaning “Hart: stag, deer; ley: clearing, wood, meadow”. Hartley is a Biblical name meaning “Hart: stag, deer; ley: clearing, wood, meadow”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "HAR-tlee",
-   "ipa": "/ˈhɑːrtli/"
-  },
-  "name_variations": [
-   "Hartley"
-  ],
-  "variants": [
-   "Hartley"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Hartley is used in Biblical naming tradition with the meaning “Hart: stag, deer; ley: clearing, wood, meadow”.",
-  "spiritual_significance": "Any spiritual significance attached to Hartley is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Hart: stag, deer; ley: clearing, wood, meadow” is the basis of any symbolism attached to Hartley; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": "The name Hartley does not appear directly in the Bible."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Hartley."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#HartleyMeaning",
-   "#ChristianBabyNames",
-   "#EnglishNames",
-   "#Hartley"
-  ],
-  "monetization": {
-   "ad_placement": "article_body",
-   "ad_units": [
-    {
-     "name": "unit1",
-     "size": "300x250",
-     "type": "display"
-    },
-    {
-     "name": "unit2",
-     "size": "336x280",
-     "type": "display"
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Hartley Name Meaning – Hart: stag, deer; ley: clearing, wood, meadow (Biblical)",
-   "meta_description": "Hartley is a Biblical name meaning “Hart: stag, deer; ley: clearing, wood, meadow”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Hartley, Hartley name meaning, Hartley meaning, Hartley origin, Hartley root, Hartley pronunciation, Biblical names",
-   "description_paragraph": "Hartley is a Biblical name meaning “Hart: stag, deer; ley: clearing, wood, meadow”.",
-   "keywords": [
-    "Hartley",
-    "Hartley name meaning",
-    "Hartley meaning",
-    "Hartley origin",
-    "Hartley root",
-    "Hartley pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Hartley name meaning",
-   "secondary_keywords": [
-    "Hartley meaning",
-    "Hartley origin",
-    "Hartley pronunciation",
-    "Hartley lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/hartley",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Are there variant spellings of Hartley?",
-     "a": "Variant spellings of Hartley are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Hartley a common name?",
-     "a": "Popularity figures for Hartley have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Hartley say about a child?",
-     "a": "The name Hartley expresses “Hart: stag, deer; ley: clearing, wood, meadow”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Hartley be used in another language?",
-     "a": "Hartley is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Hartley mentioned in scripture?",
-     "a": "No scriptural reference for Hartley has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Hartley?",
-     "a": "The Pythagorean lucky number for Hartley is 8 (ruling planet Saturn). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Hartley?",
-     "a": "Saturday is the traditional association for Hartley. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Hartley?",
-     "a": "Blue Sapphire is the traditional association for Hartley. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Hartley?",
-     "a": "Blue, Black are the traditional associations for Hartley. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Hartley?",
-     "a": "In Pythagorean numerology the letters of Hartley total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-    },
-    {
-     "q": "How reliable is the meaning given for Hartley?",
-     "a": "The meaning of Hartley carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Hartley have a religious meaning?",
-     "a": "Hartley is recorded as a christian name meaning “Hart: stag, deer; ley: clearing, wood, meadow”."
-    }
-   ]
-  },
-  "seo_title": "Hartley Name Meaning – Hart: stag, deer; ley: clearing, wood, meadow (Biblical)",
-  "meta_description": "Hartley is a Biblical name meaning “Hart: stag, deer; ley: clearing, wood, meadow”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Hartley",
-   "Hartley name meaning",
-   "Hartley meaning",
-   "Hartley origin",
-   "Hartley root",
-   "Hartley pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/hartley",
-  "intro_paragraph": "Hartley is a Biblical name meaning “Hart: stag, deer; ley: clearing, wood, meadow”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Hartley",
-   "description": "Hartley — Hart: stag, deer; ley: clearing, wood, meadow",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Hartley?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Hartley are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Hartley a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Hartley have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Hartley say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Hartley expresses “Hart: stag, deer; ley: clearing, wood, meadow”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Hartley be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Hartley is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Hartley mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Hartley has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Hartley?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Hartley is 8 (ruling planet Saturn). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Hartley?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Saturday is the traditional association for Hartley. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Hartley?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Blue Sapphire is the traditional association for Hartley. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Hartley?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Blue, Black are the traditional associations for Hartley. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Hartley?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Hartley total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Hartley?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Hartley carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Hartley have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Hartley is recorded as a christian name meaning “Hart: stag, deer; ley: clearing, wood, meadow”."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Hartley",
-     "item": "https://namemeaning.example/name/hartley"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 62,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Hartley",
-   "slug": "hartley",
-   "meaning": "Hart: stag, deer; ley: clearing, wood, meadow",
-   "origin": "Biblical",
-   "language": [
-    "English"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Hartley",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Hart: stag, deer; ley: clearing, wood, meadow",
-   "long_meaning": "The name Hartley is recorded with the meaning “Hart: stag, deer; ley: clearing, wood, meadow”. Hartley is a Biblical name meaning “Hart: stag, deer; ley: clearing, wood, meadow”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Hartley",
-     "meaning": "Hart: stag, deer; ley: clearing, wood, meadow",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "HAR-tlee",
-    "ipa": "/ˈhɑːrtli/"
-   },
-   "syllables": 2,
-   "name_length": 7,
-   "faqs": [
-    {
-     "q": "Are there variant spellings of Hartley?",
-     "a": "Variant spellings of Hartley are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Hartley a common name?",
-     "a": "Popularity figures for Hartley have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Hartley say about a child?",
-     "a": "The name Hartley expresses “Hart: stag, deer; ley: clearing, wood, meadow”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Hartley be used in another language?",
-     "a": "Hartley is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Hartley mentioned in scripture?",
-     "a": "No scriptural reference for Hartley has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Hartley?",
-     "a": "The Pythagorean lucky number for Hartley is 8 (ruling planet Saturn). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Hartley?",
-     "a": "Saturday is the traditional association for Hartley. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Hartley?",
-     "a": "Blue Sapphire is the traditional association for Hartley. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Hartley?",
-     "a": "Blue, Black are the traditional associations for Hartley. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Hartley?",
-     "a": "In Pythagorean numerology the letters of Hartley total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-    },
-    {
-     "q": "How reliable is the meaning given for Hartley?",
-     "a": "The meaning of Hartley carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Hartley have a religious meaning?",
-     "a": "Hartley is recorded as a christian name meaning “Hart: stag, deer; ley: clearing, wood, meadow”."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 8,
-    "life_path_number": 8,
-    "ruling_planet": "Saturn",
-    "lucky_day": "Saturday",
-    "lucky_stone": "Blue Sapphire",
-    "lucky_colors": [
-     "Blue",
-     "Black"
+  "success": true,
+  "data": {
+    "name": "Hartley",
+    "slug": "hartley",
+    "language": [
+      "English"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Hartley total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Hartley is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Hart: stag, deer; ley: clearing, wood, meadow",
+    "long_meaning": "The meaning of Hartley is recorded in name-lists as “Hart: stag, deer; ley: clearing, wood, meadow”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Hartley expresses “Hart: stag, deer; ley: clearing, wood, meadow”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "h-a-r-t-l-e-y",
+    "syllables": 2,
+    "name_length": 7,
+    "transliteration": [
+      "Hartley"
+    ],
+    "lucky_number": 8,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Blue",
+      "Black"
+    ],
+    "lucky_stone": "Blue Sapphire",
+    "ruling_planet": "Saturn",
+    "life_path_number": 8,
+    "numerology_meaning": "In Pythagorean numerology the letters of Hartley total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
+    "in_hebrew": {
+      "name": "הארטלי",
+      "meaning": "עיר היריה או מקום של חית",
+      "long_meaning": "הארטלי הוא שם שמקורו באנגלית ומשמעותו עיר היריה או מקום של חית, אך אין לו שורשים עבריים ישירים. הוא משמש לעתים קרובות ככינוי לאדם שמגיע ממקום עם שם כזה. השם אינו מופיע ישירות בתנ\"ך, אך הוא עשוי להיות קשור למושגים של מקום או יריה."
+    },
+    "in_greek": {
+      "name": "Χάρτλεϋ",
+      "meaning": "τόπος του Hart ή αρσενικό ελάφι",
+      "long_meaning": "Ο Χάρτλεϋ είναι όνομα που προέρχεται από την αγγλική γλώσσα και σημαίνει τόπος του Hart ή αρσενικό ελάφι. Στην ελληνική παράδοση, τέτοια ονόματα συχνά συνδέονται με την φύση και τα χαρακτηριστικά της. Δεν υπάρχει άμεση αναφορά στο όνομα αυτό στην Καινή Διαθήκη, αλλά μπορεί να σχετίζεται με έννοιες όπως η δύναμη ή η ευγένεια."
+    },
+    "in_latin": {
+      "name": "Hartley",
+      "meaning": "stag's meadow or clearing",
+      "long_meaning": "Hartley is derived from Old English 'hart' meaning stag or deer and 'leah' meaning meadow or clearing. This name likely originally referred to a place known for its deer or a meadow where deer were found. In early Christian contexts, such names might reflect a connection to nature and God's creation."
+    },
+    "in_english": {
+      "name": "Hartley",
+      "meaning": "Hart: stag, deer; ley: clearing, wood, meadow",
+      "long_meaning": "Hart: stag, deer; ley: clearing, wood, meadow"
+    },
+    "pronunciation": {
+      "english": "HAR-tlee",
+      "ipa": "/ˈhɑːrtli/"
+    },
+    "name_variations": [
+      "Hartley"
+    ],
+    "variants": [
+      "Hartley"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Hartley is used in Biblical naming tradition with the meaning “Hart: stag, deer; ley: clearing, wood, meadow”.",
+    "spiritual_significance": "Any spiritual significance attached to Hartley is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Hart: stag, deer; ley: clearing, wood, meadow” is the basis of any symbolism attached to Hartley; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": "The name Hartley does not appear directly in the Bible."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Hartley."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#HartleyMeaning",
+      "#ChristianBabyNames",
+      "#EnglishNames",
+      "#Hartley"
+    ],
+    "monetization": {
+      "ad_placement": "article_body",
+      "ad_units": [
+        {
+          "name": "unit1",
+          "size": "300x250",
+          "type": "display"
+        },
+        {
+          "name": "unit2",
+          "size": "336x280",
+          "type": "display"
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Hartley Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Hartley has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Hartley, Hartley name meaning, Hartley meaning, Hartley origin, Hartley root, Hartley pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Hartley has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Hartley",
+        "Hartley name meaning",
+        "Hartley meaning",
+        "Hartley origin",
+        "Hartley root",
+        "Hartley pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Hartley name meaning",
+      "secondary_keywords": [
+        "Hartley meaning",
+        "Hartley origin",
+        "Hartley pronunciation",
+        "Hartley lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Hartley mean?",
+          "a": "Name-lists record the meaning as “Hart: stag, deer; ley: clearing, wood, meadow”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Hartley verified?",
+          "a": "No. The meaning of Hartley could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Hartley come from?",
+          "a": "The origin of Hartley has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Hartley Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Hartley has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Hartley",
+      "Hartley name meaning",
+      "Hartley meaning",
+      "Hartley origin",
+      "Hartley root",
+      "Hartley pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Hartley has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Hartley",
+      "description": "Hartley — Hart: stag, deer; ley: clearing, wood, meadow",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Hartley mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Hart: stag, deer; ley: clearing, wood, meadow”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Hartley verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Hartley could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Hartley come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Hartley has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 62,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:14:20.000Z",
+    "tier1_verified": {
+      "name": "Hartley",
+      "slug": "hartley",
+      "meaning": "Hart: stag, deer; ley: clearing, wood, meadow",
+      "origin": "Biblical",
+      "language": [
+        "English"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Hartley",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Hart: stag, deer; ley: clearing, wood, meadow",
+      "long_meaning": "The name Hartley is recorded with the meaning “Hart: stag, deer; ley: clearing, wood, meadow”. Hartley is a Biblical name meaning “Hart: stag, deer; ley: clearing, wood, meadow”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Hartley",
+          "meaning": "Hart: stag, deer; ley: clearing, wood, meadow",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "HAR-tlee",
+        "ipa": "/ˈhɑːrtli/"
+      },
+      "syllables": 2,
+      "name_length": 7,
+      "faqs": [
+        {
+          "q": "What does the name Hartley mean?",
+          "a": "Name-lists record the meaning as “Hart: stag, deer; ley: clearing, wood, meadow”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Hartley verified?",
+          "a": "No. The meaning of Hartley could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Hartley come from?",
+          "a": "The origin of Hartley has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 8,
+        "life_path_number": 8,
+        "ruling_planet": "Saturn",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Blue Sapphire",
+        "lucky_colors": [
+          "Blue",
+          "Black"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Hartley total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:14:20.000Z"
+    }
   }
- }
 }

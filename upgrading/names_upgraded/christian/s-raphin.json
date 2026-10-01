@@ -1,501 +1,340 @@
 {
- "success": true,
- "data": {
-  "name": "Séraphin",
-  "slug": "s-raphin",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Séraphin is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Saint",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Seraph, a celestial being",
-  "long_meaning": "The name Séraphin is recorded with the meaning “Seraph, a celestial being”. Séraphin is a Biblical name meaning “Seraph, a celestial being”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Séraphin expresses “Seraph, a celestial being”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Séraphin is recorded with the meaning “Seraph, a celestial being”. Séraphin is a Biblical name meaning “Seraph, a celestial being”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "s-r-a-p-h-i-n",
-  "syllables": 2,
-  "name_length": 7,
-  "transliteration": [
-   "Séraphin"
-  ],
-  "lucky_number": 4,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Grey",
-   "Blue"
-  ],
-  "lucky_stone": "Hessonite",
-  "ruling_planet": "Rahu",
-  "life_path_number": 4,
-  "numerology_meaning": "In Pythagorean numerology the letters of Séraphin total 40, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-  "in_hebrew": {
-   "name": "סֶרָפִין",
-   "meaning": "שֵׁם מִקְדָּשׁ, שְׁעִיר, שָׂרִיף",
-   "long_meaning": "שֵם שֵם קָדוֹשׁ הָעוֹבֵד, שֶׁמֶן קָדִישׁ, נָקִי, סָקָל, שֶׁמֶן שָׂרִיף, שְׁעִיר לְעֵד, סָרַף, שְׁעִיר קָדוֹשׁ, קָדוֹשׁ, שְׁעִיר, שֵם הָעוֹבֵד, שִׁעֲר, שְׁעִיר קָדוֹשׁ, שֵם קָדוֹשׁ, סָקָל, שְׁעִיר, שֵם מִקְדָּשׁ"
-  },
-  "in_greek": {
-   "name": "Σεράφινος",
-   "meaning": "ὀνομάζω, σέλας, θηρίον, ἐξήκουστος",
-   "long_meaning": "ὀνομάζω, σέλας, θηρίον, ἐξήκουστος, τὸ θηρίον τῶν ὄψεων, τὸ θηρίον τοῦ πνεύματος, τὸ θηρίον τῆς γῆς, ὁ σέλας, οἱ σέλας, ἡ σέλας, ὁ σέλας, τὸ θηρίον τοῦ ἡλίου, ὁ σέλας τοῦ ἡλίου"
-  },
-  "in_latin": {
-   "name": "Serafinus",
-   "meaning": "angelo, seraphus, seraphinus, seraphicus, seraphinum",
-   "long_meaning": "angelo, seraphus, seraphinus, seraphicus, seraphinum, seraphinus, seraphinus, seraphinus, seraphinus, seraphinus, seraphinum, seraphinum, seraphinum, seraphinum, seraphinum"
-  },
-  "in_english": {
-   "name": "Séraphin",
-   "meaning": "Seraph, a celestial being",
-   "long_meaning": "The name Séraphin is recorded with the meaning “Seraph, a celestial being”. Séraphin is a Biblical name meaning “Seraph, a celestial being”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "seh-rah-fin",
-   "biblical": "ser-ah-fin (biblical Hebrew)",
-   "ipa": "/sɛrəˈfiːnɪs/"
-  },
-  "name_variations": [
-   "Séraphin"
-  ],
-  "variants": [
-   "Séraphin"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Séraphin is used in Biblical naming tradition with the meaning “Seraph, a celestial being”.",
-  "spiritual_significance": "Any spiritual significance attached to Séraphin is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Seraph, a celestial being” is the basis of any symbolism attached to Séraphin; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": true,
-   "origin_scripture": "Isaiah",
-   "verse_reference": "Isaiah 6:1-5",
-   "note": "In Isaiah 6:1-5, seraphim are depicted as six-winged creatures surrounding the throne of God, representing purity, holiness, and reverence."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Séraphin."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#SéraphinMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Séraphin"
-  ],
-  "monetization": {
-   "adsense": {
-    "places": [
-     "top",
-     "bottom"
+  "success": true,
+  "data": {
+    "name": "Séraphin",
+    "slug": "s-raphin",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
     ],
-    "units": [
-     "large_rectangle",
-     "leaderboard",
-     "banner"
-    ]
-   }
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Séraphin Name Meaning – Seraph, a celestial being (Biblical)",
-   "meta_description": "Séraphin is a Biblical name meaning “Seraph, a celestial being”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Séraphin, Séraphin name meaning, Séraphin meaning, Séraphin origin, Séraphin root, Séraphin pronunciation, Biblical names",
-   "description_paragraph": "Séraphin is a Biblical name meaning “Seraph, a celestial being”.",
-   "keywords": [
-    "Séraphin",
-    "Séraphin name meaning",
-    "Séraphin meaning",
-    "Séraphin origin",
-    "Séraphin root",
-    "Séraphin pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Séraphin name meaning",
-   "secondary_keywords": [
-    "Séraphin meaning",
-    "Séraphin origin",
-    "Séraphin pronunciation",
-    "Séraphin lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/s-raphin",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Is Séraphin a common name?",
-     "a": "Popularity figures for Séraphin have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Séraphin say about a child?",
-     "a": "The name Séraphin expresses “Seraph, a celestial being”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Séraphin be used in another language?",
-     "a": "Séraphin is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Séraphin mentioned in scripture?",
-     "a": "No scriptural reference for Séraphin has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Séraphin?",
-     "a": "The Pythagorean lucky number for Séraphin is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Séraphin?",
-     "a": "Saturday is the traditional association for Séraphin. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Séraphin?",
-     "a": "Hessonite is the traditional association for Séraphin. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Séraphin?",
-     "a": "Grey, Blue are the traditional associations for Séraphin. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Séraphin?",
-     "a": "In Pythagorean numerology the letters of Séraphin total 40, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-    },
-    {
-     "q": "How reliable is the meaning given for Séraphin?",
-     "a": "The meaning of Séraphin carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Séraphin have a religious meaning?",
-     "a": "Séraphin is recorded as a christian name meaning “Seraph, a celestial being”."
-    },
-    {
-     "q": "What is the English meaning of Séraphin?",
-     "a": "In English, Séraphin is rendered as “Seraph, a celestial being”."
-    }
-   ]
-  },
-  "seo_title": "Séraphin Name Meaning – Seraph, a celestial being (Biblical)",
-  "meta_description": "Séraphin is a Biblical name meaning “Seraph, a celestial being”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Séraphin",
-   "Séraphin name meaning",
-   "Séraphin meaning",
-   "Séraphin origin",
-   "Séraphin root",
-   "Séraphin pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/s-raphin",
-  "intro_paragraph": "Séraphin is a Biblical name meaning “Seraph, a celestial being”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Séraphin",
-   "description": "Séraphin — Seraph, a celestial being",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Is Séraphin a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Séraphin have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Séraphin say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Séraphin expresses “Seraph, a celestial being”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Séraphin be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Séraphin is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Séraphin mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Séraphin has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Séraphin?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Séraphin is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Séraphin?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Saturday is the traditional association for Séraphin. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Séraphin?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Hessonite is the traditional association for Séraphin. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Séraphin?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Grey, Blue are the traditional associations for Séraphin. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Séraphin?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Séraphin total 40, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Séraphin?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Séraphin carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Séraphin have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Séraphin is recorded as a christian name meaning “Seraph, a celestial being”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Séraphin?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Séraphin is rendered as “Seraph, a celestial being”."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Séraphin",
-     "item": "https://namemeaning.example/name/s-raphin"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 56,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Séraphin",
-   "slug": "s-raphin",
-   "meaning": "Seraph, a celestial being",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Séraphin",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Seraph, a celestial being",
-   "long_meaning": "The name Séraphin is recorded with the meaning “Seraph, a celestial being”. Séraphin is a Biblical name meaning “Seraph, a celestial being”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Séraphin",
-     "meaning": "Seraph, a celestial being",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "seh-rah-fin",
-    "ipa": "/sɛrəˈfiːnɪs/"
-   },
-   "syllables": 2,
-   "name_length": 7,
-   "faqs": [
-    {
-     "q": "Is Séraphin a common name?",
-     "a": "Popularity figures for Séraphin have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Séraphin say about a child?",
-     "a": "The name Séraphin expresses “Seraph, a celestial being”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Séraphin be used in another language?",
-     "a": "Séraphin is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Séraphin mentioned in scripture?",
-     "a": "No scriptural reference for Séraphin has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Séraphin?",
-     "a": "The Pythagorean lucky number for Séraphin is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Séraphin?",
-     "a": "Saturday is the traditional association for Séraphin. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Séraphin?",
-     "a": "Hessonite is the traditional association for Séraphin. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Séraphin?",
-     "a": "Grey, Blue are the traditional associations for Séraphin. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Séraphin?",
-     "a": "In Pythagorean numerology the letters of Séraphin total 40, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-    },
-    {
-     "q": "How reliable is the meaning given for Séraphin?",
-     "a": "The meaning of Séraphin carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Séraphin have a religious meaning?",
-     "a": "Séraphin is recorded as a christian name meaning “Seraph, a celestial being”."
-    },
-    {
-     "q": "What is the English meaning of Séraphin?",
-     "a": "In English, Séraphin is rendered as “Seraph, a celestial being”."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
+    "gender": "Male",
+    "gender_notes": "Séraphin is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Saint",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Seraph, a celestial being",
+    "long_meaning": "The meaning of Séraphin is recorded in name-lists as “Seraph, a celestial being”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Séraphin expresses “Seraph, a celestial being”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "s-r-a-p-h-i-n",
+    "syllables": 2,
+    "name_length": 7,
+    "transliteration": [
+      "Séraphin"
+    ],
     "lucky_number": 4,
-    "life_path_number": 4,
-    "ruling_planet": "Rahu",
     "lucky_day": "Saturday",
-    "lucky_stone": "Hessonite",
     "lucky_colors": [
-     "Grey",
-     "Blue"
+      "Grey",
+      "Blue"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Séraphin total 40, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "lucky_stone": "Hessonite",
+    "ruling_planet": "Rahu",
+    "life_path_number": 4,
+    "numerology_meaning": "In Pythagorean numerology the letters of Séraphin total 40, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
+    "in_hebrew": {
+      "name": "סֶרָפִין",
+      "meaning": "שֵׁם מִקְדָּשׁ, שְׁעִיר, שָׂרִיף",
+      "long_meaning": "שֵם שֵם קָדוֹשׁ הָעוֹבֵד, שֶׁמֶן קָדִישׁ, נָקִי, סָקָל, שֶׁמֶן שָׂרִיף, שְׁעִיר לְעֵד, סָרַף, שְׁעִיר קָדוֹשׁ, קָדוֹשׁ, שְׁעִיר, שֵם הָעוֹבֵד, שִׁעֲר, שְׁעִיר קָדוֹשׁ, שֵם קָדוֹשׁ, סָקָל, שְׁעִיר, שֵם מִקְדָּשׁ"
+    },
+    "in_greek": {
+      "name": "Σεράφινος",
+      "meaning": "ὀνομάζω, σέλας, θηρίον, ἐξήκουστος",
+      "long_meaning": "ὀνομάζω, σέλας, θηρίον, ἐξήκουστος, τὸ θηρίον τῶν ὄψεων, τὸ θηρίον τοῦ πνεύματος, τὸ θηρίον τῆς γῆς, ὁ σέλας, οἱ σέλας, ἡ σέλας, ὁ σέλας, τὸ θηρίον τοῦ ἡλίου, ὁ σέλας τοῦ ἡλίου"
+    },
+    "in_latin": {
+      "name": "Serafinus",
+      "meaning": "angelo, seraphus, seraphinus, seraphicus, seraphinum",
+      "long_meaning": "angelo, seraphus, seraphinus, seraphicus, seraphinum, seraphinus, seraphinus, seraphinus, seraphinus, seraphinus, seraphinum, seraphinum, seraphinum, seraphinum, seraphinum"
+    },
+    "in_english": {
+      "name": "Séraphin",
+      "meaning": "Seraph, a celestial being",
+      "long_meaning": "Seraph, a celestial being"
+    },
+    "pronunciation": {
+      "english": "seh-rah-fin",
+      "biblical": "ser-ah-fin (biblical Hebrew)",
+      "ipa": "/sɛrəˈfiːnɪs/"
+    },
+    "name_variations": [
+      "Séraphin"
+    ],
+    "variants": [
+      "Séraphin"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Séraphin is used in Biblical naming tradition with the meaning “Seraph, a celestial being”.",
+    "spiritual_significance": "Any spiritual significance attached to Séraphin is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Seraph, a celestial being” is the basis of any symbolism attached to Séraphin; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "Isaiah",
+      "verse_reference": "Isaiah 6:1-5",
+      "note": "In Isaiah 6:1-5, seraphim are depicted as six-winged creatures surrounding the throne of God, representing purity, holiness, and reverence."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Séraphin."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#SéraphinMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Séraphin"
+    ],
+    "monetization": {
+      "adsense": {
+        "places": [
+          "top",
+          "bottom"
+        ],
+        "units": [
+          "large_rectangle",
+          "leaderboard",
+          "banner"
+        ]
+      }
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Séraphin Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Séraphin has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Séraphin, Séraphin name meaning, Séraphin meaning, Séraphin origin, Séraphin root, Séraphin pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Séraphin has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Séraphin",
+        "Séraphin name meaning",
+        "Séraphin meaning",
+        "Séraphin origin",
+        "Séraphin root",
+        "Séraphin pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Séraphin name meaning",
+      "secondary_keywords": [
+        "Séraphin meaning",
+        "Séraphin origin",
+        "Séraphin pronunciation",
+        "Séraphin lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Séraphin mean?",
+          "a": "Name-lists record the meaning as “Seraph, a celestial being”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Séraphin verified?",
+          "a": "No. The meaning of Séraphin could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Séraphin come from?",
+          "a": "The origin of Séraphin has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Séraphin Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Séraphin has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Séraphin",
+      "Séraphin name meaning",
+      "Séraphin meaning",
+      "Séraphin origin",
+      "Séraphin root",
+      "Séraphin pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Séraphin has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Séraphin",
+      "description": "Séraphin — Seraph, a celestial being",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Séraphin mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Seraph, a celestial being”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Séraphin verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Séraphin could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Séraphin come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Séraphin has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 56,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:31:01.000Z",
+    "tier1_verified": {
+      "name": "Séraphin",
+      "slug": "s-raphin",
+      "meaning": "Seraph, a celestial being",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Séraphin",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Seraph, a celestial being",
+      "long_meaning": "The name Séraphin is recorded with the meaning “Seraph, a celestial being”. Séraphin is a Biblical name meaning “Seraph, a celestial being”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Séraphin",
+          "meaning": "Seraph, a celestial being",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "seh-rah-fin",
+        "ipa": "/sɛrəˈfiːnɪs/"
+      },
+      "syllables": 2,
+      "name_length": 7,
+      "faqs": [
+        {
+          "q": "What does the name Séraphin mean?",
+          "a": "Name-lists record the meaning as “Seraph, a celestial being”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Séraphin verified?",
+          "a": "No. The meaning of Séraphin could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Séraphin come from?",
+          "a": "The origin of Séraphin has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 4,
+        "life_path_number": 4,
+        "ruling_planet": "Rahu",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Hessonite",
+        "lucky_colors": [
+          "Grey",
+          "Blue"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Séraphin total 40, reducing to 4. Number 4 is associated with discipline, order and steady effort."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:31:01.000Z"
+    }
   }
- }
 }

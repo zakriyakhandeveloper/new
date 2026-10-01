@@ -1,549 +1,388 @@
 {
- "success": true,
- "data": {
-  "name": "Afroze",
-  "slug": "afroze",
-  "language": [
-   "Arabic",
-   "Urdu",
-   "Persian",
-   "Pashto"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Afroze is used as a unisex name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Pure, Precious Gem",
-  "long_meaning": "The name Afroze is recorded with the meaning “Pure, Precious Gem”. Afroze is a Arabic name meaning “Pure, Precious Gem”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Afroze expresses “Pure, Precious Gem”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Afroze is recorded with the meaning “Pure, Precious Gem”. Afroze is a Arabic name meaning “Pure, Precious Gem”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-f-r-o-z-e",
-  "syllables": 2,
-  "name_length": 6,
-  "transliteration": [
-   "Afroze"
-  ],
-  "lucky_number": 8,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Blue",
-   "Black"
-  ],
-  "lucky_stone": "Blue Sapphire",
-  "ruling_planet": "Saturn",
-  "life_path_number": 8,
-  "numerology_meaning": "In Pythagorean numerology the letters of Afroze total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-  "in_arabic": {
-   "name": "أفروز",
-   "meaning": "يجعل الضوء يظهر ويزداد إشراقًا",
-   "long_meaning": "اسم أفروز مشتق من الفعل 'أَفْرَزَ' الذي يعني إظهار الضوء وجعله يزداد إشراقًا. في اللغة العربية، يُستخدم هذا الاسم للإشارة إلى الشخص الذي يضفي نورًا وإشراقًا على المكان أو الوضع الذي يوجد فيه. يعتبر اسم أفروز من الأسماء التي تحمل معاني جميلة ومرتبطة بالإيمان والروحانية في الثقافة الإسلامية."
-  },
-  "in_urdu": {
-   "name": "افروز",
-   "meaning": "روشنی اور نور کا باعث",
-   "long_meaning": "افروز ایک ایسا نام ہے جو روشنی اور نور کے تصور سے جڑا ہوا ہے۔ یہ نام عربی زبان کے فعل 'أَفْرَزَ' سے ماخوذ ہے، جس کا مطلب ہے روشنی کو ظاہر کرنا یا بڑھانا۔ اسلامی ثقافت میں، یہ نام اس شخص کے لیے استعمال ہوتا ہے جو اپنے وجود سے دوسروں کے لیے روشنی اور امید کا باعث بنتا ہے۔"
-  },
-  "in_hindi": {
-   "name": "अफरोज़",
-   "meaning": "प्रकाश और उजाला बढ़ाने वाला",
-   "long_meaning": "अफरोज़ नाम का अर्थ है प्रकाश और उजाला बढ़ाने वाला। यह नाम अरबी भाषा के शब्द 'أَفْرَزَ' से लिया गया है, जिसका अर्थ है प्रकाश को प्रकट करना या बढ़ाना। भारतीय मुस्लिम समुदाय में, यह नाम उस व्यक्ति के लिए प्रयोग किया जाता है जो अपने आसपास के लोगों के लिए प्रेरणा और सकारात्मकता का स्रोत बनता है।"
-  },
-  "in_pashto": {
-   "name": "افروز",
-   "meaning": "د رڼا او څراغ لامل",
-   "long_meaning": "افروز داسې نوم دی چې د رڼا او څراغ د زياتولو مفهوم سره تړلی دی. دا نوم د عربی ژبې له فعل 'أَفْرَزَ' څخه اخیستل شوی دی، چې معنی یې د رڼا ښکاره کول یا زياتول دي. د پښتنو په دودیزو کړو کې، دا نوم د هغه چا لپاره کارول کیږي چې د خپل وجود په واسطه د نورو لپاره د هیلې او مثبت والي سبب ګرځي."
-  },
-  "in_english": {
-   "name": "Afroze",
-   "meaning": "Pure, Precious Gem",
-   "long_meaning": "The name Afroze is recorded with the meaning “Pure, Precious Gem”. Afroze is a Arabic name meaning “Pure, Precious Gem”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "ah-FROHZ",
-   "urdu": "اَفْرُوز",
-   "hindi": "अफ़रोज़",
-   "pashto": "افروز",
-   "ipa": "/ɑːfroʊz/"
-  },
-  "name_variations": [
-   "Afroze"
-  ],
-  "variants": [
-   "Afroze"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Afroze is used in Arabic naming tradition with the meaning “Pure, Precious Gem”.",
-  "spiritual_significance": "Any spiritual significance attached to Afroze is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Pure, Precious Gem” is the basis of any symbolism attached to Afroze; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Afroze has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Afroze."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AfrozeMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Afroze"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Afroze",
-     "description": "Discover the meaning of Afroze - \"Pure, Precious Gem\"",
-     "image": "/images/social/afroze-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Afroze - Name Meaning",
-     "description": "Learn about the beautiful name Afroze",
-     "image": "/images/social/afroze-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Afroze",
-     "description": "Name meaning: Pure, Precious Gem",
-     "image": "/images/social/afroze-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Afroze - Meaning: Pure, Precious Gem",
-    "email_subject": "Beautiful Name: Afroze"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Afroze with meaning Pure, Precious Gem",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Afroze Name Meaning – Pure, Precious Gem (Arabic)",
-   "meta_description": "Afroze is a Arabic name meaning “Pure, Precious Gem”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Afroze, Afroze name meaning, Afroze meaning, Afroze origin, Afroze root, Afroze pronunciation, Arabic names",
-   "description_paragraph": "Afroze is a Arabic name meaning “Pure, Precious Gem”.",
-   "keywords": [
-    "Afroze",
-    "Afroze name meaning",
-    "Afroze meaning",
-    "Afroze origin",
-    "Afroze root",
-    "Afroze pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Afroze name meaning",
-   "secondary_keywords": [
-    "Afroze meaning",
-    "Afroze origin",
-    "Afroze pronunciation",
-    "Afroze lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/afroze",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Can Afroze be used in another language?",
-     "a": "Afroze is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Afroze mentioned in scripture?",
-     "a": "No scriptural reference for Afroze has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Afroze?",
-     "a": "The Pythagorean lucky number for Afroze is 8 (ruling planet Saturn). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Afroze?",
-     "a": "Saturday is the traditional association for Afroze. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Afroze?",
-     "a": "Blue Sapphire is the traditional association for Afroze. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Afroze?",
-     "a": "Blue, Black are the traditional associations for Afroze. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Afroze?",
-     "a": "In Pythagorean numerology the letters of Afroze total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-    },
-    {
-     "q": "How reliable is the meaning given for Afroze?",
-     "a": "The meaning of Afroze carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Afroze have a religious meaning?",
-     "a": "Afroze is recorded as a islamic name meaning “Pure, Precious Gem”."
-    },
-    {
-     "q": "What is the English meaning of Afroze?",
-     "a": "In English, Afroze is rendered as “Pure, Precious Gem”."
-    },
-    {
-     "q": "Is Afroze suitable for a baby?",
-     "a": "Afroze is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Afroze?",
-     "a": "Afroze is the full recorded form; any short forms are listed in the nicknames field."
-    }
-   ]
-  },
-  "seo_title": "Afroze Name Meaning – Pure, Precious Gem (Arabic)",
-  "meta_description": "Afroze is a Arabic name meaning “Pure, Precious Gem”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Afroze",
-   "Afroze name meaning",
-   "Afroze meaning",
-   "Afroze origin",
-   "Afroze root",
-   "Afroze pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/afroze",
-  "intro_paragraph": "Afroze is a Arabic name meaning “Pure, Precious Gem”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Afroze",
-   "description": "Afroze — Pure, Precious Gem",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Can Afroze be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Afroze is recorded in Arabic; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Afroze mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Afroze has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Afroze?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Afroze is 8 (ruling planet Saturn). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Afroze?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Saturday is the traditional association for Afroze. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Afroze?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Blue Sapphire is the traditional association for Afroze. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Afroze?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Blue, Black are the traditional associations for Afroze. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Afroze?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Afroze total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Afroze?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Afroze carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Afroze have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Afroze is recorded as a islamic name meaning “Pure, Precious Gem”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Afroze?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Afroze is rendered as “Pure, Precious Gem”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Afroze suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Afroze is used as a unisex given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Afroze?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Afroze is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Afroze",
-     "item": "https://namemeaning.example/name/afroze"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-12-22T19:19:49.93Z",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Afroze",
-   "slug": "afroze",
-   "meaning": "Pure, Precious Gem",
-   "origin": "Arabic",
-   "language": [
-    "Arabic",
-    "Urdu",
-    "Persian",
-    "Pashto"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Afroze",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Pure, Precious Gem",
-   "long_meaning": "The name Afroze is recorded with the meaning “Pure, Precious Gem”. Afroze is a Arabic name meaning “Pure, Precious Gem”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Afroze",
-     "meaning": "Pure, Precious Gem",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "ah-FROHZ",
-    "ipa": "/ɑːfroʊz/"
-   },
-   "syllables": 2,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "Can Afroze be used in another language?",
-     "a": "Afroze is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Afroze mentioned in scripture?",
-     "a": "No scriptural reference for Afroze has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Afroze?",
-     "a": "The Pythagorean lucky number for Afroze is 8 (ruling planet Saturn). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Afroze?",
-     "a": "Saturday is the traditional association for Afroze. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Afroze?",
-     "a": "Blue Sapphire is the traditional association for Afroze. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Afroze?",
-     "a": "Blue, Black are the traditional associations for Afroze. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Afroze?",
-     "a": "In Pythagorean numerology the letters of Afroze total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-    },
-    {
-     "q": "How reliable is the meaning given for Afroze?",
-     "a": "The meaning of Afroze carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Afroze have a religious meaning?",
-     "a": "Afroze is recorded as a islamic name meaning “Pure, Precious Gem”."
-    },
-    {
-     "q": "What is the English meaning of Afroze?",
-     "a": "In English, Afroze is rendered as “Pure, Precious Gem”."
-    },
-    {
-     "q": "Is Afroze suitable for a baby?",
-     "a": "Afroze is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Afroze?",
-     "a": "Afroze is the full recorded form; any short forms are listed in the nicknames field."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 8,
-    "life_path_number": 8,
-    "ruling_planet": "Saturn",
-    "lucky_day": "Saturday",
-    "lucky_stone": "Blue Sapphire",
-    "lucky_colors": [
-     "Blue",
-     "Black"
+  "success": true,
+  "data": {
+    "name": "Afroze",
+    "slug": "afroze",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Afroze total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Afroze is used as a unisex name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Pure, Precious Gem",
+    "long_meaning": "The meaning of Afroze is recorded in name-lists as “Pure, Precious Gem”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Afroze expresses “Pure, Precious Gem”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Arabic",
+    "root_letters": "a-f-r-o-z-e",
+    "syllables": 2,
+    "name_length": 6,
+    "transliteration": [
+      "Afroze"
+    ],
+    "lucky_number": 8,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Blue",
+      "Black"
+    ],
+    "lucky_stone": "Blue Sapphire",
+    "ruling_planet": "Saturn",
+    "life_path_number": 8,
+    "numerology_meaning": "In Pythagorean numerology the letters of Afroze total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
+    "in_arabic": {
+      "name": "أفروز",
+      "meaning": "Pure, Precious Gem",
+      "long_meaning": "Pure, Precious Gem"
+    },
+    "in_urdu": {
+      "name": "افروز",
+      "meaning": "Pure, Precious Gem",
+      "long_meaning": "Pure, Precious Gem"
+    },
+    "in_hindi": {
+      "name": "अफरोज़",
+      "meaning": "Pure, Precious Gem",
+      "long_meaning": "Pure, Precious Gem"
+    },
+    "in_pashto": {
+      "name": "افروز",
+      "meaning": "Pure, Precious Gem",
+      "long_meaning": "Pure, Precious Gem"
+    },
+    "in_english": {
+      "name": "Afroze",
+      "meaning": "Pure, Precious Gem",
+      "long_meaning": "Pure, Precious Gem"
+    },
+    "pronunciation": {
+      "english": "ah-FROHZ",
+      "urdu": "اَفْرُوز",
+      "hindi": "अफ़रोज़",
+      "pashto": "افروز",
+      "ipa": "/ɑːfroʊz/"
+    },
+    "name_variations": [
+      "Afroze"
+    ],
+    "variants": [
+      "Afroze"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Afroze is used in Arabic naming tradition with the meaning “Pure, Precious Gem”.",
+    "spiritual_significance": "Any spiritual significance attached to Afroze is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Pure, Precious Gem” is the basis of any symbolism attached to Afroze; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "No Qur'anic reference for Afroze has been verified."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Afroze."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AfrozeMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Afroze"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Afroze",
+          "description": "Discover the meaning of Afroze - \"Pure, Precious Gem\"",
+          "image": "/images/social/afroze-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Afroze - Name Meaning",
+          "description": "Learn about the beautiful name Afroze",
+          "image": "/images/social/afroze-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Afroze",
+          "description": "Name meaning: Pure, Precious Gem",
+          "image": "/images/social/afroze-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Afroze - Meaning: Pure, Precious Gem",
+        "email_subject": "Beautiful Name: Afroze"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Afroze with meaning Pure, Precious Gem",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Afroze Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Afroze has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Afroze, Afroze name meaning, Afroze meaning, Afroze origin, Afroze root, Afroze pronunciation, Arabic names",
+      "description_paragraph": "The meaning of Afroze has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Afroze",
+        "Afroze name meaning",
+        "Afroze meaning",
+        "Afroze origin",
+        "Afroze root",
+        "Afroze pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Afroze name meaning",
+      "secondary_keywords": [
+        "Afroze meaning",
+        "Afroze origin",
+        "Afroze pronunciation",
+        "Afroze lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Afroze mean?",
+          "a": "Name-lists record the meaning as “Pure, Precious Gem”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Afroze verified?",
+          "a": "No. The meaning of Afroze could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Afroze come from?",
+          "a": "The origin of Afroze has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Afroze Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Afroze has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Afroze",
+      "Afroze name meaning",
+      "Afroze meaning",
+      "Afroze origin",
+      "Afroze root",
+      "Afroze pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Afroze has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Afroze",
+      "description": "Afroze — Pure, Precious Gem",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Afroze mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Pure, Precious Gem”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Afroze verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Afroze could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Afroze come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Afroze has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 70
+    },
+    "created_at": "2025-12-22T19:19:49.93Z",
+    "updated_at": "2026-10-01T04:04:25.000Z",
+    "tier1_verified": {
+      "name": "Afroze",
+      "slug": "afroze",
+      "meaning": "Pure, Precious Gem",
+      "origin": "Arabic",
+      "language": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Afroze",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Pure, Precious Gem",
+      "long_meaning": "The name Afroze is recorded with the meaning “Pure, Precious Gem”. Afroze is a Arabic name meaning “Pure, Precious Gem”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Afroze",
+          "meaning": "Pure, Precious Gem",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "ah-FROHZ",
+        "ipa": "/ɑːfroʊz/"
+      },
+      "syllables": 2,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Afroze mean?",
+          "a": "Name-lists record the meaning as “Pure, Precious Gem”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Afroze verified?",
+          "a": "No. The meaning of Afroze could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Afroze come from?",
+          "a": "The origin of Afroze has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 8,
+        "life_path_number": 8,
+        "ruling_planet": "Saturn",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Blue Sapphire",
+        "lucky_colors": [
+          "Blue",
+          "Black"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Afroze total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:25.000Z"
+    }
   }
- }
 }

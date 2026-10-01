@@ -1,509 +1,348 @@
 {
- "success": true,
- "data": {
-  "name": "Alicio",
-  "slug": "alicio",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Alicio is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Defender of the people",
-  "long_meaning": "The name Alicio is recorded with the meaning “Defender of the people”. Alicio is a Biblical name meaning “Defender of the people”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Alicio expresses “Defender of the people”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Alicio is recorded with the meaning “Defender of the people”. Alicio is a Biblical name meaning “Defender of the people”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "a-l-i-c-i-o",
-  "syllables": 3,
-  "name_length": 6,
-  "transliteration": [
-   "Alicio"
-  ],
-  "lucky_number": 4,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Grey",
-   "Blue"
-  ],
-  "lucky_stone": "Hessonite",
-  "ruling_planet": "Rahu",
-  "life_path_number": 4,
-  "numerology_meaning": "In Pythagorean numerology the letters of Alicio total 31, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-  "in_hebrew": {
-   "name": "אליציו",
-   "meaning": "אליציו הוא שם שפירושו האל הוא ישועתי",
-   "long_meaning": "אליציו הוא שם שמקורו בשורשים עבריים ופירושו 'האל הוא ישועתי' או 'אלוהים הוא ישועתי'. השם אליציו נגזר מהמילים העבריות 'אל' שפירושו אלוהים ו'יצו' שפירושו ישועתי. השם מופיע בשינויים שונים בכתבי הקודש ומשמש כזכר לחסדו וישועתו של האל."
-  },
-  "in_greek": {
-   "name": "Αλίτσιος",
-   "meaning": "Αλίτσιος σημαίνει Ο Θεός είναι η σωτηρία μου",
-   "long_meaning": "Το όνομα Αλίτσιος προέρχεται από τις ελληνικές ρίζες και σημαίνει 'Ο Θεός είναι η σωτηρία μου' ή 'Ο Θεός είναι ο σωτήρας μου'. Στην Καινή Διαθήκη, παρόμοια ονόματα συνδέονται με τη σχέση μεταξύ του ανθρώπου και του Θεού, εκφράζοντας την πίστη και την εμπιστοσύνη στο Θεό ως τον μοναδικό σωτήρα."
-  },
-  "in_latin": {
-   "name": "Alicio",
-   "meaning": "Alicio means God is my salvation",
-   "long_meaning": "The name Alicio originates from Latin roots and translates to 'God is my salvation'. Historically, names with similar roots were used in early Christian communities to express devotion and faith in God as the savior. The name Alicio symbolizes a deep spiritual connection and reliance on divine salvation."
-  },
-  "in_english": {
-   "name": "Alicio",
-   "meaning": "Defender of the people",
-   "long_meaning": "The name Alicio is recorded with the meaning “Defender of the people”. Alicio is a Biblical name meaning “Defender of the people”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "ah-LEE-see-oh",
-   "ipa": "/ˌɑːliːsiːoʊ/"
-  },
-  "name_variations": [
-   "Alicio"
-  ],
-  "variants": [
-   "Alicio"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Alicio is used in Biblical naming tradition with the meaning “Defender of the people”.",
-  "spiritual_significance": "Any spiritual significance attached to Alicio is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Defender of the people” is the basis of any symbolism attached to Alicio; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Alicio."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AlicioMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Alicio"
-  ],
-  "monetization": {
-   "ad_places": [
-    {
-     "location": "before_content",
-     "type": "image_ad"
-    },
-    {
-     "location": "after_content",
-     "type": "text_ad"
-    }
-   ],
-   "affiliate_links": [
-    {
-     "product": "Baby books",
-     "url": "https://example.com/babybooks",
-     "text": "Explore our selection of baby books to learn more about the meaning and significance of your baby's name."
-    },
-    {
-     "product": "Personalized baby items",
-     "url": "https://example.com/babyitems",
-     "text": "Create personalized baby items with your baby's name to make their first moments special."
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Alicio Name Meaning – Defender of the people (Biblical)",
-   "meta_description": "Alicio is a Biblical name meaning “Defender of the people”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Alicio, Alicio name meaning, Alicio meaning, Alicio origin, Alicio root, Alicio pronunciation, Biblical names",
-   "description_paragraph": "Alicio is a Biblical name meaning “Defender of the people”.",
-   "keywords": [
-    "Alicio",
-    "Alicio name meaning",
-    "Alicio meaning",
-    "Alicio origin",
-    "Alicio root",
-    "Alicio pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Alicio name meaning",
-   "secondary_keywords": [
-    "Alicio meaning",
-    "Alicio origin",
-    "Alicio pronunciation",
-    "Alicio lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/alicio",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the origin of the name Alicio?",
-     "a": "Alicio is of Biblical origin."
-    },
-    {
-     "q": "Is Alicio a male name?",
-     "a": "Alicio is used as a male name."
-    },
-    {
-     "q": "How many syllables does Alicio have?",
-     "a": "Alicio has 3 syllables."
-    },
-    {
-     "q": "How is Alicio pronounced?",
-     "a": "Alicio is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Alicio?",
-     "a": "Any spiritual significance attached to Alicio is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Alicio?",
-     "a": "Variant spellings of Alicio are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Alicio a common name?",
-     "a": "Popularity figures for Alicio have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Alicio say about a child?",
-     "a": "The name Alicio expresses “Defender of the people”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Alicio be used in another language?",
-     "a": "Alicio is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Alicio mentioned in scripture?",
-     "a": "No scriptural reference for Alicio has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Alicio?",
-     "a": "The Pythagorean lucky number for Alicio is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Alicio?",
-     "a": "Saturday is the traditional association for Alicio. This is interpretive."
-    }
-   ]
-  },
-  "seo_title": "Alicio Name Meaning – Defender of the people (Biblical)",
-  "meta_description": "Alicio is a Biblical name meaning “Defender of the people”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Alicio",
-   "Alicio name meaning",
-   "Alicio meaning",
-   "Alicio origin",
-   "Alicio root",
-   "Alicio pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/alicio",
-  "intro_paragraph": "Alicio is a Biblical name meaning “Defender of the people”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Alicio",
-   "description": "Alicio — Defender of the people",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Alicio?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Alicio is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Alicio a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Alicio is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Alicio have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Alicio has 3 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Alicio pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Alicio is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Alicio?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Alicio is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Alicio?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Alicio are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Alicio a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Alicio have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Alicio say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Alicio expresses “Defender of the people”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Alicio be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Alicio is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Alicio mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Alicio has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Alicio?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Alicio is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Alicio?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Saturday is the traditional association for Alicio. This is interpretive."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Alicio",
-     "item": "https://namemeaning.example/name/alicio"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 56,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Alicio",
-   "slug": "alicio",
-   "meaning": "Defender of the people",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Alicio",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Defender of the people",
-   "long_meaning": "The name Alicio is recorded with the meaning “Defender of the people”. Alicio is a Biblical name meaning “Defender of the people”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Alicio",
-     "meaning": "Defender of the people",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "ah-LEE-see-oh",
-    "ipa": "/ˌɑːliːsiːoʊ/"
-   },
-   "syllables": 3,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "What is the origin of the name Alicio?",
-     "a": "Alicio is of Biblical origin."
-    },
-    {
-     "q": "Is Alicio a male name?",
-     "a": "Alicio is used as a male name."
-    },
-    {
-     "q": "How many syllables does Alicio have?",
-     "a": "Alicio has 3 syllables."
-    },
-    {
-     "q": "How is Alicio pronounced?",
-     "a": "Alicio is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Alicio?",
-     "a": "Any spiritual significance attached to Alicio is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Alicio?",
-     "a": "Variant spellings of Alicio are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Alicio a common name?",
-     "a": "Popularity figures for Alicio have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Alicio say about a child?",
-     "a": "The name Alicio expresses “Defender of the people”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Alicio be used in another language?",
-     "a": "Alicio is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Alicio mentioned in scripture?",
-     "a": "No scriptural reference for Alicio has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Alicio?",
-     "a": "The Pythagorean lucky number for Alicio is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Alicio?",
-     "a": "Saturday is the traditional association for Alicio. This is interpretive."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 4,
-    "life_path_number": 4,
-    "ruling_planet": "Rahu",
-    "lucky_day": "Saturday",
-    "lucky_stone": "Hessonite",
-    "lucky_colors": [
-     "Grey",
-     "Blue"
+  "success": true,
+  "data": {
+    "name": "Alicio",
+    "slug": "alicio",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Alicio total 31, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Alicio is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Defender of the people",
+    "long_meaning": "The meaning of Alicio is recorded in name-lists as “Defender of the people”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Alicio expresses “Defender of the people”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "a-l-i-c-i-o",
+    "syllables": 3,
+    "name_length": 6,
+    "transliteration": [
+      "Alicio"
+    ],
+    "lucky_number": 4,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Grey",
+      "Blue"
+    ],
+    "lucky_stone": "Hessonite",
+    "ruling_planet": "Rahu",
+    "life_path_number": 4,
+    "numerology_meaning": "In Pythagorean numerology the letters of Alicio total 31, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
+    "in_hebrew": {
+      "name": "אליציו",
+      "meaning": "אליציו הוא שם שפירושו האל הוא ישועתי",
+      "long_meaning": "אליציו הוא שם שמקורו בשורשים עבריים ופירושו 'האל הוא ישועתי' או 'אלוהים הוא ישועתי'. השם אליציו נגזר מהמילים העבריות 'אל' שפירושו אלוהים ו'יצו' שפירושו ישועתי. השם מופיע בשינויים שונים בכתבי הקודש ומשמש כזכר לחסדו וישועתו של האל."
+    },
+    "in_greek": {
+      "name": "Αλίτσιος",
+      "meaning": "Αλίτσιος σημαίνει Ο Θεός είναι η σωτηρία μου",
+      "long_meaning": "Το όνομα Αλίτσιος προέρχεται από τις ελληνικές ρίζες και σημαίνει 'Ο Θεός είναι η σωτηρία μου' ή 'Ο Θεός είναι ο σωτήρας μου'. Στην Καινή Διαθήκη, παρόμοια ονόματα συνδέονται με τη σχέση μεταξύ του ανθρώπου και του Θεού, εκφράζοντας την πίστη και την εμπιστοσύνη στο Θεό ως τον μοναδικό σωτήρα."
+    },
+    "in_latin": {
+      "name": "Alicio",
+      "meaning": "Alicio means God is my salvation",
+      "long_meaning": "The name Alicio originates from Latin roots and translates to 'God is my salvation'. Historically, names with similar roots were used in early Christian communities to express devotion and faith in God as the savior. The name Alicio symbolizes a deep spiritual connection and reliance on divine salvation."
+    },
+    "in_english": {
+      "name": "Alicio",
+      "meaning": "Defender of the people",
+      "long_meaning": "Defender of the people"
+    },
+    "pronunciation": {
+      "english": "ah-LEE-see-oh",
+      "ipa": "/ˌɑːliːsiːoʊ/"
+    },
+    "name_variations": [
+      "Alicio"
+    ],
+    "variants": [
+      "Alicio"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Alicio is used in Biblical naming tradition with the meaning “Defender of the people”.",
+    "spiritual_significance": "Any spiritual significance attached to Alicio is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Defender of the people” is the basis of any symbolism attached to Alicio; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Alicio."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AlicioMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Alicio"
+    ],
+    "monetization": {
+      "ad_places": [
+        {
+          "location": "before_content",
+          "type": "image_ad"
+        },
+        {
+          "location": "after_content",
+          "type": "text_ad"
+        }
+      ],
+      "affiliate_links": [
+        {
+          "product": "Baby books",
+          "url": "https://example.com/babybooks",
+          "text": "Explore our selection of baby books to learn more about the meaning and significance of your baby's name."
+        },
+        {
+          "product": "Personalized baby items",
+          "url": "https://example.com/babyitems",
+          "text": "Create personalized baby items with your baby's name to make their first moments special."
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Alicio Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Alicio has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Alicio, Alicio name meaning, Alicio meaning, Alicio origin, Alicio root, Alicio pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Alicio has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Alicio",
+        "Alicio name meaning",
+        "Alicio meaning",
+        "Alicio origin",
+        "Alicio root",
+        "Alicio pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Alicio name meaning",
+      "secondary_keywords": [
+        "Alicio meaning",
+        "Alicio origin",
+        "Alicio pronunciation",
+        "Alicio lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Alicio mean?",
+          "a": "Name-lists record the meaning as “Defender of the people”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Alicio verified?",
+          "a": "No. The meaning of Alicio could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Alicio come from?",
+          "a": "The origin of Alicio has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Alicio Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Alicio has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Alicio",
+      "Alicio name meaning",
+      "Alicio meaning",
+      "Alicio origin",
+      "Alicio root",
+      "Alicio pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Alicio has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Alicio",
+      "description": "Alicio — Defender of the people",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Alicio mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Defender of the people”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Alicio verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Alicio could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Alicio come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Alicio has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 56,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:04:59.000Z",
+    "tier1_verified": {
+      "name": "Alicio",
+      "slug": "alicio",
+      "meaning": "Defender of the people",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Alicio",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Defender of the people",
+      "long_meaning": "The name Alicio is recorded with the meaning “Defender of the people”. Alicio is a Biblical name meaning “Defender of the people”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Alicio",
+          "meaning": "Defender of the people",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "ah-LEE-see-oh",
+        "ipa": "/ˌɑːliːsiːoʊ/"
+      },
+      "syllables": 3,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Alicio mean?",
+          "a": "Name-lists record the meaning as “Defender of the people”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Alicio verified?",
+          "a": "No. The meaning of Alicio could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Alicio come from?",
+          "a": "The origin of Alicio has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 4,
+        "life_path_number": 4,
+        "ruling_planet": "Rahu",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Hessonite",
+        "lucky_colors": [
+          "Grey",
+          "Blue"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Alicio total 31, reducing to 4. Number 4 is associated with discipline, order and steady effort."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:59.000Z"
+    }
   }
- }
 }

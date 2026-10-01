@@ -1,501 +1,340 @@
 {
- "success": true,
- "data": {
-  "name": "Christabella",
-  "slug": "christabella",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Christabella is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Christ-bearer",
-  "long_meaning": "The name Christabella is recorded with the meaning “Christ-bearer”. Christabella is a Biblical name meaning “Christ-bearer”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Christabella expresses “Christ-bearer”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Christabella is recorded with the meaning “Christ-bearer”. Christabella is a Biblical name meaning “Christ-bearer”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "c-h-r-i-s-t-a-b-e-l-l-a",
-  "syllables": 4,
-  "name_length": 12,
-  "transliteration": [
-   "Christabella"
-  ],
-  "lucky_number": 2,
-  "lucky_day": "Monday",
-  "lucky_colors": [
-   "White",
-   "Silver"
-  ],
-  "lucky_stone": "Pearl",
-  "ruling_planet": "Moon",
-  "life_path_number": 2,
-  "numerology_meaning": "In Pythagorean numerology the letters of Christabella total 47, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
-  "in_hebrew": {
-   "name": "כריסטבלה",
-   "meaning": "כריסטוס בלה - המשיח שלי",
-   "long_meaning": "כריסטבלה הוא שם נוצרי המשלב את השם 'כריסטוס' (המשיח) עם הסופית '-בלה' (יפה, יבוא מן השם היווני בללה). הוא מתורגם לאנגלית כ- 'Christabella', ומשמעותו היא 'יפה של המשיח' או 'המשיח שלי יפה'. השם מופיע במסורת הנוצרית כהרכבה של אלמנטים יווניים ולטיניים, ומשמש כזכרון לתפארת המשיח."
-  },
-  "in_greek": {
-   "name": "Χρισταβέλα",
-   "meaning": "Χριστός (Christos) + Βέλα (Bella) - Ωραία του Χριστού",
-   "long_meaning": "Το όνομα Χρισταβέλα προέρχεται από την ένωση του Χριστός (Christos, που σημαίνει 'ο χρισμένος' ή 'ο μεσσίας') με το Βέλα (Bella, που σημαίνει 'ωραία' ή 'όμορφη'). Στην παράδοση της Εκκλησίας, το όνομα Χρισταβέλα συμβολίζει την ομορφιά και την χάρη που προέρχεται από τον Χριστό. Είναι ένα όνομα που αντικατοπτρίζει την πνευματική σχέση μεταξύ του πιστού και του Κυρίου."
-  },
-  "in_latin": {
-   "name": "Christabella",
-   "meaning": "Christus (Christ) + Bella (beautiful) - Beautiful Christ",
-   "long_meaning": "The name Christabella is derived from the Latin words 'Christus' (meaning 'anointed one' or 'Messiah') and 'Bella' (meaning 'beautiful'). It signifies the beauty of Christ or the beautiful gift of Christ. Historically, the name reflects the early Christian practice of combining significant theological terms to create meaningful names."
-  },
-  "in_english": {
-   "name": "Christabella",
-   "meaning": "Christ-bearer",
-   "long_meaning": "The name Christabella is recorded with the meaning “Christ-bearer”. Christabella is a Biblical name meaning “Christ-bearer”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "kris-tah-BEL-uh",
-   "ipa": "/krɪstəˈbɛlə/"
-  },
-  "name_variations": [
-   "Christabella"
-  ],
-  "variants": [
-   "Christabella"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Christabella is used in Biblical naming tradition with the meaning “Christ-bearer”.",
-  "spiritual_significance": "Any spiritual significance attached to Christabella is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Christ-bearer” is the basis of any symbolism attached to Christabella; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": "The name Christabella is not directly mentioned in the Bible but is derived from biblical and theological roots."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Christabella."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#ChristabellaMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Christabella"
-  ],
-  "monetization": {
-   "affiliate_links": [
-    "https://example.com/christian-baby-names",
-    "https://example.com/meaning-of-names"
-   ],
-   "google_ads": [
-    {
-     "publisher_id": "ca-pub-12345678901234",
-     "slot": "/300x250_aside"
-    },
-    {
-     "publisher_id": "ca-pub-12345678901234",
-     "slot": "/728x90_header"
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Christabella Name Meaning – Christ-bearer (Biblical)",
-   "meta_description": "Christabella is a Biblical name meaning “Christ-bearer”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Christabella, Christabella name meaning, Christabella meaning, Christabella origin, Christabella root, Christabella pronunciation, Biblical names",
-   "description_paragraph": "Christabella is a Biblical name meaning “Christ-bearer”.",
-   "keywords": [
-    "Christabella",
-    "Christabella name meaning",
-    "Christabella meaning",
-    "Christabella origin",
-    "Christabella root",
-    "Christabella pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Christabella name meaning",
-   "secondary_keywords": [
-    "Christabella meaning",
-    "Christabella origin",
-    "Christabella pronunciation",
-    "Christabella lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/christabella",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What does the name Christabella mean?",
-     "a": "Christabella means “Christ-bearer”."
-    },
-    {
-     "q": "What is the origin of the name Christabella?",
-     "a": "Christabella is of Biblical origin."
-    },
-    {
-     "q": "Is Christabella a unisex name?",
-     "a": "Christabella is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Christabella have?",
-     "a": "Christabella has 4 syllables."
-    },
-    {
-     "q": "How is Christabella pronounced?",
-     "a": "Christabella is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Christabella?",
-     "a": "Any spiritual significance attached to Christabella is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Christabella?",
-     "a": "Variant spellings of Christabella are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Christabella a common name?",
-     "a": "Popularity figures for Christabella have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Christabella say about a child?",
-     "a": "The name Christabella expresses “Christ-bearer”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Christabella be used in another language?",
-     "a": "Christabella is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Christabella mentioned in scripture?",
-     "a": "No scriptural reference for Christabella has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Christabella?",
-     "a": "The Pythagorean lucky number for Christabella is 2 (ruling planet Moon). This is an interpretive association, not a factual claim."
-    }
-   ]
-  },
-  "seo_title": "Christabella Name Meaning – Christ-bearer (Biblical)",
-  "meta_description": "Christabella is a Biblical name meaning “Christ-bearer”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Christabella",
-   "Christabella name meaning",
-   "Christabella meaning",
-   "Christabella origin",
-   "Christabella root",
-   "Christabella pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/christabella",
-  "intro_paragraph": "Christabella is a Biblical name meaning “Christ-bearer”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Christabella",
-   "description": "Christabella — Christ-bearer",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What does the name Christabella mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Christabella means “Christ-bearer”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Christabella?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Christabella is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Christabella a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Christabella is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Christabella have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Christabella has 4 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Christabella pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Christabella is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Christabella?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Christabella is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Christabella?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Christabella are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Christabella a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Christabella have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Christabella say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Christabella expresses “Christ-bearer”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Christabella be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Christabella is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Christabella mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Christabella has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Christabella?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Christabella is 2 (ruling planet Moon). This is an interpretive association, not a factual claim."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Christabella",
-     "item": "https://namemeaning.example/name/christabella"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 50,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Christabella",
-   "slug": "christabella",
-   "meaning": "Christ-bearer",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Christabella",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Christ-bearer",
-   "long_meaning": "The name Christabella is recorded with the meaning “Christ-bearer”. Christabella is a Biblical name meaning “Christ-bearer”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Christabella",
-     "meaning": "Christ-bearer",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "kris-tah-BEL-uh",
-    "ipa": "/krɪstəˈbɛlə/"
-   },
-   "syllables": 4,
-   "name_length": 12,
-   "faqs": [
-    {
-     "q": "What does the name Christabella mean?",
-     "a": "Christabella means “Christ-bearer”."
-    },
-    {
-     "q": "What is the origin of the name Christabella?",
-     "a": "Christabella is of Biblical origin."
-    },
-    {
-     "q": "Is Christabella a unisex name?",
-     "a": "Christabella is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Christabella have?",
-     "a": "Christabella has 4 syllables."
-    },
-    {
-     "q": "How is Christabella pronounced?",
-     "a": "Christabella is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Christabella?",
-     "a": "Any spiritual significance attached to Christabella is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Christabella?",
-     "a": "Variant spellings of Christabella are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Christabella a common name?",
-     "a": "Popularity figures for Christabella have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Christabella say about a child?",
-     "a": "The name Christabella expresses “Christ-bearer”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Christabella be used in another language?",
-     "a": "Christabella is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Christabella mentioned in scripture?",
-     "a": "No scriptural reference for Christabella has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Christabella?",
-     "a": "The Pythagorean lucky number for Christabella is 2 (ruling planet Moon). This is an interpretive association, not a factual claim."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 2,
-    "life_path_number": 2,
-    "ruling_planet": "Moon",
-    "lucky_day": "Monday",
-    "lucky_stone": "Pearl",
-    "lucky_colors": [
-     "White",
-     "Silver"
+  "success": true,
+  "data": {
+    "name": "Christabella",
+    "slug": "christabella",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Christabella total 47, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Christabella is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Christ-bearer",
+    "long_meaning": "The meaning of Christabella is recorded in name-lists as “Christ-bearer”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Christabella expresses “Christ-bearer”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "c-h-r-i-s-t-a-b-e-l-l-a",
+    "syllables": 4,
+    "name_length": 12,
+    "transliteration": [
+      "Christabella"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "White",
+      "Silver"
+    ],
+    "lucky_stone": "Pearl",
+    "ruling_planet": "Moon",
+    "life_path_number": 2,
+    "numerology_meaning": "In Pythagorean numerology the letters of Christabella total 47, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
+    "in_hebrew": {
+      "name": "כריסטבלה",
+      "meaning": "כריסטוס בלה - המשיח שלי",
+      "long_meaning": "כריסטבלה הוא שם נוצרי המשלב את השם 'כריסטוס' (המשיח) עם הסופית '-בלה' (יפה, יבוא מן השם היווני בללה). הוא מתורגם לאנגלית כ- 'Christabella', ומשמעותו היא 'יפה של המשיח' או 'המשיח שלי יפה'. השם מופיע במסורת הנוצרית כהרכבה של אלמנטים יווניים ולטיניים, ומשמש כזכרון לתפארת המשיח."
+    },
+    "in_greek": {
+      "name": "Χρισταβέλα",
+      "meaning": "Χριστός (Christos) + Βέλα (Bella) - Ωραία του Χριστού",
+      "long_meaning": "Το όνομα Χρισταβέλα προέρχεται από την ένωση του Χριστός (Christos, που σημαίνει 'ο χρισμένος' ή 'ο μεσσίας') με το Βέλα (Bella, που σημαίνει 'ωραία' ή 'όμορφη'). Στην παράδοση της Εκκλησίας, το όνομα Χρισταβέλα συμβολίζει την ομορφιά και την χάρη που προέρχεται από τον Χριστό. Είναι ένα όνομα που αντικατοπτρίζει την πνευματική σχέση μεταξύ του πιστού και του Κυρίου."
+    },
+    "in_latin": {
+      "name": "Christabella",
+      "meaning": "Christus (Christ) + Bella (beautiful) - Beautiful Christ",
+      "long_meaning": "The name Christabella is derived from the Latin words 'Christus' (meaning 'anointed one' or 'Messiah') and 'Bella' (meaning 'beautiful'). It signifies the beauty of Christ or the beautiful gift of Christ. Historically, the name reflects the early Christian practice of combining significant theological terms to create meaningful names."
+    },
+    "in_english": {
+      "name": "Christabella",
+      "meaning": "Christ-bearer",
+      "long_meaning": "Christ-bearer"
+    },
+    "pronunciation": {
+      "english": "kris-tah-BEL-uh",
+      "ipa": "/krɪstəˈbɛlə/"
+    },
+    "name_variations": [
+      "Christabella"
+    ],
+    "variants": [
+      "Christabella"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Christabella is used in Biblical naming tradition with the meaning “Christ-bearer”.",
+    "spiritual_significance": "Any spiritual significance attached to Christabella is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Christ-bearer” is the basis of any symbolism attached to Christabella; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": "The name Christabella is not directly mentioned in the Bible but is derived from biblical and theological roots."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Christabella."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#ChristabellaMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Christabella"
+    ],
+    "monetization": {
+      "affiliate_links": [
+        "https://example.com/christian-baby-names",
+        "https://example.com/meaning-of-names"
+      ],
+      "google_ads": [
+        {
+          "publisher_id": "ca-pub-12345678901234",
+          "slot": "/300x250_aside"
+        },
+        {
+          "publisher_id": "ca-pub-12345678901234",
+          "slot": "/728x90_header"
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Christabella Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Christabella has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Christabella, Christabella name meaning, Christabella meaning, Christabella origin, Christabella root, Christabella pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Christabella has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Christabella",
+        "Christabella name meaning",
+        "Christabella meaning",
+        "Christabella origin",
+        "Christabella root",
+        "Christabella pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Christabella name meaning",
+      "secondary_keywords": [
+        "Christabella meaning",
+        "Christabella origin",
+        "Christabella pronunciation",
+        "Christabella lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Christabella mean?",
+          "a": "Name-lists record the meaning as “Christ-bearer”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Christabella verified?",
+          "a": "No. The meaning of Christabella could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Christabella come from?",
+          "a": "The origin of Christabella has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Christabella Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Christabella has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Christabella",
+      "Christabella name meaning",
+      "Christabella meaning",
+      "Christabella origin",
+      "Christabella root",
+      "Christabella pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Christabella has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Christabella",
+      "description": "Christabella — Christ-bearer",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Christabella mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Christ-bearer”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Christabella verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Christabella could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Christabella come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Christabella has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 50,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:07:32.000Z",
+    "tier1_verified": {
+      "name": "Christabella",
+      "slug": "christabella",
+      "meaning": "Christ-bearer",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Christabella",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Christ-bearer",
+      "long_meaning": "The name Christabella is recorded with the meaning “Christ-bearer”. Christabella is a Biblical name meaning “Christ-bearer”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Christabella",
+          "meaning": "Christ-bearer",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "kris-tah-BEL-uh",
+        "ipa": "/krɪstəˈbɛlə/"
+      },
+      "syllables": 4,
+      "name_length": 12,
+      "faqs": [
+        {
+          "q": "What does the name Christabella mean?",
+          "a": "Name-lists record the meaning as “Christ-bearer”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Christabella verified?",
+          "a": "No. The meaning of Christabella could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Christabella come from?",
+          "a": "The origin of Christabella has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 2,
+        "life_path_number": 2,
+        "ruling_planet": "Moon",
+        "lucky_day": "Monday",
+        "lucky_stone": "Pearl",
+        "lucky_colors": [
+          "White",
+          "Silver"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Christabella total 47, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:07:32.000Z"
+    }
   }
- }
 }

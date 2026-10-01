@@ -1,549 +1,388 @@
 {
- "success": true,
- "data": {
-  "name": "Ahvaz",
-  "slug": "ahvaz",
-  "language": [
-   "Arabic",
-   "Urdu",
-   "Persian",
-   "Pashto"
-  ],
-  "gender": "Male",
-  "gender_notes": "Ahvaz is used as a male name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "From Ahvaz city",
-  "long_meaning": "The name Ahvaz is recorded with the meaning “From Ahvaz city”. Ahvaz is a Arabic name meaning “From Ahvaz city”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Ahvaz expresses “From Ahvaz city”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Ahvaz is recorded with the meaning “From Ahvaz city”. Ahvaz is a Arabic name meaning “From Ahvaz city”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-h-v-a-z",
-  "syllables": 2,
-  "name_length": 5,
-  "transliteration": [
-   "Ahvaz"
-  ],
-  "lucky_number": 4,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Grey",
-   "Blue"
-  ],
-  "lucky_stone": "Hessonite",
-  "ruling_planet": "Rahu",
-  "life_path_number": 4,
-  "numerology_meaning": "In Pythagorean numerology the letters of Ahvaz total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-  "in_arabic": {
-   "name": "أحواز",
-   "meaning": "النسبة إلى مدينة الأحواز في جنوب العراق",
-   "long_meaning": "الاسم الأحواز مأخوذ من مدينة الأحواز في جنوب العراق، ويُعتبر من أشهر المدن في العراق، ويُقال إنه كان مركزًا للقضاء في العصر العباسي، ويُعتبر من أهم المدن في تاريخ العراق، ويُحتفظ بهذه المدينة في القرآن الكريم في سورة الأحزاب آية 20، والأحواز اسم مأخوذ من اللغة العربية، ويعني النسبة إلى مكان ما، ويُستخدم في الإسلام كمسمى للقبائل أو للمناطق، ويُعتبر من أسماء الله الحسنى، ويعني العفو والرحمة، ويُعتبر من أهم أسماء الله في الإسلام، ويُستخدم في التسمية لصالح الأطفال، ويُعتبر من أهم التسميات في الإسلام"
-  },
-  "in_urdu": {
-   "name": "احواز",
-   "meaning": "عراق کی شہر احواز سے تعلق رکھنے والا",
-   "long_meaning": "احواز نام عربي زبان کا ہے، اور یہ عراق کی شہر احواز سے تعلق رکھتا ہے، یہ شہر عراق کے جنوب میں واقع ہے، اور یہ شہر تاریخ میں ایک اہم مقام رکھتا ہے، اور یہ شہر عباسی خلافت کے عہد میں ایک مرکز للقضاء تھا، اور یہ شہر سورة الأحزاب میں ذکر ہوا ہے، اور یہ نام اسلام میں مولیٰ کے لیے استعمال ہوتا ہے، اور یہ نام عفو و رحم کی علامت ہے، اور یہ نام ایک اہم نام ہے جو اسلام میں استعمال ہوتا ہے، اور یہ نام پاکستان اور بھارت میں مسلمانوں میں مقبول ہے"
-  },
-  "in_hindi": {
-   "name": "अहवाज",
-   "meaning": "दक्षिणी इराक के शहर अहमवाज से संबंधित",
-   "long_meaning": "अहवाज नाम अरबी भाषा का है, जिसका अर्थ है दक्षिणी इराक के शहर अहमवाज का संबंधित, यह शहर इराक के दक्षिण में स्थित है, जो एक ऐतिहासिक महत्व वाला स्थान है, जो उस समय का केंद्र था, जिस समय अरबों ने इसपर कब्जा किया था, आज भी यह शहर इराक का एक महत्वपूर्ण शहर है, यह शहर कुरान में सूरह अहजाब में वर्णित है, और यह नाम अरबी भाषा का एक शब्द है, जो किसी स्थान का संबंधित होता है, इस नाम का प्रयोग मुसलमान बच्चों के नामकरण में किया जाता है, और यह नाम मुस्लिम परंपरा में एक महत्वपूर्ण नाम है, जो एक मुल्ला या एक धर्मगुरु के लिए उपयुक्त होता है, और यह नाम एक पवित्र नाम है, जिसका अर्थ है माफी और क्षमा करने वाला"
-  },
-  "in_pashto": {
-   "name": "احواز",
-   "meaning": "د جنوبي عراق ښار احواز له تړاو",
-   "long_meaning": "احواز نوم عربي زبانه، د جنوبي عراق ښار احواز له تړاو، دا ښار د عراق جنوبي کې موقع لري، هغه د تاريخ په پلو کې يو لوي ښار و، د عباسي خلافت په وخت کې يې يو مرکز له قضاء و، د قرآن په سوره احزاب کې يې اشاره کړې، دا نوم د اسلام په مسلمو کې د محترمې په توګه کارول کېږي، دا نوم د عفو او رحمتونو لامل دی، دا د اسلام په مسلمو کې يو لوی نوم دی، دا نوم د پاکستان او هند کې د مسلمو په ميړني کې مشهور دی"
-  },
-  "in_english": {
-   "name": "Ahvaz",
-   "meaning": "From Ahvaz city",
-   "long_meaning": "The name Ahvaz is recorded with the meaning “From Ahvaz city”. Ahvaz is a Arabic name meaning “From Ahvaz city”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "/ˈɑː.vəz/",
-   "urdu": "احواز",
-   "hindi": "अहवाज",
-   "pashto": "احواز",
-   "ipa": "/ˈɑː.vəz/"
-  },
-  "name_variations": [
-   "Ahvaz"
-  ],
-  "variants": [
-   "Ahvaz"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Ahvaz is used in Arabic naming tradition with the meaning “From Ahvaz city”.",
-  "spiritual_significance": "Any spiritual significance attached to Ahvaz is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “From Ahvaz city” is the basis of any symbolism attached to Ahvaz; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Ahvaz has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Ahvaz."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AhvazMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Ahvaz"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Ahvaz",
-     "description": "Discover the meaning of Ahvaz - \"From Ahvaz city\"",
-     "image": "/images/social/ahvaz-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Ahvaz - Name Meaning",
-     "description": "Learn about the beautiful name Ahvaz",
-     "image": "/images/social/ahvaz-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Ahvaz",
-     "description": "Name meaning: From Ahvaz city",
-     "image": "/images/social/ahvaz-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Ahvaz - Meaning: From Ahvaz city",
-    "email_subject": "Beautiful Name: Ahvaz"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Ahvaz with meaning From Ahvaz city",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Ahvaz Name Meaning – From Ahvaz city (Arabic)",
-   "meta_description": "Ahvaz is a Arabic name meaning “From Ahvaz city”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Ahvaz, Ahvaz name meaning, Ahvaz meaning, Ahvaz origin, Ahvaz root, Ahvaz pronunciation, Arabic names",
-   "description_paragraph": "Ahvaz is a Arabic name meaning “From Ahvaz city”.",
-   "keywords": [
-    "Ahvaz",
-    "Ahvaz name meaning",
-    "Ahvaz meaning",
-    "Ahvaz origin",
-    "Ahvaz root",
-    "Ahvaz pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Ahvaz name meaning",
-   "secondary_keywords": [
-    "Ahvaz meaning",
-    "Ahvaz origin",
-    "Ahvaz pronunciation",
-    "Ahvaz lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/ahvaz",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Can Ahvaz be used in another language?",
-     "a": "Ahvaz is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Ahvaz mentioned in scripture?",
-     "a": "No scriptural reference for Ahvaz has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Ahvaz?",
-     "a": "The Pythagorean lucky number for Ahvaz is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Ahvaz?",
-     "a": "Saturday is the traditional association for Ahvaz. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Ahvaz?",
-     "a": "Hessonite is the traditional association for Ahvaz. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Ahvaz?",
-     "a": "Grey, Blue are the traditional associations for Ahvaz. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Ahvaz?",
-     "a": "In Pythagorean numerology the letters of Ahvaz total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-    },
-    {
-     "q": "How reliable is the meaning given for Ahvaz?",
-     "a": "The meaning of Ahvaz carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Ahvaz have a religious meaning?",
-     "a": "Ahvaz is recorded as a islamic name meaning “From Ahvaz city”."
-    },
-    {
-     "q": "What is the English meaning of Ahvaz?",
-     "a": "In English, Ahvaz is rendered as “From Ahvaz city”."
-    },
-    {
-     "q": "Is Ahvaz suitable for a baby?",
-     "a": "Ahvaz is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Ahvaz?",
-     "a": "Ahvaz is the full recorded form; any short forms are listed in the nicknames field."
-    }
-   ]
-  },
-  "seo_title": "Ahvaz Name Meaning – From Ahvaz city (Arabic)",
-  "meta_description": "Ahvaz is a Arabic name meaning “From Ahvaz city”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Ahvaz",
-   "Ahvaz name meaning",
-   "Ahvaz meaning",
-   "Ahvaz origin",
-   "Ahvaz root",
-   "Ahvaz pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/ahvaz",
-  "intro_paragraph": "Ahvaz is a Arabic name meaning “From Ahvaz city”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Ahvaz",
-   "description": "Ahvaz — From Ahvaz city",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Can Ahvaz be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ahvaz is recorded in Arabic; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Ahvaz mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Ahvaz has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Ahvaz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Ahvaz is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Ahvaz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Saturday is the traditional association for Ahvaz. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Ahvaz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Hessonite is the traditional association for Ahvaz. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Ahvaz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Grey, Blue are the traditional associations for Ahvaz. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Ahvaz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Ahvaz total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Ahvaz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Ahvaz carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Ahvaz have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ahvaz is recorded as a islamic name meaning “From Ahvaz city”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Ahvaz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Ahvaz is rendered as “From Ahvaz city”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Ahvaz suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ahvaz is used as a male given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Ahvaz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ahvaz is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Ahvaz",
-     "item": "https://namemeaning.example/name/ahvaz"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-12-22T19:19:49.93Z",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Ahvaz",
-   "slug": "ahvaz",
-   "meaning": "From Ahvaz city",
-   "origin": "Arabic",
-   "language": [
-    "Arabic",
-    "Urdu",
-    "Persian",
-    "Pashto"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Ahvaz",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "From Ahvaz city",
-   "long_meaning": "The name Ahvaz is recorded with the meaning “From Ahvaz city”. Ahvaz is a Arabic name meaning “From Ahvaz city”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Ahvaz",
-     "meaning": "From Ahvaz city",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "/ˈɑː.vəz/",
-    "ipa": "/ˈɑː.vəz/"
-   },
-   "syllables": 2,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "Can Ahvaz be used in another language?",
-     "a": "Ahvaz is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Ahvaz mentioned in scripture?",
-     "a": "No scriptural reference for Ahvaz has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Ahvaz?",
-     "a": "The Pythagorean lucky number for Ahvaz is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Ahvaz?",
-     "a": "Saturday is the traditional association for Ahvaz. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Ahvaz?",
-     "a": "Hessonite is the traditional association for Ahvaz. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Ahvaz?",
-     "a": "Grey, Blue are the traditional associations for Ahvaz. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Ahvaz?",
-     "a": "In Pythagorean numerology the letters of Ahvaz total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-    },
-    {
-     "q": "How reliable is the meaning given for Ahvaz?",
-     "a": "The meaning of Ahvaz carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Ahvaz have a religious meaning?",
-     "a": "Ahvaz is recorded as a islamic name meaning “From Ahvaz city”."
-    },
-    {
-     "q": "What is the English meaning of Ahvaz?",
-     "a": "In English, Ahvaz is rendered as “From Ahvaz city”."
-    },
-    {
-     "q": "Is Ahvaz suitable for a baby?",
-     "a": "Ahvaz is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Ahvaz?",
-     "a": "Ahvaz is the full recorded form; any short forms are listed in the nicknames field."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 4,
-    "life_path_number": 4,
-    "ruling_planet": "Rahu",
-    "lucky_day": "Saturday",
-    "lucky_stone": "Hessonite",
-    "lucky_colors": [
-     "Grey",
-     "Blue"
+  "success": true,
+  "data": {
+    "name": "Ahvaz",
+    "slug": "ahvaz",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Ahvaz total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Ahvaz is used as a male name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "From Ahvaz city",
+    "long_meaning": "The meaning of Ahvaz is recorded in name-lists as “From Ahvaz city”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Ahvaz expresses “From Ahvaz city”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Arabic",
+    "root_letters": "a-h-v-a-z",
+    "syllables": 2,
+    "name_length": 5,
+    "transliteration": [
+      "Ahvaz"
+    ],
+    "lucky_number": 4,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Grey",
+      "Blue"
+    ],
+    "lucky_stone": "Hessonite",
+    "ruling_planet": "Rahu",
+    "life_path_number": 4,
+    "numerology_meaning": "In Pythagorean numerology the letters of Ahvaz total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
+    "in_arabic": {
+      "name": "أحواز",
+      "meaning": "From Ahvaz city",
+      "long_meaning": "From Ahvaz city"
+    },
+    "in_urdu": {
+      "name": "احواز",
+      "meaning": "From Ahvaz city",
+      "long_meaning": "From Ahvaz city"
+    },
+    "in_hindi": {
+      "name": "अहवाज",
+      "meaning": "From Ahvaz city",
+      "long_meaning": "From Ahvaz city"
+    },
+    "in_pashto": {
+      "name": "احواز",
+      "meaning": "From Ahvaz city",
+      "long_meaning": "From Ahvaz city"
+    },
+    "in_english": {
+      "name": "Ahvaz",
+      "meaning": "From Ahvaz city",
+      "long_meaning": "From Ahvaz city"
+    },
+    "pronunciation": {
+      "english": "/ˈɑː.vəz/",
+      "urdu": "احواز",
+      "hindi": "अहवाज",
+      "pashto": "احواز",
+      "ipa": "/ˈɑː.vəz/"
+    },
+    "name_variations": [
+      "Ahvaz"
+    ],
+    "variants": [
+      "Ahvaz"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Ahvaz is used in Arabic naming tradition with the meaning “From Ahvaz city”.",
+    "spiritual_significance": "Any spiritual significance attached to Ahvaz is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “From Ahvaz city” is the basis of any symbolism attached to Ahvaz; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "No Qur'anic reference for Ahvaz has been verified."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Ahvaz."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AhvazMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Ahvaz"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Ahvaz",
+          "description": "Discover the meaning of Ahvaz - \"From Ahvaz city\"",
+          "image": "/images/social/ahvaz-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Ahvaz - Name Meaning",
+          "description": "Learn about the beautiful name Ahvaz",
+          "image": "/images/social/ahvaz-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Ahvaz",
+          "description": "Name meaning: From Ahvaz city",
+          "image": "/images/social/ahvaz-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Ahvaz - Meaning: From Ahvaz city",
+        "email_subject": "Beautiful Name: Ahvaz"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Ahvaz with meaning From Ahvaz city",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Ahvaz Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Ahvaz has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Ahvaz, Ahvaz name meaning, Ahvaz meaning, Ahvaz origin, Ahvaz root, Ahvaz pronunciation, Arabic names",
+      "description_paragraph": "The meaning of Ahvaz has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Ahvaz",
+        "Ahvaz name meaning",
+        "Ahvaz meaning",
+        "Ahvaz origin",
+        "Ahvaz root",
+        "Ahvaz pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Ahvaz name meaning",
+      "secondary_keywords": [
+        "Ahvaz meaning",
+        "Ahvaz origin",
+        "Ahvaz pronunciation",
+        "Ahvaz lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Ahvaz mean?",
+          "a": "Name-lists record the meaning as “From Ahvaz city”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Ahvaz verified?",
+          "a": "No. The meaning of Ahvaz could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Ahvaz come from?",
+          "a": "The origin of Ahvaz has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Ahvaz Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Ahvaz has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Ahvaz",
+      "Ahvaz name meaning",
+      "Ahvaz meaning",
+      "Ahvaz origin",
+      "Ahvaz root",
+      "Ahvaz pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Ahvaz has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Ahvaz",
+      "description": "Ahvaz — From Ahvaz city",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Ahvaz mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “From Ahvaz city”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Ahvaz verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Ahvaz could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Ahvaz come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Ahvaz has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 70
+    },
+    "created_at": "2025-12-22T19:19:49.93Z",
+    "updated_at": "2026-10-01T04:04:28.000Z",
+    "tier1_verified": {
+      "name": "Ahvaz",
+      "slug": "ahvaz",
+      "meaning": "From Ahvaz city",
+      "origin": "Arabic",
+      "language": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Ahvaz",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "From Ahvaz city",
+      "long_meaning": "The name Ahvaz is recorded with the meaning “From Ahvaz city”. Ahvaz is a Arabic name meaning “From Ahvaz city”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Ahvaz",
+          "meaning": "From Ahvaz city",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "/ˈɑː.vəz/",
+        "ipa": "/ˈɑː.vəz/"
+      },
+      "syllables": 2,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Ahvaz mean?",
+          "a": "Name-lists record the meaning as “From Ahvaz city”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Ahvaz verified?",
+          "a": "No. The meaning of Ahvaz could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Ahvaz come from?",
+          "a": "The origin of Ahvaz has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 4,
+        "life_path_number": 4,
+        "ruling_planet": "Rahu",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Hessonite",
+        "lucky_colors": [
+          "Grey",
+          "Blue"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Ahvaz total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:28.000Z"
+    }
   }
- }
 }

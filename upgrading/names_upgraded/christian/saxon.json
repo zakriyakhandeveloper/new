@@ -1,497 +1,336 @@
 {
- "success": true,
- "data": {
-  "name": "Saxon",
-  "slug": "saxon",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Saxon is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Saxon: Old English, descendant of the Saxons",
-  "long_meaning": "The name Saxon is recorded with the meaning “Saxon: Old English, descendant of the Saxons”. Saxon is a Biblical name meaning “Saxon: Old English, descendant of the Saxons”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Saxon expresses “Saxon: Old English, descendant of the Saxons”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Saxon is recorded with the meaning “Saxon: Old English, descendant of the Saxons”. Saxon is a Biblical name meaning “Saxon: Old English, descendant of the Saxons”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "s-a-x-o-n",
-  "syllables": 2,
-  "name_length": 5,
-  "transliteration": [
-   "Saxon"
-  ],
-  "lucky_number": 1,
-  "lucky_day": "Sunday",
-  "lucky_colors": [
-   "Gold",
-   "Orange"
-  ],
-  "lucky_stone": "Ruby",
-  "ruling_planet": "Sun",
-  "life_path_number": 1,
-  "numerology_meaning": "In Pythagorean numerology the letters of Saxon total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
-  "in_hebrew": {
-   "name": "סקסון",
-   "meaning": "מקור שם נגזר משבט גרמני עתיק",
-   "long_meaning": "השם סקסון מקורו משבט גרמני עתיק ששכן באזור סקסוניה בגרמניה. השם נגזר מהמילה 'סאקס' שפירושה 'חרב' או 'פגיון', ומשמעותו 'אנשים של החרב' או 'לוחמים'. השם סקסון אינו מופיע ישירות בכתבי הקודש העבריים, אך הוא קשור לתולדות העמים הגרמאניים והשפעתם על התרבות האירופית הנוצרית."
-  },
-  "in_greek": {
-   "name": "Σάξων",
-   "meaning": "παράγεται από αρχαία Γερμανική φυλή",
-   "long_meaning": "Το όνομα Σάξων προέρχεται από την αρχαία Γερμανική φυλή Σαξώνες, που κατοικούσαν στην περιοχή της Σαξονίας στη Γερμανία. Η ετυμολογία του ονόματος συνδέεται με τη λέξη 'σάξ' που σημαίνει 'μαχαίρι' ή 'σπαθί', και το νόημα είναι 'άνθρωποι του μαχαιριού' ή 'πολεμιστές'. Αν και το όνομα Σάξων δεν αναφέρεται άμεσα στα Νεοδιαθηκονικά κείμενα, έχει σχέση με την ιστορία των Γερμανικών λαών και την επιρροή τους στο Ευρωπαϊκό πολιτισμό και την Χριστιανική παράδοση."
-  },
-  "in_latin": {
-   "name": "Saxon",
-   "meaning": "derived from ancient Germanic tribe",
-   "long_meaning": "The name Saxon originates from the ancient Germanic tribe known as the Saxons, who inhabited the region of Saxony in Germany. The etymology of the name is linked to the word 'sax' meaning 'knife' or 'dagger', and its meaning is 'people of the knife' or 'warriors'. Although the name Saxon does not appear directly in Christian scriptures, it is connected to the history of Germanic peoples and their influence on European culture and Christian tradition."
-  },
-  "in_english": {
-   "name": "Saxon",
-   "meaning": "Saxon: Old English, descendant of the Saxons",
-   "long_meaning": "The name Saxon is recorded with the meaning “Saxon: Old English, descendant of the Saxons”. Saxon is a Biblical name meaning “Saxon: Old English, descendant of the Saxons”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "SAK-sən",
-   "ipa": "/ˈsæksən/"
-  },
-  "name_variations": [
-   "Saxon"
-  ],
-  "variants": [
-   "Saxon"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Saxon is used in Biblical naming tradition with the meaning “Saxon: Old English, descendant of the Saxons”.",
-  "spiritual_significance": "Any spiritual significance attached to Saxon is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Saxon: Old English, descendant of the Saxons” is the basis of any symbolism attached to Saxon; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Saxon."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#SaxonMeaning",
-   "#ChristianBabyNames",
-   "#NonBiblicalNames",
-   "#GermanicNames",
-   "#Saxon"
-  ],
-  "monetization": {
-   "affiliate_links": [
-    {
-     "text": "Shop for Saxon merchandise and gifts",
-     "url": "https://example.com/saxon-merchandise"
-    }
-   ],
-   "donations": {
-    "text": "Support the creation and maintenance of this website",
-    "url": "https://example.com/donate"
-   }
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Saxon Name Meaning – Saxon: Old English, descendant of the Saxons (Biblical)",
-   "meta_description": "Saxon is a Biblical name meaning “Saxon: Old English, descendant of the Saxons”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Saxon, Saxon name meaning, Saxon meaning, Saxon origin, Saxon root, Saxon pronunciation, Biblical names",
-   "description_paragraph": "Saxon is a Biblical name meaning “Saxon: Old English, descendant of the Saxons”.",
-   "keywords": [
-    "Saxon",
-    "Saxon name meaning",
-    "Saxon meaning",
-    "Saxon origin",
-    "Saxon root",
-    "Saxon pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Saxon name meaning",
-   "secondary_keywords": [
-    "Saxon meaning",
-    "Saxon origin",
-    "Saxon pronunciation",
-    "Saxon lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/saxon",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the spiritual significance of Saxon?",
-     "a": "Any spiritual significance attached to Saxon is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Saxon?",
-     "a": "Variant spellings of Saxon are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Saxon a common name?",
-     "a": "Popularity figures for Saxon have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Saxon say about a child?",
-     "a": "The name Saxon expresses “Saxon: Old English, descendant of the Saxons”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Saxon be used in another language?",
-     "a": "Saxon is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Saxon mentioned in scripture?",
-     "a": "No scriptural reference for Saxon has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Saxon?",
-     "a": "The Pythagorean lucky number for Saxon is 1 (ruling planet Sun). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Saxon?",
-     "a": "Sunday is the traditional association for Saxon. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Saxon?",
-     "a": "Ruby is the traditional association for Saxon. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Saxon?",
-     "a": "Gold, Orange are the traditional associations for Saxon. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Saxon?",
-     "a": "In Pythagorean numerology the letters of Saxon total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-    },
-    {
-     "q": "How reliable is the meaning given for Saxon?",
-     "a": "The meaning of Saxon carries confidence LOW in this record. It is flagged for source verification."
-    }
-   ]
-  },
-  "seo_title": "Saxon Name Meaning – Saxon: Old English, descendant of the Saxons (Biblical)",
-  "meta_description": "Saxon is a Biblical name meaning “Saxon: Old English, descendant of the Saxons”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Saxon",
-   "Saxon name meaning",
-   "Saxon meaning",
-   "Saxon origin",
-   "Saxon root",
-   "Saxon pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/saxon",
-  "intro_paragraph": "Saxon is a Biblical name meaning “Saxon: Old English, descendant of the Saxons”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Saxon",
-   "description": "Saxon — Saxon: Old English, descendant of the Saxons",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Saxon?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Saxon is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Saxon?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Saxon are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Saxon a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Saxon have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Saxon say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Saxon expresses “Saxon: Old English, descendant of the Saxons”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Saxon be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Saxon is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Saxon mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Saxon has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Saxon?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Saxon is 1 (ruling planet Sun). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Saxon?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sunday is the traditional association for Saxon. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Saxon?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ruby is the traditional association for Saxon. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Saxon?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Gold, Orange are the traditional associations for Saxon. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Saxon?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Saxon total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Saxon?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Saxon carries confidence LOW in this record. It is flagged for source verification."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Saxon",
-     "item": "https://namemeaning.example/name/saxon"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 62,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Saxon",
-   "slug": "saxon",
-   "meaning": "Saxon: Old English, descendant of the Saxons",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Saxon",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Saxon: Old English, descendant of the Saxons",
-   "long_meaning": "The name Saxon is recorded with the meaning “Saxon: Old English, descendant of the Saxons”. Saxon is a Biblical name meaning “Saxon: Old English, descendant of the Saxons”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Saxon",
-     "meaning": "Saxon: Old English, descendant of the Saxons",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "SAK-sən",
-    "ipa": "/ˈsæksən/"
-   },
-   "syllables": 2,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "What is the spiritual significance of Saxon?",
-     "a": "Any spiritual significance attached to Saxon is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Saxon?",
-     "a": "Variant spellings of Saxon are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Saxon a common name?",
-     "a": "Popularity figures for Saxon have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Saxon say about a child?",
-     "a": "The name Saxon expresses “Saxon: Old English, descendant of the Saxons”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Saxon be used in another language?",
-     "a": "Saxon is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Saxon mentioned in scripture?",
-     "a": "No scriptural reference for Saxon has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Saxon?",
-     "a": "The Pythagorean lucky number for Saxon is 1 (ruling planet Sun). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Saxon?",
-     "a": "Sunday is the traditional association for Saxon. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Saxon?",
-     "a": "Ruby is the traditional association for Saxon. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Saxon?",
-     "a": "Gold, Orange are the traditional associations for Saxon. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Saxon?",
-     "a": "In Pythagorean numerology the letters of Saxon total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-    },
-    {
-     "q": "How reliable is the meaning given for Saxon?",
-     "a": "The meaning of Saxon carries confidence LOW in this record. It is flagged for source verification."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 1,
-    "life_path_number": 1,
-    "ruling_planet": "Sun",
-    "lucky_day": "Sunday",
-    "lucky_stone": "Ruby",
-    "lucky_colors": [
-     "Gold",
-     "Orange"
+  "success": true,
+  "data": {
+    "name": "Saxon",
+    "slug": "saxon",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Saxon total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Saxon is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Saxon: Old English, descendant of the Saxons",
+    "long_meaning": "The meaning of Saxon is recorded in name-lists as “Saxon: Old English, descendant of the Saxons”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Saxon expresses “Saxon: Old English, descendant of the Saxons”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "s-a-x-o-n",
+    "syllables": 2,
+    "name_length": 5,
+    "transliteration": [
+      "Saxon"
+    ],
+    "lucky_number": 1,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Gold",
+      "Orange"
+    ],
+    "lucky_stone": "Ruby",
+    "ruling_planet": "Sun",
+    "life_path_number": 1,
+    "numerology_meaning": "In Pythagorean numerology the letters of Saxon total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
+    "in_hebrew": {
+      "name": "סקסון",
+      "meaning": "מקור שם נגזר משבט גרמני עתיק",
+      "long_meaning": "השם סקסון מקורו משבט גרמני עתיק ששכן באזור סקסוניה בגרמניה. השם נגזר מהמילה 'סאקס' שפירושה 'חרב' או 'פגיון', ומשמעותו 'אנשים של החרב' או 'לוחמים'. השם סקסון אינו מופיע ישירות בכתבי הקודש העבריים, אך הוא קשור לתולדות העמים הגרמאניים והשפעתם על התרבות האירופית הנוצרית."
+    },
+    "in_greek": {
+      "name": "Σάξων",
+      "meaning": "παράγεται από αρχαία Γερμανική φυλή",
+      "long_meaning": "Το όνομα Σάξων προέρχεται από την αρχαία Γερμανική φυλή Σαξώνες, που κατοικούσαν στην περιοχή της Σαξονίας στη Γερμανία. Η ετυμολογία του ονόματος συνδέεται με τη λέξη 'σάξ' που σημαίνει 'μαχαίρι' ή 'σπαθί', και το νόημα είναι 'άνθρωποι του μαχαιριού' ή 'πολεμιστές'. Αν και το όνομα Σάξων δεν αναφέρεται άμεσα στα Νεοδιαθηκονικά κείμενα, έχει σχέση με την ιστορία των Γερμανικών λαών και την επιρροή τους στο Ευρωπαϊκό πολιτισμό και την Χριστιανική παράδοση."
+    },
+    "in_latin": {
+      "name": "Saxon",
+      "meaning": "derived from ancient Germanic tribe",
+      "long_meaning": "The name Saxon originates from the ancient Germanic tribe known as the Saxons, who inhabited the region of Saxony in Germany. The etymology of the name is linked to the word 'sax' meaning 'knife' or 'dagger', and its meaning is 'people of the knife' or 'warriors'. Although the name Saxon does not appear directly in Christian scriptures, it is connected to the history of Germanic peoples and their influence on European culture and Christian tradition."
+    },
+    "in_english": {
+      "name": "Saxon",
+      "meaning": "Saxon: Old English, descendant of the Saxons",
+      "long_meaning": "Saxon: Old English, descendant of the Saxons"
+    },
+    "pronunciation": {
+      "english": "SAK-sən",
+      "ipa": "/ˈsæksən/"
+    },
+    "name_variations": [
+      "Saxon"
+    ],
+    "variants": [
+      "Saxon"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Saxon is used in Biblical naming tradition with the meaning “Saxon: Old English, descendant of the Saxons”.",
+    "spiritual_significance": "Any spiritual significance attached to Saxon is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Saxon: Old English, descendant of the Saxons” is the basis of any symbolism attached to Saxon; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Saxon."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#SaxonMeaning",
+      "#ChristianBabyNames",
+      "#NonBiblicalNames",
+      "#GermanicNames",
+      "#Saxon"
+    ],
+    "monetization": {
+      "affiliate_links": [
+        {
+          "text": "Shop for Saxon merchandise and gifts",
+          "url": "https://example.com/saxon-merchandise"
+        }
+      ],
+      "donations": {
+        "text": "Support the creation and maintenance of this website",
+        "url": "https://example.com/donate"
+      }
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Saxon Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Saxon has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Saxon, Saxon name meaning, Saxon meaning, Saxon origin, Saxon root, Saxon pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Saxon has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Saxon",
+        "Saxon name meaning",
+        "Saxon meaning",
+        "Saxon origin",
+        "Saxon root",
+        "Saxon pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Saxon name meaning",
+      "secondary_keywords": [
+        "Saxon meaning",
+        "Saxon origin",
+        "Saxon pronunciation",
+        "Saxon lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Saxon mean?",
+          "a": "Name-lists record the meaning as “Saxon: Old English, descendant of the Saxons”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Saxon verified?",
+          "a": "No. The meaning of Saxon could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Saxon come from?",
+          "a": "The origin of Saxon has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Saxon Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Saxon has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Saxon",
+      "Saxon name meaning",
+      "Saxon meaning",
+      "Saxon origin",
+      "Saxon root",
+      "Saxon pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Saxon has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Saxon",
+      "description": "Saxon — Saxon: Old English, descendant of the Saxons",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Saxon mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Saxon: Old English, descendant of the Saxons”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Saxon verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Saxon could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Saxon come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Saxon has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 62,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:31:34.000Z",
+    "tier1_verified": {
+      "name": "Saxon",
+      "slug": "saxon",
+      "meaning": "Saxon: Old English, descendant of the Saxons",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Saxon",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Saxon: Old English, descendant of the Saxons",
+      "long_meaning": "The name Saxon is recorded with the meaning “Saxon: Old English, descendant of the Saxons”. Saxon is a Biblical name meaning “Saxon: Old English, descendant of the Saxons”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Saxon",
+          "meaning": "Saxon: Old English, descendant of the Saxons",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "SAK-sən",
+        "ipa": "/ˈsæksən/"
+      },
+      "syllables": 2,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Saxon mean?",
+          "a": "Name-lists record the meaning as “Saxon: Old English, descendant of the Saxons”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Saxon verified?",
+          "a": "No. The meaning of Saxon could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Saxon come from?",
+          "a": "The origin of Saxon has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 1,
+        "life_path_number": 1,
+        "ruling_planet": "Sun",
+        "lucky_day": "Sunday",
+        "lucky_stone": "Ruby",
+        "lucky_colors": [
+          "Gold",
+          "Orange"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Saxon total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:31:34.000Z"
+    }
   }
- }
 }

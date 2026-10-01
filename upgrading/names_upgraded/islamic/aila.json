@@ -1,547 +1,386 @@
 {
- "success": true,
- "data": {
-  "name": "Aila",
-  "slug": "aila",
-  "language": [
-   "Arabic",
-   "Urdu",
-   "Persian"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Aila is used as a unisex name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Nourishing, Tender",
-  "long_meaning": "The name Aila is recorded with the meaning “Nourishing, Tender”. Aila is a Arabic name meaning “Nourishing, Tender”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Aila expresses “Nourishing, Tender”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Aila is recorded with the meaning “Nourishing, Tender”. Aila is a Arabic name meaning “Nourishing, Tender”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-i-l-a",
-  "syllables": 2,
-  "name_length": 4,
-  "transliteration": [
-   "Aila"
-  ],
-  "lucky_number": 5,
-  "lucky_day": "Wednesday",
-  "lucky_colors": [
-   "Green",
-   "Turquoise"
-  ],
-  "lucky_stone": "Emerald",
-  "ruling_planet": "Mercury",
-  "life_path_number": 5,
-  "numerology_meaning": "In Pythagorean numerology the letters of Aila total 14, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
-  "in_arabic": {
-   "name": "عaily",
-   "meaning": "الماء العذب المُستقر في الوادي",
-   "long_meaning": "نسبة إلى مدينة عايل في مكة المكرمة، وهي المياه العذبة المُستقر في الوادي، وتُعد العذوبة من صفات الرحمن، وتُذكَر في القرآن الكريم، والجدير بالذكر أن أسماء الله الحسنى تُستخدم في تسمية المياه العذبة، والتسمية بالحسنى تعني الأفضل والأرفع من الماء العادي، وتُعد أسماء الله الحسنى من أهم الأسماء في الإسلام، وتُستخدم في الحكم على الخير والشر، وتُعد أسماء الله الحسنى من صفات الله تعالى، وتُستخدم في التفسير والتعليم، وتُعد أسماء الله الحسنى من الأدوات في فهم القرآن الكريم"
-  },
-  "in_urdu": {
-   "name": "عAILY",
-   "meaning": "پانی کے نام سے تعلق رکھتا ہے جو مکہ مکرمہ کی ایک شہر ہے",
-   "long_meaning": "عایل نام کا تعلق مکہ مکرمہ کی ایک شہر سے ہے، جو پانی کے لیے مشہور ہے، اور یہ نام عربوں کے ذریعے ہی آیا ہے، اور یہ نام ہندوستان میں بھی بہت عام ہے، اور یہ نام اپنی خوبصورتی اور خوبصورت معنی کے لیے مشہور ہے، اور یہ نام مذہب اسلام میں بھی بہت اہمیت رکھتا ہے، اور یہ نام کئی اہم مقامات پر بھی موجود ہے، اور یہ نام کئی اہم شخصیات کا نام ہے"
-  },
-  "in_hindi": {
-   "name": "ऐलय्",
-   "meaning": "पानी के नाम से जुड़ी एक जगह का नाम",
-   "long_meaning": "ऐलय् नाम का अर्थ है पानी का स्रोत, जो श्रीनगर के पास स्थित है, और यह नाम इस्लामिक परंपरा में भी बहुत प्रसिद्ध है, और यह नाम अपनी सुंदरता और अर्थ के कारण बहुत प्रसिद्ध है, और यह नाम भारतीय मुस्लिम समाज में बहुत महत्व रखता है, और यह नाम कई महत्वपूर्ण स्थानों पर भी मिलता है, और यह नाम कई महत्वपूर्ण व्यक्तियों का नाम भी है"
-  },
-  "in_pashto": {
-   "name": "عایل",
-   "meaning": "د وادي کا لوی پانی",
-   "long_meaning": "د عایل نوم د پانی کا لوی ستن د وادي ته، دا پانی کا لوی ستن د وادي ته، او دا د پانی لوی ستن ته، دا د پانی کا لوی ستن ته، او دا د پاني کا لوی ستن ته، او دا د پانی لوی ستن ته، او دا د پانی کا لوی ستن ته، او دا د پانی لوی ستن ته، او دا د پانی کا لوی ستن ته، او دا د پانی لوی ستن ته"
-  },
-  "in_english": {
-   "name": "Aila",
-   "meaning": "Nourishing, Tender",
-   "long_meaning": "The name Aila is recorded with the meaning “Nourishing, Tender”. Aila is a Arabic name meaning “Nourishing, Tender”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "/ˈɑː.liːm/",
-   "urdu": "عAILY",
-   "hindi": "ऐलय्",
-   "pashto": "عایل",
-   "ipa": "/ˈɑː.liːm/"
-  },
-  "name_variations": [
-   "Aila"
-  ],
-  "variants": [
-   "Aila"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Aila is used in Arabic naming tradition with the meaning “Nourishing, Tender”.",
-  "spiritual_significance": "Any spiritual significance attached to Aila is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Nourishing, Tender” is the basis of any symbolism attached to Aila; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Aila has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Aila."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AilaMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Aila"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Aila",
-     "description": "Discover the meaning of Aila - \"Nourishing, Tender\"",
-     "image": "/images/social/aila-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Aila - Name Meaning",
-     "description": "Learn about the beautiful name Aila",
-     "image": "/images/social/aila-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Aila",
-     "description": "Name meaning: Nourishing, Tender",
-     "image": "/images/social/aila-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Aila - Meaning: Nourishing, Tender",
-    "email_subject": "Beautiful Name: Aila"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Aila with meaning Nourishing, Tender",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Aila Name Meaning – Nourishing, Tender (Arabic)",
-   "meta_description": "Aila is a Arabic name meaning “Nourishing, Tender”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Aila, Aila name meaning, Aila meaning, Aila origin, Aila root, Aila pronunciation, Arabic names",
-   "description_paragraph": "Aila is a Arabic name meaning “Nourishing, Tender”.",
-   "keywords": [
-    "Aila",
-    "Aila name meaning",
-    "Aila meaning",
-    "Aila origin",
-    "Aila root",
-    "Aila pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Aila name meaning",
-   "secondary_keywords": [
-    "Aila meaning",
-    "Aila origin",
-    "Aila pronunciation",
-    "Aila lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/aila",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the origin of the name Aila?",
-     "a": "Aila is of Arabic origin."
-    },
-    {
-     "q": "Is Aila a unisex name?",
-     "a": "Aila is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Aila have?",
-     "a": "Aila has 2 syllables."
-    },
-    {
-     "q": "How is Aila pronounced?",
-     "a": "Aila is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Aila?",
-     "a": "Any spiritual significance attached to Aila is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Aila?",
-     "a": "Variant spellings of Aila are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Aila a common name?",
-     "a": "Popularity figures for Aila have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Aila say about a child?",
-     "a": "The name Aila expresses “Nourishing, Tender”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Aila be used in another language?",
-     "a": "Aila is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Aila mentioned in scripture?",
-     "a": "No scriptural reference for Aila has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Aila?",
-     "a": "The Pythagorean lucky number for Aila is 5 (ruling planet Mercury). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Aila?",
-     "a": "Wednesday is the traditional association for Aila. This is interpretive."
-    }
-   ]
-  },
-  "seo_title": "Aila Name Meaning – Nourishing, Tender (Arabic)",
-  "meta_description": "Aila is a Arabic name meaning “Nourishing, Tender”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Aila",
-   "Aila name meaning",
-   "Aila meaning",
-   "Aila origin",
-   "Aila root",
-   "Aila pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/aila",
-  "intro_paragraph": "Aila is a Arabic name meaning “Nourishing, Tender”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Aila",
-   "description": "Aila — Nourishing, Tender",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Aila?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aila is of Arabic origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aila a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aila is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Aila have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aila has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Aila pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aila is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Aila?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Aila is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Aila?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Aila are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aila a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Aila have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Aila say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Aila expresses “Nourishing, Tender”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Aila be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aila is recorded in Arabic; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aila mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Aila has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Aila?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Aila is 5 (ruling planet Mercury). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Aila?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Wednesday is the traditional association for Aila. This is interpretive."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Aila",
-     "item": "https://namemeaning.example/name/aila"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-12-22T19:19:49.84Z",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Aila",
-   "slug": "aila",
-   "meaning": "Nourishing, Tender",
-   "origin": "Arabic",
-   "language": [
-    "Arabic",
-    "Urdu",
-    "Persian"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Aila",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Nourishing, Tender",
-   "long_meaning": "The name Aila is recorded with the meaning “Nourishing, Tender”. Aila is a Arabic name meaning “Nourishing, Tender”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Aila",
-     "meaning": "Nourishing, Tender",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "/ˈɑː.liːm/",
-    "ipa": "/ˈɑː.liːm/"
-   },
-   "syllables": 2,
-   "name_length": 4,
-   "faqs": [
-    {
-     "q": "What is the origin of the name Aila?",
-     "a": "Aila is of Arabic origin."
-    },
-    {
-     "q": "Is Aila a unisex name?",
-     "a": "Aila is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Aila have?",
-     "a": "Aila has 2 syllables."
-    },
-    {
-     "q": "How is Aila pronounced?",
-     "a": "Aila is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Aila?",
-     "a": "Any spiritual significance attached to Aila is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Aila?",
-     "a": "Variant spellings of Aila are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Aila a common name?",
-     "a": "Popularity figures for Aila have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Aila say about a child?",
-     "a": "The name Aila expresses “Nourishing, Tender”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Aila be used in another language?",
-     "a": "Aila is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Aila mentioned in scripture?",
-     "a": "No scriptural reference for Aila has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Aila?",
-     "a": "The Pythagorean lucky number for Aila is 5 (ruling planet Mercury). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Aila?",
-     "a": "Wednesday is the traditional association for Aila. This is interpretive."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 5,
-    "life_path_number": 5,
-    "ruling_planet": "Mercury",
-    "lucky_day": "Wednesday",
-    "lucky_stone": "Emerald",
-    "lucky_colors": [
-     "Green",
-     "Turquoise"
+  "success": true,
+  "data": {
+    "name": "Aila",
+    "slug": "aila",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Aila total 14, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Aila is used as a unisex name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Nourishing, Tender",
+    "long_meaning": "The meaning of Aila is recorded in name-lists as “Nourishing, Tender”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Aila expresses “Nourishing, Tender”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Arabic",
+    "root_letters": "a-i-l-a",
+    "syllables": 2,
+    "name_length": 4,
+    "transliteration": [
+      "Aila"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Wednesday",
+    "lucky_colors": [
+      "Green",
+      "Turquoise"
+    ],
+    "lucky_stone": "Emerald",
+    "ruling_planet": "Mercury",
+    "life_path_number": 5,
+    "numerology_meaning": "In Pythagorean numerology the letters of Aila total 14, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
+    "in_arabic": {
+      "name": "عaily",
+      "meaning": "Nourishing, Tender",
+      "long_meaning": "Nourishing, Tender"
+    },
+    "in_urdu": {
+      "name": "عAILY",
+      "meaning": "Nourishing, Tender",
+      "long_meaning": "Nourishing, Tender"
+    },
+    "in_hindi": {
+      "name": "ऐलय्",
+      "meaning": "Nourishing, Tender",
+      "long_meaning": "Nourishing, Tender"
+    },
+    "in_pashto": {
+      "name": "عایل",
+      "meaning": "Nourishing, Tender",
+      "long_meaning": "Nourishing, Tender"
+    },
+    "in_english": {
+      "name": "Aila",
+      "meaning": "Nourishing, Tender",
+      "long_meaning": "Nourishing, Tender"
+    },
+    "pronunciation": {
+      "english": "/ˈɑː.liːm/",
+      "urdu": "عAILY",
+      "hindi": "ऐलय्",
+      "pashto": "عایل",
+      "ipa": "/ˈɑː.liːm/"
+    },
+    "name_variations": [
+      "Aila"
+    ],
+    "variants": [
+      "Aila"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Aila is used in Arabic naming tradition with the meaning “Nourishing, Tender”.",
+    "spiritual_significance": "Any spiritual significance attached to Aila is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Nourishing, Tender” is the basis of any symbolism attached to Aila; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "No Qur'anic reference for Aila has been verified."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Aila."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AilaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Aila"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Aila",
+          "description": "Discover the meaning of Aila - \"Nourishing, Tender\"",
+          "image": "/images/social/aila-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Aila - Name Meaning",
+          "description": "Learn about the beautiful name Aila",
+          "image": "/images/social/aila-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Aila",
+          "description": "Name meaning: Nourishing, Tender",
+          "image": "/images/social/aila-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Aila - Meaning: Nourishing, Tender",
+        "email_subject": "Beautiful Name: Aila"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Aila with meaning Nourishing, Tender",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Aila Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Aila has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Aila, Aila name meaning, Aila meaning, Aila origin, Aila root, Aila pronunciation, Arabic names",
+      "description_paragraph": "The meaning of Aila has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Aila",
+        "Aila name meaning",
+        "Aila meaning",
+        "Aila origin",
+        "Aila root",
+        "Aila pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Aila name meaning",
+      "secondary_keywords": [
+        "Aila meaning",
+        "Aila origin",
+        "Aila pronunciation",
+        "Aila lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Aila mean?",
+          "a": "Name-lists record the meaning as “Nourishing, Tender”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Aila verified?",
+          "a": "No. The meaning of Aila could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Aila come from?",
+          "a": "The origin of Aila has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Aila Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Aila has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Aila",
+      "Aila name meaning",
+      "Aila meaning",
+      "Aila origin",
+      "Aila root",
+      "Aila pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Aila has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Aila",
+      "description": "Aila — Nourishing, Tender",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Aila mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Nourishing, Tender”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Aila verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Aila could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Aila come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Aila has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 70
+    },
+    "created_at": "2025-12-22T19:19:49.84Z",
+    "updated_at": "2026-10-01T04:04:29.000Z",
+    "tier1_verified": {
+      "name": "Aila",
+      "slug": "aila",
+      "meaning": "Nourishing, Tender",
+      "origin": "Arabic",
+      "language": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Aila",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Nourishing, Tender",
+      "long_meaning": "The name Aila is recorded with the meaning “Nourishing, Tender”. Aila is a Arabic name meaning “Nourishing, Tender”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Aila",
+          "meaning": "Nourishing, Tender",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "/ˈɑː.liːm/",
+        "ipa": "/ˈɑː.liːm/"
+      },
+      "syllables": 2,
+      "name_length": 4,
+      "faqs": [
+        {
+          "q": "What does the name Aila mean?",
+          "a": "Name-lists record the meaning as “Nourishing, Tender”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Aila verified?",
+          "a": "No. The meaning of Aila could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Aila come from?",
+          "a": "The origin of Aila has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 5,
+        "life_path_number": 5,
+        "ruling_planet": "Mercury",
+        "lucky_day": "Wednesday",
+        "lucky_stone": "Emerald",
+        "lucky_colors": [
+          "Green",
+          "Turquoise"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Aila total 14, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:29.000Z"
+    }
   }
- }
 }

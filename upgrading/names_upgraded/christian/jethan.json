@@ -1,508 +1,347 @@
 {
- "success": true,
- "data": {
-  "name": "Jethan",
-  "slug": "jethan",
-  "language": [
-   "English",
-   "Hebrew"
-  ],
-  "gender": "Male",
-  "gender_notes": "Jethan is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "God will add",
-  "long_meaning": "The name Jethan is recorded with the meaning “God will add”. Jethan is a Biblical name meaning “God will add”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Jethan expresses “God will add”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Jethan is recorded with the meaning “God will add”. Jethan is a Biblical name meaning “God will add”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "j-e-t-h-a-n",
-  "syllables": 2,
-  "name_length": 6,
-  "transliteration": [
-   "Jethan"
-  ],
-  "lucky_number": 4,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Grey",
-   "Blue"
-  ],
-  "lucky_stone": "Hessonite",
-  "ruling_planet": "Rahu",
-  "life_path_number": 4,
-  "numerology_meaning": "In Pythagorean numerology the letters of Jethan total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-  "in_hebrew": {
-   "name": "יתן",
-   "meaning": "הענקת אלוהים, נתינת אלוהים, יש תוכנית אלוהית",
-   "long_meaning": "השם יתן מגיע מהשורש העברי 'נתן', שפירושו לתת או להעניק. בהקשר של שמות פרטיים, הוא מתפרש כמתנת אלוהים או להעניק מאלוהים. השם מופיע בתנ\"ך ככינויו של אחד מנשיאי שבט יהודה, וגם כשם של כמה דמויות מקראיות אחרות."
-  },
-  "in_greek": {
-   "name": "Ιηθαν",
-   "meaning": "Δοσθενος, Θεοδωρος, Θεοδοτος",
-   "long_meaning": "Ο Ιηθαν είναι η ελληνική μορφή του ονόματος העברי 'יתן' (Yethan), που σημαίνει 'Θεός δίδει' (ο Θεός δίνει) ή 'Δοσθενος' (δοσθενος). Στην Καινή Διαθήκη, παρόλο που δεν αναφέρεται συγκεκριμένα, οι ερμηνείες των ονομάτων συνδέονται συχνά με θεολογική σημασία."
-  },
-  "in_latin": {
-   "name": "Jethan",
-   "meaning": "Dei donum, donatio Dei",
-   "long_meaning": "Nomen Jethan derivatur ex radice hebraica 'נתן' (nathan), quae donare significat. In contextu nominum propria, interpretatur ut 'donum Dei' vel 'donatio Dei'. Nomen in Biblia Hebraica invenitur ut nomen unius e principibus tribus Iudae."
-  },
-  "in_english": {
-   "name": "Jethan",
-   "meaning": "God will add",
-   "long_meaning": "The name Jethan is recorded with the meaning “God will add”. Jethan is a Biblical name meaning “God will add”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "JETH-an",
-   "biblical": "Yeh-THAN",
-   "ipa": "/ˈdʒɛθən/"
-  },
-  "name_variations": [
-   "Jethan"
-  ],
-  "variants": [
-   "Jethan"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Jethan is used in Biblical naming tradition with the meaning “God will add”.",
-  "spiritual_significance": "Any spiritual significance attached to Jethan is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “God will add” is the basis of any symbolism attached to Jethan; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": true,
-   "origin_scripture": "1 Chronicles",
-   "verse_reference": "1 Chronicles 4:35",
-   "note": "Jethan is mentioned as one of the descendants of Judah."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Jethan."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#JethanMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Jethan"
-  ],
-  "monetization": {
-   "ads": [
-    {
-     "location": "header",
-     "type": "image",
-     "url": "https://example.com/ad.jpg"
-    },
-    {
-     "location": "sidebar",
-     "type": "text",
-     "content": "Get 10% off your first order with code JETHAN10"
-    }
-   ],
-   "affiliates": [
-    {
-     "url": "https://example.com/jethan-books",
-     "text": "Buy books about Jethan"
-    },
-    {
-     "url": "https://example.com/jethan-clothing",
-     "text": "Buy Jethan-themed clothing"
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Jethan Name Meaning – God will add (Biblical)",
-   "meta_description": "Jethan is a Biblical name meaning “God will add”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Jethan, Jethan name meaning, Jethan meaning, Jethan origin, Jethan root, Jethan pronunciation, Biblical names",
-   "description_paragraph": "Jethan is a Biblical name meaning “God will add”.",
-   "keywords": [
-    "Jethan",
-    "Jethan name meaning",
-    "Jethan meaning",
-    "Jethan origin",
-    "Jethan root",
-    "Jethan pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Jethan name meaning",
-   "secondary_keywords": [
-    "Jethan meaning",
-    "Jethan origin",
-    "Jethan pronunciation",
-    "Jethan lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/jethan",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the full form of Jethan?",
-     "a": "Jethan is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Jethan?",
-     "a": "Jethan is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Jethan have a positive meaning?",
-     "a": "Jethan carries the meaning “God will add”."
-    },
-    {
-     "q": "What does the name Jethan mean?",
-     "a": "Jethan means “God will add”."
-    },
-    {
-     "q": "What is the origin of the name Jethan?",
-     "a": "Jethan is of Biblical origin."
-    },
-    {
-     "q": "Is Jethan a male name?",
-     "a": "Jethan is used as a male name."
-    },
-    {
-     "q": "How many syllables does Jethan have?",
-     "a": "Jethan has 2 syllables."
-    },
-    {
-     "q": "How is Jethan pronounced?",
-     "a": "Jethan is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Jethan?",
-     "a": "Any spiritual significance attached to Jethan is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Jethan?",
-     "a": "Variant spellings of Jethan are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Jethan a common name?",
-     "a": "Popularity figures for Jethan have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Jethan say about a child?",
-     "a": "The name Jethan expresses “God will add”; any character association drawn from it is interpretive."
-    }
-   ]
-  },
-  "seo_title": "Jethan Name Meaning – God will add (Biblical)",
-  "meta_description": "Jethan is a Biblical name meaning “God will add”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Jethan",
-   "Jethan name meaning",
-   "Jethan meaning",
-   "Jethan origin",
-   "Jethan root",
-   "Jethan pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/jethan",
-  "intro_paragraph": "Jethan is a Biblical name meaning “God will add”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Jethan",
-   "description": "Jethan — God will add",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the full form of Jethan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Jethan is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Jethan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Jethan is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Jethan have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Jethan carries the meaning “God will add”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Jethan mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Jethan means “God will add”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Jethan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Jethan is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Jethan a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Jethan is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Jethan have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Jethan has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Jethan pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Jethan is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Jethan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Jethan is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Jethan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Jethan are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Jethan a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Jethan have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Jethan say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Jethan expresses “God will add”; any character association drawn from it is interpretive."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Jethan",
-     "item": "https://namemeaning.example/name/jethan"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Jethan",
-   "slug": "jethan",
-   "meaning": "God will add",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Jethan",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "God will add",
-   "long_meaning": "The name Jethan is recorded with the meaning “God will add”. Jethan is a Biblical name meaning “God will add”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Jethan",
-     "meaning": "God will add",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "JETH-an",
-    "ipa": "/ˈdʒɛθən/"
-   },
-   "syllables": 2,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "What is the full form of Jethan?",
-     "a": "Jethan is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Jethan?",
-     "a": "Jethan is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Jethan have a positive meaning?",
-     "a": "Jethan carries the meaning “God will add”."
-    },
-    {
-     "q": "What does the name Jethan mean?",
-     "a": "Jethan means “God will add”."
-    },
-    {
-     "q": "What is the origin of the name Jethan?",
-     "a": "Jethan is of Biblical origin."
-    },
-    {
-     "q": "Is Jethan a male name?",
-     "a": "Jethan is used as a male name."
-    },
-    {
-     "q": "How many syllables does Jethan have?",
-     "a": "Jethan has 2 syllables."
-    },
-    {
-     "q": "How is Jethan pronounced?",
-     "a": "Jethan is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Jethan?",
-     "a": "Any spiritual significance attached to Jethan is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Jethan?",
-     "a": "Variant spellings of Jethan are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Jethan a common name?",
-     "a": "Popularity figures for Jethan have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Jethan say about a child?",
-     "a": "The name Jethan expresses “God will add”; any character association drawn from it is interpretive."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 4,
-    "life_path_number": 4,
-    "ruling_planet": "Rahu",
-    "lucky_day": "Saturday",
-    "lucky_stone": "Hessonite",
-    "lucky_colors": [
-     "Grey",
-     "Blue"
+  "success": true,
+  "data": {
+    "name": "Jethan",
+    "slug": "jethan",
+    "language": [
+      "English",
+      "Hebrew"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Jethan total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Jethan is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "God will add",
+    "long_meaning": "The meaning of Jethan is recorded in name-lists as “God will add”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Jethan expresses “God will add”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "j-e-t-h-a-n",
+    "syllables": 2,
+    "name_length": 6,
+    "transliteration": [
+      "Jethan"
+    ],
+    "lucky_number": 4,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Grey",
+      "Blue"
+    ],
+    "lucky_stone": "Hessonite",
+    "ruling_planet": "Rahu",
+    "life_path_number": 4,
+    "numerology_meaning": "In Pythagorean numerology the letters of Jethan total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
+    "in_hebrew": {
+      "name": "יתן",
+      "meaning": "הענקת אלוהים, נתינת אלוהים, יש תוכנית אלוהית",
+      "long_meaning": "השם יתן מגיע מהשורש העברי 'נתן', שפירושו לתת או להעניק. בהקשר של שמות פרטיים, הוא מתפרש כמתנת אלוהים או להעניק מאלוהים. השם מופיע בתנ\"ך ככינויו של אחד מנשיאי שבט יהודה, וגם כשם של כמה דמויות מקראיות אחרות."
+    },
+    "in_greek": {
+      "name": "Ιηθαν",
+      "meaning": "Δοσθενος, Θεοδωρος, Θεοδοτος",
+      "long_meaning": "Ο Ιηθαν είναι η ελληνική μορφή του ονόματος העברי 'יתן' (Yethan), που σημαίνει 'Θεός δίδει' (ο Θεός δίνει) ή 'Δοσθενος' (δοσθενος). Στην Καινή Διαθήκη, παρόλο που δεν αναφέρεται συγκεκριμένα, οι ερμηνείες των ονομάτων συνδέονται συχνά με θεολογική σημασία."
+    },
+    "in_latin": {
+      "name": "Jethan",
+      "meaning": "Dei donum, donatio Dei",
+      "long_meaning": "Nomen Jethan derivatur ex radice hebraica 'נתן' (nathan), quae donare significat. In contextu nominum propria, interpretatur ut 'donum Dei' vel 'donatio Dei'. Nomen in Biblia Hebraica invenitur ut nomen unius e principibus tribus Iudae."
+    },
+    "in_english": {
+      "name": "Jethan",
+      "meaning": "God will add",
+      "long_meaning": "God will add"
+    },
+    "pronunciation": {
+      "english": "JETH-an",
+      "biblical": "Yeh-THAN",
+      "ipa": "/ˈdʒɛθən/"
+    },
+    "name_variations": [
+      "Jethan"
+    ],
+    "variants": [
+      "Jethan"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Jethan is used in Biblical naming tradition with the meaning “God will add”.",
+    "spiritual_significance": "Any spiritual significance attached to Jethan is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “God will add” is the basis of any symbolism attached to Jethan; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "1 Chronicles",
+      "verse_reference": "1 Chronicles 4:35",
+      "note": "Jethan is mentioned as one of the descendants of Judah."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Jethan."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#JethanMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Jethan"
+    ],
+    "monetization": {
+      "ads": [
+        {
+          "location": "header",
+          "type": "image",
+          "url": "https://example.com/ad.jpg"
+        },
+        {
+          "location": "sidebar",
+          "type": "text",
+          "content": "Get 10% off your first order with code JETHAN10"
+        }
+      ],
+      "affiliates": [
+        {
+          "url": "https://example.com/jethan-books",
+          "text": "Buy books about Jethan"
+        },
+        {
+          "url": "https://example.com/jethan-clothing",
+          "text": "Buy Jethan-themed clothing"
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Jethan Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Jethan has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Jethan, Jethan name meaning, Jethan meaning, Jethan origin, Jethan root, Jethan pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Jethan has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Jethan",
+        "Jethan name meaning",
+        "Jethan meaning",
+        "Jethan origin",
+        "Jethan root",
+        "Jethan pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Jethan name meaning",
+      "secondary_keywords": [
+        "Jethan meaning",
+        "Jethan origin",
+        "Jethan pronunciation",
+        "Jethan lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Jethan mean?",
+          "a": "Name-lists record the meaning as “God will add”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Jethan verified?",
+          "a": "No. The meaning of Jethan could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Jethan come from?",
+          "a": "The origin of Jethan has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Jethan Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Jethan has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Jethan",
+      "Jethan name meaning",
+      "Jethan meaning",
+      "Jethan origin",
+      "Jethan root",
+      "Jethan pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Jethan has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Jethan",
+      "description": "Jethan — God will add",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Jethan mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “God will add”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Jethan verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Jethan could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Jethan come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Jethan has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:17:49.000Z",
+    "tier1_verified": {
+      "name": "Jethan",
+      "slug": "jethan",
+      "meaning": "God will add",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Jethan",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "God will add",
+      "long_meaning": "The name Jethan is recorded with the meaning “God will add”. Jethan is a Biblical name meaning “God will add”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Jethan",
+          "meaning": "God will add",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "JETH-an",
+        "ipa": "/ˈdʒɛθən/"
+      },
+      "syllables": 2,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Jethan mean?",
+          "a": "Name-lists record the meaning as “God will add”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Jethan verified?",
+          "a": "No. The meaning of Jethan could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Jethan come from?",
+          "a": "The origin of Jethan has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 4,
+        "life_path_number": 4,
+        "ruling_planet": "Rahu",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Hessonite",
+        "lucky_colors": [
+          "Grey",
+          "Blue"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Jethan total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:17:49.000Z"
+    }
   }
- }
 }

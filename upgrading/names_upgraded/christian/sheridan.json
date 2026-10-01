@@ -1,508 +1,347 @@
 {
- "success": true,
- "data": {
-  "name": "Sheridan",
-  "slug": "sheridan",
-  "language": [
-   "English"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Sheridan is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Hero, fighter, bright one",
-  "long_meaning": "The name Sheridan is recorded with the meaning “Hero, fighter, bright one”. Sheridan is a Biblical name meaning “Hero, fighter, bright one”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Sheridan expresses “Hero, fighter, bright one”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Sheridan is recorded with the meaning “Hero, fighter, bright one”. Sheridan is a Biblical name meaning “Hero, fighter, bright one”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "s-h-e-r-i-d-a-n",
-  "syllables": 3,
-  "name_length": 8,
-  "transliteration": [
-   "Sheridan"
-  ],
-  "lucky_number": 6,
-  "lucky_day": "Friday",
-  "lucky_colors": [
-   "White",
-   "Pink"
-  ],
-  "lucky_stone": "Diamond",
-  "ruling_planet": "Venus",
-  "life_path_number": 6,
-  "numerology_meaning": "In Pythagorean numerology the letters of Sheridan total 42, reducing to 6. Number 6 is associated with responsibility, care and harmony.",
-  "in_hebrew": {
-   "name": "שירידן",
-   "meaning": "שם פרטי שפירושו שיר או שירה של דן",
-   "long_meaning": "השם שירידן הוא שם פרטי המשלב את המילים שיר ודן, שפירושו שיר או שירה של דן. השם דן עצמו פירושו שפט או דין, ועל כן ניתן לפרש את השם שירידן כשיר של שפט או שירת הדין. השם נמצא בשימוש בקרב הנוצרים ומקורו במסורת הנוצרית."
-  },
-  "in_greek": {
-   "name": "Σέρινταν",
-   "meaning": "Όνομα που σημαίνει τραγούδι ή ποίημα του Δαν",
-   "long_meaning": "Το όνομα Σέρινταν είναι ένα προσωπικό όνομα που συνδυάζει τις λέξεις τραγούδι και Δαν, που σημαίνει τραγούδι ή ποίημα του Δαν. Το όνομα Δαν σημαίνει κρίση ή δικαιοσύνη, επομένως το Σέρινταν μπορεί να ερμηνευτεί ως το τραγούδι της κρίσης ή η ποίηση της δικαιοσύνης. Το όνομα αυτό χρησιμοποιείται από τους Χριστιανούς και έχει τις ρίζες του στη Χριστιανική παράδοση."
-  },
-  "in_latin": {
-   "name": "Sheridan",
-   "meaning": "Name meaning song or poem of Dan",
-   "long_meaning": "The name Sheridan is a personal name combining the words song and Dan, meaning song or poem of Dan. The name Dan itself means judge or justice, hence Sheridan can be interpreted as the song of judgment or the poetry of justice. This name is used among Christians and originates from Christian tradition."
-  },
-  "in_english": {
-   "name": "Sheridan",
-   "meaning": "Hero, fighter, bright one",
-   "long_meaning": "The name Sheridan is recorded with the meaning “Hero, fighter, bright one”. Sheridan is a Biblical name meaning “Hero, fighter, bright one”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "SHER-i-dan",
-   "ipa": "/ˈʃɛrɪdən/"
-  },
-  "name_variations": [
-   "Sheridan"
-  ],
-  "variants": [
-   "Sheridan"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Sheridan is used in Biblical naming tradition with the meaning “Hero, fighter, bright one”.",
-  "spiritual_significance": "Any spiritual significance attached to Sheridan is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Hero, fighter, bright one” is the basis of any symbolism attached to Sheridan; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Sheridan."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#SheridanMeaning",
-   "#ChristianBabyNames",
-   "#IrishSurnames",
-   "#Sheridan"
-  ],
-  "monetization": {
-   "adsense": {
-    "ads_layout": [
-     "above_content",
-     "below_content"
+  "success": true,
+  "data": {
+    "name": "Sheridan",
+    "slug": "sheridan",
+    "language": [
+      "English"
     ],
-    "ads_types": [
-     "text_only",
-     "display_ads"
-    ]
-   },
-   "affiliate": {
-    "programs": [
-     "Amazon",
-     "Baby_Center"
+    "gender": "Unisex",
+    "gender_notes": "Sheridan is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
     ],
-    "products": [
-     {
-      "name": "Baby_Books",
-      "url": "https://example.com/baby-books"
-     },
-     {
-      "name": "Baby_Clothes",
-      "url": "https://example.com/baby-clothes"
-     }
-    ]
-   }
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Sheridan Name Meaning – Hero, fighter, bright one (Biblical)",
-   "meta_description": "Sheridan is a Biblical name meaning “Hero, fighter, bright one”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Sheridan, Sheridan name meaning, Sheridan meaning, Sheridan origin, Sheridan root, Sheridan pronunciation, Biblical names",
-   "description_paragraph": "Sheridan is a Biblical name meaning “Hero, fighter, bright one”.",
-   "keywords": [
-    "Sheridan",
-    "Sheridan name meaning",
-    "Sheridan meaning",
-    "Sheridan origin",
-    "Sheridan root",
-    "Sheridan pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Sheridan name meaning",
-   "secondary_keywords": [
-    "Sheridan meaning",
-    "Sheridan origin",
-    "Sheridan pronunciation",
-    "Sheridan lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/sheridan",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the lucky number for Sheridan?",
-     "a": "The Pythagorean lucky number for Sheridan is 6 (ruling planet Venus). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Sheridan?",
-     "a": "Friday is the traditional association for Sheridan. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Sheridan?",
-     "a": "Diamond is the traditional association for Sheridan. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Sheridan?",
-     "a": "White, Pink are the traditional associations for Sheridan. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Sheridan?",
-     "a": "In Pythagorean numerology the letters of Sheridan total 42, reducing to 6. Number 6 is associated with responsibility, care and harmony."
-    },
-    {
-     "q": "How reliable is the meaning given for Sheridan?",
-     "a": "The meaning of Sheridan carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Sheridan have a religious meaning?",
-     "a": "Sheridan is recorded as a christian name meaning “Hero, fighter, bright one”."
-    },
-    {
-     "q": "What is the English meaning of Sheridan?",
-     "a": "In English, Sheridan is rendered as “Hero, fighter, bright one”."
-    },
-    {
-     "q": "Is Sheridan suitable for a baby?",
-     "a": "Sheridan is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Sheridan?",
-     "a": "Sheridan is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Sheridan?",
-     "a": "Sheridan is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Sheridan have a positive meaning?",
-     "a": "Sheridan carries the meaning “Hero, fighter, bright one”."
-    }
-   ]
-  },
-  "seo_title": "Sheridan Name Meaning – Hero, fighter, bright one (Biblical)",
-  "meta_description": "Sheridan is a Biblical name meaning “Hero, fighter, bright one”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Sheridan",
-   "Sheridan name meaning",
-   "Sheridan meaning",
-   "Sheridan origin",
-   "Sheridan root",
-   "Sheridan pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/sheridan",
-  "intro_paragraph": "Sheridan is a Biblical name meaning “Hero, fighter, bright one”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Sheridan",
-   "description": "Sheridan — Hero, fighter, bright one",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Sheridan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Sheridan is 6 (ruling planet Venus). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Sheridan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Friday is the traditional association for Sheridan. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Sheridan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Diamond is the traditional association for Sheridan. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Sheridan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "White, Pink are the traditional associations for Sheridan. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Sheridan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Sheridan total 42, reducing to 6. Number 6 is associated with responsibility, care and harmony."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Sheridan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Sheridan carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Sheridan have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sheridan is recorded as a christian name meaning “Hero, fighter, bright one”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Sheridan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Sheridan is rendered as “Hero, fighter, bright one”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Sheridan suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sheridan is used as a unisex given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Sheridan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sheridan is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Sheridan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sheridan is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Sheridan have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sheridan carries the meaning “Hero, fighter, bright one”."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Sheridan",
-     "item": "https://namemeaning.example/name/sheridan"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 56,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Sheridan",
-   "slug": "sheridan",
-   "meaning": "Hero, fighter, bright one",
-   "origin": "Biblical",
-   "language": [
-    "English"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Sheridan",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Hero, fighter, bright one",
-   "long_meaning": "The name Sheridan is recorded with the meaning “Hero, fighter, bright one”. Sheridan is a Biblical name meaning “Hero, fighter, bright one”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Sheridan",
-     "meaning": "Hero, fighter, bright one",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "SHER-i-dan",
-    "ipa": "/ˈʃɛrɪdən/"
-   },
-   "syllables": 3,
-   "name_length": 8,
-   "faqs": [
-    {
-     "q": "What is the lucky number for Sheridan?",
-     "a": "The Pythagorean lucky number for Sheridan is 6 (ruling planet Venus). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Sheridan?",
-     "a": "Friday is the traditional association for Sheridan. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Sheridan?",
-     "a": "Diamond is the traditional association for Sheridan. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Sheridan?",
-     "a": "White, Pink are the traditional associations for Sheridan. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Sheridan?",
-     "a": "In Pythagorean numerology the letters of Sheridan total 42, reducing to 6. Number 6 is associated with responsibility, care and harmony."
-    },
-    {
-     "q": "How reliable is the meaning given for Sheridan?",
-     "a": "The meaning of Sheridan carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Sheridan have a religious meaning?",
-     "a": "Sheridan is recorded as a christian name meaning “Hero, fighter, bright one”."
-    },
-    {
-     "q": "What is the English meaning of Sheridan?",
-     "a": "In English, Sheridan is rendered as “Hero, fighter, bright one”."
-    },
-    {
-     "q": "Is Sheridan suitable for a baby?",
-     "a": "Sheridan is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Sheridan?",
-     "a": "Sheridan is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Sheridan?",
-     "a": "Sheridan is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Sheridan have a positive meaning?",
-     "a": "Sheridan carries the meaning “Hero, fighter, bright one”."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
+    "short_meaning": "Hero, fighter, bright one",
+    "long_meaning": "The meaning of Sheridan is recorded in name-lists as “Hero, fighter, bright one”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Sheridan expresses “Hero, fighter, bright one”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "s-h-e-r-i-d-a-n",
+    "syllables": 3,
+    "name_length": 8,
+    "transliteration": [
+      "Sheridan"
+    ],
     "lucky_number": 6,
-    "life_path_number": 6,
-    "ruling_planet": "Venus",
     "lucky_day": "Friday",
-    "lucky_stone": "Diamond",
     "lucky_colors": [
-     "White",
-     "Pink"
+      "White",
+      "Pink"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Sheridan total 42, reducing to 6. Number 6 is associated with responsibility, care and harmony."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "lucky_stone": "Diamond",
+    "ruling_planet": "Venus",
+    "life_path_number": 6,
+    "numerology_meaning": "In Pythagorean numerology the letters of Sheridan total 42, reducing to 6. Number 6 is associated with responsibility, care and harmony.",
+    "in_hebrew": {
+      "name": "שירידן",
+      "meaning": "שם פרטי שפירושו שיר או שירה של דן",
+      "long_meaning": "השם שירידן הוא שם פרטי המשלב את המילים שיר ודן, שפירושו שיר או שירה של דן. השם דן עצמו פירושו שפט או דין, ועל כן ניתן לפרש את השם שירידן כשיר של שפט או שירת הדין. השם נמצא בשימוש בקרב הנוצרים ומקורו במסורת הנוצרית."
+    },
+    "in_greek": {
+      "name": "Σέρινταν",
+      "meaning": "Όνομα που σημαίνει τραγούδι ή ποίημα του Δαν",
+      "long_meaning": "Το όνομα Σέρινταν είναι ένα προσωπικό όνομα που συνδυάζει τις λέξεις τραγούδι και Δαν, που σημαίνει τραγούδι ή ποίημα του Δαν. Το όνομα Δαν σημαίνει κρίση ή δικαιοσύνη, επομένως το Σέρινταν μπορεί να ερμηνευτεί ως το τραγούδι της κρίσης ή η ποίηση της δικαιοσύνης. Το όνομα αυτό χρησιμοποιείται από τους Χριστιανούς και έχει τις ρίζες του στη Χριστιανική παράδοση."
+    },
+    "in_latin": {
+      "name": "Sheridan",
+      "meaning": "Name meaning song or poem of Dan",
+      "long_meaning": "The name Sheridan is a personal name combining the words song and Dan, meaning song or poem of Dan. The name Dan itself means judge or justice, hence Sheridan can be interpreted as the song of judgment or the poetry of justice. This name is used among Christians and originates from Christian tradition."
+    },
+    "in_english": {
+      "name": "Sheridan",
+      "meaning": "Hero, fighter, bright one",
+      "long_meaning": "Hero, fighter, bright one"
+    },
+    "pronunciation": {
+      "english": "SHER-i-dan",
+      "ipa": "/ˈʃɛrɪdən/"
+    },
+    "name_variations": [
+      "Sheridan"
+    ],
+    "variants": [
+      "Sheridan"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Sheridan is used in Biblical naming tradition with the meaning “Hero, fighter, bright one”.",
+    "spiritual_significance": "Any spiritual significance attached to Sheridan is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Hero, fighter, bright one” is the basis of any symbolism attached to Sheridan; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Sheridan."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#SheridanMeaning",
+      "#ChristianBabyNames",
+      "#IrishSurnames",
+      "#Sheridan"
+    ],
+    "monetization": {
+      "adsense": {
+        "ads_layout": [
+          "above_content",
+          "below_content"
+        ],
+        "ads_types": [
+          "text_only",
+          "display_ads"
+        ]
+      },
+      "affiliate": {
+        "programs": [
+          "Amazon",
+          "Baby_Center"
+        ],
+        "products": [
+          {
+            "name": "Baby_Books",
+            "url": "https://example.com/baby-books"
+          },
+          {
+            "name": "Baby_Clothes",
+            "url": "https://example.com/baby-clothes"
+          }
+        ]
+      }
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Sheridan Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Sheridan has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Sheridan, Sheridan name meaning, Sheridan meaning, Sheridan origin, Sheridan root, Sheridan pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Sheridan has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Sheridan",
+        "Sheridan name meaning",
+        "Sheridan meaning",
+        "Sheridan origin",
+        "Sheridan root",
+        "Sheridan pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Sheridan name meaning",
+      "secondary_keywords": [
+        "Sheridan meaning",
+        "Sheridan origin",
+        "Sheridan pronunciation",
+        "Sheridan lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Sheridan mean?",
+          "a": "Name-lists record the meaning as “Hero, fighter, bright one”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Sheridan verified?",
+          "a": "No. The meaning of Sheridan could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Sheridan come from?",
+          "a": "The origin of Sheridan has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Sheridan Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Sheridan has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Sheridan",
+      "Sheridan name meaning",
+      "Sheridan meaning",
+      "Sheridan origin",
+      "Sheridan root",
+      "Sheridan pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Sheridan has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Sheridan",
+      "description": "Sheridan — Hero, fighter, bright one",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Sheridan mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Hero, fighter, bright one”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Sheridan verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Sheridan could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Sheridan come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Sheridan has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 56,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:32:22.000Z",
+    "tier1_verified": {
+      "name": "Sheridan",
+      "slug": "sheridan",
+      "meaning": "Hero, fighter, bright one",
+      "origin": "Biblical",
+      "language": [
+        "English"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Sheridan",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Hero, fighter, bright one",
+      "long_meaning": "The name Sheridan is recorded with the meaning “Hero, fighter, bright one”. Sheridan is a Biblical name meaning “Hero, fighter, bright one”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Sheridan",
+          "meaning": "Hero, fighter, bright one",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "SHER-i-dan",
+        "ipa": "/ˈʃɛrɪdən/"
+      },
+      "syllables": 3,
+      "name_length": 8,
+      "faqs": [
+        {
+          "q": "What does the name Sheridan mean?",
+          "a": "Name-lists record the meaning as “Hero, fighter, bright one”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Sheridan verified?",
+          "a": "No. The meaning of Sheridan could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Sheridan come from?",
+          "a": "The origin of Sheridan has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 6,
+        "life_path_number": 6,
+        "ruling_planet": "Venus",
+        "lucky_day": "Friday",
+        "lucky_stone": "Diamond",
+        "lucky_colors": [
+          "White",
+          "Pink"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Sheridan total 42, reducing to 6. Number 6 is associated with responsibility, care and harmony."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:32:22.000Z"
+    }
   }
- }
 }

@@ -1,499 +1,338 @@
 {
- "success": true,
- "data": {
-  "name": "Angie",
-  "slug": "angie",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Angie is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Messenger of God",
-  "long_meaning": "The name Angie is recorded with the meaning “Messenger of God”. Angie is a Biblical name meaning “Messenger of God”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Angie expresses “Messenger of God”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Angie is recorded with the meaning “Messenger of God”. Angie is a Biblical name meaning “Messenger of God”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "a-n-g-i-e",
-  "syllables": 1,
-  "name_length": 5,
-  "transliteration": [
-   "Angie"
-  ],
-  "lucky_number": 9,
-  "lucky_day": "Tuesday",
-  "lucky_colors": [
-   "Red",
-   "Crimson"
-  ],
-  "lucky_stone": "Red Coral",
-  "ruling_planet": "Mars",
-  "life_path_number": 9,
-  "numerology_meaning": "In Pythagorean numerology the letters of Angie total 27, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
-  "in_hebrew": {
-   "name": "אנגי",
-   "meaning": "לא נמצא משמעות ישירה בעברית מקראית",
-   "long_meaning": "השם 'אנגי' אינו מופיע באופן ישיר בכתבי הקודש העבריים. עם זאת, ניתן לראות בו גרסה קצרה או מודרנית של שמות עבריים שונים, כגון 'אנגלה' או 'אנגלית', שיכולים להיות קשורים למילה 'מלאך' (mal'ach), שפירושה 'מלאך' או 'שליח'."
-  },
-  "in_greek": {
-   "name": "Αντζι",
-   "meaning": "Αντζι σημαίνει αγγελος ή αγγελική",
-   "long_meaning": "Το όνομα 'Αντζι' είναι πιθανόν συνδεδεμένο με την ελληνική λέξη 'αγγέλος' (angelos), που σημαίνει 'αγγελος' ή 'αγγελική'. Στην Καινή Διαθήκη, οι άγγελοι αναφέρονται συχνά ως αγγελιοφόροι του Θεού. Το όνομα μπορεί να έχει προκύψει ως μία μορφή μικροποίησης ή υποκορισμού ονομάτων που σχετίζονται με αγγέλους."
-  },
-  "in_latin": {
-   "name": "Angie",
-   "meaning": "Angie means angelic or messenger",
-   "long_meaning": "The name 'Angie' is derived from the Latin term 'angelus,' meaning 'angel' or 'messenger.' In Christian tradition, angels are seen as messengers of God, carrying out His will. The name may have originated as a diminutive form of names related to angels or angelic qualities."
-  },
-  "in_english": {
-   "name": "Angie",
-   "meaning": "Messenger of God",
-   "long_meaning": "The name Angie is recorded with the meaning “Messenger of God”. Angie is a Biblical name meaning “Messenger of God”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "AN-jee",
-   "ipa": "/ˈændʒi/"
-  },
-  "name_variations": [
-   "Angie"
-  ],
-  "variants": [
-   "Angie"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Angie is used in Biblical naming tradition with the meaning “Messenger of God”.",
-  "spiritual_significance": "Any spiritual significance attached to Angie is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Messenger of God” is the basis of any symbolism attached to Angie; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": "The name 'Angie' does not appear directly in the Bible."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Angie."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AngieMeaning",
-   "#ChristianBabyNames",
-   "#AнгelicNames",
-   "#ChristianNames",
-   "#Angie"
-  ],
-  "monetization": {
-   "ads": [
-    {
-     "type": "banner",
-     "size": "300x250",
-     "location": "sidebar"
-    },
-    {
-     "type": "text_link",
-     "text": "Sponsored: Find unique baby gifts at BabyGifts.com",
-     "location": "below_content"
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Angie Name Meaning – Messenger of God (Biblical)",
-   "meta_description": "Angie is a Biblical name meaning “Messenger of God”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Angie, Angie name meaning, Angie meaning, Angie origin, Angie root, Angie pronunciation, Biblical names",
-   "description_paragraph": "Angie is a Biblical name meaning “Messenger of God”.",
-   "keywords": [
-    "Angie",
-    "Angie name meaning",
-    "Angie meaning",
-    "Angie origin",
-    "Angie root",
-    "Angie pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Angie name meaning",
-   "secondary_keywords": [
-    "Angie meaning",
-    "Angie origin",
-    "Angie pronunciation",
-    "Angie lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/angie",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "How reliable is the meaning given for Angie?",
-     "a": "The meaning of Angie carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Angie have a religious meaning?",
-     "a": "Angie is recorded as a christian name meaning “Messenger of God”."
-    },
-    {
-     "q": "What is the English meaning of Angie?",
-     "a": "In English, Angie is rendered as “Messenger of God”."
-    },
-    {
-     "q": "Is Angie suitable for a baby?",
-     "a": "Angie is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Angie?",
-     "a": "Angie is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Angie?",
-     "a": "Angie is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Angie have a positive meaning?",
-     "a": "Angie carries the meaning “Messenger of God”."
-    },
-    {
-     "q": "What does the name Angie mean?",
-     "a": "Angie means “Messenger of God”."
-    },
-    {
-     "q": "What is the origin of the name Angie?",
-     "a": "Angie is of Biblical origin."
-    },
-    {
-     "q": "Is Angie a unisex name?",
-     "a": "Angie is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Angie have?",
-     "a": "Angie has 1 syllable."
-    },
-    {
-     "q": "How is Angie pronounced?",
-     "a": "Angie is pronounced as given in the pronunciation field of this record."
-    }
-   ]
-  },
-  "seo_title": "Angie Name Meaning – Messenger of God (Biblical)",
-  "meta_description": "Angie is a Biblical name meaning “Messenger of God”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Angie",
-   "Angie name meaning",
-   "Angie meaning",
-   "Angie origin",
-   "Angie root",
-   "Angie pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/angie",
-  "intro_paragraph": "Angie is a Biblical name meaning “Messenger of God”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Angie",
-   "description": "Angie — Messenger of God",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Angie?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Angie carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Angie have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Angie is recorded as a christian name meaning “Messenger of God”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Angie?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Angie is rendered as “Messenger of God”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Angie suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Angie is used as a unisex given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Angie?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Angie is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Angie?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Angie is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Angie have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Angie carries the meaning “Messenger of God”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Angie mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Angie means “Messenger of God”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Angie?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Angie is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Angie a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Angie is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Angie have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Angie has 1 syllable."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Angie pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Angie is pronounced as given in the pronunciation field of this record."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Angie",
-     "item": "https://namemeaning.example/name/angie"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Angie",
-   "slug": "angie",
-   "meaning": "Messenger of God",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Angie",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Messenger of God",
-   "long_meaning": "The name Angie is recorded with the meaning “Messenger of God”. Angie is a Biblical name meaning “Messenger of God”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Angie",
-     "meaning": "Messenger of God",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "AN-jee",
-    "ipa": "/ˈændʒi/"
-   },
-   "syllables": 1,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "How reliable is the meaning given for Angie?",
-     "a": "The meaning of Angie carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Angie have a religious meaning?",
-     "a": "Angie is recorded as a christian name meaning “Messenger of God”."
-    },
-    {
-     "q": "What is the English meaning of Angie?",
-     "a": "In English, Angie is rendered as “Messenger of God”."
-    },
-    {
-     "q": "Is Angie suitable for a baby?",
-     "a": "Angie is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Angie?",
-     "a": "Angie is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Angie?",
-     "a": "Angie is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Angie have a positive meaning?",
-     "a": "Angie carries the meaning “Messenger of God”."
-    },
-    {
-     "q": "What does the name Angie mean?",
-     "a": "Angie means “Messenger of God”."
-    },
-    {
-     "q": "What is the origin of the name Angie?",
-     "a": "Angie is of Biblical origin."
-    },
-    {
-     "q": "Is Angie a unisex name?",
-     "a": "Angie is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Angie have?",
-     "a": "Angie has 1 syllable."
-    },
-    {
-     "q": "How is Angie pronounced?",
-     "a": "Angie is pronounced as given in the pronunciation field of this record."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 9,
-    "life_path_number": 9,
-    "ruling_planet": "Mars",
-    "lucky_day": "Tuesday",
-    "lucky_stone": "Red Coral",
-    "lucky_colors": [
-     "Red",
-     "Crimson"
+  "success": true,
+  "data": {
+    "name": "Angie",
+    "slug": "angie",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Angie total 27, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Angie is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Messenger of God",
+    "long_meaning": "The meaning of Angie is recorded in name-lists as “Messenger of God”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Angie expresses “Messenger of God”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "a-n-g-i-e",
+    "syllables": 1,
+    "name_length": 5,
+    "transliteration": [
+      "Angie"
+    ],
+    "lucky_number": 9,
+    "lucky_day": "Tuesday",
+    "lucky_colors": [
+      "Red",
+      "Crimson"
+    ],
+    "lucky_stone": "Red Coral",
+    "ruling_planet": "Mars",
+    "life_path_number": 9,
+    "numerology_meaning": "In Pythagorean numerology the letters of Angie total 27, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
+    "in_hebrew": {
+      "name": "אנגי",
+      "meaning": "לא נמצא משמעות ישירה בעברית מקראית",
+      "long_meaning": "השם 'אנגי' אינו מופיע באופן ישיר בכתבי הקודש העבריים. עם זאת, ניתן לראות בו גרסה קצרה או מודרנית של שמות עבריים שונים, כגון 'אנגלה' או 'אנגלית', שיכולים להיות קשורים למילה 'מלאך' (mal'ach), שפירושה 'מלאך' או 'שליח'."
+    },
+    "in_greek": {
+      "name": "Αντζι",
+      "meaning": "Αντζι σημαίνει αγγελος ή αγγελική",
+      "long_meaning": "Το όνομα 'Αντζι' είναι πιθανόν συνδεδεμένο με την ελληνική λέξη 'αγγέλος' (angelos), που σημαίνει 'αγγελος' ή 'αγγελική'. Στην Καινή Διαθήκη, οι άγγελοι αναφέρονται συχνά ως αγγελιοφόροι του Θεού. Το όνομα μπορεί να έχει προκύψει ως μία μορφή μικροποίησης ή υποκορισμού ονομάτων που σχετίζονται με αγγέλους."
+    },
+    "in_latin": {
+      "name": "Angie",
+      "meaning": "Angie means angelic or messenger",
+      "long_meaning": "The name 'Angie' is derived from the Latin term 'angelus,' meaning 'angel' or 'messenger.' In Christian tradition, angels are seen as messengers of God, carrying out His will. The name may have originated as a diminutive form of names related to angels or angelic qualities."
+    },
+    "in_english": {
+      "name": "Angie",
+      "meaning": "Messenger of God",
+      "long_meaning": "Messenger of God"
+    },
+    "pronunciation": {
+      "english": "AN-jee",
+      "ipa": "/ˈændʒi/"
+    },
+    "name_variations": [
+      "Angie"
+    ],
+    "variants": [
+      "Angie"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Angie is used in Biblical naming tradition with the meaning “Messenger of God”.",
+    "spiritual_significance": "Any spiritual significance attached to Angie is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Messenger of God” is the basis of any symbolism attached to Angie; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": "The name 'Angie' does not appear directly in the Bible."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Angie."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AngieMeaning",
+      "#ChristianBabyNames",
+      "#AнгelicNames",
+      "#ChristianNames",
+      "#Angie"
+    ],
+    "monetization": {
+      "ads": [
+        {
+          "type": "banner",
+          "size": "300x250",
+          "location": "sidebar"
+        },
+        {
+          "type": "text_link",
+          "text": "Sponsored: Find unique baby gifts at BabyGifts.com",
+          "location": "below_content"
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Angie Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Angie has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Angie, Angie name meaning, Angie meaning, Angie origin, Angie root, Angie pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Angie has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Angie",
+        "Angie name meaning",
+        "Angie meaning",
+        "Angie origin",
+        "Angie root",
+        "Angie pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Angie name meaning",
+      "secondary_keywords": [
+        "Angie meaning",
+        "Angie origin",
+        "Angie pronunciation",
+        "Angie lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Angie mean?",
+          "a": "Name-lists record the meaning as “Messenger of God”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Angie verified?",
+          "a": "No. The meaning of Angie could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Angie come from?",
+          "a": "The origin of Angie has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Angie Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Angie has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Angie",
+      "Angie name meaning",
+      "Angie meaning",
+      "Angie origin",
+      "Angie root",
+      "Angie pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Angie has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Angie",
+      "description": "Angie — Messenger of God",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Angie mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Messenger of God”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Angie verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Angie could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Angie come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Angie has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:05:19.000Z",
+    "tier1_verified": {
+      "name": "Angie",
+      "slug": "angie",
+      "meaning": "Messenger of God",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Angie",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Messenger of God",
+      "long_meaning": "The name Angie is recorded with the meaning “Messenger of God”. Angie is a Biblical name meaning “Messenger of God”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Angie",
+          "meaning": "Messenger of God",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "AN-jee",
+        "ipa": "/ˈændʒi/"
+      },
+      "syllables": 1,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Angie mean?",
+          "a": "Name-lists record the meaning as “Messenger of God”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Angie verified?",
+          "a": "No. The meaning of Angie could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Angie come from?",
+          "a": "The origin of Angie has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 9,
+        "life_path_number": 9,
+        "ruling_planet": "Mars",
+        "lucky_day": "Tuesday",
+        "lucky_stone": "Red Coral",
+        "lucky_colors": [
+          "Red",
+          "Crimson"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Angie total 27, reducing to 9. Number 9 is associated with compassion, idealism and completion."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:05:19.000Z"
+    }
   }
- }
 }

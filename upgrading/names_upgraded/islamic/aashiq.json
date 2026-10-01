@@ -1,549 +1,388 @@
 {
- "success": true,
- "data": {
-  "name": "Aashiq",
-  "slug": "aashiq",
-  "language": [
-   "Arabic",
-   "Urdu",
-   "Persian",
-   "Pashto"
-  ],
-  "gender": "Male",
-  "gender_notes": "Aashiq is used as a male name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Lover of the Beloved",
-  "long_meaning": "The name Aashiq is recorded with the meaning “Lover of the Beloved”. Aashiq is a Arabic name meaning “Lover of the Beloved”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Aashiq expresses “Lover of the Beloved”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Aashiq is recorded with the meaning “Lover of the Beloved”. Aashiq is a Arabic name meaning “Lover of the Beloved”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-a-s-h-i-q",
-  "syllables": 2,
-  "name_length": 6,
-  "transliteration": [
-   "Aashiq"
-  ],
-  "lucky_number": 1,
-  "lucky_day": "Sunday",
-  "lucky_colors": [
-   "Gold",
-   "Orange"
-  ],
-  "lucky_stone": "Ruby",
-  "ruling_planet": "Sun",
-  "life_path_number": 1,
-  "numerology_meaning": "In Pythagorean numerology the letters of Aashiq total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
-  "in_arabic": {
-   "name": "أَشِق",
-   "meaning": "أَشِقُ: المشتاق، المُتَّابع، المُطلِع",
-   "long_meaning": "أَشِقُ: مصدر من الأَشِيقَة، والفعل يُشَيقُ، وَهُوَ المشتاق إلى الشَيء، وَالْمُتَّابع، وَالْمُطلِع: المَطلوعُ للَيلِ، وَالمَطلوعُ إلى الوَرى. وَبِهَذا الصِفَةِ يُعرَفُ الإيمانُ، وَيَستَصفيهِ المُؤمِنُ، وَيَطلُعُ بِهِ المَطلوعُ. وَقالَ تعالى: {وَإِنَّهُ لَتَفَripperِقُ الشَوقُ إِلى اللَهِ} [الرحمن: 22]."
-  },
-  "in_urdu": {
-   "name": "اشیق",
-   "meaning": "اشیق: مَشتیاق، مُتَّبع، مُطلع، مَطلوع",
-   "long_meaning": "اشیق: مصدر اشیقہ، جس کا معنی ہے مَشتیاق، مُتَّبع، مُطلع۔ ہمہ جہت مسٹاق ہونے والا کہ جو کسی بھی طرف مشغول ہو۔ اور بھی اس کا مطلب ہے، جو کسی کو پیار کرتا ہے۔ ایماندار، ایمان کی پیروی کرنے والا۔ اللہ کے لئے ہمیشہ متوجہ رہنے والا۔ اللہ سے محبت کا ایک بڑا شوق رکھنے والا۔"
-  },
-  "in_hindi": {
-   "name": "आशिक",
-   "meaning": "आशिक: मिश्तिक, मुत्ताब, मुतल्ल, मतलू",
-   "long_meaning": "आशिक: आशीख़ा का अर्थ है मिश्तिक, जिसका अर्थ है किसी के प्रति बहुत प्यार करना, प्रेम करना। मुत्ताबी का अर्थ है किसी का अनुसरण करना, उसके पीछे-पीछे चलना। मुतल्ल का अर्थ है किसी की ओर मुख करके आना, उसकी ओर देखकर आना।"
-  },
-  "in_pashto": {
-   "name": "اشيقي",
-   "meaning": "اشيقي: مشتیاق، متاب، مطلع، مطلوع",
-   "long_meaning": "اشيقي: مشتیاق دا مطلب يې دا دی، چې انسان د پېر شویو پېښو په پورته کول او پېښو ته د پیروي له لارې دویو ته د لېواله پوښښ ښکاري. دویو ته د پیروي له لارې دویو ته د لېواله پوښښ ښکاري. دویو ته د لېواله پوښښ ښکاري."
-  },
-  "in_english": {
-   "name": "Aashiq",
-   "meaning": "Lover of the Beloved",
-   "long_meaning": "The name Aashiq is recorded with the meaning “Lover of the Beloved”. Aashiq is a Arabic name meaning “Lover of the Beloved”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "AH-sheek",
-   "urdu": "اردو میں تلفظ کی تفصیل: اَشِیق",
-   "hindi": "हिन्दी में उच्चारण विवरण: आशिक",
-   "pashto": "په پښتو کې د تلفظ تفصیل: اشيقي",
-   "ipa": "/ˈɑː.siːk/"
-  },
-  "name_variations": [
-   "Aashiq"
-  ],
-  "variants": [
-   "Aashiq"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Aashiq is used in Arabic naming tradition with the meaning “Lover of the Beloved”.",
-  "spiritual_significance": "Any spiritual significance attached to Aashiq is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Lover of the Beloved” is the basis of any symbolism attached to Aashiq; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Aashiq has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Aashiq."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AashiqMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Aashiq"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Aashiq",
-     "description": "Discover the meaning of Aashiq - \"Lover of the Beloved\"",
-     "image": "/images/social/aashiq-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Aashiq - Name Meaning",
-     "description": "Learn about the beautiful name Aashiq",
-     "image": "/images/social/aashiq-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Aashiq",
-     "description": "Name meaning: Lover of the Beloved",
-     "image": "/images/social/aashiq-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Aashiq - Meaning: Lover of the Beloved",
-    "email_subject": "Beautiful Name: Aashiq"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Aashiq with meaning Lover of the Beloved",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Aashiq Name Meaning – Lover of the Beloved (Arabic)",
-   "meta_description": "Aashiq is a Arabic name meaning “Lover of the Beloved”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Aashiq, Aashiq name meaning, Aashiq meaning, Aashiq origin, Aashiq root, Aashiq pronunciation, Arabic names",
-   "description_paragraph": "Aashiq is a Arabic name meaning “Lover of the Beloved”.",
-   "keywords": [
-    "Aashiq",
-    "Aashiq name meaning",
-    "Aashiq meaning",
-    "Aashiq origin",
-    "Aashiq root",
-    "Aashiq pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Aashiq name meaning",
-   "secondary_keywords": [
-    "Aashiq meaning",
-    "Aashiq origin",
-    "Aashiq pronunciation",
-    "Aashiq lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/aashiq",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Are there variant spellings of Aashiq?",
-     "a": "Variant spellings of Aashiq are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Aashiq a common name?",
-     "a": "Popularity figures for Aashiq have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Aashiq say about a child?",
-     "a": "The name Aashiq expresses “Lover of the Beloved”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Aashiq be used in another language?",
-     "a": "Aashiq is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Aashiq mentioned in scripture?",
-     "a": "No scriptural reference for Aashiq has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Aashiq?",
-     "a": "The Pythagorean lucky number for Aashiq is 1 (ruling planet Sun). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Aashiq?",
-     "a": "Sunday is the traditional association for Aashiq. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Aashiq?",
-     "a": "Ruby is the traditional association for Aashiq. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Aashiq?",
-     "a": "Gold, Orange are the traditional associations for Aashiq. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Aashiq?",
-     "a": "In Pythagorean numerology the letters of Aashiq total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-    },
-    {
-     "q": "How reliable is the meaning given for Aashiq?",
-     "a": "The meaning of Aashiq carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Aashiq have a religious meaning?",
-     "a": "Aashiq is recorded as a islamic name meaning “Lover of the Beloved”."
-    }
-   ]
-  },
-  "seo_title": "Aashiq Name Meaning – Lover of the Beloved (Arabic)",
-  "meta_description": "Aashiq is a Arabic name meaning “Lover of the Beloved”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Aashiq",
-   "Aashiq name meaning",
-   "Aashiq meaning",
-   "Aashiq origin",
-   "Aashiq root",
-   "Aashiq pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/aashiq",
-  "intro_paragraph": "Aashiq is a Arabic name meaning “Lover of the Beloved”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Aashiq",
-   "description": "Aashiq — Lover of the Beloved",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Aashiq?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Aashiq are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aashiq a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Aashiq have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Aashiq say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Aashiq expresses “Lover of the Beloved”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Aashiq be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aashiq is recorded in Arabic; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aashiq mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Aashiq has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Aashiq?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Aashiq is 1 (ruling planet Sun). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Aashiq?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sunday is the traditional association for Aashiq. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Aashiq?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ruby is the traditional association for Aashiq. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Aashiq?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Gold, Orange are the traditional associations for Aashiq. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Aashiq?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Aashiq total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Aashiq?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Aashiq carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Aashiq have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aashiq is recorded as a islamic name meaning “Lover of the Beloved”."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Aashiq",
-     "item": "https://namemeaning.example/name/aashiq"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 56,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-12-22T19:19:49.928Z",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Aashiq",
-   "slug": "aashiq",
-   "meaning": "Lover of the Beloved",
-   "origin": "Arabic",
-   "language": [
-    "Arabic",
-    "Urdu",
-    "Persian",
-    "Pashto"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Aashiq",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Lover of the Beloved",
-   "long_meaning": "The name Aashiq is recorded with the meaning “Lover of the Beloved”. Aashiq is a Arabic name meaning “Lover of the Beloved”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Aashiq",
-     "meaning": "Lover of the Beloved",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "AH-sheek",
-    "ipa": "/ˈɑː.siːk/"
-   },
-   "syllables": 2,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "Are there variant spellings of Aashiq?",
-     "a": "Variant spellings of Aashiq are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Aashiq a common name?",
-     "a": "Popularity figures for Aashiq have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Aashiq say about a child?",
-     "a": "The name Aashiq expresses “Lover of the Beloved”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Aashiq be used in another language?",
-     "a": "Aashiq is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Aashiq mentioned in scripture?",
-     "a": "No scriptural reference for Aashiq has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Aashiq?",
-     "a": "The Pythagorean lucky number for Aashiq is 1 (ruling planet Sun). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Aashiq?",
-     "a": "Sunday is the traditional association for Aashiq. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Aashiq?",
-     "a": "Ruby is the traditional association for Aashiq. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Aashiq?",
-     "a": "Gold, Orange are the traditional associations for Aashiq. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Aashiq?",
-     "a": "In Pythagorean numerology the letters of Aashiq total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-    },
-    {
-     "q": "How reliable is the meaning given for Aashiq?",
-     "a": "The meaning of Aashiq carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Aashiq have a religious meaning?",
-     "a": "Aashiq is recorded as a islamic name meaning “Lover of the Beloved”."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 1,
-    "life_path_number": 1,
-    "ruling_planet": "Sun",
-    "lucky_day": "Sunday",
-    "lucky_stone": "Ruby",
-    "lucky_colors": [
-     "Gold",
-     "Orange"
+  "success": true,
+  "data": {
+    "name": "Aashiq",
+    "slug": "aashiq",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Aashiq total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Aashiq is used as a male name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Lover of the Beloved",
+    "long_meaning": "The meaning of Aashiq is recorded in name-lists as “Lover of the Beloved”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Aashiq expresses “Lover of the Beloved”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Arabic",
+    "root_letters": "a-a-s-h-i-q",
+    "syllables": 2,
+    "name_length": 6,
+    "transliteration": [
+      "Aashiq"
+    ],
+    "lucky_number": 1,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Gold",
+      "Orange"
+    ],
+    "lucky_stone": "Ruby",
+    "ruling_planet": "Sun",
+    "life_path_number": 1,
+    "numerology_meaning": "In Pythagorean numerology the letters of Aashiq total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
+    "in_arabic": {
+      "name": "أَشِق",
+      "meaning": "Lover of the Beloved",
+      "long_meaning": "Lover of the Beloved"
+    },
+    "in_urdu": {
+      "name": "اشیق",
+      "meaning": "Lover of the Beloved",
+      "long_meaning": "Lover of the Beloved"
+    },
+    "in_hindi": {
+      "name": "आशिक",
+      "meaning": "Lover of the Beloved",
+      "long_meaning": "Lover of the Beloved"
+    },
+    "in_pashto": {
+      "name": "اشيقي",
+      "meaning": "Lover of the Beloved",
+      "long_meaning": "Lover of the Beloved"
+    },
+    "in_english": {
+      "name": "Aashiq",
+      "meaning": "Lover of the Beloved",
+      "long_meaning": "Lover of the Beloved"
+    },
+    "pronunciation": {
+      "english": "AH-sheek",
+      "urdu": "اردو میں تلفظ کی تفصیل: اَشِیق",
+      "hindi": "हिन्दी में उच्चारण विवरण: आशिक",
+      "pashto": "په پښتو کې د تلفظ تفصیل: اشيقي",
+      "ipa": "/ˈɑː.siːk/"
+    },
+    "name_variations": [
+      "Aashiq"
+    ],
+    "variants": [
+      "Aashiq"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Aashiq is used in Arabic naming tradition with the meaning “Lover of the Beloved”.",
+    "spiritual_significance": "Any spiritual significance attached to Aashiq is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Lover of the Beloved” is the basis of any symbolism attached to Aashiq; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "No Qur'anic reference for Aashiq has been verified."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Aashiq."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AashiqMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Aashiq"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Aashiq",
+          "description": "Discover the meaning of Aashiq - \"Lover of the Beloved\"",
+          "image": "/images/social/aashiq-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Aashiq - Name Meaning",
+          "description": "Learn about the beautiful name Aashiq",
+          "image": "/images/social/aashiq-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Aashiq",
+          "description": "Name meaning: Lover of the Beloved",
+          "image": "/images/social/aashiq-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Aashiq - Meaning: Lover of the Beloved",
+        "email_subject": "Beautiful Name: Aashiq"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Aashiq with meaning Lover of the Beloved",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Aashiq Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Aashiq has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Aashiq, Aashiq name meaning, Aashiq meaning, Aashiq origin, Aashiq root, Aashiq pronunciation, Arabic names",
+      "description_paragraph": "The meaning of Aashiq has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Aashiq",
+        "Aashiq name meaning",
+        "Aashiq meaning",
+        "Aashiq origin",
+        "Aashiq root",
+        "Aashiq pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Aashiq name meaning",
+      "secondary_keywords": [
+        "Aashiq meaning",
+        "Aashiq origin",
+        "Aashiq pronunciation",
+        "Aashiq lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Aashiq mean?",
+          "a": "Name-lists record the meaning as “Lover of the Beloved”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Aashiq verified?",
+          "a": "No. The meaning of Aashiq could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Aashiq come from?",
+          "a": "The origin of Aashiq has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Aashiq Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Aashiq has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Aashiq",
+      "Aashiq name meaning",
+      "Aashiq meaning",
+      "Aashiq origin",
+      "Aashiq root",
+      "Aashiq pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Aashiq has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Aashiq",
+      "description": "Aashiq — Lover of the Beloved",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Aashiq mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Lover of the Beloved”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Aashiq verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Aashiq could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Aashiq come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Aashiq has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 56,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 70
+    },
+    "created_at": "2025-12-22T19:19:49.928Z",
+    "updated_at": "2026-10-01T04:04:18.000Z",
+    "tier1_verified": {
+      "name": "Aashiq",
+      "slug": "aashiq",
+      "meaning": "Lover of the Beloved",
+      "origin": "Arabic",
+      "language": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Aashiq",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Lover of the Beloved",
+      "long_meaning": "The name Aashiq is recorded with the meaning “Lover of the Beloved”. Aashiq is a Arabic name meaning “Lover of the Beloved”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Aashiq",
+          "meaning": "Lover of the Beloved",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "AH-sheek",
+        "ipa": "/ˈɑː.siːk/"
+      },
+      "syllables": 2,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Aashiq mean?",
+          "a": "Name-lists record the meaning as “Lover of the Beloved”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Aashiq verified?",
+          "a": "No. The meaning of Aashiq could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Aashiq come from?",
+          "a": "The origin of Aashiq has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 1,
+        "life_path_number": 1,
+        "ruling_planet": "Sun",
+        "lucky_day": "Sunday",
+        "lucky_stone": "Ruby",
+        "lucky_colors": [
+          "Gold",
+          "Orange"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Aashiq total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:18.000Z"
+    }
   }
- }
 }

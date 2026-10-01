@@ -1,505 +1,344 @@
 {
- "success": true,
- "data": {
-  "name": "Camillo",
-  "slug": "camillo",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Camillo is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Saint",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Young warrior",
-  "long_meaning": "The name Camillo is recorded with the meaning “Young warrior”. Camillo is a Biblical name meaning “Young warrior”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Camillo expresses “Young warrior”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Camillo is recorded with the meaning “Young warrior”. Camillo is a Biblical name meaning “Young warrior”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "c-a-m-i-l-l-o",
-  "syllables": 3,
-  "name_length": 7,
-  "transliteration": [
-   "Camillo"
-  ],
-  "lucky_number": 2,
-  "lucky_day": "Monday",
-  "lucky_colors": [
-   "White",
-   "Silver"
-  ],
-  "lucky_stone": "Pearl",
-  "ruling_planet": "Moon",
-  "life_path_number": 2,
-  "numerology_meaning": "In Pythagorean numerology the letters of Camillo total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
-  "in_hebrew": {
-   "name": "קמילו",
-   "meaning": "××—×¨ ×‘×•×§×•×¨ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ",
-   "long_meaning": "××—×¨ ×‘×•×§×•×¨ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ. ××•×“ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ"
-  },
-  "in_greek": {
-   "name": "Καμίλλο",
-   "meaning": "Ἡ ἄμμος ἕχει δραστήρια ὅπλα πρὸς τὸν ὄψιν",
-   "long_meaning": "Ἡ ἄμμος ἕχει δραστήρια ὅπλα πρὸς τὸν ὄψιν. Ἡ αἴθουσα τοῦ θεοῦ δίδωσιν τὸν πλοῦτον. Ἡ ὀρθολογία τοῦ καμίγκα ἕχει τὸν θρόνον τοῦ θεοῦ."
-  },
-  "in_latin": {
-   "name": "Camillo",
-   "meaning": "Pilis, vir fortis et prudentia habens",
-   "long_meaning": "Pilis, vir fortis et prudentia habens. Auctoritas, sapientia, et virtus sunt carmina nomina. Nomen Camillo in Christianorum traditione significat virtutem et fortitudo."
-  },
-  "in_english": {
-   "name": "Camillo",
-   "meaning": "Young warrior",
-   "long_meaning": "The name Camillo is recorded with the meaning “Young warrior”. Camillo is a Biblical name meaning “Young warrior”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "KAM-ee-loh",
-   "ipa": "/kəˈmiːloʊ/"
-  },
-  "name_variations": [
-   "Camillo"
-  ],
-  "variants": [
-   "Camillo"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Camillo is used in Biblical naming tradition with the meaning “Young warrior”.",
-  "spiritual_significance": "Any spiritual significance attached to Camillo is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Young warrior” is the basis of any symbolism attached to Camillo; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Camillo."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#CamilloMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Camillo"
-  ],
-  "monetization": {
-   "google_adsense": {
-    "publisher_id": "ca-pub-1234567890123456",
-    "ads_layout": "in_article"
-   },
-   "affiliate_links": [
-    {
-     "name": "BabyNameMeaning.com",
-     "url": "https://www.babynamemeaning.com/camillo",
-     "commission": 0.1
-    },
-    {
-     "name": "BabyCenter.com",
-     "url": "https://www.babycenter.com/baby-names/name-camillo",
-     "commission": 0.05
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Camillo Name Meaning – Young warrior (Biblical)",
-   "meta_description": "Camillo is a Biblical name meaning “Young warrior”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Camillo, Camillo name meaning, Camillo meaning, Camillo origin, Camillo root, Camillo pronunciation, Biblical names",
-   "description_paragraph": "Camillo is a Biblical name meaning “Young warrior”.",
-   "keywords": [
-    "Camillo",
-    "Camillo name meaning",
-    "Camillo meaning",
-    "Camillo origin",
-    "Camillo root",
-    "Camillo pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Camillo name meaning",
-   "secondary_keywords": [
-    "Camillo meaning",
-    "Camillo origin",
-    "Camillo pronunciation",
-    "Camillo lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/camillo",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the spiritual significance of Camillo?",
-     "a": "Any spiritual significance attached to Camillo is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Camillo?",
-     "a": "Variant spellings of Camillo are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Camillo a common name?",
-     "a": "Popularity figures for Camillo have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Camillo say about a child?",
-     "a": "The name Camillo expresses “Young warrior”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Camillo be used in another language?",
-     "a": "Camillo is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Camillo mentioned in scripture?",
-     "a": "No scriptural reference for Camillo has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Camillo?",
-     "a": "The Pythagorean lucky number for Camillo is 2 (ruling planet Moon). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Camillo?",
-     "a": "Monday is the traditional association for Camillo. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Camillo?",
-     "a": "Pearl is the traditional association for Camillo. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Camillo?",
-     "a": "White, Silver are the traditional associations for Camillo. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Camillo?",
-     "a": "In Pythagorean numerology the letters of Camillo total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-    },
-    {
-     "q": "How reliable is the meaning given for Camillo?",
-     "a": "The meaning of Camillo carries confidence LOW in this record. It is flagged for source verification."
-    }
-   ]
-  },
-  "seo_title": "Camillo Name Meaning – Young warrior (Biblical)",
-  "meta_description": "Camillo is a Biblical name meaning “Young warrior”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Camillo",
-   "Camillo name meaning",
-   "Camillo meaning",
-   "Camillo origin",
-   "Camillo root",
-   "Camillo pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/camillo",
-  "intro_paragraph": "Camillo is a Biblical name meaning “Young warrior”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Camillo",
-   "description": "Camillo — Young warrior",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Camillo?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Camillo is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Camillo?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Camillo are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Camillo a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Camillo have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Camillo say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Camillo expresses “Young warrior”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Camillo be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Camillo is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Camillo mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Camillo has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Camillo?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Camillo is 2 (ruling planet Moon). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Camillo?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Monday is the traditional association for Camillo. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Camillo?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pearl is the traditional association for Camillo. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Camillo?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "White, Silver are the traditional associations for Camillo. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Camillo?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Camillo total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Camillo?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Camillo carries confidence LOW in this record. It is flagged for source verification."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Camillo",
-     "item": "https://namemeaning.example/name/camillo"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Camillo",
-   "slug": "camillo",
-   "meaning": "Young warrior",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Camillo",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Young warrior",
-   "long_meaning": "The name Camillo is recorded with the meaning “Young warrior”. Camillo is a Biblical name meaning “Young warrior”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Camillo",
-     "meaning": "Young warrior",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "KAM-ee-loh",
-    "ipa": "/kəˈmiːloʊ/"
-   },
-   "syllables": 3,
-   "name_length": 7,
-   "faqs": [
-    {
-     "q": "What is the spiritual significance of Camillo?",
-     "a": "Any spiritual significance attached to Camillo is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Camillo?",
-     "a": "Variant spellings of Camillo are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Camillo a common name?",
-     "a": "Popularity figures for Camillo have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Camillo say about a child?",
-     "a": "The name Camillo expresses “Young warrior”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Camillo be used in another language?",
-     "a": "Camillo is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Camillo mentioned in scripture?",
-     "a": "No scriptural reference for Camillo has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Camillo?",
-     "a": "The Pythagorean lucky number for Camillo is 2 (ruling planet Moon). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Camillo?",
-     "a": "Monday is the traditional association for Camillo. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Camillo?",
-     "a": "Pearl is the traditional association for Camillo. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Camillo?",
-     "a": "White, Silver are the traditional associations for Camillo. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Camillo?",
-     "a": "In Pythagorean numerology the letters of Camillo total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-    },
-    {
-     "q": "How reliable is the meaning given for Camillo?",
-     "a": "The meaning of Camillo carries confidence LOW in this record. It is flagged for source verification."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 2,
-    "life_path_number": 2,
-    "ruling_planet": "Moon",
-    "lucky_day": "Monday",
-    "lucky_stone": "Pearl",
-    "lucky_colors": [
-     "White",
-     "Silver"
+  "success": true,
+  "data": {
+    "name": "Camillo",
+    "slug": "camillo",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Camillo total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Camillo is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Saint",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Young warrior",
+    "long_meaning": "The meaning of Camillo is recorded in name-lists as “Young warrior”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Camillo expresses “Young warrior”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "c-a-m-i-l-l-o",
+    "syllables": 3,
+    "name_length": 7,
+    "transliteration": [
+      "Camillo"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "White",
+      "Silver"
+    ],
+    "lucky_stone": "Pearl",
+    "ruling_planet": "Moon",
+    "life_path_number": 2,
+    "numerology_meaning": "In Pythagorean numerology the letters of Camillo total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
+    "in_hebrew": {
+      "name": "קמילו",
+      "meaning": "××—×¨ ×‘×•×§×•×¨ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ",
+      "long_meaning": "××—×¨ ×‘×•×§×•×¨ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ. ××•×“ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ ×‘×•×•×Ÿ"
+    },
+    "in_greek": {
+      "name": "Καμίλλο",
+      "meaning": "Ἡ ἄμμος ἕχει δραστήρια ὅπλα πρὸς τὸν ὄψιν",
+      "long_meaning": "Ἡ ἄμμος ἕχει δραστήρια ὅπλα πρὸς τὸν ὄψιν. Ἡ αἴθουσα τοῦ θεοῦ δίδωσιν τὸν πλοῦτον. Ἡ ὀρθολογία τοῦ καμίγκα ἕχει τὸν θρόνον τοῦ θεοῦ."
+    },
+    "in_latin": {
+      "name": "Camillo",
+      "meaning": "Pilis, vir fortis et prudentia habens",
+      "long_meaning": "Pilis, vir fortis et prudentia habens. Auctoritas, sapientia, et virtus sunt carmina nomina. Nomen Camillo in Christianorum traditione significat virtutem et fortitudo."
+    },
+    "in_english": {
+      "name": "Camillo",
+      "meaning": "Young warrior",
+      "long_meaning": "Young warrior"
+    },
+    "pronunciation": {
+      "english": "KAM-ee-loh",
+      "ipa": "/kəˈmiːloʊ/"
+    },
+    "name_variations": [
+      "Camillo"
+    ],
+    "variants": [
+      "Camillo"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Camillo is used in Biblical naming tradition with the meaning “Young warrior”.",
+    "spiritual_significance": "Any spiritual significance attached to Camillo is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Young warrior” is the basis of any symbolism attached to Camillo; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Camillo."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#CamilloMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Camillo"
+    ],
+    "monetization": {
+      "google_adsense": {
+        "publisher_id": "ca-pub-1234567890123456",
+        "ads_layout": "in_article"
+      },
+      "affiliate_links": [
+        {
+          "name": "BabyNameMeaning.com",
+          "url": "https://www.babynamemeaning.com/camillo",
+          "commission": 0.1
+        },
+        {
+          "name": "BabyCenter.com",
+          "url": "https://www.babycenter.com/baby-names/name-camillo",
+          "commission": 0.05
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Camillo Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Camillo has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Camillo, Camillo name meaning, Camillo meaning, Camillo origin, Camillo root, Camillo pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Camillo has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Camillo",
+        "Camillo name meaning",
+        "Camillo meaning",
+        "Camillo origin",
+        "Camillo root",
+        "Camillo pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Camillo name meaning",
+      "secondary_keywords": [
+        "Camillo meaning",
+        "Camillo origin",
+        "Camillo pronunciation",
+        "Camillo lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Camillo mean?",
+          "a": "Name-lists record the meaning as “Young warrior”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Camillo verified?",
+          "a": "No. The meaning of Camillo could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Camillo come from?",
+          "a": "The origin of Camillo has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Camillo Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Camillo has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Camillo",
+      "Camillo name meaning",
+      "Camillo meaning",
+      "Camillo origin",
+      "Camillo root",
+      "Camillo pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Camillo has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Camillo",
+      "description": "Camillo — Young warrior",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Camillo mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Young warrior”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Camillo verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Camillo could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Camillo come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Camillo has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:07:03.000Z",
+    "tier1_verified": {
+      "name": "Camillo",
+      "slug": "camillo",
+      "meaning": "Young warrior",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Camillo",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Young warrior",
+      "long_meaning": "The name Camillo is recorded with the meaning “Young warrior”. Camillo is a Biblical name meaning “Young warrior”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Camillo",
+          "meaning": "Young warrior",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "KAM-ee-loh",
+        "ipa": "/kəˈmiːloʊ/"
+      },
+      "syllables": 3,
+      "name_length": 7,
+      "faqs": [
+        {
+          "q": "What does the name Camillo mean?",
+          "a": "Name-lists record the meaning as “Young warrior”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Camillo verified?",
+          "a": "No. The meaning of Camillo could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Camillo come from?",
+          "a": "The origin of Camillo has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 2,
+        "life_path_number": 2,
+        "ruling_planet": "Moon",
+        "lucky_day": "Monday",
+        "lucky_stone": "Pearl",
+        "lucky_colors": [
+          "White",
+          "Silver"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Camillo total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:07:03.000Z"
+    }
   }
- }
 }

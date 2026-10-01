@@ -1,514 +1,353 @@
 {
- "success": true,
- "data": {
-  "name": "Ethel",
-  "slug": "ethel",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Ethel is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Virtue",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Noble one",
-  "long_meaning": "The name Ethel is recorded with the meaning “Noble one”. Ethel is a Biblical name meaning “Noble one”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Ethel expresses “Noble one”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Ethel is recorded with the meaning “Noble one”. Ethel is a Biblical name meaning “Noble one”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "e-t-h-e-l",
-  "syllables": 2,
-  "name_length": 5,
-  "transliteration": [
-   "Ethel"
-  ],
-  "lucky_number": 5,
-  "lucky_day": "Wednesday",
-  "lucky_colors": [
-   "Green",
-   "Turquoise"
-  ],
-  "lucky_stone": "Emerald",
-  "ruling_planet": "Mercury",
-  "life_path_number": 5,
-  "numerology_meaning": "In Pythagorean numerology the letters of Ethel total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
-  "in_hebrew": {
-   "name": "אתל",
-   "meaning": "אתל היא שם שפירושו נדיב, כוונה טובה",
-   "long_meaning": "אתל הוא שם שמקורו בשפה העברית ופירושו 'נדיב', 'כוונה טובה'. השם אתל מוזכר בתנ\"ך כהשם של אחד הנשים בתקופת המקרא. האטימולוגיה של השם קשורה למילה העברית 'אתל', שפירושה 'כוונה' או 'מטרה', ומעידה על אדם שנותן דעתו ומכוון את מעשיו לטובה."
-  },
-  "in_greek": {
-   "name": "Εθήλ",
-   "meaning": "Εθήλ σημαίνει καλό σκοπό, ευγενής",
-   "long_meaning": "Το όνομα Εθήλ προέρχεται από την ελληνική γλώσσα και σημαίνει 'καλό σκοπό' ή 'ευγενής'. Στην Καινή Διαθήκη, παρόλο που δεν αναφέρεται άμεσα, ο όρος σχετίζεται με έννοιες που αφορούν την καλοσύνη και την πρόθεση. Η ετυμολογία του ονόματος συνδέεται με τις ελληνικές λέξεις που εκφράζουν την έννοια της καλοπροαίρεσης και της ευγένειας."
-  },
-  "in_latin": {
-   "name": "Ethel",
-   "meaning": "Ethel means noble, good intention",
-   "long_meaning": "The name Ethel originates from Old English and is derived from the words 'aethel', meaning 'noble', and 'eil', meaning 'kind' or 'good'. In the context of early Christian tradition, the name signifies one who is of noble birth or spirit, embodying goodness and a positive disposition. Historically, Ethel was used in England and reflects the cultural exchange and linguistic evolution of names during the medieval period."
-  },
-  "in_english": {
-   "name": "Ethel",
-   "meaning": "Noble one",
-   "long_meaning": "The name Ethel is recorded with the meaning “Noble one”. Ethel is a Biblical name meaning “Noble one”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "ETH-el",
-   "ipa": "/ˈɛθəl/"
-  },
-  "name_variations": [
-   "Ethel"
-  ],
-  "variants": [
-   "Ethel"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Ethel is used in Biblical naming tradition with the meaning “Noble one”.",
-  "spiritual_significance": "Any spiritual significance attached to Ethel is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Noble one” is the basis of any symbolism attached to Ethel; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": "The name Ethel is not directly mentioned in the Bible."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Ethel."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#EthelMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Ethel"
-  ],
-  "monetization": {
-   "adsense": {
-    "placement": [
-     "ArticleBody",
-     "Sidebar",
-     "Footer"
+  "success": true,
+  "data": {
+    "name": "Ethel",
+    "slug": "ethel",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
     ],
-    "ads_per_page": 3,
-    "ad_size": [
-     300,
-     250,
-     728
-    ]
-   },
-   "affiliate": [
-    {
-     "name": "BabyCenter",
-     "link": "https://www.babycenter.com/",
-     "commission": 0.05
-    },
-    {
-     "name": "BuyBuyBaby",
-     "link": "https://www.buybuybaby.com/",
-     "commission": 0.1
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Ethel Name Meaning – Noble one (Biblical)",
-   "meta_description": "Ethel is a Biblical name meaning “Noble one”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Ethel, Ethel name meaning, Ethel meaning, Ethel origin, Ethel root, Ethel pronunciation, Biblical names",
-   "description_paragraph": "Ethel is a Biblical name meaning “Noble one”.",
-   "keywords": [
-    "Ethel",
-    "Ethel name meaning",
-    "Ethel meaning",
-    "Ethel origin",
-    "Ethel root",
-    "Ethel pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Ethel name meaning",
-   "secondary_keywords": [
-    "Ethel meaning",
-    "Ethel origin",
-    "Ethel pronunciation",
-    "Ethel lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/ethel",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the numerology of Ethel?",
-     "a": "In Pythagorean numerology the letters of Ethel total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-    },
-    {
-     "q": "How reliable is the meaning given for Ethel?",
-     "a": "The meaning of Ethel carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Ethel have a religious meaning?",
-     "a": "Ethel is recorded as a christian name meaning “Noble one”."
-    },
-    {
-     "q": "What is the English meaning of Ethel?",
-     "a": "In English, Ethel is rendered as “Noble one”."
-    },
-    {
-     "q": "Is Ethel suitable for a baby?",
-     "a": "Ethel is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Ethel?",
-     "a": "Ethel is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Ethel?",
-     "a": "Ethel is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Ethel have a positive meaning?",
-     "a": "Ethel carries the meaning “Noble one”."
-    },
-    {
-     "q": "What does the name Ethel mean?",
-     "a": "Ethel means “Noble one”."
-    },
-    {
-     "q": "What is the origin of the name Ethel?",
-     "a": "Ethel is of Biblical origin."
-    },
-    {
-     "q": "Is Ethel a unisex name?",
-     "a": "Ethel is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Ethel have?",
-     "a": "Ethel has 2 syllables."
-    }
-   ]
-  },
-  "seo_title": "Ethel Name Meaning – Noble one (Biblical)",
-  "meta_description": "Ethel is a Biblical name meaning “Noble one”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Ethel",
-   "Ethel name meaning",
-   "Ethel meaning",
-   "Ethel origin",
-   "Ethel root",
-   "Ethel pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/ethel",
-  "intro_paragraph": "Ethel is a Biblical name meaning “Noble one”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Ethel",
-   "description": "Ethel — Noble one",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Ethel?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Ethel total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Ethel?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Ethel carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Ethel have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ethel is recorded as a christian name meaning “Noble one”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Ethel?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Ethel is rendered as “Noble one”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Ethel suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ethel is used as a unisex given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Ethel?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ethel is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Ethel?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ethel is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Ethel have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ethel carries the meaning “Noble one”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Ethel mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ethel means “Noble one”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Ethel?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ethel is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Ethel a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ethel is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Ethel have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ethel has 2 syllables."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Ethel",
-     "item": "https://namemeaning.example/name/ethel"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Ethel",
-   "slug": "ethel",
-   "meaning": "Noble one",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Ethel",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Noble one",
-   "long_meaning": "The name Ethel is recorded with the meaning “Noble one”. Ethel is a Biblical name meaning “Noble one”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Ethel",
-     "meaning": "Noble one",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "ETH-el",
-    "ipa": "/ˈɛθəl/"
-   },
-   "syllables": 2,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "What is the numerology of Ethel?",
-     "a": "In Pythagorean numerology the letters of Ethel total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-    },
-    {
-     "q": "How reliable is the meaning given for Ethel?",
-     "a": "The meaning of Ethel carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Ethel have a religious meaning?",
-     "a": "Ethel is recorded as a christian name meaning “Noble one”."
-    },
-    {
-     "q": "What is the English meaning of Ethel?",
-     "a": "In English, Ethel is rendered as “Noble one”."
-    },
-    {
-     "q": "Is Ethel suitable for a baby?",
-     "a": "Ethel is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Ethel?",
-     "a": "Ethel is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Ethel?",
-     "a": "Ethel is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Ethel have a positive meaning?",
-     "a": "Ethel carries the meaning “Noble one”."
-    },
-    {
-     "q": "What does the name Ethel mean?",
-     "a": "Ethel means “Noble one”."
-    },
-    {
-     "q": "What is the origin of the name Ethel?",
-     "a": "Ethel is of Biblical origin."
-    },
-    {
-     "q": "Is Ethel a unisex name?",
-     "a": "Ethel is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Ethel have?",
-     "a": "Ethel has 2 syllables."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
+    "gender": "Unisex",
+    "gender_notes": "Ethel is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Virtue",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Noble one",
+    "long_meaning": "The meaning of Ethel is recorded in name-lists as “Noble one”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Ethel expresses “Noble one”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "e-t-h-e-l",
+    "syllables": 2,
+    "name_length": 5,
+    "transliteration": [
+      "Ethel"
+    ],
     "lucky_number": 5,
-    "life_path_number": 5,
-    "ruling_planet": "Mercury",
     "lucky_day": "Wednesday",
-    "lucky_stone": "Emerald",
     "lucky_colors": [
-     "Green",
-     "Turquoise"
+      "Green",
+      "Turquoise"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Ethel total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "lucky_stone": "Emerald",
+    "ruling_planet": "Mercury",
+    "life_path_number": 5,
+    "numerology_meaning": "In Pythagorean numerology the letters of Ethel total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
+    "in_hebrew": {
+      "name": "אתל",
+      "meaning": "אתל היא שם שפירושו נדיב, כוונה טובה",
+      "long_meaning": "אתל הוא שם שמקורו בשפה העברית ופירושו 'נדיב', 'כוונה טובה'. השם אתל מוזכר בתנ\"ך כהשם של אחד הנשים בתקופת המקרא. האטימולוגיה של השם קשורה למילה העברית 'אתל', שפירושה 'כוונה' או 'מטרה', ומעידה על אדם שנותן דעתו ומכוון את מעשיו לטובה."
+    },
+    "in_greek": {
+      "name": "Εθήλ",
+      "meaning": "Εθήλ σημαίνει καλό σκοπό, ευγενής",
+      "long_meaning": "Το όνομα Εθήλ προέρχεται από την ελληνική γλώσσα και σημαίνει 'καλό σκοπό' ή 'ευγενής'. Στην Καινή Διαθήκη, παρόλο που δεν αναφέρεται άμεσα, ο όρος σχετίζεται με έννοιες που αφορούν την καλοσύνη και την πρόθεση. Η ετυμολογία του ονόματος συνδέεται με τις ελληνικές λέξεις που εκφράζουν την έννοια της καλοπροαίρεσης και της ευγένειας."
+    },
+    "in_latin": {
+      "name": "Ethel",
+      "meaning": "Ethel means noble, good intention",
+      "long_meaning": "The name Ethel originates from Old English and is derived from the words 'aethel', meaning 'noble', and 'eil', meaning 'kind' or 'good'. In the context of early Christian tradition, the name signifies one who is of noble birth or spirit, embodying goodness and a positive disposition. Historically, Ethel was used in England and reflects the cultural exchange and linguistic evolution of names during the medieval period."
+    },
+    "in_english": {
+      "name": "Ethel",
+      "meaning": "Noble one",
+      "long_meaning": "Noble one"
+    },
+    "pronunciation": {
+      "english": "ETH-el",
+      "ipa": "/ˈɛθəl/"
+    },
+    "name_variations": [
+      "Ethel"
+    ],
+    "variants": [
+      "Ethel"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Ethel is used in Biblical naming tradition with the meaning “Noble one”.",
+    "spiritual_significance": "Any spiritual significance attached to Ethel is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Noble one” is the basis of any symbolism attached to Ethel; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": "The name Ethel is not directly mentioned in the Bible."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Ethel."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#EthelMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Ethel"
+    ],
+    "monetization": {
+      "adsense": {
+        "placement": [
+          "ArticleBody",
+          "Sidebar",
+          "Footer"
+        ],
+        "ads_per_page": 3,
+        "ad_size": [
+          300,
+          250,
+          728
+        ]
+      },
+      "affiliate": [
+        {
+          "name": "BabyCenter",
+          "link": "https://www.babycenter.com/",
+          "commission": 0.05
+        },
+        {
+          "name": "BuyBuyBaby",
+          "link": "https://www.buybuybaby.com/",
+          "commission": 0.1
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Ethel Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Ethel has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Ethel, Ethel name meaning, Ethel meaning, Ethel origin, Ethel root, Ethel pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Ethel has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Ethel",
+        "Ethel name meaning",
+        "Ethel meaning",
+        "Ethel origin",
+        "Ethel root",
+        "Ethel pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Ethel name meaning",
+      "secondary_keywords": [
+        "Ethel meaning",
+        "Ethel origin",
+        "Ethel pronunciation",
+        "Ethel lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Ethel mean?",
+          "a": "Name-lists record the meaning as “Noble one”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Ethel verified?",
+          "a": "No. The meaning of Ethel could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Ethel come from?",
+          "a": "The origin of Ethel has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Ethel Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Ethel has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Ethel",
+      "Ethel name meaning",
+      "Ethel meaning",
+      "Ethel origin",
+      "Ethel root",
+      "Ethel pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Ethel has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Ethel",
+      "description": "Ethel — Noble one",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Ethel mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Noble one”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Ethel verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Ethel could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Ethel come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Ethel has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:10:07.000Z",
+    "tier1_verified": {
+      "name": "Ethel",
+      "slug": "ethel",
+      "meaning": "Noble one",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Ethel",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Noble one",
+      "long_meaning": "The name Ethel is recorded with the meaning “Noble one”. Ethel is a Biblical name meaning “Noble one”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Ethel",
+          "meaning": "Noble one",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "ETH-el",
+        "ipa": "/ˈɛθəl/"
+      },
+      "syllables": 2,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Ethel mean?",
+          "a": "Name-lists record the meaning as “Noble one”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Ethel verified?",
+          "a": "No. The meaning of Ethel could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Ethel come from?",
+          "a": "The origin of Ethel has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 5,
+        "life_path_number": 5,
+        "ruling_planet": "Mercury",
+        "lucky_day": "Wednesday",
+        "lucky_stone": "Emerald",
+        "lucky_colors": [
+          "Green",
+          "Turquoise"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Ethel total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:10:07.000Z"
+    }
   }
- }
 }

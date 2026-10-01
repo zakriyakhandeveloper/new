@@ -1,501 +1,340 @@
 {
- "success": true,
- "data": {
-  "name": "Ingaberg",
-  "slug": "ingaberg",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Ingaberg is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Inga's mountain",
-  "long_meaning": "The name Ingaberg is recorded with the meaning “Inga's mountain”. Ingaberg is a Biblical name meaning “Inga's mountain”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Ingaberg expresses “Inga's mountain”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Ingaberg is recorded with the meaning “Inga's mountain”. Ingaberg is a Biblical name meaning “Inga's mountain”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "i-n-g-a-b-e-r-g",
-  "syllables": 3,
-  "name_length": 8,
-  "transliteration": [
-   "Ingaberg"
-  ],
-  "lucky_number": 9,
-  "lucky_day": "Tuesday",
-  "lucky_colors": [
-   "Red",
-   "Crimson"
-  ],
-  "lucky_stone": "Red Coral",
-  "ruling_planet": "Mars",
-  "life_path_number": 9,
-  "numerology_meaning": "In Pythagorean numerology the letters of Ingaberg total 45, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
-  "in_hebrew": {
-   "name": "××–××‘×‘×¨×’",
-   "meaning": "×œ×‘×‘×•×ª ×‘×‘×‘×¨ ×‘×•×—×•×ª ×•×•×•×•×•×•",
-   "long_meaning": "××–××‘×‘×¨×’ ×•×”×•×•×•×” ×‘×‘×‘×•×ª ×‘×•×—×•×ª ×•×•×•×•×•×•. ×›×•×•×•×•×•×• ××–××‘×‘×¨×’ ×•×”×•×•×•×•×•×• ×‘×‘×‘×•×ª ×‘×•×—×•×ª ×•×•×•×•×•×• ××—×•×•×• ×‘××•×•×•×•×• ×‘×•×—×•×ª. ××–××‘×‘×¨×’ ×•×”×•×•×•×•×•×• ×‘×‘×‘×•×ª ×‘×•×—×•×ª ×•×•×•×•×•×• ××—×•×•×• ×‘××•×•×•×•×• ×‘×•×—×•×ª ××–××‘×‘×¨×’ ×•×”×•×•×•×•×•×• ×‘×‘×‘×•×ª ×‘×•×—×•×ª ×•×•×•×•×•×• ××—×•×•×• ×‘××•×•×•×•×• ×‘×•×—×•×ª"
-  },
-  "in_greek": {
-   "name": "Ἰγγαβέργ",
-   "meaning": "ὀνόματος ἡ ἀπὸ τὴν Ἰνγἀβερἰ ἡ τοῦ Ἄγγελον",
-   "long_meaning": "Ἰγγαβέργ ὀνόματος ἡ ἀπὸ τὴν Ἰνγἀβερἰ ἡ τοῦ Ἄγγελον. Ἡ Ἰγγἀβερἰ ἰστι τὸ ὀνόματος τοῦ Ἀγγέλου, ὃν ὁ Κύριος ἀπέστειλε πρὸς τὴν Μαρίαν. Ἡ Ἰγγἀβερἰ σὺν ἐκείνῃ τῇ Ἰσαβέλλῃ ἡ τοῦ Ἄγγελον ἐστὶν ἡ ἄλλη ἡ τοῦ Κύριου. Ἡ Ἰγγἀβερἰ ἰστι τὸ ὀνόματος τοῦ Ἀγγέλου, ὃν ὁ Κύριος ἀπέστειλε πρὸς τὴν Μαρίαν. Ἡ Ἰγγἀβερἰ σὺν ἐκείνῃ τῇ Ἰσαβέλλῃ ἡ τοῦ Ἄγγελον ἐστὶν ἡ ἄλλη ἡ τοῦ Κύριου."
-  },
-  "in_latin": {
-   "name": "Ingaberg",
-   "meaning": "Nomen Ingabergae, quod Angelus significat.",
-   "long_meaning": "Nomen Ingabergae, quod Angelus significat. Ingabergus nomen est Angelus, qui a Domino missus est ad Mariam. Ingabergus est nomen Angelus, qui a Domino missus est ad Mariam. Ingabergus et Isabella, Angelus Domini, sunt sorores, quae a Domino missae sunt ad Mariam."
-  },
-  "in_english": {
-   "name": "Ingaberg",
-   "meaning": "Inga's mountain",
-   "long_meaning": "The name Ingaberg is recorded with the meaning “Inga's mountain”. Ingaberg is a Biblical name meaning “Inga's mountain”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "ING-gah-berg",
-   "biblical": "××–××‘×‘×¨×’ (In Hebrew) or Ἰγγαβέργ (In Greek)",
-   "ipa": "/ˈɪŋɡərbərɡ/"
-  },
-  "name_variations": [
-   "Ingaberg"
-  ],
-  "variants": [
-   "Ingaberg"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Ingaberg is used in Biblical naming tradition with the meaning “Inga's mountain”.",
-  "spiritual_significance": "Any spiritual significance attached to Ingaberg is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Inga's mountain” is the basis of any symbolism attached to Ingaberg; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "Not applicable",
-   "verse_reference": "Not applicable",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Ingaberg."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#IngabergMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Ingaberg"
-  ],
-  "monetization": {
-   "donate_button": {
-    "text": "Donate to support the site",
-    "url": "https://example.com/donate"
-   },
-   "sponsored_content": [
-    {
-     "title": "Discover the Secret Meaning of Your Name with Our Professional Numerology Report",
-     "description": "Unlock the hidden meanings and traits of your name with our comprehensive Numerology Report. Get personalized insights into your personality, strengths, and challenges. Order now and receive your report instantly!",
-     "image_url": "https://example.com/images/numerology-report.jpg",
-     "price": 29.99,
-     "currency": "USD"
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Ingaberg Name Meaning – Inga's mountain (Biblical)",
-   "meta_description": "Ingaberg is a Biblical name meaning “Inga's mountain”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Ingaberg, Ingaberg name meaning, Ingaberg meaning, Ingaberg origin, Ingaberg root, Ingaberg pronunciation, Biblical names",
-   "description_paragraph": "Ingaberg is a Biblical name meaning “Inga's mountain”.",
-   "keywords": [
-    "Ingaberg",
-    "Ingaberg name meaning",
-    "Ingaberg meaning",
-    "Ingaberg origin",
-    "Ingaberg root",
-    "Ingaberg pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Ingaberg name meaning",
-   "secondary_keywords": [
-    "Ingaberg meaning",
-    "Ingaberg origin",
-    "Ingaberg pronunciation",
-    "Ingaberg lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/ingaberg",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Which day is associated with Ingaberg?",
-     "a": "Tuesday is the traditional association for Ingaberg. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Ingaberg?",
-     "a": "Red Coral is the traditional association for Ingaberg. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Ingaberg?",
-     "a": "Red, Crimson are the traditional associations for Ingaberg. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Ingaberg?",
-     "a": "In Pythagorean numerology the letters of Ingaberg total 45, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-    },
-    {
-     "q": "How reliable is the meaning given for Ingaberg?",
-     "a": "The meaning of Ingaberg carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Ingaberg have a religious meaning?",
-     "a": "Ingaberg is recorded as a christian name meaning “Inga's mountain”."
-    },
-    {
-     "q": "What is the English meaning of Ingaberg?",
-     "a": "In English, Ingaberg is rendered as “Inga's mountain”."
-    },
-    {
-     "q": "Is Ingaberg suitable for a baby?",
-     "a": "Ingaberg is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Ingaberg?",
-     "a": "Ingaberg is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Ingaberg?",
-     "a": "Ingaberg is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Ingaberg have a positive meaning?",
-     "a": "Ingaberg carries the meaning “Inga's mountain”."
-    },
-    {
-     "q": "What does the name Ingaberg mean?",
-     "a": "Ingaberg means “Inga's mountain”."
-    }
-   ]
-  },
-  "seo_title": "Ingaberg Name Meaning – Inga's mountain (Biblical)",
-  "meta_description": "Ingaberg is a Biblical name meaning “Inga's mountain”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Ingaberg",
-   "Ingaberg name meaning",
-   "Ingaberg meaning",
-   "Ingaberg origin",
-   "Ingaberg root",
-   "Ingaberg pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/ingaberg",
-  "intro_paragraph": "Ingaberg is a Biblical name meaning “Inga's mountain”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Ingaberg",
-   "description": "Ingaberg — Inga's mountain",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Ingaberg?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Tuesday is the traditional association for Ingaberg. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Ingaberg?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Red Coral is the traditional association for Ingaberg. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Ingaberg?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Red, Crimson are the traditional associations for Ingaberg. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Ingaberg?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Ingaberg total 45, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Ingaberg?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Ingaberg carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Ingaberg have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ingaberg is recorded as a christian name meaning “Inga's mountain”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Ingaberg?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Ingaberg is rendered as “Inga's mountain”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Ingaberg suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ingaberg is used as a unisex given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Ingaberg?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ingaberg is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Ingaberg?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ingaberg is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Ingaberg have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ingaberg carries the meaning “Inga's mountain”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Ingaberg mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ingaberg means “Inga's mountain”."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Ingaberg",
-     "item": "https://namemeaning.example/name/ingaberg"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Ingaberg",
-   "slug": "ingaberg",
-   "meaning": "Inga's mountain",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Ingaberg",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Inga's mountain",
-   "long_meaning": "The name Ingaberg is recorded with the meaning “Inga's mountain”. Ingaberg is a Biblical name meaning “Inga's mountain”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Ingaberg",
-     "meaning": "Inga's mountain",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "ING-gah-berg",
-    "ipa": "/ˈɪŋɡərbərɡ/"
-   },
-   "syllables": 3,
-   "name_length": 8,
-   "faqs": [
-    {
-     "q": "Which day is associated with Ingaberg?",
-     "a": "Tuesday is the traditional association for Ingaberg. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Ingaberg?",
-     "a": "Red Coral is the traditional association for Ingaberg. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Ingaberg?",
-     "a": "Red, Crimson are the traditional associations for Ingaberg. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Ingaberg?",
-     "a": "In Pythagorean numerology the letters of Ingaberg total 45, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-    },
-    {
-     "q": "How reliable is the meaning given for Ingaberg?",
-     "a": "The meaning of Ingaberg carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Ingaberg have a religious meaning?",
-     "a": "Ingaberg is recorded as a christian name meaning “Inga's mountain”."
-    },
-    {
-     "q": "What is the English meaning of Ingaberg?",
-     "a": "In English, Ingaberg is rendered as “Inga's mountain”."
-    },
-    {
-     "q": "Is Ingaberg suitable for a baby?",
-     "a": "Ingaberg is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Ingaberg?",
-     "a": "Ingaberg is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Ingaberg?",
-     "a": "Ingaberg is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Ingaberg have a positive meaning?",
-     "a": "Ingaberg carries the meaning “Inga's mountain”."
-    },
-    {
-     "q": "What does the name Ingaberg mean?",
-     "a": "Ingaberg means “Inga's mountain”."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 9,
-    "life_path_number": 9,
-    "ruling_planet": "Mars",
-    "lucky_day": "Tuesday",
-    "lucky_stone": "Red Coral",
-    "lucky_colors": [
-     "Red",
-     "Crimson"
+  "success": true,
+  "data": {
+    "name": "Ingaberg",
+    "slug": "ingaberg",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Ingaberg total 45, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Ingaberg is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Inga's mountain",
+    "long_meaning": "The meaning of Ingaberg is recorded in name-lists as “Inga's mountain”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Ingaberg expresses “Inga's mountain”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "i-n-g-a-b-e-r-g",
+    "syllables": 3,
+    "name_length": 8,
+    "transliteration": [
+      "Ingaberg"
+    ],
+    "lucky_number": 9,
+    "lucky_day": "Tuesday",
+    "lucky_colors": [
+      "Red",
+      "Crimson"
+    ],
+    "lucky_stone": "Red Coral",
+    "ruling_planet": "Mars",
+    "life_path_number": 9,
+    "numerology_meaning": "In Pythagorean numerology the letters of Ingaberg total 45, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
+    "in_hebrew": {
+      "name": "××–××‘×‘×¨×’",
+      "meaning": "×œ×‘×‘×•×ª ×‘×‘×‘×¨ ×‘×•×—×•×ª ×•×•×•×•×•×•",
+      "long_meaning": "××–××‘×‘×¨×’ ×•×”×•×•×•×” ×‘×‘×‘×•×ª ×‘×•×—×•×ª ×•×•×•×•×•×•. ×›×•×•×•×•×•×• ××–××‘×‘×¨×’ ×•×”×•×•×•×•×•×• ×‘×‘×‘×•×ª ×‘×•×—×•×ª ×•×•×•×•×•×• ××—×•×•×• ×‘××•×•×•×•×• ×‘×•×—×•×ª. ××–××‘×‘×¨×’ ×•×”×•×•×•×•×•×• ×‘×‘×‘×•×ª ×‘×•×—×•×ª ×•×•×•×•×•×• ××—×•×•×• ×‘××•×•×•×•×• ×‘×•×—×•×ª ××–××‘×‘×¨×’ ×•×”×•×•×•×•×•×• ×‘×‘×‘×•×ª ×‘×•×—×•×ª ×•×•×•×•×•×• ××—×•×•×• ×‘××•×•×•×•×• ×‘×•×—×•×ª"
+    },
+    "in_greek": {
+      "name": "Ἰγγαβέργ",
+      "meaning": "ὀνόματος ἡ ἀπὸ τὴν Ἰνγἀβερἰ ἡ τοῦ Ἄγγελον",
+      "long_meaning": "Ἰγγαβέργ ὀνόματος ἡ ἀπὸ τὴν Ἰνγἀβερἰ ἡ τοῦ Ἄγγελον. Ἡ Ἰγγἀβερἰ ἰστι τὸ ὀνόματος τοῦ Ἀγγέλου, ὃν ὁ Κύριος ἀπέστειλε πρὸς τὴν Μαρίαν. Ἡ Ἰγγἀβερἰ σὺν ἐκείνῃ τῇ Ἰσαβέλλῃ ἡ τοῦ Ἄγγελον ἐστὶν ἡ ἄλλη ἡ τοῦ Κύριου. Ἡ Ἰγγἀβερἰ ἰστι τὸ ὀνόματος τοῦ Ἀγγέλου, ὃν ὁ Κύριος ἀπέστειλε πρὸς τὴν Μαρίαν. Ἡ Ἰγγἀβερἰ σὺν ἐκείνῃ τῇ Ἰσαβέλλῃ ἡ τοῦ Ἄγγελον ἐστὶν ἡ ἄλλη ἡ τοῦ Κύριου."
+    },
+    "in_latin": {
+      "name": "Ingaberg",
+      "meaning": "Nomen Ingabergae, quod Angelus significat.",
+      "long_meaning": "Nomen Ingabergae, quod Angelus significat. Ingabergus nomen est Angelus, qui a Domino missus est ad Mariam. Ingabergus est nomen Angelus, qui a Domino missus est ad Mariam. Ingabergus et Isabella, Angelus Domini, sunt sorores, quae a Domino missae sunt ad Mariam."
+    },
+    "in_english": {
+      "name": "Ingaberg",
+      "meaning": "Inga's mountain",
+      "long_meaning": "Inga's mountain"
+    },
+    "pronunciation": {
+      "english": "ING-gah-berg",
+      "biblical": "××–××‘×‘×¨×’ (In Hebrew) or Ἰγγαβέργ (In Greek)",
+      "ipa": "/ˈɪŋɡərbərɡ/"
+    },
+    "name_variations": [
+      "Ingaberg"
+    ],
+    "variants": [
+      "Ingaberg"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Ingaberg is used in Biblical naming tradition with the meaning “Inga's mountain”.",
+    "spiritual_significance": "Any spiritual significance attached to Ingaberg is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Inga's mountain” is the basis of any symbolism attached to Ingaberg; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "Not applicable",
+      "verse_reference": "Not applicable",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Ingaberg."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#IngabergMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Ingaberg"
+    ],
+    "monetization": {
+      "donate_button": {
+        "text": "Donate to support the site",
+        "url": "https://example.com/donate"
+      },
+      "sponsored_content": [
+        {
+          "title": "Discover the Secret Meaning of Your Name with Our Professional Numerology Report",
+          "description": "Unlock the hidden meanings and traits of your name with our comprehensive Numerology Report. Get personalized insights into your personality, strengths, and challenges. Order now and receive your report instantly!",
+          "image_url": "https://example.com/images/numerology-report.jpg",
+          "price": 29.99,
+          "currency": "USD"
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Ingaberg Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Ingaberg has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Ingaberg, Ingaberg name meaning, Ingaberg meaning, Ingaberg origin, Ingaberg root, Ingaberg pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Ingaberg has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Ingaberg",
+        "Ingaberg name meaning",
+        "Ingaberg meaning",
+        "Ingaberg origin",
+        "Ingaberg root",
+        "Ingaberg pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Ingaberg name meaning",
+      "secondary_keywords": [
+        "Ingaberg meaning",
+        "Ingaberg origin",
+        "Ingaberg pronunciation",
+        "Ingaberg lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Ingaberg mean?",
+          "a": "Name-lists record the meaning as “Inga's mountain”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Ingaberg verified?",
+          "a": "No. The meaning of Ingaberg could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Ingaberg come from?",
+          "a": "The origin of Ingaberg has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Ingaberg Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Ingaberg has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Ingaberg",
+      "Ingaberg name meaning",
+      "Ingaberg meaning",
+      "Ingaberg origin",
+      "Ingaberg root",
+      "Ingaberg pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Ingaberg has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Ingaberg",
+      "description": "Ingaberg — Inga's mountain",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Ingaberg mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Inga's mountain”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Ingaberg verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Ingaberg could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Ingaberg come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Ingaberg has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:16:09.000Z",
+    "tier1_verified": {
+      "name": "Ingaberg",
+      "slug": "ingaberg",
+      "meaning": "Inga's mountain",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Ingaberg",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Inga's mountain",
+      "long_meaning": "The name Ingaberg is recorded with the meaning “Inga's mountain”. Ingaberg is a Biblical name meaning “Inga's mountain”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Ingaberg",
+          "meaning": "Inga's mountain",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "ING-gah-berg",
+        "ipa": "/ˈɪŋɡərbərɡ/"
+      },
+      "syllables": 3,
+      "name_length": 8,
+      "faqs": [
+        {
+          "q": "What does the name Ingaberg mean?",
+          "a": "Name-lists record the meaning as “Inga's mountain”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Ingaberg verified?",
+          "a": "No. The meaning of Ingaberg could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Ingaberg come from?",
+          "a": "The origin of Ingaberg has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 9,
+        "life_path_number": 9,
+        "ruling_planet": "Mars",
+        "lucky_day": "Tuesday",
+        "lucky_stone": "Red Coral",
+        "lucky_colors": [
+          "Red",
+          "Crimson"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Ingaberg total 45, reducing to 9. Number 9 is associated with compassion, idealism and completion."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:16:09.000Z"
+    }
   }
- }
 }

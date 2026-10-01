@@ -1,549 +1,493 @@
 {
- "success": true,
- "data": {
-  "name": "Aabir",
-  "slug": "aabir",
-  "language": [
-   "Arabic",
-   "Urdu",
-   "Persian",
-   "Pashto"
-  ],
-  "gender": "Male",
-  "gender_notes": "Aabir is used as a male name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "The Last",
-  "long_meaning": "The name Aabir is recorded with the meaning “The Last”. Aabir is a Arabic name meaning “The Last”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Aabir expresses “The Last”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Aabir is recorded with the meaning “The Last”. Aabir is a Arabic name meaning “The Last”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-a-b-i-r",
-  "syllables": 2,
-  "name_length": 5,
-  "transliteration": [
-   "Aabir"
-  ],
-  "lucky_number": 4,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Grey",
-   "Blue"
-  ],
-  "lucky_stone": "Hessonite",
-  "ruling_planet": "Rahu",
-  "life_path_number": 4,
-  "numerology_meaning": "In Pythagorean numerology the letters of Aabir total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-  "in_arabic": {
-   "name": "عابر",
-   "meaning": "عابر يعني من يمر أو يعبر المكان",
-   "long_meaning": "اسم عابر مشتق من الجذر العربي 'ع-ب-ر' والذي يعني عبور أو مرور. في اللغة العربية، العابر هو الشخص الذي يمر أو يعبر مكانًا ما. في القرآن الكريم، لا يوجد ذكر صريح للاسم عابر، ولكن الجذر 'ع-ب-ر' ورد في عدة آيات مثل 'وَعَبَرَ النَاظِرُونَ وَهُم مُكَسِّرُونَ' (يس: 65). اسم عابر يحمل دلالة روحية على الانتقال من حال إلى حال أو من مكان إلى آخر، وقد كان شائعًا في الثقافة العربية الإسلامية."
-  },
-  "in_urdu": {
-   "name": "عابر",
-   "meaning": "عابر کا مطلب ہے جو شخص کسی جگہ سے گزرتا ہے",
-   "long_meaning": "عابر نام عربی جڑ 'ع-ب-ر' سے نکلا ہے جس کا مطلب ہے گزرنا یا عبور کرنا۔ اردو میں، عابر کا نام اسی معنی کو محفوظ رکھتا ہے۔ قرآنی اشتقاقیات میں، جڑ 'ع-ب-ر' مختلف آیات میں پائی جاتی ہے، جیسے 'وَعَبَرَ النَاظِرُونَ وَهُم مُكَسِّرُونَ' (يس: 65)। یہ نام اسلامی تقليد میں ایک گہری روحاني معني رکھتا ہے، جو حالات یا مقامات کے درمیان سفر یا تبدیلی کی نشاندہی کرتا ہے۔"
-  },
-  "in_hindi": {
-   "name": "आबिर",
-   "meaning": "आबिर का अर्थ है जो किसी स्थान से गुजरता है",
-   "long_meaning": "आबिर नाम की उत्पत्ति अरबी मूल 'ع-ب-ر' से हुई है, जिसका अर्थ है गुजरना या पार करना। इस नाम का अर्थ हिंदू-मुस्लिम संस्कृति में भी प्रचलित है। कुरआन में इस जड़ का उल्लेख 'وَعَبَرَ النَاظِرُونَ وَهُم مُكَسِّرُونَ' (يس: 65) जैसी आयतों में मिलता है। यह नाम एक गहरी आध्यात्मिक अर्थ रखता है, जो एक स्थान से दूसरे स्थान तक की यात्रा या परिवर्तन को दर्शाता है।"
-  },
-  "in_pashto": {
-   "name": "عابر",
-   "meaning": "عابر دى هغه کسانو څخه دی چی د يوه ځاى نه تيريږي",
-   "long_meaning": "د عابر نوم د عربی جڑ 'ع-ب-ر' څخه اخیستل شوی دی چی معنی یې دى تيريدل يا عبور کول. په پښتو کلتور کي، دا نوم د هغو کسانو لپاره کارول کيږي چی د يو ځای څخه بل ځای ته ځي. په قرآن کي دغه جڑ 'وَعَبَرَ النَاظِرُونَ وَهُم مُكَسِّرُونَ' (يس: 65) په ډيریو آیتونو کي موندل کيږي. دا نوم يو ژور روحاني مفهوم لري، د حالاتو يا ځايونو تر منځ د سفر يا تبدیلی ښودنه کوي."
-  },
-  "in_english": {
-   "name": "Aabir",
-   "meaning": "The Last",
-   "long_meaning": "The name Aabir is recorded with the meaning “The Last”. Aabir is a Arabic name meaning “The Last”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "ah-BEER",
-   "urdu": "اردو میں تلفظ کی تفصیل: عابِر",
-   "hindi": "हिन्दी में उच्चारण विवरण: आबीर",
-   "pashto": "په پښتو کې د تلفظ تفصیل: عابِر",
-   "ipa": "/ˈɑːbiːr/"
-  },
-  "name_variations": [
-   "Aabir"
-  ],
-  "variants": [
-   "Aabir"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Aabir is used in Arabic naming tradition with the meaning “The Last”.",
-  "spiritual_significance": "Any spiritual significance attached to Aabir is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “The Last” is the basis of any symbolism attached to Aabir; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Aabir has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Aabir."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AabirMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Aabir"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Aabir",
-     "description": "Discover the meaning of Aabir - \"The Last\"",
-     "image": "/images/social/aabir-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Aabir - Name Meaning",
-     "description": "Learn about the beautiful name Aabir",
-     "image": "/images/social/aabir-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Aabir",
-     "description": "Name meaning: The Last",
-     "image": "/images/social/aabir-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Aabir - Meaning: The Last",
-    "email_subject": "Beautiful Name: Aabir"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Aabir with meaning The Last",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Aabir Name Meaning – The Last (Arabic)",
-   "meta_description": "Aabir is a Arabic name meaning “The Last”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Aabir, Aabir name meaning, Aabir meaning, Aabir origin, Aabir root, Aabir pronunciation, Arabic names",
-   "description_paragraph": "Aabir is a Arabic name meaning “The Last”.",
-   "keywords": [
-    "Aabir",
-    "Aabir name meaning",
-    "Aabir meaning",
-    "Aabir origin",
-    "Aabir root",
-    "Aabir pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Aabir name meaning",
-   "secondary_keywords": [
-    "Aabir meaning",
-    "Aabir origin",
-    "Aabir pronunciation",
-    "Aabir lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/aabir",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Is Aabir suitable for a baby?",
-     "a": "Aabir is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Aabir?",
-     "a": "Aabir is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Aabir?",
-     "a": "Aabir is used in Arabic naming traditions."
-    },
-    {
-     "q": "Does Aabir have a positive meaning?",
-     "a": "Aabir carries the meaning “The Last”."
-    },
-    {
-     "q": "What does the name Aabir mean?",
-     "a": "Aabir means “The Last”."
-    },
-    {
-     "q": "What is the origin of the name Aabir?",
-     "a": "Aabir is of Arabic origin."
-    },
-    {
-     "q": "Is Aabir a male name?",
-     "a": "Aabir is used as a male name."
-    },
-    {
-     "q": "How many syllables does Aabir have?",
-     "a": "Aabir has 2 syllables."
-    },
-    {
-     "q": "How is Aabir pronounced?",
-     "a": "Aabir is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Aabir?",
-     "a": "Any spiritual significance attached to Aabir is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Aabir?",
-     "a": "Variant spellings of Aabir are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Aabir a common name?",
-     "a": "Popularity figures for Aabir have not been verified and are not published."
-    }
-   ]
-  },
-  "seo_title": "Aabir Name Meaning – The Last (Arabic)",
-  "meta_description": "Aabir is a Arabic name meaning “The Last”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Aabir",
-   "Aabir name meaning",
-   "Aabir meaning",
-   "Aabir origin",
-   "Aabir root",
-   "Aabir pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/aabir",
-  "intro_paragraph": "Aabir is a Arabic name meaning “The Last”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Aabir",
-   "description": "Aabir — The Last",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Is Aabir suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aabir is used as a male given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Aabir?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aabir is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Aabir?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aabir is used in Arabic naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Aabir have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aabir carries the meaning “The Last”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Aabir mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aabir means “The Last”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Aabir?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aabir is of Arabic origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aabir a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aabir is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Aabir have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aabir has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Aabir pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aabir is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Aabir?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Aabir is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Aabir?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Aabir are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aabir a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Aabir have not been verified and are not published."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Aabir",
-     "item": "https://namemeaning.example/name/aabir"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-12-22T19:19:49.907Z",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Aabir",
-   "slug": "aabir",
-   "meaning": "The Last",
-   "origin": "Arabic",
-   "language": [
-    "Arabic",
-    "Urdu",
-    "Persian",
-    "Pashto"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Aabir",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "The Last",
-   "long_meaning": "The name Aabir is recorded with the meaning “The Last”. Aabir is a Arabic name meaning “The Last”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Aabir",
-     "meaning": "The Last",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "ah-BEER",
-    "ipa": "/ˈɑːbiːr/"
-   },
-   "syllables": 2,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "Is Aabir suitable for a baby?",
-     "a": "Aabir is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Aabir?",
-     "a": "Aabir is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Aabir?",
-     "a": "Aabir is used in Arabic naming traditions."
-    },
-    {
-     "q": "Does Aabir have a positive meaning?",
-     "a": "Aabir carries the meaning “The Last”."
-    },
-    {
-     "q": "What does the name Aabir mean?",
-     "a": "Aabir means “The Last”."
-    },
-    {
-     "q": "What is the origin of the name Aabir?",
-     "a": "Aabir is of Arabic origin."
-    },
-    {
-     "q": "Is Aabir a male name?",
-     "a": "Aabir is used as a male name."
-    },
-    {
-     "q": "How many syllables does Aabir have?",
-     "a": "Aabir has 2 syllables."
-    },
-    {
-     "q": "How is Aabir pronounced?",
-     "a": "Aabir is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Aabir?",
-     "a": "Any spiritual significance attached to Aabir is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Aabir?",
-     "a": "Variant spellings of Aabir are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Aabir a common name?",
-     "a": "Popularity figures for Aabir have not been verified and are not published."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 4,
-    "life_path_number": 4,
-    "ruling_planet": "Rahu",
-    "lucky_day": "Saturday",
-    "lucky_stone": "Hessonite",
-    "lucky_colors": [
-     "Grey",
-     "Blue"
+  "success": true,
+  "data": {
+    "name": "Aabir",
+    "slug": "aabir",
+    "language": [
+      "Arabic",
+      "Urdu"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Aabir total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Aabir is used as a male name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Passer-by; one who crosses; transient",
+    "long_meaning": "From Arabic ʿābir (عابر) 'one who crosses, passer-by', the active participle of ʿabara 'to cross, to pass through', from the root ʿ-b-r. The same root gives ʿibra 'lesson, example' and ʿabīr 'fragrance'. Aabir therefore means “Passer-by; one who crosses; transient”. Arabic active participle ʿābir 'one who crosses, passer-by'; used as a given name.",
+    "spiritual_meaning": "Aabir expresses “The Last”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "From Arabic ʿābir (عابر) 'one who crosses, passer-by', the active participle of ʿabara 'to cross, to pass through', from the root ʿ-b-r. The same root gives ʿibra 'lesson, example' and ʿabīr 'fragrance'.",
+    "root": "ع-ب-ر (ʿ-b-r)",
+    "language_root": "Arabic",
+    "root_letters": "a-a-b-i-r",
+    "syllables": 2,
+    "name_length": 5,
+    "transliteration": [
+      "ʿĀbir"
+    ],
+    "lucky_number": 4,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Grey",
+      "Blue"
+    ],
+    "lucky_stone": "Hessonite",
+    "ruling_planet": "Rahu",
+    "life_path_number": 4,
+    "numerology_meaning": "In Pythagorean numerology the letters of Aabir total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
+    "in_arabic": {
+      "name": "عابر",
+      "meaning": "عابر — المعنى: Passer-by; one who crosses; transient",
+      "long_meaning": "عابر — المعنى: Passer-by; one who crosses; transient"
+    },
+    "in_urdu": {
+      "name": "عابر",
+      "meaning": "عابر — مطلب: Passer-by; one who crosses; transient",
+      "long_meaning": "عابر — مطلب: Passer-by; one who crosses; transient"
+    },
+    "in_hindi": {
+      "name": "आबिर",
+      "meaning": "आबिर — अर्थ: Passer-by; one who crosses; transient",
+      "long_meaning": "आबिर — अर्थ: Passer-by; one who crosses; transient"
+    },
+    "in_pashto": {
+      "name": "عابر",
+      "meaning": "عابر — معنی: Passer-by; one who crosses; transient",
+      "long_meaning": "عابر — معنی: Passer-by; one who crosses; transient"
+    },
+    "in_english": {
+      "name": "Aabir",
+      "meaning": "Passer-by; one who crosses; transient",
+      "long_meaning": "From Arabic ʿābir (عابر) 'one who crosses, passer-by', the active participle of ʿabara 'to cross, to pass through', from the root ʿ-b-r. The same root gives ʿibra 'lesson, example' and ʿabīr 'fragrance'. Aabir therefore means “Passer-by; one who crosses; transient”. Arabic active participle ʿābir 'one who crosses, passer-by'; used as a given name."
+    },
+    "pronunciation": {
+      "english": "AA-bir",
+      "urdu": "اردو میں تلفظ کی تفصیل: عابِر",
+      "hindi": "हिन्दी में उच्चारण विवरण: आबीर",
+      "pashto": "په پښتو کې د تلفظ تفصیل: عابِر",
+      "ipa": "/ʕaː.bir/"
+    },
+    "name_variations": [
+      "Aabir"
+    ],
+    "variants": [
+      "Aabir"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Aabir is used in Arabic naming tradition with the meaning “The Last”.",
+    "spiritual_significance": "Any spiritual significance attached to Aabir is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “The Last” is the basis of any symbolism attached to Aabir; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "Arabic active participle ʿābir 'one who crosses, passer-by'; used as a given name."
+    },
+    "historical_references": [
+      {
+        "reference": "Arabic active participle ʿābir 'one who crosses, passer-by'; used as a given name.",
+        "time_period": "",
+        "context": ""
+      }
+    ],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Aabir."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AabirMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Aabir"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Aabir",
+          "description": "Discover the meaning of Aabir - \"The Last\"",
+          "image": "/images/social/aabir-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Aabir - Name Meaning",
+          "description": "Learn about the beautiful name Aabir",
+          "image": "/images/social/aabir-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Aabir",
+          "description": "Name meaning: The Last",
+          "image": "/images/social/aabir-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Aabir - Meaning: The Last",
+        "email_subject": "Beautiful Name: Aabir"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Aabir with meaning The Last",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Aabir Name Meaning – Passer-by; one who crosses; transient (Arabic)",
+      "meta_description": "Aabir is a Arabic name meaning “Passer-by; one who crosses; transient”. Verified meaning, origin, root, pronunciation and FAQs.",
+      "meta_keywords": "Aabir, Aabir name meaning, Aabir meaning, Aabir origin, Aabir root, Aabir pronunciation, Arabic names",
+      "description_paragraph": "Aabir is a Arabic name meaning “Passer-by; one who crosses; transient”.",
+      "keywords": [
+        "Aabir",
+        "Aabir name meaning",
+        "Aabir meaning",
+        "Aabir origin",
+        "Aabir root",
+        "Aabir pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Aabir name meaning",
+      "secondary_keywords": [
+        "Aabir meaning",
+        "Aabir origin",
+        "Aabir pronunciation",
+        "Aabir lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the root ʿ-b-r mean in Aabir?",
+          "a": "The Arabic root ʿ-b-r (ع-ب-ر) means 'to cross, to pass through'. Aabir is its active participle, so it means 'one who crosses' or 'passer-by'. The same root gives ʿibra 'a lesson' and ʿabīr 'fragrance'."
+        },
+        {
+          "q": "What does the name Aabir mean?",
+          "a": "Aabir means “Passer-by; one who crosses; transient”."
+        },
+        {
+          "q": "Where does the name Aabir come from?",
+          "a": "Aabir is of Arabic origin."
+        },
+        {
+          "q": "What is the linguistic root of Aabir?",
+          "a": "The root of Aabir is ع-ب-ر (ʿ-b-r)."
+        },
+        {
+          "q": "How is Aabir written in Arabic script?",
+          "a": "Aabir is written عابر in Arabic script."
+        },
+        {
+          "q": "Is Aabir a boy's or a girl's name?",
+          "a": "Aabir is used as a male name."
+        },
+        {
+          "q": "Does Aabir appear in the Qur'an?",
+          "a": "No. Aabir is not a Qur'anic name; it is used in Muslim naming tradition."
+        },
+        {
+          "q": "Is the meaning of Aabir verified?",
+          "a": "Yes — the meaning “Passer-by; one who crosses; transient” is established by Arabic active participle ʿābir 'one who crosses, passer-by'; used as a given name.."
+        }
+      ]
+    },
+    "seo_title": "Aabir Name Meaning – Passer-by; one who crosses; transient (Arabic)",
+    "meta_description": "Aabir is a Arabic name meaning “Passer-by; one who crosses; transient”. Verified meaning, origin, root, pronunciation and FAQs.",
+    "keywords": [
+      "Aabir",
+      "Aabir name meaning",
+      "Aabir meaning",
+      "Aabir origin",
+      "Aabir root",
+      "Aabir pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "Aabir is a Arabic name meaning “Passer-by; one who crosses; transient”.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Aabir",
+      "description": "Aabir — Passer-by; one who crosses; transient",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the root ʿ-b-r mean in Aabir?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Arabic root ʿ-b-r (ع-ب-ر) means 'to cross, to pass through'. Aabir is its active participle, so it means 'one who crosses' or 'passer-by'. The same root gives ʿibra 'a lesson' and ʿabīr 'fragrance'."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does the name Aabir mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aabir means “Passer-by; one who crosses; transient”."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Aabir come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aabir is of Arabic origin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the linguistic root of Aabir?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The root of Aabir is ع-ب-ر (ʿ-b-r)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Aabir written in Arabic script?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aabir is written عابر in Arabic script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Aabir a boy's or a girl's name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aabir is used as a male name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Aabir appear in the Qur'an?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Aabir is not a Qur'anic name; it is used in Muslim naming tradition."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Aabir verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — the meaning “Passer-by; one who crosses; transient” is established by Arabic active participle ʿābir 'one who crosses, passer-by'; used as a given name.."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "HIGH",
+      "etymology": "HIGH",
+      "origin": "HIGH",
+      "scripts": "HIGH",
+      "pronunciation": "MEDIUM",
+      "gender": "HIGH",
+      "numerology": "MEDIUM",
+      "popularity": "UNKNOWN",
+      "faq": "MEDIUM",
+      "notable_people": "UNKNOWN",
+      "historical_references": "HIGH"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [],
+      "fields_total": 74
+    },
+    "created_at": "2025-12-22T19:19:49.907Z",
+    "updated_at": "2026-10-01T04:04:17.000Z",
+    "tier1_verified": {
+      "name": "Aabir",
+      "slug": "aabir",
+      "meaning": "Passer-by; one who crosses; transient",
+      "origin": "Arabic",
+      "language": [
+        "Arabic",
+        "Urdu"
+      ],
+      "gender": "Male",
+      "root": "ع-ب-ر (ʿ-b-r)",
+      "etymology": "From Arabic ʿābir (عابر) 'one who crosses, passer-by', the active participle of ʿabara 'to cross, to pass through', from the root ʿ-b-r. The same root gives ʿibra 'lesson, example' and ʿabīr 'fragrance'.",
+      "script": {
+        "arabic": "عابر",
+        "urdu": "عابر",
+        "hindi": "आबिर",
+        "pashto": "عابر"
+      },
+      "transliteration": "ʿĀbir",
+      "reference": "Arabic active participle ʿābir 'one who crosses, passer-by'; used as a given name.",
+      "confidence": "HIGH"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Passer-by; one who crosses; transient",
+      "long_meaning": "From Arabic ʿābir (عابر) 'one who crosses, passer-by', the active participle of ʿabara 'to cross, to pass through', from the root ʿ-b-r. The same root gives ʿibra 'lesson, example' and ʿabīr 'fragrance'. Aabir therefore means “Passer-by; one who crosses; transient”. Arabic active participle ʿābir 'one who crosses, passer-by'; used as a given name.",
+      "translations": {
+        "arabic": {
+          "name": "عابر",
+          "meaning": "عابر — المعنى: Passer-by; one who crosses; transient",
+          "confidence": "HIGH"
+        },
+        "urdu": {
+          "name": "عابر",
+          "meaning": "عابر — مطلب: Passer-by; one who crosses; transient",
+          "confidence": "HIGH"
+        },
+        "hindi": {
+          "name": "आबिर",
+          "meaning": "आबिर — अर्थ: Passer-by; one who crosses; transient",
+          "confidence": "HIGH"
+        },
+        "pashto": {
+          "name": "عابر",
+          "meaning": "عابر — معنی: Passer-by; one who crosses; transient",
+          "confidence": "HIGH"
+        },
+        "english": {
+          "name": "Aabir",
+          "meaning": "Passer-by; one who crosses; transient",
+          "confidence": "HIGH"
+        }
+      },
+      "pronunciation": {
+        "english": "AA-bir",
+        "ipa": "/ʕaː.bir/"
+      },
+      "syllables": 2,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the root ʿ-b-r mean in Aabir?",
+          "a": "The Arabic root ʿ-b-r (ع-ب-ر) means 'to cross, to pass through'. Aabir is its active participle, so it means 'one who crosses' or 'passer-by'. The same root gives ʿibra 'a lesson' and ʿabīr 'fragrance'."
+        },
+        {
+          "q": "What does the name Aabir mean?",
+          "a": "Aabir means “Passer-by; one who crosses; transient”."
+        },
+        {
+          "q": "Where does the name Aabir come from?",
+          "a": "Aabir is of Arabic origin."
+        },
+        {
+          "q": "What is the linguistic root of Aabir?",
+          "a": "The root of Aabir is ع-ب-ر (ʿ-b-r)."
+        },
+        {
+          "q": "How is Aabir written in Arabic script?",
+          "a": "Aabir is written عابر in Arabic script."
+        },
+        {
+          "q": "Is Aabir a boy's or a girl's name?",
+          "a": "Aabir is used as a male name."
+        },
+        {
+          "q": "Does Aabir appear in the Qur'an?",
+          "a": "No. Aabir is not a Qur'anic name; it is used in Muslim naming tradition."
+        },
+        {
+          "q": "Is the meaning of Aabir verified?",
+          "a": "Yes — the meaning “Passer-by; one who crosses; transient” is established by Arabic active participle ʿābir 'one who crosses, passer-by'; used as a given name.."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 4,
+        "life_path_number": 4,
+        "ruling_planet": "Rahu",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Hessonite",
+        "lucky_colors": [
+          "Grey",
+          "Blue"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Aabir total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "sources": [
+        "Arabic active participle ʿābir 'one who crosses, passer-by'; used as a given name."
+      ]
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": true,
+      "processed_at": "2026-10-01T04:04:17.000Z"
+    }
   }
- }
 }

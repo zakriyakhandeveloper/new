@@ -1,549 +1,388 @@
 {
- "success": true,
- "data": {
-  "name": "Ahmari",
-  "slug": "ahmari",
-  "language": [
-   "Arabic",
-   "Urdu",
-   "Persian",
-   "Pashto"
-  ],
-  "gender": "Male",
-  "gender_notes": "Ahmari is used as a male name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Friend of God",
-  "long_meaning": "The name Ahmari is recorded with the meaning “Friend of God”. Ahmari is a Arabic name meaning “Friend of God”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Ahmari expresses “Friend of God”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Ahmari is recorded with the meaning “Friend of God”. Ahmari is a Arabic name meaning “Friend of God”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-h-m-a-r-i",
-  "syllables": 3,
-  "name_length": 6,
-  "transliteration": [
-   "Ahmari"
-  ],
-  "lucky_number": 5,
-  "lucky_day": "Wednesday",
-  "lucky_colors": [
-   "Green",
-   "Turquoise"
-  ],
-  "lucky_stone": "Emerald",
-  "ruling_planet": "Mercury",
-  "life_path_number": 5,
-  "numerology_meaning": "In Pythagorean numerology the letters of Ahmari total 32, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
-  "in_arabic": {
-   "name": "أَحْمَارِي",
-   "meaning": "أَحْمَارِي الاسم يأتي من الأَحْمَر، وهو لون الحمرة، ويحتمل أن يكون متعلقًا بالحياة والحيوية.",
-   "long_meaning": "أَحْمَارِي: يعود الاسم أَحْمَارِي إلى اللغة العربية، والذي يأتي من الكلمة أَحْمَر، وتعني الحمرة، وترتبط هذه الكلمة باللون الأحمر، الذي يعبر عن الحياة والحيوية، وقد يكون الاسم متعلقًا بالخصال الإنسانية التي يمتلكها الإنسان مثل الحيوية والحيوية، ويُعتقد أن هذا الاسم له أهمية روحية في الإسلام، حيث يرمز للحيوية والشجاعة، والذي يُستخدم في بعض الأحيان للإشارة إلى الشخص الذي يتمتع بنفس هذه الأوصاف، وقد يكون الاسم أَحْمَارِي أيضًا مرتبطًا بالتاريخ الإسلامي، حيث يُعتقد أن بعض الأشخاص حملوا هذا الاسم، وكانوا من أوائل المسلمين الذين ساهموا في نشر الإسلام، ويُعتقد أيضًا أن هذا الاسم له أهمية ثقافية في بعض المجتمعات الإسلامية، حيث يُستخدم في بعض الأحيان للإشارة إلى الشخص الذي يتمتع بنفس هذه الأوصاف."
-  },
-  "in_urdu": {
-   "name": "احمری",
-   "meaning": "احمری نام کا مطلب ہے، جو احمر رنگ سے ماخوذ ہے، اور یہ نام انسان کی حیاتی اور حیات کے لئے مخصوص ہے",
-   "long_meaning": "احمری نام کا مطلب ہے، جو احمر رنگ سے ماخوذ ہے، اور یہ نام انسان کی حیاتی اور حیات کے لئے مخصوص ہے، اور یہ نام انسان کی حيوانی صفات کا مظہر ہے، اور یہ نام انسان کی حیاتی اور حیات کے لئے مخصوص ہے، اور یہ نام انسان کی حيوانی صفات کا مظہر ہے، اور یہ نام انسان کی حیاتی اور حیات کے لئے مخصوص ہے، اور یہ نام انسان کی حيوانی صفات کا مظہر ہے، اور یہ نام انسان کی حیاتی اور حیات کے لئے مخصوص ہے"
-  },
-  "in_hindi": {
-   "name": "अहमरी",
-   "meaning": "अहमरी नाम का अर्थ है जो लाल रंग से बना हुआ है, और यह नाम मानव की जीवन शक्ति का प्रतीक है",
-   "long_meaning": "अहमरी नाम का अर्थ है जो लाल रंग से बना हुआ है, और यह नाम मानव की जीवन शक्ति का प्रतीक है, जो जीवन और ऊर्जा का प्रतीक है, और यह नाम मानव की जीवन शक्ति का प्रतीक है, जो जीवन और ऊर्जा का प्रतीक है, और यह नाम मानव की जीवन शक्ति का प्रतीक है, जो जीवन और ऊर्जा का प्रतीक है, और यह नाम मानव की जीवन शक्ति का प्रतीक है"
-  },
-  "in_pashto": {
-   "name": "احمری",
-   "meaning": "احمری نوم له مخلوط لونه احمر او لوي سيبزهه",
-   "long_meaning": "احمری نوم له مخلوط لونه احمر او لوي سيبزهه، دا نوم دې کلمه لویسيبزهه له مخلوط دی، چې د احمر لون سره تړاو لري، او دا نوم د انسان د ژوند په څېر، او دا نوم د انسان د ژوند په څېر، او دا نوم د انسان د ژوند په څېر، او دا نوم د انسان د ژوند په څېر، او دا نوم د انسان د ژوند په څېر"
-  },
-  "in_english": {
-   "name": "Ahmari",
-   "meaning": "Friend of God",
-   "long_meaning": "The name Ahmari is recorded with the meaning “Friend of God”. Ahmari is a Arabic name meaning “Friend of God”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "/ˈæhməri/",
-   "urdu": "احمری",
-   "hindi": "अहमरी",
-   "pashto": "احمری",
-   "ipa": "/ˈɑː.liːm/"
-  },
-  "name_variations": [
-   "Ahmari"
-  ],
-  "variants": [
-   "Ahmari"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Ahmari is used in Arabic naming tradition with the meaning “Friend of God”.",
-  "spiritual_significance": "Any spiritual significance attached to Ahmari is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Friend of God” is the basis of any symbolism attached to Ahmari; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Ahmari has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Ahmari."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AhmariMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Ahmari"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Ahmari",
-     "description": "Discover the meaning of Ahmari - \"Friend of God\"",
-     "image": "/images/social/ahmari-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Ahmari - Name Meaning",
-     "description": "Learn about the beautiful name Ahmari",
-     "image": "/images/social/ahmari-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Ahmari",
-     "description": "Name meaning: Friend of God",
-     "image": "/images/social/ahmari-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Ahmari - Meaning: Friend of God",
-    "email_subject": "Beautiful Name: Ahmari"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Ahmari with meaning Friend of God",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Ahmari Name Meaning – Friend of God (Arabic)",
-   "meta_description": "Ahmari is a Arabic name meaning “Friend of God”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Ahmari, Ahmari name meaning, Ahmari meaning, Ahmari origin, Ahmari root, Ahmari pronunciation, Arabic names",
-   "description_paragraph": "Ahmari is a Arabic name meaning “Friend of God”.",
-   "keywords": [
-    "Ahmari",
-    "Ahmari name meaning",
-    "Ahmari meaning",
-    "Ahmari origin",
-    "Ahmari root",
-    "Ahmari pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Ahmari name meaning",
-   "secondary_keywords": [
-    "Ahmari meaning",
-    "Ahmari origin",
-    "Ahmari pronunciation",
-    "Ahmari lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/ahmari",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the numerology of Ahmari?",
-     "a": "In Pythagorean numerology the letters of Ahmari total 32, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-    },
-    {
-     "q": "How reliable is the meaning given for Ahmari?",
-     "a": "The meaning of Ahmari carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Ahmari have a religious meaning?",
-     "a": "Ahmari is recorded as a islamic name meaning “Friend of God”."
-    },
-    {
-     "q": "What is the English meaning of Ahmari?",
-     "a": "In English, Ahmari is rendered as “Friend of God”."
-    },
-    {
-     "q": "Is Ahmari suitable for a baby?",
-     "a": "Ahmari is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Ahmari?",
-     "a": "Ahmari is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Ahmari?",
-     "a": "Ahmari is used in Arabic naming traditions."
-    },
-    {
-     "q": "Does Ahmari have a positive meaning?",
-     "a": "Ahmari carries the meaning “Friend of God”."
-    },
-    {
-     "q": "What does the name Ahmari mean?",
-     "a": "Ahmari means “Friend of God”."
-    },
-    {
-     "q": "What is the origin of the name Ahmari?",
-     "a": "Ahmari is of Arabic origin."
-    },
-    {
-     "q": "Is Ahmari a male name?",
-     "a": "Ahmari is used as a male name."
-    },
-    {
-     "q": "How many syllables does Ahmari have?",
-     "a": "Ahmari has 3 syllables."
-    }
-   ]
-  },
-  "seo_title": "Ahmari Name Meaning – Friend of God (Arabic)",
-  "meta_description": "Ahmari is a Arabic name meaning “Friend of God”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Ahmari",
-   "Ahmari name meaning",
-   "Ahmari meaning",
-   "Ahmari origin",
-   "Ahmari root",
-   "Ahmari pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/ahmari",
-  "intro_paragraph": "Ahmari is a Arabic name meaning “Friend of God”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Ahmari",
-   "description": "Ahmari — Friend of God",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Ahmari?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Ahmari total 32, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Ahmari?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Ahmari carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Ahmari have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ahmari is recorded as a islamic name meaning “Friend of God”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Ahmari?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Ahmari is rendered as “Friend of God”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Ahmari suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ahmari is used as a male given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Ahmari?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ahmari is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Ahmari?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ahmari is used in Arabic naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Ahmari have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ahmari carries the meaning “Friend of God”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Ahmari mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ahmari means “Friend of God”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Ahmari?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ahmari is of Arabic origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Ahmari a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ahmari is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Ahmari have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ahmari has 3 syllables."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Ahmari",
-     "item": "https://namemeaning.example/name/ahmari"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-12-22T19:19:49.916Z",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Ahmari",
-   "slug": "ahmari",
-   "meaning": "Friend of God",
-   "origin": "Arabic",
-   "language": [
-    "Arabic",
-    "Urdu",
-    "Persian",
-    "Pashto"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Ahmari",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Friend of God",
-   "long_meaning": "The name Ahmari is recorded with the meaning “Friend of God”. Ahmari is a Arabic name meaning “Friend of God”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Ahmari",
-     "meaning": "Friend of God",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "/ˈæhməri/",
-    "ipa": "/ˈɑː.liːm/"
-   },
-   "syllables": 3,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "What is the numerology of Ahmari?",
-     "a": "In Pythagorean numerology the letters of Ahmari total 32, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-    },
-    {
-     "q": "How reliable is the meaning given for Ahmari?",
-     "a": "The meaning of Ahmari carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Ahmari have a religious meaning?",
-     "a": "Ahmari is recorded as a islamic name meaning “Friend of God”."
-    },
-    {
-     "q": "What is the English meaning of Ahmari?",
-     "a": "In English, Ahmari is rendered as “Friend of God”."
-    },
-    {
-     "q": "Is Ahmari suitable for a baby?",
-     "a": "Ahmari is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Ahmari?",
-     "a": "Ahmari is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Ahmari?",
-     "a": "Ahmari is used in Arabic naming traditions."
-    },
-    {
-     "q": "Does Ahmari have a positive meaning?",
-     "a": "Ahmari carries the meaning “Friend of God”."
-    },
-    {
-     "q": "What does the name Ahmari mean?",
-     "a": "Ahmari means “Friend of God”."
-    },
-    {
-     "q": "What is the origin of the name Ahmari?",
-     "a": "Ahmari is of Arabic origin."
-    },
-    {
-     "q": "Is Ahmari a male name?",
-     "a": "Ahmari is used as a male name."
-    },
-    {
-     "q": "How many syllables does Ahmari have?",
-     "a": "Ahmari has 3 syllables."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 5,
-    "life_path_number": 5,
-    "ruling_planet": "Mercury",
-    "lucky_day": "Wednesday",
-    "lucky_stone": "Emerald",
-    "lucky_colors": [
-     "Green",
-     "Turquoise"
+  "success": true,
+  "data": {
+    "name": "Ahmari",
+    "slug": "ahmari",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Ahmari total 32, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Ahmari is used as a male name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Friend of God",
+    "long_meaning": "The meaning of Ahmari is recorded in name-lists as “Friend of God”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Ahmari expresses “Friend of God”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Arabic",
+    "root_letters": "a-h-m-a-r-i",
+    "syllables": 3,
+    "name_length": 6,
+    "transliteration": [
+      "Ahmari"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Wednesday",
+    "lucky_colors": [
+      "Green",
+      "Turquoise"
+    ],
+    "lucky_stone": "Emerald",
+    "ruling_planet": "Mercury",
+    "life_path_number": 5,
+    "numerology_meaning": "In Pythagorean numerology the letters of Ahmari total 32, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
+    "in_arabic": {
+      "name": "أَحْمَارِي",
+      "meaning": "Friend of God",
+      "long_meaning": "Friend of God"
+    },
+    "in_urdu": {
+      "name": "احمری",
+      "meaning": "Friend of God",
+      "long_meaning": "Friend of God"
+    },
+    "in_hindi": {
+      "name": "अहमरी",
+      "meaning": "Friend of God",
+      "long_meaning": "Friend of God"
+    },
+    "in_pashto": {
+      "name": "احمری",
+      "meaning": "Friend of God",
+      "long_meaning": "Friend of God"
+    },
+    "in_english": {
+      "name": "Ahmari",
+      "meaning": "Friend of God",
+      "long_meaning": "Friend of God"
+    },
+    "pronunciation": {
+      "english": "/ˈæhməri/",
+      "urdu": "احمری",
+      "hindi": "अहमरी",
+      "pashto": "احمری",
+      "ipa": "/ˈɑː.liːm/"
+    },
+    "name_variations": [
+      "Ahmari"
+    ],
+    "variants": [
+      "Ahmari"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Ahmari is used in Arabic naming tradition with the meaning “Friend of God”.",
+    "spiritual_significance": "Any spiritual significance attached to Ahmari is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Friend of God” is the basis of any symbolism attached to Ahmari; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "No Qur'anic reference for Ahmari has been verified."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Ahmari."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AhmariMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Ahmari"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Ahmari",
+          "description": "Discover the meaning of Ahmari - \"Friend of God\"",
+          "image": "/images/social/ahmari-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Ahmari - Name Meaning",
+          "description": "Learn about the beautiful name Ahmari",
+          "image": "/images/social/ahmari-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Ahmari",
+          "description": "Name meaning: Friend of God",
+          "image": "/images/social/ahmari-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Ahmari - Meaning: Friend of God",
+        "email_subject": "Beautiful Name: Ahmari"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Ahmari with meaning Friend of God",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Ahmari Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Ahmari has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Ahmari, Ahmari name meaning, Ahmari meaning, Ahmari origin, Ahmari root, Ahmari pronunciation, Arabic names",
+      "description_paragraph": "The meaning of Ahmari has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Ahmari",
+        "Ahmari name meaning",
+        "Ahmari meaning",
+        "Ahmari origin",
+        "Ahmari root",
+        "Ahmari pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Ahmari name meaning",
+      "secondary_keywords": [
+        "Ahmari meaning",
+        "Ahmari origin",
+        "Ahmari pronunciation",
+        "Ahmari lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Ahmari mean?",
+          "a": "Name-lists record the meaning as “Friend of God”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Ahmari verified?",
+          "a": "No. The meaning of Ahmari could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Ahmari come from?",
+          "a": "The origin of Ahmari has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Ahmari Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Ahmari has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Ahmari",
+      "Ahmari name meaning",
+      "Ahmari meaning",
+      "Ahmari origin",
+      "Ahmari root",
+      "Ahmari pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Ahmari has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Ahmari",
+      "description": "Ahmari — Friend of God",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Ahmari mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Friend of God”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Ahmari verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Ahmari could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Ahmari come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Ahmari has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 70
+    },
+    "created_at": "2025-12-22T19:19:49.916Z",
+    "updated_at": "2026-10-01T04:04:27.000Z",
+    "tier1_verified": {
+      "name": "Ahmari",
+      "slug": "ahmari",
+      "meaning": "Friend of God",
+      "origin": "Arabic",
+      "language": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Ahmari",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Friend of God",
+      "long_meaning": "The name Ahmari is recorded with the meaning “Friend of God”. Ahmari is a Arabic name meaning “Friend of God”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Ahmari",
+          "meaning": "Friend of God",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "/ˈæhməri/",
+        "ipa": "/ˈɑː.liːm/"
+      },
+      "syllables": 3,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Ahmari mean?",
+          "a": "Name-lists record the meaning as “Friend of God”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Ahmari verified?",
+          "a": "No. The meaning of Ahmari could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Ahmari come from?",
+          "a": "The origin of Ahmari has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 5,
+        "life_path_number": 5,
+        "ruling_planet": "Mercury",
+        "lucky_day": "Wednesday",
+        "lucky_stone": "Emerald",
+        "lucky_colors": [
+          "Green",
+          "Turquoise"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Ahmari total 32, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:27.000Z"
+    }
   }
- }
 }

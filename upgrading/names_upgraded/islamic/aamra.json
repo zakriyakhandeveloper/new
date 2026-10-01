@@ -1,549 +1,388 @@
 {
- "success": true,
- "data": {
-  "name": "Aamra",
-  "slug": "aamra",
-  "language": [
-   "Arabic",
-   "Urdu",
-   "Persian",
-   "Pashto"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Aamra is used as a unisex name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Support, help",
-  "long_meaning": "The name Aamra is recorded with the meaning “Support, help”. Aamra is a Arabic name meaning “Support, help”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Aamra expresses “Support, help”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Aamra is recorded with the meaning “Support, help”. Aamra is a Arabic name meaning “Support, help”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-a-m-r-a",
-  "syllables": 2,
-  "name_length": 5,
-  "transliteration": [
-   "Aamra"
-  ],
-  "lucky_number": 7,
-  "lucky_day": "Tuesday",
-  "lucky_colors": [
-   "Grey",
-   "Smoke"
-  ],
-  "lucky_stone": "Cat's Eye",
-  "ruling_planet": "Ketu",
-  "life_path_number": 7,
-  "numerology_meaning": "In Pythagorean numerology the letters of Aamra total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search.",
-  "in_arabic": {
-   "name": "أميرة",
-   "meaning": "أميرة بنت أمير",
-   "long_meaning": "الاسم أميرة مصدر الأمير وهو القائد، واسم أمير مصدر أمير الذي يعني الحاكم، واسم أمير مصدر أمير الذي يعني الشاب المرموق، والبنت هي النصف من الجنس البشري، والفتاة هي الصغيرة من الجنس البشري، والمرأة هي الجزء الأكبر من الجنس البشري، وتكون المرأة أميرة إذا كانت بنت أمير، أو بنت سيد، أو بنت قائد، أو بنت سيد أشراف، وتكون أميرة إذا كانت بنت حاكم، أو بنت سلطان، أو بنت إمارة، وتكون أميرة إذا كانت بنت ملك، أو بنت سلطانة، أو بنت إمرأة أشراف، وتكون أميرة إذا كانت بنت رجل مجيد، أو بنت رجل عظيم، أو بنت رجل متميّز، وتكون أميرة إذا كانت بنت رجل ممتاز، أو بنت رجل ذو مكانة، أو بنت رجل ذو شأن"
-  },
-  "in_urdu": {
-   "name": "امیرہ",
-   "meaning": "امیرہ کی بیٹی",
-   "long_meaning": "امیرہ نام کا مطلب ہے خاندان کی جان، یا خاندانی عہدہ، یا حکمران خاندان، یا شاندار خاندان، یا شاندار اشرافیہ، یا قائد خاندان، یا حکمران خاندان، اور یہ نام خاندان کے لیے مخصوص ہے، یا حکومت کے لیے مخصوص ہے، یا حکمران کے لیے مخصوص ہے، یا قائد کے لیے مخصوص ہے، یا شاندار اشرافیہ کے لیے مخصوص ہے، اور یہ نام خاندان کی خاتون کے لیے بھی مخصوص ہے، یا خاندان کی خاتون کے لیے مخصوص ہے، یا خاندان کی خاتون کے لیے مخصوص ہے، یا خاندان کی خاتون کے لیے مخصوص ہے"
-  },
-  "in_hindi": {
-   "name": "अमीरा",
-   "meaning": "अमीरा की लड़की",
-   "long_meaning": "अमीरा नाम का अर्थ है राजकुमारी या आदर्श परिवार का सदस्य, या एक आदर्श परिवार की सदस्य, या एक आदर्श परिवार की सदस्य, या एक आदर्श परिवार की सदस्य, या एक आदर्श परिवार की सदस्य, या एक आदर्श परिवार की सदस्य, यह नाम परिवार के लिए प्रासंगिक है, या सरकार के लिए प्रासंगिक है, या एक आदर्श परिवार की सदस्य के लिए प्रासंगिक है, या एक आदर्श परिवार की सदस्य के लिए प्रासंगिक है, या एक आदर्श परिवार की सदस्य के लिए प्रासंगिक है, या एक आदर्श परिवार की सदस्य के लिए प्रासंगिक है, या एक आदर्श परिवार की सदस्य के लिए प्रासंगिक है"
-  },
-  "in_pashto": {
-   "name": "امیرې",
-   "meaning": "امیرې د امير ښځه",
-   "long_meaning": "امیرې نوم د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو لپار د ښځو"
-  },
-  "in_english": {
-   "name": "Aamra",
-   "meaning": "Support, help",
-   "long_meaning": "The name Aamra is recorded with the meaning “Support, help”. Aamra is a Arabic name meaning “Support, help”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "/ˈɑː.mərə/",
-   "urdu": "امیرہ کے تلفظ کی تفصیل",
-   "hindi": "अमीरा का उच्चारण विवरण",
-   "pashto": "امیرې د تلفظ تفصیل",
-   "ipa": "/ˈæmɪrə/"
-  },
-  "name_variations": [
-   "Aamra"
-  ],
-  "variants": [
-   "Aamra"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Aamra is used in Arabic naming tradition with the meaning “Support, help”.",
-  "spiritual_significance": "Any spiritual significance attached to Aamra is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Support, help” is the basis of any symbolism attached to Aamra; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Aamra has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Aamra."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AamraMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Aamra"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Aamra",
-     "description": "Discover the meaning of Aamra - \"Support, help\"",
-     "image": "/images/social/aamra-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Aamra - Name Meaning",
-     "description": "Learn about the beautiful name Aamra",
-     "image": "/images/social/aamra-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Aamra",
-     "description": "Name meaning: Support, help",
-     "image": "/images/social/aamra-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Aamra - Meaning: Support, help",
-    "email_subject": "Beautiful Name: Aamra"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Aamra with meaning Support, help",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Aamra Name Meaning – Support, help (Arabic)",
-   "meta_description": "Aamra is a Arabic name meaning “Support, help”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Aamra, Aamra name meaning, Aamra meaning, Aamra origin, Aamra root, Aamra pronunciation, Arabic names",
-   "description_paragraph": "Aamra is a Arabic name meaning “Support, help”.",
-   "keywords": [
-    "Aamra",
-    "Aamra name meaning",
-    "Aamra meaning",
-    "Aamra origin",
-    "Aamra root",
-    "Aamra pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Aamra name meaning",
-   "secondary_keywords": [
-    "Aamra meaning",
-    "Aamra origin",
-    "Aamra pronunciation",
-    "Aamra lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/aamra",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Which gemstone is associated with Aamra?",
-     "a": "Cat's Eye is the traditional association for Aamra. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Aamra?",
-     "a": "Grey, Smoke are the traditional associations for Aamra. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Aamra?",
-     "a": "In Pythagorean numerology the letters of Aamra total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
-    },
-    {
-     "q": "How reliable is the meaning given for Aamra?",
-     "a": "The meaning of Aamra carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Aamra have a religious meaning?",
-     "a": "Aamra is recorded as a islamic name meaning “Support, help”."
-    },
-    {
-     "q": "What is the English meaning of Aamra?",
-     "a": "In English, Aamra is rendered as “Support, help”."
-    },
-    {
-     "q": "Is Aamra suitable for a baby?",
-     "a": "Aamra is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Aamra?",
-     "a": "Aamra is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Aamra?",
-     "a": "Aamra is used in Arabic naming traditions."
-    },
-    {
-     "q": "Does Aamra have a positive meaning?",
-     "a": "Aamra carries the meaning “Support, help”."
-    },
-    {
-     "q": "What does the name Aamra mean?",
-     "a": "Aamra means “Support, help”."
-    },
-    {
-     "q": "What is the origin of the name Aamra?",
-     "a": "Aamra is of Arabic origin."
-    }
-   ]
-  },
-  "seo_title": "Aamra Name Meaning – Support, help (Arabic)",
-  "meta_description": "Aamra is a Arabic name meaning “Support, help”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Aamra",
-   "Aamra name meaning",
-   "Aamra meaning",
-   "Aamra origin",
-   "Aamra root",
-   "Aamra pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/aamra",
-  "intro_paragraph": "Aamra is a Arabic name meaning “Support, help”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Aamra",
-   "description": "Aamra — Support, help",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Aamra?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Cat's Eye is the traditional association for Aamra. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Aamra?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Grey, Smoke are the traditional associations for Aamra. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Aamra?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Aamra total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Aamra?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Aamra carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Aamra have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aamra is recorded as a islamic name meaning “Support, help”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Aamra?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Aamra is rendered as “Support, help”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aamra suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aamra is used as a unisex given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Aamra?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aamra is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Aamra?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aamra is used in Arabic naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Aamra have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aamra carries the meaning “Support, help”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Aamra mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aamra means “Support, help”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Aamra?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aamra is of Arabic origin."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Aamra",
-     "item": "https://namemeaning.example/name/aamra"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-12-22T19:19:49.907Z",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Aamra",
-   "slug": "aamra",
-   "meaning": "Support, help",
-   "origin": "Arabic",
-   "language": [
-    "Arabic",
-    "Urdu",
-    "Persian",
-    "Pashto"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Aamra",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Support, help",
-   "long_meaning": "The name Aamra is recorded with the meaning “Support, help”. Aamra is a Arabic name meaning “Support, help”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Aamra",
-     "meaning": "Support, help",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "/ˈɑː.mərə/",
-    "ipa": "/ˈæmɪrə/"
-   },
-   "syllables": 2,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "Which gemstone is associated with Aamra?",
-     "a": "Cat's Eye is the traditional association for Aamra. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Aamra?",
-     "a": "Grey, Smoke are the traditional associations for Aamra. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Aamra?",
-     "a": "In Pythagorean numerology the letters of Aamra total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
-    },
-    {
-     "q": "How reliable is the meaning given for Aamra?",
-     "a": "The meaning of Aamra carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Aamra have a religious meaning?",
-     "a": "Aamra is recorded as a islamic name meaning “Support, help”."
-    },
-    {
-     "q": "What is the English meaning of Aamra?",
-     "a": "In English, Aamra is rendered as “Support, help”."
-    },
-    {
-     "q": "Is Aamra suitable for a baby?",
-     "a": "Aamra is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Aamra?",
-     "a": "Aamra is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Aamra?",
-     "a": "Aamra is used in Arabic naming traditions."
-    },
-    {
-     "q": "Does Aamra have a positive meaning?",
-     "a": "Aamra carries the meaning “Support, help”."
-    },
-    {
-     "q": "What does the name Aamra mean?",
-     "a": "Aamra means “Support, help”."
-    },
-    {
-     "q": "What is the origin of the name Aamra?",
-     "a": "Aamra is of Arabic origin."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 7,
-    "life_path_number": 7,
-    "ruling_planet": "Ketu",
-    "lucky_day": "Tuesday",
-    "lucky_stone": "Cat's Eye",
-    "lucky_colors": [
-     "Grey",
-     "Smoke"
+  "success": true,
+  "data": {
+    "name": "Aamra",
+    "slug": "aamra",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Aamra total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Aamra is used as a unisex name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Support, help",
+    "long_meaning": "The meaning of Aamra is recorded in name-lists as “Support, help”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Aamra expresses “Support, help”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Arabic",
+    "root_letters": "a-a-m-r-a",
+    "syllables": 2,
+    "name_length": 5,
+    "transliteration": [
+      "Aamra"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Tuesday",
+    "lucky_colors": [
+      "Grey",
+      "Smoke"
+    ],
+    "lucky_stone": "Cat's Eye",
+    "ruling_planet": "Ketu",
+    "life_path_number": 7,
+    "numerology_meaning": "In Pythagorean numerology the letters of Aamra total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search.",
+    "in_arabic": {
+      "name": "أميرة",
+      "meaning": "Support, help",
+      "long_meaning": "Support, help"
+    },
+    "in_urdu": {
+      "name": "امیرہ",
+      "meaning": "Support, help",
+      "long_meaning": "Support, help"
+    },
+    "in_hindi": {
+      "name": "अमीरा",
+      "meaning": "Support, help",
+      "long_meaning": "Support, help"
+    },
+    "in_pashto": {
+      "name": "امیرې",
+      "meaning": "Support, help",
+      "long_meaning": "Support, help"
+    },
+    "in_english": {
+      "name": "Aamra",
+      "meaning": "Support, help",
+      "long_meaning": "Support, help"
+    },
+    "pronunciation": {
+      "english": "/ˈɑː.mərə/",
+      "urdu": "امیرہ کے تلفظ کی تفصیل",
+      "hindi": "अमीरा का उच्चारण विवरण",
+      "pashto": "امیرې د تلفظ تفصیل",
+      "ipa": "/ˈæmɪrə/"
+    },
+    "name_variations": [
+      "Aamra"
+    ],
+    "variants": [
+      "Aamra"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Aamra is used in Arabic naming tradition with the meaning “Support, help”.",
+    "spiritual_significance": "Any spiritual significance attached to Aamra is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Support, help” is the basis of any symbolism attached to Aamra; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "No Qur'anic reference for Aamra has been verified."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Aamra."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AamraMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Aamra"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Aamra",
+          "description": "Discover the meaning of Aamra - \"Support, help\"",
+          "image": "/images/social/aamra-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Aamra - Name Meaning",
+          "description": "Learn about the beautiful name Aamra",
+          "image": "/images/social/aamra-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Aamra",
+          "description": "Name meaning: Support, help",
+          "image": "/images/social/aamra-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Aamra - Meaning: Support, help",
+        "email_subject": "Beautiful Name: Aamra"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Aamra with meaning Support, help",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Aamra Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Aamra has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Aamra, Aamra name meaning, Aamra meaning, Aamra origin, Aamra root, Aamra pronunciation, Arabic names",
+      "description_paragraph": "The meaning of Aamra has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Aamra",
+        "Aamra name meaning",
+        "Aamra meaning",
+        "Aamra origin",
+        "Aamra root",
+        "Aamra pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Aamra name meaning",
+      "secondary_keywords": [
+        "Aamra meaning",
+        "Aamra origin",
+        "Aamra pronunciation",
+        "Aamra lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Aamra mean?",
+          "a": "Name-lists record the meaning as “Support, help”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Aamra verified?",
+          "a": "No. The meaning of Aamra could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Aamra come from?",
+          "a": "The origin of Aamra has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Aamra Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Aamra has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Aamra",
+      "Aamra name meaning",
+      "Aamra meaning",
+      "Aamra origin",
+      "Aamra root",
+      "Aamra pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Aamra has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Aamra",
+      "description": "Aamra — Support, help",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Aamra mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Support, help”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Aamra verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Aamra could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Aamra come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Aamra has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 70
+    },
+    "created_at": "2025-12-22T19:19:49.907Z",
+    "updated_at": "2026-10-01T04:04:18.000Z",
+    "tier1_verified": {
+      "name": "Aamra",
+      "slug": "aamra",
+      "meaning": "Support, help",
+      "origin": "Arabic",
+      "language": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Aamra",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Support, help",
+      "long_meaning": "The name Aamra is recorded with the meaning “Support, help”. Aamra is a Arabic name meaning “Support, help”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Aamra",
+          "meaning": "Support, help",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "/ˈɑː.mərə/",
+        "ipa": "/ˈæmɪrə/"
+      },
+      "syllables": 2,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Aamra mean?",
+          "a": "Name-lists record the meaning as “Support, help”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Aamra verified?",
+          "a": "No. The meaning of Aamra could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Aamra come from?",
+          "a": "The origin of Aamra has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 7,
+        "life_path_number": 7,
+        "ruling_planet": "Ketu",
+        "lucky_day": "Tuesday",
+        "lucky_stone": "Cat's Eye",
+        "lucky_colors": [
+          "Grey",
+          "Smoke"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Aamra total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:18.000Z"
+    }
   }
- }
 }

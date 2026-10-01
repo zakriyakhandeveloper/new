@@ -1,494 +1,333 @@
 {
- "success": true,
- "data": {
-  "name": "Eliab",
-  "slug": "eliab",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Eliab is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "My God is God",
-  "long_meaning": "The name Eliab is recorded with the meaning “My God is God”. Eliab is a Biblical name meaning “My God is God”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Eliab expresses “My God is God”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Eliab is recorded with the meaning “My God is God”. Eliab is a Biblical name meaning “My God is God”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "e-l-i-a-b",
-  "syllables": 2,
-  "name_length": 5,
-  "transliteration": [
-   "Eliab"
-  ],
-  "lucky_number": 2,
-  "lucky_day": "Monday",
-  "lucky_colors": [
-   "White",
-   "Silver"
-  ],
-  "lucky_stone": "Pearl",
-  "ruling_planet": "Moon",
-  "life_path_number": 2,
-  "numerology_meaning": "In Pythagorean numerology the letters of Eliab total 20, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
-  "in_hebrew": {
-   "name": "אליעב",
-   "meaning": "אלוהים הוא אביי, האל הוא אבי",
-   "long_meaning": "אליעב הוא שם עברי שפירושו 'אלוהים הוא אביי' או 'האל הוא אבי'. הוא מורכב משתי מילים: 'אל' שפירושו אלוהים, ו'יעב' שפירושו אב. השם אליעב מופיע בתנ'ך ככינויו של אחד מבני ישראל, וגם ככינויו של אחד מהשרים של מחנה ישראל."
-  },
-  "in_greek": {
-   "name": "Ελιάβ",
-   "meaning": "Ο Θεός είναι ο πατέρας μου",
-   "long_meaning": "Το όνομα Ελιάβ είναι η ελληνική μορφή του εβραϊκού ονόματος אליעב, που σημαίνει 'Ο Θεός είναι ο πατέρας μου'. Στην ελληνική Βίβλο, το όνομα Ελιάβ αναφέρεται σε δύο πρόσωπα, ένα από τα οποία ήταν αρχηγός της φυλής Γαδ και το άλλο ήταν πατέρας του Νεμάν."
-  },
-  "in_latin": {
-   "name": "Eliab",
-   "meaning": "Deus est pater meus",
-   "long_meaning": "Nomen Eliab derivatur ex hebraeo nomine אליעב, quod significat 'Deus est pater meus'. In Ecclesia primitiva, nomen Eliab fuit usitatum inter credentes christianos, qui inspirationem ex scripturis sacris et traditione christiana trahebant."
-  },
-  "in_english": {
-   "name": "Eliab",
-   "meaning": "My God is God",
-   "long_meaning": "The name Eliab is recorded with the meaning “My God is God”. Eliab is a Biblical name meaning “My God is God”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "eh-LIE-ab",
-   "biblical": "אֶלְיָב",
-   "ipa": "/ɛˈlaɪəb/"
-  },
-  "name_variations": [
-   "Eliab"
-  ],
-  "variants": [
-   "Eliab"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Eliab is used in Biblical naming tradition with the meaning “My God is God”.",
-  "spiritual_significance": "Any spiritual significance attached to Eliab is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “My God is God” is the basis of any symbolism attached to Eliab; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": true,
-   "origin_scripture": "Numbers 1:18, 1 Samuel 16:6",
-   "verse_reference": "Numbers 1:18, 1 Samuel 16:6",
-   "note": "Eliab was the name of several individuals in the Hebrew Bible, including a son of Abinadab and a brother of David."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Eliab."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#EliabMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Eliab"
-  ],
-  "monetization": {
-   "affiliate_links": [],
-   "google_adsense": {
-    "ads_enabled": true
-   }
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Eliab Name Meaning – My God is God (Biblical)",
-   "meta_description": "Eliab is a Biblical name meaning “My God is God”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Eliab, Eliab name meaning, Eliab meaning, Eliab origin, Eliab root, Eliab pronunciation, Biblical names",
-   "description_paragraph": "Eliab is a Biblical name meaning “My God is God”.",
-   "keywords": [
-    "Eliab",
-    "Eliab name meaning",
-    "Eliab meaning",
-    "Eliab origin",
-    "Eliab root",
-    "Eliab pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Eliab name meaning",
-   "secondary_keywords": [
-    "Eliab meaning",
-    "Eliab origin",
-    "Eliab pronunciation",
-    "Eliab lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/eliab",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Which colours are associated with Eliab?",
-     "a": "White, Silver are the traditional associations for Eliab. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Eliab?",
-     "a": "In Pythagorean numerology the letters of Eliab total 20, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-    },
-    {
-     "q": "How reliable is the meaning given for Eliab?",
-     "a": "The meaning of Eliab carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Eliab have a religious meaning?",
-     "a": "Eliab is recorded as a christian name meaning “My God is God”."
-    },
-    {
-     "q": "What is the English meaning of Eliab?",
-     "a": "In English, Eliab is rendered as “My God is God”."
-    },
-    {
-     "q": "Is Eliab suitable for a baby?",
-     "a": "Eliab is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Eliab?",
-     "a": "Eliab is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Eliab?",
-     "a": "Eliab is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Eliab have a positive meaning?",
-     "a": "Eliab carries the meaning “My God is God”."
-    },
-    {
-     "q": "What does the name Eliab mean?",
-     "a": "Eliab means “My God is God”."
-    },
-    {
-     "q": "What is the origin of the name Eliab?",
-     "a": "Eliab is of Biblical origin."
-    },
-    {
-     "q": "Is Eliab a male name?",
-     "a": "Eliab is used as a male name."
-    }
-   ]
-  },
-  "seo_title": "Eliab Name Meaning – My God is God (Biblical)",
-  "meta_description": "Eliab is a Biblical name meaning “My God is God”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Eliab",
-   "Eliab name meaning",
-   "Eliab meaning",
-   "Eliab origin",
-   "Eliab root",
-   "Eliab pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/eliab",
-  "intro_paragraph": "Eliab is a Biblical name meaning “My God is God”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Eliab",
-   "description": "Eliab — My God is God",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Eliab?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "White, Silver are the traditional associations for Eliab. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Eliab?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Eliab total 20, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Eliab?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Eliab carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Eliab have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Eliab is recorded as a christian name meaning “My God is God”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Eliab?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Eliab is rendered as “My God is God”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Eliab suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Eliab is used as a male given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Eliab?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Eliab is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Eliab?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Eliab is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Eliab have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Eliab carries the meaning “My God is God”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Eliab mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Eliab means “My God is God”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Eliab?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Eliab is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Eliab a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Eliab is used as a male name."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Eliab",
-     "item": "https://namemeaning.example/name/eliab"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 56,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Eliab",
-   "slug": "eliab",
-   "meaning": "My God is God",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Eliab",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "My God is God",
-   "long_meaning": "The name Eliab is recorded with the meaning “My God is God”. Eliab is a Biblical name meaning “My God is God”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Eliab",
-     "meaning": "My God is God",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "eh-LIE-ab",
-    "ipa": "/ɛˈlaɪəb/"
-   },
-   "syllables": 2,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "Which colours are associated with Eliab?",
-     "a": "White, Silver are the traditional associations for Eliab. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Eliab?",
-     "a": "In Pythagorean numerology the letters of Eliab total 20, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-    },
-    {
-     "q": "How reliable is the meaning given for Eliab?",
-     "a": "The meaning of Eliab carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Eliab have a religious meaning?",
-     "a": "Eliab is recorded as a christian name meaning “My God is God”."
-    },
-    {
-     "q": "What is the English meaning of Eliab?",
-     "a": "In English, Eliab is rendered as “My God is God”."
-    },
-    {
-     "q": "Is Eliab suitable for a baby?",
-     "a": "Eliab is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Eliab?",
-     "a": "Eliab is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Eliab?",
-     "a": "Eliab is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Eliab have a positive meaning?",
-     "a": "Eliab carries the meaning “My God is God”."
-    },
-    {
-     "q": "What does the name Eliab mean?",
-     "a": "Eliab means “My God is God”."
-    },
-    {
-     "q": "What is the origin of the name Eliab?",
-     "a": "Eliab is of Biblical origin."
-    },
-    {
-     "q": "Is Eliab a male name?",
-     "a": "Eliab is used as a male name."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 2,
-    "life_path_number": 2,
-    "ruling_planet": "Moon",
-    "lucky_day": "Monday",
-    "lucky_stone": "Pearl",
-    "lucky_colors": [
-     "White",
-     "Silver"
+  "success": true,
+  "data": {
+    "name": "Eliab",
+    "slug": "eliab",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Eliab total 20, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Eliab is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "My God is God",
+    "long_meaning": "The meaning of Eliab is recorded in name-lists as “My God is God”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Eliab expresses “My God is God”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "e-l-i-a-b",
+    "syllables": 2,
+    "name_length": 5,
+    "transliteration": [
+      "Eliab"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "White",
+      "Silver"
+    ],
+    "lucky_stone": "Pearl",
+    "ruling_planet": "Moon",
+    "life_path_number": 2,
+    "numerology_meaning": "In Pythagorean numerology the letters of Eliab total 20, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
+    "in_hebrew": {
+      "name": "אליעב",
+      "meaning": "אלוהים הוא אביי, האל הוא אבי",
+      "long_meaning": "אליעב הוא שם עברי שפירושו 'אלוהים הוא אביי' או 'האל הוא אבי'. הוא מורכב משתי מילים: 'אל' שפירושו אלוהים, ו'יעב' שפירושו אב. השם אליעב מופיע בתנ'ך ככינויו של אחד מבני ישראל, וגם ככינויו של אחד מהשרים של מחנה ישראל."
+    },
+    "in_greek": {
+      "name": "Ελιάβ",
+      "meaning": "Ο Θεός είναι ο πατέρας μου",
+      "long_meaning": "Το όνομα Ελιάβ είναι η ελληνική μορφή του εβραϊκού ονόματος אליעב, που σημαίνει 'Ο Θεός είναι ο πατέρας μου'. Στην ελληνική Βίβλο, το όνομα Ελιάβ αναφέρεται σε δύο πρόσωπα, ένα από τα οποία ήταν αρχηγός της φυλής Γαδ και το άλλο ήταν πατέρας του Νεμάν."
+    },
+    "in_latin": {
+      "name": "Eliab",
+      "meaning": "Deus est pater meus",
+      "long_meaning": "Nomen Eliab derivatur ex hebraeo nomine אליעב, quod significat 'Deus est pater meus'. In Ecclesia primitiva, nomen Eliab fuit usitatum inter credentes christianos, qui inspirationem ex scripturis sacris et traditione christiana trahebant."
+    },
+    "in_english": {
+      "name": "Eliab",
+      "meaning": "My God is God",
+      "long_meaning": "My God is God"
+    },
+    "pronunciation": {
+      "english": "eh-LIE-ab",
+      "biblical": "אֶלְיָב",
+      "ipa": "/ɛˈlaɪəb/"
+    },
+    "name_variations": [
+      "Eliab"
+    ],
+    "variants": [
+      "Eliab"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Eliab is used in Biblical naming tradition with the meaning “My God is God”.",
+    "spiritual_significance": "Any spiritual significance attached to Eliab is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “My God is God” is the basis of any symbolism attached to Eliab; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "Numbers 1:18, 1 Samuel 16:6",
+      "verse_reference": "Numbers 1:18, 1 Samuel 16:6",
+      "note": "Eliab was the name of several individuals in the Hebrew Bible, including a son of Abinadab and a brother of David."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Eliab."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#EliabMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Eliab"
+    ],
+    "monetization": {
+      "affiliate_links": [],
+      "google_adsense": {
+        "ads_enabled": true
+      }
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Eliab Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Eliab has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Eliab, Eliab name meaning, Eliab meaning, Eliab origin, Eliab root, Eliab pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Eliab has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Eliab",
+        "Eliab name meaning",
+        "Eliab meaning",
+        "Eliab origin",
+        "Eliab root",
+        "Eliab pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Eliab name meaning",
+      "secondary_keywords": [
+        "Eliab meaning",
+        "Eliab origin",
+        "Eliab pronunciation",
+        "Eliab lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Eliab mean?",
+          "a": "Name-lists record the meaning as “My God is God”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Eliab verified?",
+          "a": "No. The meaning of Eliab could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Eliab come from?",
+          "a": "The origin of Eliab has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Eliab Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Eliab has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Eliab",
+      "Eliab name meaning",
+      "Eliab meaning",
+      "Eliab origin",
+      "Eliab root",
+      "Eliab pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Eliab has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Eliab",
+      "description": "Eliab — My God is God",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Eliab mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “My God is God”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Eliab verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Eliab could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Eliab come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Eliab has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 56,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:09:18.000Z",
+    "tier1_verified": {
+      "name": "Eliab",
+      "slug": "eliab",
+      "meaning": "My God is God",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Eliab",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "My God is God",
+      "long_meaning": "The name Eliab is recorded with the meaning “My God is God”. Eliab is a Biblical name meaning “My God is God”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Eliab",
+          "meaning": "My God is God",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "eh-LIE-ab",
+        "ipa": "/ɛˈlaɪəb/"
+      },
+      "syllables": 2,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Eliab mean?",
+          "a": "Name-lists record the meaning as “My God is God”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Eliab verified?",
+          "a": "No. The meaning of Eliab could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Eliab come from?",
+          "a": "The origin of Eliab has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 2,
+        "life_path_number": 2,
+        "ruling_planet": "Moon",
+        "lucky_day": "Monday",
+        "lucky_stone": "Pearl",
+        "lucky_colors": [
+          "White",
+          "Silver"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Eliab total 20, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:09:18.000Z"
+    }
   }
- }
 }

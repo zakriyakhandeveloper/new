@@ -1,547 +1,386 @@
 {
- "success": true,
- "data": {
-  "name": "Adwa",
-  "slug": "adwa",
-  "language": [
-   "Arabic"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Adwa is used as a unisex name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Grievance, complaint",
-  "long_meaning": "The name Adwa is recorded with the meaning “Grievance, complaint”. Adwa is a Arabic name meaning “Grievance, complaint”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Adwa expresses “Grievance, complaint”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Adwa is recorded with the meaning “Grievance, complaint”. Adwa is a Arabic name meaning “Grievance, complaint”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-d-w-a",
-  "syllables": 2,
-  "name_length": 4,
-  "transliteration": [
-   "Adwa"
-  ],
-  "lucky_number": 2,
-  "lucky_day": "Monday",
-  "lucky_colors": [
-   "White",
-   "Silver"
-  ],
-  "lucky_stone": "Pearl",
-  "ruling_planet": "Moon",
-  "life_path_number": 2,
-  "numerology_meaning": "In Pythagorean numerology the letters of Adwa total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
-  "in_arabic": {
-   "name": "عدوة",
-   "meaning": "العدوة تشير إلى السبق والريادة في كل شيء",
-   "long_meaning": "العدوة من أسماء الله تعالى التي تشير إلى السبق والريادة في كل شيء، وتعني أيضًا الفضل والقصوى والجودة العالية، كما تشير إلى التوفيق والنجاح في جميع الأعمال والأنشطة، ويكون هذا التوفيق نتيجة للتقديم والعمل الجاد والمتواصل، والتفوق في جميع الأشياء التي يهتدي إليها الإنسان، والوصول لذروة القدرات والإمكانيات، وتعد العدوة من أسماء الله تعالى التي يمدحها المؤمنون ويستعظمونها، ويعتبرها من أفضل ما يقربنا من الله تعالى، والعدوة في الإسلام تشير إلى السبق والريادة في كل شيء، وتعني أيضًا الفضل والقصوى والجودة العالية، وتعد من أسماء الله تعالى التي تظهر لنا قدرة الله تعالى على توفير الجميع، وتحقيق كل الأهداف والغايات، وتضمن لنا النجاح والتفوق في جميع الأشياء."
-  },
-  "in_urdu": {
-   "name": "عدوة",
-   "meaning": "عدوة ایک اسم ہے جو سبق اور رائے داری کا مطلب ہے",
-   "long_meaning": "عدوة ایک اسم ہے جو سبق اور رائے داری کا مطلب ہے، اس کا مطلب ہے کہ ایک کا سبق اور رائے داری دوسروں پر ہے، یہ ایک فضل اور قصوں کا نام ہے، جو سبق اور رائے داری کا باعث ہے، اس کا مطلب ہے کہ ایک کے پاس سبق اور رائے داری ہے جو دوسروں پر ہے، اسے فضل اور قصوں کے نام سے جانا جاتا ہے، جو سبق اور رائے داری کا باعث ہے، اس کا مطلب ہے کہ ایک کے پاس سبق اور رائے داری ہے جو دوسروں پر ہے، یہ ایک فضل اور قصوں کا نام ہے جو سبق اور رائے داری کا باعث ہے، اس کا مطلب ہے کہ ایک کے پاس سبق اور رائے داری ہے جو دوسروں پر ہے،"
-  },
-  "in_hindi": {
-   "name": "अद्वा",
-   "meaning": "अद्वा एक नाम है जो पूर्वज्ञान और प्रगति का अर्थ है",
-   "long_meaning": "अद्वा एक नाम है जो पूर्वज्ञान और प्रगति का अर्थ है, यह गुणवत्ता और उत्कृष्टता का सूचक है, जो हमें उच्चतम स्तर पर पहुँचाने में मदद करता है, अद्वा एक ऐसा नाम है जो हमें शिक्षा और ज्ञान प्रदान करता है, जिससे हमें उच्चतम स्तर पर पहुँचाने में मदद मिलती है, अद्वा एक ऐसा नाम है जो हमें प्रगति और विकास के रास्ते पर ले जाता है, जिससे हमें उच्चतम स्तर पर पहुँचाने में मदद मिलती है, अद्वा एक ऐसा नाम है जो हमें उच्चतम स्तर पर पहुँचाने में मदद करता है, जिससे हमें प्रगति और विकास के रास्ते पर ले जाता है,"
-  },
-  "in_pashto": {
-   "name": "عدوڼه",
-   "meaning": "عدوڼه د سبق او رايډاري په مانګه ډله",
-   "long_meaning": "عدوڼه د سبق او رايډاري په مانګه ډله، دا څرغونو کښې ځانګړی څرک او ارزښت لري، او دا څرغونو کښې په څرګند ډول د سبق او رايډاري د ځواک او توان د نمايښون کوي، عدوڼه د سبق او رايډاري په مانګه ډله، دا په ځانګړي ډول د سبق او رايډاري د ځواک او توان د نمايښون کوي، عدوڼه د سبق او رايډاري په مانګه ډله، دا څرګند ډول د سبق او رايډاري د ځواک او توان د نمايښون کوي،"
-  },
-  "in_english": {
-   "name": "Adwa",
-   "meaning": "Grievance, complaint",
-   "long_meaning": "The name Adwa is recorded with the meaning “Grievance, complaint”. Adwa is a Arabic name meaning “Grievance, complaint”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "ah-DWAH",
-   "urdu": "عدوة کا اردو تلفظ",
-   "hindi": "अद्वा का हिन्दी उच्चारण",
-   "pashto": "عدوڼه کي پښتو تلفظ",
-   "ipa": "/ˈædwɑː/"
-  },
-  "name_variations": [
-   "Adwa"
-  ],
-  "variants": [
-   "Adwa"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Adwa is used in Arabic naming tradition with the meaning “Grievance, complaint”.",
-  "spiritual_significance": "Any spiritual significance attached to Adwa is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Grievance, complaint” is the basis of any symbolism attached to Adwa; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Adwa has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Adwa."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AdwaMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Adwa",
-   "#Precedence",
-   "#Leadership",
-   "#Excellence",
-   "#Quality"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Adwa",
-     "description": "Discover the meaning of Adwa - \"Grievance, complaint\"",
-     "image": "/images/social/adwa-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Adwa - Name Meaning",
-     "description": "Learn about the beautiful name Adwa",
-     "image": "/images/social/adwa-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Adwa",
-     "description": "Name meaning: Grievance, complaint",
-     "image": "/images/social/adwa-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Adwa - Meaning: Grievance, complaint",
-    "email_subject": "Beautiful Name: Adwa"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Adwa with meaning Grievance, complaint",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Adwa Name Meaning – Grievance, complaint (Arabic)",
-   "meta_description": "Adwa is a Arabic name meaning “Grievance, complaint”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Adwa, Adwa name meaning, Adwa meaning, Adwa origin, Adwa root, Adwa pronunciation, Arabic names",
-   "description_paragraph": "Adwa is a Arabic name meaning “Grievance, complaint”.",
-   "keywords": [
-    "Adwa",
-    "Adwa name meaning",
-    "Adwa meaning",
-    "Adwa origin",
-    "Adwa root",
-    "Adwa pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Adwa name meaning",
-   "secondary_keywords": [
-    "Adwa meaning",
-    "Adwa origin",
-    "Adwa pronunciation",
-    "Adwa lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/adwa",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the spiritual significance of Adwa?",
-     "a": "Any spiritual significance attached to Adwa is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Adwa?",
-     "a": "Variant spellings of Adwa are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Adwa a common name?",
-     "a": "Popularity figures for Adwa have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Adwa say about a child?",
-     "a": "The name Adwa expresses “Grievance, complaint”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Adwa be used in another language?",
-     "a": "Adwa is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Adwa mentioned in scripture?",
-     "a": "No scriptural reference for Adwa has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Adwa?",
-     "a": "The Pythagorean lucky number for Adwa is 2 (ruling planet Moon). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Adwa?",
-     "a": "Monday is the traditional association for Adwa. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Adwa?",
-     "a": "Pearl is the traditional association for Adwa. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Adwa?",
-     "a": "White, Silver are the traditional associations for Adwa. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Adwa?",
-     "a": "In Pythagorean numerology the letters of Adwa total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-    },
-    {
-     "q": "How reliable is the meaning given for Adwa?",
-     "a": "The meaning of Adwa carries confidence LOW in this record. It is flagged for source verification."
-    }
-   ]
-  },
-  "seo_title": "Adwa Name Meaning – Grievance, complaint (Arabic)",
-  "meta_description": "Adwa is a Arabic name meaning “Grievance, complaint”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Adwa",
-   "Adwa name meaning",
-   "Adwa meaning",
-   "Adwa origin",
-   "Adwa root",
-   "Adwa pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/adwa",
-  "intro_paragraph": "Adwa is a Arabic name meaning “Grievance, complaint”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Adwa",
-   "description": "Adwa — Grievance, complaint",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Adwa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Adwa is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Adwa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Adwa are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Adwa a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Adwa have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Adwa say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Adwa expresses “Grievance, complaint”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Adwa be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Adwa is recorded in Arabic; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Adwa mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Adwa has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Adwa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Adwa is 2 (ruling planet Moon). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Adwa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Monday is the traditional association for Adwa. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Adwa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pearl is the traditional association for Adwa. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Adwa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "White, Silver are the traditional associations for Adwa. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Adwa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Adwa total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Adwa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Adwa carries confidence LOW in this record. It is flagged for source verification."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Adwa",
-     "item": "https://namemeaning.example/name/adwa"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-12-22T19:19:49.86Z",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Adwa",
-   "slug": "adwa",
-   "meaning": "Grievance, complaint",
-   "origin": "Arabic",
-   "language": [
-    "Arabic"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Adwa",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Grievance, complaint",
-   "long_meaning": "The name Adwa is recorded with the meaning “Grievance, complaint”. Adwa is a Arabic name meaning “Grievance, complaint”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Adwa",
-     "meaning": "Grievance, complaint",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "ah-DWAH",
-    "ipa": "/ˈædwɑː/"
-   },
-   "syllables": 2,
-   "name_length": 4,
-   "faqs": [
-    {
-     "q": "What is the spiritual significance of Adwa?",
-     "a": "Any spiritual significance attached to Adwa is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Adwa?",
-     "a": "Variant spellings of Adwa are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Adwa a common name?",
-     "a": "Popularity figures for Adwa have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Adwa say about a child?",
-     "a": "The name Adwa expresses “Grievance, complaint”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Adwa be used in another language?",
-     "a": "Adwa is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Adwa mentioned in scripture?",
-     "a": "No scriptural reference for Adwa has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Adwa?",
-     "a": "The Pythagorean lucky number for Adwa is 2 (ruling planet Moon). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Adwa?",
-     "a": "Monday is the traditional association for Adwa. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Adwa?",
-     "a": "Pearl is the traditional association for Adwa. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Adwa?",
-     "a": "White, Silver are the traditional associations for Adwa. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Adwa?",
-     "a": "In Pythagorean numerology the letters of Adwa total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-    },
-    {
-     "q": "How reliable is the meaning given for Adwa?",
-     "a": "The meaning of Adwa carries confidence LOW in this record. It is flagged for source verification."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 2,
-    "life_path_number": 2,
-    "ruling_planet": "Moon",
-    "lucky_day": "Monday",
-    "lucky_stone": "Pearl",
-    "lucky_colors": [
-     "White",
-     "Silver"
+  "success": true,
+  "data": {
+    "name": "Adwa",
+    "slug": "adwa",
+    "language": [
+      "Arabic"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Adwa total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Adwa is used as a unisex name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Grievance, complaint",
+    "long_meaning": "The meaning of Adwa is recorded in name-lists as “Grievance, complaint”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Adwa expresses “Grievance, complaint”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Arabic",
+    "root_letters": "a-d-w-a",
+    "syllables": 2,
+    "name_length": 4,
+    "transliteration": [
+      "Adwa"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "White",
+      "Silver"
+    ],
+    "lucky_stone": "Pearl",
+    "ruling_planet": "Moon",
+    "life_path_number": 2,
+    "numerology_meaning": "In Pythagorean numerology the letters of Adwa total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
+    "in_arabic": {
+      "name": "عدوة",
+      "meaning": "Grievance, complaint",
+      "long_meaning": "Grievance, complaint"
+    },
+    "in_urdu": {
+      "name": "عدوة",
+      "meaning": "Grievance, complaint",
+      "long_meaning": "Grievance, complaint"
+    },
+    "in_hindi": {
+      "name": "अद्वा",
+      "meaning": "Grievance, complaint",
+      "long_meaning": "Grievance, complaint"
+    },
+    "in_pashto": {
+      "name": "عدوڼه",
+      "meaning": "Grievance, complaint",
+      "long_meaning": "Grievance, complaint"
+    },
+    "in_english": {
+      "name": "Adwa",
+      "meaning": "Grievance, complaint",
+      "long_meaning": "Grievance, complaint"
+    },
+    "pronunciation": {
+      "english": "ah-DWAH",
+      "urdu": "عدوة کا اردو تلفظ",
+      "hindi": "अद्वा का हिन्दी उच्चारण",
+      "pashto": "عدوڼه کي پښتو تلفظ",
+      "ipa": "/ˈædwɑː/"
+    },
+    "name_variations": [
+      "Adwa"
+    ],
+    "variants": [
+      "Adwa"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Adwa is used in Arabic naming tradition with the meaning “Grievance, complaint”.",
+    "spiritual_significance": "Any spiritual significance attached to Adwa is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Grievance, complaint” is the basis of any symbolism attached to Adwa; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "No Qur'anic reference for Adwa has been verified."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Adwa."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AdwaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Adwa",
+      "#Precedence",
+      "#Leadership",
+      "#Excellence",
+      "#Quality"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Adwa",
+          "description": "Discover the meaning of Adwa - \"Grievance, complaint\"",
+          "image": "/images/social/adwa-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Adwa - Name Meaning",
+          "description": "Learn about the beautiful name Adwa",
+          "image": "/images/social/adwa-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Adwa",
+          "description": "Name meaning: Grievance, complaint",
+          "image": "/images/social/adwa-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Adwa - Meaning: Grievance, complaint",
+        "email_subject": "Beautiful Name: Adwa"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Adwa with meaning Grievance, complaint",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Adwa Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Adwa has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Adwa, Adwa name meaning, Adwa meaning, Adwa origin, Adwa root, Adwa pronunciation, Arabic names",
+      "description_paragraph": "The meaning of Adwa has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Adwa",
+        "Adwa name meaning",
+        "Adwa meaning",
+        "Adwa origin",
+        "Adwa root",
+        "Adwa pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Adwa name meaning",
+      "secondary_keywords": [
+        "Adwa meaning",
+        "Adwa origin",
+        "Adwa pronunciation",
+        "Adwa lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Adwa mean?",
+          "a": "Name-lists record the meaning as “Grievance, complaint”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Adwa verified?",
+          "a": "No. The meaning of Adwa could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Adwa come from?",
+          "a": "The origin of Adwa has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Adwa Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Adwa has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Adwa",
+      "Adwa name meaning",
+      "Adwa meaning",
+      "Adwa origin",
+      "Adwa root",
+      "Adwa pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Adwa has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Adwa",
+      "description": "Adwa — Grievance, complaint",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Adwa mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Grievance, complaint”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Adwa verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Adwa could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Adwa come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Adwa has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 70
+    },
+    "created_at": "2025-12-22T19:19:49.86Z",
+    "updated_at": "2026-10-01T04:04:23.000Z",
+    "tier1_verified": {
+      "name": "Adwa",
+      "slug": "adwa",
+      "meaning": "Grievance, complaint",
+      "origin": "Arabic",
+      "language": [
+        "Arabic"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Adwa",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Grievance, complaint",
+      "long_meaning": "The name Adwa is recorded with the meaning “Grievance, complaint”. Adwa is a Arabic name meaning “Grievance, complaint”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Adwa",
+          "meaning": "Grievance, complaint",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "ah-DWAH",
+        "ipa": "/ˈædwɑː/"
+      },
+      "syllables": 2,
+      "name_length": 4,
+      "faqs": [
+        {
+          "q": "What does the name Adwa mean?",
+          "a": "Name-lists record the meaning as “Grievance, complaint”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Adwa verified?",
+          "a": "No. The meaning of Adwa could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Adwa come from?",
+          "a": "The origin of Adwa has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 2,
+        "life_path_number": 2,
+        "ruling_planet": "Moon",
+        "lucky_day": "Monday",
+        "lucky_stone": "Pearl",
+        "lucky_colors": [
+          "White",
+          "Silver"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Adwa total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:23.000Z"
+    }
   }
- }
 }

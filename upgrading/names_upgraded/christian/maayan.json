@@ -1,494 +1,333 @@
 {
- "success": true,
- "data": {
-  "name": "Maayan",
-  "slug": "maayan",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Maayan is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Spring, Source of Water",
-  "long_meaning": "The name Maayan is recorded with the meaning “Spring, Source of Water”. Maayan is a Biblical name meaning “Spring, Source of Water”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Maayan expresses “Spring, Source of Water”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Maayan is recorded with the meaning “Spring, Source of Water”. Maayan is a Biblical name meaning “Spring, Source of Water”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "m-a-a-y-a-n",
-  "syllables": 1,
-  "name_length": 6,
-  "transliteration": [
-   "Maayan"
-  ],
-  "lucky_number": 1,
-  "lucky_day": "Sunday",
-  "lucky_colors": [
-   "Gold",
-   "Orange"
-  ],
-  "lucky_stone": "Ruby",
-  "ruling_planet": "Sun",
-  "life_path_number": 1,
-  "numerology_meaning": "In Pythagorean numerology the letters of Maayan total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
-  "in_hebrew": {
-   "name": "מעיין",
-   "meaning": "מקור מים זורמים",
-   "long_meaning": "מעיין הוא שם עברי שמשמעו מקור מים, נבע, מעיין מים, הלקוח מהשורש מעין, המופיע בתנך, ומסמל את החיים, הרוחניות, והתחדשות"
-  },
-  "in_greek": {
-   "name": "Μαayan",
-   "meaning": "πηγή νερού",
-   "long_meaning": "Το όνομα Μαayan είναι εβραϊκό και σημαίνει πηγή νερού, που προέρχεται από την εβραϊκή ρίζα מעין, και χρησιμοποιείται ως σύμβολο της πνευματικότητας, της ανανέωσης και της ζωής"
-  },
-  "in_latin": {
-   "name": "Maayan",
-   "meaning": "fons aquae",
-   "long_meaning": "Nomen Maayan est Hebraicum, quod significat fontem aquae, derivatum a radice מעין, et symbolizat vitam, spiritualitatem, et renovationem"
-  },
-  "in_english": {
-   "name": "Maayan",
-   "meaning": "Spring, Source of Water",
-   "long_meaning": "The name Maayan is recorded with the meaning “Spring, Source of Water”. Maayan is a Biblical name meaning “Spring, Source of Water”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "MY-uhn",
-   "biblical": "Ma'a-yin",
-   "ipa": "/ˈma.jan/"
-  },
-  "name_variations": [
-   "Maayan"
-  ],
-  "variants": [
-   "Maayan"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Maayan is used in Biblical naming tradition with the meaning “Spring, Source of Water”.",
-  "spiritual_significance": "Any spiritual significance attached to Maayan is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Spring, Source of Water” is the basis of any symbolism attached to Maayan; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": "not directly mentioned in the Bible, but related to biblical concepts of water and life"
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Maayan."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#MaayanMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Maayan"
-  ],
-  "monetization": {
-   "google_ads": true,
-   "affiliate_links": [
-    "https://www.babynamesworld.com/hebrew-names/maayan"
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Maayan Name Meaning – Spring, Source of Water (Biblical)",
-   "meta_description": "Maayan is a Biblical name meaning “Spring, Source of Water”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Maayan, Maayan name meaning, Maayan meaning, Maayan origin, Maayan root, Maayan pronunciation, Biblical names",
-   "description_paragraph": "Maayan is a Biblical name meaning “Spring, Source of Water”.",
-   "keywords": [
-    "Maayan",
-    "Maayan name meaning",
-    "Maayan meaning",
-    "Maayan origin",
-    "Maayan root",
-    "Maayan pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Maayan name meaning",
-   "secondary_keywords": [
-    "Maayan meaning",
-    "Maayan origin",
-    "Maayan pronunciation",
-    "Maayan lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/maayan",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the origin of the name Maayan?",
-     "a": "Maayan is of Biblical origin."
-    },
-    {
-     "q": "Is Maayan a unisex name?",
-     "a": "Maayan is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Maayan have?",
-     "a": "Maayan has 1 syllable."
-    },
-    {
-     "q": "How is Maayan pronounced?",
-     "a": "Maayan is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Maayan?",
-     "a": "Any spiritual significance attached to Maayan is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Maayan?",
-     "a": "Variant spellings of Maayan are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Maayan a common name?",
-     "a": "Popularity figures for Maayan have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Maayan say about a child?",
-     "a": "The name Maayan expresses “Spring, Source of Water”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Maayan be used in another language?",
-     "a": "Maayan is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Maayan mentioned in scripture?",
-     "a": "No scriptural reference for Maayan has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Maayan?",
-     "a": "The Pythagorean lucky number for Maayan is 1 (ruling planet Sun). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Maayan?",
-     "a": "Sunday is the traditional association for Maayan. This is interpretive."
-    }
-   ]
-  },
-  "seo_title": "Maayan Name Meaning – Spring, Source of Water (Biblical)",
-  "meta_description": "Maayan is a Biblical name meaning “Spring, Source of Water”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Maayan",
-   "Maayan name meaning",
-   "Maayan meaning",
-   "Maayan origin",
-   "Maayan root",
-   "Maayan pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/maayan",
-  "intro_paragraph": "Maayan is a Biblical name meaning “Spring, Source of Water”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Maayan",
-   "description": "Maayan — Spring, Source of Water",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Maayan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Maayan is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Maayan a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Maayan is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Maayan have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Maayan has 1 syllable."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Maayan pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Maayan is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Maayan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Maayan is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Maayan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Maayan are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Maayan a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Maayan have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Maayan say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Maayan expresses “Spring, Source of Water”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Maayan be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Maayan is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Maayan mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Maayan has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Maayan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Maayan is 1 (ruling planet Sun). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Maayan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sunday is the traditional association for Maayan. This is interpretive."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Maayan",
-     "item": "https://namemeaning.example/name/maayan"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 56,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Maayan",
-   "slug": "maayan",
-   "meaning": "Spring, Source of Water",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Maayan",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Spring, Source of Water",
-   "long_meaning": "The name Maayan is recorded with the meaning “Spring, Source of Water”. Maayan is a Biblical name meaning “Spring, Source of Water”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Maayan",
-     "meaning": "Spring, Source of Water",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "MY-uhn",
-    "ipa": "/ˈma.jan/"
-   },
-   "syllables": 1,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "What is the origin of the name Maayan?",
-     "a": "Maayan is of Biblical origin."
-    },
-    {
-     "q": "Is Maayan a unisex name?",
-     "a": "Maayan is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Maayan have?",
-     "a": "Maayan has 1 syllable."
-    },
-    {
-     "q": "How is Maayan pronounced?",
-     "a": "Maayan is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Maayan?",
-     "a": "Any spiritual significance attached to Maayan is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Maayan?",
-     "a": "Variant spellings of Maayan are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Maayan a common name?",
-     "a": "Popularity figures for Maayan have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Maayan say about a child?",
-     "a": "The name Maayan expresses “Spring, Source of Water”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Maayan be used in another language?",
-     "a": "Maayan is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Maayan mentioned in scripture?",
-     "a": "No scriptural reference for Maayan has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Maayan?",
-     "a": "The Pythagorean lucky number for Maayan is 1 (ruling planet Sun). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Maayan?",
-     "a": "Sunday is the traditional association for Maayan. This is interpretive."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 1,
-    "life_path_number": 1,
-    "ruling_planet": "Sun",
-    "lucky_day": "Sunday",
-    "lucky_stone": "Ruby",
-    "lucky_colors": [
-     "Gold",
-     "Orange"
+  "success": true,
+  "data": {
+    "name": "Maayan",
+    "slug": "maayan",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Maayan total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Maayan is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Spring, Source of Water",
+    "long_meaning": "The meaning of Maayan is recorded in name-lists as “Spring, Source of Water”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Maayan expresses “Spring, Source of Water”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "m-a-a-y-a-n",
+    "syllables": 1,
+    "name_length": 6,
+    "transliteration": [
+      "Maayan"
+    ],
+    "lucky_number": 1,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Gold",
+      "Orange"
+    ],
+    "lucky_stone": "Ruby",
+    "ruling_planet": "Sun",
+    "life_path_number": 1,
+    "numerology_meaning": "In Pythagorean numerology the letters of Maayan total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
+    "in_hebrew": {
+      "name": "מעיין",
+      "meaning": "מקור מים זורמים",
+      "long_meaning": "מעיין הוא שם עברי שמשמעו מקור מים, נבע, מעיין מים, הלקוח מהשורש מעין, המופיע בתנך, ומסמל את החיים, הרוחניות, והתחדשות"
+    },
+    "in_greek": {
+      "name": "Μαayan",
+      "meaning": "πηγή νερού",
+      "long_meaning": "Το όνομα Μαayan είναι εβραϊκό και σημαίνει πηγή νερού, που προέρχεται από την εβραϊκή ρίζα מעין, και χρησιμοποιείται ως σύμβολο της πνευματικότητας, της ανανέωσης και της ζωής"
+    },
+    "in_latin": {
+      "name": "Maayan",
+      "meaning": "fons aquae",
+      "long_meaning": "Nomen Maayan est Hebraicum, quod significat fontem aquae, derivatum a radice מעין, et symbolizat vitam, spiritualitatem, et renovationem"
+    },
+    "in_english": {
+      "name": "Maayan",
+      "meaning": "Spring, Source of Water",
+      "long_meaning": "Spring, Source of Water"
+    },
+    "pronunciation": {
+      "english": "MY-uhn",
+      "biblical": "Ma'a-yin",
+      "ipa": "/ˈma.jan/"
+    },
+    "name_variations": [
+      "Maayan"
+    ],
+    "variants": [
+      "Maayan"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Maayan is used in Biblical naming tradition with the meaning “Spring, Source of Water”.",
+    "spiritual_significance": "Any spiritual significance attached to Maayan is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Spring, Source of Water” is the basis of any symbolism attached to Maayan; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": "not directly mentioned in the Bible, but related to biblical concepts of water and life"
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Maayan."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#MaayanMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Maayan"
+    ],
+    "monetization": {
+      "google_ads": true,
+      "affiliate_links": [
+        "https://www.babynamesworld.com/hebrew-names/maayan"
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Maayan Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Maayan has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Maayan, Maayan name meaning, Maayan meaning, Maayan origin, Maayan root, Maayan pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Maayan has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Maayan",
+        "Maayan name meaning",
+        "Maayan meaning",
+        "Maayan origin",
+        "Maayan root",
+        "Maayan pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Maayan name meaning",
+      "secondary_keywords": [
+        "Maayan meaning",
+        "Maayan origin",
+        "Maayan pronunciation",
+        "Maayan lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Maayan mean?",
+          "a": "Name-lists record the meaning as “Spring, Source of Water”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Maayan verified?",
+          "a": "No. The meaning of Maayan could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Maayan come from?",
+          "a": "The origin of Maayan has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Maayan Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Maayan has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Maayan",
+      "Maayan name meaning",
+      "Maayan meaning",
+      "Maayan origin",
+      "Maayan root",
+      "Maayan pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Maayan has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Maayan",
+      "description": "Maayan — Spring, Source of Water",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Maayan mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Spring, Source of Water”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Maayan verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Maayan could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Maayan come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Maayan has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 56,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:21:59.000Z",
+    "tier1_verified": {
+      "name": "Maayan",
+      "slug": "maayan",
+      "meaning": "Spring, Source of Water",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Maayan",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Spring, Source of Water",
+      "long_meaning": "The name Maayan is recorded with the meaning “Spring, Source of Water”. Maayan is a Biblical name meaning “Spring, Source of Water”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Maayan",
+          "meaning": "Spring, Source of Water",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "MY-uhn",
+        "ipa": "/ˈma.jan/"
+      },
+      "syllables": 1,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Maayan mean?",
+          "a": "Name-lists record the meaning as “Spring, Source of Water”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Maayan verified?",
+          "a": "No. The meaning of Maayan could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Maayan come from?",
+          "a": "The origin of Maayan has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 1,
+        "life_path_number": 1,
+        "ruling_planet": "Sun",
+        "lucky_day": "Sunday",
+        "lucky_stone": "Ruby",
+        "lucky_colors": [
+          "Gold",
+          "Orange"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Maayan total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:21:59.000Z"
+    }
   }
- }
 }

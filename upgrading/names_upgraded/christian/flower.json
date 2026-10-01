@@ -1,499 +1,338 @@
 {
- "success": true,
- "data": {
-  "name": "Flower",
-  "slug": "flower",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Flower is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Blossom, bloom, beauty",
-  "long_meaning": "The name Flower is recorded with the meaning “Blossom, bloom, beauty”. Flower is a Biblical name meaning “Blossom, bloom, beauty”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Flower expresses “Blossom, bloom, beauty”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Flower is recorded with the meaning “Blossom, bloom, beauty”. Flower is a Biblical name meaning “Blossom, bloom, beauty”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "f-l-o-w-e-r",
-  "syllables": 2,
-  "name_length": 6,
-  "transliteration": [
-   "Flower"
-  ],
-  "lucky_number": 7,
-  "lucky_day": "Tuesday",
-  "lucky_colors": [
-   "Grey",
-   "Smoke"
-  ],
-  "lucky_stone": "Cat's Eye",
-  "ruling_planet": "Ketu",
-  "life_path_number": 7,
-  "numerology_meaning": "In Pythagorean numerology the letters of Flower total 34, reducing to 7. Number 7 is associated with reflection, analysis and inner search.",
-  "in_hebrew": {
-   "name": "שגבה",
-   "meaning": "nothing",
-   "long_meaning": "The name 'Flower' does not have a direct meaning or etymology in Hebrew."
-  },
-  "in_greek": {
-   "name": "ἄνθος",
-   "meaning": "flower",
-   "long_meaning": "The ancient Greeks used the word 'ἄνθος' to refer to any type of flower. This name has no specific biblical association."
-  },
-  "in_latin": {
-   "name": "Flos",
-   "meaning": "flower",
-   "long_meaning": "The Latin word 'Flos' also means 'flower.' This name has no specific biblical association."
-  },
-  "in_english": {
-   "name": "Flower",
-   "meaning": "Blossom, bloom, beauty",
-   "long_meaning": "The name Flower is recorded with the meaning “Blossom, bloom, beauty”. Flower is a Biblical name meaning “Blossom, bloom, beauty”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "FLOW-er",
-   "ipa": "floʊ.ər"
-  },
-  "name_variations": [
-   "Flower"
-  ],
-  "variants": [
-   "Flower"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Flower is used in Biblical naming tradition with the meaning “Blossom, bloom, beauty”.",
-  "spiritual_significance": "Any spiritual significance attached to Flower is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Blossom, bloom, beauty” is the basis of any symbolism attached to Flower; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": "The name 'Flower' is not mentioned in the Bible."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Flower."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#FlowerMeaning",
-   "#ChristianBabyNames"
-  ],
-  "monetization": {
-   "ads": {
-    "display": true,
-    "positions": [
-     "header",
-     "sidebar",
-     "footer"
-    ]
-   },
-   "affiliate": {
-    "enabled": true,
-    "partners": [
-     "BabyCentre",
-     "BuyBuyBaby"
-    ]
-   }
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Flower Name Meaning – Blossom, bloom, beauty (Biblical)",
-   "meta_description": "Flower is a Biblical name meaning “Blossom, bloom, beauty”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Flower, Flower name meaning, Flower meaning, Flower origin, Flower root, Flower pronunciation, Biblical names",
-   "description_paragraph": "Flower is a Biblical name meaning “Blossom, bloom, beauty”.",
-   "keywords": [
-    "Flower",
-    "Flower name meaning",
-    "Flower meaning",
-    "Flower origin",
-    "Flower root",
-    "Flower pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Flower name meaning",
-   "secondary_keywords": [
-    "Flower meaning",
-    "Flower origin",
-    "Flower pronunciation",
-    "Flower lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/flower",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Does Flower have a religious meaning?",
-     "a": "Flower is recorded as a christian name meaning “Blossom, bloom, beauty”."
-    },
-    {
-     "q": "What is the English meaning of Flower?",
-     "a": "In English, Flower is rendered as “Blossom, bloom, beauty”."
-    },
-    {
-     "q": "Is Flower suitable for a baby?",
-     "a": "Flower is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Flower?",
-     "a": "Flower is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Flower?",
-     "a": "Flower is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Flower have a positive meaning?",
-     "a": "Flower carries the meaning “Blossom, bloom, beauty”."
-    },
-    {
-     "q": "What does the name Flower mean?",
-     "a": "Flower means “Blossom, bloom, beauty”."
-    },
-    {
-     "q": "What is the origin of the name Flower?",
-     "a": "Flower is of Biblical origin."
-    },
-    {
-     "q": "Is Flower a unisex name?",
-     "a": "Flower is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Flower have?",
-     "a": "Flower has 2 syllables."
-    },
-    {
-     "q": "How is Flower pronounced?",
-     "a": "Flower is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Flower?",
-     "a": "Any spiritual significance attached to Flower is interpretive and is labelled as such in this record."
-    }
-   ]
-  },
-  "seo_title": "Flower Name Meaning – Blossom, bloom, beauty (Biblical)",
-  "meta_description": "Flower is a Biblical name meaning “Blossom, bloom, beauty”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Flower",
-   "Flower name meaning",
-   "Flower meaning",
-   "Flower origin",
-   "Flower root",
-   "Flower pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/flower",
-  "intro_paragraph": "Flower is a Biblical name meaning “Blossom, bloom, beauty”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Flower",
-   "description": "Flower — Blossom, bloom, beauty",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Does Flower have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Flower is recorded as a christian name meaning “Blossom, bloom, beauty”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Flower?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Flower is rendered as “Blossom, bloom, beauty”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Flower suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Flower is used as a unisex given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Flower?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Flower is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Flower?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Flower is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Flower have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Flower carries the meaning “Blossom, bloom, beauty”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Flower mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Flower means “Blossom, bloom, beauty”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Flower?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Flower is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Flower a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Flower is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Flower have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Flower has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Flower pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Flower is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Flower?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Flower is interpretive and is labelled as such in this record."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Flower",
-     "item": "https://namemeaning.example/name/flower"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Flower",
-   "slug": "flower",
-   "meaning": "Blossom, bloom, beauty",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Flower",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Blossom, bloom, beauty",
-   "long_meaning": "The name Flower is recorded with the meaning “Blossom, bloom, beauty”. Flower is a Biblical name meaning “Blossom, bloom, beauty”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Flower",
-     "meaning": "Blossom, bloom, beauty",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "FLOW-er",
-    "ipa": "floʊ.ər"
-   },
-   "syllables": 2,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "Does Flower have a religious meaning?",
-     "a": "Flower is recorded as a christian name meaning “Blossom, bloom, beauty”."
-    },
-    {
-     "q": "What is the English meaning of Flower?",
-     "a": "In English, Flower is rendered as “Blossom, bloom, beauty”."
-    },
-    {
-     "q": "Is Flower suitable for a baby?",
-     "a": "Flower is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Flower?",
-     "a": "Flower is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Flower?",
-     "a": "Flower is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Flower have a positive meaning?",
-     "a": "Flower carries the meaning “Blossom, bloom, beauty”."
-    },
-    {
-     "q": "What does the name Flower mean?",
-     "a": "Flower means “Blossom, bloom, beauty”."
-    },
-    {
-     "q": "What is the origin of the name Flower?",
-     "a": "Flower is of Biblical origin."
-    },
-    {
-     "q": "Is Flower a unisex name?",
-     "a": "Flower is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Flower have?",
-     "a": "Flower has 2 syllables."
-    },
-    {
-     "q": "How is Flower pronounced?",
-     "a": "Flower is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Flower?",
-     "a": "Any spiritual significance attached to Flower is interpretive and is labelled as such in this record."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 7,
-    "life_path_number": 7,
-    "ruling_planet": "Ketu",
-    "lucky_day": "Tuesday",
-    "lucky_stone": "Cat's Eye",
-    "lucky_colors": [
-     "Grey",
-     "Smoke"
+  "success": true,
+  "data": {
+    "name": "Flower",
+    "slug": "flower",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Flower total 34, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Flower is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Blossom, bloom, beauty",
+    "long_meaning": "The meaning of Flower is recorded in name-lists as “Blossom, bloom, beauty”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Flower expresses “Blossom, bloom, beauty”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "f-l-o-w-e-r",
+    "syllables": 2,
+    "name_length": 6,
+    "transliteration": [
+      "Flower"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Tuesday",
+    "lucky_colors": [
+      "Grey",
+      "Smoke"
+    ],
+    "lucky_stone": "Cat's Eye",
+    "ruling_planet": "Ketu",
+    "life_path_number": 7,
+    "numerology_meaning": "In Pythagorean numerology the letters of Flower total 34, reducing to 7. Number 7 is associated with reflection, analysis and inner search.",
+    "in_hebrew": {
+      "name": "שגבה",
+      "meaning": "nothing",
+      "long_meaning": "The name 'Flower' does not have a direct meaning or etymology in Hebrew."
+    },
+    "in_greek": {
+      "name": "ἄνθος",
+      "meaning": "flower",
+      "long_meaning": "The ancient Greeks used the word 'ἄνθος' to refer to any type of flower. This name has no specific biblical association."
+    },
+    "in_latin": {
+      "name": "Flos",
+      "meaning": "flower",
+      "long_meaning": "The Latin word 'Flos' also means 'flower.' This name has no specific biblical association."
+    },
+    "in_english": {
+      "name": "Flower",
+      "meaning": "Blossom, bloom, beauty",
+      "long_meaning": "Blossom, bloom, beauty"
+    },
+    "pronunciation": {
+      "english": "FLOW-er",
+      "ipa": "floʊ.ər"
+    },
+    "name_variations": [
+      "Flower"
+    ],
+    "variants": [
+      "Flower"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Flower is used in Biblical naming tradition with the meaning “Blossom, bloom, beauty”.",
+    "spiritual_significance": "Any spiritual significance attached to Flower is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Blossom, bloom, beauty” is the basis of any symbolism attached to Flower; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": "The name 'Flower' is not mentioned in the Bible."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Flower."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#FlowerMeaning",
+      "#ChristianBabyNames"
+    ],
+    "monetization": {
+      "ads": {
+        "display": true,
+        "positions": [
+          "header",
+          "sidebar",
+          "footer"
+        ]
+      },
+      "affiliate": {
+        "enabled": true,
+        "partners": [
+          "BabyCentre",
+          "BuyBuyBaby"
+        ]
+      }
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Flower Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Flower has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Flower, Flower name meaning, Flower meaning, Flower origin, Flower root, Flower pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Flower has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Flower",
+        "Flower name meaning",
+        "Flower meaning",
+        "Flower origin",
+        "Flower root",
+        "Flower pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Flower name meaning",
+      "secondary_keywords": [
+        "Flower meaning",
+        "Flower origin",
+        "Flower pronunciation",
+        "Flower lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Flower mean?",
+          "a": "Name-lists record the meaning as “Blossom, bloom, beauty”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Flower verified?",
+          "a": "No. The meaning of Flower could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Flower come from?",
+          "a": "The origin of Flower has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Flower Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Flower has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Flower",
+      "Flower name meaning",
+      "Flower meaning",
+      "Flower origin",
+      "Flower root",
+      "Flower pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Flower has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Flower",
+      "description": "Flower — Blossom, bloom, beauty",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Flower mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Blossom, bloom, beauty”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Flower verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Flower could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Flower come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Flower has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:11:13.000Z",
+    "tier1_verified": {
+      "name": "Flower",
+      "slug": "flower",
+      "meaning": "Blossom, bloom, beauty",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Flower",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Blossom, bloom, beauty",
+      "long_meaning": "The name Flower is recorded with the meaning “Blossom, bloom, beauty”. Flower is a Biblical name meaning “Blossom, bloom, beauty”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Flower",
+          "meaning": "Blossom, bloom, beauty",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "FLOW-er",
+        "ipa": "floʊ.ər"
+      },
+      "syllables": 2,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Flower mean?",
+          "a": "Name-lists record the meaning as “Blossom, bloom, beauty”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Flower verified?",
+          "a": "No. The meaning of Flower could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Flower come from?",
+          "a": "The origin of Flower has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 7,
+        "life_path_number": 7,
+        "ruling_planet": "Ketu",
+        "lucky_day": "Tuesday",
+        "lucky_stone": "Cat's Eye",
+        "lucky_colors": [
+          "Grey",
+          "Smoke"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Flower total 34, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:11:13.000Z"
+    }
   }
- }
 }

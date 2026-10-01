@@ -1,493 +1,332 @@
 {
- "success": true,
- "data": {
-  "name": "Tami",
-  "slug": "tami",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Tami is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Palm tree",
-  "long_meaning": "The name Tami is recorded with the meaning “Palm tree”. Tami is a Biblical name meaning “Palm tree”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Tami expresses “Palm tree”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Tami is recorded with the meaning “Palm tree”. Tami is a Biblical name meaning “Palm tree”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "t-a-m-i",
-  "syllables": 2,
-  "name_length": 4,
-  "transliteration": [
-   "Tami"
-  ],
-  "lucky_number": 7,
-  "lucky_day": "Tuesday",
-  "lucky_colors": [
-   "Grey",
-   "Smoke"
-  ],
-  "lucky_stone": "Cat's Eye",
-  "ruling_planet": "Ketu",
-  "life_path_number": 7,
-  "numerology_meaning": "In Pythagorean numerology the letters of Tami total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search.",
-  "in_hebrew": {
-   "name": "תַּמִי",
-   "meaning": "date",
-   "long_meaning": "From the Hebrew word 'tamim' which means 'perfect' or 'complete' in its original sense. The name 'Tami' could be a derivative of this root, meaning 'date' or 'season', as in 'the season of my birth'."
-  },
-  "in_greek": {
-   "name": "Θάμις",
-   "meaning": "little",
-   "long_meaning": "The name 'Tami' doesn't have a direct Greek translation, but it's believed to be derived from the Greek word 'thamios' which means 'little', 'young', or 'fresh'. This could be a translation or adaptation of the Hebrew meaning."
-  },
-  "in_latin": {
-   "name": "Tamia",
-   "meaning": "date, little one",
-   "long_meaning": "The name 'Tami' in Latin could be derived from the Hebrew root 'tamim', which means 'perfect' or 'complete'. Alternatively, it could be derived from the Greek 'thamios', which means 'little' or 'young'. In Latin, the name is spelled as 'Tamia'."
-  },
-  "in_english": {
-   "name": "Tami",
-   "meaning": "Palm tree",
-   "long_meaning": "The name Tami is recorded with the meaning “Palm tree”. Tami is a Biblical name meaning “Palm tree”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "/ˈta.mi/",
-   "biblical": "/ˈta.mi/",
-   "ipa": "[tˈa.mi]"
-  },
-  "name_variations": [
-   "Tami"
-  ],
-  "variants": [
-   "Tami"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Tami is used in Biblical naming tradition with the meaning “Palm tree”.",
-  "spiritual_significance": "Any spiritual significance attached to Tami is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Palm tree” is the basis of any symbolism attached to Tami; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": null,
-   "verse_reference": null,
-   "note": "The name 'Tami' is not directly mentioned in the Bible."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Tami."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#TamiMeaning",
-   "#ChristianBabyNames"
-  ],
-  "monetization": {
-   "ad_places": [
-    "above_content",
-    "below_content"
-   ],
-   "ad_types": [
-    "display",
-    "native"
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Tami Name Meaning – Palm tree (Biblical)",
-   "meta_description": "Tami is a Biblical name meaning “Palm tree”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Tami, Tami name meaning, Tami meaning, Tami origin, Tami root, Tami pronunciation, Biblical names",
-   "description_paragraph": "Tami is a Biblical name meaning “Palm tree”.",
-   "keywords": [
-    "Tami",
-    "Tami name meaning",
-    "Tami meaning",
-    "Tami origin",
-    "Tami root",
-    "Tami pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Tami name meaning",
-   "secondary_keywords": [
-    "Tami meaning",
-    "Tami origin",
-    "Tami pronunciation",
-    "Tami lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/tami",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Which colours are associated with Tami?",
-     "a": "Grey, Smoke are the traditional associations for Tami. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Tami?",
-     "a": "In Pythagorean numerology the letters of Tami total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
-    },
-    {
-     "q": "How reliable is the meaning given for Tami?",
-     "a": "The meaning of Tami carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Tami have a religious meaning?",
-     "a": "Tami is recorded as a christian name meaning “Palm tree”."
-    },
-    {
-     "q": "What is the English meaning of Tami?",
-     "a": "In English, Tami is rendered as “Palm tree”."
-    },
-    {
-     "q": "Is Tami suitable for a baby?",
-     "a": "Tami is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Tami?",
-     "a": "Tami is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Tami?",
-     "a": "Tami is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Tami have a positive meaning?",
-     "a": "Tami carries the meaning “Palm tree”."
-    },
-    {
-     "q": "What does the name Tami mean?",
-     "a": "Tami means “Palm tree”."
-    },
-    {
-     "q": "What is the origin of the name Tami?",
-     "a": "Tami is of Biblical origin."
-    },
-    {
-     "q": "Is Tami a unisex name?",
-     "a": "Tami is used as a unisex name."
-    }
-   ]
-  },
-  "seo_title": "Tami Name Meaning – Palm tree (Biblical)",
-  "meta_description": "Tami is a Biblical name meaning “Palm tree”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Tami",
-   "Tami name meaning",
-   "Tami meaning",
-   "Tami origin",
-   "Tami root",
-   "Tami pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/tami",
-  "intro_paragraph": "Tami is a Biblical name meaning “Palm tree”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Tami",
-   "description": "Tami — Palm tree",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Tami?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Grey, Smoke are the traditional associations for Tami. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Tami?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Tami total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Tami?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Tami carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Tami have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Tami is recorded as a christian name meaning “Palm tree”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Tami?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Tami is rendered as “Palm tree”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Tami suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Tami is used as a unisex given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Tami?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Tami is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Tami?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Tami is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Tami have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Tami carries the meaning “Palm tree”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Tami mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Tami means “Palm tree”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Tami?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Tami is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Tami a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Tami is used as a unisex name."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Tami",
-     "item": "https://namemeaning.example/name/tami"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Tami",
-   "slug": "tami",
-   "meaning": "Palm tree",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Tami",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Palm tree",
-   "long_meaning": "The name Tami is recorded with the meaning “Palm tree”. Tami is a Biblical name meaning “Palm tree”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Tami",
-     "meaning": "Palm tree",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "/ˈta.mi/",
-    "ipa": "[tˈa.mi]"
-   },
-   "syllables": 2,
-   "name_length": 4,
-   "faqs": [
-    {
-     "q": "Which colours are associated with Tami?",
-     "a": "Grey, Smoke are the traditional associations for Tami. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Tami?",
-     "a": "In Pythagorean numerology the letters of Tami total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
-    },
-    {
-     "q": "How reliable is the meaning given for Tami?",
-     "a": "The meaning of Tami carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Tami have a religious meaning?",
-     "a": "Tami is recorded as a christian name meaning “Palm tree”."
-    },
-    {
-     "q": "What is the English meaning of Tami?",
-     "a": "In English, Tami is rendered as “Palm tree”."
-    },
-    {
-     "q": "Is Tami suitable for a baby?",
-     "a": "Tami is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Tami?",
-     "a": "Tami is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Tami?",
-     "a": "Tami is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Tami have a positive meaning?",
-     "a": "Tami carries the meaning “Palm tree”."
-    },
-    {
-     "q": "What does the name Tami mean?",
-     "a": "Tami means “Palm tree”."
-    },
-    {
-     "q": "What is the origin of the name Tami?",
-     "a": "Tami is of Biblical origin."
-    },
-    {
-     "q": "Is Tami a unisex name?",
-     "a": "Tami is used as a unisex name."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 7,
-    "life_path_number": 7,
-    "ruling_planet": "Ketu",
-    "lucky_day": "Tuesday",
-    "lucky_stone": "Cat's Eye",
-    "lucky_colors": [
-     "Grey",
-     "Smoke"
+  "success": true,
+  "data": {
+    "name": "Tami",
+    "slug": "tami",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Tami total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Tami is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Palm tree",
+    "long_meaning": "The meaning of Tami is recorded in name-lists as “Palm tree”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Tami expresses “Palm tree”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "t-a-m-i",
+    "syllables": 2,
+    "name_length": 4,
+    "transliteration": [
+      "Tami"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Tuesday",
+    "lucky_colors": [
+      "Grey",
+      "Smoke"
+    ],
+    "lucky_stone": "Cat's Eye",
+    "ruling_planet": "Ketu",
+    "life_path_number": 7,
+    "numerology_meaning": "In Pythagorean numerology the letters of Tami total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search.",
+    "in_hebrew": {
+      "name": "תַּמִי",
+      "meaning": "date",
+      "long_meaning": "From the Hebrew word 'tamim' which means 'perfect' or 'complete' in its original sense. The name 'Tami' could be a derivative of this root, meaning 'date' or 'season', as in 'the season of my birth'."
+    },
+    "in_greek": {
+      "name": "Θάμις",
+      "meaning": "little",
+      "long_meaning": "The name 'Tami' doesn't have a direct Greek translation, but it's believed to be derived from the Greek word 'thamios' which means 'little', 'young', or 'fresh'. This could be a translation or adaptation of the Hebrew meaning."
+    },
+    "in_latin": {
+      "name": "Tamia",
+      "meaning": "date, little one",
+      "long_meaning": "The name 'Tami' in Latin could be derived from the Hebrew root 'tamim', which means 'perfect' or 'complete'. Alternatively, it could be derived from the Greek 'thamios', which means 'little' or 'young'. In Latin, the name is spelled as 'Tamia'."
+    },
+    "in_english": {
+      "name": "Tami",
+      "meaning": "Palm tree",
+      "long_meaning": "Palm tree"
+    },
+    "pronunciation": {
+      "english": "/ˈta.mi/",
+      "biblical": "/ˈta.mi/",
+      "ipa": "[tˈa.mi]"
+    },
+    "name_variations": [
+      "Tami"
+    ],
+    "variants": [
+      "Tami"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Tami is used in Biblical naming tradition with the meaning “Palm tree”.",
+    "spiritual_significance": "Any spiritual significance attached to Tami is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Palm tree” is the basis of any symbolism attached to Tami; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": null,
+      "verse_reference": null,
+      "note": "The name 'Tami' is not directly mentioned in the Bible."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Tami."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#TamiMeaning",
+      "#ChristianBabyNames"
+    ],
+    "monetization": {
+      "ad_places": [
+        "above_content",
+        "below_content"
+      ],
+      "ad_types": [
+        "display",
+        "native"
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Tami Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Tami has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Tami, Tami name meaning, Tami meaning, Tami origin, Tami root, Tami pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Tami has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Tami",
+        "Tami name meaning",
+        "Tami meaning",
+        "Tami origin",
+        "Tami root",
+        "Tami pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Tami name meaning",
+      "secondary_keywords": [
+        "Tami meaning",
+        "Tami origin",
+        "Tami pronunciation",
+        "Tami lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Tami mean?",
+          "a": "Name-lists record the meaning as “Palm tree”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Tami verified?",
+          "a": "No. The meaning of Tami could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Tami come from?",
+          "a": "The origin of Tami has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Tami Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Tami has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Tami",
+      "Tami name meaning",
+      "Tami meaning",
+      "Tami origin",
+      "Tami root",
+      "Tami pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Tami has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Tami",
+      "description": "Tami — Palm tree",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Tami mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Palm tree”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Tami verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Tami could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Tami come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Tami has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:34:09.000Z",
+    "tier1_verified": {
+      "name": "Tami",
+      "slug": "tami",
+      "meaning": "Palm tree",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Tami",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Palm tree",
+      "long_meaning": "The name Tami is recorded with the meaning “Palm tree”. Tami is a Biblical name meaning “Palm tree”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Tami",
+          "meaning": "Palm tree",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "/ˈta.mi/",
+        "ipa": "[tˈa.mi]"
+      },
+      "syllables": 2,
+      "name_length": 4,
+      "faqs": [
+        {
+          "q": "What does the name Tami mean?",
+          "a": "Name-lists record the meaning as “Palm tree”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Tami verified?",
+          "a": "No. The meaning of Tami could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Tami come from?",
+          "a": "The origin of Tami has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 7,
+        "life_path_number": 7,
+        "ruling_planet": "Ketu",
+        "lucky_day": "Tuesday",
+        "lucky_stone": "Cat's Eye",
+        "lucky_colors": [
+          "Grey",
+          "Smoke"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Tami total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:34:09.000Z"
+    }
   }
- }
 }

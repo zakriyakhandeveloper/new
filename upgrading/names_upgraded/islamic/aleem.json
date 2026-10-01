@@ -1,547 +1,386 @@
 {
- "success": true,
- "data": {
-  "name": "Aleem",
-  "slug": "aleem",
-  "language": [
-   "Arabic",
-   "Urdu",
-   "Persian"
-  ],
-  "gender": "Male",
-  "gender_notes": "Aleem is used as a male name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Knowledgeable, Wise",
-  "long_meaning": "The name Aleem is recorded with the meaning “Knowledgeable, Wise”. Aleem is a Arabic name meaning “Knowledgeable, Wise”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Aleem expresses “Knowledgeable, Wise”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Aleem is recorded with the meaning “Knowledgeable, Wise”. Aleem is a Arabic name meaning “Knowledgeable, Wise”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-l-e-e-m",
-  "syllables": 2,
-  "name_length": 5,
-  "transliteration": [
-   "Aleem"
-  ],
-  "lucky_number": 9,
-  "lucky_day": "Tuesday",
-  "lucky_colors": [
-   "Red",
-   "Crimson"
-  ],
-  "lucky_stone": "Red Coral",
-  "ruling_planet": "Mars",
-  "life_path_number": 9,
-  "numerology_meaning": "In Pythagorean numerology the letters of Aleem total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
-  "in_arabic": {
-   "name": "علِيم",
-   "meaning": "الذي يعلم وفطن ذكي",
-   "long_meaning": "علِيم من الكلمة العربية \"علم\" ويشير إلى الشخص ذو المعرفة الواسعة والذكاء العميق. يُستخدم هذا الاسم على نطاق واسع في الثقافة الإسلامية، وكثيراً ما يرتبط بالعلماء والأئمة والأشخاص الذين يمتلكون الحكمة والفضل. يُذكر اسم \"علِيم\" في القرآن الكريم، ويشير إلى الله تعالى بوصفه خالق الكون ومنبع المعرفة. يُعتبر \"علِيم\" اسمًا طيبًا ومُحترمًا في الإسلام، ويُعبر عن الرغبة في أن يكون الطفل ذكيًا وعلما."
-  },
-  "in_urdu": {
-   "name": "عالم",
-   "meaning": "معلم، عالم، دانشمند، صاحب علم",
-   "long_meaning": "عالم، ایک اردو میں عام استعمال ہونے والا نام ہے جو \"علم\" کے الفاظ سے نکلا ہے۔ یہ لفظ علم کے معنی میں استعمال ہوتا ہے، یعنی علم حاصل کرنے والا، دانشمند، یا صاحب علم۔ اس نام کی اسلامی تاریخ میں اہمیت ہے، کیونکہ یہ علماء اور صوفیاء جیسے عالمگیر شخصیات سے منسلک ہے۔ عالم نام کا اطلاق ان لوگوں پر بھی ہوتا ہے جو شریعتِ اسلامیہ کی تعلیمات میں مہارت رکھتے ہیں۔ یہ نام اردو میں ایک خوشگوار اور معتبر نام سمجھا جاتا ہے"
-  },
-  "in_hindi": {
-   "name": "आलिम",
-   "meaning": "ज्‍ज्ञानी, विद्वान, बुद्धिमान",
-   "long_meaning": "आलिम एक संस्कृत और अरबी मूल का नाम है जो 'ज्ञान' से जुड़ा है। यह नाम उन लोगों के लिए इस्तेमाल किया जाता है जो विद्वान, बुद्धिमान और ज्ञानी होते हैं। इस्लामी संस्कृति में, आलिम नाम को अक्सर मुल्‍ला, मज्‍ज़ुम या ऐसे लोगों के लिए इस्तेमाल किया जाता है जिन्होंने धार्मिक शिक्षाएँ प्राप्त की हैं। यह नाम भारत में भी लोकप्रिय है और इसे बच्‍चे के लिए एक शुभ नाम माना जाता है।"
-  },
-  "in_pashto": {
-   "name": "علِم",
-   "meaning": "دانشمند، عالم، ژیانی",
-   "long_meaning": "علِم، نوم عربي او پښتو دی، چې په معناي دانشمند، عالم او ژیانی ورځلېږي. په افغان او پښتانه کلتور کې، علِم نوم ته کومو د دانشمندو او د دينوالو ته اړه ده. د شعر، ادب او د علومو په کلتوري کې د علِم نوم په زياته توګه کارول کېږي. ددې نوم ته د ګاندې او د ژیانی د فکري په اړه هم اړه ده."
-  },
-  "in_english": {
-   "name": "Aleem",
-   "meaning": "Knowledgeable, Wise",
-   "long_meaning": "The name Aleem is recorded with the meaning “Knowledgeable, Wise”. Aleem is a Arabic name meaning “Knowledgeable, Wise”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "ah-LEEM",
-   "urdu": "اردو میں تلفظ: \"عَالِم\" (عَالِم)",
-   "hindi": "हिन्दी में उच्चारण: आलिम (आ-लिम)",
-   "pashto": "په پښتو کې تلفظ: علِم (عَلِيم)",
-   "ipa": "/ˈɑː.liːm/"
-  },
-  "name_variations": [
-   "Aleem"
-  ],
-  "variants": [
-   "Aleem"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Aleem is used in Arabic naming tradition with the meaning “Knowledgeable, Wise”.",
-  "spiritual_significance": "Any spiritual significance attached to Aleem is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Knowledgeable, Wise” is the basis of any symbolism attached to Aleem; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Aleem has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Aleem."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AleemMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Aleem"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Aleem",
-     "description": "Discover the meaning of Aleem - \"Knowledgeable, Wise\"",
-     "image": "/images/social/aleem-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Aleem - Name Meaning",
-     "description": "Learn about the beautiful name Aleem",
-     "image": "/images/social/aleem-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Aleem",
-     "description": "Name meaning: Knowledgeable, Wise",
-     "image": "/images/social/aleem-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Aleem - Meaning: Knowledgeable, Wise",
-    "email_subject": "Beautiful Name: Aleem"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Aleem with meaning Knowledgeable, Wise",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Aleem Name Meaning – Knowledgeable, Wise (Arabic)",
-   "meta_description": "Aleem is a Arabic name meaning “Knowledgeable, Wise”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Aleem, Aleem name meaning, Aleem meaning, Aleem origin, Aleem root, Aleem pronunciation, Arabic names",
-   "description_paragraph": "Aleem is a Arabic name meaning “Knowledgeable, Wise”.",
-   "keywords": [
-    "Aleem",
-    "Aleem name meaning",
-    "Aleem meaning",
-    "Aleem origin",
-    "Aleem root",
-    "Aleem pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Aleem name meaning",
-   "secondary_keywords": [
-    "Aleem meaning",
-    "Aleem origin",
-    "Aleem pronunciation",
-    "Aleem lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/aleem",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Which culture uses the name Aleem?",
-     "a": "Aleem is used in Arabic naming traditions."
-    },
-    {
-     "q": "Does Aleem have a positive meaning?",
-     "a": "Aleem carries the meaning “Knowledgeable, Wise”."
-    },
-    {
-     "q": "What does the name Aleem mean?",
-     "a": "Aleem means “Knowledgeable, Wise”."
-    },
-    {
-     "q": "What is the origin of the name Aleem?",
-     "a": "Aleem is of Arabic origin."
-    },
-    {
-     "q": "Is Aleem a male name?",
-     "a": "Aleem is used as a male name."
-    },
-    {
-     "q": "How many syllables does Aleem have?",
-     "a": "Aleem has 2 syllables."
-    },
-    {
-     "q": "How is Aleem pronounced?",
-     "a": "Aleem is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Aleem?",
-     "a": "Any spiritual significance attached to Aleem is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Aleem?",
-     "a": "Variant spellings of Aleem are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Aleem a common name?",
-     "a": "Popularity figures for Aleem have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Aleem say about a child?",
-     "a": "The name Aleem expresses “Knowledgeable, Wise”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Aleem be used in another language?",
-     "a": "Aleem is recorded in Arabic; its script forms in other languages are given in the translations field."
-    }
-   ]
-  },
-  "seo_title": "Aleem Name Meaning – Knowledgeable, Wise (Arabic)",
-  "meta_description": "Aleem is a Arabic name meaning “Knowledgeable, Wise”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Aleem",
-   "Aleem name meaning",
-   "Aleem meaning",
-   "Aleem origin",
-   "Aleem root",
-   "Aleem pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/aleem",
-  "intro_paragraph": "Aleem is a Arabic name meaning “Knowledgeable, Wise”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Aleem",
-   "description": "Aleem — Knowledgeable, Wise",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Aleem?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aleem is used in Arabic naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Aleem have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aleem carries the meaning “Knowledgeable, Wise”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Aleem mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aleem means “Knowledgeable, Wise”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Aleem?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aleem is of Arabic origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aleem a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aleem is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Aleem have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aleem has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Aleem pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aleem is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Aleem?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Aleem is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Aleem?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Aleem are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aleem a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Aleem have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Aleem say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Aleem expresses “Knowledgeable, Wise”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Aleem be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aleem is recorded in Arabic; its script forms in other languages are given in the translations field."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Aleem",
-     "item": "https://namemeaning.example/name/aleem"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-12-22T19:19:49.757Z",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Aleem",
-   "slug": "aleem",
-   "meaning": "Knowledgeable, Wise",
-   "origin": "Arabic",
-   "language": [
-    "Arabic",
-    "Urdu",
-    "Persian"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Aleem",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Knowledgeable, Wise",
-   "long_meaning": "The name Aleem is recorded with the meaning “Knowledgeable, Wise”. Aleem is a Arabic name meaning “Knowledgeable, Wise”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Aleem",
-     "meaning": "Knowledgeable, Wise",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "ah-LEEM",
-    "ipa": "/ˈɑː.liːm/"
-   },
-   "syllables": 2,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "Which culture uses the name Aleem?",
-     "a": "Aleem is used in Arabic naming traditions."
-    },
-    {
-     "q": "Does Aleem have a positive meaning?",
-     "a": "Aleem carries the meaning “Knowledgeable, Wise”."
-    },
-    {
-     "q": "What does the name Aleem mean?",
-     "a": "Aleem means “Knowledgeable, Wise”."
-    },
-    {
-     "q": "What is the origin of the name Aleem?",
-     "a": "Aleem is of Arabic origin."
-    },
-    {
-     "q": "Is Aleem a male name?",
-     "a": "Aleem is used as a male name."
-    },
-    {
-     "q": "How many syllables does Aleem have?",
-     "a": "Aleem has 2 syllables."
-    },
-    {
-     "q": "How is Aleem pronounced?",
-     "a": "Aleem is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Aleem?",
-     "a": "Any spiritual significance attached to Aleem is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Aleem?",
-     "a": "Variant spellings of Aleem are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Aleem a common name?",
-     "a": "Popularity figures for Aleem have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Aleem say about a child?",
-     "a": "The name Aleem expresses “Knowledgeable, Wise”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Aleem be used in another language?",
-     "a": "Aleem is recorded in Arabic; its script forms in other languages are given in the translations field."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 9,
-    "life_path_number": 9,
-    "ruling_planet": "Mars",
-    "lucky_day": "Tuesday",
-    "lucky_stone": "Red Coral",
-    "lucky_colors": [
-     "Red",
-     "Crimson"
+  "success": true,
+  "data": {
+    "name": "Aleem",
+    "slug": "aleem",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Aleem total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Aleem is used as a male name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Knowledgeable, Wise",
+    "long_meaning": "The meaning of Aleem is recorded in name-lists as “Knowledgeable, Wise”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Aleem expresses “Knowledgeable, Wise”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Arabic",
+    "root_letters": "a-l-e-e-m",
+    "syllables": 2,
+    "name_length": 5,
+    "transliteration": [
+      "Aleem"
+    ],
+    "lucky_number": 9,
+    "lucky_day": "Tuesday",
+    "lucky_colors": [
+      "Red",
+      "Crimson"
+    ],
+    "lucky_stone": "Red Coral",
+    "ruling_planet": "Mars",
+    "life_path_number": 9,
+    "numerology_meaning": "In Pythagorean numerology the letters of Aleem total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
+    "in_arabic": {
+      "name": "علِيم",
+      "meaning": "Knowledgeable, Wise",
+      "long_meaning": "Knowledgeable, Wise"
+    },
+    "in_urdu": {
+      "name": "عالم",
+      "meaning": "Knowledgeable, Wise",
+      "long_meaning": "Knowledgeable, Wise"
+    },
+    "in_hindi": {
+      "name": "आलिम",
+      "meaning": "Knowledgeable, Wise",
+      "long_meaning": "Knowledgeable, Wise"
+    },
+    "in_pashto": {
+      "name": "علِم",
+      "meaning": "Knowledgeable, Wise",
+      "long_meaning": "Knowledgeable, Wise"
+    },
+    "in_english": {
+      "name": "Aleem",
+      "meaning": "Knowledgeable, Wise",
+      "long_meaning": "Knowledgeable, Wise"
+    },
+    "pronunciation": {
+      "english": "ah-LEEM",
+      "urdu": "اردو میں تلفظ: \"عَالِم\" (عَالِم)",
+      "hindi": "हिन्दी में उच्चारण: आलिम (आ-लिम)",
+      "pashto": "په پښتو کې تلفظ: علِم (عَلِيم)",
+      "ipa": "/ˈɑː.liːm/"
+    },
+    "name_variations": [
+      "Aleem"
+    ],
+    "variants": [
+      "Aleem"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Aleem is used in Arabic naming tradition with the meaning “Knowledgeable, Wise”.",
+    "spiritual_significance": "Any spiritual significance attached to Aleem is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Knowledgeable, Wise” is the basis of any symbolism attached to Aleem; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "No Qur'anic reference for Aleem has been verified."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Aleem."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AleemMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Aleem"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Aleem",
+          "description": "Discover the meaning of Aleem - \"Knowledgeable, Wise\"",
+          "image": "/images/social/aleem-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Aleem - Name Meaning",
+          "description": "Learn about the beautiful name Aleem",
+          "image": "/images/social/aleem-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Aleem",
+          "description": "Name meaning: Knowledgeable, Wise",
+          "image": "/images/social/aleem-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Aleem - Meaning: Knowledgeable, Wise",
+        "email_subject": "Beautiful Name: Aleem"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Aleem with meaning Knowledgeable, Wise",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Aleem Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Aleem has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Aleem, Aleem name meaning, Aleem meaning, Aleem origin, Aleem root, Aleem pronunciation, Arabic names",
+      "description_paragraph": "The meaning of Aleem has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Aleem",
+        "Aleem name meaning",
+        "Aleem meaning",
+        "Aleem origin",
+        "Aleem root",
+        "Aleem pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Aleem name meaning",
+      "secondary_keywords": [
+        "Aleem meaning",
+        "Aleem origin",
+        "Aleem pronunciation",
+        "Aleem lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Aleem mean?",
+          "a": "Name-lists record the meaning as “Knowledgeable, Wise”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Aleem verified?",
+          "a": "No. The meaning of Aleem could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Aleem come from?",
+          "a": "The origin of Aleem has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Aleem Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Aleem has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Aleem",
+      "Aleem name meaning",
+      "Aleem meaning",
+      "Aleem origin",
+      "Aleem root",
+      "Aleem pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Aleem has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Aleem",
+      "description": "Aleem — Knowledgeable, Wise",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Aleem mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Knowledgeable, Wise”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Aleem verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Aleem could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Aleem come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Aleem has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 70
+    },
+    "created_at": "2025-12-22T19:19:49.757Z",
+    "updated_at": "2026-10-01T04:04:37.000Z",
+    "tier1_verified": {
+      "name": "Aleem",
+      "slug": "aleem",
+      "meaning": "Knowledgeable, Wise",
+      "origin": "Arabic",
+      "language": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Aleem",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Knowledgeable, Wise",
+      "long_meaning": "The name Aleem is recorded with the meaning “Knowledgeable, Wise”. Aleem is a Arabic name meaning “Knowledgeable, Wise”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Aleem",
+          "meaning": "Knowledgeable, Wise",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "ah-LEEM",
+        "ipa": "/ˈɑː.liːm/"
+      },
+      "syllables": 2,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Aleem mean?",
+          "a": "Name-lists record the meaning as “Knowledgeable, Wise”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Aleem verified?",
+          "a": "No. The meaning of Aleem could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Aleem come from?",
+          "a": "The origin of Aleem has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 9,
+        "life_path_number": 9,
+        "ruling_planet": "Mars",
+        "lucky_day": "Tuesday",
+        "lucky_stone": "Red Coral",
+        "lucky_colors": [
+          "Red",
+          "Crimson"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Aleem total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:37.000Z"
+    }
   }
- }
 }

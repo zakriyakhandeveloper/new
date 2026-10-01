@@ -1,505 +1,344 @@
 {
- "success": true,
- "data": {
-  "name": "Charity",
-  "slug": "charity",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Charity is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Love, kindness, generosity",
-  "long_meaning": "The name Charity is recorded with the meaning “Love, kindness, generosity”. Charity is a Biblical name meaning “Love, kindness, generosity”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Charity expresses “Love, kindness, generosity”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Charity is recorded with the meaning “Love, kindness, generosity”. Charity is a Biblical name meaning “Love, kindness, generosity”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "c-h-a-r-i-t-y",
-  "syllables": 3,
-  "name_length": 7,
-  "transliteration": [
-   "Charity"
-  ],
-  "lucky_number": 3,
-  "lucky_day": "Thursday",
-  "lucky_colors": [
-   "Yellow",
-   "Gold"
-  ],
-  "lucky_stone": "Yellow Sapphire",
-  "ruling_planet": "Jupiter",
-  "life_path_number": 3,
-  "numerology_meaning": "In Pythagorean numerology the letters of Charity total 39, reducing to 3. Number 3 is associated with expression, creativity and optimism.",
-  "in_hebrew": {
-   "name": "חסד",
-   "meaning": "אהבה, רחמים, סליחה",
-   "long_meaning": "חסד (Chesed) היא מידת אהבה, רחמים, וסליחה, המצויה באלוהים. בקבלה, חסד נחשבת העליונה מבין הספירות. במקרא, חסד היא תכונה של אלוהים, המופיעה בבראשית א, 6, שם האלוהים מתאר את שאר רברבי, שהיא אחת מן השפות הקדומות, ומשמעותה - רחמים, חסד, אהבה."
-  },
-  "in_greek": {
-   "name": "Ἀγάπη",
-   "meaning": "ἀγάπη, ἔλεος, ἀπολογία",
-   "long_meaning": "Ἀγάπη (Agapē) ἐστὶν ἡ ἡνωμένη μετὰ τὸν Θεόν, ἡ ἀγάπη, ἡ ἔλεος, ἡ ἀπαρχή. Ἀγάπη ἐστὶν οὐ τὸν ἄνθρωπον σῶσαι, ἀλλά τὸν Θεόν σώζειν. Ἀγάπη ἐστὶν ἡ ἔλεος τοῦ Θεοῦ. Ἀγάπη ἐστὶν ἡ ἀγάπη τοῦ Θεοῦ."
-  },
-  "in_latin": {
-   "name": "Caritas",
-   "meaning": "amor, misericordia, indulgentia",
-   "long_meaning": "Caritas est amor, misericordia, et indulgentia Dei. Caritas est radix omnis boni. Caritas est voluntas Dei, qui est in Christo Jesu. Caritas non facit injuriam, sed omnia facit propter Deum."
-  },
-  "in_english": {
-   "name": "Charity",
-   "meaning": "Love, kindness, generosity",
-   "long_meaning": "The name Charity is recorded with the meaning “Love, kindness, generosity”. Charity is a Biblical name meaning “Love, kindness, generosity”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "KAHR-ih-tee",
-   "biblical": "in Greek: ah-GAH-pee",
-   "ipa": "/kɑːriːtiː/"
-  },
-  "name_variations": [
-   "Charity"
-  ],
-  "variants": [
-   "Charity"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Charity is used in Biblical naming tradition with the meaning “Love, kindness, generosity”.",
-  "spiritual_significance": "Any spiritual significance attached to Charity is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Love, kindness, generosity” is the basis of any symbolism attached to Charity; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": true,
-   "origin_scripture": "New Testament",
-   "verse_reference": "1 Corinthians 13:13",
-   "note": "Charity is one of the three virtues, along with faith and hope, that are considered essential for the Christian life."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Charity."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#CharityMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Charity"
-  ],
-  "monetization": {
-   "adsense": {
-    "unit_id": "ca-pub-1234567890123456",
-    "layout": "in-article",
-    "channel": "2"
-   },
-   "affiliate": [
-    {
-     "name": "BabyCentre",
-     "code": "babycentre_affiliate",
-     "banner": "https://example.com/images/babycentre_banner.jpg"
-    },
-    {
-     "name": "Amazon",
-     "code": "amazon_affiliate",
-     "banner": "https://example.com/images/amazon_banner.jpg"
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Charity Name Meaning – Love, kindness, generosity (Biblical)",
-   "meta_description": "Charity is a Biblical name meaning “Love, kindness, generosity”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Charity, Charity name meaning, Charity meaning, Charity origin, Charity root, Charity pronunciation, Biblical names",
-   "description_paragraph": "Charity is a Biblical name meaning “Love, kindness, generosity”.",
-   "keywords": [
-    "Charity",
-    "Charity name meaning",
-    "Charity meaning",
-    "Charity origin",
-    "Charity root",
-    "Charity pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Charity name meaning",
-   "secondary_keywords": [
-    "Charity meaning",
-    "Charity origin",
-    "Charity pronunciation",
-    "Charity lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/charity",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "How is Charity pronounced?",
-     "a": "Charity is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Charity?",
-     "a": "Any spiritual significance attached to Charity is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Charity?",
-     "a": "Variant spellings of Charity are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Charity a common name?",
-     "a": "Popularity figures for Charity have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Charity say about a child?",
-     "a": "The name Charity expresses “Love, kindness, generosity”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Charity be used in another language?",
-     "a": "Charity is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Charity mentioned in scripture?",
-     "a": "No scriptural reference for Charity has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Charity?",
-     "a": "The Pythagorean lucky number for Charity is 3 (ruling planet Jupiter). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Charity?",
-     "a": "Thursday is the traditional association for Charity. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Charity?",
-     "a": "Yellow Sapphire is the traditional association for Charity. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Charity?",
-     "a": "Yellow, Gold are the traditional associations for Charity. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Charity?",
-     "a": "In Pythagorean numerology the letters of Charity total 39, reducing to 3. Number 3 is associated with expression, creativity and optimism."
-    }
-   ]
-  },
-  "seo_title": "Charity Name Meaning – Love, kindness, generosity (Biblical)",
-  "meta_description": "Charity is a Biblical name meaning “Love, kindness, generosity”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Charity",
-   "Charity name meaning",
-   "Charity meaning",
-   "Charity origin",
-   "Charity root",
-   "Charity pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/charity",
-  "intro_paragraph": "Charity is a Biblical name meaning “Love, kindness, generosity”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Charity",
-   "description": "Charity — Love, kindness, generosity",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "How is Charity pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Charity is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Charity?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Charity is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Charity?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Charity are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Charity a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Charity have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Charity say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Charity expresses “Love, kindness, generosity”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Charity be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Charity is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Charity mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Charity has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Charity?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Charity is 3 (ruling planet Jupiter). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Charity?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Thursday is the traditional association for Charity. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Charity?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Yellow Sapphire is the traditional association for Charity. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Charity?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Yellow, Gold are the traditional associations for Charity. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Charity?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Charity total 39, reducing to 3. Number 3 is associated with expression, creativity and optimism."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Charity",
-     "item": "https://namemeaning.example/name/charity"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Charity",
-   "slug": "charity",
-   "meaning": "Love, kindness, generosity",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Charity",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Love, kindness, generosity",
-   "long_meaning": "The name Charity is recorded with the meaning “Love, kindness, generosity”. Charity is a Biblical name meaning “Love, kindness, generosity”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Charity",
-     "meaning": "Love, kindness, generosity",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "KAHR-ih-tee",
-    "ipa": "/kɑːriːtiː/"
-   },
-   "syllables": 3,
-   "name_length": 7,
-   "faqs": [
-    {
-     "q": "How is Charity pronounced?",
-     "a": "Charity is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Charity?",
-     "a": "Any spiritual significance attached to Charity is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Charity?",
-     "a": "Variant spellings of Charity are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Charity a common name?",
-     "a": "Popularity figures for Charity have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Charity say about a child?",
-     "a": "The name Charity expresses “Love, kindness, generosity”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Charity be used in another language?",
-     "a": "Charity is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Charity mentioned in scripture?",
-     "a": "No scriptural reference for Charity has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Charity?",
-     "a": "The Pythagorean lucky number for Charity is 3 (ruling planet Jupiter). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Charity?",
-     "a": "Thursday is the traditional association for Charity. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Charity?",
-     "a": "Yellow Sapphire is the traditional association for Charity. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Charity?",
-     "a": "Yellow, Gold are the traditional associations for Charity. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Charity?",
-     "a": "In Pythagorean numerology the letters of Charity total 39, reducing to 3. Number 3 is associated with expression, creativity and optimism."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 3,
-    "life_path_number": 3,
-    "ruling_planet": "Jupiter",
-    "lucky_day": "Thursday",
-    "lucky_stone": "Yellow Sapphire",
-    "lucky_colors": [
-     "Yellow",
-     "Gold"
+  "success": true,
+  "data": {
+    "name": "Charity",
+    "slug": "charity",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Charity total 39, reducing to 3. Number 3 is associated with expression, creativity and optimism."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Charity is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Love, kindness, generosity",
+    "long_meaning": "The meaning of Charity is recorded in name-lists as “Love, kindness, generosity”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Charity expresses “Love, kindness, generosity”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "c-h-a-r-i-t-y",
+    "syllables": 3,
+    "name_length": 7,
+    "transliteration": [
+      "Charity"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Yellow",
+      "Gold"
+    ],
+    "lucky_stone": "Yellow Sapphire",
+    "ruling_planet": "Jupiter",
+    "life_path_number": 3,
+    "numerology_meaning": "In Pythagorean numerology the letters of Charity total 39, reducing to 3. Number 3 is associated with expression, creativity and optimism.",
+    "in_hebrew": {
+      "name": "חסד",
+      "meaning": "אהבה, רחמים, סליחה",
+      "long_meaning": "חסד (Chesed) היא מידת אהבה, רחמים, וסליחה, המצויה באלוהים. בקבלה, חסד נחשבת העליונה מבין הספירות. במקרא, חסד היא תכונה של אלוהים, המופיעה בבראשית א, 6, שם האלוהים מתאר את שאר רברבי, שהיא אחת מן השפות הקדומות, ומשמעותה - רחמים, חסד, אהבה."
+    },
+    "in_greek": {
+      "name": "Ἀγάπη",
+      "meaning": "ἀγάπη, ἔλεος, ἀπολογία",
+      "long_meaning": "Ἀγάπη (Agapē) ἐστὶν ἡ ἡνωμένη μετὰ τὸν Θεόν, ἡ ἀγάπη, ἡ ἔλεος, ἡ ἀπαρχή. Ἀγάπη ἐστὶν οὐ τὸν ἄνθρωπον σῶσαι, ἀλλά τὸν Θεόν σώζειν. Ἀγάπη ἐστὶν ἡ ἔλεος τοῦ Θεοῦ. Ἀγάπη ἐστὶν ἡ ἀγάπη τοῦ Θεοῦ."
+    },
+    "in_latin": {
+      "name": "Caritas",
+      "meaning": "amor, misericordia, indulgentia",
+      "long_meaning": "Caritas est amor, misericordia, et indulgentia Dei. Caritas est radix omnis boni. Caritas est voluntas Dei, qui est in Christo Jesu. Caritas non facit injuriam, sed omnia facit propter Deum."
+    },
+    "in_english": {
+      "name": "Charity",
+      "meaning": "Love, kindness, generosity",
+      "long_meaning": "Love, kindness, generosity"
+    },
+    "pronunciation": {
+      "english": "KAHR-ih-tee",
+      "biblical": "in Greek: ah-GAH-pee",
+      "ipa": "/kɑːriːtiː/"
+    },
+    "name_variations": [
+      "Charity"
+    ],
+    "variants": [
+      "Charity"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Charity is used in Biblical naming tradition with the meaning “Love, kindness, generosity”.",
+    "spiritual_significance": "Any spiritual significance attached to Charity is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Love, kindness, generosity” is the basis of any symbolism attached to Charity; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "New Testament",
+      "verse_reference": "1 Corinthians 13:13",
+      "note": "Charity is one of the three virtues, along with faith and hope, that are considered essential for the Christian life."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Charity."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#CharityMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Charity"
+    ],
+    "monetization": {
+      "adsense": {
+        "unit_id": "ca-pub-1234567890123456",
+        "layout": "in-article",
+        "channel": "2"
+      },
+      "affiliate": [
+        {
+          "name": "BabyCentre",
+          "code": "babycentre_affiliate",
+          "banner": "https://example.com/images/babycentre_banner.jpg"
+        },
+        {
+          "name": "Amazon",
+          "code": "amazon_affiliate",
+          "banner": "https://example.com/images/amazon_banner.jpg"
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Charity Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Charity has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Charity, Charity name meaning, Charity meaning, Charity origin, Charity root, Charity pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Charity has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Charity",
+        "Charity name meaning",
+        "Charity meaning",
+        "Charity origin",
+        "Charity root",
+        "Charity pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Charity name meaning",
+      "secondary_keywords": [
+        "Charity meaning",
+        "Charity origin",
+        "Charity pronunciation",
+        "Charity lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Charity mean?",
+          "a": "Name-lists record the meaning as “Love, kindness, generosity”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Charity verified?",
+          "a": "No. The meaning of Charity could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Charity come from?",
+          "a": "The origin of Charity has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Charity Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Charity has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Charity",
+      "Charity name meaning",
+      "Charity meaning",
+      "Charity origin",
+      "Charity root",
+      "Charity pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Charity has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Charity",
+      "description": "Charity — Love, kindness, generosity",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Charity mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Love, kindness, generosity”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Charity verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Charity could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Charity come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Charity has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:07:24.000Z",
+    "tier1_verified": {
+      "name": "Charity",
+      "slug": "charity",
+      "meaning": "Love, kindness, generosity",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Charity",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Love, kindness, generosity",
+      "long_meaning": "The name Charity is recorded with the meaning “Love, kindness, generosity”. Charity is a Biblical name meaning “Love, kindness, generosity”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Charity",
+          "meaning": "Love, kindness, generosity",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "KAHR-ih-tee",
+        "ipa": "/kɑːriːtiː/"
+      },
+      "syllables": 3,
+      "name_length": 7,
+      "faqs": [
+        {
+          "q": "What does the name Charity mean?",
+          "a": "Name-lists record the meaning as “Love, kindness, generosity”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Charity verified?",
+          "a": "No. The meaning of Charity could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Charity come from?",
+          "a": "The origin of Charity has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 3,
+        "life_path_number": 3,
+        "ruling_planet": "Jupiter",
+        "lucky_day": "Thursday",
+        "lucky_stone": "Yellow Sapphire",
+        "lucky_colors": [
+          "Yellow",
+          "Gold"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Charity total 39, reducing to 3. Number 3 is associated with expression, creativity and optimism."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:07:24.000Z"
+    }
   }
- }
 }

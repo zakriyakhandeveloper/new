@@ -1,497 +1,336 @@
 {
- "success": true,
- "data": {
-  "name": "Gilbertine",
-  "slug": "gilbertine",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Gilbertine is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Saint",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Bright pledge",
-  "long_meaning": "The name Gilbertine is recorded with the meaning “Bright pledge”. Gilbertine is a Biblical name meaning “Bright pledge”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Gilbertine expresses “Bright pledge”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Gilbertine is recorded with the meaning “Bright pledge”. Gilbertine is a Biblical name meaning “Bright pledge”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "g-i-l-b-e-r-t-i-n-e",
-  "syllables": 3,
-  "name_length": 10,
-  "transliteration": [
-   "Gilbertine"
-  ],
-  "lucky_number": 2,
-  "lucky_day": "Monday",
-  "lucky_colors": [
-   "White",
-   "Silver"
-  ],
-  "lucky_stone": "Pearl",
-  "ruling_planet": "Moon",
-  "life_path_number": 2,
-  "numerology_meaning": "In Pythagorean numerology the letters of Gilbertine total 56, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
-  "in_hebrew": {
-   "name": "גִּלְבֶּרְטִינָה",
-   "meaning": "היא שייכת לחברה גילברטיני, שחברה גילברט",
-   "long_meaning": "השם גילברטינה מקורו באנגלית, ומשמעותו 'הילד של גילברט'. השם נמצא בפטרונות רבות, כולל פטרונות של הכנסייה. בפטרונות, משמעות השם 'עקרב' או 'שותף'. גם 'אישה גילברט'. השם עצמו 'גילברט' קיבלו 3 נזירים כנסייתיים שהקימו 3 נזיריות. הם הקימו הנזיריות לכבודם הקדושים. 3 נזירים. '3' היא המספר החשוב. 3 נזיריות. הם חבריה ובנות. 'הם' - 'הן'."
-  },
-  "in_greek": {
-   "name": "Γιλιβέρτιν",
-   "meaning": "απανθρακωδης και γλυκια",
-   "long_meaning": "Ο τίτλος Γιλβέρτιν προέρχεται από την αγγλική γλώσσα. Η σημασία του είναι 'ο παιδί του Γιλβέρτ'. Ο τίτλος βρίσκεται σε πολλές προνομιότητες, συμπεριλαμβανομένων προνομιότητες της Εκκλησίας. Στις προνομιότητες, η σημασία του τίτλου 'σκαρabajo' ή 'συνεργάτης'. Γιλβέρτ, επίσης, 'γυναίκα Γιλβέρτ'. Ο τίτλος itself 'Γιλβέρτ' λήφθηκε από 3 μοναχούς της Εκκλησίας που ίδρυσαν 3 μοναχίτιδες. Οι μοναχίτιδες ίδρυσαν για τιμή τους τους αγίους. 3 μοναχοί. '3' είναι το σημαντικότερο. 3 μοναχίτιδες. Ονομάζουν οι φίλοι και τις κόρες τους. 'Οι' - 'οι'."
-  },
-  "in_latin": {
-   "name": "Gilbertina",
-   "meaning": "femina ex familia Gilbertina",
-   "long_meaning": "Nomen Gilbertina originem habet ex lingua Anglica. Significatio eius est 'filia Gilberti'. Nomen in multis patronis, includens patronis Ecclesiae, invenitur. In patronis, significatio nominis 'scara' vel 'socius'. Item, 'mulier Gilberti'. Nomen ipsa 'Gilberti' ab 3 monachis Ecclesiae, quae 3 monachitates condiderunt, acceptum est. Monachitates condiderunt pro honoribus eorum sanctorum. 3 monachi. '3' est numerus gravissimus. 3 monachitates. Ipsi nomina amicis et filias suas. 'Ei' - 'eae'."
-  },
-  "in_english": {
-   "name": "Gilbertine",
-   "meaning": "Bright pledge",
-   "long_meaning": "The name Gilbertine is recorded with the meaning “Bright pledge”. Gilbertine is a Biblical name meaning “Bright pledge”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "Gil-bur-tee-nuh",
-   "biblical": "/gil.bur.tiˈna/",
-   "ipa": "/ɡɪl.bərˈti.nə/"
-  },
-  "name_variations": [
-   "Gilbertine"
-  ],
-  "variants": [
-   "Gilbertine"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Gilbertine is used in Biblical naming tradition with the meaning “Bright pledge”.",
-  "spiritual_significance": "Any spiritual significance attached to Gilbertine is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Bright pledge” is the basis of any symbolism attached to Gilbertine; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Gilbertine."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#GilbertineMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Gilbertine"
-  ],
-  "monetization": {
-   "affiliate_links": [
-    {
-     "title": "Shop for Gilbertine-inspired items",
-     "link": "https://example.com/shop/gilbertine"
-    }
-   ],
-   "adsense": {
-    "unit_id": "ca-pub-1234567890123456"
-   }
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Gilbertine Name Meaning – Bright pledge (Biblical)",
-   "meta_description": "Gilbertine is a Biblical name meaning “Bright pledge”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Gilbertine, Gilbertine name meaning, Gilbertine meaning, Gilbertine origin, Gilbertine root, Gilbertine pronunciation, Biblical names",
-   "description_paragraph": "Gilbertine is a Biblical name meaning “Bright pledge”.",
-   "keywords": [
-    "Gilbertine",
-    "Gilbertine name meaning",
-    "Gilbertine meaning",
-    "Gilbertine origin",
-    "Gilbertine root",
-    "Gilbertine pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Gilbertine name meaning",
-   "secondary_keywords": [
-    "Gilbertine meaning",
-    "Gilbertine origin",
-    "Gilbertine pronunciation",
-    "Gilbertine lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/gilbertine",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What does the name Gilbertine say about a child?",
-     "a": "The name Gilbertine expresses “Bright pledge”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Gilbertine be used in another language?",
-     "a": "Gilbertine is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Gilbertine mentioned in scripture?",
-     "a": "No scriptural reference for Gilbertine has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Gilbertine?",
-     "a": "The Pythagorean lucky number for Gilbertine is 2 (ruling planet Moon). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Gilbertine?",
-     "a": "Monday is the traditional association for Gilbertine. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Gilbertine?",
-     "a": "Pearl is the traditional association for Gilbertine. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Gilbertine?",
-     "a": "White, Silver are the traditional associations for Gilbertine. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Gilbertine?",
-     "a": "In Pythagorean numerology the letters of Gilbertine total 56, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-    },
-    {
-     "q": "How reliable is the meaning given for Gilbertine?",
-     "a": "The meaning of Gilbertine carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Gilbertine have a religious meaning?",
-     "a": "Gilbertine is recorded as a christian name meaning “Bright pledge”."
-    },
-    {
-     "q": "What is the English meaning of Gilbertine?",
-     "a": "In English, Gilbertine is rendered as “Bright pledge”."
-    },
-    {
-     "q": "Is Gilbertine suitable for a baby?",
-     "a": "Gilbertine is used as a unisex given name; suitability is a personal choice."
-    }
-   ]
-  },
-  "seo_title": "Gilbertine Name Meaning – Bright pledge (Biblical)",
-  "meta_description": "Gilbertine is a Biblical name meaning “Bright pledge”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Gilbertine",
-   "Gilbertine name meaning",
-   "Gilbertine meaning",
-   "Gilbertine origin",
-   "Gilbertine root",
-   "Gilbertine pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/gilbertine",
-  "intro_paragraph": "Gilbertine is a Biblical name meaning “Bright pledge”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Gilbertine",
-   "description": "Gilbertine — Bright pledge",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What does the name Gilbertine say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Gilbertine expresses “Bright pledge”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Gilbertine be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Gilbertine is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Gilbertine mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Gilbertine has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Gilbertine?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Gilbertine is 2 (ruling planet Moon). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Gilbertine?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Monday is the traditional association for Gilbertine. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Gilbertine?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pearl is the traditional association for Gilbertine. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Gilbertine?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "White, Silver are the traditional associations for Gilbertine. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Gilbertine?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Gilbertine total 56, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Gilbertine?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Gilbertine carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Gilbertine have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Gilbertine is recorded as a christian name meaning “Bright pledge”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Gilbertine?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Gilbertine is rendered as “Bright pledge”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Gilbertine suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Gilbertine is used as a unisex given name; suitability is a personal choice."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Gilbertine",
-     "item": "https://namemeaning.example/name/gilbertine"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Gilbertine",
-   "slug": "gilbertine",
-   "meaning": "Bright pledge",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Gilbertine",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Bright pledge",
-   "long_meaning": "The name Gilbertine is recorded with the meaning “Bright pledge”. Gilbertine is a Biblical name meaning “Bright pledge”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Gilbertine",
-     "meaning": "Bright pledge",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "Gil-bur-tee-nuh",
-    "ipa": "/ɡɪl.bərˈti.nə/"
-   },
-   "syllables": 3,
-   "name_length": 10,
-   "faqs": [
-    {
-     "q": "What does the name Gilbertine say about a child?",
-     "a": "The name Gilbertine expresses “Bright pledge”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Gilbertine be used in another language?",
-     "a": "Gilbertine is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Gilbertine mentioned in scripture?",
-     "a": "No scriptural reference for Gilbertine has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Gilbertine?",
-     "a": "The Pythagorean lucky number for Gilbertine is 2 (ruling planet Moon). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Gilbertine?",
-     "a": "Monday is the traditional association for Gilbertine. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Gilbertine?",
-     "a": "Pearl is the traditional association for Gilbertine. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Gilbertine?",
-     "a": "White, Silver are the traditional associations for Gilbertine. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Gilbertine?",
-     "a": "In Pythagorean numerology the letters of Gilbertine total 56, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-    },
-    {
-     "q": "How reliable is the meaning given for Gilbertine?",
-     "a": "The meaning of Gilbertine carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Gilbertine have a religious meaning?",
-     "a": "Gilbertine is recorded as a christian name meaning “Bright pledge”."
-    },
-    {
-     "q": "What is the English meaning of Gilbertine?",
-     "a": "In English, Gilbertine is rendered as “Bright pledge”."
-    },
-    {
-     "q": "Is Gilbertine suitable for a baby?",
-     "a": "Gilbertine is used as a unisex given name; suitability is a personal choice."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 2,
-    "life_path_number": 2,
-    "ruling_planet": "Moon",
-    "lucky_day": "Monday",
-    "lucky_stone": "Pearl",
-    "lucky_colors": [
-     "White",
-     "Silver"
+  "success": true,
+  "data": {
+    "name": "Gilbertine",
+    "slug": "gilbertine",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Gilbertine total 56, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Gilbertine is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Saint",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Bright pledge",
+    "long_meaning": "The meaning of Gilbertine is recorded in name-lists as “Bright pledge”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Gilbertine expresses “Bright pledge”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "g-i-l-b-e-r-t-i-n-e",
+    "syllables": 3,
+    "name_length": 10,
+    "transliteration": [
+      "Gilbertine"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "White",
+      "Silver"
+    ],
+    "lucky_stone": "Pearl",
+    "ruling_planet": "Moon",
+    "life_path_number": 2,
+    "numerology_meaning": "In Pythagorean numerology the letters of Gilbertine total 56, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
+    "in_hebrew": {
+      "name": "גִּלְבֶּרְטִינָה",
+      "meaning": "היא שייכת לחברה גילברטיני, שחברה גילברט",
+      "long_meaning": "השם גילברטינה מקורו באנגלית, ומשמעותו 'הילד של גילברט'. השם נמצא בפטרונות רבות, כולל פטרונות של הכנסייה. בפטרונות, משמעות השם 'עקרב' או 'שותף'. גם 'אישה גילברט'. השם עצמו 'גילברט' קיבלו 3 נזירים כנסייתיים שהקימו 3 נזיריות. הם הקימו הנזיריות לכבודם הקדושים. 3 נזירים. '3' היא המספר החשוב. 3 נזיריות. הם חבריה ובנות. 'הם' - 'הן'."
+    },
+    "in_greek": {
+      "name": "Γιλιβέρτιν",
+      "meaning": "απανθρακωδης και γλυκια",
+      "long_meaning": "Ο τίτλος Γιλβέρτιν προέρχεται από την αγγλική γλώσσα. Η σημασία του είναι 'ο παιδί του Γιλβέρτ'. Ο τίτλος βρίσκεται σε πολλές προνομιότητες, συμπεριλαμβανομένων προνομιότητες της Εκκλησίας. Στις προνομιότητες, η σημασία του τίτλου 'σκαρabajo' ή 'συνεργάτης'. Γιλβέρτ, επίσης, 'γυναίκα Γιλβέρτ'. Ο τίτλος itself 'Γιλβέρτ' λήφθηκε από 3 μοναχούς της Εκκλησίας που ίδρυσαν 3 μοναχίτιδες. Οι μοναχίτιδες ίδρυσαν για τιμή τους τους αγίους. 3 μοναχοί. '3' είναι το σημαντικότερο. 3 μοναχίτιδες. Ονομάζουν οι φίλοι και τις κόρες τους. 'Οι' - 'οι'."
+    },
+    "in_latin": {
+      "name": "Gilbertina",
+      "meaning": "femina ex familia Gilbertina",
+      "long_meaning": "Nomen Gilbertina originem habet ex lingua Anglica. Significatio eius est 'filia Gilberti'. Nomen in multis patronis, includens patronis Ecclesiae, invenitur. In patronis, significatio nominis 'scara' vel 'socius'. Item, 'mulier Gilberti'. Nomen ipsa 'Gilberti' ab 3 monachis Ecclesiae, quae 3 monachitates condiderunt, acceptum est. Monachitates condiderunt pro honoribus eorum sanctorum. 3 monachi. '3' est numerus gravissimus. 3 monachitates. Ipsi nomina amicis et filias suas. 'Ei' - 'eae'."
+    },
+    "in_english": {
+      "name": "Gilbertine",
+      "meaning": "Bright pledge",
+      "long_meaning": "Bright pledge"
+    },
+    "pronunciation": {
+      "english": "Gil-bur-tee-nuh",
+      "biblical": "/gil.bur.tiˈna/",
+      "ipa": "/ɡɪl.bərˈti.nə/"
+    },
+    "name_variations": [
+      "Gilbertine"
+    ],
+    "variants": [
+      "Gilbertine"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Gilbertine is used in Biblical naming tradition with the meaning “Bright pledge”.",
+    "spiritual_significance": "Any spiritual significance attached to Gilbertine is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Bright pledge” is the basis of any symbolism attached to Gilbertine; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Gilbertine."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#GilbertineMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Gilbertine"
+    ],
+    "monetization": {
+      "affiliate_links": [
+        {
+          "title": "Shop for Gilbertine-inspired items",
+          "link": "https://example.com/shop/gilbertine"
+        }
+      ],
+      "adsense": {
+        "unit_id": "ca-pub-1234567890123456"
+      }
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Gilbertine Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Gilbertine has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Gilbertine, Gilbertine name meaning, Gilbertine meaning, Gilbertine origin, Gilbertine root, Gilbertine pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Gilbertine has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Gilbertine",
+        "Gilbertine name meaning",
+        "Gilbertine meaning",
+        "Gilbertine origin",
+        "Gilbertine root",
+        "Gilbertine pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Gilbertine name meaning",
+      "secondary_keywords": [
+        "Gilbertine meaning",
+        "Gilbertine origin",
+        "Gilbertine pronunciation",
+        "Gilbertine lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Gilbertine mean?",
+          "a": "Name-lists record the meaning as “Bright pledge”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Gilbertine verified?",
+          "a": "No. The meaning of Gilbertine could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Gilbertine come from?",
+          "a": "The origin of Gilbertine has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Gilbertine Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Gilbertine has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Gilbertine",
+      "Gilbertine name meaning",
+      "Gilbertine meaning",
+      "Gilbertine origin",
+      "Gilbertine root",
+      "Gilbertine pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Gilbertine has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Gilbertine",
+      "description": "Gilbertine — Bright pledge",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Gilbertine mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Bright pledge”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Gilbertine verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Gilbertine could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Gilbertine come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Gilbertine has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:12:35.000Z",
+    "tier1_verified": {
+      "name": "Gilbertine",
+      "slug": "gilbertine",
+      "meaning": "Bright pledge",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Gilbertine",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Bright pledge",
+      "long_meaning": "The name Gilbertine is recorded with the meaning “Bright pledge”. Gilbertine is a Biblical name meaning “Bright pledge”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Gilbertine",
+          "meaning": "Bright pledge",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "Gil-bur-tee-nuh",
+        "ipa": "/ɡɪl.bərˈti.nə/"
+      },
+      "syllables": 3,
+      "name_length": 10,
+      "faqs": [
+        {
+          "q": "What does the name Gilbertine mean?",
+          "a": "Name-lists record the meaning as “Bright pledge”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Gilbertine verified?",
+          "a": "No. The meaning of Gilbertine could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Gilbertine come from?",
+          "a": "The origin of Gilbertine has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 2,
+        "life_path_number": 2,
+        "ruling_planet": "Moon",
+        "lucky_day": "Monday",
+        "lucky_stone": "Pearl",
+        "lucky_colors": [
+          "White",
+          "Silver"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Gilbertine total 56, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:12:35.000Z"
+    }
   }
- }
 }

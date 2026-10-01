@@ -1,547 +1,386 @@
 {
- "success": true,
- "data": {
-  "name": "Aatir",
-  "slug": "aatir",
-  "language": [
-   "Arabic",
-   "Urdu",
-   "Persian"
-  ],
-  "gender": "Male",
-  "gender_notes": "Aatir is used as a male name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Fragrant scent",
-  "long_meaning": "The name Aatir is recorded with the meaning “Fragrant scent”. Aatir is a Arabic name meaning “Fragrant scent”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Aatir expresses “Fragrant scent”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Aatir is recorded with the meaning “Fragrant scent”. Aatir is a Arabic name meaning “Fragrant scent”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-a-t-i-r",
-  "syllables": 2,
-  "name_length": 5,
-  "transliteration": [
-   "Aatir"
-  ],
-  "lucky_number": 4,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Grey",
-   "Blue"
-  ],
-  "lucky_stone": "Hessonite",
-  "ruling_planet": "Rahu",
-  "life_path_number": 4,
-  "numerology_meaning": "In Pythagorean numerology the letters of Aatir total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-  "in_arabic": {
-   "name": "عاطر",
-   "meaning": "اسم مشتق من عطر، يعني منعم، مفيد، ذو رائحة طيبة",
-   "long_meaning": "اسم عاطر مشتق من الفعل عطر، وهو يعني الاسم الذي يطلق على الشخص الذي يتميز برائحته الطيبة، أو الشخص الذي يملك تأثيرًا إيجابيًا على الآخرين. وقد ورد هذا الاسم في القرآن الكريم في سياق الحديث عن الرائحة الطيبة للجنة، مما يعطي الاسم قيمة روحية ودينية كبيرة."
-  },
-  "in_urdu": {
-   "name": "عاطر",
-   "meaning": "عطر سے نکلا ہوا، خوشبو دار، منعم، ذو اثر",
-   "long_meaning": "عاطر نام عربی زبان کے الفاظ 'عطر' سے ماخوذ ہے، جس کا مطلب ہے خوشبو یا سੁگندھ. یہ نام ان شخصیتوں کے لئے استعمال ہوتا ہے جو اپنی خوبیوں اور اچھائیوں سے دوسروں پر مثبت اثر ڈالتے ہیں۔ اسلامی ثقافت میں، یہ نام اچھے اخلاق اور خوشبو کی علامت کے طور پر دیکھا جاتا ہے، جیسے کہ جنت کی خوشبو کا ذکر قرآن میں کیا گیا ہے۔"
-  },
-  "in_hindi": {
-   "name": "आतीर",
-   "meaning": "सुगंधित, अच्छे गुणों वाला, प्रभावशाली",
-   "long_meaning": "आतीर नाम अरबी भाषा से लिया गया है, जिसका अर्थ है 'सुगंधित' या 'खुशबूदार'। यह नाम उन व्यक्तियों के लिए प्रयोग किया जाता है जो अपनी अच्छे गुणों और सकारात्मक प्रभाव से दूसरों पर अच्छा प्रभाव डालते हैं। इस्लामी संस्कृति में, यह नाम अच्छे चरित्र और सुगंध की प्रतीक के रूप में देखा जाता है, जैसे कि कुरआन में स्वर्ग की सुगंध का उल्लेख किया गया है।"
-  },
-  "in_pashto": {
-   "name": "عاطر",
-   "meaning": "د عطر څخه اخستل شوی، خوږ بوی لرونکی، اغیزمن",
-   "long_meaning": "عاطر نوم د عربی ژبې د 'عطر' کلمې څخه اخستل شوی دی، چې معنی یې د خوشبو یا ښه بويه ده. دا نوم د هغو کسانو لپاره کارول کیږي چې د خپلو ښو صفاتو او مثبت اغیزو له لارې پر نورو خلکو ښه اغیز کوي. په اسلامي کلتور کې، دا نوم د ښو اخلاقو او خوشبو نښه په توګه لیدل کیږي، لکه څنګه چې د جنت خوشبو په قرآن کې ذکر شوی دی."
-  },
-  "in_english": {
-   "name": "Aatir",
-   "meaning": "Fragrant scent",
-   "long_meaning": "The name Aatir is recorded with the meaning “Fragrant scent”. Aatir is a Arabic name meaning “Fragrant scent”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "ah-TEER",
-   "urdu": "اردو میں تلفظ کی تفصیل: عاطِر",
-   "hindi": "हिन्दी में उच्चारण विवरण: आतीर",
-   "pashto": "په پښتو کې د تلفظ تفصیل: عا ټير",
-   "ipa": "/ˈɑː.tɪr/"
-  },
-  "name_variations": [
-   "Aatir"
-  ],
-  "variants": [
-   "Aatir"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Aatir is used in Arabic naming tradition with the meaning “Fragrant scent”.",
-  "spiritual_significance": "Any spiritual significance attached to Aatir is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Fragrant scent” is the basis of any symbolism attached to Aatir; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Aatir has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Aatir."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AatirMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Aatir"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Aatir",
-     "description": "Discover the meaning of Aatir - \"Fragrant scent\"",
-     "image": "/images/social/aatir-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Aatir - Name Meaning",
-     "description": "Learn about the beautiful name Aatir",
-     "image": "/images/social/aatir-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Aatir",
-     "description": "Name meaning: Fragrant scent",
-     "image": "/images/social/aatir-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Aatir - Meaning: Fragrant scent",
-    "email_subject": "Beautiful Name: Aatir"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Aatir with meaning Fragrant scent",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Aatir Name Meaning – Fragrant scent (Arabic)",
-   "meta_description": "Aatir is a Arabic name meaning “Fragrant scent”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Aatir, Aatir name meaning, Aatir meaning, Aatir origin, Aatir root, Aatir pronunciation, Arabic names",
-   "description_paragraph": "Aatir is a Arabic name meaning “Fragrant scent”.",
-   "keywords": [
-    "Aatir",
-    "Aatir name meaning",
-    "Aatir meaning",
-    "Aatir origin",
-    "Aatir root",
-    "Aatir pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Aatir name meaning",
-   "secondary_keywords": [
-    "Aatir meaning",
-    "Aatir origin",
-    "Aatir pronunciation",
-    "Aatir lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/aatir",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Can Aatir be used in another language?",
-     "a": "Aatir is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Aatir mentioned in scripture?",
-     "a": "No scriptural reference for Aatir has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Aatir?",
-     "a": "The Pythagorean lucky number for Aatir is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Aatir?",
-     "a": "Saturday is the traditional association for Aatir. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Aatir?",
-     "a": "Hessonite is the traditional association for Aatir. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Aatir?",
-     "a": "Grey, Blue are the traditional associations for Aatir. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Aatir?",
-     "a": "In Pythagorean numerology the letters of Aatir total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-    },
-    {
-     "q": "How reliable is the meaning given for Aatir?",
-     "a": "The meaning of Aatir carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Aatir have a religious meaning?",
-     "a": "Aatir is recorded as a islamic name meaning “Fragrant scent”."
-    },
-    {
-     "q": "What is the English meaning of Aatir?",
-     "a": "In English, Aatir is rendered as “Fragrant scent”."
-    },
-    {
-     "q": "Is Aatir suitable for a baby?",
-     "a": "Aatir is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Aatir?",
-     "a": "Aatir is the full recorded form; any short forms are listed in the nicknames field."
-    }
-   ]
-  },
-  "seo_title": "Aatir Name Meaning – Fragrant scent (Arabic)",
-  "meta_description": "Aatir is a Arabic name meaning “Fragrant scent”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Aatir",
-   "Aatir name meaning",
-   "Aatir meaning",
-   "Aatir origin",
-   "Aatir root",
-   "Aatir pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/aatir",
-  "intro_paragraph": "Aatir is a Arabic name meaning “Fragrant scent”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Aatir",
-   "description": "Aatir — Fragrant scent",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Can Aatir be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aatir is recorded in Arabic; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aatir mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Aatir has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Aatir?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Aatir is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Aatir?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Saturday is the traditional association for Aatir. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Aatir?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Hessonite is the traditional association for Aatir. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Aatir?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Grey, Blue are the traditional associations for Aatir. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Aatir?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Aatir total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Aatir?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Aatir carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Aatir have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aatir is recorded as a islamic name meaning “Fragrant scent”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Aatir?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Aatir is rendered as “Fragrant scent”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aatir suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aatir is used as a male given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Aatir?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aatir is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Aatir",
-     "item": "https://namemeaning.example/name/aatir"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-12-22T19:19:49.817Z",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Aatir",
-   "slug": "aatir",
-   "meaning": "Fragrant scent",
-   "origin": "Arabic",
-   "language": [
-    "Arabic",
-    "Urdu",
-    "Persian"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Aatir",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Fragrant scent",
-   "long_meaning": "The name Aatir is recorded with the meaning “Fragrant scent”. Aatir is a Arabic name meaning “Fragrant scent”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Aatir",
-     "meaning": "Fragrant scent",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "ah-TEER",
-    "ipa": "/ˈɑː.tɪr/"
-   },
-   "syllables": 2,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "Can Aatir be used in another language?",
-     "a": "Aatir is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Aatir mentioned in scripture?",
-     "a": "No scriptural reference for Aatir has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Aatir?",
-     "a": "The Pythagorean lucky number for Aatir is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Aatir?",
-     "a": "Saturday is the traditional association for Aatir. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Aatir?",
-     "a": "Hessonite is the traditional association for Aatir. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Aatir?",
-     "a": "Grey, Blue are the traditional associations for Aatir. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Aatir?",
-     "a": "In Pythagorean numerology the letters of Aatir total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-    },
-    {
-     "q": "How reliable is the meaning given for Aatir?",
-     "a": "The meaning of Aatir carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Aatir have a religious meaning?",
-     "a": "Aatir is recorded as a islamic name meaning “Fragrant scent”."
-    },
-    {
-     "q": "What is the English meaning of Aatir?",
-     "a": "In English, Aatir is rendered as “Fragrant scent”."
-    },
-    {
-     "q": "Is Aatir suitable for a baby?",
-     "a": "Aatir is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Aatir?",
-     "a": "Aatir is the full recorded form; any short forms are listed in the nicknames field."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 4,
-    "life_path_number": 4,
-    "ruling_planet": "Rahu",
-    "lucky_day": "Saturday",
-    "lucky_stone": "Hessonite",
-    "lucky_colors": [
-     "Grey",
-     "Blue"
+  "success": true,
+  "data": {
+    "name": "Aatir",
+    "slug": "aatir",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Aatir total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Aatir is used as a male name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Fragrant scent",
+    "long_meaning": "The meaning of Aatir is recorded in name-lists as “Fragrant scent”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Aatir expresses “Fragrant scent”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Arabic",
+    "root_letters": "a-a-t-i-r",
+    "syllables": 2,
+    "name_length": 5,
+    "transliteration": [
+      "Aatir"
+    ],
+    "lucky_number": 4,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Grey",
+      "Blue"
+    ],
+    "lucky_stone": "Hessonite",
+    "ruling_planet": "Rahu",
+    "life_path_number": 4,
+    "numerology_meaning": "In Pythagorean numerology the letters of Aatir total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
+    "in_arabic": {
+      "name": "عاطر",
+      "meaning": "Fragrant scent",
+      "long_meaning": "Fragrant scent"
+    },
+    "in_urdu": {
+      "name": "عاطر",
+      "meaning": "Fragrant scent",
+      "long_meaning": "Fragrant scent"
+    },
+    "in_hindi": {
+      "name": "आतीर",
+      "meaning": "Fragrant scent",
+      "long_meaning": "Fragrant scent"
+    },
+    "in_pashto": {
+      "name": "عاطر",
+      "meaning": "Fragrant scent",
+      "long_meaning": "Fragrant scent"
+    },
+    "in_english": {
+      "name": "Aatir",
+      "meaning": "Fragrant scent",
+      "long_meaning": "Fragrant scent"
+    },
+    "pronunciation": {
+      "english": "ah-TEER",
+      "urdu": "اردو میں تلفظ کی تفصیل: عاطِر",
+      "hindi": "हिन्दी में उच्चारण विवरण: आतीर",
+      "pashto": "په پښتو کې د تلفظ تفصیل: عا ټير",
+      "ipa": "/ˈɑː.tɪr/"
+    },
+    "name_variations": [
+      "Aatir"
+    ],
+    "variants": [
+      "Aatir"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Aatir is used in Arabic naming tradition with the meaning “Fragrant scent”.",
+    "spiritual_significance": "Any spiritual significance attached to Aatir is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Fragrant scent” is the basis of any symbolism attached to Aatir; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "No Qur'anic reference for Aatir has been verified."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Aatir."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AatirMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Aatir"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Aatir",
+          "description": "Discover the meaning of Aatir - \"Fragrant scent\"",
+          "image": "/images/social/aatir-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Aatir - Name Meaning",
+          "description": "Learn about the beautiful name Aatir",
+          "image": "/images/social/aatir-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Aatir",
+          "description": "Name meaning: Fragrant scent",
+          "image": "/images/social/aatir-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Aatir - Meaning: Fragrant scent",
+        "email_subject": "Beautiful Name: Aatir"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Aatir with meaning Fragrant scent",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Aatir Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Aatir has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Aatir, Aatir name meaning, Aatir meaning, Aatir origin, Aatir root, Aatir pronunciation, Arabic names",
+      "description_paragraph": "The meaning of Aatir has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Aatir",
+        "Aatir name meaning",
+        "Aatir meaning",
+        "Aatir origin",
+        "Aatir root",
+        "Aatir pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Aatir name meaning",
+      "secondary_keywords": [
+        "Aatir meaning",
+        "Aatir origin",
+        "Aatir pronunciation",
+        "Aatir lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Aatir mean?",
+          "a": "Name-lists record the meaning as “Fragrant scent”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Aatir verified?",
+          "a": "No. The meaning of Aatir could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Aatir come from?",
+          "a": "The origin of Aatir has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Aatir Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Aatir has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Aatir",
+      "Aatir name meaning",
+      "Aatir meaning",
+      "Aatir origin",
+      "Aatir root",
+      "Aatir pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Aatir has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Aatir",
+      "description": "Aatir — Fragrant scent",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Aatir mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Fragrant scent”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Aatir verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Aatir could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Aatir come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Aatir has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 70
+    },
+    "created_at": "2025-12-22T19:19:49.817Z",
+    "updated_at": "2026-10-01T04:04:19.000Z",
+    "tier1_verified": {
+      "name": "Aatir",
+      "slug": "aatir",
+      "meaning": "Fragrant scent",
+      "origin": "Arabic",
+      "language": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Aatir",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Fragrant scent",
+      "long_meaning": "The name Aatir is recorded with the meaning “Fragrant scent”. Aatir is a Arabic name meaning “Fragrant scent”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Aatir",
+          "meaning": "Fragrant scent",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "ah-TEER",
+        "ipa": "/ˈɑː.tɪr/"
+      },
+      "syllables": 2,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Aatir mean?",
+          "a": "Name-lists record the meaning as “Fragrant scent”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Aatir verified?",
+          "a": "No. The meaning of Aatir could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Aatir come from?",
+          "a": "The origin of Aatir has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 4,
+        "life_path_number": 4,
+        "ruling_planet": "Rahu",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Hessonite",
+        "lucky_colors": [
+          "Grey",
+          "Blue"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Aatir total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:19.000Z"
+    }
   }
- }
 }

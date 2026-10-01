@@ -1,514 +1,353 @@
 {
- "success": true,
- "data": {
-  "name": "Byron",
-  "slug": "byron",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Byron is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Son of the mountain",
-  "long_meaning": "The name Byron is recorded with the meaning “Son of the mountain”. Byron is a Biblical name meaning “Son of the mountain”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Byron expresses “Son of the mountain”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Byron is recorded with the meaning “Son of the mountain”. Byron is a Biblical name meaning “Son of the mountain”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "b-y-r-o-n",
-  "syllables": 2,
-  "name_length": 5,
-  "transliteration": [
-   "Byron"
-  ],
-  "lucky_number": 2,
-  "lucky_day": "Monday",
-  "lucky_colors": [
-   "White",
-   "Silver"
-  ],
-  "lucky_stone": "Pearl",
-  "ruling_planet": "Moon",
-  "life_path_number": 2,
-  "numerology_meaning": "In Pythagorean numerology the letters of Byron total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
-  "in_hebrew": {
-   "name": "בירון",
-   "meaning": "בנו של כוהן גדול ביוון",
-   "long_meaning": "השם בירון נגזר מיוונית ופירושו בנו של כוהן גדול ביוון. השם מורכב משתי מילים: ביר- ו-און. ביר- כנראה נגזר מ-βυρηוֹν (byron), שפירושו כוהן גדול, ואילו הסיומת -ון היא תוספת יוונית נפוצה בשמות משפחה ומקומות. השם בירון אינו מוזכר ישירות בתנ\"ך, אך הוא בעל שורשים יווניים וקשרים עמוקים עם העולם היווני והנוצרי."
-  },
-  "in_greek": {
-   "name": "Μπάιρον",
-   "meaning": "Γιος του αρχιέρεα",
-   "long_meaning": "Το όνομα Μπάιρον (Byron) προέρχεται από την ελληνική γλώσσα και σημαίνει γιος του αρχιέρεα. Η ετυμολογία του ονόματος συνδέεται με τις λέξεις βυρηὸν (byron), που σημαίνει αρχιέρειας ή ιερέας, και τη κατάληξη -ων, που είναι συνηθισμένη σε οικογενειακά ονόματα και τοπωνύμια στην Ελλάδα. Αν και το όνομα δεν αναφέρεται άμεσα στη Νέα Διαθήκη, έχει ρίζες στην ελληνική γλώσσα και συνδέεται με την πρώιμη χριστιανική παράδοση."
-  },
-  "in_latin": {
-   "name": "Byron",
-   "meaning": "Filius summi sacerdotis",
-   "long_meaning": "Nomen Byron derivatur ex lingua Graeca et significat filium summi sacerdotis. Etymologia nominis coniungitur cum voce βυρηὸν (byron), quae summum sacerdotem designat, et suffixo -on, quod in nominibus familiarum et locorum Graeciae frequenter invenitur. Quamquam nomen non directe in Biblia mentionem habet, tamen radici Graecae et traditioni Christianae antiquae adhaeret."
-  },
-  "in_english": {
-   "name": "Byron",
-   "meaning": "Son of the mountain",
-   "long_meaning": "The name Byron is recorded with the meaning “Son of the mountain”. Byron is a Biblical name meaning “Son of the mountain”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "BY-ron",
-   "ipa": "/ˈbaɪrən/"
-  },
-  "name_variations": [
-   "Byron"
-  ],
-  "variants": [
-   "Byron"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Byron is used in Biblical naming tradition with the meaning “Son of the mountain”.",
-  "spiritual_significance": "Any spiritual significance attached to Byron is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Son of the mountain” is the basis of any symbolism attached to Byron; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": "The name Byron does not have a direct reference in the Bible but is rooted in Greek etymology."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Byron."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#ByronMeaning",
-   "#ChristianBabyNames",
-   "#GreekNames",
-   "#Byron"
-  ],
-  "monetization": {
-   "ads": [
-    {
-     "location": "header",
-     "type": "banner"
-    },
-    {
-     "location": "content",
-     "type": "native"
-    },
-    {
-     "location": "footer",
-     "type": "sidebar"
-    }
-   ],
-   "affiliate": [
-    {
-     "product": "books",
-     "commission": 0.1
-    },
-    {
-     "product": "clothing",
-     "commission": 0.2
-    },
-    {
-     "product": "jewelry",
-     "commission": 0.3
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Byron Name Meaning – Son of the mountain (Biblical)",
-   "meta_description": "Byron is a Biblical name meaning “Son of the mountain”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Byron, Byron name meaning, Byron meaning, Byron origin, Byron root, Byron pronunciation, Biblical names",
-   "description_paragraph": "Byron is a Biblical name meaning “Son of the mountain”.",
-   "keywords": [
-    "Byron",
-    "Byron name meaning",
-    "Byron meaning",
-    "Byron origin",
-    "Byron root",
-    "Byron pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Byron name meaning",
-   "secondary_keywords": [
-    "Byron meaning",
-    "Byron origin",
-    "Byron pronunciation",
-    "Byron lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/byron",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the English meaning of Byron?",
-     "a": "In English, Byron is rendered as “Son of the mountain”."
-    },
-    {
-     "q": "Is Byron suitable for a baby?",
-     "a": "Byron is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Byron?",
-     "a": "Byron is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Byron?",
-     "a": "Byron is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Byron have a positive meaning?",
-     "a": "Byron carries the meaning “Son of the mountain”."
-    },
-    {
-     "q": "What does the name Byron mean?",
-     "a": "Byron means “Son of the mountain”."
-    },
-    {
-     "q": "What is the origin of the name Byron?",
-     "a": "Byron is of Biblical origin."
-    },
-    {
-     "q": "Is Byron a male name?",
-     "a": "Byron is used as a male name."
-    },
-    {
-     "q": "How many syllables does Byron have?",
-     "a": "Byron has 2 syllables."
-    },
-    {
-     "q": "How is Byron pronounced?",
-     "a": "Byron is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Byron?",
-     "a": "Any spiritual significance attached to Byron is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Byron?",
-     "a": "Variant spellings of Byron are listed in the variants field of this record."
-    }
-   ]
-  },
-  "seo_title": "Byron Name Meaning – Son of the mountain (Biblical)",
-  "meta_description": "Byron is a Biblical name meaning “Son of the mountain”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Byron",
-   "Byron name meaning",
-   "Byron meaning",
-   "Byron origin",
-   "Byron root",
-   "Byron pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/byron",
-  "intro_paragraph": "Byron is a Biblical name meaning “Son of the mountain”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Byron",
-   "description": "Byron — Son of the mountain",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Byron?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Byron is rendered as “Son of the mountain”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Byron suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Byron is used as a male given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Byron?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Byron is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Byron?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Byron is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Byron have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Byron carries the meaning “Son of the mountain”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Byron mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Byron means “Son of the mountain”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Byron?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Byron is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Byron a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Byron is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Byron have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Byron has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Byron pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Byron is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Byron?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Byron is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Byron?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Byron are listed in the variants field of this record."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Byron",
-     "item": "https://namemeaning.example/name/byron"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 56,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Byron",
-   "slug": "byron",
-   "meaning": "Son of the mountain",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Byron",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Son of the mountain",
-   "long_meaning": "The name Byron is recorded with the meaning “Son of the mountain”. Byron is a Biblical name meaning “Son of the mountain”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Byron",
-     "meaning": "Son of the mountain",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "BY-ron",
-    "ipa": "/ˈbaɪrən/"
-   },
-   "syllables": 2,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "What is the English meaning of Byron?",
-     "a": "In English, Byron is rendered as “Son of the mountain”."
-    },
-    {
-     "q": "Is Byron suitable for a baby?",
-     "a": "Byron is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Byron?",
-     "a": "Byron is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Byron?",
-     "a": "Byron is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Byron have a positive meaning?",
-     "a": "Byron carries the meaning “Son of the mountain”."
-    },
-    {
-     "q": "What does the name Byron mean?",
-     "a": "Byron means “Son of the mountain”."
-    },
-    {
-     "q": "What is the origin of the name Byron?",
-     "a": "Byron is of Biblical origin."
-    },
-    {
-     "q": "Is Byron a male name?",
-     "a": "Byron is used as a male name."
-    },
-    {
-     "q": "How many syllables does Byron have?",
-     "a": "Byron has 2 syllables."
-    },
-    {
-     "q": "How is Byron pronounced?",
-     "a": "Byron is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Byron?",
-     "a": "Any spiritual significance attached to Byron is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Byron?",
-     "a": "Variant spellings of Byron are listed in the variants field of this record."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 2,
-    "life_path_number": 2,
-    "ruling_planet": "Moon",
-    "lucky_day": "Monday",
-    "lucky_stone": "Pearl",
-    "lucky_colors": [
-     "White",
-     "Silver"
+  "success": true,
+  "data": {
+    "name": "Byron",
+    "slug": "byron",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Byron total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Byron is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Son of the mountain",
+    "long_meaning": "The meaning of Byron is recorded in name-lists as “Son of the mountain”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Byron expresses “Son of the mountain”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "b-y-r-o-n",
+    "syllables": 2,
+    "name_length": 5,
+    "transliteration": [
+      "Byron"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "White",
+      "Silver"
+    ],
+    "lucky_stone": "Pearl",
+    "ruling_planet": "Moon",
+    "life_path_number": 2,
+    "numerology_meaning": "In Pythagorean numerology the letters of Byron total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
+    "in_hebrew": {
+      "name": "בירון",
+      "meaning": "בנו של כוהן גדול ביוון",
+      "long_meaning": "השם בירון נגזר מיוונית ופירושו בנו של כוהן גדול ביוון. השם מורכב משתי מילים: ביר- ו-און. ביר- כנראה נגזר מ-βυρηוֹν (byron), שפירושו כוהן גדול, ואילו הסיומת -ון היא תוספת יוונית נפוצה בשמות משפחה ומקומות. השם בירון אינו מוזכר ישירות בתנ\"ך, אך הוא בעל שורשים יווניים וקשרים עמוקים עם העולם היווני והנוצרי."
+    },
+    "in_greek": {
+      "name": "Μπάιρον",
+      "meaning": "Γιος του αρχιέρεα",
+      "long_meaning": "Το όνομα Μπάιρον (Byron) προέρχεται από την ελληνική γλώσσα και σημαίνει γιος του αρχιέρεα. Η ετυμολογία του ονόματος συνδέεται με τις λέξεις βυρηὸν (byron), που σημαίνει αρχιέρειας ή ιερέας, και τη κατάληξη -ων, που είναι συνηθισμένη σε οικογενειακά ονόματα και τοπωνύμια στην Ελλάδα. Αν και το όνομα δεν αναφέρεται άμεσα στη Νέα Διαθήκη, έχει ρίζες στην ελληνική γλώσσα και συνδέεται με την πρώιμη χριστιανική παράδοση."
+    },
+    "in_latin": {
+      "name": "Byron",
+      "meaning": "Filius summi sacerdotis",
+      "long_meaning": "Nomen Byron derivatur ex lingua Graeca et significat filium summi sacerdotis. Etymologia nominis coniungitur cum voce βυρηὸν (byron), quae summum sacerdotem designat, et suffixo -on, quod in nominibus familiarum et locorum Graeciae frequenter invenitur. Quamquam nomen non directe in Biblia mentionem habet, tamen radici Graecae et traditioni Christianae antiquae adhaeret."
+    },
+    "in_english": {
+      "name": "Byron",
+      "meaning": "Son of the mountain",
+      "long_meaning": "Son of the mountain"
+    },
+    "pronunciation": {
+      "english": "BY-ron",
+      "ipa": "/ˈbaɪrən/"
+    },
+    "name_variations": [
+      "Byron"
+    ],
+    "variants": [
+      "Byron"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Byron is used in Biblical naming tradition with the meaning “Son of the mountain”.",
+    "spiritual_significance": "Any spiritual significance attached to Byron is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Son of the mountain” is the basis of any symbolism attached to Byron; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": "The name Byron does not have a direct reference in the Bible but is rooted in Greek etymology."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Byron."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#ByronMeaning",
+      "#ChristianBabyNames",
+      "#GreekNames",
+      "#Byron"
+    ],
+    "monetization": {
+      "ads": [
+        {
+          "location": "header",
+          "type": "banner"
+        },
+        {
+          "location": "content",
+          "type": "native"
+        },
+        {
+          "location": "footer",
+          "type": "sidebar"
+        }
+      ],
+      "affiliate": [
+        {
+          "product": "books",
+          "commission": 0.1
+        },
+        {
+          "product": "clothing",
+          "commission": 0.2
+        },
+        {
+          "product": "jewelry",
+          "commission": 0.3
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Byron Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Byron has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Byron, Byron name meaning, Byron meaning, Byron origin, Byron root, Byron pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Byron has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Byron",
+        "Byron name meaning",
+        "Byron meaning",
+        "Byron origin",
+        "Byron root",
+        "Byron pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Byron name meaning",
+      "secondary_keywords": [
+        "Byron meaning",
+        "Byron origin",
+        "Byron pronunciation",
+        "Byron lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Byron mean?",
+          "a": "Name-lists record the meaning as “Son of the mountain”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Byron verified?",
+          "a": "No. The meaning of Byron could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Byron come from?",
+          "a": "The origin of Byron has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Byron Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Byron has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Byron",
+      "Byron name meaning",
+      "Byron meaning",
+      "Byron origin",
+      "Byron root",
+      "Byron pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Byron has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Byron",
+      "description": "Byron — Son of the mountain",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Byron mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Son of the mountain”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Byron verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Byron could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Byron come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Byron has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 56,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:06:56.000Z",
+    "tier1_verified": {
+      "name": "Byron",
+      "slug": "byron",
+      "meaning": "Son of the mountain",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Byron",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Son of the mountain",
+      "long_meaning": "The name Byron is recorded with the meaning “Son of the mountain”. Byron is a Biblical name meaning “Son of the mountain”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Byron",
+          "meaning": "Son of the mountain",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "BY-ron",
+        "ipa": "/ˈbaɪrən/"
+      },
+      "syllables": 2,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Byron mean?",
+          "a": "Name-lists record the meaning as “Son of the mountain”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Byron verified?",
+          "a": "No. The meaning of Byron could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Byron come from?",
+          "a": "The origin of Byron has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 2,
+        "life_path_number": 2,
+        "ruling_planet": "Moon",
+        "lucky_day": "Monday",
+        "lucky_stone": "Pearl",
+        "lucky_colors": [
+          "White",
+          "Silver"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Byron total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:06:56.000Z"
+    }
   }
- }
 }

@@ -1,501 +1,340 @@
 {
- "success": true,
- "data": {
-  "name": "Gustina",
-  "slug": "gustina",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Gustina is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Saint",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Strong, Firm, Dust",
-  "long_meaning": "The name Gustina is recorded with the meaning “Strong, Firm, Dust”. Gustina is a Biblical name meaning “Strong, Firm, Dust”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Gustina expresses “Strong, Firm, Dust”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Gustina is recorded with the meaning “Strong, Firm, Dust”. Gustina is a Biblical name meaning “Strong, Firm, Dust”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "g-u-s-t-i-n-a",
-  "syllables": 3,
-  "name_length": 7,
-  "transliteration": [
-   "Gustina"
-  ],
-  "lucky_number": 1,
-  "lucky_day": "Sunday",
-  "lucky_colors": [
-   "Gold",
-   "Orange"
-  ],
-  "lucky_stone": "Ruby",
-  "ruling_planet": "Sun",
-  "life_path_number": 1,
-  "numerology_meaning": "In Pythagorean numerology the letters of Gustina total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
-  "in_hebrew": {
-   "name": "גוסטינה",
-   "meaning": "דמות נשית עם חובות ותכונות",
-   "long_meaning": "השם גוסטינה הוא הלחם של המילה הגרמנית \"גוסט\" (Gust) והסיומת הלטינית \"ינה\" (ina), יוחס להשם העברי \"גוסט\" (Gust), שפירושו \"עז\". בתקופה הקדומה, השם גוסטינה היה נפוץ בקרב העם הגרמני וסימל עוצמה וחוזק. במסורת הנוצרית, השם גוסטינה מיוחס להשם הלטיני \"ג'וסטינה\" (Justina), שהוא צורה לטינית של השם היווני \"דיאוסטינה\" (Διόστινα). בנוסף לכך, השם גוסטינה עשוי להיות יצירה של השם הגרמני \"גוסט\" (Gust) והשם הלטיני \"אינה\" (Ina). בזמן הקדום, השם גוסטינה היה נפוץ בקרב העם הגרמני וסימל עוצמה וחוזק. השם גוסטינה מיוחס לתכונות כמו עוצמה, חוזק וגבורה. במסורת הנוצרית, השם גוסטינה מיוחס לאחד מאחד הקדושים, וסימל את הערכים של חוסר סבלנות, צדק ועז."
-  },
-  "in_greek": {
-   "name": "Γουστίνα",
-   "meaning": "πρόσωπο γυναικείον με κατηγορίες και χαρακτηριστικά",
-   "long_meaning": "Το όνομα Γουστίνα είναι συνθετικό από την γερμανική λέξη «Γουστ» (Gust) και τη λατινική κατάληξη «ίνα» (ina). Ετυμολογικά, η λέξη Γουστίνα συνδέεται με την αρχαία γερμανική λέξη «Γουστ» (Gust), που σημαίνει «δύναμη» ή «σθένος». Στην πρώιμη χριστιανική εποχή, το όνομα Γουστίνα ήταν διαδεδομένο μεταξύ των Γερμανών και συμβόλιζε την δύναμη και την ισχύ. Σημαντική είναι η σχέση της λέξης Γουστίνα με την αρχαία ελληνική λέξη «Διόστινα» (Διόστινα), η οποία είναι η λατινική εκδοχή της ελληνικής λέξης «Διός» (Διός), που σημαίνει «θεός». Τέλος, η λέξη Γουστίνα είναι πιθανότατα μια σύνθεση από την γερμανική λέξη «Γουστ» (Gust) και την λατινική λέξη «ΙΝΑ» (Ina). Στη αρχαιότητα, το όνομα Γουστίνα ήταν δημοφιλές μεταξύ των Γερμανών και συμβόλιζε την δύναμη και την ισχύ. Η λέξη Γουστίνα συνδέεται με χαρακτηριστικά όπως η δύναμη, η ισχύς και η γενναιότητα. Στη χριστιανική παράδοση, το όνομα Γουστίνα συνδέεται με έναν από τους αγίους και συμβολίζει την αξία της απροθυμίας, της δικαιοσύνης και της δύναμης."
-  },
-  "in_latin": {
-   "name": "Gustina",
-   "meaning": "persona femina cum categoriis et characteribus",
-   "long_meaning": "Nomen Gustina est compositum ex vocabulo Germanico «Gust» et suffixo Latino «ina». Etyologicum, vocabulum Gustina connectio habet cum vocabulo antiquo Germanico «Gust», quod significat «vis» aut «fortitudo». In aetate Christiana, nomen Gustina erat frequens inter Geros et significabat virtutem et potentiam. Notabilis est relatio vocabuli Gustina cum vocabulo antiquo Graeco «Διόστινα» (Διόστινα), quod est forma Latina vocabuli Graeci «Διός» (Διός), qui significat «deus». Insuper, vocabulum Gustina est possibile compositum ex vocabulo Germanico «Gust» et vocabulo Latino «Ina». In aetate antiqua, nomen Gustina erat frequens inter Geros et significabat virtutem et potentiam. Vocabulum Gustina connectio habet cum characteribus como «vis», «potentia», et «fortitudo». In aetate Christiana, nomen Gustina connectio habet cum sancto cuiusdam et significat virtutem et potentiam."
-  },
-  "in_english": {
-   "name": "Gustina",
-   "meaning": "Strong, Firm, Dust",
-   "long_meaning": "The name Gustina is recorded with the meaning “Strong, Firm, Dust”. Gustina is a Biblical name meaning “Strong, Firm, Dust”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "GUS-tee-nah",
-   "biblical": "Not applicable",
-   "ipa": "/ˈɡʊstɪnə/"
-  },
-  "name_variations": [
-   "Gustina"
-  ],
-  "variants": [
-   "Gustina"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Gustina is used in Biblical naming tradition with the meaning “Strong, Firm, Dust”.",
-  "spiritual_significance": "Any spiritual significance attached to Gustina is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Strong, Firm, Dust” is the basis of any symbolism attached to Gustina; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Gustina."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#GustinaMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Gustina"
-  ],
-  "monetization": {
-   "adsense": "ca-pub-1234567890123456",
-   "affiliates": [
-    {
-     "name": "BabyCenter",
-     "commission": 0.05
-    },
-    {
-     "name": "BuyBuyBaby",
-     "commission": 0.1
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Gustina Name Meaning – Strong, Firm, Dust (Biblical)",
-   "meta_description": "Gustina is a Biblical name meaning “Strong, Firm, Dust”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Gustina, Gustina name meaning, Gustina meaning, Gustina origin, Gustina root, Gustina pronunciation, Biblical names",
-   "description_paragraph": "Gustina is a Biblical name meaning “Strong, Firm, Dust”.",
-   "keywords": [
-    "Gustina",
-    "Gustina name meaning",
-    "Gustina meaning",
-    "Gustina origin",
-    "Gustina root",
-    "Gustina pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Gustina name meaning",
-   "secondary_keywords": [
-    "Gustina meaning",
-    "Gustina origin",
-    "Gustina pronunciation",
-    "Gustina lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/gustina",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Which day is associated with Gustina?",
-     "a": "Sunday is the traditional association for Gustina. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Gustina?",
-     "a": "Ruby is the traditional association for Gustina. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Gustina?",
-     "a": "Gold, Orange are the traditional associations for Gustina. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Gustina?",
-     "a": "In Pythagorean numerology the letters of Gustina total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-    },
-    {
-     "q": "How reliable is the meaning given for Gustina?",
-     "a": "The meaning of Gustina carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Gustina have a religious meaning?",
-     "a": "Gustina is recorded as a christian name meaning “Strong, Firm, Dust”."
-    },
-    {
-     "q": "What is the English meaning of Gustina?",
-     "a": "In English, Gustina is rendered as “Strong, Firm, Dust”."
-    },
-    {
-     "q": "Is Gustina suitable for a baby?",
-     "a": "Gustina is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Gustina?",
-     "a": "Gustina is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Gustina?",
-     "a": "Gustina is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Gustina have a positive meaning?",
-     "a": "Gustina carries the meaning “Strong, Firm, Dust”."
-    },
-    {
-     "q": "What does the name Gustina mean?",
-     "a": "Gustina means “Strong, Firm, Dust”."
-    }
-   ]
-  },
-  "seo_title": "Gustina Name Meaning – Strong, Firm, Dust (Biblical)",
-  "meta_description": "Gustina is a Biblical name meaning “Strong, Firm, Dust”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Gustina",
-   "Gustina name meaning",
-   "Gustina meaning",
-   "Gustina origin",
-   "Gustina root",
-   "Gustina pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/gustina",
-  "intro_paragraph": "Gustina is a Biblical name meaning “Strong, Firm, Dust”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Gustina",
-   "description": "Gustina — Strong, Firm, Dust",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Gustina?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sunday is the traditional association for Gustina. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Gustina?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ruby is the traditional association for Gustina. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Gustina?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Gold, Orange are the traditional associations for Gustina. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Gustina?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Gustina total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Gustina?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Gustina carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Gustina have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Gustina is recorded as a christian name meaning “Strong, Firm, Dust”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Gustina?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Gustina is rendered as “Strong, Firm, Dust”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Gustina suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Gustina is used as a unisex given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Gustina?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Gustina is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Gustina?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Gustina is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Gustina have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Gustina carries the meaning “Strong, Firm, Dust”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Gustina mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Gustina means “Strong, Firm, Dust”."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Gustina",
-     "item": "https://namemeaning.example/name/gustina"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Gustina",
-   "slug": "gustina",
-   "meaning": "Strong, Firm, Dust",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Gustina",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Strong, Firm, Dust",
-   "long_meaning": "The name Gustina is recorded with the meaning “Strong, Firm, Dust”. Gustina is a Biblical name meaning “Strong, Firm, Dust”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Gustina",
-     "meaning": "Strong, Firm, Dust",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "GUS-tee-nah",
-    "ipa": "/ˈɡʊstɪnə/"
-   },
-   "syllables": 3,
-   "name_length": 7,
-   "faqs": [
-    {
-     "q": "Which day is associated with Gustina?",
-     "a": "Sunday is the traditional association for Gustina. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Gustina?",
-     "a": "Ruby is the traditional association for Gustina. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Gustina?",
-     "a": "Gold, Orange are the traditional associations for Gustina. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Gustina?",
-     "a": "In Pythagorean numerology the letters of Gustina total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-    },
-    {
-     "q": "How reliable is the meaning given for Gustina?",
-     "a": "The meaning of Gustina carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Gustina have a religious meaning?",
-     "a": "Gustina is recorded as a christian name meaning “Strong, Firm, Dust”."
-    },
-    {
-     "q": "What is the English meaning of Gustina?",
-     "a": "In English, Gustina is rendered as “Strong, Firm, Dust”."
-    },
-    {
-     "q": "Is Gustina suitable for a baby?",
-     "a": "Gustina is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Gustina?",
-     "a": "Gustina is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Gustina?",
-     "a": "Gustina is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Gustina have a positive meaning?",
-     "a": "Gustina carries the meaning “Strong, Firm, Dust”."
-    },
-    {
-     "q": "What does the name Gustina mean?",
-     "a": "Gustina means “Strong, Firm, Dust”."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 1,
-    "life_path_number": 1,
-    "ruling_planet": "Sun",
-    "lucky_day": "Sunday",
-    "lucky_stone": "Ruby",
-    "lucky_colors": [
-     "Gold",
-     "Orange"
+  "success": true,
+  "data": {
+    "name": "Gustina",
+    "slug": "gustina",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Gustina total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Gustina is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Saint",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Strong, Firm, Dust",
+    "long_meaning": "The meaning of Gustina is recorded in name-lists as “Strong, Firm, Dust”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Gustina expresses “Strong, Firm, Dust”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "g-u-s-t-i-n-a",
+    "syllables": 3,
+    "name_length": 7,
+    "transliteration": [
+      "Gustina"
+    ],
+    "lucky_number": 1,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Gold",
+      "Orange"
+    ],
+    "lucky_stone": "Ruby",
+    "ruling_planet": "Sun",
+    "life_path_number": 1,
+    "numerology_meaning": "In Pythagorean numerology the letters of Gustina total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
+    "in_hebrew": {
+      "name": "גוסטינה",
+      "meaning": "דמות נשית עם חובות ותכונות",
+      "long_meaning": "השם גוסטינה הוא הלחם של המילה הגרמנית \"גוסט\" (Gust) והסיומת הלטינית \"ינה\" (ina), יוחס להשם העברי \"גוסט\" (Gust), שפירושו \"עז\". בתקופה הקדומה, השם גוסטינה היה נפוץ בקרב העם הגרמני וסימל עוצמה וחוזק. במסורת הנוצרית, השם גוסטינה מיוחס להשם הלטיני \"ג'וסטינה\" (Justina), שהוא צורה לטינית של השם היווני \"דיאוסטינה\" (Διόστινα). בנוסף לכך, השם גוסטינה עשוי להיות יצירה של השם הגרמני \"גוסט\" (Gust) והשם הלטיני \"אינה\" (Ina). בזמן הקדום, השם גוסטינה היה נפוץ בקרב העם הגרמני וסימל עוצמה וחוזק. השם גוסטינה מיוחס לתכונות כמו עוצמה, חוזק וגבורה. במסורת הנוצרית, השם גוסטינה מיוחס לאחד מאחד הקדושים, וסימל את הערכים של חוסר סבלנות, צדק ועז."
+    },
+    "in_greek": {
+      "name": "Γουστίνα",
+      "meaning": "πρόσωπο γυναικείον με κατηγορίες και χαρακτηριστικά",
+      "long_meaning": "Το όνομα Γουστίνα είναι συνθετικό από την γερμανική λέξη «Γουστ» (Gust) και τη λατινική κατάληξη «ίνα» (ina). Ετυμολογικά, η λέξη Γουστίνα συνδέεται με την αρχαία γερμανική λέξη «Γουστ» (Gust), που σημαίνει «δύναμη» ή «σθένος». Στην πρώιμη χριστιανική εποχή, το όνομα Γουστίνα ήταν διαδεδομένο μεταξύ των Γερμανών και συμβόλιζε την δύναμη και την ισχύ. Σημαντική είναι η σχέση της λέξης Γουστίνα με την αρχαία ελληνική λέξη «Διόστινα» (Διόστινα), η οποία είναι η λατινική εκδοχή της ελληνικής λέξης «Διός» (Διός), που σημαίνει «θεός». Τέλος, η λέξη Γουστίνα είναι πιθανότατα μια σύνθεση από την γερμανική λέξη «Γουστ» (Gust) και την λατινική λέξη «ΙΝΑ» (Ina). Στη αρχαιότητα, το όνομα Γουστίνα ήταν δημοφιλές μεταξύ των Γερμανών και συμβόλιζε την δύναμη και την ισχύ. Η λέξη Γουστίνα συνδέεται με χαρακτηριστικά όπως η δύναμη, η ισχύς και η γενναιότητα. Στη χριστιανική παράδοση, το όνομα Γουστίνα συνδέεται με έναν από τους αγίους και συμβολίζει την αξία της απροθυμίας, της δικαιοσύνης και της δύναμης."
+    },
+    "in_latin": {
+      "name": "Gustina",
+      "meaning": "persona femina cum categoriis et characteribus",
+      "long_meaning": "Nomen Gustina est compositum ex vocabulo Germanico «Gust» et suffixo Latino «ina». Etyologicum, vocabulum Gustina connectio habet cum vocabulo antiquo Germanico «Gust», quod significat «vis» aut «fortitudo». In aetate Christiana, nomen Gustina erat frequens inter Geros et significabat virtutem et potentiam. Notabilis est relatio vocabuli Gustina cum vocabulo antiquo Graeco «Διόστινα» (Διόστινα), quod est forma Latina vocabuli Graeci «Διός» (Διός), qui significat «deus». Insuper, vocabulum Gustina est possibile compositum ex vocabulo Germanico «Gust» et vocabulo Latino «Ina». In aetate antiqua, nomen Gustina erat frequens inter Geros et significabat virtutem et potentiam. Vocabulum Gustina connectio habet cum characteribus como «vis», «potentia», et «fortitudo». In aetate Christiana, nomen Gustina connectio habet cum sancto cuiusdam et significat virtutem et potentiam."
+    },
+    "in_english": {
+      "name": "Gustina",
+      "meaning": "Strong, Firm, Dust",
+      "long_meaning": "Strong, Firm, Dust"
+    },
+    "pronunciation": {
+      "english": "GUS-tee-nah",
+      "biblical": "Not applicable",
+      "ipa": "/ˈɡʊstɪnə/"
+    },
+    "name_variations": [
+      "Gustina"
+    ],
+    "variants": [
+      "Gustina"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Gustina is used in Biblical naming tradition with the meaning “Strong, Firm, Dust”.",
+    "spiritual_significance": "Any spiritual significance attached to Gustina is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Strong, Firm, Dust” is the basis of any symbolism attached to Gustina; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Gustina."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#GustinaMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Gustina"
+    ],
+    "monetization": {
+      "adsense": "ca-pub-1234567890123456",
+      "affiliates": [
+        {
+          "name": "BabyCenter",
+          "commission": 0.05
+        },
+        {
+          "name": "BuyBuyBaby",
+          "commission": 0.1
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Gustina Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Gustina has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Gustina, Gustina name meaning, Gustina meaning, Gustina origin, Gustina root, Gustina pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Gustina has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Gustina",
+        "Gustina name meaning",
+        "Gustina meaning",
+        "Gustina origin",
+        "Gustina root",
+        "Gustina pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Gustina name meaning",
+      "secondary_keywords": [
+        "Gustina meaning",
+        "Gustina origin",
+        "Gustina pronunciation",
+        "Gustina lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Gustina mean?",
+          "a": "Name-lists record the meaning as “Strong, Firm, Dust”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Gustina verified?",
+          "a": "No. The meaning of Gustina could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Gustina come from?",
+          "a": "The origin of Gustina has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Gustina Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Gustina has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Gustina",
+      "Gustina name meaning",
+      "Gustina meaning",
+      "Gustina origin",
+      "Gustina root",
+      "Gustina pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Gustina has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Gustina",
+      "description": "Gustina — Strong, Firm, Dust",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Gustina mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Strong, Firm, Dust”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Gustina verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Gustina could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Gustina come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Gustina has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:13:42.000Z",
+    "tier1_verified": {
+      "name": "Gustina",
+      "slug": "gustina",
+      "meaning": "Strong, Firm, Dust",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Gustina",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Strong, Firm, Dust",
+      "long_meaning": "The name Gustina is recorded with the meaning “Strong, Firm, Dust”. Gustina is a Biblical name meaning “Strong, Firm, Dust”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Gustina",
+          "meaning": "Strong, Firm, Dust",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "GUS-tee-nah",
+        "ipa": "/ˈɡʊstɪnə/"
+      },
+      "syllables": 3,
+      "name_length": 7,
+      "faqs": [
+        {
+          "q": "What does the name Gustina mean?",
+          "a": "Name-lists record the meaning as “Strong, Firm, Dust”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Gustina verified?",
+          "a": "No. The meaning of Gustina could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Gustina come from?",
+          "a": "The origin of Gustina has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 1,
+        "life_path_number": 1,
+        "ruling_planet": "Sun",
+        "lucky_day": "Sunday",
+        "lucky_stone": "Ruby",
+        "lucky_colors": [
+          "Gold",
+          "Orange"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Gustina total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:13:42.000Z"
+    }
   }
- }
 }

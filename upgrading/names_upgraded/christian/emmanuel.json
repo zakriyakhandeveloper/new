@@ -1,495 +1,334 @@
 {
- "success": true,
- "data": {
-  "name": "Emmanuel",
-  "slug": "emmanuel",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Emmanuel is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "God with us",
-  "long_meaning": "The name Emmanuel is recorded with the meaning “God with us”. Emmanuel is a Biblical name meaning “God with us”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Emmanuel expresses “God with us”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Emmanuel is recorded with the meaning “God with us”. Emmanuel is a Biblical name meaning “God with us”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "e-m-m-a-n-u-e-l",
-  "syllables": 3,
-  "name_length": 8,
-  "transliteration": [
-   "Emmanuel"
-  ],
-  "lucky_number": 3,
-  "lucky_day": "Thursday",
-  "lucky_colors": [
-   "Yellow",
-   "Gold"
-  ],
-  "lucky_stone": "Yellow Sapphire",
-  "ruling_planet": "Jupiter",
-  "life_path_number": 3,
-  "numerology_meaning": "In Pythagorean numerology the letters of Emmanuel total 30, reducing to 3. Number 3 is associated with expression, creativity and optimism.",
-  "in_hebrew": {
-   "name": "עמנואל",
-   "meaning": "אלוהים עמנו, המשמעות הוא אלוהים הוא עמנו",
-   "long_meaning": "השם עמנואל הוא מילה עברית שמשמעותה 'אלוהים הוא עמנו'. הוא מורכב משתי מילים: 'עמנו' שמשמעותה 'עמנו' ו'אלוהים' שמשמעותה 'אלוהים'. השם הזה מופיע במקרא, בספר ישעיהו, פרק 7, פסוק 14, ומתייחס לנבואה על בואו של ישו המשיח. השם עמנואל הוא סמל לאמונה היהודית והנוצרית כאחד, ומשמעותו הרעיון שאלוהים הוא בקרבנו, תמיד עמנו."
-  },
-  "in_greek": {
-   "name": "Εμμανουήλ",
-   "meaning": "Ο Θεός είναι μαζί μας",
-   "long_meaning": "Το όνομα Εμμανουήλ είναι ελληνική μετάφραση της εβραϊκής λέξης 'עמנואל', που σημαίνει 'Ο Θεός είναι μαζί μας'. Στην Καινή Διαθήκη, το όνομα Εμμανουήλ αναφέρεται στο κατά Ματθαίον Ευαγγέλιον, κεφάλαιο 1, εδάφιο 23, ως προφήτεία για την άφιξη του Ιησού Χριστού. Το όνομα Εμμανουήλ είναι σύμβολο της χριστιανικής πίστης και υπογραμμίζει την παρουσία του Θεού στην ανθρώπινη ιστορία."
-  },
-  "in_latin": {
-   "name": "Emmanuel",
-   "meaning": "Deus nobiscum",
-   "long_meaning": "Nomen Emmanuel significat 'Deus nobiscum' vel 'Deus est nobiscum'. Hoc nomen hebraicum est, quod in libro Isaiae, capitulo 7, versu 14, apparet ut prophetia de adventu Messiae. In Ecclesia primitiva, nomen Emmanuel fuit symbolum fidei christianae et testimonio praesentiae Dei in mundo. Hoc nomen etiam in liturgia et hymnis christianis saepe usurpatur."
-  },
-  "in_english": {
-   "name": "Emmanuel",
-   "meaning": "God with us",
-   "long_meaning": "The name Emmanuel is recorded with the meaning “God with us”. Emmanuel is a Biblical name meaning “God with us”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "e-MAHN-oo-el",
-   "biblical": "עִמָּנוּאֵל",
-   "ipa": "/ɪˈmæn.ju.əl/"
-  },
-  "name_variations": [
-   "Emmanuel"
-  ],
-  "variants": [
-   "Emmanuel"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Emmanuel is used in Biblical naming tradition with the meaning “God with us”.",
-  "spiritual_significance": "Any spiritual significance attached to Emmanuel is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “God with us” is the basis of any symbolism attached to Emmanuel; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": true,
-   "origin_scripture": "Isaiah",
-   "verse_reference": "Isaiah 7:14",
-   "note": "Prophecy about the coming of Jesus Christ"
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Emmanuel."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#EmmanuelMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Emmanuel"
-  ],
-  "monetization": {
-   "display_ads": true,
-   "affiliate_links": [
-    "Buy a beautiful Emmanuel name pendant for your loved one",
-    "Find the perfect Emmanuel baby gift"
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Emmanuel Name Meaning – God with us (Biblical)",
-   "meta_description": "Emmanuel is a Biblical name meaning “God with us”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Emmanuel, Emmanuel name meaning, Emmanuel meaning, Emmanuel origin, Emmanuel root, Emmanuel pronunciation, Biblical names",
-   "description_paragraph": "Emmanuel is a Biblical name meaning “God with us”.",
-   "keywords": [
-    "Emmanuel",
-    "Emmanuel name meaning",
-    "Emmanuel meaning",
-    "Emmanuel origin",
-    "Emmanuel root",
-    "Emmanuel pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Emmanuel name meaning",
-   "secondary_keywords": [
-    "Emmanuel meaning",
-    "Emmanuel origin",
-    "Emmanuel pronunciation",
-    "Emmanuel lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/emmanuel",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "How reliable is the meaning given for Emmanuel?",
-     "a": "The meaning of Emmanuel carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Emmanuel have a religious meaning?",
-     "a": "Emmanuel is recorded as a christian name meaning “God with us”."
-    },
-    {
-     "q": "What is the English meaning of Emmanuel?",
-     "a": "In English, Emmanuel is rendered as “God with us”."
-    },
-    {
-     "q": "Is Emmanuel suitable for a baby?",
-     "a": "Emmanuel is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Emmanuel?",
-     "a": "Emmanuel is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Emmanuel?",
-     "a": "Emmanuel is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Emmanuel have a positive meaning?",
-     "a": "Emmanuel carries the meaning “God with us”."
-    },
-    {
-     "q": "What does the name Emmanuel mean?",
-     "a": "Emmanuel means “God with us”."
-    },
-    {
-     "q": "What is the origin of the name Emmanuel?",
-     "a": "Emmanuel is of Biblical origin."
-    },
-    {
-     "q": "Is Emmanuel a male name?",
-     "a": "Emmanuel is used as a male name."
-    },
-    {
-     "q": "How many syllables does Emmanuel have?",
-     "a": "Emmanuel has 3 syllables."
-    },
-    {
-     "q": "How is Emmanuel pronounced?",
-     "a": "Emmanuel is pronounced as given in the pronunciation field of this record."
-    }
-   ]
-  },
-  "seo_title": "Emmanuel Name Meaning – God with us (Biblical)",
-  "meta_description": "Emmanuel is a Biblical name meaning “God with us”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Emmanuel",
-   "Emmanuel name meaning",
-   "Emmanuel meaning",
-   "Emmanuel origin",
-   "Emmanuel root",
-   "Emmanuel pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/emmanuel",
-  "intro_paragraph": "Emmanuel is a Biblical name meaning “God with us”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Emmanuel",
-   "description": "Emmanuel — God with us",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Emmanuel?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Emmanuel carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Emmanuel have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Emmanuel is recorded as a christian name meaning “God with us”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Emmanuel?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Emmanuel is rendered as “God with us”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Emmanuel suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Emmanuel is used as a male given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Emmanuel?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Emmanuel is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Emmanuel?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Emmanuel is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Emmanuel have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Emmanuel carries the meaning “God with us”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Emmanuel mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Emmanuel means “God with us”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Emmanuel?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Emmanuel is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Emmanuel a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Emmanuel is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Emmanuel have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Emmanuel has 3 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Emmanuel pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Emmanuel is pronounced as given in the pronunciation field of this record."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Emmanuel",
-     "item": "https://namemeaning.example/name/emmanuel"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Emmanuel",
-   "slug": "emmanuel",
-   "meaning": "God with us",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Emmanuel",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "God with us",
-   "long_meaning": "The name Emmanuel is recorded with the meaning “God with us”. Emmanuel is a Biblical name meaning “God with us”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Emmanuel",
-     "meaning": "God with us",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "e-MAHN-oo-el",
-    "ipa": "/ɪˈmæn.ju.əl/"
-   },
-   "syllables": 3,
-   "name_length": 8,
-   "faqs": [
-    {
-     "q": "How reliable is the meaning given for Emmanuel?",
-     "a": "The meaning of Emmanuel carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Emmanuel have a religious meaning?",
-     "a": "Emmanuel is recorded as a christian name meaning “God with us”."
-    },
-    {
-     "q": "What is the English meaning of Emmanuel?",
-     "a": "In English, Emmanuel is rendered as “God with us”."
-    },
-    {
-     "q": "Is Emmanuel suitable for a baby?",
-     "a": "Emmanuel is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Emmanuel?",
-     "a": "Emmanuel is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Emmanuel?",
-     "a": "Emmanuel is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Emmanuel have a positive meaning?",
-     "a": "Emmanuel carries the meaning “God with us”."
-    },
-    {
-     "q": "What does the name Emmanuel mean?",
-     "a": "Emmanuel means “God with us”."
-    },
-    {
-     "q": "What is the origin of the name Emmanuel?",
-     "a": "Emmanuel is of Biblical origin."
-    },
-    {
-     "q": "Is Emmanuel a male name?",
-     "a": "Emmanuel is used as a male name."
-    },
-    {
-     "q": "How many syllables does Emmanuel have?",
-     "a": "Emmanuel has 3 syllables."
-    },
-    {
-     "q": "How is Emmanuel pronounced?",
-     "a": "Emmanuel is pronounced as given in the pronunciation field of this record."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 3,
-    "life_path_number": 3,
-    "ruling_planet": "Jupiter",
-    "lucky_day": "Thursday",
-    "lucky_stone": "Yellow Sapphire",
-    "lucky_colors": [
-     "Yellow",
-     "Gold"
+  "success": true,
+  "data": {
+    "name": "Emmanuel",
+    "slug": "emmanuel",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Emmanuel total 30, reducing to 3. Number 3 is associated with expression, creativity and optimism."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Emmanuel is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "God with us",
+    "long_meaning": "The meaning of Emmanuel is recorded in name-lists as “God with us”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Emmanuel expresses “God with us”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "e-m-m-a-n-u-e-l",
+    "syllables": 3,
+    "name_length": 8,
+    "transliteration": [
+      "Emmanuel"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Yellow",
+      "Gold"
+    ],
+    "lucky_stone": "Yellow Sapphire",
+    "ruling_planet": "Jupiter",
+    "life_path_number": 3,
+    "numerology_meaning": "In Pythagorean numerology the letters of Emmanuel total 30, reducing to 3. Number 3 is associated with expression, creativity and optimism.",
+    "in_hebrew": {
+      "name": "עמנואל",
+      "meaning": "אלוהים עמנו, המשמעות הוא אלוהים הוא עמנו",
+      "long_meaning": "השם עמנואל הוא מילה עברית שמשמעותה 'אלוהים הוא עמנו'. הוא מורכב משתי מילים: 'עמנו' שמשמעותה 'עמנו' ו'אלוהים' שמשמעותה 'אלוהים'. השם הזה מופיע במקרא, בספר ישעיהו, פרק 7, פסוק 14, ומתייחס לנבואה על בואו של ישו המשיח. השם עמנואל הוא סמל לאמונה היהודית והנוצרית כאחד, ומשמעותו הרעיון שאלוהים הוא בקרבנו, תמיד עמנו."
+    },
+    "in_greek": {
+      "name": "Εμμανουήλ",
+      "meaning": "Ο Θεός είναι μαζί μας",
+      "long_meaning": "Το όνομα Εμμανουήλ είναι ελληνική μετάφραση της εβραϊκής λέξης 'עמנואל', που σημαίνει 'Ο Θεός είναι μαζί μας'. Στην Καινή Διαθήκη, το όνομα Εμμανουήλ αναφέρεται στο κατά Ματθαίον Ευαγγέλιον, κεφάλαιο 1, εδάφιο 23, ως προφήτεία για την άφιξη του Ιησού Χριστού. Το όνομα Εμμανουήλ είναι σύμβολο της χριστιανικής πίστης και υπογραμμίζει την παρουσία του Θεού στην ανθρώπινη ιστορία."
+    },
+    "in_latin": {
+      "name": "Emmanuel",
+      "meaning": "Deus nobiscum",
+      "long_meaning": "Nomen Emmanuel significat 'Deus nobiscum' vel 'Deus est nobiscum'. Hoc nomen hebraicum est, quod in libro Isaiae, capitulo 7, versu 14, apparet ut prophetia de adventu Messiae. In Ecclesia primitiva, nomen Emmanuel fuit symbolum fidei christianae et testimonio praesentiae Dei in mundo. Hoc nomen etiam in liturgia et hymnis christianis saepe usurpatur."
+    },
+    "in_english": {
+      "name": "Emmanuel",
+      "meaning": "God with us",
+      "long_meaning": "God with us"
+    },
+    "pronunciation": {
+      "english": "e-MAHN-oo-el",
+      "biblical": "עִמָּנוּאֵל",
+      "ipa": "/ɪˈmæn.ju.əl/"
+    },
+    "name_variations": [
+      "Emmanuel"
+    ],
+    "variants": [
+      "Emmanuel"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Emmanuel is used in Biblical naming tradition with the meaning “God with us”.",
+    "spiritual_significance": "Any spiritual significance attached to Emmanuel is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “God with us” is the basis of any symbolism attached to Emmanuel; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "Isaiah",
+      "verse_reference": "Isaiah 7:14",
+      "note": "Prophecy about the coming of Jesus Christ"
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Emmanuel."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#EmmanuelMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Emmanuel"
+    ],
+    "monetization": {
+      "display_ads": true,
+      "affiliate_links": [
+        "Buy a beautiful Emmanuel name pendant for your loved one",
+        "Find the perfect Emmanuel baby gift"
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Emmanuel Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Emmanuel has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Emmanuel, Emmanuel name meaning, Emmanuel meaning, Emmanuel origin, Emmanuel root, Emmanuel pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Emmanuel has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Emmanuel",
+        "Emmanuel name meaning",
+        "Emmanuel meaning",
+        "Emmanuel origin",
+        "Emmanuel root",
+        "Emmanuel pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Emmanuel name meaning",
+      "secondary_keywords": [
+        "Emmanuel meaning",
+        "Emmanuel origin",
+        "Emmanuel pronunciation",
+        "Emmanuel lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Emmanuel mean?",
+          "a": "Name-lists record the meaning as “God with us”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Emmanuel verified?",
+          "a": "No. The meaning of Emmanuel could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Emmanuel come from?",
+          "a": "The origin of Emmanuel has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Emmanuel Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Emmanuel has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Emmanuel",
+      "Emmanuel name meaning",
+      "Emmanuel meaning",
+      "Emmanuel origin",
+      "Emmanuel root",
+      "Emmanuel pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Emmanuel has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Emmanuel",
+      "description": "Emmanuel — God with us",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Emmanuel mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “God with us”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Emmanuel verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Emmanuel could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Emmanuel come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Emmanuel has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:09:40.000Z",
+    "tier1_verified": {
+      "name": "Emmanuel",
+      "slug": "emmanuel",
+      "meaning": "God with us",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Emmanuel",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "God with us",
+      "long_meaning": "The name Emmanuel is recorded with the meaning “God with us”. Emmanuel is a Biblical name meaning “God with us”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Emmanuel",
+          "meaning": "God with us",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "e-MAHN-oo-el",
+        "ipa": "/ɪˈmæn.ju.əl/"
+      },
+      "syllables": 3,
+      "name_length": 8,
+      "faqs": [
+        {
+          "q": "What does the name Emmanuel mean?",
+          "a": "Name-lists record the meaning as “God with us”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Emmanuel verified?",
+          "a": "No. The meaning of Emmanuel could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Emmanuel come from?",
+          "a": "The origin of Emmanuel has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 3,
+        "life_path_number": 3,
+        "ruling_planet": "Jupiter",
+        "lucky_day": "Thursday",
+        "lucky_stone": "Yellow Sapphire",
+        "lucky_colors": [
+          "Yellow",
+          "Gold"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Emmanuel total 30, reducing to 3. Number 3 is associated with expression, creativity and optimism."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:09:40.000Z"
+    }
   }
- }
 }

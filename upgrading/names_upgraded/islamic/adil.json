@@ -1,551 +1,390 @@
 {
- "success": true,
- "data": {
-  "name": "Adil",
-  "slug": "adil",
-  "language": [
-   "English",
-   "Urdu",
-   "Arabic",
-   "Pashto",
-   "Hindi"
-  ],
-  "gender": "Male",
-  "gender_notes": "Adil is used as a male name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Just, Fair, Honest",
-  "long_meaning": "The name Adil is recorded with the meaning “Just, Fair, Honest”. Adil is a Arabic name meaning “Just, Fair, Honest”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Adil expresses “Just, Fair, Honest”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Adil is recorded with the meaning “Just, Fair, Honest”. Adil is a Arabic name meaning “Just, Fair, Honest”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-d-i-l",
-  "syllables": 2,
-  "name_length": 4,
-  "transliteration": [
-   "Adil"
-  ],
-  "lucky_number": 8,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Blue",
-   "Black"
-  ],
-  "lucky_stone": "Blue Sapphire",
-  "ruling_planet": "Saturn",
-  "life_path_number": 8,
-  "numerology_meaning": "In Pythagorean numerology the letters of Adil total 17, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-  "in_arabic": {
-   "name": "عادل",
-   "meaning": "المستقيم الحكم، النائب الصادق، الحاكم العادل",
-   "long_meaning": "يعني اسم عادل العدالة والمساواة، وهو لقب كان ينشده للنبي محمد، ويعتبر من أهم القيم الإسلامية، ويرمز إلى الحاكم العادل الذي لا يظلم العباد، ويحافظ على المساواة بين جميع الناس، وهو اسم مشهور في الثقافة العربية والإسلامية، يحتوي على معاني عديدة مثل الصدق والمساواة والعدل، ويستخدم في اللغة العربية للإشارة إلى الشخص العادل والمسيء للظلم، وهو اسم يغذي ثقافة المساواة والمواطنة بين أبناء المجتمع"
-  },
-  "in_urdu": {
-   "name": "عادل",
-   "meaning": "عدالتا کرتے ہوئے، نائب صادق، عادل حکمران",
-   "long_meaning": "عادل نام اسلامی اعتدال کے بھانڑوں کو ظاہر کرتا ہے، یہ نام ہر مسلمان کے لئے ایک بہترین نام ہے، اس نام کا مطلب ہے کہ وہ انسان عدالت دے کر زندگی گزارے، اس کی اہمیت کا اندازہ اس بات سے لگایا جاسکتا ہے کہ اس نام کے ساتھ ساتھ کئی دوسرے نام بھی کئے جاتے ہیں، اور ہمیشہ کے لئے ہونے والے ناموں میں سے ایک ہے، اس نام کے معنی ہیں کہ وہ انسان اپنے کاموں میں ہمیشہ انصاف کا پرچم لے کر چلتا ہے، اس نام کا پختہ اور ساتھ ہی مستحکم کردار ہے، اور بہت سے لوگوں کے ذہنوں میں ہے، اس نام کو بہترین نام بتایا جاتا ہے، اور اس کی وجہ یہ ہے کہ یہ نام اس وقت تک پختہ ہو جاتا ہے جب تک ایک شخص نہیں بنتا کہ وہ اپنے نفس کی عادت سے عارف ہو جائے، اور ایک سچا انسان بن جائے"
-  },
-  "in_hindi": {
-   "name": "अदील",
-   "meaning": "न्यायपूर्ण व्यवहार करने वाला, सच्चा प्रतिनिधि, न्यायपूर्ण शासन करने वाला",
-   "long_meaning": "अदील नाम इस्लामी न्याय के प्रतीक हैं, यह नाम हर मुस्लिम के लिए एक अच्छा नाम है, इसका अर्थ है कि वह व्यक्ति न्याय द्वारा जीवन बिताता है, इसकी महत्ता का आभास इस बात से लगाया जा सकता है कि इस नाम के साथ-साथ कई अन्य नाम भी दिए जाते हैं, और सदैव के लिए होने वाले नामों में से एक है, इसके अर्थ हैं कि वह व्यक्ति अपने कार्यों में हमेशा न्याय का झंडा लेकर चलता है, इसका पुख्ता और साथ ही स्थिर کردार है, और कई लोगों के मन में है, इस नाम को सर्वश्रेष्ठ नाम कहा जाता है, और इसकी वजह यह है कि यह नाम तब तक पुख्ता हो जाता है जब तक एक व्यक्ति नहीं बनता कि वह अपने मन की आदत से परिचित हो जाए, और एक सच्चा व्यक्ति बन जाए"
-  },
-  "in_pashto": {
-   "name": "عادل",
-   "meaning": "عدالت کوي، د نائب صادق، د انګييزه حکمړون",
-   "long_meaning": "عادل د نوم د اسلامي عدالتو کښې دښمن کوي، د نوم د پښتنو په کلتور کښې د نوم د پښتنو په کلتور کښې د عادل د نوم د پښتنو په کلتور کښې د عادل د نوم د پښتنو په کلتور کښې د عادل د نوم د پښتنو پهکلتور کښې د عادل د نوم د پښتنو په کلتور کښې د عادل د نوم د پښتنو په کلتور کښې د عادل د نوم د پښتنو په کلتور کښې د عادل د نوم د پښتنو په کلتور کښې د عادل د نوم د پښتنو په کلتور کښې د عادل د نوم د پښتنو په کلتور کښې د عادل د"
-  },
-  "in_english": {
-   "name": "Adil",
-   "meaning": "Just, Fair, Honest",
-   "long_meaning": "The name Adil is recorded with the meaning “Just, Fair, Honest”. Adil is a Arabic name meaning “Just, Fair, Honest”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "ah-DEEL",
-   "urdu": "عادل کا تلفظ اردو میں",
-   "hindi": "अदील का उच्चारण हिन्दी में",
-   "pashto": "عادل د تلفظ په پښتو کې",
-   "ipa": "/ˈɑː.liːm/"
-  },
-  "name_variations": [
-   "Adil"
-  ],
-  "variants": [
-   "Adil"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Adil is used in Arabic naming tradition with the meaning “Just, Fair, Honest”.",
-  "spiritual_significance": "Any spiritual significance attached to Adil is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Just, Fair, Honest” is the basis of any symbolism attached to Adil; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Adil has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Adil."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AdilMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Adil"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Adil",
-     "description": "Discover the meaning of Adil - \"Just, Fair, Honest\"",
-     "image": "/images/social/adil-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Adil - Name Meaning",
-     "description": "Learn about the beautiful name Adil",
-     "image": "/images/social/adil-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Adil",
-     "description": "Name meaning: Just, Fair, Honest",
-     "image": "/images/social/adil-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Adil - Meaning: Just, Fair, Honest",
-    "email_subject": "Beautiful Name: Adil"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Adil with meaning Just, Fair, Honest",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Adil Name Meaning – Just, Fair, Honest (Arabic)",
-   "meta_description": "Adil is a Arabic name meaning “Just, Fair, Honest”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Adil, Adil name meaning, Adil meaning, Adil origin, Adil root, Adil pronunciation, Arabic names",
-   "description_paragraph": "Adil is a Arabic name meaning “Just, Fair, Honest”.",
-   "keywords": [
-    "Adil",
-    "Adil name meaning",
-    "Adil meaning",
-    "Adil origin",
-    "Adil root",
-    "Adil pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Adil name meaning",
-   "secondary_keywords": [
-    "Adil meaning",
-    "Adil origin",
-    "Adil pronunciation",
-    "Adil lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/adil",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the full form of Adil?",
-     "a": "Adil is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Adil?",
-     "a": "Adil is used in Arabic naming traditions."
-    },
-    {
-     "q": "Does Adil have a positive meaning?",
-     "a": "Adil carries the meaning “Just, Fair, Honest”."
-    },
-    {
-     "q": "What does the name Adil mean?",
-     "a": "Adil means “Just, Fair, Honest”."
-    },
-    {
-     "q": "What is the origin of the name Adil?",
-     "a": "Adil is of Arabic origin."
-    },
-    {
-     "q": "Is Adil a male name?",
-     "a": "Adil is used as a male name."
-    },
-    {
-     "q": "How many syllables does Adil have?",
-     "a": "Adil has 2 syllables."
-    },
-    {
-     "q": "How is Adil pronounced?",
-     "a": "Adil is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Adil?",
-     "a": "Any spiritual significance attached to Adil is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Adil?",
-     "a": "Variant spellings of Adil are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Adil a common name?",
-     "a": "Popularity figures for Adil have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Adil say about a child?",
-     "a": "The name Adil expresses “Just, Fair, Honest”; any character association drawn from it is interpretive."
-    }
-   ]
-  },
-  "seo_title": "Adil Name Meaning – Just, Fair, Honest (Arabic)",
-  "meta_description": "Adil is a Arabic name meaning “Just, Fair, Honest”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Adil",
-   "Adil name meaning",
-   "Adil meaning",
-   "Adil origin",
-   "Adil root",
-   "Adil pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/adil",
-  "intro_paragraph": "Adil is a Arabic name meaning “Just, Fair, Honest”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Adil",
-   "description": "Adil — Just, Fair, Honest",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the full form of Adil?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Adil is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Adil?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Adil is used in Arabic naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Adil have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Adil carries the meaning “Just, Fair, Honest”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Adil mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Adil means “Just, Fair, Honest”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Adil?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Adil is of Arabic origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Adil a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Adil is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Adil have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Adil has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Adil pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Adil is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Adil?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Adil is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Adil?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Adil are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Adil a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Adil have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Adil say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Adil expresses “Just, Fair, Honest”; any character association drawn from it is interpretive."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Adil",
-     "item": "https://namemeaning.example/name/adil"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-06-29T18:55:00+05:00",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Adil",
-   "slug": "adil",
-   "meaning": "Just, Fair, Honest",
-   "origin": "Arabic",
-   "language": [
-    "English",
-    "Urdu",
-    "Arabic",
-    "Pashto",
-    "Hindi"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Adil",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Just, Fair, Honest",
-   "long_meaning": "The name Adil is recorded with the meaning “Just, Fair, Honest”. Adil is a Arabic name meaning “Just, Fair, Honest”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Adil",
-     "meaning": "Just, Fair, Honest",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "ah-DEEL",
-    "ipa": "/ˈɑː.liːm/"
-   },
-   "syllables": 2,
-   "name_length": 4,
-   "faqs": [
-    {
-     "q": "What is the full form of Adil?",
-     "a": "Adil is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Adil?",
-     "a": "Adil is used in Arabic naming traditions."
-    },
-    {
-     "q": "Does Adil have a positive meaning?",
-     "a": "Adil carries the meaning “Just, Fair, Honest”."
-    },
-    {
-     "q": "What does the name Adil mean?",
-     "a": "Adil means “Just, Fair, Honest”."
-    },
-    {
-     "q": "What is the origin of the name Adil?",
-     "a": "Adil is of Arabic origin."
-    },
-    {
-     "q": "Is Adil a male name?",
-     "a": "Adil is used as a male name."
-    },
-    {
-     "q": "How many syllables does Adil have?",
-     "a": "Adil has 2 syllables."
-    },
-    {
-     "q": "How is Adil pronounced?",
-     "a": "Adil is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Adil?",
-     "a": "Any spiritual significance attached to Adil is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Adil?",
-     "a": "Variant spellings of Adil are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Adil a common name?",
-     "a": "Popularity figures for Adil have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Adil say about a child?",
-     "a": "The name Adil expresses “Just, Fair, Honest”; any character association drawn from it is interpretive."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 8,
-    "life_path_number": 8,
-    "ruling_planet": "Saturn",
-    "lucky_day": "Saturday",
-    "lucky_stone": "Blue Sapphire",
-    "lucky_colors": [
-     "Blue",
-     "Black"
+  "success": true,
+  "data": {
+    "name": "Adil",
+    "slug": "adil",
+    "language": [
+      "English",
+      "Urdu",
+      "Arabic",
+      "Pashto",
+      "Hindi"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Adil total 17, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Adil is used as a male name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Just, Fair, Honest",
+    "long_meaning": "The meaning of Adil is recorded in name-lists as “Just, Fair, Honest”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Adil expresses “Just, Fair, Honest”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Arabic",
+    "root_letters": "a-d-i-l",
+    "syllables": 2,
+    "name_length": 4,
+    "transliteration": [
+      "Adil"
+    ],
+    "lucky_number": 8,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Blue",
+      "Black"
+    ],
+    "lucky_stone": "Blue Sapphire",
+    "ruling_planet": "Saturn",
+    "life_path_number": 8,
+    "numerology_meaning": "In Pythagorean numerology the letters of Adil total 17, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
+    "in_arabic": {
+      "name": "عادل",
+      "meaning": "Just, Fair, Honest",
+      "long_meaning": "Just, Fair, Honest"
+    },
+    "in_urdu": {
+      "name": "عادل",
+      "meaning": "Just, Fair, Honest",
+      "long_meaning": "Just, Fair, Honest"
+    },
+    "in_hindi": {
+      "name": "अदील",
+      "meaning": "Just, Fair, Honest",
+      "long_meaning": "Just, Fair, Honest"
+    },
+    "in_pashto": {
+      "name": "عادل",
+      "meaning": "Just, Fair, Honest",
+      "long_meaning": "Just, Fair, Honest"
+    },
+    "in_english": {
+      "name": "Adil",
+      "meaning": "Just, Fair, Honest",
+      "long_meaning": "Just, Fair, Honest"
+    },
+    "pronunciation": {
+      "english": "ah-DEEL",
+      "urdu": "عادل کا تلفظ اردو میں",
+      "hindi": "अदील का उच्चारण हिन्दी में",
+      "pashto": "عادل د تلفظ په پښتو کې",
+      "ipa": "/ˈɑː.liːm/"
+    },
+    "name_variations": [
+      "Adil"
+    ],
+    "variants": [
+      "Adil"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Adil is used in Arabic naming tradition with the meaning “Just, Fair, Honest”.",
+    "spiritual_significance": "Any spiritual significance attached to Adil is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Just, Fair, Honest” is the basis of any symbolism attached to Adil; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "No Qur'anic reference for Adil has been verified."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Adil."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AdilMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Adil"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Adil",
+          "description": "Discover the meaning of Adil - \"Just, Fair, Honest\"",
+          "image": "/images/social/adil-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Adil - Name Meaning",
+          "description": "Learn about the beautiful name Adil",
+          "image": "/images/social/adil-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Adil",
+          "description": "Name meaning: Just, Fair, Honest",
+          "image": "/images/social/adil-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Adil - Meaning: Just, Fair, Honest",
+        "email_subject": "Beautiful Name: Adil"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Adil with meaning Just, Fair, Honest",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Adil Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Adil has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Adil, Adil name meaning, Adil meaning, Adil origin, Adil root, Adil pronunciation, Arabic names",
+      "description_paragraph": "The meaning of Adil has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Adil",
+        "Adil name meaning",
+        "Adil meaning",
+        "Adil origin",
+        "Adil root",
+        "Adil pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Adil name meaning",
+      "secondary_keywords": [
+        "Adil meaning",
+        "Adil origin",
+        "Adil pronunciation",
+        "Adil lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Adil mean?",
+          "a": "Name-lists record the meaning as “Just, Fair, Honest”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Adil verified?",
+          "a": "No. The meaning of Adil could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Adil come from?",
+          "a": "The origin of Adil has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Adil Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Adil has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Adil",
+      "Adil name meaning",
+      "Adil meaning",
+      "Adil origin",
+      "Adil root",
+      "Adil pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Adil has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Adil",
+      "description": "Adil — Just, Fair, Honest",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Adil mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Just, Fair, Honest”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Adil verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Adil could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Adil come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Adil has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 70
+    },
+    "created_at": "2025-06-29T18:55:00+05:00",
+    "updated_at": "2026-10-01T04:04:23.000Z",
+    "tier1_verified": {
+      "name": "Adil",
+      "slug": "adil",
+      "meaning": "Just, Fair, Honest",
+      "origin": "Arabic",
+      "language": [
+        "English",
+        "Urdu",
+        "Arabic",
+        "Pashto",
+        "Hindi"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Adil",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Just, Fair, Honest",
+      "long_meaning": "The name Adil is recorded with the meaning “Just, Fair, Honest”. Adil is a Arabic name meaning “Just, Fair, Honest”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Adil",
+          "meaning": "Just, Fair, Honest",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "ah-DEEL",
+        "ipa": "/ˈɑː.liːm/"
+      },
+      "syllables": 2,
+      "name_length": 4,
+      "faqs": [
+        {
+          "q": "What does the name Adil mean?",
+          "a": "Name-lists record the meaning as “Just, Fair, Honest”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Adil verified?",
+          "a": "No. The meaning of Adil could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Adil come from?",
+          "a": "The origin of Adil has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 8,
+        "life_path_number": 8,
+        "ruling_planet": "Saturn",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Blue Sapphire",
+        "lucky_colors": [
+          "Blue",
+          "Black"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Adil total 17, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:23.000Z"
+    }
   }
- }
 }

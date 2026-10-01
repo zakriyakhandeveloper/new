@@ -1,490 +1,329 @@
 {
- "success": true,
- "data": {
-  "name": "Judie",
-  "slug": "judie",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Judie is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Gentle, Judean",
-  "long_meaning": "The name Judie is recorded with the meaning “Gentle, Judean”. Judie is a Biblical name meaning “Gentle, Judean”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Judie expresses “Gentle, Judean”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Judie is recorded with the meaning “Gentle, Judean”. Judie is a Biblical name meaning “Gentle, Judean”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "j-u-d-i-e",
-  "syllables": 1,
-  "name_length": 5,
-  "transliteration": [
-   "Judie"
-  ],
-  "lucky_number": 4,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Grey",
-   "Blue"
-  ],
-  "lucky_stone": "Hessonite",
-  "ruling_planet": "Rahu",
-  "life_path_number": 4,
-  "numerology_meaning": "In Pythagorean numerology the letters of Judie total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-  "in_hebrew": {
-   "name": "ג'ודי",
-   "meaning": "יהוה הוא ישוע ונותן שמחה",
-   "long_meaning": "ג'ודי הוא שם שמקורו במקרא, ומשמעותו 'יהוה הוא ישוע' או 'הוא שמחה'. השם ג'ודי נגזר מהשם העברי 'יהודה', שפירושו 'יהוה הוא ישוע' או 'הוא מודה לאלוהים'. השם היה מאוד פופולרי בקרב יהודים וגם בקרב נוצרים, והוא נושא משמעות רבה בהיסטוריה היהודית והנוצרית."
-  },
-  "in_greek": {
-   "name": "Τζούντι",
-   "meaning": "Χαρά και δόξα Θεού",
-   "long_meaning": "Το όνομα Τζούντι είναι ελληνική μορφή του ονόματος Ιούδα (Ιουδάς), που σημαίνει 'δόξα Θεού' ή 'Χαρά και δόξα Θεού'. Στην Καινή Διαθήκη, το όνομα Ιούδα αναφέρεται σε έναν από τους αποστόλους του Ιησού και σε άλλους πρόσωπα. Το όνομα Τζούντι έχει χρησιμοποιηθεί στην Εκκλησία από τους πρώτους χρόνους και θεωρείται σύμβολο πνευματικής χαράς και αφοσίωσης."
-  },
-  "in_latin": {
-   "name": "Judie",
-   "meaning": "Dei gratia, laetitia",
-   "long_meaning": "Nomen Judie originem habet in nomine hebraeo 'Iehudah', quod significat 'Deus est gratia' vel 'confessio Dei'. In Ecclesia primitiva, nomen Iuda vel Iudas in contextu christiano usitatum erat, designans gratiam et laetitiam spiritualem. Nomen Judie per saecula in traditione christiana usitatum est, significans donum Dei et gaudium spirituale."
-  },
-  "in_english": {
-   "name": "Judie",
-   "meaning": "Gentle, Judean",
-   "long_meaning": "The name Judie is recorded with the meaning “Gentle, Judean”. Judie is a Biblical name meaning “Gentle, Judean”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "JOO-dee",
-   "biblical": "יוּדָה (Yūḏāh)",
-   "ipa": "/ˈdʒuːdi/"
-  },
-  "name_variations": [
-   "Judie"
-  ],
-  "variants": [
-   "Judie"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Judie is used in Biblical naming tradition with the meaning “Gentle, Judean”.",
-  "spiritual_significance": "Any spiritual significance attached to Judie is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Gentle, Judean” is the basis of any symbolism attached to Judie; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": true,
-   "origin_scripture": "Genesis",
-   "verse_reference": "Genesis 29:35",
-   "note": "The name Judah (or Judie) originates from the biblical figure Judah, the fourth son of Jacob and Leah."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Judie."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#JudieMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Judie"
-  ],
-  "monetization": {
-   "ad_placement": "article_body",
-   "ads_type": "banner"
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Judie Name Meaning – Gentle, Judean (Biblical)",
-   "meta_description": "Judie is a Biblical name meaning “Gentle, Judean”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Judie, Judie name meaning, Judie meaning, Judie origin, Judie root, Judie pronunciation, Biblical names",
-   "description_paragraph": "Judie is a Biblical name meaning “Gentle, Judean”.",
-   "keywords": [
-    "Judie",
-    "Judie name meaning",
-    "Judie meaning",
-    "Judie origin",
-    "Judie root",
-    "Judie pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Judie name meaning",
-   "secondary_keywords": [
-    "Judie meaning",
-    "Judie origin",
-    "Judie pronunciation",
-    "Judie lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/judie",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Which culture uses the name Judie?",
-     "a": "Judie is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Judie have a positive meaning?",
-     "a": "Judie carries the meaning “Gentle, Judean”."
-    },
-    {
-     "q": "What does the name Judie mean?",
-     "a": "Judie means “Gentle, Judean”."
-    },
-    {
-     "q": "What is the origin of the name Judie?",
-     "a": "Judie is of Biblical origin."
-    },
-    {
-     "q": "Is Judie a unisex name?",
-     "a": "Judie is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Judie have?",
-     "a": "Judie has 1 syllable."
-    },
-    {
-     "q": "How is Judie pronounced?",
-     "a": "Judie is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Judie?",
-     "a": "Any spiritual significance attached to Judie is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Judie?",
-     "a": "Variant spellings of Judie are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Judie a common name?",
-     "a": "Popularity figures for Judie have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Judie say about a child?",
-     "a": "The name Judie expresses “Gentle, Judean”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Judie be used in another language?",
-     "a": "Judie is recorded in Biblical; its script forms in other languages are given in the translations field."
-    }
-   ]
-  },
-  "seo_title": "Judie Name Meaning – Gentle, Judean (Biblical)",
-  "meta_description": "Judie is a Biblical name meaning “Gentle, Judean”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Judie",
-   "Judie name meaning",
-   "Judie meaning",
-   "Judie origin",
-   "Judie root",
-   "Judie pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/judie",
-  "intro_paragraph": "Judie is a Biblical name meaning “Gentle, Judean”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Judie",
-   "description": "Judie — Gentle, Judean",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Judie?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Judie is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Judie have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Judie carries the meaning “Gentle, Judean”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Judie mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Judie means “Gentle, Judean”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Judie?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Judie is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Judie a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Judie is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Judie have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Judie has 1 syllable."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Judie pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Judie is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Judie?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Judie is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Judie?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Judie are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Judie a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Judie have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Judie say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Judie expresses “Gentle, Judean”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Judie be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Judie is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Judie",
-     "item": "https://namemeaning.example/name/judie"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Judie",
-   "slug": "judie",
-   "meaning": "Gentle, Judean",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Judie",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Gentle, Judean",
-   "long_meaning": "The name Judie is recorded with the meaning “Gentle, Judean”. Judie is a Biblical name meaning “Gentle, Judean”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Judie",
-     "meaning": "Gentle, Judean",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "JOO-dee",
-    "ipa": "/ˈdʒuːdi/"
-   },
-   "syllables": 1,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "Which culture uses the name Judie?",
-     "a": "Judie is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Judie have a positive meaning?",
-     "a": "Judie carries the meaning “Gentle, Judean”."
-    },
-    {
-     "q": "What does the name Judie mean?",
-     "a": "Judie means “Gentle, Judean”."
-    },
-    {
-     "q": "What is the origin of the name Judie?",
-     "a": "Judie is of Biblical origin."
-    },
-    {
-     "q": "Is Judie a unisex name?",
-     "a": "Judie is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Judie have?",
-     "a": "Judie has 1 syllable."
-    },
-    {
-     "q": "How is Judie pronounced?",
-     "a": "Judie is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Judie?",
-     "a": "Any spiritual significance attached to Judie is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Judie?",
-     "a": "Variant spellings of Judie are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Judie a common name?",
-     "a": "Popularity figures for Judie have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Judie say about a child?",
-     "a": "The name Judie expresses “Gentle, Judean”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Judie be used in another language?",
-     "a": "Judie is recorded in Biblical; its script forms in other languages are given in the translations field."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 4,
-    "life_path_number": 4,
-    "ruling_planet": "Rahu",
-    "lucky_day": "Saturday",
-    "lucky_stone": "Hessonite",
-    "lucky_colors": [
-     "Grey",
-     "Blue"
+  "success": true,
+  "data": {
+    "name": "Judie",
+    "slug": "judie",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Judie total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Judie is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Gentle, Judean",
+    "long_meaning": "The meaning of Judie is recorded in name-lists as “Gentle, Judean”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Judie expresses “Gentle, Judean”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "j-u-d-i-e",
+    "syllables": 1,
+    "name_length": 5,
+    "transliteration": [
+      "Judie"
+    ],
+    "lucky_number": 4,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Grey",
+      "Blue"
+    ],
+    "lucky_stone": "Hessonite",
+    "ruling_planet": "Rahu",
+    "life_path_number": 4,
+    "numerology_meaning": "In Pythagorean numerology the letters of Judie total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
+    "in_hebrew": {
+      "name": "ג'ודי",
+      "meaning": "יהוה הוא ישוע ונותן שמחה",
+      "long_meaning": "ג'ודי הוא שם שמקורו במקרא, ומשמעותו 'יהוה הוא ישוע' או 'הוא שמחה'. השם ג'ודי נגזר מהשם העברי 'יהודה', שפירושו 'יהוה הוא ישוע' או 'הוא מודה לאלוהים'. השם היה מאוד פופולרי בקרב יהודים וגם בקרב נוצרים, והוא נושא משמעות רבה בהיסטוריה היהודית והנוצרית."
+    },
+    "in_greek": {
+      "name": "Τζούντι",
+      "meaning": "Χαρά και δόξα Θεού",
+      "long_meaning": "Το όνομα Τζούντι είναι ελληνική μορφή του ονόματος Ιούδα (Ιουδάς), που σημαίνει 'δόξα Θεού' ή 'Χαρά και δόξα Θεού'. Στην Καινή Διαθήκη, το όνομα Ιούδα αναφέρεται σε έναν από τους αποστόλους του Ιησού και σε άλλους πρόσωπα. Το όνομα Τζούντι έχει χρησιμοποιηθεί στην Εκκλησία από τους πρώτους χρόνους και θεωρείται σύμβολο πνευματικής χαράς και αφοσίωσης."
+    },
+    "in_latin": {
+      "name": "Judie",
+      "meaning": "Dei gratia, laetitia",
+      "long_meaning": "Nomen Judie originem habet in nomine hebraeo 'Iehudah', quod significat 'Deus est gratia' vel 'confessio Dei'. In Ecclesia primitiva, nomen Iuda vel Iudas in contextu christiano usitatum erat, designans gratiam et laetitiam spiritualem. Nomen Judie per saecula in traditione christiana usitatum est, significans donum Dei et gaudium spirituale."
+    },
+    "in_english": {
+      "name": "Judie",
+      "meaning": "Gentle, Judean",
+      "long_meaning": "Gentle, Judean"
+    },
+    "pronunciation": {
+      "english": "JOO-dee",
+      "biblical": "יוּדָה (Yūḏāh)",
+      "ipa": "/ˈdʒuːdi/"
+    },
+    "name_variations": [
+      "Judie"
+    ],
+    "variants": [
+      "Judie"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Judie is used in Biblical naming tradition with the meaning “Gentle, Judean”.",
+    "spiritual_significance": "Any spiritual significance attached to Judie is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Gentle, Judean” is the basis of any symbolism attached to Judie; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "Genesis",
+      "verse_reference": "Genesis 29:35",
+      "note": "The name Judah (or Judie) originates from the biblical figure Judah, the fourth son of Jacob and Leah."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Judie."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#JudieMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Judie"
+    ],
+    "monetization": {
+      "ad_placement": "article_body",
+      "ads_type": "banner"
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Judie Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Judie has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Judie, Judie name meaning, Judie meaning, Judie origin, Judie root, Judie pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Judie has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Judie",
+        "Judie name meaning",
+        "Judie meaning",
+        "Judie origin",
+        "Judie root",
+        "Judie pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Judie name meaning",
+      "secondary_keywords": [
+        "Judie meaning",
+        "Judie origin",
+        "Judie pronunciation",
+        "Judie lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Judie mean?",
+          "a": "Name-lists record the meaning as “Gentle, Judean”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Judie verified?",
+          "a": "No. The meaning of Judie could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Judie come from?",
+          "a": "The origin of Judie has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Judie Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Judie has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Judie",
+      "Judie name meaning",
+      "Judie meaning",
+      "Judie origin",
+      "Judie root",
+      "Judie pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Judie has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Judie",
+      "description": "Judie — Gentle, Judean",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Judie mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Gentle, Judean”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Judie verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Judie could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Judie come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Judie has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:18:30.000Z",
+    "tier1_verified": {
+      "name": "Judie",
+      "slug": "judie",
+      "meaning": "Gentle, Judean",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Judie",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Gentle, Judean",
+      "long_meaning": "The name Judie is recorded with the meaning “Gentle, Judean”. Judie is a Biblical name meaning “Gentle, Judean”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Judie",
+          "meaning": "Gentle, Judean",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "JOO-dee",
+        "ipa": "/ˈdʒuːdi/"
+      },
+      "syllables": 1,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Judie mean?",
+          "a": "Name-lists record the meaning as “Gentle, Judean”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Judie verified?",
+          "a": "No. The meaning of Judie could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Judie come from?",
+          "a": "The origin of Judie has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 4,
+        "life_path_number": 4,
+        "ruling_planet": "Rahu",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Hessonite",
+        "lucky_colors": [
+          "Grey",
+          "Blue"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Judie total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:18:30.000Z"
+    }
   }
- }
 }

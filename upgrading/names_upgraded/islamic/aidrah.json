@@ -1,545 +1,384 @@
 {
- "success": true,
- "data": {
-  "name": "Aidrah",
-  "slug": "aidrah",
-  "language": [
-   "Arabic",
-   "English"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Aidrah is used as a unisex name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Nourishment, Sustenance",
-  "long_meaning": "The name Aidrah is recorded with the meaning “Nourishment, Sustenance”. Aidrah is a Arabic name meaning “Nourishment, Sustenance”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Aidrah expresses “Nourishment, Sustenance”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Aidrah is recorded with the meaning “Nourishment, Sustenance”. Aidrah is a Arabic name meaning “Nourishment, Sustenance”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-i-d-r-a-h",
-  "syllables": 2,
-  "name_length": 6,
-  "transliteration": [
-   "Aidrah"
-  ],
-  "lucky_number": 5,
-  "lucky_day": "Wednesday",
-  "lucky_colors": [
-   "Green",
-   "Turquoise"
-  ],
-  "lucky_stone": "Emerald",
-  "ruling_planet": "Mercury",
-  "life_path_number": 5,
-  "numerology_meaning": "In Pythagorean numerology the letters of Aidrah total 32, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
-  "in_arabic": {
-   "name": "عيدة",
-   "meaning": "عيدة تعني العودة إلى الله تعالى والابتعاد عن الذنوب",
-   "long_meaning": "اسم عيدة هو اسم علم مؤنث من أصل عربي، ويعني العودة إلى الله تعالى والابتعاد عن الذنوب. وقد ورد هذا المعنى في القرآن الكريم في سورة العصر، حيث يقول الله تعالى: 'والعصر إن الإنسان لفي خسارة إلا الذين آمنوا وعملوا الصالحات وتواصوا بالحق وتواصوا بالصبر'. فالاسم يحمل معنى العودة إلى الله والتواصي بالحق والصبر."
-  },
-  "in_urdu": {
-   "name": "عیدرا",
-   "meaning": "عیدرا کا مطلب ہے اللہ تعالیٰ کی طرف لوٹنا اور پاپ سے دور ہونا",
-   "long_meaning": "عیدرا ایک علم مؤنث نام ہے جو عربی मूल سے ہے. اس کا مطلب ہے اللہ تعالیٰ کی طرف لوٹنا اور پاپ سے دور ہونا. یہ معنی قرآن کریم میں سورة العصر میں بیان کیے گئے ہیں جہاں اللہ تعالیٰ فرماتے ہیں: 'والعصر إن الإنسان لفي خسارة إلا الذين آمنوا وعملوا الصالحات وتواصوا بالحق وتواصوا بالصبر'. اس لیے یہ نام اللہ کی طرف لوٹنے اور حق اور صبر کی تاکید کرنے کا معانی رکھتا ہے."
-  },
-  "in_hindi": {
-   "name": "ऐद्रा",
-   "meaning": "ऐद्रा का अर्थ है अल्लाह की ओर लौटना और पाप से दूर होना",
-   "long_meaning": "ऐद्रा एक स्त्रीलिंग नाम है जो अरबी मूल से है. इसका अर्थ है अल्लाह की ओर लौटना और पाप से दूर होना. यह अर्थ कुरआन में सूरे अल-असर में बताया गया है जहां अल्लाह कहता है: 'والعصر إن الإنسان لفي خسارة إلا الذين آمنوا وعملوا الصالحات وتواصوا بالحق وتواصوا بالصبر'. इसलिए यह नाम अल्लाह की ओर लौटने और सही रास्ते पर चलने का संदेश देता है."
-  },
-  "in_pashto": {
-   "name": "عیدره",
-   "meaning": "عیدره د الله تعالی طرف ته د راستنې او له ګناهه د ليري مو",
-   "long_meaning": "عیدره يو ښځينه نوم دى چه د عربي اصلي څخه يی اخيستل شوی دی. دغه نوم د الله تعالی طرف ته د راستنې او له ګناهه د ليري مو معنی دی. دا معنی په قرآن کريم کې د سورت العصر په اړه بيان شوي دي چيرته چې الله تعالی فرمايي: 'والعصر إن الإنسان لفي خسارة إلا الذين آمنوا وعملوا الصالحات وتواصوا بالحق وتواصوا بالصبر'. نو دغه نوم د الله تعالی طرف ته د راستنې او د حق او صبر پر ټینګار کولو معنی لري."
-  },
-  "in_english": {
-   "name": "Aidrah",
-   "meaning": "Nourishment, Sustenance",
-   "long_meaning": "The name Aidrah is recorded with the meaning “Nourishment, Sustenance”. Aidrah is a Arabic name meaning “Nourishment, Sustenance”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "AY-drah",
-   "urdu": "عیدرا کا تلفظ ہے /عَی-دَرا/",
-   "hindi": "ऐद्रा का उच्चारण है /ऐ-ड्रा/",
-   "pashto": "/عیدره د تلفظ دی/ عَی-دره",
-   "ipa": "/ˈɑːɪdrɑː/"
-  },
-  "name_variations": [
-   "Aidrah"
-  ],
-  "variants": [
-   "Aidrah"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Aidrah is used in Arabic naming tradition with the meaning “Nourishment, Sustenance”.",
-  "spiritual_significance": "Any spiritual significance attached to Aidrah is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Nourishment, Sustenance” is the basis of any symbolism attached to Aidrah; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Aidrah has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Aidrah."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AidrahMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Aidrah"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Aidrah",
-     "description": "Discover the meaning of Aidrah - \"Nourishment, Sustenance\"",
-     "image": "/images/social/aidrah-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Aidrah - Name Meaning",
-     "description": "Learn about the beautiful name Aidrah",
-     "image": "/images/social/aidrah-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Aidrah",
-     "description": "Name meaning: Nourishment, Sustenance",
-     "image": "/images/social/aidrah-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Aidrah - Meaning: Nourishment, Sustenance",
-    "email_subject": "Beautiful Name: Aidrah"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Aidrah with meaning Nourishment, Sustenance",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Aidrah Name Meaning – Nourishment, Sustenance (Arabic)",
-   "meta_description": "Aidrah is a Arabic name meaning “Nourishment, Sustenance”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Aidrah, Aidrah name meaning, Aidrah meaning, Aidrah origin, Aidrah root, Aidrah pronunciation, Arabic names",
-   "description_paragraph": "Aidrah is a Arabic name meaning “Nourishment, Sustenance”.",
-   "keywords": [
-    "Aidrah",
-    "Aidrah name meaning",
-    "Aidrah meaning",
-    "Aidrah origin",
-    "Aidrah root",
-    "Aidrah pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Aidrah name meaning",
-   "secondary_keywords": [
-    "Aidrah meaning",
-    "Aidrah origin",
-    "Aidrah pronunciation",
-    "Aidrah lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/aidrah",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Are there variant spellings of Aidrah?",
-     "a": "Variant spellings of Aidrah are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Aidrah a common name?",
-     "a": "Popularity figures for Aidrah have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Aidrah say about a child?",
-     "a": "The name Aidrah expresses “Nourishment, Sustenance”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Aidrah be used in another language?",
-     "a": "Aidrah is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Aidrah mentioned in scripture?",
-     "a": "No scriptural reference for Aidrah has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Aidrah?",
-     "a": "The Pythagorean lucky number for Aidrah is 5 (ruling planet Mercury). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Aidrah?",
-     "a": "Wednesday is the traditional association for Aidrah. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Aidrah?",
-     "a": "Emerald is the traditional association for Aidrah. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Aidrah?",
-     "a": "Green, Turquoise are the traditional associations for Aidrah. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Aidrah?",
-     "a": "In Pythagorean numerology the letters of Aidrah total 32, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-    },
-    {
-     "q": "How reliable is the meaning given for Aidrah?",
-     "a": "The meaning of Aidrah carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Aidrah have a religious meaning?",
-     "a": "Aidrah is recorded as a islamic name meaning “Nourishment, Sustenance”."
-    }
-   ]
-  },
-  "seo_title": "Aidrah Name Meaning – Nourishment, Sustenance (Arabic)",
-  "meta_description": "Aidrah is a Arabic name meaning “Nourishment, Sustenance”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Aidrah",
-   "Aidrah name meaning",
-   "Aidrah meaning",
-   "Aidrah origin",
-   "Aidrah root",
-   "Aidrah pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/aidrah",
-  "intro_paragraph": "Aidrah is a Arabic name meaning “Nourishment, Sustenance”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Aidrah",
-   "description": "Aidrah — Nourishment, Sustenance",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Aidrah?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Aidrah are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aidrah a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Aidrah have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Aidrah say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Aidrah expresses “Nourishment, Sustenance”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Aidrah be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aidrah is recorded in Arabic; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aidrah mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Aidrah has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Aidrah?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Aidrah is 5 (ruling planet Mercury). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Aidrah?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Wednesday is the traditional association for Aidrah. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Aidrah?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Emerald is the traditional association for Aidrah. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Aidrah?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Green, Turquoise are the traditional associations for Aidrah. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Aidrah?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Aidrah total 32, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Aidrah?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Aidrah carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Aidrah have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aidrah is recorded as a islamic name meaning “Nourishment, Sustenance”."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Aidrah",
-     "item": "https://namemeaning.example/name/aidrah"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-12-22T19:19:49.901Z",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Aidrah",
-   "slug": "aidrah",
-   "meaning": "Nourishment, Sustenance",
-   "origin": "Arabic",
-   "language": [
-    "Arabic",
-    "English"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Aidrah",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Nourishment, Sustenance",
-   "long_meaning": "The name Aidrah is recorded with the meaning “Nourishment, Sustenance”. Aidrah is a Arabic name meaning “Nourishment, Sustenance”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Aidrah",
-     "meaning": "Nourishment, Sustenance",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "AY-drah",
-    "ipa": "/ˈɑːɪdrɑː/"
-   },
-   "syllables": 2,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "Are there variant spellings of Aidrah?",
-     "a": "Variant spellings of Aidrah are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Aidrah a common name?",
-     "a": "Popularity figures for Aidrah have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Aidrah say about a child?",
-     "a": "The name Aidrah expresses “Nourishment, Sustenance”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Aidrah be used in another language?",
-     "a": "Aidrah is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Aidrah mentioned in scripture?",
-     "a": "No scriptural reference for Aidrah has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Aidrah?",
-     "a": "The Pythagorean lucky number for Aidrah is 5 (ruling planet Mercury). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Aidrah?",
-     "a": "Wednesday is the traditional association for Aidrah. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Aidrah?",
-     "a": "Emerald is the traditional association for Aidrah. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Aidrah?",
-     "a": "Green, Turquoise are the traditional associations for Aidrah. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Aidrah?",
-     "a": "In Pythagorean numerology the letters of Aidrah total 32, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-    },
-    {
-     "q": "How reliable is the meaning given for Aidrah?",
-     "a": "The meaning of Aidrah carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Aidrah have a religious meaning?",
-     "a": "Aidrah is recorded as a islamic name meaning “Nourishment, Sustenance”."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 5,
-    "life_path_number": 5,
-    "ruling_planet": "Mercury",
-    "lucky_day": "Wednesday",
-    "lucky_stone": "Emerald",
-    "lucky_colors": [
-     "Green",
-     "Turquoise"
+  "success": true,
+  "data": {
+    "name": "Aidrah",
+    "slug": "aidrah",
+    "language": [
+      "Arabic",
+      "English"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Aidrah total 32, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Aidrah is used as a unisex name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Nourishment, Sustenance",
+    "long_meaning": "The meaning of Aidrah is recorded in name-lists as “Nourishment, Sustenance”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Aidrah expresses “Nourishment, Sustenance”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Arabic",
+    "root_letters": "a-i-d-r-a-h",
+    "syllables": 2,
+    "name_length": 6,
+    "transliteration": [
+      "Aidrah"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Wednesday",
+    "lucky_colors": [
+      "Green",
+      "Turquoise"
+    ],
+    "lucky_stone": "Emerald",
+    "ruling_planet": "Mercury",
+    "life_path_number": 5,
+    "numerology_meaning": "In Pythagorean numerology the letters of Aidrah total 32, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
+    "in_arabic": {
+      "name": "عيدة",
+      "meaning": "Nourishment, Sustenance",
+      "long_meaning": "Nourishment, Sustenance"
+    },
+    "in_urdu": {
+      "name": "عیدرا",
+      "meaning": "Nourishment, Sustenance",
+      "long_meaning": "Nourishment, Sustenance"
+    },
+    "in_hindi": {
+      "name": "ऐद्रा",
+      "meaning": "Nourishment, Sustenance",
+      "long_meaning": "Nourishment, Sustenance"
+    },
+    "in_pashto": {
+      "name": "عیدره",
+      "meaning": "Nourishment, Sustenance",
+      "long_meaning": "Nourishment, Sustenance"
+    },
+    "in_english": {
+      "name": "Aidrah",
+      "meaning": "Nourishment, Sustenance",
+      "long_meaning": "Nourishment, Sustenance"
+    },
+    "pronunciation": {
+      "english": "AY-drah",
+      "urdu": "عیدرا کا تلفظ ہے /عَی-دَرا/",
+      "hindi": "ऐद्रा का उच्चारण है /ऐ-ड्रा/",
+      "pashto": "/عیدره د تلفظ دی/ عَی-دره",
+      "ipa": "/ˈɑːɪdrɑː/"
+    },
+    "name_variations": [
+      "Aidrah"
+    ],
+    "variants": [
+      "Aidrah"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Aidrah is used in Arabic naming tradition with the meaning “Nourishment, Sustenance”.",
+    "spiritual_significance": "Any spiritual significance attached to Aidrah is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Nourishment, Sustenance” is the basis of any symbolism attached to Aidrah; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "No Qur'anic reference for Aidrah has been verified."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Aidrah."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AidrahMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Aidrah"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Aidrah",
+          "description": "Discover the meaning of Aidrah - \"Nourishment, Sustenance\"",
+          "image": "/images/social/aidrah-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Aidrah - Name Meaning",
+          "description": "Learn about the beautiful name Aidrah",
+          "image": "/images/social/aidrah-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Aidrah",
+          "description": "Name meaning: Nourishment, Sustenance",
+          "image": "/images/social/aidrah-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Aidrah - Meaning: Nourishment, Sustenance",
+        "email_subject": "Beautiful Name: Aidrah"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Aidrah with meaning Nourishment, Sustenance",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Aidrah Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Aidrah has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Aidrah, Aidrah name meaning, Aidrah meaning, Aidrah origin, Aidrah root, Aidrah pronunciation, Arabic names",
+      "description_paragraph": "The meaning of Aidrah has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Aidrah",
+        "Aidrah name meaning",
+        "Aidrah meaning",
+        "Aidrah origin",
+        "Aidrah root",
+        "Aidrah pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Aidrah name meaning",
+      "secondary_keywords": [
+        "Aidrah meaning",
+        "Aidrah origin",
+        "Aidrah pronunciation",
+        "Aidrah lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Aidrah mean?",
+          "a": "Name-lists record the meaning as “Nourishment, Sustenance”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Aidrah verified?",
+          "a": "No. The meaning of Aidrah could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Aidrah come from?",
+          "a": "The origin of Aidrah has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Aidrah Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Aidrah has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Aidrah",
+      "Aidrah name meaning",
+      "Aidrah meaning",
+      "Aidrah origin",
+      "Aidrah root",
+      "Aidrah pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Aidrah has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Aidrah",
+      "description": "Aidrah — Nourishment, Sustenance",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Aidrah mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Nourishment, Sustenance”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Aidrah verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Aidrah could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Aidrah come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Aidrah has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 70
+    },
+    "created_at": "2025-12-22T19:19:49.901Z",
+    "updated_at": "2026-10-01T04:04:28.000Z",
+    "tier1_verified": {
+      "name": "Aidrah",
+      "slug": "aidrah",
+      "meaning": "Nourishment, Sustenance",
+      "origin": "Arabic",
+      "language": [
+        "Arabic",
+        "English"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Aidrah",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Nourishment, Sustenance",
+      "long_meaning": "The name Aidrah is recorded with the meaning “Nourishment, Sustenance”. Aidrah is a Arabic name meaning “Nourishment, Sustenance”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Aidrah",
+          "meaning": "Nourishment, Sustenance",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "AY-drah",
+        "ipa": "/ˈɑːɪdrɑː/"
+      },
+      "syllables": 2,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Aidrah mean?",
+          "a": "Name-lists record the meaning as “Nourishment, Sustenance”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Aidrah verified?",
+          "a": "No. The meaning of Aidrah could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Aidrah come from?",
+          "a": "The origin of Aidrah has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 5,
+        "life_path_number": 5,
+        "ruling_planet": "Mercury",
+        "lucky_day": "Wednesday",
+        "lucky_stone": "Emerald",
+        "lucky_colors": [
+          "Green",
+          "Turquoise"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Aidrah total 32, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:28.000Z"
+    }
   }
- }
 }

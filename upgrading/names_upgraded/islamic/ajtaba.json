@@ -1,549 +1,388 @@
 {
- "success": true,
- "data": {
-  "name": "Ajtaba",
-  "slug": "ajtaba",
-  "language": [
-   "Arabic",
-   "Urdu",
-   "Persian",
-   "Pashto"
-  ],
-  "gender": "Male",
-  "gender_notes": "Ajtaba is used as a male name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Unseen",
-  "long_meaning": "The name Ajtaba is recorded with the meaning “Unseen”. Ajtaba is a Arabic name meaning “Unseen”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Ajtaba expresses “Unseen”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Ajtaba is recorded with the meaning “Unseen”. Ajtaba is a Arabic name meaning “Unseen”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-j-t-a-b-a",
-  "syllables": 3,
-  "name_length": 6,
-  "transliteration": [
-   "Ajtaba"
-  ],
-  "lucky_number": 8,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Blue",
-   "Black"
-  ],
-  "lucky_stone": "Blue Sapphire",
-  "ruling_planet": "Saturn",
-  "life_path_number": 8,
-  "numerology_meaning": "In Pythagorean numerology the letters of Ajtaba total 8, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-  "in_arabic": {
-   "name": "أجتابى",
-   "meaning": "اسم مشتق من أجتاب و معناه المرتفع العالي الشرف",
-   "long_meaning": "أجتابى هو اسم علم مذكر من أصل عربي و معناه المرتفع العالي الشرف، المتميز بالشجاعة و الرفعة. و يعود أصل الاسم إلى الفعل أجتاب الذي يعني ارتفع و علا. و قد ورد في القرآن الكريم ذكر الفعل أجتاب في عدة مواضع، منها قوله تعالى: 'وَأَجْتَابَ عَنِ الْمُسْلِمِينَ'، و هذا يدل على معنى الاسم الذي يحمل صفات الرفعة و الشرف."
-  },
-  "in_urdu": {
-   "name": "اجتابی",
-   "meaning": "مرتفع، عالی الشرف، شجاع اور بلند کردار",
-   "long_meaning": "اجتابی ایک مذکر نام ہے جو عربی زبان سے ماخوذ ہے۔ اس کا مطلب مرتفع، عالی الشرف، شجاع اور بلند کردار ہے۔ یہ نام عربی جڑوں سے ماخوذ ہے جہاں 'أجتاب' کا مطلب ہے 'مرتفع' یا 'عالیشرف'۔ اسلامی روایت میں، یہ نام ان خوبیوں کی نمائندگی کرتا ہے جن کی ایک مسلمان کو حامل ہونا چاہئے، جیسے کہ عزت، شجاعت، اور روحانی بلندی۔"
-  },
-  "in_hindi": {
-   "name": "अजताबी",
-   "meaning": "उच्च, उच्च सम्मान, वीर और महान चरित्र",
-   "long_meaning": "अजताबी एक पुल्लिंग नाम है जो अरबी भाषा से लिया गया है। इसका अर्थ उच्च, उच्च सम्मान, वीर और महान चरित्र है। यह नाम अरबी मूल से लिया गया है जहां 'أجتاب' का अर्थ है 'उच्च' या 'उच्च सम्मान'। इस्लामी परंपरा में, यह नाम उन गुणों का प्रतिनिधित्व करता है जो एक मुसलमान को धारण करना चाहिए, जैसे कि सम्मान, वीरता और आध्यात्मिक उन्नति।"
-  },
-  "in_pashto": {
-   "name": "اجتابي",
-   "meaning": "لوړ، لوړ شان، منښتګر او سترګ",
-   "long_meaning": "اجتابي د مذکر نوم دی چی د عربي ژبې نه اخيستل شوی دی. دغه نوم معنی یې لوړ، لوړ شان، منښتګر او سترګ دی. دا نوم د عربي ريښو نه اخيستل شوی دی چي 'أجتاب' د 'لوړ' يا 'لوړ شان' معنی لري. په اسلامي دود کې، دا نوم هغه ځانګړتیاوې څرګندوي چې يو مسلمان بايد ولري، لکه عزت، منښت، او روحاني لوړتيا."
-  },
-  "in_english": {
-   "name": "Ajtaba",
-   "meaning": "Unseen",
-   "long_meaning": "The name Ajtaba is recorded with the meaning “Unseen”. Ajtaba is a Arabic name meaning “Unseen”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "ahj-TAH-bah",
-   "urdu": "اجتابی کا تلفظ (ahj-TAH-bee)",
-   "hindi": "अजताबी का उच्चारण (ahj-TAH-bee)",
-   "pashto": "د اجتابي تلفظ (ahj-TAH-bee)",
-   "ipa": "/ɑːdʒˈtɑːbɑː/"
-  },
-  "name_variations": [
-   "Ajtaba"
-  ],
-  "variants": [
-   "Ajtaba"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Ajtaba is used in Arabic naming tradition with the meaning “Unseen”.",
-  "spiritual_significance": "Any spiritual significance attached to Ajtaba is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Unseen” is the basis of any symbolism attached to Ajtaba; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Ajtaba has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Ajtaba."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AjtabaMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Ajtaba"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Ajtaba",
-     "description": "Discover the meaning of Ajtaba - \"Unseen\"",
-     "image": "/images/social/ajtaba-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Ajtaba - Name Meaning",
-     "description": "Learn about the beautiful name Ajtaba",
-     "image": "/images/social/ajtaba-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Ajtaba",
-     "description": "Name meaning: Unseen",
-     "image": "/images/social/ajtaba-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Ajtaba - Meaning: Unseen",
-    "email_subject": "Beautiful Name: Ajtaba"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Ajtaba with meaning Unseen",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Ajtaba Name Meaning – Unseen (Arabic)",
-   "meta_description": "Ajtaba is a Arabic name meaning “Unseen”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Ajtaba, Ajtaba name meaning, Ajtaba meaning, Ajtaba origin, Ajtaba root, Ajtaba pronunciation, Arabic names",
-   "description_paragraph": "Ajtaba is a Arabic name meaning “Unseen”.",
-   "keywords": [
-    "Ajtaba",
-    "Ajtaba name meaning",
-    "Ajtaba meaning",
-    "Ajtaba origin",
-    "Ajtaba root",
-    "Ajtaba pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Ajtaba name meaning",
-   "secondary_keywords": [
-    "Ajtaba meaning",
-    "Ajtaba origin",
-    "Ajtaba pronunciation",
-    "Ajtaba lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/ajtaba",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Is Ajtaba a male name?",
-     "a": "Ajtaba is used as a male name."
-    },
-    {
-     "q": "How many syllables does Ajtaba have?",
-     "a": "Ajtaba has 3 syllables."
-    },
-    {
-     "q": "How is Ajtaba pronounced?",
-     "a": "Ajtaba is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Ajtaba?",
-     "a": "Any spiritual significance attached to Ajtaba is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Ajtaba?",
-     "a": "Variant spellings of Ajtaba are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Ajtaba a common name?",
-     "a": "Popularity figures for Ajtaba have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Ajtaba say about a child?",
-     "a": "The name Ajtaba expresses “Unseen”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Ajtaba be used in another language?",
-     "a": "Ajtaba is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Ajtaba mentioned in scripture?",
-     "a": "No scriptural reference for Ajtaba has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Ajtaba?",
-     "a": "The Pythagorean lucky number for Ajtaba is 8 (ruling planet Saturn). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Ajtaba?",
-     "a": "Saturday is the traditional association for Ajtaba. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Ajtaba?",
-     "a": "Blue Sapphire is the traditional association for Ajtaba. This is interpretive."
-    }
-   ]
-  },
-  "seo_title": "Ajtaba Name Meaning – Unseen (Arabic)",
-  "meta_description": "Ajtaba is a Arabic name meaning “Unseen”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Ajtaba",
-   "Ajtaba name meaning",
-   "Ajtaba meaning",
-   "Ajtaba origin",
-   "Ajtaba root",
-   "Ajtaba pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/ajtaba",
-  "intro_paragraph": "Ajtaba is a Arabic name meaning “Unseen”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Ajtaba",
-   "description": "Ajtaba — Unseen",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Is Ajtaba a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ajtaba is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Ajtaba have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ajtaba has 3 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Ajtaba pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ajtaba is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Ajtaba?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Ajtaba is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Ajtaba?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Ajtaba are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Ajtaba a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Ajtaba have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Ajtaba say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Ajtaba expresses “Unseen”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Ajtaba be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ajtaba is recorded in Arabic; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Ajtaba mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Ajtaba has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Ajtaba?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Ajtaba is 8 (ruling planet Saturn). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Ajtaba?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Saturday is the traditional association for Ajtaba. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Ajtaba?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Blue Sapphire is the traditional association for Ajtaba. This is interpretive."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Ajtaba",
-     "item": "https://namemeaning.example/name/ajtaba"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 50,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-12-22T19:19:49.93Z",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Ajtaba",
-   "slug": "ajtaba",
-   "meaning": "Unseen",
-   "origin": "Arabic",
-   "language": [
-    "Arabic",
-    "Urdu",
-    "Persian",
-    "Pashto"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Ajtaba",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Unseen",
-   "long_meaning": "The name Ajtaba is recorded with the meaning “Unseen”. Ajtaba is a Arabic name meaning “Unseen”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Ajtaba",
-     "meaning": "Unseen",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "ahj-TAH-bah",
-    "ipa": "/ɑːdʒˈtɑːbɑː/"
-   },
-   "syllables": 3,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "Is Ajtaba a male name?",
-     "a": "Ajtaba is used as a male name."
-    },
-    {
-     "q": "How many syllables does Ajtaba have?",
-     "a": "Ajtaba has 3 syllables."
-    },
-    {
-     "q": "How is Ajtaba pronounced?",
-     "a": "Ajtaba is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Ajtaba?",
-     "a": "Any spiritual significance attached to Ajtaba is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Ajtaba?",
-     "a": "Variant spellings of Ajtaba are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Ajtaba a common name?",
-     "a": "Popularity figures for Ajtaba have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Ajtaba say about a child?",
-     "a": "The name Ajtaba expresses “Unseen”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Ajtaba be used in another language?",
-     "a": "Ajtaba is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Ajtaba mentioned in scripture?",
-     "a": "No scriptural reference for Ajtaba has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Ajtaba?",
-     "a": "The Pythagorean lucky number for Ajtaba is 8 (ruling planet Saturn). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Ajtaba?",
-     "a": "Saturday is the traditional association for Ajtaba. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Ajtaba?",
-     "a": "Blue Sapphire is the traditional association for Ajtaba. This is interpretive."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 8,
-    "life_path_number": 8,
-    "ruling_planet": "Saturn",
-    "lucky_day": "Saturday",
-    "lucky_stone": "Blue Sapphire",
-    "lucky_colors": [
-     "Blue",
-     "Black"
+  "success": true,
+  "data": {
+    "name": "Ajtaba",
+    "slug": "ajtaba",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Ajtaba total 8, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Ajtaba is used as a male name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Unseen",
+    "long_meaning": "The meaning of Ajtaba is recorded in name-lists as “Unseen”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Ajtaba expresses “Unseen”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Arabic",
+    "root_letters": "a-j-t-a-b-a",
+    "syllables": 3,
+    "name_length": 6,
+    "transliteration": [
+      "Ajtaba"
+    ],
+    "lucky_number": 8,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Blue",
+      "Black"
+    ],
+    "lucky_stone": "Blue Sapphire",
+    "ruling_planet": "Saturn",
+    "life_path_number": 8,
+    "numerology_meaning": "In Pythagorean numerology the letters of Ajtaba total 8, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
+    "in_arabic": {
+      "name": "أجتابى",
+      "meaning": "Unseen",
+      "long_meaning": "Unseen"
+    },
+    "in_urdu": {
+      "name": "اجتابی",
+      "meaning": "Unseen",
+      "long_meaning": "Unseen"
+    },
+    "in_hindi": {
+      "name": "अजताबी",
+      "meaning": "Unseen",
+      "long_meaning": "Unseen"
+    },
+    "in_pashto": {
+      "name": "اجتابي",
+      "meaning": "Unseen",
+      "long_meaning": "Unseen"
+    },
+    "in_english": {
+      "name": "Ajtaba",
+      "meaning": "Unseen",
+      "long_meaning": "Unseen"
+    },
+    "pronunciation": {
+      "english": "ahj-TAH-bah",
+      "urdu": "اجتابی کا تلفظ (ahj-TAH-bee)",
+      "hindi": "अजताबी का उच्चारण (ahj-TAH-bee)",
+      "pashto": "د اجتابي تلفظ (ahj-TAH-bee)",
+      "ipa": "/ɑːdʒˈtɑːbɑː/"
+    },
+    "name_variations": [
+      "Ajtaba"
+    ],
+    "variants": [
+      "Ajtaba"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Ajtaba is used in Arabic naming tradition with the meaning “Unseen”.",
+    "spiritual_significance": "Any spiritual significance attached to Ajtaba is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Unseen” is the basis of any symbolism attached to Ajtaba; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "No Qur'anic reference for Ajtaba has been verified."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Ajtaba."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AjtabaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Ajtaba"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Ajtaba",
+          "description": "Discover the meaning of Ajtaba - \"Unseen\"",
+          "image": "/images/social/ajtaba-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Ajtaba - Name Meaning",
+          "description": "Learn about the beautiful name Ajtaba",
+          "image": "/images/social/ajtaba-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Ajtaba",
+          "description": "Name meaning: Unseen",
+          "image": "/images/social/ajtaba-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Ajtaba - Meaning: Unseen",
+        "email_subject": "Beautiful Name: Ajtaba"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Ajtaba with meaning Unseen",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Ajtaba Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Ajtaba has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Ajtaba, Ajtaba name meaning, Ajtaba meaning, Ajtaba origin, Ajtaba root, Ajtaba pronunciation, Arabic names",
+      "description_paragraph": "The meaning of Ajtaba has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Ajtaba",
+        "Ajtaba name meaning",
+        "Ajtaba meaning",
+        "Ajtaba origin",
+        "Ajtaba root",
+        "Ajtaba pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Ajtaba name meaning",
+      "secondary_keywords": [
+        "Ajtaba meaning",
+        "Ajtaba origin",
+        "Ajtaba pronunciation",
+        "Ajtaba lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Ajtaba mean?",
+          "a": "Name-lists record the meaning as “Unseen”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Ajtaba verified?",
+          "a": "No. The meaning of Ajtaba could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Ajtaba come from?",
+          "a": "The origin of Ajtaba has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Ajtaba Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Ajtaba has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Ajtaba",
+      "Ajtaba name meaning",
+      "Ajtaba meaning",
+      "Ajtaba origin",
+      "Ajtaba root",
+      "Ajtaba pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Ajtaba has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Ajtaba",
+      "description": "Ajtaba — Unseen",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Ajtaba mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Unseen”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Ajtaba verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Ajtaba could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Ajtaba come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Ajtaba has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 50,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 70
+    },
+    "created_at": "2025-12-22T19:19:49.93Z",
+    "updated_at": "2026-10-01T04:04:31.000Z",
+    "tier1_verified": {
+      "name": "Ajtaba",
+      "slug": "ajtaba",
+      "meaning": "Unseen",
+      "origin": "Arabic",
+      "language": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Ajtaba",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Unseen",
+      "long_meaning": "The name Ajtaba is recorded with the meaning “Unseen”. Ajtaba is a Arabic name meaning “Unseen”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Ajtaba",
+          "meaning": "Unseen",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "ahj-TAH-bah",
+        "ipa": "/ɑːdʒˈtɑːbɑː/"
+      },
+      "syllables": 3,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Ajtaba mean?",
+          "a": "Name-lists record the meaning as “Unseen”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Ajtaba verified?",
+          "a": "No. The meaning of Ajtaba could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Ajtaba come from?",
+          "a": "The origin of Ajtaba has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 8,
+        "life_path_number": 8,
+        "ruling_planet": "Saturn",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Blue Sapphire",
+        "lucky_colors": [
+          "Blue",
+          "Black"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Ajtaba total 8, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:31.000Z"
+    }
   }
- }
 }

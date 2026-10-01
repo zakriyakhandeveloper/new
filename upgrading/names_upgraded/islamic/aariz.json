@@ -1,549 +1,388 @@
 {
- "success": true,
- "data": {
-  "name": "Aariz",
-  "slug": "aariz",
-  "language": [
-   "English",
-   "Urdu",
-   "Hindi",
-   "Arabic"
-  ],
-  "gender": "Male",
-  "gender_notes": "Aariz is used as a male name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Respectable, Intelligent",
-  "long_meaning": "The name Aariz is recorded with the meaning “Respectable, Intelligent”. Aariz is a Arabic name meaning “Respectable, Intelligent”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Aariz expresses “Respectable, Intelligent”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Aariz is recorded with the meaning “Respectable, Intelligent”. Aariz is a Arabic name meaning “Respectable, Intelligent”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-a-r-i-z",
-  "syllables": 2,
-  "name_length": 5,
-  "transliteration": [
-   "Aariz"
-  ],
-  "lucky_number": 1,
-  "lucky_day": "Sunday",
-  "lucky_colors": [
-   "Gold",
-   "Orange"
-  ],
-  "lucky_stone": "Ruby",
-  "ruling_planet": "Sun",
-  "life_path_number": 1,
-  "numerology_meaning": "In Pythagorean numerology the letters of Aariz total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
-  "in_arabic": {
-   "name": "عارض",
-   "meaning": "العارض يعني الشخص الذي يأتي بالغيوم أو المطر",
-   "long_meaning": "العارض هو اسم علم مذكر من أصل عربي، ويعني الشخص الذي يأتي بالغيوم أو المطر، وقد وردت هذه الكلمة في القرآن الكريم في سورة الفرقان الآية 2: ﴿أَلَا تَعْلَمُ أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَلَا يَخْفَى عَلَى اللَّهِ شَيْءٌ﴾، وقد ذكر بعض المفسرين أن العارض هو الذي يتحكم في الأمطار والغيوم. ولهذا الاسم دلالة على القدرة والسيطرة."
-  },
-  "in_urdu": {
-   "name": "عارض",
-   "meaning": "عارض کا مطلب ہے وہ شخص جو بادل یا بارش لاتا ہے",
-   "long_meaning": "عارض ایک مذکر اسم ہے جو عربی زبان سے نکلا ہے۔ اس کا مطلب ہے وہ شخص جو بادل یا بارش لاتا ہے۔ عربی میں اس جیسے الفاظ قرآن کریم میں فرقان کے سورة آیہ 2 میں ذکر کیے گئے ہیں: ﴿أَلَا تَعْلَمُ أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَلَا يَخْفَى عَلَى اللَّهِ شَيْءٌ﴾، جہاں بعض مفسرین نے وضاحت کی ہے کہ عارض وہ ہے جو بارشوں اور بادلوں کو کنٹرول کرتا ہے۔ اس نام کا تعلق قدرت اور قابو پانے کی نشاندہی کرتا ہے۔"
-  },
-  "in_hindi": {
-   "name": "आरिज़",
-   "meaning": "आरिज़ का अर्थ है बादल या बारिश लाने वाला व्यक्ति",
-   "long_meaning": "आरिज़ एक पुरुष नाम है जो अरबी भाषा से आया है। इसका अर्थ है बादल या बारिश लाने वाला व्यक्ति। अरबी में इस तरह के शब्द कुरआन में सूरा अल-फ़ुरकान आयत 2 में उल्लेखित हैं: ﴿أَلَا تَعْلَمُ أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَلَا يَخْفَى عَلَى اللَّهِ شَيْءٌ﴾, जहाँ कुछ व्याख्याकारों ने बताया है कि आरिज़ वह है जो बारिश और बादलों को नियंत्रित करता है। इस नाम का संबंध शक्ति और नियंत्रण की ओर संकेत करता है।"
-  },
-  "in_pashto": {
-   "name": "عارض",
-   "meaning": "عارض د بادل یا باران راوړونکی شخص معنی",
-   "long_meaning": "عارض یو مذکر نوم دی چی د عربی ژبې څخه اخیستل شوی دی. دغه نوم د بادل یا باران راوړونکی شخص معنی دی. په عربی کی داسی کلمات د قرآن کریم د فرقان سورت ایت 2 کی ذکر شوي دي: ﴿أَلَا تَعْلَمُ أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَلَا يَخْفَى عَلَى اللَّهِ شَيْءٌ﴾، چیرې ځینو مبصرینو ویلي چې عارض هغه دی چی باران او بادل کنټرولوي. ددی نوم مطلب د قدرت او قابو پاتې په ګوته کې اشاره کوي."
-  },
-  "in_english": {
-   "name": "Aariz",
-   "meaning": "Respectable, Intelligent",
-   "long_meaning": "The name Aariz is recorded with the meaning “Respectable, Intelligent”. Aariz is a Arabic name meaning “Respectable, Intelligent”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "Ah-rriz",
-   "urdu": "اردو میں تلفظ کی تفصیل: عارِض",
-   "hindi": "हिन्दी में उच्चारण विवरण: आरिज़",
-   "pashto": "په پښتو کې د تلفظ تفصیل: عارِض",
-   "ipa": "/ˈɑː.rɪz/"
-  },
-  "name_variations": [
-   "Aariz"
-  ],
-  "variants": [
-   "Aariz"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Aariz is used in Arabic naming tradition with the meaning “Respectable, Intelligent”.",
-  "spiritual_significance": "Any spiritual significance attached to Aariz is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Respectable, Intelligent” is the basis of any symbolism attached to Aariz; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Aariz has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Aariz."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AarizMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Aariz"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Aariz",
-     "description": "Discover the meaning of Aariz - \"Respectable, Intelligent\"",
-     "image": "/images/social/aariz-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Aariz - Name Meaning",
-     "description": "Learn about the beautiful name Aariz",
-     "image": "/images/social/aariz-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Aariz",
-     "description": "Name meaning: Respectable, Intelligent",
-     "image": "/images/social/aariz-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Aariz - Meaning: Respectable, Intelligent",
-    "email_subject": "Beautiful Name: Aariz"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Aariz with meaning Respectable, Intelligent",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Aariz Name Meaning – Respectable, Intelligent (Arabic)",
-   "meta_description": "Aariz is a Arabic name meaning “Respectable, Intelligent”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Aariz, Aariz name meaning, Aariz meaning, Aariz origin, Aariz root, Aariz pronunciation, Arabic names",
-   "description_paragraph": "Aariz is a Arabic name meaning “Respectable, Intelligent”.",
-   "keywords": [
-    "Aariz",
-    "Aariz name meaning",
-    "Aariz meaning",
-    "Aariz origin",
-    "Aariz root",
-    "Aariz pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Aariz name meaning",
-   "secondary_keywords": [
-    "Aariz meaning",
-    "Aariz origin",
-    "Aariz pronunciation",
-    "Aariz lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/aariz",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Which gemstone is associated with Aariz?",
-     "a": "Ruby is the traditional association for Aariz. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Aariz?",
-     "a": "Gold, Orange are the traditional associations for Aariz. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Aariz?",
-     "a": "In Pythagorean numerology the letters of Aariz total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-    },
-    {
-     "q": "How reliable is the meaning given for Aariz?",
-     "a": "The meaning of Aariz carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Aariz have a religious meaning?",
-     "a": "Aariz is recorded as a islamic name meaning “Respectable, Intelligent”."
-    },
-    {
-     "q": "What is the English meaning of Aariz?",
-     "a": "In English, Aariz is rendered as “Respectable, Intelligent”."
-    },
-    {
-     "q": "Is Aariz suitable for a baby?",
-     "a": "Aariz is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Aariz?",
-     "a": "Aariz is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Aariz?",
-     "a": "Aariz is used in Arabic naming traditions."
-    },
-    {
-     "q": "Does Aariz have a positive meaning?",
-     "a": "Aariz carries the meaning “Respectable, Intelligent”."
-    },
-    {
-     "q": "What does the name Aariz mean?",
-     "a": "Aariz means “Respectable, Intelligent”."
-    },
-    {
-     "q": "What is the origin of the name Aariz?",
-     "a": "Aariz is of Arabic origin."
-    }
-   ]
-  },
-  "seo_title": "Aariz Name Meaning – Respectable, Intelligent (Arabic)",
-  "meta_description": "Aariz is a Arabic name meaning “Respectable, Intelligent”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Aariz",
-   "Aariz name meaning",
-   "Aariz meaning",
-   "Aariz origin",
-   "Aariz root",
-   "Aariz pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/aariz",
-  "intro_paragraph": "Aariz is a Arabic name meaning “Respectable, Intelligent”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Aariz",
-   "description": "Aariz — Respectable, Intelligent",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Aariz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ruby is the traditional association for Aariz. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Aariz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Gold, Orange are the traditional associations for Aariz. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Aariz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Aariz total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Aariz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Aariz carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Aariz have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aariz is recorded as a islamic name meaning “Respectable, Intelligent”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Aariz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Aariz is rendered as “Respectable, Intelligent”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aariz suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aariz is used as a male given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Aariz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aariz is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Aariz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aariz is used in Arabic naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Aariz have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aariz carries the meaning “Respectable, Intelligent”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Aariz mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aariz means “Respectable, Intelligent”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Aariz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aariz is of Arabic origin."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Aariz",
-     "item": "https://namemeaning.example/name/aariz"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-06-29T07:47:12+05:00",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Aariz",
-   "slug": "aariz",
-   "meaning": "Respectable, Intelligent",
-   "origin": "Arabic",
-   "language": [
-    "English",
-    "Urdu",
-    "Hindi",
-    "Arabic"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Aariz",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Respectable, Intelligent",
-   "long_meaning": "The name Aariz is recorded with the meaning “Respectable, Intelligent”. Aariz is a Arabic name meaning “Respectable, Intelligent”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Aariz",
-     "meaning": "Respectable, Intelligent",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "Ah-rriz",
-    "ipa": "/ˈɑː.rɪz/"
-   },
-   "syllables": 2,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "Which gemstone is associated with Aariz?",
-     "a": "Ruby is the traditional association for Aariz. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Aariz?",
-     "a": "Gold, Orange are the traditional associations for Aariz. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Aariz?",
-     "a": "In Pythagorean numerology the letters of Aariz total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-    },
-    {
-     "q": "How reliable is the meaning given for Aariz?",
-     "a": "The meaning of Aariz carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Aariz have a religious meaning?",
-     "a": "Aariz is recorded as a islamic name meaning “Respectable, Intelligent”."
-    },
-    {
-     "q": "What is the English meaning of Aariz?",
-     "a": "In English, Aariz is rendered as “Respectable, Intelligent”."
-    },
-    {
-     "q": "Is Aariz suitable for a baby?",
-     "a": "Aariz is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Aariz?",
-     "a": "Aariz is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Aariz?",
-     "a": "Aariz is used in Arabic naming traditions."
-    },
-    {
-     "q": "Does Aariz have a positive meaning?",
-     "a": "Aariz carries the meaning “Respectable, Intelligent”."
-    },
-    {
-     "q": "What does the name Aariz mean?",
-     "a": "Aariz means “Respectable, Intelligent”."
-    },
-    {
-     "q": "What is the origin of the name Aariz?",
-     "a": "Aariz is of Arabic origin."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 1,
-    "life_path_number": 1,
-    "ruling_planet": "Sun",
-    "lucky_day": "Sunday",
-    "lucky_stone": "Ruby",
-    "lucky_colors": [
-     "Gold",
-     "Orange"
+  "success": true,
+  "data": {
+    "name": "Aariz",
+    "slug": "aariz",
+    "language": [
+      "English",
+      "Urdu",
+      "Hindi",
+      "Arabic"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Aariz total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Aariz is used as a male name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Respectable, Intelligent",
+    "long_meaning": "The meaning of Aariz is recorded in name-lists as “Respectable, Intelligent”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Aariz expresses “Respectable, Intelligent”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Arabic",
+    "root_letters": "a-a-r-i-z",
+    "syllables": 2,
+    "name_length": 5,
+    "transliteration": [
+      "Aariz"
+    ],
+    "lucky_number": 1,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Gold",
+      "Orange"
+    ],
+    "lucky_stone": "Ruby",
+    "ruling_planet": "Sun",
+    "life_path_number": 1,
+    "numerology_meaning": "In Pythagorean numerology the letters of Aariz total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
+    "in_arabic": {
+      "name": "عارض",
+      "meaning": "Respectable, Intelligent",
+      "long_meaning": "Respectable, Intelligent"
+    },
+    "in_urdu": {
+      "name": "عارض",
+      "meaning": "Respectable, Intelligent",
+      "long_meaning": "Respectable, Intelligent"
+    },
+    "in_hindi": {
+      "name": "आरिज़",
+      "meaning": "Respectable, Intelligent",
+      "long_meaning": "Respectable, Intelligent"
+    },
+    "in_pashto": {
+      "name": "عارض",
+      "meaning": "Respectable, Intelligent",
+      "long_meaning": "Respectable, Intelligent"
+    },
+    "in_english": {
+      "name": "Aariz",
+      "meaning": "Respectable, Intelligent",
+      "long_meaning": "Respectable, Intelligent"
+    },
+    "pronunciation": {
+      "english": "Ah-rriz",
+      "urdu": "اردو میں تلفظ کی تفصیل: عارِض",
+      "hindi": "हिन्दी में उच्चारण विवरण: आरिज़",
+      "pashto": "په پښتو کې د تلفظ تفصیل: عارِض",
+      "ipa": "/ˈɑː.rɪz/"
+    },
+    "name_variations": [
+      "Aariz"
+    ],
+    "variants": [
+      "Aariz"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Aariz is used in Arabic naming tradition with the meaning “Respectable, Intelligent”.",
+    "spiritual_significance": "Any spiritual significance attached to Aariz is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Respectable, Intelligent” is the basis of any symbolism attached to Aariz; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "No Qur'anic reference for Aariz has been verified."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Aariz."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AarizMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Aariz"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Aariz",
+          "description": "Discover the meaning of Aariz - \"Respectable, Intelligent\"",
+          "image": "/images/social/aariz-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Aariz - Name Meaning",
+          "description": "Learn about the beautiful name Aariz",
+          "image": "/images/social/aariz-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Aariz",
+          "description": "Name meaning: Respectable, Intelligent",
+          "image": "/images/social/aariz-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Aariz - Meaning: Respectable, Intelligent",
+        "email_subject": "Beautiful Name: Aariz"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Aariz with meaning Respectable, Intelligent",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Aariz Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Aariz has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Aariz, Aariz name meaning, Aariz meaning, Aariz origin, Aariz root, Aariz pronunciation, Arabic names",
+      "description_paragraph": "The meaning of Aariz has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Aariz",
+        "Aariz name meaning",
+        "Aariz meaning",
+        "Aariz origin",
+        "Aariz root",
+        "Aariz pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Aariz name meaning",
+      "secondary_keywords": [
+        "Aariz meaning",
+        "Aariz origin",
+        "Aariz pronunciation",
+        "Aariz lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Aariz mean?",
+          "a": "Name-lists record the meaning as “Respectable, Intelligent”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Aariz verified?",
+          "a": "No. The meaning of Aariz could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Aariz come from?",
+          "a": "The origin of Aariz has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Aariz Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Aariz has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Aariz",
+      "Aariz name meaning",
+      "Aariz meaning",
+      "Aariz origin",
+      "Aariz root",
+      "Aariz pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Aariz has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Aariz",
+      "description": "Aariz — Respectable, Intelligent",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Aariz mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Respectable, Intelligent”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Aariz verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Aariz could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Aariz come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Aariz has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 70
+    },
+    "created_at": "2025-06-29T07:47:12+05:00",
+    "updated_at": "2026-10-01T04:04:18.000Z",
+    "tier1_verified": {
+      "name": "Aariz",
+      "slug": "aariz",
+      "meaning": "Respectable, Intelligent",
+      "origin": "Arabic",
+      "language": [
+        "English",
+        "Urdu",
+        "Hindi",
+        "Arabic"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Aariz",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Respectable, Intelligent",
+      "long_meaning": "The name Aariz is recorded with the meaning “Respectable, Intelligent”. Aariz is a Arabic name meaning “Respectable, Intelligent”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Aariz",
+          "meaning": "Respectable, Intelligent",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "Ah-rriz",
+        "ipa": "/ˈɑː.rɪz/"
+      },
+      "syllables": 2,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Aariz mean?",
+          "a": "Name-lists record the meaning as “Respectable, Intelligent”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Aariz verified?",
+          "a": "No. The meaning of Aariz could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Aariz come from?",
+          "a": "The origin of Aariz has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 1,
+        "life_path_number": 1,
+        "ruling_planet": "Sun",
+        "lucky_day": "Sunday",
+        "lucky_stone": "Ruby",
+        "lucky_colors": [
+          "Gold",
+          "Orange"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Aariz total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:18.000Z"
+    }
   }
- }
 }

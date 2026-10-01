@@ -1,493 +1,332 @@
 {
- "success": true,
- "data": {
-  "name": "Amelie",
-  "slug": "amelie",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "female",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "short_meaning": "Industrious",
-  "long_meaning": "The name Amelie is recorded with the meaning “Industrious”. Amelie is a Biblical name meaning “Industrious”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Amelie expresses “Industrious”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "lucky_number": 9,
-  "lucky_day": "Tuesday",
-  "lucky_colors": [
-   "Red",
-   "Crimson"
-  ],
-  "lucky_stone": "Red Coral",
-  "life_path_number": 9,
-  "numerology_meaning": "In Pythagorean numerology the letters of Amelie total 27, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
-  "in_hebrew": {
-   "name": "אמליה",
-   "meaning": "אמליה - עמל, תחרות, פרודוקטיבית",
-   "long_meaning": "אמליה הוא שם שמקורו בגרמנית ומשמעותו 'עמל' או 'תחרות'. השם אמליה קשור למילה העברית 'עמל', שפירושה עבודה או מאמץ. למרות שמקורו של השם אינו תנ\"כי, הוא מקושר לערכים של חריצות ופרודוקטיביות, שמאוד מוערכים בתרבות היהודית והנוצרית."
-  },
-  "in_greek": {
-   "name": "Αμελία",
-   "meaning": "Αμελία - ανταγωνισμός, παραγωγική",
-   "long_meaning": "Το όνομα Αμελία προέρχεται από τη γερμανική γλώσσα και σημαίνει 'ανταγωνισμός' ή 'παραγωγική'. Η λέξη σχετίζεται με την έννοια της προσπάθειας και της επιμέλειας, αξίες που εκτιμώνται ιδιαίτερα στην χριστιανική παράδοση και στον δυτικό πολιτισμό."
-  },
-  "in_latin": {
-   "name": "Amelia",
-   "meaning": "Amelia - industrious, rivalry",
-   "long_meaning": "The name Amelia originates from Germanic roots, signifying 'industrious' or 'rivalry'. It embodies the virtues of diligence and competition, highly regarded in Christian tradition and Western culture. The name has been adopted into various languages, reflecting its universal appeal and positive connotations."
-  },
-  "in_english": {
-   "name": "Amelie",
-   "meaning": "Industrious",
-   "long_meaning": "The name Amelie is recorded with the meaning “Industrious”. Amelie is a Biblical name meaning “Industrious”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "Am-uh-lee",
-   "biblical": "",
-   "ipa": "/ˌæməˈliː/"
-  },
-  "celebrity_usage": [],
-  "social_tags": [
-   "#AmelieMeaning",
-   "#ChristianBabyNames",
-   "#NonBiblicalNames",
-   "#ChristianNames",
-   "#Amelie"
-  ],
-  "name_variations": [
-   "Amelie"
-  ],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "saint_reference": {
-   "is_saint_name": false,
-   "saint_name": "",
-   "note": ""
-  },
-  "cultural_impact": "Amelie is used in Biblical naming tradition with the meaning “Industrious”.",
-  "spiritual_significance": "Any spiritual significance attached to Amelie is interpretive and is labelled as such.",
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Amelie."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "spiritual_symbolism": "The meaning “Industrious” is the basis of any symbolism attached to Amelie; such symbolism is interpretive.",
-  "seo": {
-   "title": "Amelie Name Meaning – Industrious (Biblical)",
-   "meta_description": "Amelie is a Biblical name meaning “Industrious”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Amelie, Amelie name meaning, Amelie meaning, Amelie origin, Amelie root, Amelie pronunciation, Biblical names",
-   "description_paragraph": "Amelie is a Biblical name meaning “Industrious”.",
-   "keywords": [
-    "Amelie",
-    "Amelie name meaning",
-    "Amelie meaning",
-    "Amelie origin",
-    "Amelie root",
-    "Amelie pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Amelie name meaning",
-   "secondary_keywords": [
-    "Amelie meaning",
-    "Amelie origin",
-    "Amelie pronunciation",
-    "Amelie lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/amelie",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What does the name Amelie say about a child?",
-     "a": "The name Amelie expresses “Industrious”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Amelie be used in another language?",
-     "a": "Amelie is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Amelie mentioned in scripture?",
-     "a": "No scriptural reference for Amelie has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Amelie?",
-     "a": "The Pythagorean lucky number for Amelie is 9 (ruling planet Mars). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Amelie?",
-     "a": "Tuesday is the traditional association for Amelie. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Amelie?",
-     "a": "Red Coral is the traditional association for Amelie. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Amelie?",
-     "a": "Red, Crimson are the traditional associations for Amelie. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Amelie?",
-     "a": "In Pythagorean numerology the letters of Amelie total 27, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-    },
-    {
-     "q": "How reliable is the meaning given for Amelie?",
-     "a": "The meaning of Amelie carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Amelie have a religious meaning?",
-     "a": "Amelie is recorded as a christian name meaning “Industrious”."
-    },
-    {
-     "q": "What is the English meaning of Amelie?",
-     "a": "In English, Amelie is rendered as “Industrious”."
-    },
-    {
-     "q": "Is Amelie suitable for a baby?",
-     "a": "Amelie is used as a female given name; suitability is a personal choice."
-    }
-   ]
-  },
-  "monetization": {
-   "ad_placement": "bottom",
-   "ad_unit_id": "ca-pub-1234567890123456"
-  },
-  "updated_at": "2025-12-23T04:50:20.802Z",
-  "similar_sounding_names": [],
-  "gender_notes": "Amelie is used as a female name in christian naming traditions.",
-  "root": "",
-  "etymology": "The name Amelie is recorded with the meaning “Industrious”. Amelie is a Biblical name meaning “Industrious”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "language_root": "Biblical",
-  "root_letters": "a-m-e-l-i-e",
-  "syllables": 2,
-  "name_length": 6,
-  "transliteration": [
-   "Amelie"
-  ],
-  "culture": [
-   "Biblical"
-  ],
-  "ruling_planet": "Mars",
-  "variants": [
-   "Amelie"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "notable_people": [],
-  "seo_title": "Amelie Name Meaning – Industrious (Biblical)",
-  "meta_description": "Amelie is a Biblical name meaning “Industrious”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Amelie",
-   "Amelie name meaning",
-   "Amelie meaning",
-   "Amelie origin",
-   "Amelie root",
-   "Amelie pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/amelie",
-  "intro_paragraph": "Amelie is a Biblical name meaning “Industrious”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Amelie",
-   "description": "Amelie — Industrious",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What does the name Amelie say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Amelie expresses “Industrious”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Amelie be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Amelie is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Amelie mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Amelie has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Amelie?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Amelie is 9 (ruling planet Mars). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Amelie?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Tuesday is the traditional association for Amelie. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Amelie?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Red Coral is the traditional association for Amelie. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Amelie?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Red, Crimson are the traditional associations for Amelie. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Amelie?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Amelie total 27, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Amelie?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Amelie carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Amelie have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Amelie is recorded as a christian name meaning “Industrious”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Amelie?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Amelie is rendered as “Industrious”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Amelie suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Amelie is used as a female given name; suitability is a personal choice."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Amelie",
-     "item": "https://namemeaning.example/name/amelie"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 50,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 40
-  },
-  "tier1_verified": {
-   "name": "Amelie",
-   "slug": "amelie",
-   "meaning": "Industrious",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "female",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Amelie",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Industrious",
-   "long_meaning": "The name Amelie is recorded with the meaning “Industrious”. Amelie is a Biblical name meaning “Industrious”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Amelie",
-     "meaning": "Industrious",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "Am-uh-lee",
-    "ipa": "/ˌæməˈliː/"
-   },
-   "syllables": 2,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "What does the name Amelie say about a child?",
-     "a": "The name Amelie expresses “Industrious”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Amelie be used in another language?",
-     "a": "Amelie is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Amelie mentioned in scripture?",
-     "a": "No scriptural reference for Amelie has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Amelie?",
-     "a": "The Pythagorean lucky number for Amelie is 9 (ruling planet Mars). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Amelie?",
-     "a": "Tuesday is the traditional association for Amelie. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Amelie?",
-     "a": "Red Coral is the traditional association for Amelie. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Amelie?",
-     "a": "Red, Crimson are the traditional associations for Amelie. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Amelie?",
-     "a": "In Pythagorean numerology the letters of Amelie total 27, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-    },
-    {
-     "q": "How reliable is the meaning given for Amelie?",
-     "a": "The meaning of Amelie carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Amelie have a religious meaning?",
-     "a": "Amelie is recorded as a christian name meaning “Industrious”."
-    },
-    {
-     "q": "What is the English meaning of Amelie?",
-     "a": "In English, Amelie is rendered as “Industrious”."
-    },
-    {
-     "q": "Is Amelie suitable for a baby?",
-     "a": "Amelie is used as a female given name; suitability is a personal choice."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 9,
-    "life_path_number": 9,
-    "ruling_planet": "Mars",
-    "lucky_day": "Tuesday",
-    "lucky_stone": "Red Coral",
-    "lucky_colors": [
-     "Red",
-     "Crimson"
+  "success": true,
+  "data": {
+    "name": "Amelie",
+    "slug": "amelie",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Amelie total 27, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "female",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "short_meaning": "Industrious",
+    "long_meaning": "The meaning of Amelie is recorded in name-lists as “Industrious”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Amelie expresses “Industrious”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "lucky_number": 9,
+    "lucky_day": "Tuesday",
+    "lucky_colors": [
+      "Red",
+      "Crimson"
+    ],
+    "lucky_stone": "Red Coral",
+    "life_path_number": 9,
+    "numerology_meaning": "In Pythagorean numerology the letters of Amelie total 27, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
+    "in_hebrew": {
+      "name": "אמליה",
+      "meaning": "אמליה - עמל, תחרות, פרודוקטיבית",
+      "long_meaning": "אמליה הוא שם שמקורו בגרמנית ומשמעותו 'עמל' או 'תחרות'. השם אמליה קשור למילה העברית 'עמל', שפירושה עבודה או מאמץ. למרות שמקורו של השם אינו תנ\"כי, הוא מקושר לערכים של חריצות ופרודוקטיביות, שמאוד מוערכים בתרבות היהודית והנוצרית."
+    },
+    "in_greek": {
+      "name": "Αμελία",
+      "meaning": "Αμελία - ανταγωνισμός, παραγωγική",
+      "long_meaning": "Το όνομα Αμελία προέρχεται από τη γερμανική γλώσσα και σημαίνει 'ανταγωνισμός' ή 'παραγωγική'. Η λέξη σχετίζεται με την έννοια της προσπάθειας και της επιμέλειας, αξίες που εκτιμώνται ιδιαίτερα στην χριστιανική παράδοση και στον δυτικό πολιτισμό."
+    },
+    "in_latin": {
+      "name": "Amelia",
+      "meaning": "Amelia - industrious, rivalry",
+      "long_meaning": "The name Amelia originates from Germanic roots, signifying 'industrious' or 'rivalry'. It embodies the virtues of diligence and competition, highly regarded in Christian tradition and Western culture. The name has been adopted into various languages, reflecting its universal appeal and positive connotations."
+    },
+    "in_english": {
+      "name": "Amelie",
+      "meaning": "Industrious",
+      "long_meaning": "Industrious"
+    },
+    "pronunciation": {
+      "english": "Am-uh-lee",
+      "biblical": "",
+      "ipa": "/ˌæməˈliː/"
+    },
+    "celebrity_usage": [],
+    "social_tags": [
+      "#AmelieMeaning",
+      "#ChristianBabyNames",
+      "#NonBiblicalNames",
+      "#ChristianNames",
+      "#Amelie"
+    ],
+    "name_variations": [
+      "Amelie"
+    ],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "saint_reference": {
+      "is_saint_name": false,
+      "saint_name": "",
+      "note": ""
+    },
+    "cultural_impact": "Amelie is used in Biblical naming tradition with the meaning “Industrious”.",
+    "spiritual_significance": "Any spiritual significance attached to Amelie is interpretive and is labelled as such.",
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Amelie."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "spiritual_symbolism": "The meaning “Industrious” is the basis of any symbolism attached to Amelie; such symbolism is interpretive.",
+    "seo": {
+      "title": "Amelie Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Amelie has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Amelie, Amelie name meaning, Amelie meaning, Amelie origin, Amelie root, Amelie pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Amelie has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Amelie",
+        "Amelie name meaning",
+        "Amelie meaning",
+        "Amelie origin",
+        "Amelie root",
+        "Amelie pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Amelie name meaning",
+      "secondary_keywords": [
+        "Amelie meaning",
+        "Amelie origin",
+        "Amelie pronunciation",
+        "Amelie lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Amelie mean?",
+          "a": "Name-lists record the meaning as “Industrious”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Amelie verified?",
+          "a": "No. The meaning of Amelie could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Amelie come from?",
+          "a": "The origin of Amelie has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "monetization": {
+      "ad_placement": "bottom",
+      "ad_unit_id": "ca-pub-1234567890123456"
+    },
+    "updated_at": "2026-10-01T04:05:11.000Z",
+    "similar_sounding_names": [],
+    "gender_notes": "Amelie is used as a female name in christian naming traditions.",
+    "root": "",
+    "etymology": "",
+    "language_root": "Biblical",
+    "root_letters": "a-m-e-l-i-e",
+    "syllables": 2,
+    "name_length": 6,
+    "transliteration": [
+      "Amelie"
+    ],
+    "culture": [
+      "Biblical"
+    ],
+    "ruling_planet": "Mars",
+    "variants": [
+      "Amelie"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "notable_people": [],
+    "seo_title": "Amelie Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Amelie has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Amelie",
+      "Amelie name meaning",
+      "Amelie meaning",
+      "Amelie origin",
+      "Amelie root",
+      "Amelie pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Amelie has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Amelie",
+      "description": "Amelie — Industrious",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Amelie mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Industrious”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Amelie verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Amelie could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Amelie come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Amelie has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 50,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 40
+    },
+    "tier1_verified": {
+      "name": "Amelie",
+      "slug": "amelie",
+      "meaning": "Industrious",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "female",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Amelie",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Industrious",
+      "long_meaning": "The name Amelie is recorded with the meaning “Industrious”. Amelie is a Biblical name meaning “Industrious”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Amelie",
+          "meaning": "Industrious",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "Am-uh-lee",
+        "ipa": "/ˌæməˈliː/"
+      },
+      "syllables": 2,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Amelie mean?",
+          "a": "Name-lists record the meaning as “Industrious”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Amelie verified?",
+          "a": "No. The meaning of Amelie could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Amelie come from?",
+          "a": "The origin of Amelie has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 9,
+        "life_path_number": 9,
+        "ruling_planet": "Mars",
+        "lucky_day": "Tuesday",
+        "lucky_stone": "Red Coral",
+        "lucky_colors": [
+          "Red",
+          "Crimson"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Amelie total 27, reducing to 9. Number 9 is associated with compassion, idealism and completion."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:05:11.000Z"
+    }
   }
- }
 }
