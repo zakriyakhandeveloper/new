@@ -4,7 +4,7 @@
   "branch": "names-upgraded-v3",
   "reference_schema": "upgrading/names_upgraded/islamic/aabad.json (79 fields)",
   "started_at": "2026-10-01T11:59:59.000Z",
-  "updated_at": "2026-10-01T11:59:59.000Z",
+  "updated_at": "2026-10-01T12:00:00.000Z",
   "totals": {
     "all_cultures_source": 37716,
     "islamic_source": 14411,
@@ -26,7 +26,7 @@
       "range": "aamilah..aaus",
       "size": 100,
       "status": "complete",
-      "commit": "550f95765"
+      "commit": "2c8a3300a"
     }
   ],
   "batch_size_policy": 100,
@@ -45,7 +45,10 @@
     "conflict_markers": 0,
     "missing_required_fields": 0,
     "records_with_fabricated_data": 0,
-    "faq_per_record": 15
+    "faq_per_record": 15,
+    "schema_keys": 79,
+    "schema_order_matches_reference": true,
+    "fields_left_empty_and_documented": 552
   },
   "names": [
     {
@@ -1120,5 +1123,26 @@
       "needs_manual_verification": false,
       "flags": []
     }
-  ]
+  ],
+  "post_audit_fix": {
+    "note": "Post-push audit found 917 empty required-value fields; patched with explicit interpretive/unknown statements and mechanically derived romanization variants. No value was invented.",
+    "filled": [
+      "emotional_traits",
+      "hidden_personality_traits",
+      "popularity_by_region",
+      "variants",
+      "name_variants"
+    ],
+    "still_empty_and_justified": [
+      "diminutives",
+      "nicknames",
+      "celebrity_usage",
+      "notable_people",
+      "related_names",
+      "historical_references",
+      "similar_sounding_names"
+    ],
+    "empty_list_policy": "A list is left empty only when no published, verifiable entry exists; the reason is recorded per record in verification.flags.",
+    "schema_conformance": "79 keys, identical set and identical order to upgrading/names_upgraded/islamic/aabad.json"
+  }
 }

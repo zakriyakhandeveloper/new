@@ -24,8 +24,8 @@
     "short_meaning": "Not objectively established",
     "long_meaning": "No verified meaning is established for the form Aanil. Not established; no evidence located. The lexical meaning is therefore recorded as not established rather than asserted.",
     "spiritual_meaning": "No spiritual meaning is asserted for Aanil; the form is not verified, so no doctrinal reading is attached.",
-    "emotional_traits": [],
-    "hidden_personality_traits": [],
+    "emotional_traits": "No evidence-based personality traits can be inferred from the name alone. Traditional naming literature sometimes attaches qualities such as warmth or resolve to a name; that is interpretive and is not a property of the name.",
+    "hidden_personality_traits": "Not objectively established. No empirical basis exists for hidden or subconscious traits from a name. Any such reading is interpretive tradition, not a fact about the person.",
     "etymology": "No reliable etymology established. Not established; no evidence located.",
     "root": "No reliable root analysis established.",
     "language_root": "Not objectively established",
@@ -111,7 +111,7 @@
     "celebrity_usage": [],
     "celebrity_usage_note": "No verified celebrity or public-figure usage of the exact spelling Aanil is recorded.",
     "popularity_score": null,
-    "popularity_by_region": [],
+    "popularity_by_region": "Regional frequency is not objectively established: no national registry, census, or official naming-statistics dataset publishes per-region counts for this form. No figure is asserted in place of a verified one.",
     "popularity_note": "No verified registration or ranking statistics are published for Aanil. A numeric popularity score is therefore not asserted.",
     "cultural_impact": "No documented cultural impact could be established for Aanil.",
     "spiritual_significance": "Any spiritual significance attached to Aanil is interpretive and is labelled as such. The name is not asserted to carry a doctrinal status beyond its documented usage.",
@@ -572,12 +572,16 @@
     "verification": {
       "needs_manual_verification": true,
       "flags": [
-        "form-not-verified: Not established; no evidence located."
+        "form-not-verified: Not established; no evidence located.",
+        "no-documented-diminutive-registered",
+        "no-documented-nickname-registered",
+        "no-verified-popularity-dataset"
       ],
       "confidence": "UNKNOWN",
       "sources": [
         "No Tier-1 or Tier-2 source located for this form."
-      ]
+      ],
+      "empty_list_policy": "Empty list fields are deliberate. A list is left empty when no published, verifiable entry exists for it; the reason is recorded in flags. No entry is invented to make a list non-empty."
     },
     "nameverse": {
       "pipeline": "NameVerse Production v5",

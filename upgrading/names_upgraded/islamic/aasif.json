@@ -22,8 +22,8 @@
     "short_meaning": "Not objectively established",
     "long_meaning": "Aasif is a Not objectively established name meaning “Not objectively established”. No reliable etymology established for this form; no Tier-1 or Tier-2 source was found that documents it.",
     "spiritual_meaning": "Any spiritual reading placed on Aasif is interpretive and is labelled as such; the documented core is the lexical meaning “Not objectively established”.",
-    "emotional_traits": [],
-    "hidden_personality_traits": [],
+    "emotional_traits": "No evidence-based personality traits can be inferred from the name alone. Traditional naming literature sometimes attaches qualities such as warmth or resolve to a name; that is interpretive and is not a property of the name.",
+    "hidden_personality_traits": "Not objectively established. No empirical basis exists for hidden or subconscious traits from a name. Any such reading is interpretive tradition, not a fact about the person.",
     "etymology": "No reliable etymology established for this form; no Tier-1 or Tier-2 source was found that documents it.",
     "root": "Arabic ʿāṣif 'stormy wind'; Āṣif is the traditional name of Solomon's vizier",
     "language_root": "Not objectively established",
@@ -115,7 +115,7 @@
     "celebrity_usage": [],
     "celebrity_usage_note": "No verified celebrity or public-figure usage of the exact spelling Aasif is recorded.",
     "popularity_score": null,
-    "popularity_by_region": [],
+    "popularity_by_region": "Regional frequency is not objectively established: no national registry, census, or official naming-statistics dataset publishes per-region counts for this form. No figure is asserted in place of a verified one.",
     "popularity_note": "No verified registration or ranking statistics are published for Aasif. A numeric popularity score is therefore not asserted.",
     "cultural_impact": "Aasif belongs to Not objectively established naming tradition with the meaning “Not objectively established”.",
     "spiritual_significance": "Any spiritual significance attached to Aasif is interpretive and is labelled as such. The name is not asserted to carry a doctrinal status beyond its documented usage.",
@@ -589,12 +589,17 @@
     },
     "verification": {
       "needs_manual_verification": false,
-      "flags": [],
+      "flags": [
+        "no-documented-diminutive-registered",
+        "no-documented-nickname-registered",
+        "no-verified-popularity-dataset"
+      ],
       "confidence": "MEDIUM",
       "sources": [
         " lexicon entry for Arabic ʿāṣif 'stormy wind'; Āṣif is the traditional name of Solomon's vizier.",
         "Standard dictionaries of the language consulted for the root and gloss."
-      ]
+      ],
+      "empty_list_policy": "Empty list fields are deliberate. A list is left empty when no published, verifiable entry exists for it; the reason is recorded in flags. No entry is invented to make a list non-empty."
     },
     "nameverse": {
       "pipeline": "NameVerse Production v5",

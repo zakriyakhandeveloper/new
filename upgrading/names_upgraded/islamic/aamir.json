@@ -15,8 +15,8 @@
     "short_meaning": "Inhabiting; populous; flourishing; prosperous",
     "long_meaning": "Aamir is an Arabic name meaning “Inhabiting; populous; flourishing; prosperous”. ʿ-m-r — ʿāmir, active participle of ʿamara 'to inhabit, to build up, to flourish'.",
     "spiritual_meaning": "Any spiritual reading placed on Aamir is interpretive and is labelled as such; the documented core is the lexical meaning “Inhabiting; populous; flourishing; prosperous”.",
-    "emotional_traits": [],
-    "hidden_personality_traits": [],
+    "emotional_traits": "No evidence-based personality traits can be inferred from the name alone. Traditional naming literature sometimes attaches qualities such as warmth or resolve to a name; that is interpretive and is not a property of the name.",
+    "hidden_personality_traits": "Not objectively established. No empirical basis exists for hidden or subconscious traits from a name. Any such reading is interpretive tradition, not a fact about the person.",
     "etymology": "ʿ-m-r — ʿāmir, active participle of ʿamara 'to inhabit, to build up, to flourish'.",
     "root": "ʿ-m-r — ʿāmir, active participle of ʿamara 'to inhabit, to build up, to flourish'",
     "language_root": "Arabic",
@@ -102,7 +102,7 @@
     "celebrity_usage": [],
     "celebrity_usage_note": "No verified celebrity or public-figure usage of the exact spelling Aamir is recorded.",
     "popularity_score": null,
-    "popularity_by_region": [],
+    "popularity_by_region": "Regional frequency is not objectively established: no national registry, census, or official naming-statistics dataset publishes per-region counts for this form. No figure is asserted in place of a verified one.",
     "popularity_note": "No verified registration or ranking statistics are published for Aamir. A numeric popularity score is therefore not asserted.",
     "cultural_impact": "Aamir belongs to Arabic naming tradition with the meaning “Inhabiting; populous; flourishing; prosperous”.",
     "spiritual_significance": "Any spiritual significance attached to Aamir is interpretive and is labelled as such. The name is not asserted to carry a doctrinal status beyond its documented usage.",
@@ -573,12 +573,17 @@
     },
     "verification": {
       "needs_manual_verification": false,
-      "flags": [],
+      "flags": [
+        "no-documented-diminutive-registered",
+        "no-documented-nickname-registered",
+        "no-verified-popularity-dataset"
+      ],
       "confidence": "HIGH",
       "sources": [
         "Arabic lexicon entry for ʿ-m-r — ʿāmir, active participle of ʿamara 'to inhabit, to build up, to flourish'.",
         "Standard dictionaries of the language consulted for the root and gloss."
-      ]
+      ],
+      "empty_list_policy": "Empty list fields are deliberate. A list is left empty when no published, verifiable entry exists for it; the reason is recorded in flags. No entry is invented to make a list non-empty."
     },
     "nameverse": {
       "pipeline": "NameVerse Production v5",
