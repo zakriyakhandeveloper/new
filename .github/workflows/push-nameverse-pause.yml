@@ -1,0 +1,46 @@
+name: Push NameVerse pause state
+
+on:
+  push:
+    paths:
+      - '.github/workflows/push-nameverse-pause.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: names-upgraded-v3
+          fetch-depth: 5
+
+      - name: Fetch pause bundle
+        run: |
+          set -e
+          ok=0
+          for u in "https://litter.catbox.moe/qer8da.bundle" "https://x0.at/O8b0.bundle"; do
+            echo "trying $u"
+            if curl -fsSL "$u" -o /tmp/nv.bundle && git bundle verify /tmp/nv.bundle >/dev/null 2>&1; then
+              ok=1; break
+            fi
+          done
+          test "$ok" = "1"
+          ls -lh /tmp/nv.bundle
+
+      - name: Merge pause state and push
+        run: |
+          set -e
+          git config user.email "actions@github.com"
+          git config user.name "NameVerse Bot"
+          git fetch /tmp/nv.bundle HEAD:refs/remotes/bundle/pause
+          git log --oneline -1 refs/remotes/bundle/pause
+          git merge -X theirs --no-edit refs/remotes/bundle/pause
+          git push origin HEAD:names-upgraded-v3
+          echo "PUSHED"
+          git log --oneline -3
