@@ -48,7 +48,9 @@
     "faq_per_record": 15,
     "schema_keys": 79,
     "schema_order_matches_reference": true,
-    "fields_left_empty_and_documented": 552
+    "fields_left_empty_and_documented": 789,
+    "schema_types_match_reference": true,
+    "type_drift_fields": 0
   },
   "names": [
     {
@@ -1143,6 +1145,7 @@
       "similar_sounding_names"
     ],
     "empty_list_policy": "A list is left empty only when no published, verifiable entry exists; the reason is recorded per record in verification.flags.",
-    "schema_conformance": "79 keys, identical set and identical order to upgrading/names_upgraded/islamic/aabad.json"
+    "schema_conformance": "79 keys, identical set and identical order to upgrading/names_upgraded/islamic/aabad.json",
+    "type_alignment": "culture, emotional_traits, hidden_personality_traits and popularity_by_region are LISTS in the Aabad reference; patch pass 2 restored list typing. Full field-by-field type comparison against the reference now reports 0 drift (incl. seo sub-fields)."
   }
 }
