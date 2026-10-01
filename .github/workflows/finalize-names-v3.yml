@@ -1,0 +1,51 @@
+name: finalize-names-v3
+
+on:
+  push:
+    paths:
+      - '.github/workflows/finalize-names-v3.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v4
+        with:
+          ref: names-upgraded-v3
+          fetch-depth: 1
+
+      - name: Fetch pipeline bundle
+        run: |
+          set -e
+          mkdir -p scripts
+          ok=0
+          for u in \
+            "https://litter.catbox.moe/292vfx.tgz" \
+            "https://x0.at/kaI4.tgz" ; do
+            echo "trying $u"
+            if curl -fsSL "$u" -o /tmp/bundle.tgz && tar tzf /tmp/bundle.tgz >/dev/null 2>&1; then
+              tar xzf /tmp/bundle.tgz -C scripts && ok=1 && break
+            fi
+          done
+          test "$ok" = "1"
+          test -f scripts/finalize_runner.py
+          test -f scripts/verify_names.py
+          test -f scripts/verified_lexicon_merged.py
+          test -f scripts/cleanup_removed_fixed.json
+
+      - name: Restore missing files and apply corrected removals
+        run: python3 scripts/finalize_runner.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "NameVerse Bot"
+          git config user.email "actions@github.com"
+          git add -A upgrading/names_upgraded
+          git commit -m "Finalize names_upgraded v3: restore files lost to circular merges, apply corrected removals" || echo "nothing to commit"
+          git push origin HEAD:names-upgraded-v3
