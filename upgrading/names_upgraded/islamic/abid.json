@@ -1,572 +1,400 @@
 {
- "success": true,
- "data": {
-  "name": "Abid",
-  "slug": "abid",
-  "language": [
-   "Arabic"
-  ],
-  "gender": "Male",
-  "gender_notes": "Abid is used as a male name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Worshipper; servant (of God)",
-  "long_meaning": "From the Arabic root ع-ب-د (ʿ-b-d), 'to worship, serve'. ʿĀbid means 'worshipper'. Its root is ع-ب-د (ʿ-b-d). A common Arabic given name. Abid is a Arabic name meaning “Worshipper; servant (of God)”. Families who choose it generally do so for the quality the name expresses.",
-  "spiritual_meaning": "Abid expresses “Worshipper; servant (of God)”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "From the Arabic root ع-ب-د (ʿ-b-d), 'to worship, serve'. ʿĀbid means 'worshipper'.",
-  "root": "ع-ب-د (ʿ-b-d)",
-  "language_root": "Arabic",
-  "root_letters": "a-b-i-d",
-  "syllables": 2,
-  "name_length": 4,
-  "transliteration": [
-   "ʿĀbid"
-  ],
-  "lucky_number": 7,
-  "lucky_day": "Tuesday",
-  "lucky_colors": [
-   "Grey",
-   "Smoke"
-  ],
-  "lucky_stone": "Cat's Eye",
-  "ruling_planet": "Ketu",
-  "life_path_number": 7,
-  "numerology_meaning": "In Pythagorean numerology the letters of Abid total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search.",
-  "in_arabic": {
-   "name": "عَابِد",
-   "meaning": "Worshipper; servant (of God)",
-   "long_meaning": "عَابِد — المعنى: Worshipper; servant (of God)"
-  },
-  "in_urdu": {
-   "name": "عابد",
-   "meaning": "Worshipper; servant (of God)",
-   "long_meaning": "عابد — مطلب: Worshipper; servant (of God)"
-  },
-  "in_hindi": {
-   "name": "आबिद",
-   "meaning": "Worshipper; servant (of God)",
-   "long_meaning": "आबिद — अर्थ: Worshipper; servant (of God)"
-  },
-  "in_pashto": {
-   "name": "عابد",
-   "meaning": "Worshipper; servant (of God)",
-   "long_meaning": "عابد — معنی: Worshipper; servant (of God)"
-  },
-  "in_english": {
-   "name": "Abid",
-   "meaning": "Worshipper; servant (of God)",
-   "long_meaning": "From the Arabic root ع-ب-د (ʿ-b-d), 'to worship, serve'. ʿĀbid means 'worshipper'. Its root is ع-ب-د (ʿ-b-d). A common Arabic given name. Abid is a Arabic name meaning “Worshipper; servant (of God)”. Families who choose it generally do so for the quality the name expresses."
-  },
-  "pronunciation": {
-   "english": "ah-BEED",
-   "urdu": "اردو میں تلفظ 'عبد' ہے.",
-   "hindi": "हिन्दी में उच्चारण 'अब्द' है.",
-   "pashto": "په پښتو کې د تلفظ 'عبد' هوه.",
-   "ipa": "/ˈæbɪd/"
-  },
-  "name_variations": [
-   "Abid"
-  ],
-  "variants": [
-   "Abid"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Abid is used in Arabic naming tradition with the meaning “Worshipper; servant (of God)”.",
-  "spiritual_significance": "Any spiritual significance attached to Abid is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Worshipper; servant (of God)” is the basis of any symbolism attached to Abid; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "A common Arabic given name."
-  },
-  "historical_references": [
-   {
-    "reference": "A common Arabic given name.",
-    "time_period": "",
-    "context": ""
-   }
-  ],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Abid."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AbidMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Abid"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Abid",
-     "description": "Discover the meaning of Abid - \"Worshipper, Devout Servant\"",
-     "image": "/images/social/abid-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Abid - Name Meaning",
-     "description": "Learn about the beautiful name Abid",
-     "image": "/images/social/abid-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Abid",
-     "description": "Name meaning: Worshipper, Devout Servant",
-     "image": "/images/social/abid-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Abid - Meaning: Worshipper, Devout Servant",
-    "email_subject": "Beautiful Name: Abid"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Abid with meaning Worshipper, Devout Servant",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Abid Name Meaning – Worshipper; servant (of God) (Arabic)",
-   "meta_description": "Abid is a Arabic name meaning “Worshipper; servant (of God)”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Abid, Abid name meaning, Abid meaning, Abid origin, Abid root, Abid pronunciation, Arabic names",
-   "description_paragraph": "Abid is a Arabic name meaning “Worshipper; servant (of God)”.",
-   "keywords": [
-    "Abid",
-    "Abid name meaning",
-    "Abid meaning",
-    "Abid origin",
-    "Abid root",
-    "Abid pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Abid name meaning",
-   "secondary_keywords": [
-    "Abid meaning",
-    "Abid origin",
-    "Abid pronunciation",
-    "Abid lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/abid",
-   "seo_score": 90,
-   "faq": [
-    {
-     "q": "Is Abid suitable for a baby?",
-     "a": "Abid is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Abid?",
-     "a": "Abid is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Abid?",
-     "a": "Abid is used in Arabic naming traditions."
-    },
-    {
-     "q": "Does Abid have a positive meaning?",
-     "a": "Abid carries the meaning “Worshipper; servant (of God)”."
-    },
-    {
-     "q": "What does the name Abid mean?",
-     "a": "Abid means “Worshipper; servant (of God)”."
-    },
-    {
-     "q": "What is the origin of the name Abid?",
-     "a": "Abid is of Arabic origin."
-    },
-    {
-     "q": "Is Abid a male name?",
-     "a": "Abid is used as a male name."
-    },
-    {
-     "q": "How many syllables does Abid have?",
-     "a": "Abid has 2 syllables."
-    },
-    {
-     "q": "How is Abid pronounced?",
-     "a": "Abid is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Abid?",
-     "a": "Any spiritual significance attached to Abid is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Abid?",
-     "a": "Variant spellings of Abid are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Abid a common name?",
-     "a": "Popularity figures for Abid have not been verified and are not published."
-    }
-   ]
-  },
-  "seo_title": "Abid Name Meaning – Worshipper; servant (of God) (Arabic)",
-  "meta_description": "Abid is a Arabic name meaning “Worshipper; servant (of God)”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Abid",
-   "Abid name meaning",
-   "Abid meaning",
-   "Abid origin",
-   "Abid root",
-   "Abid pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/abid",
-  "intro_paragraph": "Abid is a Arabic name meaning “Worshipper; servant (of God)”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Abid",
-   "description": "Abid — Worshipper; servant (of God)",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Is Abid suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abid is used as a male given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Abid?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abid is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Abid?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abid is used in Arabic naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Abid have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abid carries the meaning “Worshipper; servant (of God)”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Abid mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abid means “Worshipper; servant (of God)”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Abid?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abid is of Arabic origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Abid a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abid is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Abid have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abid has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Abid pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abid is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Abid?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Abid is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Abid?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Abid are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Abid a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Abid have not been verified and are not published."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Abid",
-     "item": "https://namemeaning.example/name/abid"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 45,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "HIGH",
-   "etymology": "HIGH",
-   "origin": "HIGH",
-   "scripts": "HIGH",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "HIGH"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [],
-   "fields_total": 70
-  },
-  "created_at": "2025-06-29T18:25:00+05:00",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Abid",
-   "slug": "abid",
-   "meaning": "Worshipper; servant (of God)",
-   "origin": "Arabic",
-   "language": [
-    "Arabic"
-   ],
-   "gender": "Male",
-   "root": "ع-ب-د (ʿ-b-d)",
-   "etymology": "From the Arabic root ع-ب-د (ʿ-b-d), 'to worship, serve'. ʿĀbid means 'worshipper'.",
-   "script": {
-    "arabic": "عَابِد",
-    "urdu": "عابد",
-    "hindi": "आबिद",
-    "pashto": "عابد"
-   },
-   "transliteration": "ʿĀbid",
-   "reference": "A common Arabic given name.",
-   "confidence": "HIGH"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Worshipper; servant (of God)",
-   "long_meaning": "From the Arabic root ع-ب-د (ʿ-b-d), 'to worship, serve'. ʿĀbid means 'worshipper'. Its root is ع-ب-د (ʿ-b-d). A common Arabic given name. Abid is a Arabic name meaning “Worshipper; servant (of God)”. Families who choose it generally do so for the quality the name expresses.",
-   "translations": {
-    "arabic": {
-     "name": "عَابِد",
-     "meaning": "عَابِد — المعنى: Worshipper; servant (of God)",
-     "confidence": "HIGH"
-    },
-    "urdu": {
-     "name": "عابد",
-     "meaning": "عابد — مطلب: Worshipper; servant (of God)",
-     "confidence": "HIGH"
-    },
-    "hindi": {
-     "name": "आबिद",
-     "meaning": "आबिद — अर्थ: Worshipper; servant (of God)",
-     "confidence": "HIGH"
-    },
-    "pashto": {
-     "name": "عابد",
-     "meaning": "عابد — معنی: Worshipper; servant (of God)",
-     "confidence": "HIGH"
-    },
-    "english": {
-     "name": "Abid",
-     "meaning": "Worshipper; servant (of God)",
-     "confidence": "HIGH"
-    }
-   },
-   "pronunciation": {
-    "english": "ah-BEED",
-    "ipa": "/ˈæbɪd/"
-   },
-   "syllables": 2,
-   "name_length": 4,
-   "faqs": [
-    {
-     "q": "Is Abid suitable for a baby?",
-     "a": "Abid is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Abid?",
-     "a": "Abid is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Abid?",
-     "a": "Abid is used in Arabic naming traditions."
-    },
-    {
-     "q": "Does Abid have a positive meaning?",
-     "a": "Abid carries the meaning “Worshipper; servant (of God)”."
-    },
-    {
-     "q": "What does the name Abid mean?",
-     "a": "Abid means “Worshipper; servant (of God)”."
-    },
-    {
-     "q": "What is the origin of the name Abid?",
-     "a": "Abid is of Arabic origin."
-    },
-    {
-     "q": "Is Abid a male name?",
-     "a": "Abid is used as a male name."
-    },
-    {
-     "q": "How many syllables does Abid have?",
-     "a": "Abid has 2 syllables."
-    },
-    {
-     "q": "How is Abid pronounced?",
-     "a": "Abid is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Abid?",
-     "a": "Any spiritual significance attached to Abid is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Abid?",
-     "a": "Variant spellings of Abid are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Abid a common name?",
-     "a": "Popularity figures for Abid have not been verified and are not published."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 7,
-    "life_path_number": 7,
-    "ruling_planet": "Ketu",
-    "lucky_day": "Tuesday",
-    "lucky_stone": "Cat's Eye",
-    "lucky_colors": [
-     "Grey",
-     "Smoke"
+  "success": true,
+  "data": {
+    "name": "Abid",
+    "slug": "abid",
+    "language": [
+      "Arabic"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Abid total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": false,
-   "flags": [],
-   "confidence": "HIGH",
-   "sources": [
-    "Classical lexicography / scripture"
-   ]
+    "gender": "Male",
+    "gender_notes": "Abid is used as a male name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Worshipper; servant (of God)",
+    "long_meaning": "The meaning of Abid is recorded in name-lists as “Worshipper; servant (of God)”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Abid expresses “Worshipper; servant (of God)”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Arabic",
+    "root_letters": "a-b-i-d",
+    "syllables": 2,
+    "name_length": 4,
+    "transliteration": [
+      "ʿĀbid"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Tuesday",
+    "lucky_colors": [
+      "Grey",
+      "Smoke"
+    ],
+    "lucky_stone": "Cat's Eye",
+    "ruling_planet": "Ketu",
+    "life_path_number": 7,
+    "numerology_meaning": "In Pythagorean numerology the letters of Abid total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search.",
+    "in_arabic": {
+      "name": "عَابِد",
+      "meaning": "Worshipper; servant (of God)",
+      "long_meaning": "Worshipper; servant (of God)"
+    },
+    "in_urdu": {
+      "name": "عابد",
+      "meaning": "Worshipper; servant (of God)",
+      "long_meaning": "Worshipper; servant (of God)"
+    },
+    "in_hindi": {
+      "name": "आबिद",
+      "meaning": "Worshipper; servant (of God)",
+      "long_meaning": "Worshipper; servant (of God)"
+    },
+    "in_pashto": {
+      "name": "عابد",
+      "meaning": "Worshipper; servant (of God)",
+      "long_meaning": "Worshipper; servant (of God)"
+    },
+    "in_english": {
+      "name": "Abid",
+      "meaning": "Worshipper; servant (of God)",
+      "long_meaning": "Worshipper; servant (of God)"
+    },
+    "pronunciation": {
+      "english": "ah-BEED",
+      "urdu": "اردو میں تلفظ 'عبد' ہے.",
+      "hindi": "हिन्दी में उच्चारण 'अब्द' है.",
+      "pashto": "په پښتو کې د تلفظ 'عبد' هوه.",
+      "ipa": "/ˈæbɪd/"
+    },
+    "name_variations": [
+      "Abid"
+    ],
+    "variants": [
+      "Abid"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Abid is used in Arabic naming tradition with the meaning “Worshipper; servant (of God)”.",
+    "spiritual_significance": "Any spiritual significance attached to Abid is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Worshipper; servant (of God)” is the basis of any symbolism attached to Abid; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "A common Arabic given name."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Abid."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AbidMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Abid"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Abid",
+          "description": "Discover the meaning of Abid - \"Worshipper, Devout Servant\"",
+          "image": "/images/social/abid-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Abid - Name Meaning",
+          "description": "Learn about the beautiful name Abid",
+          "image": "/images/social/abid-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Abid",
+          "description": "Name meaning: Worshipper, Devout Servant",
+          "image": "/images/social/abid-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Abid - Meaning: Worshipper, Devout Servant",
+        "email_subject": "Beautiful Name: Abid"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Abid with meaning Worshipper, Devout Servant",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Abid Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Abid has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Abid, Abid name meaning, Abid meaning, Abid origin, Abid root, Abid pronunciation, Arabic names",
+      "description_paragraph": "The meaning of Abid has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Abid",
+        "Abid name meaning",
+        "Abid meaning",
+        "Abid origin",
+        "Abid root",
+        "Abid pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Abid name meaning",
+      "secondary_keywords": [
+        "Abid meaning",
+        "Abid origin",
+        "Abid pronunciation",
+        "Abid lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 90,
+      "faq": [
+        {
+          "q": "What does the name Abid mean?",
+          "a": "Name-lists record the meaning as “Worshipper; servant (of God)”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Abid verified?",
+          "a": "No. The meaning of Abid could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Abid come from?",
+          "a": "The origin of Abid has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Abid Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Abid has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Abid",
+      "Abid name meaning",
+      "Abid meaning",
+      "Abid origin",
+      "Abid root",
+      "Abid pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Abid has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Abid",
+      "description": "Abid — Worshipper; servant (of God)",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Abid mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Worshipper; servant (of God)”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Abid verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Abid could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Abid come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Abid has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 45,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [],
+      "fields_total": 70
+    },
+    "created_at": "2025-06-29T18:25:00+05:00",
+    "updated_at": "2026-10-01T04:04:20.000Z",
+    "tier1_verified": {
+      "name": "Abid",
+      "slug": "abid",
+      "meaning": "Worshipper; servant (of God)",
+      "origin": "Arabic",
+      "language": [
+        "Arabic"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Abid",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Worshipper; servant (of God)",
+      "long_meaning": "From the Arabic root ع-ب-د (ʿ-b-d), 'to worship, serve'. ʿĀbid means 'worshipper'. Its root is ع-ب-د (ʿ-b-d). A common Arabic given name. Abid is a Arabic name meaning “Worshipper; servant (of God)”. Families who choose it generally do so for the quality the name expresses.",
+      "translations": {
+        "arabic": {
+          "name": "عَابِد",
+          "meaning": "عَابِد — المعنى: Worshipper; servant (of God)",
+          "confidence": "HIGH"
+        },
+        "urdu": {
+          "name": "عابد",
+          "meaning": "عابد — مطلب: Worshipper; servant (of God)",
+          "confidence": "HIGH"
+        },
+        "hindi": {
+          "name": "आबिद",
+          "meaning": "आबिद — अर्थ: Worshipper; servant (of God)",
+          "confidence": "HIGH"
+        },
+        "pashto": {
+          "name": "عابد",
+          "meaning": "عابد — معنی: Worshipper; servant (of God)",
+          "confidence": "HIGH"
+        },
+        "english": {
+          "name": "Abid",
+          "meaning": "Worshipper; servant (of God)",
+          "confidence": "HIGH"
+        }
+      },
+      "pronunciation": {
+        "english": "ah-BEED",
+        "ipa": "/ˈæbɪd/"
+      },
+      "syllables": 2,
+      "name_length": 4,
+      "faqs": [
+        {
+          "q": "What does the name Abid mean?",
+          "a": "Name-lists record the meaning as “Worshipper; servant (of God)”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Abid verified?",
+          "a": "No. The meaning of Abid could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Abid come from?",
+          "a": "The origin of Abid has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 7,
+        "life_path_number": 7,
+        "ruling_planet": "Ketu",
+        "lucky_day": "Tuesday",
+        "lucky_stone": "Cat's Eye",
+        "lucky_colors": [
+          "Grey",
+          "Smoke"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Abid total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:20.000Z"
+    }
   }
- }
 }

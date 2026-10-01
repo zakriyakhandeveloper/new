@@ -1,491 +1,330 @@
 {
- "success": true,
- "data": {
-  "name": "Amena",
-  "slug": "amena",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Amena is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Virtue",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Faithful, reliable",
-  "long_meaning": "The name Amena is recorded with the meaning “Faithful, reliable”. Amena is a Biblical name meaning “Faithful, reliable”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Amena expresses “Faithful, reliable”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Amena is recorded with the meaning “Faithful, reliable”. Amena is a Biblical name meaning “Faithful, reliable”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "a-m-e-n-a",
-  "syllables": 3,
-  "name_length": 5,
-  "transliteration": [
-   "Amena"
-  ],
-  "lucky_number": 7,
-  "lucky_day": "Tuesday",
-  "lucky_colors": [
-   "Grey",
-   "Smoke"
-  ],
-  "lucky_stone": "Cat's Eye",
-  "ruling_planet": "Ketu",
-  "life_path_number": 7,
-  "numerology_meaning": "In Pythagorean numerology the letters of Amena total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search.",
-  "in_hebrew": {
-   "name": "אמנה",
-   "meaning": "אמונה ויציבות רוחנית",
-   "long_meaning": "אמונה ויציבות רוחנית, נאמנות ומסירות, מושרשים במסורת הנוצרית ובתנ''ך, ביטוי לאמונה החזקה והיציבה"
-  },
-  "in_greek": {
-   "name": "Αμήνα",
-   "meaning": "πίστη και πνευματική σταθερότητα",
-   "long_meaning": "πίστη και πνευματική σταθερότητα, ευσέβεια και αφοσίωση, εδραιωμένα στην Καινή Διαθήκη και στην εκκλησιαστική παράδοση, εκφράζοντας την ισχυρή και σταθερή πίστη"
-  },
-  "in_latin": {
-   "name": "Amena",
-   "meaning": "fides et stabilitas spiritualis",
-   "long_meaning": "fides et stabilitas spiritualis, pietas et devotio, fundata in Nova Testamentum et in ecclesiastica traditione, exprimendo fortissimam et stabilem fidem"
-  },
-  "in_english": {
-   "name": "Amena",
-   "meaning": "Faithful, reliable",
-   "long_meaning": "The name Amena is recorded with the meaning “Faithful, reliable”. Amena is a Biblical name meaning “Faithful, reliable”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "AH-meh-nah",
-   "biblical": "not applicable",
-   "ipa": "/əˈmɛnə/"
-  },
-  "name_variations": [
-   "Amena"
-  ],
-  "variants": [
-   "Amena"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Amena is used in Biblical naming tradition with the meaning “Faithful, reliable”.",
-  "spiritual_significance": "Any spiritual significance attached to Amena is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Faithful, reliable” is the basis of any symbolism attached to Amena; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "not applicable",
-   "verse_reference": "not applicable",
-   "note": "not a direct biblical name but influenced by biblical concepts"
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Amena."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AmenaMeaning",
-   "#ChristianBabyNames",
-   "#SpiritualNames",
-   "#ChristianNames",
-   "#Amena"
-  ],
-  "monetization": {
-   "cost_per_click": 0.01,
-   "cost_per_thousand": 10,
-   "affiliate_program": "https://www.babynames.com/affiliates"
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Amena Name Meaning – Faithful, reliable (Biblical)",
-   "meta_description": "Amena is a Biblical name meaning “Faithful, reliable”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Amena, Amena name meaning, Amena meaning, Amena origin, Amena root, Amena pronunciation, Biblical names",
-   "description_paragraph": "Amena is a Biblical name meaning “Faithful, reliable”.",
-   "keywords": [
-    "Amena",
-    "Amena name meaning",
-    "Amena meaning",
-    "Amena origin",
-    "Amena root",
-    "Amena pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Amena name meaning",
-   "secondary_keywords": [
-    "Amena meaning",
-    "Amena origin",
-    "Amena pronunciation",
-    "Amena lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/amena",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the full form of Amena?",
-     "a": "Amena is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Amena?",
-     "a": "Amena is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Amena have a positive meaning?",
-     "a": "Amena carries the meaning “Faithful, reliable”."
-    },
-    {
-     "q": "What does the name Amena mean?",
-     "a": "Amena means “Faithful, reliable”."
-    },
-    {
-     "q": "What is the origin of the name Amena?",
-     "a": "Amena is of Biblical origin."
-    },
-    {
-     "q": "Is Amena a unisex name?",
-     "a": "Amena is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Amena have?",
-     "a": "Amena has 3 syllables."
-    },
-    {
-     "q": "How is Amena pronounced?",
-     "a": "Amena is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Amena?",
-     "a": "Any spiritual significance attached to Amena is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Amena?",
-     "a": "Variant spellings of Amena are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Amena a common name?",
-     "a": "Popularity figures for Amena have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Amena say about a child?",
-     "a": "The name Amena expresses “Faithful, reliable”; any character association drawn from it is interpretive."
-    }
-   ]
-  },
-  "seo_title": "Amena Name Meaning – Faithful, reliable (Biblical)",
-  "meta_description": "Amena is a Biblical name meaning “Faithful, reliable”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Amena",
-   "Amena name meaning",
-   "Amena meaning",
-   "Amena origin",
-   "Amena root",
-   "Amena pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/amena",
-  "intro_paragraph": "Amena is a Biblical name meaning “Faithful, reliable”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Amena",
-   "description": "Amena — Faithful, reliable",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the full form of Amena?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Amena is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Amena?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Amena is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Amena have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Amena carries the meaning “Faithful, reliable”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Amena mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Amena means “Faithful, reliable”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Amena?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Amena is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Amena a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Amena is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Amena have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Amena has 3 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Amena pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Amena is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Amena?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Amena is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Amena?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Amena are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Amena a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Amena have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Amena say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Amena expresses “Faithful, reliable”; any character association drawn from it is interpretive."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Amena",
-     "item": "https://namemeaning.example/name/amena"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Amena",
-   "slug": "amena",
-   "meaning": "Faithful, reliable",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Amena",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Faithful, reliable",
-   "long_meaning": "The name Amena is recorded with the meaning “Faithful, reliable”. Amena is a Biblical name meaning “Faithful, reliable”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Amena",
-     "meaning": "Faithful, reliable",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "AH-meh-nah",
-    "ipa": "/əˈmɛnə/"
-   },
-   "syllables": 3,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "What is the full form of Amena?",
-     "a": "Amena is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Amena?",
-     "a": "Amena is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Amena have a positive meaning?",
-     "a": "Amena carries the meaning “Faithful, reliable”."
-    },
-    {
-     "q": "What does the name Amena mean?",
-     "a": "Amena means “Faithful, reliable”."
-    },
-    {
-     "q": "What is the origin of the name Amena?",
-     "a": "Amena is of Biblical origin."
-    },
-    {
-     "q": "Is Amena a unisex name?",
-     "a": "Amena is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Amena have?",
-     "a": "Amena has 3 syllables."
-    },
-    {
-     "q": "How is Amena pronounced?",
-     "a": "Amena is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Amena?",
-     "a": "Any spiritual significance attached to Amena is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Amena?",
-     "a": "Variant spellings of Amena are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Amena a common name?",
-     "a": "Popularity figures for Amena have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Amena say about a child?",
-     "a": "The name Amena expresses “Faithful, reliable”; any character association drawn from it is interpretive."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 7,
-    "life_path_number": 7,
-    "ruling_planet": "Ketu",
-    "lucky_day": "Tuesday",
-    "lucky_stone": "Cat's Eye",
-    "lucky_colors": [
-     "Grey",
-     "Smoke"
+  "success": true,
+  "data": {
+    "name": "Amena",
+    "slug": "amena",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Amena total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Amena is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Virtue",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Faithful, reliable",
+    "long_meaning": "The meaning of Amena is recorded in name-lists as “Faithful, reliable”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Amena expresses “Faithful, reliable”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "a-m-e-n-a",
+    "syllables": 3,
+    "name_length": 5,
+    "transliteration": [
+      "Amena"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Tuesday",
+    "lucky_colors": [
+      "Grey",
+      "Smoke"
+    ],
+    "lucky_stone": "Cat's Eye",
+    "ruling_planet": "Ketu",
+    "life_path_number": 7,
+    "numerology_meaning": "In Pythagorean numerology the letters of Amena total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search.",
+    "in_hebrew": {
+      "name": "אמנה",
+      "meaning": "אמונה ויציבות רוחנית",
+      "long_meaning": "אמונה ויציבות רוחנית, נאמנות ומסירות, מושרשים במסורת הנוצרית ובתנ''ך, ביטוי לאמונה החזקה והיציבה"
+    },
+    "in_greek": {
+      "name": "Αμήνα",
+      "meaning": "πίστη και πνευματική σταθερότητα",
+      "long_meaning": "πίστη και πνευματική σταθερότητα, ευσέβεια και αφοσίωση, εδραιωμένα στην Καινή Διαθήκη και στην εκκλησιαστική παράδοση, εκφράζοντας την ισχυρή και σταθερή πίστη"
+    },
+    "in_latin": {
+      "name": "Amena",
+      "meaning": "fides et stabilitas spiritualis",
+      "long_meaning": "fides et stabilitas spiritualis, pietas et devotio, fundata in Nova Testamentum et in ecclesiastica traditione, exprimendo fortissimam et stabilem fidem"
+    },
+    "in_english": {
+      "name": "Amena",
+      "meaning": "Faithful, reliable",
+      "long_meaning": "Faithful, reliable"
+    },
+    "pronunciation": {
+      "english": "AH-meh-nah",
+      "biblical": "not applicable",
+      "ipa": "/əˈmɛnə/"
+    },
+    "name_variations": [
+      "Amena"
+    ],
+    "variants": [
+      "Amena"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Amena is used in Biblical naming tradition with the meaning “Faithful, reliable”.",
+    "spiritual_significance": "Any spiritual significance attached to Amena is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Faithful, reliable” is the basis of any symbolism attached to Amena; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "not applicable",
+      "verse_reference": "not applicable",
+      "note": "not a direct biblical name but influenced by biblical concepts"
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Amena."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AmenaMeaning",
+      "#ChristianBabyNames",
+      "#SpiritualNames",
+      "#ChristianNames",
+      "#Amena"
+    ],
+    "monetization": {
+      "cost_per_click": 0.01,
+      "cost_per_thousand": 10,
+      "affiliate_program": "https://www.babynames.com/affiliates"
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Amena Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Amena has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Amena, Amena name meaning, Amena meaning, Amena origin, Amena root, Amena pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Amena has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Amena",
+        "Amena name meaning",
+        "Amena meaning",
+        "Amena origin",
+        "Amena root",
+        "Amena pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Amena name meaning",
+      "secondary_keywords": [
+        "Amena meaning",
+        "Amena origin",
+        "Amena pronunciation",
+        "Amena lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Amena mean?",
+          "a": "Name-lists record the meaning as “Faithful, reliable”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Amena verified?",
+          "a": "No. The meaning of Amena could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Amena come from?",
+          "a": "The origin of Amena has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Amena Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Amena has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Amena",
+      "Amena name meaning",
+      "Amena meaning",
+      "Amena origin",
+      "Amena root",
+      "Amena pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Amena has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Amena",
+      "description": "Amena — Faithful, reliable",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Amena mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Faithful, reliable”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Amena verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Amena could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Amena come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Amena has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:05:11.000Z",
+    "tier1_verified": {
+      "name": "Amena",
+      "slug": "amena",
+      "meaning": "Faithful, reliable",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Amena",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Faithful, reliable",
+      "long_meaning": "The name Amena is recorded with the meaning “Faithful, reliable”. Amena is a Biblical name meaning “Faithful, reliable”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Amena",
+          "meaning": "Faithful, reliable",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "AH-meh-nah",
+        "ipa": "/əˈmɛnə/"
+      },
+      "syllables": 3,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Amena mean?",
+          "a": "Name-lists record the meaning as “Faithful, reliable”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Amena verified?",
+          "a": "No. The meaning of Amena could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Amena come from?",
+          "a": "The origin of Amena has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 7,
+        "life_path_number": 7,
+        "ruling_planet": "Ketu",
+        "lucky_day": "Tuesday",
+        "lucky_stone": "Cat's Eye",
+        "lucky_colors": [
+          "Grey",
+          "Smoke"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Amena total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:05:11.000Z"
+    }
   }
- }
 }

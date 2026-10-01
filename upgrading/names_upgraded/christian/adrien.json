@@ -1,514 +1,353 @@
 {
- "success": true,
- "data": {
-  "name": "Adrien",
-  "slug": "adrien",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Adrien is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Saint",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Man, Dark one",
-  "long_meaning": "The name Adrien is recorded with the meaning “Man, Dark one”. Adrien is a Biblical name meaning “Man, Dark one”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Adrien expresses “Man, Dark one”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Adrien is recorded with the meaning “Man, Dark one”. Adrien is a Biblical name meaning “Man, Dark one”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "a-d-r-i-e-n",
-  "syllables": 2,
-  "name_length": 6,
-  "transliteration": [
-   "Adrien"
-  ],
-  "lucky_number": 6,
-  "lucky_day": "Friday",
-  "lucky_colors": [
-   "White",
-   "Pink"
-  ],
-  "lucky_stone": "Diamond",
-  "ruling_planet": "Venus",
-  "life_path_number": 6,
-  "numerology_meaning": "In Pythagorean numerology the letters of Adrien total 33, reducing to 6. Number 6 is associated with responsibility, care and harmony.",
-  "in_hebrew": {
-   "name": "עדריאן",
-   "meaning": "חסר קשר לשם עברי כללי",
-   "long_meaning": "השם עדריאן מקורו בלטינית, ופירושו 'מנהיג הצאן' או 'פקיד צאן'. בברית החדשה, השם 'אדריאן' מופיע פעמיים: 'אדריאנוס' (Ἀδριανός) - בשם היהודי של האפיפיור 'אדריאנוס הראשון' (Adrian I), ו'אדריאנוס' (Ἀδριανός) - בשם הבישוף הקדוש 'אדריאנוס' (Saint Adrian)."
-  },
-  "in_greek": {
-   "name": "Αδριανός",
-   "meaning": "ανθύπατος και ηγεμόνας των ποιμένων",
-   "long_meaning": "Ο όνομα Αδριανός προέρχεται από την ελληνική λέξη για τον κατώτερο έφορο (ἀνθύπατος), τον οποίο ορίζει ο κύριος. Ως όνομα, Αδριανός συνδέεται με την ηγεσία και τον έλεγχο. Στα NT, το όνομα Αδριανός εμφανίζεται δύο φορές: 'Αδριανός' (Ἀδριανός) - στο όνομα του 'Απωστόλου Αδριανού' (Apostle Adrian) και 'Αδριανός' (Ἀδριανός) - στο όνομα του 'Αγίου Αδριανού' (Saint Adrian)."
-  },
-  "in_latin": {
-   "name": "Adrianus",
-   "meaning": "dux pastorum, leader of the flocks",
-   "long_meaning": "Nomen Adrianus originem habet a vocabulo Latinorum, significans ducem pastoralem, ducem pastorum. In Novo Testamento, nomen Adrianus apparit semel: 'Adrianus' - in nomine Apostoli 'Adrianus' et 'Adrianus' - in nomine Sancti 'Adrianus'."
-  },
-  "in_english": {
-   "name": "Adrien",
-   "meaning": "Man, Dark one",
-   "long_meaning": "The name Adrien is recorded with the meaning “Man, Dark one”. Adrien is a Biblical name meaning “Man, Dark one”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "/ˈædriən/",
-   "biblical": "Aדריאן",
-   "ipa": "/ˈædriən/"
-  },
-  "name_variations": [
-   "Adrien"
-  ],
-  "variants": [
-   "Adrien"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Adrien is used in Biblical naming tradition with the meaning “Man, Dark one”.",
-  "spiritual_significance": "Any spiritual significance attached to Adrien is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Man, Dark one” is the basis of any symbolism attached to Adrien; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": true,
-   "origin_scripture": "New Testament",
-   "verse_reference": "Matthew 10:3",
-   "note": "The name Adrian is associated with two biblical figures: the Apostle Adrian and Saint Adrian of Nicomedia."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Adrien."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AdrienMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Adrien"
-  ],
-  "monetization": {
-   "ad_places": [
-    {
-     "position": "top",
-     "type": "display_ad"
-    },
-    {
-     "position": "side",
-     "type": "text_ad"
-    },
-    {
-     "position": "bottom",
-     "type": "display_ad"
-    }
-   ],
-   "affiliate_links": [
-    {
-     "product": "Baby Clothes",
-     "merchant": "Amazon",
-     "link": "https://www.amazon.com/s?k=adrien+baby+clothes"
-    },
-    {
-     "product": "Baby Toys",
-     "merchant": "Walmart",
-     "link": "https://www.walmart.com/search?query=adrien+baby+toys"
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Adrien Name Meaning – Man, Dark one (Biblical)",
-   "meta_description": "Adrien is a Biblical name meaning “Man, Dark one”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Adrien, Adrien name meaning, Adrien meaning, Adrien origin, Adrien root, Adrien pronunciation, Biblical names",
-   "description_paragraph": "Adrien is a Biblical name meaning “Man, Dark one”.",
-   "keywords": [
-    "Adrien",
-    "Adrien name meaning",
-    "Adrien meaning",
-    "Adrien origin",
-    "Adrien root",
-    "Adrien pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Adrien name meaning",
-   "secondary_keywords": [
-    "Adrien meaning",
-    "Adrien origin",
-    "Adrien pronunciation",
-    "Adrien lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/adrien",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Is Adrien a common name?",
-     "a": "Popularity figures for Adrien have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Adrien say about a child?",
-     "a": "The name Adrien expresses “Man, Dark one”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Adrien be used in another language?",
-     "a": "Adrien is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Adrien mentioned in scripture?",
-     "a": "No scriptural reference for Adrien has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Adrien?",
-     "a": "The Pythagorean lucky number for Adrien is 6 (ruling planet Venus). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Adrien?",
-     "a": "Friday is the traditional association for Adrien. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Adrien?",
-     "a": "Diamond is the traditional association for Adrien. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Adrien?",
-     "a": "White, Pink are the traditional associations for Adrien. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Adrien?",
-     "a": "In Pythagorean numerology the letters of Adrien total 33, reducing to 6. Number 6 is associated with responsibility, care and harmony."
-    },
-    {
-     "q": "How reliable is the meaning given for Adrien?",
-     "a": "The meaning of Adrien carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Adrien have a religious meaning?",
-     "a": "Adrien is recorded as a christian name meaning “Man, Dark one”."
-    },
-    {
-     "q": "What is the English meaning of Adrien?",
-     "a": "In English, Adrien is rendered as “Man, Dark one”."
-    }
-   ]
-  },
-  "seo_title": "Adrien Name Meaning – Man, Dark one (Biblical)",
-  "meta_description": "Adrien is a Biblical name meaning “Man, Dark one”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Adrien",
-   "Adrien name meaning",
-   "Adrien meaning",
-   "Adrien origin",
-   "Adrien root",
-   "Adrien pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/adrien",
-  "intro_paragraph": "Adrien is a Biblical name meaning “Man, Dark one”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Adrien",
-   "description": "Adrien — Man, Dark one",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Is Adrien a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Adrien have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Adrien say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Adrien expresses “Man, Dark one”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Adrien be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Adrien is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Adrien mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Adrien has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Adrien?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Adrien is 6 (ruling planet Venus). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Adrien?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Friday is the traditional association for Adrien. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Adrien?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Diamond is the traditional association for Adrien. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Adrien?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "White, Pink are the traditional associations for Adrien. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Adrien?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Adrien total 33, reducing to 6. Number 6 is associated with responsibility, care and harmony."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Adrien?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Adrien carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Adrien have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Adrien is recorded as a christian name meaning “Man, Dark one”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Adrien?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Adrien is rendered as “Man, Dark one”."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Adrien",
-     "item": "https://namemeaning.example/name/adrien"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Adrien",
-   "slug": "adrien",
-   "meaning": "Man, Dark one",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Adrien",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Man, Dark one",
-   "long_meaning": "The name Adrien is recorded with the meaning “Man, Dark one”. Adrien is a Biblical name meaning “Man, Dark one”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Adrien",
-     "meaning": "Man, Dark one",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "/ˈædriən/",
-    "ipa": "/ˈædriən/"
-   },
-   "syllables": 2,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "Is Adrien a common name?",
-     "a": "Popularity figures for Adrien have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Adrien say about a child?",
-     "a": "The name Adrien expresses “Man, Dark one”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Adrien be used in another language?",
-     "a": "Adrien is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Adrien mentioned in scripture?",
-     "a": "No scriptural reference for Adrien has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Adrien?",
-     "a": "The Pythagorean lucky number for Adrien is 6 (ruling planet Venus). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Adrien?",
-     "a": "Friday is the traditional association for Adrien. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Adrien?",
-     "a": "Diamond is the traditional association for Adrien. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Adrien?",
-     "a": "White, Pink are the traditional associations for Adrien. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Adrien?",
-     "a": "In Pythagorean numerology the letters of Adrien total 33, reducing to 6. Number 6 is associated with responsibility, care and harmony."
-    },
-    {
-     "q": "How reliable is the meaning given for Adrien?",
-     "a": "The meaning of Adrien carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Adrien have a religious meaning?",
-     "a": "Adrien is recorded as a christian name meaning “Man, Dark one”."
-    },
-    {
-     "q": "What is the English meaning of Adrien?",
-     "a": "In English, Adrien is rendered as “Man, Dark one”."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 6,
-    "life_path_number": 6,
-    "ruling_planet": "Venus",
-    "lucky_day": "Friday",
-    "lucky_stone": "Diamond",
-    "lucky_colors": [
-     "White",
-     "Pink"
+  "success": true,
+  "data": {
+    "name": "Adrien",
+    "slug": "adrien",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Adrien total 33, reducing to 6. Number 6 is associated with responsibility, care and harmony."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Adrien is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Saint",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Man, Dark one",
+    "long_meaning": "The meaning of Adrien is recorded in name-lists as “Man, Dark one”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Adrien expresses “Man, Dark one”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "a-d-r-i-e-n",
+    "syllables": 2,
+    "name_length": 6,
+    "transliteration": [
+      "Adrien"
+    ],
+    "lucky_number": 6,
+    "lucky_day": "Friday",
+    "lucky_colors": [
+      "White",
+      "Pink"
+    ],
+    "lucky_stone": "Diamond",
+    "ruling_planet": "Venus",
+    "life_path_number": 6,
+    "numerology_meaning": "In Pythagorean numerology the letters of Adrien total 33, reducing to 6. Number 6 is associated with responsibility, care and harmony.",
+    "in_hebrew": {
+      "name": "עדריאן",
+      "meaning": "חסר קשר לשם עברי כללי",
+      "long_meaning": "השם עדריאן מקורו בלטינית, ופירושו 'מנהיג הצאן' או 'פקיד צאן'. בברית החדשה, השם 'אדריאן' מופיע פעמיים: 'אדריאנוס' (Ἀδριανός) - בשם היהודי של האפיפיור 'אדריאנוס הראשון' (Adrian I), ו'אדריאנוס' (Ἀδριανός) - בשם הבישוף הקדוש 'אדריאנוס' (Saint Adrian)."
+    },
+    "in_greek": {
+      "name": "Αδριανός",
+      "meaning": "ανθύπατος και ηγεμόνας των ποιμένων",
+      "long_meaning": "Ο όνομα Αδριανός προέρχεται από την ελληνική λέξη για τον κατώτερο έφορο (ἀνθύπατος), τον οποίο ορίζει ο κύριος. Ως όνομα, Αδριανός συνδέεται με την ηγεσία και τον έλεγχο. Στα NT, το όνομα Αδριανός εμφανίζεται δύο φορές: 'Αδριανός' (Ἀδριανός) - στο όνομα του 'Απωστόλου Αδριανού' (Apostle Adrian) και 'Αδριανός' (Ἀδριανός) - στο όνομα του 'Αγίου Αδριανού' (Saint Adrian)."
+    },
+    "in_latin": {
+      "name": "Adrianus",
+      "meaning": "dux pastorum, leader of the flocks",
+      "long_meaning": "Nomen Adrianus originem habet a vocabulo Latinorum, significans ducem pastoralem, ducem pastorum. In Novo Testamento, nomen Adrianus apparit semel: 'Adrianus' - in nomine Apostoli 'Adrianus' et 'Adrianus' - in nomine Sancti 'Adrianus'."
+    },
+    "in_english": {
+      "name": "Adrien",
+      "meaning": "Man, Dark one",
+      "long_meaning": "Man, Dark one"
+    },
+    "pronunciation": {
+      "english": "/ˈædriən/",
+      "biblical": "Aדריאן",
+      "ipa": "/ˈædriən/"
+    },
+    "name_variations": [
+      "Adrien"
+    ],
+    "variants": [
+      "Adrien"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Adrien is used in Biblical naming tradition with the meaning “Man, Dark one”.",
+    "spiritual_significance": "Any spiritual significance attached to Adrien is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Man, Dark one” is the basis of any symbolism attached to Adrien; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "New Testament",
+      "verse_reference": "Matthew 10:3",
+      "note": "The name Adrian is associated with two biblical figures: the Apostle Adrian and Saint Adrian of Nicomedia."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Adrien."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AdrienMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Adrien"
+    ],
+    "monetization": {
+      "ad_places": [
+        {
+          "position": "top",
+          "type": "display_ad"
+        },
+        {
+          "position": "side",
+          "type": "text_ad"
+        },
+        {
+          "position": "bottom",
+          "type": "display_ad"
+        }
+      ],
+      "affiliate_links": [
+        {
+          "product": "Baby Clothes",
+          "merchant": "Amazon",
+          "link": "https://www.amazon.com/s?k=adrien+baby+clothes"
+        },
+        {
+          "product": "Baby Toys",
+          "merchant": "Walmart",
+          "link": "https://www.walmart.com/search?query=adrien+baby+toys"
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Adrien Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Adrien has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Adrien, Adrien name meaning, Adrien meaning, Adrien origin, Adrien root, Adrien pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Adrien has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Adrien",
+        "Adrien name meaning",
+        "Adrien meaning",
+        "Adrien origin",
+        "Adrien root",
+        "Adrien pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Adrien name meaning",
+      "secondary_keywords": [
+        "Adrien meaning",
+        "Adrien origin",
+        "Adrien pronunciation",
+        "Adrien lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Adrien mean?",
+          "a": "Name-lists record the meaning as “Man, Dark one”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Adrien verified?",
+          "a": "No. The meaning of Adrien could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Adrien come from?",
+          "a": "The origin of Adrien has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Adrien Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Adrien has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Adrien",
+      "Adrien name meaning",
+      "Adrien meaning",
+      "Adrien origin",
+      "Adrien root",
+      "Adrien pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Adrien has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Adrien",
+      "description": "Adrien — Man, Dark one",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Adrien mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Man, Dark one”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Adrien verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Adrien could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Adrien come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Adrien has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:04:48.000Z",
+    "tier1_verified": {
+      "name": "Adrien",
+      "slug": "adrien",
+      "meaning": "Man, Dark one",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Adrien",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Man, Dark one",
+      "long_meaning": "The name Adrien is recorded with the meaning “Man, Dark one”. Adrien is a Biblical name meaning “Man, Dark one”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Adrien",
+          "meaning": "Man, Dark one",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "/ˈædriən/",
+        "ipa": "/ˈædriən/"
+      },
+      "syllables": 2,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Adrien mean?",
+          "a": "Name-lists record the meaning as “Man, Dark one”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Adrien verified?",
+          "a": "No. The meaning of Adrien could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Adrien come from?",
+          "a": "The origin of Adrien has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 6,
+        "life_path_number": 6,
+        "ruling_planet": "Venus",
+        "lucky_day": "Friday",
+        "lucky_stone": "Diamond",
+        "lucky_colors": [
+          "White",
+          "Pink"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Adrien total 33, reducing to 6. Number 6 is associated with responsibility, care and harmony."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:48.000Z"
+    }
   }
- }
 }

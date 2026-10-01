@@ -1,512 +1,351 @@
 {
- "success": true,
- "data": {
-  "name": "Clarice",
-  "slug": "clarice",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Clarice is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Clear, Bright, Light",
-  "long_meaning": "The name Clarice is recorded with the meaning “Clear, Bright, Light”. Clarice is a Biblical name meaning “Clear, Bright, Light”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Clarice expresses “Clear, Bright, Light”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Clarice is recorded with the meaning “Clear, Bright, Light”. Clarice is a Biblical name meaning “Clear, Bright, Light”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "c-l-a-r-i-c-e",
-  "syllables": 2,
-  "name_length": 7,
-  "transliteration": [
-   "Clarice"
-  ],
-  "lucky_number": 6,
-  "lucky_day": "Friday",
-  "lucky_colors": [
-   "White",
-   "Pink"
-  ],
-  "lucky_stone": "Diamond",
-  "ruling_planet": "Venus",
-  "life_path_number": 6,
-  "numerology_meaning": "In Pythagorean numerology the letters of Clarice total 33, reducing to 6. Number 6 is associated with responsibility, care and harmony.",
-  "in_hebrew": {
-   "name": "קלאריס",
-   "meaning": "שם נגזר מקלירוס, בהיר וזוהר באור",
-   "long_meaning": "השם קלאריס מקורו בלטינית, ונגזר מהמילה 'קלירוס' שפירושה בהיר וזוהר באור. שם זה משויך לנצרות ומסמל תאורה ובהירות רוחנית. השימוש בשם זה נפוץ במסגרת השמות הנוצריים המסורתיים."
-  },
-  "in_greek": {
-   "name": "Κλαρίς",
-   "meaning": "Το όνομα σημαίνει φωτεινότητα και πνευματική διαύγεια",
-   "long_meaning": "Το όνομα Κλαρίς έχει τις ρίζες του στη Λατινική γλώσσα και συνδέεται με την έννοια της φωτεινότητας και της πνευματικής διαύγειας. Στην παράδοση της Εκκλησίας, το όνομα αυτό συμβολίζει την πνευματική φώτιση και την αναζήτηση της αλήθειας."
-  },
-  "in_latin": {
-   "name": "Clarice",
-   "meaning": "Derived from Clarus, meaning clear and bright",
-   "long_meaning": "The name Clarice originates from the Latin word 'Clarus', which means clear and bright. This name was adopted in Christian tradition to signify spiritual clarity and enlightenment. Historically, it has been used to denote purity of heart and mind."
-  },
-  "in_english": {
-   "name": "Clarice",
-   "meaning": "Clear, Bright, Light",
-   "long_meaning": "The name Clarice is recorded with the meaning “Clear, Bright, Light”. Clarice is a Biblical name meaning “Clear, Bright, Light”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "KLAR-is",
-   "ipa": "/ˈklærɪs/"
-  },
-  "name_variations": [
-   "Clarice"
-  ],
-  "variants": [
-   "Clarice"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Clarice is used in Biblical naming tradition with the meaning “Clear, Bright, Light”.",
-  "spiritual_significance": "Any spiritual significance attached to Clarice is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Clear, Bright, Light” is the basis of any symbolism attached to Clarice; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Clarice."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#ClariceMeaning",
-   "#ChristianBabyNames",
-   "#LatinNames",
-   "#ChristianNames",
-   "#Clarice"
-  ],
-  "monetization": {
-   "ads": {
-    "placement": [
-     "header",
-     "sidebar",
-     "footer"
+  "success": true,
+  "data": {
+    "name": "Clarice",
+    "slug": "clarice",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek"
     ],
-    "ad_units": [
-     {
-      "id": "google_ad_1",
-      "size": "300x250"
-     },
-     {
-      "id": "google_ad_2",
-      "size": "336x280"
-     }
-    ]
-   },
-   "affiliate": {
-    "links": [
-     {
-      "text": "Shop for Clarice-inspired baby items",
-      "url": "https://example.com/clarice-baby"
-     }
-    ]
-   }
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Clarice Name Meaning – Clear, Bright, Light (Biblical)",
-   "meta_description": "Clarice is a Biblical name meaning “Clear, Bright, Light”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Clarice, Clarice name meaning, Clarice meaning, Clarice origin, Clarice root, Clarice pronunciation, Biblical names",
-   "description_paragraph": "Clarice is a Biblical name meaning “Clear, Bright, Light”.",
-   "keywords": [
-    "Clarice",
-    "Clarice name meaning",
-    "Clarice meaning",
-    "Clarice origin",
-    "Clarice root",
-    "Clarice pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Clarice name meaning",
-   "secondary_keywords": [
-    "Clarice meaning",
-    "Clarice origin",
-    "Clarice pronunciation",
-    "Clarice lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/clarice",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Is Clarice a unisex name?",
-     "a": "Clarice is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Clarice have?",
-     "a": "Clarice has 2 syllables."
-    },
-    {
-     "q": "How is Clarice pronounced?",
-     "a": "Clarice is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Clarice?",
-     "a": "Any spiritual significance attached to Clarice is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Clarice?",
-     "a": "Variant spellings of Clarice are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Clarice a common name?",
-     "a": "Popularity figures for Clarice have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Clarice say about a child?",
-     "a": "The name Clarice expresses “Clear, Bright, Light”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Clarice be used in another language?",
-     "a": "Clarice is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Clarice mentioned in scripture?",
-     "a": "No scriptural reference for Clarice has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Clarice?",
-     "a": "The Pythagorean lucky number for Clarice is 6 (ruling planet Venus). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Clarice?",
-     "a": "Friday is the traditional association for Clarice. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Clarice?",
-     "a": "Diamond is the traditional association for Clarice. This is interpretive."
-    }
-   ]
-  },
-  "seo_title": "Clarice Name Meaning – Clear, Bright, Light (Biblical)",
-  "meta_description": "Clarice is a Biblical name meaning “Clear, Bright, Light”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Clarice",
-   "Clarice name meaning",
-   "Clarice meaning",
-   "Clarice origin",
-   "Clarice root",
-   "Clarice pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/clarice",
-  "intro_paragraph": "Clarice is a Biblical name meaning “Clear, Bright, Light”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Clarice",
-   "description": "Clarice — Clear, Bright, Light",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Is Clarice a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Clarice is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Clarice have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Clarice has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Clarice pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Clarice is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Clarice?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Clarice is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Clarice?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Clarice are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Clarice a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Clarice have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Clarice say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Clarice expresses “Clear, Bright, Light”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Clarice be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Clarice is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Clarice mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Clarice has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Clarice?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Clarice is 6 (ruling planet Venus). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Clarice?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Friday is the traditional association for Clarice. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Clarice?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Diamond is the traditional association for Clarice. This is interpretive."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Clarice",
-     "item": "https://namemeaning.example/name/clarice"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Clarice",
-   "slug": "clarice",
-   "meaning": "Clear, Bright, Light",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Clarice",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Clear, Bright, Light",
-   "long_meaning": "The name Clarice is recorded with the meaning “Clear, Bright, Light”. Clarice is a Biblical name meaning “Clear, Bright, Light”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Clarice",
-     "meaning": "Clear, Bright, Light",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "KLAR-is",
-    "ipa": "/ˈklærɪs/"
-   },
-   "syllables": 2,
-   "name_length": 7,
-   "faqs": [
-    {
-     "q": "Is Clarice a unisex name?",
-     "a": "Clarice is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Clarice have?",
-     "a": "Clarice has 2 syllables."
-    },
-    {
-     "q": "How is Clarice pronounced?",
-     "a": "Clarice is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Clarice?",
-     "a": "Any spiritual significance attached to Clarice is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Clarice?",
-     "a": "Variant spellings of Clarice are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Clarice a common name?",
-     "a": "Popularity figures for Clarice have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Clarice say about a child?",
-     "a": "The name Clarice expresses “Clear, Bright, Light”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Clarice be used in another language?",
-     "a": "Clarice is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Clarice mentioned in scripture?",
-     "a": "No scriptural reference for Clarice has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Clarice?",
-     "a": "The Pythagorean lucky number for Clarice is 6 (ruling planet Venus). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Clarice?",
-     "a": "Friday is the traditional association for Clarice. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Clarice?",
-     "a": "Diamond is the traditional association for Clarice. This is interpretive."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
+    "gender": "Unisex",
+    "gender_notes": "Clarice is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Clear, Bright, Light",
+    "long_meaning": "The meaning of Clarice is recorded in name-lists as “Clear, Bright, Light”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Clarice expresses “Clear, Bright, Light”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "c-l-a-r-i-c-e",
+    "syllables": 2,
+    "name_length": 7,
+    "transliteration": [
+      "Clarice"
+    ],
     "lucky_number": 6,
-    "life_path_number": 6,
-    "ruling_planet": "Venus",
     "lucky_day": "Friday",
-    "lucky_stone": "Diamond",
     "lucky_colors": [
-     "White",
-     "Pink"
+      "White",
+      "Pink"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Clarice total 33, reducing to 6. Number 6 is associated with responsibility, care and harmony."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "lucky_stone": "Diamond",
+    "ruling_planet": "Venus",
+    "life_path_number": 6,
+    "numerology_meaning": "In Pythagorean numerology the letters of Clarice total 33, reducing to 6. Number 6 is associated with responsibility, care and harmony.",
+    "in_hebrew": {
+      "name": "קלאריס",
+      "meaning": "שם נגזר מקלירוס, בהיר וזוהר באור",
+      "long_meaning": "השם קלאריס מקורו בלטינית, ונגזר מהמילה 'קלירוס' שפירושה בהיר וזוהר באור. שם זה משויך לנצרות ומסמל תאורה ובהירות רוחנית. השימוש בשם זה נפוץ במסגרת השמות הנוצריים המסורתיים."
+    },
+    "in_greek": {
+      "name": "Κλαρίς",
+      "meaning": "Το όνομα σημαίνει φωτεινότητα και πνευματική διαύγεια",
+      "long_meaning": "Το όνομα Κλαρίς έχει τις ρίζες του στη Λατινική γλώσσα και συνδέεται με την έννοια της φωτεινότητας και της πνευματικής διαύγειας. Στην παράδοση της Εκκλησίας, το όνομα αυτό συμβολίζει την πνευματική φώτιση και την αναζήτηση της αλήθειας."
+    },
+    "in_latin": {
+      "name": "Clarice",
+      "meaning": "Derived from Clarus, meaning clear and bright",
+      "long_meaning": "The name Clarice originates from the Latin word 'Clarus', which means clear and bright. This name was adopted in Christian tradition to signify spiritual clarity and enlightenment. Historically, it has been used to denote purity of heart and mind."
+    },
+    "in_english": {
+      "name": "Clarice",
+      "meaning": "Clear, Bright, Light",
+      "long_meaning": "Clear, Bright, Light"
+    },
+    "pronunciation": {
+      "english": "KLAR-is",
+      "ipa": "/ˈklærɪs/"
+    },
+    "name_variations": [
+      "Clarice"
+    ],
+    "variants": [
+      "Clarice"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Clarice is used in Biblical naming tradition with the meaning “Clear, Bright, Light”.",
+    "spiritual_significance": "Any spiritual significance attached to Clarice is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Clear, Bright, Light” is the basis of any symbolism attached to Clarice; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Clarice."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#ClariceMeaning",
+      "#ChristianBabyNames",
+      "#LatinNames",
+      "#ChristianNames",
+      "#Clarice"
+    ],
+    "monetization": {
+      "ads": {
+        "placement": [
+          "header",
+          "sidebar",
+          "footer"
+        ],
+        "ad_units": [
+          {
+            "id": "google_ad_1",
+            "size": "300x250"
+          },
+          {
+            "id": "google_ad_2",
+            "size": "336x280"
+          }
+        ]
+      },
+      "affiliate": {
+        "links": [
+          {
+            "text": "Shop for Clarice-inspired baby items",
+            "url": "https://example.com/clarice-baby"
+          }
+        ]
+      }
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Clarice Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Clarice has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Clarice, Clarice name meaning, Clarice meaning, Clarice origin, Clarice root, Clarice pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Clarice has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Clarice",
+        "Clarice name meaning",
+        "Clarice meaning",
+        "Clarice origin",
+        "Clarice root",
+        "Clarice pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Clarice name meaning",
+      "secondary_keywords": [
+        "Clarice meaning",
+        "Clarice origin",
+        "Clarice pronunciation",
+        "Clarice lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Clarice mean?",
+          "a": "Name-lists record the meaning as “Clear, Bright, Light”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Clarice verified?",
+          "a": "No. The meaning of Clarice could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Clarice come from?",
+          "a": "The origin of Clarice has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Clarice Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Clarice has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Clarice",
+      "Clarice name meaning",
+      "Clarice meaning",
+      "Clarice origin",
+      "Clarice root",
+      "Clarice pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Clarice has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Clarice",
+      "description": "Clarice — Clear, Bright, Light",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Clarice mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Clear, Bright, Light”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Clarice verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Clarice could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Clarice come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Clarice has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:07:39.000Z",
+    "tier1_verified": {
+      "name": "Clarice",
+      "slug": "clarice",
+      "meaning": "Clear, Bright, Light",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Clarice",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Clear, Bright, Light",
+      "long_meaning": "The name Clarice is recorded with the meaning “Clear, Bright, Light”. Clarice is a Biblical name meaning “Clear, Bright, Light”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Clarice",
+          "meaning": "Clear, Bright, Light",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "KLAR-is",
+        "ipa": "/ˈklærɪs/"
+      },
+      "syllables": 2,
+      "name_length": 7,
+      "faqs": [
+        {
+          "q": "What does the name Clarice mean?",
+          "a": "Name-lists record the meaning as “Clear, Bright, Light”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Clarice verified?",
+          "a": "No. The meaning of Clarice could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Clarice come from?",
+          "a": "The origin of Clarice has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 6,
+        "life_path_number": 6,
+        "ruling_planet": "Venus",
+        "lucky_day": "Friday",
+        "lucky_stone": "Diamond",
+        "lucky_colors": [
+          "White",
+          "Pink"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Clarice total 33, reducing to 6. Number 6 is associated with responsibility, care and harmony."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:07:39.000Z"
+    }
   }
- }
 }

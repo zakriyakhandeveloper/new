@@ -1,549 +1,388 @@
 {
- "success": true,
- "data": {
-  "name": "Akila",
-  "slug": "akila",
-  "language": [
-   "Arabic",
-   "Urdu",
-   "Persian",
-   "Pashto"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Akila is used as a unisex name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Intelligent, Wise, Understanding",
-  "long_meaning": "The name Akila is recorded with the meaning “Intelligent, Wise, Understanding”. Akila is a Arabic name meaning “Intelligent, Wise, Understanding”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Akila expresses “Intelligent, Wise, Understanding”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Akila is recorded with the meaning “Intelligent, Wise, Understanding”. Akila is a Arabic name meaning “Intelligent, Wise, Understanding”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-k-i-l-a",
-  "syllables": 3,
-  "name_length": 5,
-  "transliteration": [
-   "Akila"
-  ],
-  "lucky_number": 7,
-  "lucky_day": "Tuesday",
-  "lucky_colors": [
-   "Grey",
-   "Smoke"
-  ],
-  "lucky_stone": "Cat's Eye",
-  "ruling_planet": "Ketu",
-  "life_path_number": 7,
-  "numerology_meaning": "In Pythagorean numerology the letters of Akila total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search.",
-  "in_arabic": {
-   "name": "أكيلا",
-   "meaning": "الواقعية، الحكمة، الفطنة، الذكاء، اللياقة",
-   "long_meaning": "أصلها من الاِكلاء، المُستعاذون إلى الله تَعالي، ويُشتق من الأَكلا، الأَكيل، المُستعاذ، فَأكيلاً يُدخل في فعل الاستعاذة في القرآن الكريم، حيث يُستعمل في قوله تعالى {وَلَوْ أَنَّهُمْ صَدَقُوا اللَّهَ لَكَانَ خَيْراً لَهُمْ مِنْ ذَلِكَ وَأَعَدَّ لَهُمْ عَذَاباً عَظِيماً} [الزمر: 8]، ويُعتبر اسمًا من أسماء الله الحسنى، ويُستعمل أيضًا في تسمية بعض الأئمة في الإسلام، ويُمكن أن يكون اسمًا للجنس من الذكور، ويُعد من أسماء الله الحسنى، ويُستعمل في التسمية من قبل المسلمين في جميع أنحاء العالم"
-  },
-  "in_urdu": {
-   "name": "اکیلہ",
-   "meaning": "واقعیت، حکیمانہ، فطرت، ذکاوت، لياقت",
-   "long_meaning": "اس کے معنی سے لگتا ہے کہ یہ نام اکلاوں کے لیے مخصوص ہے، جو اللہ تعالیٰ سے استغاثہ کرتے ہیں، اور یہ نام اکلا کے معنی کا مشتق ہے، جس کا مطلب ہے کہ وہ اللہ تعالیٰ کی طرف متوجہ ہے، اور یہ نام قرآن کے بعض مقامات پر استعمال ہوا ہے، جیسے {وَلَوْ أَنَّهُمْ صَدَقُوا اللَّهَ لَكَانَ خَيْراً لَهُمْ مِنْ ذَلِكَ وَأَعَدَّ لَهُمْ عَذَاباً عَظِيماً} [الزمر: 8]، اور یہ نام اللہ تعالیٰ کے نیک ناموں میں سے ایک ہے، اور یہ نام اہل اسلام کے لیے بہت اہم ہے، اور یہ نام پوری دنیا میں استعمال ہوتا ہے"
-  },
-  "in_hindi": {
-   "name": "अकीला",
-   "meaning": "वास्तविकता, बुद्धिमत्ता, फ़लसफ़ा, बुद्धि, शारीरिक क्षमता",
-   "long_meaning": "इस نام का अर्थ है कि वह वास्तविक है, और जो اللाह अल्लाह के नाम से तौबा करते हैं, और इस नाम का मूल अर्थ है कि वह जो लोग लाह की तरफ से आते हैं, और इस नाम का उपयोग कुरआन में किया गया है, जैसे कि {وَلَوْ أَنَّهُمْ صَدَقُوا اللَّह लाह लَكाँ खَي रاء लَهُمْ مِنْ ذَلिक وَأَعَدَّ لَهُمْ عَذाबा عظيم} [الز 39:8] और यह नाम अल्लाह के नामो में से एक है, और इस नाम का उपयोग भारत में मुस्लिम समुदाय में किया जाता है, और यह नाम पूरी दुनिया में प्रयोग किया जाता है"
-  },
-  "in_pashto": {
-   "name": "اکیلې",
-   "meaning": "واقعیت، حکیمانه فطرت، ذکاوت، لياقت",
-   "long_meaning": "دا داډل په معنا دی دا لاه ته څه کولی، چې دا لاه ته استغاثه کوي، او دا داډل له اکلو ته مشتق دی، چې دا داډل لاه ته اشاره کوي، او دا داډل قرآن کريم کې څنګه کارول شوی دی، همدارنګه دا داډل لاه ته نیک نام دی، او دا داډل لاه ته په پوره دنیا کې کارول کيږي"
-  },
-  "in_english": {
-   "name": "Akila",
-   "meaning": "Intelligent, Wise, Understanding",
-   "long_meaning": "The name Akila is recorded with the meaning “Intelligent, Wise, Understanding”. Akila is a Arabic name meaning “Intelligent, Wise, Understanding”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "ah-KEE-lah",
-   "urdu": "اکیلہ",
-   "hindi": "अकीला",
-   "pashto": "اکیلې",
-   "ipa": "/ˈɑː.kɪ.lɑ/"
-  },
-  "name_variations": [
-   "Akila"
-  ],
-  "variants": [
-   "Akila"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Akila is used in Arabic naming tradition with the meaning “Intelligent, Wise, Understanding”.",
-  "spiritual_significance": "Any spiritual significance attached to Akila is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Intelligent, Wise, Understanding” is the basis of any symbolism attached to Akila; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Akila has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Akila."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AkilaMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Akila"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Akila",
-     "description": "Discover the meaning of Akila - \"Intelligent, Wise, Understanding\"",
-     "image": "/images/social/akila-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Akila - Name Meaning",
-     "description": "Learn about the beautiful name Akila",
-     "image": "/images/social/akila-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Akila",
-     "description": "Name meaning: Intelligent, Wise, Understanding",
-     "image": "/images/social/akila-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Akila - Meaning: Intelligent, Wise, Understanding",
-    "email_subject": "Beautiful Name: Akila"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Akila with meaning Intelligent, Wise, Understanding",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Akila Name Meaning – Intelligent, Wise, Understanding (Arabic)",
-   "meta_description": "Akila is a Arabic name meaning “Intelligent, Wise, Understanding”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Akila, Akila name meaning, Akila meaning, Akila origin, Akila root, Akila pronunciation, Arabic names",
-   "description_paragraph": "Akila is a Arabic name meaning “Intelligent, Wise, Understanding”.",
-   "keywords": [
-    "Akila",
-    "Akila name meaning",
-    "Akila meaning",
-    "Akila origin",
-    "Akila root",
-    "Akila pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Akila name meaning",
-   "secondary_keywords": [
-    "Akila meaning",
-    "Akila origin",
-    "Akila pronunciation",
-    "Akila lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/akila",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Does Akila have a positive meaning?",
-     "a": "Akila carries the meaning “Intelligent, Wise, Understanding”."
-    },
-    {
-     "q": "What does the name Akila mean?",
-     "a": "Akila means “Intelligent, Wise, Understanding”."
-    },
-    {
-     "q": "What is the origin of the name Akila?",
-     "a": "Akila is of Arabic origin."
-    },
-    {
-     "q": "Is Akila a unisex name?",
-     "a": "Akila is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Akila have?",
-     "a": "Akila has 3 syllables."
-    },
-    {
-     "q": "How is Akila pronounced?",
-     "a": "Akila is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Akila?",
-     "a": "Any spiritual significance attached to Akila is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Akila?",
-     "a": "Variant spellings of Akila are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Akila a common name?",
-     "a": "Popularity figures for Akila have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Akila say about a child?",
-     "a": "The name Akila expresses “Intelligent, Wise, Understanding”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Akila be used in another language?",
-     "a": "Akila is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Akila mentioned in scripture?",
-     "a": "No scriptural reference for Akila has been verified; the record is flagged for source verification."
-    }
-   ]
-  },
-  "seo_title": "Akila Name Meaning – Intelligent, Wise, Understanding (Arabic)",
-  "meta_description": "Akila is a Arabic name meaning “Intelligent, Wise, Understanding”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Akila",
-   "Akila name meaning",
-   "Akila meaning",
-   "Akila origin",
-   "Akila root",
-   "Akila pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/akila",
-  "intro_paragraph": "Akila is a Arabic name meaning “Intelligent, Wise, Understanding”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Akila",
-   "description": "Akila — Intelligent, Wise, Understanding",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Does Akila have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Akila carries the meaning “Intelligent, Wise, Understanding”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Akila mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Akila means “Intelligent, Wise, Understanding”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Akila?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Akila is of Arabic origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Akila a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Akila is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Akila have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Akila has 3 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Akila pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Akila is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Akila?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Akila is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Akila?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Akila are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Akila a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Akila have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Akila say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Akila expresses “Intelligent, Wise, Understanding”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Akila be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Akila is recorded in Arabic; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Akila mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Akila has been verified; the record is flagged for source verification."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Akila",
-     "item": "https://namemeaning.example/name/akila"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-12-22T19:19:50.332Z",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Akila",
-   "slug": "akila",
-   "meaning": "Intelligent, Wise, Understanding",
-   "origin": "Arabic",
-   "language": [
-    "Arabic",
-    "Urdu",
-    "Persian",
-    "Pashto"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Akila",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Intelligent, Wise, Understanding",
-   "long_meaning": "The name Akila is recorded with the meaning “Intelligent, Wise, Understanding”. Akila is a Arabic name meaning “Intelligent, Wise, Understanding”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Akila",
-     "meaning": "Intelligent, Wise, Understanding",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "ah-KEE-lah",
-    "ipa": "/ˈɑː.kɪ.lɑ/"
-   },
-   "syllables": 3,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "Does Akila have a positive meaning?",
-     "a": "Akila carries the meaning “Intelligent, Wise, Understanding”."
-    },
-    {
-     "q": "What does the name Akila mean?",
-     "a": "Akila means “Intelligent, Wise, Understanding”."
-    },
-    {
-     "q": "What is the origin of the name Akila?",
-     "a": "Akila is of Arabic origin."
-    },
-    {
-     "q": "Is Akila a unisex name?",
-     "a": "Akila is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Akila have?",
-     "a": "Akila has 3 syllables."
-    },
-    {
-     "q": "How is Akila pronounced?",
-     "a": "Akila is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Akila?",
-     "a": "Any spiritual significance attached to Akila is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Akila?",
-     "a": "Variant spellings of Akila are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Akila a common name?",
-     "a": "Popularity figures for Akila have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Akila say about a child?",
-     "a": "The name Akila expresses “Intelligent, Wise, Understanding”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Akila be used in another language?",
-     "a": "Akila is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Akila mentioned in scripture?",
-     "a": "No scriptural reference for Akila has been verified; the record is flagged for source verification."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 7,
-    "life_path_number": 7,
-    "ruling_planet": "Ketu",
-    "lucky_day": "Tuesday",
-    "lucky_stone": "Cat's Eye",
-    "lucky_colors": [
-     "Grey",
-     "Smoke"
+  "success": true,
+  "data": {
+    "name": "Akila",
+    "slug": "akila",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Pashto"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Akila total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Akila is used as a unisex name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Intelligent, Wise, Understanding",
+    "long_meaning": "The meaning of Akila is recorded in name-lists as “Intelligent, Wise, Understanding”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Akila expresses “Intelligent, Wise, Understanding”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Arabic",
+    "root_letters": "a-k-i-l-a",
+    "syllables": 3,
+    "name_length": 5,
+    "transliteration": [
+      "Akila"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Tuesday",
+    "lucky_colors": [
+      "Grey",
+      "Smoke"
+    ],
+    "lucky_stone": "Cat's Eye",
+    "ruling_planet": "Ketu",
+    "life_path_number": 7,
+    "numerology_meaning": "In Pythagorean numerology the letters of Akila total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search.",
+    "in_arabic": {
+      "name": "أكيلا",
+      "meaning": "Intelligent, Wise, Understanding",
+      "long_meaning": "Intelligent, Wise, Understanding"
+    },
+    "in_urdu": {
+      "name": "اکیلہ",
+      "meaning": "Intelligent, Wise, Understanding",
+      "long_meaning": "Intelligent, Wise, Understanding"
+    },
+    "in_hindi": {
+      "name": "अकीला",
+      "meaning": "Intelligent, Wise, Understanding",
+      "long_meaning": "Intelligent, Wise, Understanding"
+    },
+    "in_pashto": {
+      "name": "اکیلې",
+      "meaning": "Intelligent, Wise, Understanding",
+      "long_meaning": "Intelligent, Wise, Understanding"
+    },
+    "in_english": {
+      "name": "Akila",
+      "meaning": "Intelligent, Wise, Understanding",
+      "long_meaning": "Intelligent, Wise, Understanding"
+    },
+    "pronunciation": {
+      "english": "ah-KEE-lah",
+      "urdu": "اکیلہ",
+      "hindi": "अकीला",
+      "pashto": "اکیلې",
+      "ipa": "/ˈɑː.kɪ.lɑ/"
+    },
+    "name_variations": [
+      "Akila"
+    ],
+    "variants": [
+      "Akila"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Akila is used in Arabic naming tradition with the meaning “Intelligent, Wise, Understanding”.",
+    "spiritual_significance": "Any spiritual significance attached to Akila is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Intelligent, Wise, Understanding” is the basis of any symbolism attached to Akila; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "No Qur'anic reference for Akila has been verified."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Akila."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AkilaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Akila"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Akila",
+          "description": "Discover the meaning of Akila - \"Intelligent, Wise, Understanding\"",
+          "image": "/images/social/akila-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Akila - Name Meaning",
+          "description": "Learn about the beautiful name Akila",
+          "image": "/images/social/akila-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Akila",
+          "description": "Name meaning: Intelligent, Wise, Understanding",
+          "image": "/images/social/akila-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Akila - Meaning: Intelligent, Wise, Understanding",
+        "email_subject": "Beautiful Name: Akila"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Akila with meaning Intelligent, Wise, Understanding",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Akila Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Akila has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Akila, Akila name meaning, Akila meaning, Akila origin, Akila root, Akila pronunciation, Arabic names",
+      "description_paragraph": "The meaning of Akila has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Akila",
+        "Akila name meaning",
+        "Akila meaning",
+        "Akila origin",
+        "Akila root",
+        "Akila pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Akila name meaning",
+      "secondary_keywords": [
+        "Akila meaning",
+        "Akila origin",
+        "Akila pronunciation",
+        "Akila lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Akila mean?",
+          "a": "Name-lists record the meaning as “Intelligent, Wise, Understanding”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Akila verified?",
+          "a": "No. The meaning of Akila could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Akila come from?",
+          "a": "The origin of Akila has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Akila Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Akila has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Akila",
+      "Akila name meaning",
+      "Akila meaning",
+      "Akila origin",
+      "Akila root",
+      "Akila pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Akila has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Akila",
+      "description": "Akila — Intelligent, Wise, Understanding",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Akila mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Intelligent, Wise, Understanding”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Akila verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Akila could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Akila come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Akila has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 70
+    },
+    "created_at": "2025-12-22T19:19:50.332Z",
+    "updated_at": "2026-10-01T04:04:34.000Z",
+    "tier1_verified": {
+      "name": "Akila",
+      "slug": "akila",
+      "meaning": "Intelligent, Wise, Understanding",
+      "origin": "Arabic",
+      "language": [
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Pashto"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Akila",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Intelligent, Wise, Understanding",
+      "long_meaning": "The name Akila is recorded with the meaning “Intelligent, Wise, Understanding”. Akila is a Arabic name meaning “Intelligent, Wise, Understanding”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Akila",
+          "meaning": "Intelligent, Wise, Understanding",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "ah-KEE-lah",
+        "ipa": "/ˈɑː.kɪ.lɑ/"
+      },
+      "syllables": 3,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Akila mean?",
+          "a": "Name-lists record the meaning as “Intelligent, Wise, Understanding”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Akila verified?",
+          "a": "No. The meaning of Akila could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Akila come from?",
+          "a": "The origin of Akila has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 7,
+        "life_path_number": 7,
+        "ruling_planet": "Ketu",
+        "lucky_day": "Tuesday",
+        "lucky_stone": "Cat's Eye",
+        "lucky_colors": [
+          "Grey",
+          "Smoke"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Akila total 16, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:34.000Z"
+    }
   }
- }
 }

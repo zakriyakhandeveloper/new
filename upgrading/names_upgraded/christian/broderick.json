@@ -1,504 +1,343 @@
 {
- "success": true,
- "data": {
-  "name": "Broderick",
-  "slug": "broderick",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Broderick is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Saint",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Brave ruler",
-  "long_meaning": "The name Broderick is recorded with the meaning “Brave ruler”. Broderick is a Biblical name meaning “Brave ruler”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Broderick expresses “Brave ruler”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Broderick is recorded with the meaning “Brave ruler”. Broderick is a Biblical name meaning “Brave ruler”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "b-r-o-d-e-r-i-c-k",
-  "syllables": 3,
-  "name_length": 9,
-  "transliteration": [
-   "Broderick"
-  ],
-  "lucky_number": 4,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Grey",
-   "Blue"
-  ],
-  "lucky_stone": "Hessonite",
-  "ruling_planet": "Rahu",
-  "life_path_number": 4,
-  "numerology_meaning": "In Pythagorean numerology the letters of Broderick total 49, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-  "in_hebrew": {
-   "name": "ברודריק",
-   "meaning": "משמעות של שם האדם שבא מהאנגלית",
-   "long_meaning": "שם האדם ברודריק נובע מהמילה האנגלית, ששמעותה 'בן רודריק' (son of Roderick), שהיא יישוב של צורה 'בעל' (of) + 'רודר' (rider, rider of horses), שממנו נגזר שם האדם, ושם האדם של הרודריק, שהיה מצביא ומלך בסקוטלנד, ובאזכור השם, נכלל גם סממני של חזק, גבריות, וסממני הרוח, והיה שם נפוץ בדרך כלל, בקרב הכנסייה, כאנטי-כנסייתי, אולם, נכלל גם שם, בשושלת הבית המלכותי הסקוטי, וכאשר השם, נכלל, בקרב הכנסייה, נכלל גם סממני הקדוש, ואולי בשל כך, נכלל, גם, בשם, אחד הקדושים הקדושים של הכנסייה, של אירלנד, וזה, קדוש, חי בשנים, 450-519, ונפטר, בשנת, 519"
-  },
-  "in_greek": {
-   "name": "Μπρόδερικ",
-   "meaning": "σημασία ονόματος που προέρχεται από την αγγλική",
-   "long_meaning": "το όνομα Μπρόδερικ προέρχεται από την αγγλική λέξη, η οποία σημαίνει 'γιος του Ρόδερικ', και η οποία είναι μια μορφή της λέξης 'Ρόδερικ', η οποία είναι μια συνθετική λέξη που συνίσταται από το 'Ρόδερ' (οδηγός, ιππικό) και το 'ΙΚ' (υπερασπιστής, ένοπλος). Ο Ρόδερικ ήταν ένας στρατηγός και βασιλιάς της Σκωτίας, και η αναφορά του ονόματος περιλαμβάνει επίσης τα χαρακτηριστικά της δύναμης, του ανδρισμού και της θρησκευτικότητας. Τον 19ο αιώνα, το όνομα Μπρόδερικ χρησιμοποιήθηκε ως εναλλακτική ονομασία για τους αθεϊστές, αλλά επίσης ήταν μια κοινή ονομασία στη βασιλική οικογένεια της Σκωτίας. Όταν το όνομα ενσωματώθηκε στην Εκκλησία, περιλάμβανε επίσης τα χαρακτηριστικά του αγίου, και μπορεί να συνδέεται με έναν αγιογράφημα της Ιρλανδίας, ο οποίος έζησε μεταξύ 450 και 519 και πέθανε το 519"
-  },
-  "in_latin": {
-   "name": "Brodericus",
-   "meaning": "nomen significans filium Roderici",
-   "long_meaning": "Nomen Brodericus origine a lingua Anglicana, significans filium Roderici, unde Rodericus, forma composita ex Roder et IC, Roder significans ductorem, equitum, IC significans protector, miles. Rodericus miles et rex Scotiae fuit. Nomen Brodericus, cum in Ecclesia includeretur, includeret etiam characteres fortitudinis, virilitatis, et spiritualitatis. Nomen Brodericus, saeculo XIX, in Ecclesia includeretur, sed etiam in familia regia Scotiae. Cum in Ecclesia includeretur, includeret etiam characteres sancti, et poterit esse relata ad Sanctum Irlandiae, qui vixerat ab anno 450 usque ad annum 519 et mortuus est anno 519"
-  },
-  "in_english": {
-   "name": "Broderick",
-   "meaning": "Brave ruler",
-   "long_meaning": "The name Broderick is recorded with the meaning “Brave ruler”. Broderick is a Biblical name meaning “Brave ruler”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "BROH-dur-ik",
-   "biblical": "Biblical Hebrew: /broˈdɛrik/ or Biblical Greek: /bʁoˈðerik/",
-   "ipa": "/broʊˈdɛrɪk/"
-  },
-  "name_variations": [
-   "Broderick"
-  ],
-  "variants": [
-   "Broderick"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Broderick is used in Biblical naming tradition with the meaning “Brave ruler”.",
-  "spiritual_significance": "Any spiritual significance attached to Broderick is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Brave ruler” is the basis of any symbolism attached to Broderick; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Broderick."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#BroderickMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Broderick"
-  ],
-  "monetization": {
-   "ads": {
-    "type": "display",
-    "location": "sidebar"
-   },
-   "affiliate": [
-    {
-     "merchant": "Amazon",
-     "product": "books on baby names"
-    },
-    {
-     "merchant": "BabyCenter",
-     "product": "personalized baby products"
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Broderick Name Meaning – Brave ruler (Biblical)",
-   "meta_description": "Broderick is a Biblical name meaning “Brave ruler”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Broderick, Broderick name meaning, Broderick meaning, Broderick origin, Broderick root, Broderick pronunciation, Biblical names",
-   "description_paragraph": "Broderick is a Biblical name meaning “Brave ruler”.",
-   "keywords": [
-    "Broderick",
-    "Broderick name meaning",
-    "Broderick meaning",
-    "Broderick origin",
-    "Broderick root",
-    "Broderick pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Broderick name meaning",
-   "secondary_keywords": [
-    "Broderick meaning",
-    "Broderick origin",
-    "Broderick pronunciation",
-    "Broderick lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/broderick",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Which gemstone is associated with Broderick?",
-     "a": "Hessonite is the traditional association for Broderick. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Broderick?",
-     "a": "Grey, Blue are the traditional associations for Broderick. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Broderick?",
-     "a": "In Pythagorean numerology the letters of Broderick total 49, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-    },
-    {
-     "q": "How reliable is the meaning given for Broderick?",
-     "a": "The meaning of Broderick carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Broderick have a religious meaning?",
-     "a": "Broderick is recorded as a christian name meaning “Brave ruler”."
-    },
-    {
-     "q": "What is the English meaning of Broderick?",
-     "a": "In English, Broderick is rendered as “Brave ruler”."
-    },
-    {
-     "q": "Is Broderick suitable for a baby?",
-     "a": "Broderick is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Broderick?",
-     "a": "Broderick is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Broderick?",
-     "a": "Broderick is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Broderick have a positive meaning?",
-     "a": "Broderick carries the meaning “Brave ruler”."
-    },
-    {
-     "q": "What does the name Broderick mean?",
-     "a": "Broderick means “Brave ruler”."
-    },
-    {
-     "q": "What is the origin of the name Broderick?",
-     "a": "Broderick is of Biblical origin."
-    }
-   ]
-  },
-  "seo_title": "Broderick Name Meaning – Brave ruler (Biblical)",
-  "meta_description": "Broderick is a Biblical name meaning “Brave ruler”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Broderick",
-   "Broderick name meaning",
-   "Broderick meaning",
-   "Broderick origin",
-   "Broderick root",
-   "Broderick pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/broderick",
-  "intro_paragraph": "Broderick is a Biblical name meaning “Brave ruler”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Broderick",
-   "description": "Broderick — Brave ruler",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Broderick?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Hessonite is the traditional association for Broderick. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Broderick?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Grey, Blue are the traditional associations for Broderick. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Broderick?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Broderick total 49, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Broderick?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Broderick carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Broderick have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Broderick is recorded as a christian name meaning “Brave ruler”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Broderick?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Broderick is rendered as “Brave ruler”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Broderick suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Broderick is used as a male given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Broderick?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Broderick is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Broderick?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Broderick is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Broderick have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Broderick carries the meaning “Brave ruler”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Broderick mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Broderick means “Brave ruler”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Broderick?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Broderick is of Biblical origin."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Broderick",
-     "item": "https://namemeaning.example/name/broderick"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Broderick",
-   "slug": "broderick",
-   "meaning": "Brave ruler",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Broderick",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Brave ruler",
-   "long_meaning": "The name Broderick is recorded with the meaning “Brave ruler”. Broderick is a Biblical name meaning “Brave ruler”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Broderick",
-     "meaning": "Brave ruler",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "BROH-dur-ik",
-    "ipa": "/broʊˈdɛrɪk/"
-   },
-   "syllables": 3,
-   "name_length": 9,
-   "faqs": [
-    {
-     "q": "Which gemstone is associated with Broderick?",
-     "a": "Hessonite is the traditional association for Broderick. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Broderick?",
-     "a": "Grey, Blue are the traditional associations for Broderick. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Broderick?",
-     "a": "In Pythagorean numerology the letters of Broderick total 49, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-    },
-    {
-     "q": "How reliable is the meaning given for Broderick?",
-     "a": "The meaning of Broderick carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Broderick have a religious meaning?",
-     "a": "Broderick is recorded as a christian name meaning “Brave ruler”."
-    },
-    {
-     "q": "What is the English meaning of Broderick?",
-     "a": "In English, Broderick is rendered as “Brave ruler”."
-    },
-    {
-     "q": "Is Broderick suitable for a baby?",
-     "a": "Broderick is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Broderick?",
-     "a": "Broderick is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Broderick?",
-     "a": "Broderick is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Broderick have a positive meaning?",
-     "a": "Broderick carries the meaning “Brave ruler”."
-    },
-    {
-     "q": "What does the name Broderick mean?",
-     "a": "Broderick means “Brave ruler”."
-    },
-    {
-     "q": "What is the origin of the name Broderick?",
-     "a": "Broderick is of Biblical origin."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 4,
-    "life_path_number": 4,
-    "ruling_planet": "Rahu",
-    "lucky_day": "Saturday",
-    "lucky_stone": "Hessonite",
-    "lucky_colors": [
-     "Grey",
-     "Blue"
+  "success": true,
+  "data": {
+    "name": "Broderick",
+    "slug": "broderick",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Broderick total 49, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Broderick is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Saint",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Brave ruler",
+    "long_meaning": "The meaning of Broderick is recorded in name-lists as “Brave ruler”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Broderick expresses “Brave ruler”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "b-r-o-d-e-r-i-c-k",
+    "syllables": 3,
+    "name_length": 9,
+    "transliteration": [
+      "Broderick"
+    ],
+    "lucky_number": 4,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Grey",
+      "Blue"
+    ],
+    "lucky_stone": "Hessonite",
+    "ruling_planet": "Rahu",
+    "life_path_number": 4,
+    "numerology_meaning": "In Pythagorean numerology the letters of Broderick total 49, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
+    "in_hebrew": {
+      "name": "ברודריק",
+      "meaning": "משמעות של שם האדם שבא מהאנגלית",
+      "long_meaning": "שם האדם ברודריק נובע מהמילה האנגלית, ששמעותה 'בן רודריק' (son of Roderick), שהיא יישוב של צורה 'בעל' (of) + 'רודר' (rider, rider of horses), שממנו נגזר שם האדם, ושם האדם של הרודריק, שהיה מצביא ומלך בסקוטלנד, ובאזכור השם, נכלל גם סממני של חזק, גבריות, וסממני הרוח, והיה שם נפוץ בדרך כלל, בקרב הכנסייה, כאנטי-כנסייתי, אולם, נכלל גם שם, בשושלת הבית המלכותי הסקוטי, וכאשר השם, נכלל, בקרב הכנסייה, נכלל גם סממני הקדוש, ואולי בשל כך, נכלל, גם, בשם, אחד הקדושים הקדושים של הכנסייה, של אירלנד, וזה, קדוש, חי בשנים, 450-519, ונפטר, בשנת, 519"
+    },
+    "in_greek": {
+      "name": "Μπρόδερικ",
+      "meaning": "σημασία ονόματος που προέρχεται από την αγγλική",
+      "long_meaning": "το όνομα Μπρόδερικ προέρχεται από την αγγλική λέξη, η οποία σημαίνει 'γιος του Ρόδερικ', και η οποία είναι μια μορφή της λέξης 'Ρόδερικ', η οποία είναι μια συνθετική λέξη που συνίσταται από το 'Ρόδερ' (οδηγός, ιππικό) και το 'ΙΚ' (υπερασπιστής, ένοπλος). Ο Ρόδερικ ήταν ένας στρατηγός και βασιλιάς της Σκωτίας, και η αναφορά του ονόματος περιλαμβάνει επίσης τα χαρακτηριστικά της δύναμης, του ανδρισμού και της θρησκευτικότητας. Τον 19ο αιώνα, το όνομα Μπρόδερικ χρησιμοποιήθηκε ως εναλλακτική ονομασία για τους αθεϊστές, αλλά επίσης ήταν μια κοινή ονομασία στη βασιλική οικογένεια της Σκωτίας. Όταν το όνομα ενσωματώθηκε στην Εκκλησία, περιλάμβανε επίσης τα χαρακτηριστικά του αγίου, και μπορεί να συνδέεται με έναν αγιογράφημα της Ιρλανδίας, ο οποίος έζησε μεταξύ 450 και 519 και πέθανε το 519"
+    },
+    "in_latin": {
+      "name": "Brodericus",
+      "meaning": "nomen significans filium Roderici",
+      "long_meaning": "Nomen Brodericus origine a lingua Anglicana, significans filium Roderici, unde Rodericus, forma composita ex Roder et IC, Roder significans ductorem, equitum, IC significans protector, miles. Rodericus miles et rex Scotiae fuit. Nomen Brodericus, cum in Ecclesia includeretur, includeret etiam characteres fortitudinis, virilitatis, et spiritualitatis. Nomen Brodericus, saeculo XIX, in Ecclesia includeretur, sed etiam in familia regia Scotiae. Cum in Ecclesia includeretur, includeret etiam characteres sancti, et poterit esse relata ad Sanctum Irlandiae, qui vixerat ab anno 450 usque ad annum 519 et mortuus est anno 519"
+    },
+    "in_english": {
+      "name": "Broderick",
+      "meaning": "Brave ruler",
+      "long_meaning": "Brave ruler"
+    },
+    "pronunciation": {
+      "english": "BROH-dur-ik",
+      "biblical": "Biblical Hebrew: /broˈdɛrik/ or Biblical Greek: /bʁoˈðerik/",
+      "ipa": "/broʊˈdɛrɪk/"
+    },
+    "name_variations": [
+      "Broderick"
+    ],
+    "variants": [
+      "Broderick"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Broderick is used in Biblical naming tradition with the meaning “Brave ruler”.",
+    "spiritual_significance": "Any spiritual significance attached to Broderick is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Brave ruler” is the basis of any symbolism attached to Broderick; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Broderick."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#BroderickMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Broderick"
+    ],
+    "monetization": {
+      "ads": {
+        "type": "display",
+        "location": "sidebar"
+      },
+      "affiliate": [
+        {
+          "merchant": "Amazon",
+          "product": "books on baby names"
+        },
+        {
+          "merchant": "BabyCenter",
+          "product": "personalized baby products"
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Broderick Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Broderick has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Broderick, Broderick name meaning, Broderick meaning, Broderick origin, Broderick root, Broderick pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Broderick has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Broderick",
+        "Broderick name meaning",
+        "Broderick meaning",
+        "Broderick origin",
+        "Broderick root",
+        "Broderick pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Broderick name meaning",
+      "secondary_keywords": [
+        "Broderick meaning",
+        "Broderick origin",
+        "Broderick pronunciation",
+        "Broderick lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Broderick mean?",
+          "a": "Name-lists record the meaning as “Brave ruler”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Broderick verified?",
+          "a": "No. The meaning of Broderick could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Broderick come from?",
+          "a": "The origin of Broderick has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Broderick Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Broderick has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Broderick",
+      "Broderick name meaning",
+      "Broderick meaning",
+      "Broderick origin",
+      "Broderick root",
+      "Broderick pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Broderick has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Broderick",
+      "description": "Broderick — Brave ruler",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Broderick mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Brave ruler”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Broderick verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Broderick could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Broderick come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Broderick has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:06:51.000Z",
+    "tier1_verified": {
+      "name": "Broderick",
+      "slug": "broderick",
+      "meaning": "Brave ruler",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Broderick",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Brave ruler",
+      "long_meaning": "The name Broderick is recorded with the meaning “Brave ruler”. Broderick is a Biblical name meaning “Brave ruler”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Broderick",
+          "meaning": "Brave ruler",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "BROH-dur-ik",
+        "ipa": "/broʊˈdɛrɪk/"
+      },
+      "syllables": 3,
+      "name_length": 9,
+      "faqs": [
+        {
+          "q": "What does the name Broderick mean?",
+          "a": "Name-lists record the meaning as “Brave ruler”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Broderick verified?",
+          "a": "No. The meaning of Broderick could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Broderick come from?",
+          "a": "The origin of Broderick has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 4,
+        "life_path_number": 4,
+        "ruling_planet": "Rahu",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Hessonite",
+        "lucky_colors": [
+          "Grey",
+          "Blue"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Broderick total 49, reducing to 4. Number 4 is associated with discipline, order and steady effort."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:06:51.000Z"
+    }
   }
- }
 }

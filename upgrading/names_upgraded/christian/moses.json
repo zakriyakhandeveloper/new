@@ -1,519 +1,348 @@
 {
- "success": true,
- "data": {
-  "name": "Moses",
-  "slug": "moses",
-  "language": [
-   "Hebrew"
-  ],
-  "gender": "Male",
-  "gender_notes": "Moses is used as a male name in christian naming traditions.",
-  "origin": "Hebrew",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Hebrew"
-  ],
-  "short_meaning": "Drawn out (of the water)",
-  "long_meaning": "From the Hebrew Moshe, explained in Exodus 2:10 as 'drawn out' of the water. Its root is Hebrew m-sh-h. Moses, the lawgiver (Exodus 3). Moses is a Hebrew name meaning “Drawn out (of the water)”. Families who choose it generally do so for the quality the name expresses.",
-  "spiritual_meaning": "Moses expresses “Drawn out (of the water)”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "From the Hebrew Moshe, explained in Exodus 2:10 as 'drawn out' of the water.",
-  "root": "Hebrew m-sh-h",
-  "language_root": "Hebrew",
-  "root_letters": "m-o-s-e-s",
-  "syllables": 2,
-  "name_length": 5,
-  "transliteration": [
-   "Moshe"
-  ],
-  "lucky_number": 8,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Blue",
-   "Black"
-  ],
-  "lucky_stone": "Blue Sapphire",
-  "ruling_planet": "Saturn",
-  "life_path_number": 8,
-  "numerology_meaning": "In Pythagorean numerology the letters of Moses total 17, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-  "in_hebrew": {
-   "name": "מֹשֶׁה",
-   "meaning": "Drawn out (of the water)",
-   "long_meaning": "מֹשֶׁה — meaning: Drawn out (of the water)"
-  },
-  "in_greek": {
-   "name": "Μωυσῆς",
-   "meaning": "Drawn out (of the water)",
-   "long_meaning": "Μωυσῆς — meaning: Drawn out (of the water)"
-  },
-  "in_latin": {
-   "name": "Moyses",
-   "meaning": "Drawn out (of the water)",
-   "long_meaning": "Moyses — meaning: Drawn out (of the water)"
-  },
-  "in_english": {
-   "name": "Moses",
-   "meaning": "Drawn out (of the water)",
-   "long_meaning": "From the Hebrew Moshe, explained in Exodus 2:10 as 'drawn out' of the water. Its root is Hebrew m-sh-h. Moses, the lawgiver (Exodus 3). Moses is a Hebrew name meaning “Drawn out (of the water)”. Families who choose it generally do so for the quality the name expresses."
-  },
-  "pronunciation": {
-   "english": "MOH-zeez",
-   "biblical": "מוֹשֶׁה (Modern Hebrew)",
-   "ipa": "/ˈmoʊziːz/"
-  },
-  "name_variations": [
-   "Moses"
-  ],
-  "variants": [
-   "Moses"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Moses is used in Hebrew naming tradition with the meaning “Drawn out (of the water)”.",
-  "spiritual_significance": "Any spiritual significance attached to Moses is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Drawn out (of the water)” is the basis of any symbolism attached to Moses; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": true,
-   "origin_scripture": "Exodus",
-   "verse_reference": "Exodus 2:10",
-   "note": "Moses is a central figure in the Hebrew Bible and the Christian Old Testament."
-  },
-  "historical_references": [
-   {
-    "reference": "Moses, the lawgiver (Exodus 3).",
-    "time_period": "",
-    "context": ""
-   }
-  ],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Moses."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#MosesMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Moses"
-  ],
-  "monetization": {
-   "ads": [
-    {
-     "type": "banner",
-     "size": "300x250",
-     "location": "sidebar"
-    },
-    {
-     "type": "text_link",
-     "text": "Learn more about Moses' spiritual significance",
-     "href": "https://example.com/moses-spiritual-significance"
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Moses Name Meaning – Drawn out (of the water) (Hebrew)",
-   "meta_description": "Moses is a Hebrew name meaning “Drawn out (of the water)”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Moses, Moses name meaning, Moses meaning, Moses origin, Moses root, Moses pronunciation, Hebrew names",
-   "description_paragraph": "Moses is a Hebrew name meaning “Drawn out (of the water)”.",
-   "keywords": [
-    "Moses",
-    "Moses name meaning",
-    "Moses meaning",
-    "Moses origin",
-    "Moses root",
-    "Moses pronunciation",
-    "Hebrew names"
-   ],
-   "focus_keyword": "Moses name meaning",
-   "secondary_keywords": [
-    "Moses meaning",
-    "Moses origin",
-    "Moses pronunciation",
-    "Moses lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/moses",
-   "seo_score": 90,
-   "faq": [
-    {
-     "q": "Is Moses suitable for a baby?",
-     "a": "Moses is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Moses?",
-     "a": "Moses is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Moses?",
-     "a": "Moses is used in Hebrew naming traditions."
-    },
-    {
-     "q": "Does Moses have a positive meaning?",
-     "a": "Moses carries the meaning “Drawn out (of the water)”."
-    },
-    {
-     "q": "What does the name Moses mean?",
-     "a": "Moses means “Drawn out (of the water)”."
-    },
-    {
-     "q": "What is the origin of the name Moses?",
-     "a": "Moses is of Hebrew origin."
-    },
-    {
-     "q": "Is Moses a male name?",
-     "a": "Moses is used as a male name."
-    },
-    {
-     "q": "How many syllables does Moses have?",
-     "a": "Moses has 2 syllables."
-    },
-    {
-     "q": "How is Moses pronounced?",
-     "a": "Moses is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Moses?",
-     "a": "Any spiritual significance attached to Moses is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Moses?",
-     "a": "Variant spellings of Moses are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Moses a common name?",
-     "a": "Popularity figures for Moses have not been verified and are not published."
-    }
-   ]
-  },
-  "seo_title": "Moses Name Meaning – Drawn out (of the water) (Hebrew)",
-  "meta_description": "Moses is a Hebrew name meaning “Drawn out (of the water)”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Moses",
-   "Moses name meaning",
-   "Moses meaning",
-   "Moses origin",
-   "Moses root",
-   "Moses pronunciation",
-   "Hebrew names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/moses",
-  "intro_paragraph": "Moses is a Hebrew name meaning “Drawn out (of the water)”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Moses",
-   "description": "Moses — Drawn out (of the water)",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Is Moses suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Moses is used as a male given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Moses?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Moses is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Moses?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Moses is used in Hebrew naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Moses have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Moses carries the meaning “Drawn out (of the water)”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Moses mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Moses means “Drawn out (of the water)”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Moses?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Moses is of Hebrew origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Moses a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Moses is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Moses have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Moses has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Moses pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Moses is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Moses?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Moses is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Moses?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Moses are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Moses a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Moses have not been verified and are not published."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Moses",
-     "item": "https://namemeaning.example/name/moses"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 48,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "HIGH",
-   "etymology": "HIGH",
-   "origin": "HIGH",
-   "scripts": "HIGH",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "HIGH"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Moses",
-   "slug": "moses",
-   "meaning": "Drawn out (of the water)",
-   "origin": "Hebrew",
-   "language": [
-    "Hebrew"
-   ],
-   "gender": "Male",
-   "root": "Hebrew m-sh-h",
-   "etymology": "From the Hebrew Moshe, explained in Exodus 2:10 as 'drawn out' of the water.",
-   "script": {
-    "hebrew": "מֹשֶׁה",
-    "greek": "Μωυσῆς",
-    "latin": "Moyses"
-   },
-   "transliteration": "Moshe",
-   "reference": "Moses, the lawgiver (Exodus 3).",
-   "confidence": "HIGH"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Drawn out (of the water)",
-   "long_meaning": "From the Hebrew Moshe, explained in Exodus 2:10 as 'drawn out' of the water. Its root is Hebrew m-sh-h. Moses, the lawgiver (Exodus 3). Moses is a Hebrew name meaning “Drawn out (of the water)”. Families who choose it generally do so for the quality the name expresses.",
-   "translations": {
-    "hebrew": {
-     "name": "מֹשֶׁה",
-     "meaning": "מֹשֶׁה — meaning: Drawn out (of the water)",
-     "confidence": "HIGH"
-    },
-    "greek": {
-     "name": "Μωυσῆς",
-     "meaning": "Μωυσῆς — meaning: Drawn out (of the water)",
-     "confidence": "HIGH"
-    },
-    "latin": {
-     "name": "Moyses",
-     "meaning": "Moyses — meaning: Drawn out (of the water)",
-     "confidence": "HIGH"
-    },
-    "english": {
-     "name": "Moses",
-     "meaning": "Drawn out (of the water)",
-     "confidence": "HIGH"
-    }
-   },
-   "pronunciation": {
-    "english": "MOH-zeez",
-    "ipa": "/ˈmoʊziːz/"
-   },
-   "syllables": 2,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "Is Moses suitable for a baby?",
-     "a": "Moses is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Moses?",
-     "a": "Moses is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Moses?",
-     "a": "Moses is used in Hebrew naming traditions."
-    },
-    {
-     "q": "Does Moses have a positive meaning?",
-     "a": "Moses carries the meaning “Drawn out (of the water)”."
-    },
-    {
-     "q": "What does the name Moses mean?",
-     "a": "Moses means “Drawn out (of the water)”."
-    },
-    {
-     "q": "What is the origin of the name Moses?",
-     "a": "Moses is of Hebrew origin."
-    },
-    {
-     "q": "Is Moses a male name?",
-     "a": "Moses is used as a male name."
-    },
-    {
-     "q": "How many syllables does Moses have?",
-     "a": "Moses has 2 syllables."
-    },
-    {
-     "q": "How is Moses pronounced?",
-     "a": "Moses is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Moses?",
-     "a": "Any spiritual significance attached to Moses is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Moses?",
-     "a": "Variant spellings of Moses are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Moses a common name?",
-     "a": "Popularity figures for Moses have not been verified and are not published."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 8,
-    "life_path_number": 8,
-    "ruling_planet": "Saturn",
-    "lucky_day": "Saturday",
-    "lucky_stone": "Blue Sapphire",
-    "lucky_colors": [
-     "Blue",
-     "Black"
+  "success": true,
+  "data": {
+    "name": "Moses",
+    "slug": "moses",
+    "language": [
+      "Hebrew"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Moses total 17, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": false,
-   "flags": [],
-   "confidence": "HIGH",
-   "sources": [
-    "Classical lexicography / scripture"
-   ]
+    "gender": "Male",
+    "gender_notes": "Moses is used as a male name in christian naming traditions.",
+    "origin": "Hebrew",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Hebrew"
+    ],
+    "short_meaning": "Drawn out (of the water)",
+    "long_meaning": "The meaning of Moses is recorded in name-lists as “Drawn out (of the water)”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Moses expresses “Drawn out (of the water)”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Hebrew",
+    "root_letters": "m-o-s-e-s",
+    "syllables": 2,
+    "name_length": 5,
+    "transliteration": [
+      "Moshe"
+    ],
+    "lucky_number": 8,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Blue",
+      "Black"
+    ],
+    "lucky_stone": "Blue Sapphire",
+    "ruling_planet": "Saturn",
+    "life_path_number": 8,
+    "numerology_meaning": "In Pythagorean numerology the letters of Moses total 17, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
+    "in_hebrew": {
+      "name": "מֹשֶׁה",
+      "meaning": "Drawn out (of the water)",
+      "long_meaning": "מֹשֶׁה — meaning: Drawn out (of the water)"
+    },
+    "in_greek": {
+      "name": "Μωυσῆς",
+      "meaning": "Drawn out (of the water)",
+      "long_meaning": "Μωυσῆς — meaning: Drawn out (of the water)"
+    },
+    "in_latin": {
+      "name": "Moyses",
+      "meaning": "Drawn out (of the water)",
+      "long_meaning": "Moyses — meaning: Drawn out (of the water)"
+    },
+    "in_english": {
+      "name": "Moses",
+      "meaning": "Drawn out (of the water)",
+      "long_meaning": "Drawn out (of the water)"
+    },
+    "pronunciation": {
+      "english": "MOH-zeez",
+      "biblical": "מוֹשֶׁה (Modern Hebrew)",
+      "ipa": "/ˈmoʊziːz/"
+    },
+    "name_variations": [
+      "Moses"
+    ],
+    "variants": [
+      "Moses"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Moses is used in Hebrew naming tradition with the meaning “Drawn out (of the water)”.",
+    "spiritual_significance": "Any spiritual significance attached to Moses is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Drawn out (of the water)” is the basis of any symbolism attached to Moses; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "Exodus",
+      "verse_reference": "Exodus 2:10",
+      "note": "Moses is a central figure in the Hebrew Bible and the Christian Old Testament."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Moses."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#MosesMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Moses"
+    ],
+    "monetization": {
+      "ads": [
+        {
+          "type": "banner",
+          "size": "300x250",
+          "location": "sidebar"
+        },
+        {
+          "type": "text_link",
+          "text": "Learn more about Moses' spiritual significance",
+          "href": "https://example.com/moses-spiritual-significance"
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Moses Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Moses has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Moses, Moses name meaning, Moses meaning, Moses origin, Moses root, Moses pronunciation, Hebrew names",
+      "description_paragraph": "The meaning of Moses has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Moses",
+        "Moses name meaning",
+        "Moses meaning",
+        "Moses origin",
+        "Moses root",
+        "Moses pronunciation",
+        "Hebrew names"
+      ],
+      "focus_keyword": "Moses name meaning",
+      "secondary_keywords": [
+        "Moses meaning",
+        "Moses origin",
+        "Moses pronunciation",
+        "Moses lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 90,
+      "faq": [
+        {
+          "q": "What does the name Moses mean?",
+          "a": "Name-lists record the meaning as “Drawn out (of the water)”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Moses verified?",
+          "a": "No. The meaning of Moses could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Moses come from?",
+          "a": "The origin of Moses has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Moses Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Moses has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Moses",
+      "Moses name meaning",
+      "Moses meaning",
+      "Moses origin",
+      "Moses root",
+      "Moses pronunciation",
+      "Hebrew names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Moses has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Moses",
+      "description": "Moses — Drawn out (of the water)",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Moses mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Drawn out (of the water)”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Moses verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Moses could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Moses come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Moses has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 48,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:24:41.000Z",
+    "tier1_verified": {
+      "name": "Moses",
+      "slug": "moses",
+      "meaning": "Drawn out (of the water)",
+      "origin": "Hebrew",
+      "language": [
+        "Hebrew"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Moses",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Drawn out (of the water)",
+      "long_meaning": "From the Hebrew Moshe, explained in Exodus 2:10 as 'drawn out' of the water. Its root is Hebrew m-sh-h. Moses, the lawgiver (Exodus 3). Moses is a Hebrew name meaning “Drawn out (of the water)”. Families who choose it generally do so for the quality the name expresses.",
+      "translations": {
+        "hebrew": {
+          "name": "מֹשֶׁה",
+          "meaning": "מֹשֶׁה — meaning: Drawn out (of the water)",
+          "confidence": "HIGH"
+        },
+        "greek": {
+          "name": "Μωυσῆς",
+          "meaning": "Μωυσῆς — meaning: Drawn out (of the water)",
+          "confidence": "HIGH"
+        },
+        "latin": {
+          "name": "Moyses",
+          "meaning": "Moyses — meaning: Drawn out (of the water)",
+          "confidence": "HIGH"
+        },
+        "english": {
+          "name": "Moses",
+          "meaning": "Drawn out (of the water)",
+          "confidence": "HIGH"
+        }
+      },
+      "pronunciation": {
+        "english": "MOH-zeez",
+        "ipa": "/ˈmoʊziːz/"
+      },
+      "syllables": 2,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Moses mean?",
+          "a": "Name-lists record the meaning as “Drawn out (of the water)”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Moses verified?",
+          "a": "No. The meaning of Moses could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Moses come from?",
+          "a": "The origin of Moses has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 8,
+        "life_path_number": 8,
+        "ruling_planet": "Saturn",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Blue Sapphire",
+        "lucky_colors": [
+          "Blue",
+          "Black"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Moses total 17, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:24:41.000Z"
+    }
   }
- }
 }

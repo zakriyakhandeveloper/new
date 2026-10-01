@@ -1,502 +1,341 @@
 {
- "success": true,
- "data": {
-  "name": "Brent",
-  "slug": "brent",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Brent is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Bright, Hill",
-  "long_meaning": "The name Brent is recorded with the meaning “Bright, Hill”. Brent is a Biblical name meaning “Bright, Hill”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Brent expresses “Bright, Hill”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Brent is recorded with the meaning “Bright, Hill”. Brent is a Biblical name meaning “Bright, Hill”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "b-r-e-n-t",
-  "syllables": 1,
-  "name_length": 5,
-  "transliteration": [
-   "Brent"
-  ],
-  "lucky_number": 5,
-  "lucky_day": "Wednesday",
-  "lucky_colors": [
-   "Green",
-   "Turquoise"
-  ],
-  "lucky_stone": "Emerald",
-  "ruling_planet": "Mercury",
-  "life_path_number": 5,
-  "numerology_meaning": "In Pythagorean numerology the letters of Brent total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
-  "in_hebrew": {
-   "name": "×‘×¨×•×Ÿ",
-   "meaning": "×‘×¨×•×Ÿ ×”× ×–×• ×›×•× ×›×•× ×›×•×•",
-   "long_meaning": "×‘×¨×•×Ÿ ×”× ×–×• ×›×•× ×›×•× ×›×•×• ×–×• ×›×•× ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×•"
-  },
-  "in_greek": {
-   "name": "Βρέντης",
-   "meaning": "Βρέντης ονομάζεται άνθρωπος δουλευτικός",
-   "long_meaning": "Βρέντης ονομάζεται άνθρωπος που εργάζεται με πίστη και αφοσίωση. Ονομάζεται από τη λέξη 'βρέντος' που σημαίνει 'ανθρακωμένος' ή 'σκουριασμένος'. Στην Καινή Διαθήκη δεν υπάρχει αναφορά με το όνομα Βρέντης. Ωστόσο, το όνομα έχει χρησιμοποιηθεί σε διάφορες χριστιανικές παράδοσεις ως τίτλος αγιότητας και σημαίνει 'άνθρωπος που είναι πιστός και αφοσιωμένος στον Θεό'."
-  },
-  "in_latin": {
-   "name": "Brentius",
-   "meaning": "Brentius nomen significat hominem fidelissimum",
-   "long_meaning": "Brentius nomen significat hominem qui fidelissimus est et diligentissimus in opere Dei. Originem habet ab verbo 'brennes' quod significat 'ardere' vel 'inflamari'. In early Christian tradition, Brentius est unus ex titulis sanctitatis, quae significat hominem qui est fidelissimus et obedientissimus Domino suo."
-  },
-  "in_english": {
-   "name": "Brent",
-   "meaning": "Bright, Hill",
-   "long_meaning": "The name Brent is recorded with the meaning “Bright, Hill”. Brent is a Biblical name meaning “Bright, Hill”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "BREN-t",
-   "biblical": "×‘×¨×•×Ÿ (Brent)",
-   "ipa": "/bren.t/"
-  },
-  "name_variations": [
-   "Brent"
-  ],
-  "variants": [
-   "Brent"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Brent is used in Biblical naming tradition with the meaning “Bright, Hill”.",
-  "spiritual_significance": "Any spiritual significance attached to Brent is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Bright, Hill” is the basis of any symbolism attached to Brent; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Brent."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#BrentMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Brent"
-  ],
-  "monetization": {
-   "ads": {
-    "placement": "article_body",
-    "format": "display"
-   },
-   "affiliates": [
-    {
-     "product": "BabyClothes",
-     "commission": 0.1
-    },
-    {
-     "product": "NameMeaningBook",
-     "commission": 0.2
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Brent Name Meaning – Bright, Hill (Biblical)",
-   "meta_description": "Brent is a Biblical name meaning “Bright, Hill”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Brent, Brent name meaning, Brent meaning, Brent origin, Brent root, Brent pronunciation, Biblical names",
-   "description_paragraph": "Brent is a Biblical name meaning “Bright, Hill”.",
-   "keywords": [
-    "Brent",
-    "Brent name meaning",
-    "Brent meaning",
-    "Brent origin",
-    "Brent root",
-    "Brent pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Brent name meaning",
-   "secondary_keywords": [
-    "Brent meaning",
-    "Brent origin",
-    "Brent pronunciation",
-    "Brent lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/brent",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Which culture uses the name Brent?",
-     "a": "Brent is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Brent have a positive meaning?",
-     "a": "Brent carries the meaning “Bright, Hill”."
-    },
-    {
-     "q": "What does the name Brent mean?",
-     "a": "Brent means “Bright, Hill”."
-    },
-    {
-     "q": "What is the origin of the name Brent?",
-     "a": "Brent is of Biblical origin."
-    },
-    {
-     "q": "Is Brent a male name?",
-     "a": "Brent is used as a male name."
-    },
-    {
-     "q": "How many syllables does Brent have?",
-     "a": "Brent has 1 syllable."
-    },
-    {
-     "q": "How is Brent pronounced?",
-     "a": "Brent is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Brent?",
-     "a": "Any spiritual significance attached to Brent is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Brent?",
-     "a": "Variant spellings of Brent are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Brent a common name?",
-     "a": "Popularity figures for Brent have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Brent say about a child?",
-     "a": "The name Brent expresses “Bright, Hill”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Brent be used in another language?",
-     "a": "Brent is recorded in Biblical; its script forms in other languages are given in the translations field."
-    }
-   ]
-  },
-  "seo_title": "Brent Name Meaning – Bright, Hill (Biblical)",
-  "meta_description": "Brent is a Biblical name meaning “Bright, Hill”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Brent",
-   "Brent name meaning",
-   "Brent meaning",
-   "Brent origin",
-   "Brent root",
-   "Brent pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/brent",
-  "intro_paragraph": "Brent is a Biblical name meaning “Bright, Hill”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Brent",
-   "description": "Brent — Bright, Hill",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Brent?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Brent is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Brent have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Brent carries the meaning “Bright, Hill”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Brent mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Brent means “Bright, Hill”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Brent?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Brent is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Brent a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Brent is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Brent have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Brent has 1 syllable."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Brent pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Brent is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Brent?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Brent is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Brent?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Brent are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Brent a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Brent have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Brent say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Brent expresses “Bright, Hill”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Brent be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Brent is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Brent",
-     "item": "https://namemeaning.example/name/brent"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Brent",
-   "slug": "brent",
-   "meaning": "Bright, Hill",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Brent",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Bright, Hill",
-   "long_meaning": "The name Brent is recorded with the meaning “Bright, Hill”. Brent is a Biblical name meaning “Bright, Hill”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Brent",
-     "meaning": "Bright, Hill",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "BREN-t",
-    "ipa": "/bren.t/"
-   },
-   "syllables": 1,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "Which culture uses the name Brent?",
-     "a": "Brent is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Brent have a positive meaning?",
-     "a": "Brent carries the meaning “Bright, Hill”."
-    },
-    {
-     "q": "What does the name Brent mean?",
-     "a": "Brent means “Bright, Hill”."
-    },
-    {
-     "q": "What is the origin of the name Brent?",
-     "a": "Brent is of Biblical origin."
-    },
-    {
-     "q": "Is Brent a male name?",
-     "a": "Brent is used as a male name."
-    },
-    {
-     "q": "How many syllables does Brent have?",
-     "a": "Brent has 1 syllable."
-    },
-    {
-     "q": "How is Brent pronounced?",
-     "a": "Brent is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Brent?",
-     "a": "Any spiritual significance attached to Brent is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Brent?",
-     "a": "Variant spellings of Brent are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Brent a common name?",
-     "a": "Popularity figures for Brent have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Brent say about a child?",
-     "a": "The name Brent expresses “Bright, Hill”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Brent be used in another language?",
-     "a": "Brent is recorded in Biblical; its script forms in other languages are given in the translations field."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 5,
-    "life_path_number": 5,
-    "ruling_planet": "Mercury",
-    "lucky_day": "Wednesday",
-    "lucky_stone": "Emerald",
-    "lucky_colors": [
-     "Green",
-     "Turquoise"
+  "success": true,
+  "data": {
+    "name": "Brent",
+    "slug": "brent",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Brent total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Brent is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Bright, Hill",
+    "long_meaning": "The meaning of Brent is recorded in name-lists as “Bright, Hill”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Brent expresses “Bright, Hill”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "b-r-e-n-t",
+    "syllables": 1,
+    "name_length": 5,
+    "transliteration": [
+      "Brent"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Wednesday",
+    "lucky_colors": [
+      "Green",
+      "Turquoise"
+    ],
+    "lucky_stone": "Emerald",
+    "ruling_planet": "Mercury",
+    "life_path_number": 5,
+    "numerology_meaning": "In Pythagorean numerology the letters of Brent total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
+    "in_hebrew": {
+      "name": "×‘×¨×•×Ÿ",
+      "meaning": "×‘×¨×•×Ÿ ×”× ×–×• ×›×•× ×›×•× ×›×•×•",
+      "long_meaning": "×‘×¨×•×Ÿ ×”× ×–×• ×›×•× ×›×•× ×›×•×• ×–×• ×›×•× ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×• ×›×•×•"
+    },
+    "in_greek": {
+      "name": "Βρέντης",
+      "meaning": "Βρέντης ονομάζεται άνθρωπος δουλευτικός",
+      "long_meaning": "Βρέντης ονομάζεται άνθρωπος που εργάζεται με πίστη και αφοσίωση. Ονομάζεται από τη λέξη 'βρέντος' που σημαίνει 'ανθρακωμένος' ή 'σκουριασμένος'. Στην Καινή Διαθήκη δεν υπάρχει αναφορά με το όνομα Βρέντης. Ωστόσο, το όνομα έχει χρησιμοποιηθεί σε διάφορες χριστιανικές παράδοσεις ως τίτλος αγιότητας και σημαίνει 'άνθρωπος που είναι πιστός και αφοσιωμένος στον Θεό'."
+    },
+    "in_latin": {
+      "name": "Brentius",
+      "meaning": "Brentius nomen significat hominem fidelissimum",
+      "long_meaning": "Brentius nomen significat hominem qui fidelissimus est et diligentissimus in opere Dei. Originem habet ab verbo 'brennes' quod significat 'ardere' vel 'inflamari'. In early Christian tradition, Brentius est unus ex titulis sanctitatis, quae significat hominem qui est fidelissimus et obedientissimus Domino suo."
+    },
+    "in_english": {
+      "name": "Brent",
+      "meaning": "Bright, Hill",
+      "long_meaning": "Bright, Hill"
+    },
+    "pronunciation": {
+      "english": "BREN-t",
+      "biblical": "×‘×¨×•×Ÿ (Brent)",
+      "ipa": "/bren.t/"
+    },
+    "name_variations": [
+      "Brent"
+    ],
+    "variants": [
+      "Brent"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Brent is used in Biblical naming tradition with the meaning “Bright, Hill”.",
+    "spiritual_significance": "Any spiritual significance attached to Brent is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Bright, Hill” is the basis of any symbolism attached to Brent; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Brent."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#BrentMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Brent"
+    ],
+    "monetization": {
+      "ads": {
+        "placement": "article_body",
+        "format": "display"
+      },
+      "affiliates": [
+        {
+          "product": "BabyClothes",
+          "commission": 0.1
+        },
+        {
+          "product": "NameMeaningBook",
+          "commission": 0.2
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Brent Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Brent has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Brent, Brent name meaning, Brent meaning, Brent origin, Brent root, Brent pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Brent has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Brent",
+        "Brent name meaning",
+        "Brent meaning",
+        "Brent origin",
+        "Brent root",
+        "Brent pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Brent name meaning",
+      "secondary_keywords": [
+        "Brent meaning",
+        "Brent origin",
+        "Brent pronunciation",
+        "Brent lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Brent mean?",
+          "a": "Name-lists record the meaning as “Bright, Hill”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Brent verified?",
+          "a": "No. The meaning of Brent could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Brent come from?",
+          "a": "The origin of Brent has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Brent Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Brent has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Brent",
+      "Brent name meaning",
+      "Brent meaning",
+      "Brent origin",
+      "Brent root",
+      "Brent pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Brent has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Brent",
+      "description": "Brent — Bright, Hill",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Brent mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Bright, Hill”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Brent verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Brent could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Brent come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Brent has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:06:47.000Z",
+    "tier1_verified": {
+      "name": "Brent",
+      "slug": "brent",
+      "meaning": "Bright, Hill",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Brent",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Bright, Hill",
+      "long_meaning": "The name Brent is recorded with the meaning “Bright, Hill”. Brent is a Biblical name meaning “Bright, Hill”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Brent",
+          "meaning": "Bright, Hill",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "BREN-t",
+        "ipa": "/bren.t/"
+      },
+      "syllables": 1,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Brent mean?",
+          "a": "Name-lists record the meaning as “Bright, Hill”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Brent verified?",
+          "a": "No. The meaning of Brent could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Brent come from?",
+          "a": "The origin of Brent has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 5,
+        "life_path_number": 5,
+        "ruling_planet": "Mercury",
+        "lucky_day": "Wednesday",
+        "lucky_stone": "Emerald",
+        "lucky_colors": [
+          "Green",
+          "Turquoise"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Brent total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:06:47.000Z"
+    }
   }
- }
 }

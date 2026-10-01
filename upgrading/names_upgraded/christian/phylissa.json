@@ -1,517 +1,356 @@
 {
- "success": true,
- "data": {
-  "name": "Phylissa",
-  "slug": "phylissa",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Phylissa is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Virtue",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Lover of horses",
-  "long_meaning": "The name Phylissa is recorded with the meaning “Lover of horses”. Phylissa is a Biblical name meaning “Lover of horses”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Phylissa expresses “Lover of horses”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Phylissa is recorded with the meaning “Lover of horses”. Phylissa is a Biblical name meaning “Lover of horses”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "p-h-y-l-i-s-s-a",
-  "syllables": 3,
-  "name_length": 8,
-  "transliteration": [
-   "Phylissa"
-  ],
-  "lucky_number": 1,
-  "lucky_day": "Sunday",
-  "lucky_colors": [
-   "Gold",
-   "Orange"
-  ],
-  "lucky_stone": "Ruby",
-  "ruling_planet": "Sun",
-  "life_path_number": 1,
-  "numerology_meaning": "In Pythagorean numerology the letters of Phylissa total 37, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
-  "in_hebrew": {
-   "name": "פיליסה",
-   "meaning": "פיליסה היא שם שפירושו אהבה או ידידות עמוקה",
-   "long_meaning": "פיליסה הוא שם נוצרי שמקורו ביוונית ופירושו אהבה או ידידות עמוקה. השם נגזר מהמילה היוונית القديمة 'פילא' (phila) שפירושה אהבה או חיבה. השם מופיע בתרגומים יווניים של כתבי הקודש ומשמש כסמל לאהבה ולחיבה בקרב הנוצרים. השם פיליסה משקף את הערכים הנוצריים של אהבה ויחסים הרמוניים בין בני אדם."
-  },
-  "in_greek": {
-   "name": "Φυλίσσα",
-   "meaning": "Φυλίσσα σημαίνει βαθιά αγάπη ή φιλία",
-   "long_meaning": "Φυλίσσα είναι ένα χριστιανικό όνομα που προέρχεται από την αρχαία ελληνική λέξη 'φιλάω' (philaō) που σημαίνει αγάπη ή φιλία. Το όνομα αυτό αντανακλά την χριστιανική αξία της αγάπης και της σχέσης μεταξύ των ανθρώπων. Στην Καινή Διαθήκη, η αγάπη αποτελεί ένα από τα κύρια χαρακτηριστικά του χριστιανισμού."
-  },
-  "in_latin": {
-   "name": "Phylissa",
-   "meaning": "Phylissa means deep love or friendship",
-   "long_meaning": "Phylissa is a Christian name derived from the Greek word 'phila' meaning love or friendship. The name reflects the Christian value of love and harmony among people. In the early Christian church, the concept of love was central to the teachings of Jesus Christ and the apostles. The name Phylissa symbolizes the importance of interpersonal relationships and affection in Christian tradition."
-  },
-  "in_english": {
-   "name": "Phylissa",
-   "meaning": "Lover of horses",
-   "long_meaning": "The name Phylissa is recorded with the meaning “Lover of horses”. Phylissa is a Biblical name meaning “Lover of horses”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "fi-LIS-uh",
-   "ipa": "/fɪˈlɪsə/"
-  },
-  "name_variations": [
-   "Phylissa"
-  ],
-  "variants": [
-   "Phylissa"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Phylissa is used in Biblical naming tradition with the meaning “Lover of horses”.",
-  "spiritual_significance": "Any spiritual significance attached to Phylissa is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Lover of horses” is the basis of any symbolism attached to Phylissa; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Phylissa."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#PhylissaMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Phylissa"
-  ],
-  "monetization": {
-   "ad_places": [
-    {
-     "location": "header",
-     "size": "300x250"
-    },
-    {
-     "location": "content",
-     "size": "728x90"
-    },
-    {
-     "location": "sidebar",
-     "size": "300x250"
-    }
-   ],
-   "affiliate_links": [
-    {
-     "product": "baby_name_books",
-     "commission": 0.1
-    },
-    {
-     "product": "personalized_jewelry",
-     "commission": 0.2
-    },
-    {
-     "product": "name_meanings_subscription",
-     "commission": 0.05
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Phylissa Name Meaning – Lover of horses (Biblical)",
-   "meta_description": "Phylissa is a Biblical name meaning “Lover of horses”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Phylissa, Phylissa name meaning, Phylissa meaning, Phylissa origin, Phylissa root, Phylissa pronunciation, Biblical names",
-   "description_paragraph": "Phylissa is a Biblical name meaning “Lover of horses”.",
-   "keywords": [
-    "Phylissa",
-    "Phylissa name meaning",
-    "Phylissa meaning",
-    "Phylissa origin",
-    "Phylissa root",
-    "Phylissa pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Phylissa name meaning",
-   "secondary_keywords": [
-    "Phylissa meaning",
-    "Phylissa origin",
-    "Phylissa pronunciation",
-    "Phylissa lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/phylissa",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Does Phylissa have a religious meaning?",
-     "a": "Phylissa is recorded as a christian name meaning “Lover of horses”."
-    },
-    {
-     "q": "What is the English meaning of Phylissa?",
-     "a": "In English, Phylissa is rendered as “Lover of horses”."
-    },
-    {
-     "q": "Is Phylissa suitable for a baby?",
-     "a": "Phylissa is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Phylissa?",
-     "a": "Phylissa is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Phylissa?",
-     "a": "Phylissa is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Phylissa have a positive meaning?",
-     "a": "Phylissa carries the meaning “Lover of horses”."
-    },
-    {
-     "q": "What does the name Phylissa mean?",
-     "a": "Phylissa means “Lover of horses”."
-    },
-    {
-     "q": "What is the origin of the name Phylissa?",
-     "a": "Phylissa is of Biblical origin."
-    },
-    {
-     "q": "Is Phylissa a unisex name?",
-     "a": "Phylissa is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Phylissa have?",
-     "a": "Phylissa has 3 syllables."
-    },
-    {
-     "q": "How is Phylissa pronounced?",
-     "a": "Phylissa is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Phylissa?",
-     "a": "Any spiritual significance attached to Phylissa is interpretive and is labelled as such in this record."
-    }
-   ]
-  },
-  "seo_title": "Phylissa Name Meaning – Lover of horses (Biblical)",
-  "meta_description": "Phylissa is a Biblical name meaning “Lover of horses”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Phylissa",
-   "Phylissa name meaning",
-   "Phylissa meaning",
-   "Phylissa origin",
-   "Phylissa root",
-   "Phylissa pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/phylissa",
-  "intro_paragraph": "Phylissa is a Biblical name meaning “Lover of horses”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Phylissa",
-   "description": "Phylissa — Lover of horses",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Does Phylissa have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Phylissa is recorded as a christian name meaning “Lover of horses”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Phylissa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Phylissa is rendered as “Lover of horses”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Phylissa suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Phylissa is used as a unisex given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Phylissa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Phylissa is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Phylissa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Phylissa is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Phylissa have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Phylissa carries the meaning “Lover of horses”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Phylissa mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Phylissa means “Lover of horses”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Phylissa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Phylissa is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Phylissa a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Phylissa is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Phylissa have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Phylissa has 3 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Phylissa pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Phylissa is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Phylissa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Phylissa is interpretive and is labelled as such in this record."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Phylissa",
-     "item": "https://namemeaning.example/name/phylissa"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Phylissa",
-   "slug": "phylissa",
-   "meaning": "Lover of horses",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Phylissa",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Lover of horses",
-   "long_meaning": "The name Phylissa is recorded with the meaning “Lover of horses”. Phylissa is a Biblical name meaning “Lover of horses”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Phylissa",
-     "meaning": "Lover of horses",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "fi-LIS-uh",
-    "ipa": "/fɪˈlɪsə/"
-   },
-   "syllables": 3,
-   "name_length": 8,
-   "faqs": [
-    {
-     "q": "Does Phylissa have a religious meaning?",
-     "a": "Phylissa is recorded as a christian name meaning “Lover of horses”."
-    },
-    {
-     "q": "What is the English meaning of Phylissa?",
-     "a": "In English, Phylissa is rendered as “Lover of horses”."
-    },
-    {
-     "q": "Is Phylissa suitable for a baby?",
-     "a": "Phylissa is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Phylissa?",
-     "a": "Phylissa is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Phylissa?",
-     "a": "Phylissa is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Phylissa have a positive meaning?",
-     "a": "Phylissa carries the meaning “Lover of horses”."
-    },
-    {
-     "q": "What does the name Phylissa mean?",
-     "a": "Phylissa means “Lover of horses”."
-    },
-    {
-     "q": "What is the origin of the name Phylissa?",
-     "a": "Phylissa is of Biblical origin."
-    },
-    {
-     "q": "Is Phylissa a unisex name?",
-     "a": "Phylissa is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Phylissa have?",
-     "a": "Phylissa has 3 syllables."
-    },
-    {
-     "q": "How is Phylissa pronounced?",
-     "a": "Phylissa is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Phylissa?",
-     "a": "Any spiritual significance attached to Phylissa is interpretive and is labelled as such in this record."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 1,
-    "life_path_number": 1,
-    "ruling_planet": "Sun",
-    "lucky_day": "Sunday",
-    "lucky_stone": "Ruby",
-    "lucky_colors": [
-     "Gold",
-     "Orange"
+  "success": true,
+  "data": {
+    "name": "Phylissa",
+    "slug": "phylissa",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Phylissa total 37, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Phylissa is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Virtue",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Lover of horses",
+    "long_meaning": "The meaning of Phylissa is recorded in name-lists as “Lover of horses”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Phylissa expresses “Lover of horses”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "p-h-y-l-i-s-s-a",
+    "syllables": 3,
+    "name_length": 8,
+    "transliteration": [
+      "Phylissa"
+    ],
+    "lucky_number": 1,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Gold",
+      "Orange"
+    ],
+    "lucky_stone": "Ruby",
+    "ruling_planet": "Sun",
+    "life_path_number": 1,
+    "numerology_meaning": "In Pythagorean numerology the letters of Phylissa total 37, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
+    "in_hebrew": {
+      "name": "פיליסה",
+      "meaning": "פיליסה היא שם שפירושו אהבה או ידידות עמוקה",
+      "long_meaning": "פיליסה הוא שם נוצרי שמקורו ביוונית ופירושו אהבה או ידידות עמוקה. השם נגזר מהמילה היוונית القديمة 'פילא' (phila) שפירושה אהבה או חיבה. השם מופיע בתרגומים יווניים של כתבי הקודש ומשמש כסמל לאהבה ולחיבה בקרב הנוצרים. השם פיליסה משקף את הערכים הנוצריים של אהבה ויחסים הרמוניים בין בני אדם."
+    },
+    "in_greek": {
+      "name": "Φυλίσσα",
+      "meaning": "Φυλίσσα σημαίνει βαθιά αγάπη ή φιλία",
+      "long_meaning": "Φυλίσσα είναι ένα χριστιανικό όνομα που προέρχεται από την αρχαία ελληνική λέξη 'φιλάω' (philaō) που σημαίνει αγάπη ή φιλία. Το όνομα αυτό αντανακλά την χριστιανική αξία της αγάπης και της σχέσης μεταξύ των ανθρώπων. Στην Καινή Διαθήκη, η αγάπη αποτελεί ένα από τα κύρια χαρακτηριστικά του χριστιανισμού."
+    },
+    "in_latin": {
+      "name": "Phylissa",
+      "meaning": "Phylissa means deep love or friendship",
+      "long_meaning": "Phylissa is a Christian name derived from the Greek word 'phila' meaning love or friendship. The name reflects the Christian value of love and harmony among people. In the early Christian church, the concept of love was central to the teachings of Jesus Christ and the apostles. The name Phylissa symbolizes the importance of interpersonal relationships and affection in Christian tradition."
+    },
+    "in_english": {
+      "name": "Phylissa",
+      "meaning": "Lover of horses",
+      "long_meaning": "Lover of horses"
+    },
+    "pronunciation": {
+      "english": "fi-LIS-uh",
+      "ipa": "/fɪˈlɪsə/"
+    },
+    "name_variations": [
+      "Phylissa"
+    ],
+    "variants": [
+      "Phylissa"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Phylissa is used in Biblical naming tradition with the meaning “Lover of horses”.",
+    "spiritual_significance": "Any spiritual significance attached to Phylissa is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Lover of horses” is the basis of any symbolism attached to Phylissa; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Phylissa."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#PhylissaMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Phylissa"
+    ],
+    "monetization": {
+      "ad_places": [
+        {
+          "location": "header",
+          "size": "300x250"
+        },
+        {
+          "location": "content",
+          "size": "728x90"
+        },
+        {
+          "location": "sidebar",
+          "size": "300x250"
+        }
+      ],
+      "affiliate_links": [
+        {
+          "product": "baby_name_books",
+          "commission": 0.1
+        },
+        {
+          "product": "personalized_jewelry",
+          "commission": 0.2
+        },
+        {
+          "product": "name_meanings_subscription",
+          "commission": 0.05
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Phylissa Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Phylissa has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Phylissa, Phylissa name meaning, Phylissa meaning, Phylissa origin, Phylissa root, Phylissa pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Phylissa has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Phylissa",
+        "Phylissa name meaning",
+        "Phylissa meaning",
+        "Phylissa origin",
+        "Phylissa root",
+        "Phylissa pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Phylissa name meaning",
+      "secondary_keywords": [
+        "Phylissa meaning",
+        "Phylissa origin",
+        "Phylissa pronunciation",
+        "Phylissa lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Phylissa mean?",
+          "a": "Name-lists record the meaning as “Lover of horses”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Phylissa verified?",
+          "a": "No. The meaning of Phylissa could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Phylissa come from?",
+          "a": "The origin of Phylissa has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Phylissa Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Phylissa has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Phylissa",
+      "Phylissa name meaning",
+      "Phylissa meaning",
+      "Phylissa origin",
+      "Phylissa root",
+      "Phylissa pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Phylissa has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Phylissa",
+      "description": "Phylissa — Lover of horses",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Phylissa mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Lover of horses”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Phylissa verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Phylissa could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Phylissa come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Phylissa has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:28:11.000Z",
+    "tier1_verified": {
+      "name": "Phylissa",
+      "slug": "phylissa",
+      "meaning": "Lover of horses",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Phylissa",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Lover of horses",
+      "long_meaning": "The name Phylissa is recorded with the meaning “Lover of horses”. Phylissa is a Biblical name meaning “Lover of horses”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Phylissa",
+          "meaning": "Lover of horses",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "fi-LIS-uh",
+        "ipa": "/fɪˈlɪsə/"
+      },
+      "syllables": 3,
+      "name_length": 8,
+      "faqs": [
+        {
+          "q": "What does the name Phylissa mean?",
+          "a": "Name-lists record the meaning as “Lover of horses”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Phylissa verified?",
+          "a": "No. The meaning of Phylissa could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Phylissa come from?",
+          "a": "The origin of Phylissa has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 1,
+        "life_path_number": 1,
+        "ruling_planet": "Sun",
+        "lucky_day": "Sunday",
+        "lucky_stone": "Ruby",
+        "lucky_colors": [
+          "Gold",
+          "Orange"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Phylissa total 37, reducing to 1. Number 1 is associated with leadership, independence and initiative."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:28:11.000Z"
+    }
   }
- }
 }

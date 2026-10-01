@@ -1,547 +1,386 @@
 {
- "success": true,
- "data": {
-  "name": "Afifa",
-  "slug": "afifa",
-  "language": [
-   "Arabic",
-   "Urdu",
-   "Persian"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Afifa is used as a unisex name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Protector, Guardian",
-  "long_meaning": "The name Afifa is recorded with the meaning “Protector, Guardian”. Afifa is a Arabic name meaning “Protector, Guardian”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Afifa expresses “Protector, Guardian”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Afifa is recorded with the meaning “Protector, Guardian”. Afifa is a Arabic name meaning “Protector, Guardian”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-f-i-f-a",
-  "syllables": 3,
-  "name_length": 5,
-  "transliteration": [
-   "Afifa"
-  ],
-  "lucky_number": 5,
-  "lucky_day": "Wednesday",
-  "lucky_colors": [
-   "Green",
-   "Turquoise"
-  ],
-  "lucky_stone": "Emerald",
-  "ruling_planet": "Mercury",
-  "life_path_number": 5,
-  "numerology_meaning": "In Pythagorean numerology the letters of Afifa total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
-  "in_arabic": {
-   "name": "عفة",
-   "meaning": "الفتاة الصالحة المتدينة",
-   "long_meaning": "اسم علم مؤنث من أصل عربي يعبر عن الفتاة الصالحة المتدينة التي تتميز بالحياء والطهر والاستقامة، وله أهمية كبيرة في الإسلام حيث يُشير إلى العفاف والتواضع والتقوى"
-  },
-  "in_urdu": {
-   "name": "عفیفہ",
-   "meaning": "نیک و صالح عورت",
-   "long_meaning": "عفیفہ نام کا مطلب ہے نیک و صالح عورت جو اپنے عفت و حیا کی وجہ سے مشہور ہو، اور اس کا استعمال برصغیر پاک و ہند میں مسلمانوں کے درمیان کافی ہے"
-  },
-  "in_hindi": {
-   "name": "अफीफा",
-   "meaning": "सच्ची और धार्मिक लड़की",
-   "long_meaning": "अफीफा नाम का अर्थ है सच्ची और धार्मिक लड़की जो अपनी शुद्धता और सादगी के लिए जानी जाती है, और इसका उपयोग भारतीय मुसलमान समुदाय में काफी है"
-  },
-  "in_pashto": {
-   "name": "عفیفه",
-   "meaning": "ستره او پاکه ښځه",
-   "long_meaning": "عفیفه نوم د پاکه او ستره ښځې پورې اړه لري چې د خپل عفت او پاکوالۍ له امله څرګندېږي، او د افغانستان او پاکستان د پښتنو په منځ کې د دې نوم کارونې ډېر تاریخ لري"
-  },
-  "in_english": {
-   "name": "Afifa",
-   "meaning": "Protector, Guardian",
-   "long_meaning": "The name Afifa is recorded with the meaning “Protector, Guardian”. Afifa is a Arabic name meaning “Protector, Guardian”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "ah-FEE-fah",
-   "urdu": "عفیفہ کا تلفظ عفیفہ کے طور پر کیا جاتا ہے",
-   "hindi": "अफीफा का उच्चारण अफीफा के रूप में किया जाता है",
-   "pashto": "په پښتو کې د عفیفه د تلفظ ډول عفیفه دی",
-   "ipa": "/ˈɑːfiːfə/"
-  },
-  "name_variations": [
-   "Afifa"
-  ],
-  "variants": [
-   "Afifa"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Afifa is used in Arabic naming tradition with the meaning “Protector, Guardian”.",
-  "spiritual_significance": "Any spiritual significance attached to Afifa is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Protector, Guardian” is the basis of any symbolism attached to Afifa; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Afifa has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Afifa."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AfifaMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Afifa"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Afifa",
-     "description": "Discover the meaning of Afifa - \"Protector, Guardian\"",
-     "image": "/images/social/afifa-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Afifa - Name Meaning",
-     "description": "Learn about the beautiful name Afifa",
-     "image": "/images/social/afifa-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Afifa",
-     "description": "Name meaning: Protector, Guardian",
-     "image": "/images/social/afifa-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Afifa - Meaning: Protector, Guardian",
-    "email_subject": "Beautiful Name: Afifa"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Afifa with meaning Protector, Guardian",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Afifa Name Meaning – Protector, Guardian (Arabic)",
-   "meta_description": "Afifa is a Arabic name meaning “Protector, Guardian”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Afifa, Afifa name meaning, Afifa meaning, Afifa origin, Afifa root, Afifa pronunciation, Arabic names",
-   "description_paragraph": "Afifa is a Arabic name meaning “Protector, Guardian”.",
-   "keywords": [
-    "Afifa",
-    "Afifa name meaning",
-    "Afifa meaning",
-    "Afifa origin",
-    "Afifa root",
-    "Afifa pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Afifa name meaning",
-   "secondary_keywords": [
-    "Afifa meaning",
-    "Afifa origin",
-    "Afifa pronunciation",
-    "Afifa lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/afifa",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "How reliable is the meaning given for Afifa?",
-     "a": "The meaning of Afifa carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Afifa have a religious meaning?",
-     "a": "Afifa is recorded as a islamic name meaning “Protector, Guardian”."
-    },
-    {
-     "q": "What is the English meaning of Afifa?",
-     "a": "In English, Afifa is rendered as “Protector, Guardian”."
-    },
-    {
-     "q": "Is Afifa suitable for a baby?",
-     "a": "Afifa is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Afifa?",
-     "a": "Afifa is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Afifa?",
-     "a": "Afifa is used in Arabic naming traditions."
-    },
-    {
-     "q": "Does Afifa have a positive meaning?",
-     "a": "Afifa carries the meaning “Protector, Guardian”."
-    },
-    {
-     "q": "What does the name Afifa mean?",
-     "a": "Afifa means “Protector, Guardian”."
-    },
-    {
-     "q": "What is the origin of the name Afifa?",
-     "a": "Afifa is of Arabic origin."
-    },
-    {
-     "q": "Is Afifa a unisex name?",
-     "a": "Afifa is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Afifa have?",
-     "a": "Afifa has 3 syllables."
-    },
-    {
-     "q": "How is Afifa pronounced?",
-     "a": "Afifa is pronounced as given in the pronunciation field of this record."
-    }
-   ]
-  },
-  "seo_title": "Afifa Name Meaning – Protector, Guardian (Arabic)",
-  "meta_description": "Afifa is a Arabic name meaning “Protector, Guardian”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Afifa",
-   "Afifa name meaning",
-   "Afifa meaning",
-   "Afifa origin",
-   "Afifa root",
-   "Afifa pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/afifa",
-  "intro_paragraph": "Afifa is a Arabic name meaning “Protector, Guardian”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Afifa",
-   "description": "Afifa — Protector, Guardian",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Afifa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Afifa carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Afifa have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Afifa is recorded as a islamic name meaning “Protector, Guardian”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Afifa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Afifa is rendered as “Protector, Guardian”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Afifa suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Afifa is used as a unisex given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Afifa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Afifa is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Afifa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Afifa is used in Arabic naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Afifa have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Afifa carries the meaning “Protector, Guardian”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Afifa mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Afifa means “Protector, Guardian”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Afifa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Afifa is of Arabic origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Afifa a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Afifa is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Afifa have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Afifa has 3 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Afifa pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Afifa is pronounced as given in the pronunciation field of this record."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Afifa",
-     "item": "https://namemeaning.example/name/afifa"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-12-22T19:19:49.859Z",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Afifa",
-   "slug": "afifa",
-   "meaning": "Protector, Guardian",
-   "origin": "Arabic",
-   "language": [
-    "Arabic",
-    "Urdu",
-    "Persian"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Afifa",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Protector, Guardian",
-   "long_meaning": "The name Afifa is recorded with the meaning “Protector, Guardian”. Afifa is a Arabic name meaning “Protector, Guardian”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Afifa",
-     "meaning": "Protector, Guardian",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "ah-FEE-fah",
-    "ipa": "/ˈɑːfiːfə/"
-   },
-   "syllables": 3,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "How reliable is the meaning given for Afifa?",
-     "a": "The meaning of Afifa carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Afifa have a religious meaning?",
-     "a": "Afifa is recorded as a islamic name meaning “Protector, Guardian”."
-    },
-    {
-     "q": "What is the English meaning of Afifa?",
-     "a": "In English, Afifa is rendered as “Protector, Guardian”."
-    },
-    {
-     "q": "Is Afifa suitable for a baby?",
-     "a": "Afifa is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Afifa?",
-     "a": "Afifa is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Afifa?",
-     "a": "Afifa is used in Arabic naming traditions."
-    },
-    {
-     "q": "Does Afifa have a positive meaning?",
-     "a": "Afifa carries the meaning “Protector, Guardian”."
-    },
-    {
-     "q": "What does the name Afifa mean?",
-     "a": "Afifa means “Protector, Guardian”."
-    },
-    {
-     "q": "What is the origin of the name Afifa?",
-     "a": "Afifa is of Arabic origin."
-    },
-    {
-     "q": "Is Afifa a unisex name?",
-     "a": "Afifa is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Afifa have?",
-     "a": "Afifa has 3 syllables."
-    },
-    {
-     "q": "How is Afifa pronounced?",
-     "a": "Afifa is pronounced as given in the pronunciation field of this record."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 5,
-    "life_path_number": 5,
-    "ruling_planet": "Mercury",
-    "lucky_day": "Wednesday",
-    "lucky_stone": "Emerald",
-    "lucky_colors": [
-     "Green",
-     "Turquoise"
+  "success": true,
+  "data": {
+    "name": "Afifa",
+    "slug": "afifa",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Afifa total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Afifa is used as a unisex name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Protector, Guardian",
+    "long_meaning": "The meaning of Afifa is recorded in name-lists as “Protector, Guardian”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Afifa expresses “Protector, Guardian”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Arabic",
+    "root_letters": "a-f-i-f-a",
+    "syllables": 3,
+    "name_length": 5,
+    "transliteration": [
+      "Afifa"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Wednesday",
+    "lucky_colors": [
+      "Green",
+      "Turquoise"
+    ],
+    "lucky_stone": "Emerald",
+    "ruling_planet": "Mercury",
+    "life_path_number": 5,
+    "numerology_meaning": "In Pythagorean numerology the letters of Afifa total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
+    "in_arabic": {
+      "name": "عفة",
+      "meaning": "Protector, Guardian",
+      "long_meaning": "Protector, Guardian"
+    },
+    "in_urdu": {
+      "name": "عفیفہ",
+      "meaning": "Protector, Guardian",
+      "long_meaning": "Protector, Guardian"
+    },
+    "in_hindi": {
+      "name": "अफीफा",
+      "meaning": "Protector, Guardian",
+      "long_meaning": "Protector, Guardian"
+    },
+    "in_pashto": {
+      "name": "عفیفه",
+      "meaning": "Protector, Guardian",
+      "long_meaning": "Protector, Guardian"
+    },
+    "in_english": {
+      "name": "Afifa",
+      "meaning": "Protector, Guardian",
+      "long_meaning": "Protector, Guardian"
+    },
+    "pronunciation": {
+      "english": "ah-FEE-fah",
+      "urdu": "عفیفہ کا تلفظ عفیفہ کے طور پر کیا جاتا ہے",
+      "hindi": "अफीफा का उच्चारण अफीफा के रूप में किया जाता है",
+      "pashto": "په پښتو کې د عفیفه د تلفظ ډول عفیفه دی",
+      "ipa": "/ˈɑːfiːfə/"
+    },
+    "name_variations": [
+      "Afifa"
+    ],
+    "variants": [
+      "Afifa"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Afifa is used in Arabic naming tradition with the meaning “Protector, Guardian”.",
+    "spiritual_significance": "Any spiritual significance attached to Afifa is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Protector, Guardian” is the basis of any symbolism attached to Afifa; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "No Qur'anic reference for Afifa has been verified."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Afifa."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AfifaMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Afifa"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Afifa",
+          "description": "Discover the meaning of Afifa - \"Protector, Guardian\"",
+          "image": "/images/social/afifa-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Afifa - Name Meaning",
+          "description": "Learn about the beautiful name Afifa",
+          "image": "/images/social/afifa-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Afifa",
+          "description": "Name meaning: Protector, Guardian",
+          "image": "/images/social/afifa-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Afifa - Meaning: Protector, Guardian",
+        "email_subject": "Beautiful Name: Afifa"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Afifa with meaning Protector, Guardian",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Afifa Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Afifa has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Afifa, Afifa name meaning, Afifa meaning, Afifa origin, Afifa root, Afifa pronunciation, Arabic names",
+      "description_paragraph": "The meaning of Afifa has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Afifa",
+        "Afifa name meaning",
+        "Afifa meaning",
+        "Afifa origin",
+        "Afifa root",
+        "Afifa pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Afifa name meaning",
+      "secondary_keywords": [
+        "Afifa meaning",
+        "Afifa origin",
+        "Afifa pronunciation",
+        "Afifa lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Afifa mean?",
+          "a": "Name-lists record the meaning as “Protector, Guardian”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Afifa verified?",
+          "a": "No. The meaning of Afifa could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Afifa come from?",
+          "a": "The origin of Afifa has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Afifa Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Afifa has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Afifa",
+      "Afifa name meaning",
+      "Afifa meaning",
+      "Afifa origin",
+      "Afifa root",
+      "Afifa pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Afifa has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Afifa",
+      "description": "Afifa — Protector, Guardian",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Afifa mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Protector, Guardian”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Afifa verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Afifa could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Afifa come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Afifa has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 70
+    },
+    "created_at": "2025-12-22T19:19:49.859Z",
+    "updated_at": "2026-10-01T04:04:24.000Z",
+    "tier1_verified": {
+      "name": "Afifa",
+      "slug": "afifa",
+      "meaning": "Protector, Guardian",
+      "origin": "Arabic",
+      "language": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Afifa",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Protector, Guardian",
+      "long_meaning": "The name Afifa is recorded with the meaning “Protector, Guardian”. Afifa is a Arabic name meaning “Protector, Guardian”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Afifa",
+          "meaning": "Protector, Guardian",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "ah-FEE-fah",
+        "ipa": "/ˈɑːfiːfə/"
+      },
+      "syllables": 3,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Afifa mean?",
+          "a": "Name-lists record the meaning as “Protector, Guardian”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Afifa verified?",
+          "a": "No. The meaning of Afifa could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Afifa come from?",
+          "a": "The origin of Afifa has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 5,
+        "life_path_number": 5,
+        "ruling_planet": "Mercury",
+        "lucky_day": "Wednesday",
+        "lucky_stone": "Emerald",
+        "lucky_colors": [
+          "Green",
+          "Turquoise"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Afifa total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:24.000Z"
+    }
   }
- }
 }

@@ -1,547 +1,386 @@
 {
- "success": true,
- "data": {
-  "name": "Afzaleen",
-  "slug": "afzaleen",
-  "language": [
-   "Arabic",
-   "Urdu",
-   "Pashto"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Afzaleen is used as a unisex name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Protector, Joyful, Beautiful",
-  "long_meaning": "The name Afzaleen is recorded with the meaning “Protector, Joyful, Beautiful”. Afzaleen is a Arabic name meaning “Protector, Joyful, Beautiful”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Afzaleen expresses “Protector, Joyful, Beautiful”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Afzaleen is recorded with the meaning “Protector, Joyful, Beautiful”. Afzaleen is a Arabic name meaning “Protector, Joyful, Beautiful”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-f-z-a-l-e-e-n",
-  "syllables": 3,
-  "name_length": 8,
-  "transliteration": [
-   "Afzaleen"
-  ],
-  "lucky_number": 7,
-  "lucky_day": "Tuesday",
-  "lucky_colors": [
-   "Grey",
-   "Smoke"
-  ],
-  "lucky_stone": "Cat's Eye",
-  "ruling_planet": "Ketu",
-  "life_path_number": 7,
-  "numerology_meaning": "In Pythagorean numerology the letters of Afzaleen total 34, reducing to 7. Number 7 is associated with reflection, analysis and inner search.",
-  "in_arabic": {
-   "name": "أفضلين",
-   "meaning": "أفضلين تعني الأكثر تفضيلا وزيادة في الخير والفضل",
-   "long_meaning": "اسم أفضلين مشتق من الفضل، وهو من الأسماء التي تحمل معاني الرفعة والتميز. في اللغة العربية، الفضل يعني الزيادة في الخير والإحسان. وصف الله نفسه في القرآن بالفضل على عباده، حيث يقول: 'والله يقبض ويبسط و إليه ترجعون' (البقرة: 245). اسم أفضلين يعكس صفات الإكمال والكمال الإلهي، ويدل على علو قدرة الله ومغفرته. يستخدم هذا الاسم في العديد من الثقافات الإسلامية كتعبير عن تقدير الله وشكره على نعمه."
-  },
-  "in_urdu": {
-   "name": "افضلین",
-   "meaning": "افضلین کا مطلب ہے سب سے بہتر، زیادہ فضیلت والا",
-   "long_meaning": "افضلین نام عربی زبان کے الفضل سے ماخوذ ہے، جس کا مطلب ہے فضیلت یا احسان میں زیادہ۔ یہ نام جنوبی ایشیا میں مسلمانوں کے درمیان مقبول ہے کیونکہ یہ اسماء حسنیٰ کے ایک قسم کی یاد دلاتا ہے جو اللہ کے 99 ناموں سے ملتا جلتا ہے۔ افضلین نام رکھنے کا مقصد اللہ کی نعمتوں اور فضائل کو یاد کرنا اور اپنی اولاد کو بہترین صفات کی دعوت دینا ہوتا ہے۔ تاریخی طور پر، یہ نام اسلامی ثقافت میں اچھے کردار اور اخلاق کی علامت کے طور پر استعمال ہوا ہے۔"
-  },
-  "in_hindi": {
-   "name": "अفضلین",
-   "meaning": "अفضلिन का अर्थ है सबसे अच्छा, अधिक उत्कृष्ट",
-   "long_meaning": "अفضلिन नाम की उत्पत्ति अरबी भाषा से हुई है, जिसका अर्थ है श्रेष्ठता या अच्छाई में अधिक। हिंदिया मुस्लिम समुदाय में, यह नाम बच्चे के लिए आशीर्वाद के रूप में देखा जाता है, जिसमें उच्च नैतिक मूल्यों और अच्छे चरित्र को बढ़ावा देने की कामना की जाती है। यह नाम अक्सर उन बच्चों को दिया जाता है जिनके माता-पिता चाहते हैं कि वे अच्छे गुणों और विशेषताओं के साथ बड़े हों। इस्लामी परंपरा में, अفضलिन नाम का उपयोग अच्छे कर्मों और नेक इंसानियत की याद दिलाने के रूप में किया जाता है।"
-  },
-  "in_pashto": {
-   "name": "افضلين",
-   "meaning": "افضلين معنی دا لری چې ډیر ښه والی او سترګو",
-   "long_meaning": "افضلين نوم د عربي ژبې څخه اخيستل شوی دی، چې معنی يې د فضل يا احسان څخه ډير وي. په افغانستان کې، مسلمانان د دې نوم څخه استفاده کوي ترڅو د خپلو ماشومانو لپاره د الهي فضل او رحمت د نښې په توګه وکاروي. دا نوم د ښو صفاتو او اخلاقو د ودې لپاره کارول کیږي، او د الهي کرم او بخشش د يادولو لپاره غوره دی."
-  },
-  "in_english": {
-   "name": "Afzaleen",
-   "meaning": "Protector, Joyful, Beautiful",
-   "long_meaning": "The name Afzaleen is recorded with the meaning “Protector, Joyful, Beautiful”. Afzaleen is a Arabic name meaning “Protector, Joyful, Beautiful”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "af-zah-leen",
-   "urdu": "اردو میں تلفظ کی تفصیل: افضَلین",
-   "hindi": "हिन्दी में उच्चारण विवरण: अफ़ज़लिन",
-   "pashto": "په پښتو کې د تلفظ تفصیل: افضلين",
-   "ipa": "/æfzɑːliːn/"
-  },
-  "name_variations": [
-   "Afzaleen"
-  ],
-  "variants": [
-   "Afzaleen"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Afzaleen is used in Arabic naming tradition with the meaning “Protector, Joyful, Beautiful”.",
-  "spiritual_significance": "Any spiritual significance attached to Afzaleen is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Protector, Joyful, Beautiful” is the basis of any symbolism attached to Afzaleen; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Afzaleen has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Afzaleen."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AfzaleenMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Afzaleen"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Afzaleen",
-     "description": "Discover the meaning of Afzaleen - \"Protector, Joyful, Beautiful\"",
-     "image": "/images/social/afzaleen-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Afzaleen - Name Meaning",
-     "description": "Learn about the beautiful name Afzaleen",
-     "image": "/images/social/afzaleen-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Afzaleen",
-     "description": "Name meaning: Protector, Joyful, Beautiful",
-     "image": "/images/social/afzaleen-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Afzaleen - Meaning: Protector, Joyful, Beautiful",
-    "email_subject": "Beautiful Name: Afzaleen"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Afzaleen with meaning Protector, Joyful, Beautiful",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Afzaleen Name Meaning – Protector, Joyful, Beautiful (Arabic)",
-   "meta_description": "Afzaleen is a Arabic name meaning “Protector, Joyful, Beautiful”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Afzaleen, Afzaleen name meaning, Afzaleen meaning, Afzaleen origin, Afzaleen root, Afzaleen pronunciation, Arabic names",
-   "description_paragraph": "Afzaleen is a Arabic name meaning “Protector, Joyful, Beautiful”.",
-   "keywords": [
-    "Afzaleen",
-    "Afzaleen name meaning",
-    "Afzaleen meaning",
-    "Afzaleen origin",
-    "Afzaleen root",
-    "Afzaleen pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Afzaleen name meaning",
-   "secondary_keywords": [
-    "Afzaleen meaning",
-    "Afzaleen origin",
-    "Afzaleen pronunciation",
-    "Afzaleen lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/afzaleen",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Can Afzaleen be used in another language?",
-     "a": "Afzaleen is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Afzaleen mentioned in scripture?",
-     "a": "No scriptural reference for Afzaleen has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Afzaleen?",
-     "a": "The Pythagorean lucky number for Afzaleen is 7 (ruling planet Ketu). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Afzaleen?",
-     "a": "Tuesday is the traditional association for Afzaleen. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Afzaleen?",
-     "a": "Cat's Eye is the traditional association for Afzaleen. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Afzaleen?",
-     "a": "Grey, Smoke are the traditional associations for Afzaleen. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Afzaleen?",
-     "a": "In Pythagorean numerology the letters of Afzaleen total 34, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
-    },
-    {
-     "q": "How reliable is the meaning given for Afzaleen?",
-     "a": "The meaning of Afzaleen carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Afzaleen have a religious meaning?",
-     "a": "Afzaleen is recorded as a islamic name meaning “Protector, Joyful, Beautiful”."
-    },
-    {
-     "q": "What is the English meaning of Afzaleen?",
-     "a": "In English, Afzaleen is rendered as “Protector, Joyful, Beautiful”."
-    },
-    {
-     "q": "Is Afzaleen suitable for a baby?",
-     "a": "Afzaleen is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Afzaleen?",
-     "a": "Afzaleen is the full recorded form; any short forms are listed in the nicknames field."
-    }
-   ]
-  },
-  "seo_title": "Afzaleen Name Meaning – Protector, Joyful, Beautiful (Arabic)",
-  "meta_description": "Afzaleen is a Arabic name meaning “Protector, Joyful, Beautiful”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Afzaleen",
-   "Afzaleen name meaning",
-   "Afzaleen meaning",
-   "Afzaleen origin",
-   "Afzaleen root",
-   "Afzaleen pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/afzaleen",
-  "intro_paragraph": "Afzaleen is a Arabic name meaning “Protector, Joyful, Beautiful”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Afzaleen",
-   "description": "Afzaleen — Protector, Joyful, Beautiful",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Can Afzaleen be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Afzaleen is recorded in Arabic; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Afzaleen mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Afzaleen has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Afzaleen?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Afzaleen is 7 (ruling planet Ketu). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Afzaleen?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Tuesday is the traditional association for Afzaleen. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Afzaleen?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Cat's Eye is the traditional association for Afzaleen. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Afzaleen?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Grey, Smoke are the traditional associations for Afzaleen. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Afzaleen?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Afzaleen total 34, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Afzaleen?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Afzaleen carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Afzaleen have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Afzaleen is recorded as a islamic name meaning “Protector, Joyful, Beautiful”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Afzaleen?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Afzaleen is rendered as “Protector, Joyful, Beautiful”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Afzaleen suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Afzaleen is used as a unisex given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Afzaleen?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Afzaleen is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Afzaleen",
-     "item": "https://namemeaning.example/name/afzaleen"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-12-22T19:19:49.86Z",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Afzaleen",
-   "slug": "afzaleen",
-   "meaning": "Protector, Joyful, Beautiful",
-   "origin": "Arabic",
-   "language": [
-    "Arabic",
-    "Urdu",
-    "Pashto"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Afzaleen",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Protector, Joyful, Beautiful",
-   "long_meaning": "The name Afzaleen is recorded with the meaning “Protector, Joyful, Beautiful”. Afzaleen is a Arabic name meaning “Protector, Joyful, Beautiful”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Afzaleen",
-     "meaning": "Protector, Joyful, Beautiful",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "af-zah-leen",
-    "ipa": "/æfzɑːliːn/"
-   },
-   "syllables": 3,
-   "name_length": 8,
-   "faqs": [
-    {
-     "q": "Can Afzaleen be used in another language?",
-     "a": "Afzaleen is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Afzaleen mentioned in scripture?",
-     "a": "No scriptural reference for Afzaleen has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Afzaleen?",
-     "a": "The Pythagorean lucky number for Afzaleen is 7 (ruling planet Ketu). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Afzaleen?",
-     "a": "Tuesday is the traditional association for Afzaleen. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Afzaleen?",
-     "a": "Cat's Eye is the traditional association for Afzaleen. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Afzaleen?",
-     "a": "Grey, Smoke are the traditional associations for Afzaleen. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Afzaleen?",
-     "a": "In Pythagorean numerology the letters of Afzaleen total 34, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
-    },
-    {
-     "q": "How reliable is the meaning given for Afzaleen?",
-     "a": "The meaning of Afzaleen carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Afzaleen have a religious meaning?",
-     "a": "Afzaleen is recorded as a islamic name meaning “Protector, Joyful, Beautiful”."
-    },
-    {
-     "q": "What is the English meaning of Afzaleen?",
-     "a": "In English, Afzaleen is rendered as “Protector, Joyful, Beautiful”."
-    },
-    {
-     "q": "Is Afzaleen suitable for a baby?",
-     "a": "Afzaleen is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Afzaleen?",
-     "a": "Afzaleen is the full recorded form; any short forms are listed in the nicknames field."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 7,
-    "life_path_number": 7,
-    "ruling_planet": "Ketu",
-    "lucky_day": "Tuesday",
-    "lucky_stone": "Cat's Eye",
-    "lucky_colors": [
-     "Grey",
-     "Smoke"
+  "success": true,
+  "data": {
+    "name": "Afzaleen",
+    "slug": "afzaleen",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Pashto"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Afzaleen total 34, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Afzaleen is used as a unisex name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Protector, Joyful, Beautiful",
+    "long_meaning": "The meaning of Afzaleen is recorded in name-lists as “Protector, Joyful, Beautiful”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Afzaleen expresses “Protector, Joyful, Beautiful”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Arabic",
+    "root_letters": "a-f-z-a-l-e-e-n",
+    "syllables": 3,
+    "name_length": 8,
+    "transliteration": [
+      "Afzaleen"
+    ],
+    "lucky_number": 7,
+    "lucky_day": "Tuesday",
+    "lucky_colors": [
+      "Grey",
+      "Smoke"
+    ],
+    "lucky_stone": "Cat's Eye",
+    "ruling_planet": "Ketu",
+    "life_path_number": 7,
+    "numerology_meaning": "In Pythagorean numerology the letters of Afzaleen total 34, reducing to 7. Number 7 is associated with reflection, analysis and inner search.",
+    "in_arabic": {
+      "name": "أفضلين",
+      "meaning": "Protector, Joyful, Beautiful",
+      "long_meaning": "Protector, Joyful, Beautiful"
+    },
+    "in_urdu": {
+      "name": "افضلین",
+      "meaning": "Protector, Joyful, Beautiful",
+      "long_meaning": "Protector, Joyful, Beautiful"
+    },
+    "in_hindi": {
+      "name": "अفضلین",
+      "meaning": "Protector, Joyful, Beautiful",
+      "long_meaning": "Protector, Joyful, Beautiful"
+    },
+    "in_pashto": {
+      "name": "افضلين",
+      "meaning": "Protector, Joyful, Beautiful",
+      "long_meaning": "Protector, Joyful, Beautiful"
+    },
+    "in_english": {
+      "name": "Afzaleen",
+      "meaning": "Protector, Joyful, Beautiful",
+      "long_meaning": "Protector, Joyful, Beautiful"
+    },
+    "pronunciation": {
+      "english": "af-zah-leen",
+      "urdu": "اردو میں تلفظ کی تفصیل: افضَلین",
+      "hindi": "हिन्दी में उच्चारण विवरण: अफ़ज़लिन",
+      "pashto": "په پښتو کې د تلفظ تفصیل: افضلين",
+      "ipa": "/æfzɑːliːn/"
+    },
+    "name_variations": [
+      "Afzaleen"
+    ],
+    "variants": [
+      "Afzaleen"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Afzaleen is used in Arabic naming tradition with the meaning “Protector, Joyful, Beautiful”.",
+    "spiritual_significance": "Any spiritual significance attached to Afzaleen is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Protector, Joyful, Beautiful” is the basis of any symbolism attached to Afzaleen; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "No Qur'anic reference for Afzaleen has been verified."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Afzaleen."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AfzaleenMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Afzaleen"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Afzaleen",
+          "description": "Discover the meaning of Afzaleen - \"Protector, Joyful, Beautiful\"",
+          "image": "/images/social/afzaleen-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Afzaleen - Name Meaning",
+          "description": "Learn about the beautiful name Afzaleen",
+          "image": "/images/social/afzaleen-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Afzaleen",
+          "description": "Name meaning: Protector, Joyful, Beautiful",
+          "image": "/images/social/afzaleen-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Afzaleen - Meaning: Protector, Joyful, Beautiful",
+        "email_subject": "Beautiful Name: Afzaleen"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Afzaleen with meaning Protector, Joyful, Beautiful",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Afzaleen Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Afzaleen has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Afzaleen, Afzaleen name meaning, Afzaleen meaning, Afzaleen origin, Afzaleen root, Afzaleen pronunciation, Arabic names",
+      "description_paragraph": "The meaning of Afzaleen has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Afzaleen",
+        "Afzaleen name meaning",
+        "Afzaleen meaning",
+        "Afzaleen origin",
+        "Afzaleen root",
+        "Afzaleen pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Afzaleen name meaning",
+      "secondary_keywords": [
+        "Afzaleen meaning",
+        "Afzaleen origin",
+        "Afzaleen pronunciation",
+        "Afzaleen lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Afzaleen mean?",
+          "a": "Name-lists record the meaning as “Protector, Joyful, Beautiful”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Afzaleen verified?",
+          "a": "No. The meaning of Afzaleen could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Afzaleen come from?",
+          "a": "The origin of Afzaleen has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Afzaleen Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Afzaleen has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Afzaleen",
+      "Afzaleen name meaning",
+      "Afzaleen meaning",
+      "Afzaleen origin",
+      "Afzaleen root",
+      "Afzaleen pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Afzaleen has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Afzaleen",
+      "description": "Afzaleen — Protector, Joyful, Beautiful",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Afzaleen mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Protector, Joyful, Beautiful”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Afzaleen verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Afzaleen could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Afzaleen come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Afzaleen has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 70
+    },
+    "created_at": "2025-12-22T19:19:49.86Z",
+    "updated_at": "2026-10-01T04:04:26.000Z",
+    "tier1_verified": {
+      "name": "Afzaleen",
+      "slug": "afzaleen",
+      "meaning": "Protector, Joyful, Beautiful",
+      "origin": "Arabic",
+      "language": [
+        "Arabic",
+        "Urdu",
+        "Pashto"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Afzaleen",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Protector, Joyful, Beautiful",
+      "long_meaning": "The name Afzaleen is recorded with the meaning “Protector, Joyful, Beautiful”. Afzaleen is a Arabic name meaning “Protector, Joyful, Beautiful”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Afzaleen",
+          "meaning": "Protector, Joyful, Beautiful",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "af-zah-leen",
+        "ipa": "/æfzɑːliːn/"
+      },
+      "syllables": 3,
+      "name_length": 8,
+      "faqs": [
+        {
+          "q": "What does the name Afzaleen mean?",
+          "a": "Name-lists record the meaning as “Protector, Joyful, Beautiful”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Afzaleen verified?",
+          "a": "No. The meaning of Afzaleen could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Afzaleen come from?",
+          "a": "The origin of Afzaleen has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 7,
+        "life_path_number": 7,
+        "ruling_planet": "Ketu",
+        "lucky_day": "Tuesday",
+        "lucky_stone": "Cat's Eye",
+        "lucky_colors": [
+          "Grey",
+          "Smoke"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Afzaleen total 34, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:26.000Z"
+    }
   }
- }
 }

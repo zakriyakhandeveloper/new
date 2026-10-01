@@ -1,496 +1,335 @@
 {
- "success": true,
- "data": {
-  "name": "Iris",
-  "slug": "iris",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Iris is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Rainbow",
-  "long_meaning": "The name Iris is recorded with the meaning “Rainbow”. Iris is a Biblical name meaning “Rainbow”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Iris expresses “Rainbow”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Iris is recorded with the meaning “Rainbow”. Iris is a Biblical name meaning “Rainbow”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "i-r-i-s",
-  "syllables": 2,
-  "name_length": 4,
-  "transliteration": [
-   "Iris"
-  ],
-  "lucky_number": 1,
-  "lucky_day": "Sunday",
-  "lucky_colors": [
-   "Gold",
-   "Orange"
-  ],
-  "lucky_stone": "Ruby",
-  "ruling_planet": "Sun",
-  "life_path_number": 1,
-  "numerology_meaning": "In Pythagorean numerology the letters of Iris total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
-  "in_hebrew": {
-   "name": "איריס",
-   "meaning": "פרח האיריס בעל משמעות רוחנית",
-   "long_meaning": "איריס הוא שם המקור ביוונית, אך בעברית משמעותו קשורה לפרח האיריס, המסמל את התקשורת עם האלוהים ואת הקשר בין העולם הגשמי לרוחני"
-  },
-  "in_greek": {
-   "name": "Ίρις",
-   "meaning": "ο홀ή της ίριδος, σύμβολο της ελπίδας",
-   "long_meaning": "η Ίρις είναι η θεά του ολύμπου, που αντιπροσωπεύει την ελπίδα και τη σχέση μεταξύ του ανθρώπινου και του θείου, με σημαντική σημασία στην χριστιανική παράδοση"
-  },
-  "in_latin": {
-   "name": "Iris",
-   "meaning": "arcus caelestis, symbolum spei",
-   "long_meaning": "Iris est nomen Graecum, quod significat arcum caelestis, symbolum spei et connexio inter mundum humanum et divinum, cum importantia in traditione christiana"
-  },
-  "in_english": {
-   "name": "Iris",
-   "meaning": "Rainbow",
-   "long_meaning": "The name Iris is recorded with the meaning “Rainbow”. Iris is a Biblical name meaning “Rainbow”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "AY-ris",
-   "biblical": "not directly biblical",
-   "ipa": "/ˈaɪrɪs/"
-  },
-  "name_variations": [
-   "Iris"
-  ],
-  "variants": [
-   "Iris"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Iris is used in Biblical naming tradition with the meaning “Rainbow”.",
-  "spiritual_significance": "Any spiritual significance attached to Iris is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Rainbow” is the basis of any symbolism attached to Iris; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "not applicable",
-   "verse_reference": "not applicable",
-   "note": "not directly mentioned in the Bible, but symbolically related to divine communication"
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Iris."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#IrisMeaning",
-   "#ChristianBabyNames",
-   "#BibleInspiredNames",
-   "#ChristianNames",
-   "#Iris"
-  ],
-  "monetization": {
-   "sponsored_content": [
-    {
-     "title": "Discover the Secrets of Your Baby's Name with Our Personalized Report",
-     "description": "Get a comprehensive report on the meaning, origin, spiritual significance, numerology, and more of of your baby's name. Personalized just for you!",
-     "price": 9.99,
-     "button_text": "Order Now"
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Iris Name Meaning – Rainbow (Biblical)",
-   "meta_description": "Iris is a Biblical name meaning “Rainbow”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Iris, Iris name meaning, Iris meaning, Iris origin, Iris root, Iris pronunciation, Biblical names",
-   "description_paragraph": "Iris is a Biblical name meaning “Rainbow”.",
-   "keywords": [
-    "Iris",
-    "Iris name meaning",
-    "Iris meaning",
-    "Iris origin",
-    "Iris root",
-    "Iris pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Iris name meaning",
-   "secondary_keywords": [
-    "Iris meaning",
-    "Iris origin",
-    "Iris pronunciation",
-    "Iris lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/iris",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Are there variant spellings of Iris?",
-     "a": "Variant spellings of Iris are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Iris a common name?",
-     "a": "Popularity figures for Iris have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Iris say about a child?",
-     "a": "The name Iris expresses “Rainbow”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Iris be used in another language?",
-     "a": "Iris is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Iris mentioned in scripture?",
-     "a": "No scriptural reference for Iris has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Iris?",
-     "a": "The Pythagorean lucky number for Iris is 1 (ruling planet Sun). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Iris?",
-     "a": "Sunday is the traditional association for Iris. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Iris?",
-     "a": "Ruby is the traditional association for Iris. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Iris?",
-     "a": "Gold, Orange are the traditional associations for Iris. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Iris?",
-     "a": "In Pythagorean numerology the letters of Iris total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-    },
-    {
-     "q": "How reliable is the meaning given for Iris?",
-     "a": "The meaning of Iris carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Iris have a religious meaning?",
-     "a": "Iris is recorded as a christian name meaning “Rainbow”."
-    }
-   ]
-  },
-  "seo_title": "Iris Name Meaning – Rainbow (Biblical)",
-  "meta_description": "Iris is a Biblical name meaning “Rainbow”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Iris",
-   "Iris name meaning",
-   "Iris meaning",
-   "Iris origin",
-   "Iris root",
-   "Iris pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/iris",
-  "intro_paragraph": "Iris is a Biblical name meaning “Rainbow”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Iris",
-   "description": "Iris — Rainbow",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Iris?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Iris are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Iris a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Iris have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Iris say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Iris expresses “Rainbow”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Iris be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Iris is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Iris mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Iris has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Iris?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Iris is 1 (ruling planet Sun). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Iris?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sunday is the traditional association for Iris. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Iris?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ruby is the traditional association for Iris. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Iris?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Gold, Orange are the traditional associations for Iris. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Iris?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Iris total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Iris?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Iris carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Iris have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Iris is recorded as a christian name meaning “Rainbow”."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Iris",
-     "item": "https://namemeaning.example/name/iris"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 50,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Iris",
-   "slug": "iris",
-   "meaning": "Rainbow",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Iris",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Rainbow",
-   "long_meaning": "The name Iris is recorded with the meaning “Rainbow”. Iris is a Biblical name meaning “Rainbow”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Iris",
-     "meaning": "Rainbow",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "AY-ris",
-    "ipa": "/ˈaɪrɪs/"
-   },
-   "syllables": 2,
-   "name_length": 4,
-   "faqs": [
-    {
-     "q": "Are there variant spellings of Iris?",
-     "a": "Variant spellings of Iris are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Iris a common name?",
-     "a": "Popularity figures for Iris have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Iris say about a child?",
-     "a": "The name Iris expresses “Rainbow”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Iris be used in another language?",
-     "a": "Iris is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Iris mentioned in scripture?",
-     "a": "No scriptural reference for Iris has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Iris?",
-     "a": "The Pythagorean lucky number for Iris is 1 (ruling planet Sun). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Iris?",
-     "a": "Sunday is the traditional association for Iris. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Iris?",
-     "a": "Ruby is the traditional association for Iris. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Iris?",
-     "a": "Gold, Orange are the traditional associations for Iris. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Iris?",
-     "a": "In Pythagorean numerology the letters of Iris total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-    },
-    {
-     "q": "How reliable is the meaning given for Iris?",
-     "a": "The meaning of Iris carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Iris have a religious meaning?",
-     "a": "Iris is recorded as a christian name meaning “Rainbow”."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 1,
-    "life_path_number": 1,
-    "ruling_planet": "Sun",
-    "lucky_day": "Sunday",
-    "lucky_stone": "Ruby",
-    "lucky_colors": [
-     "Gold",
-     "Orange"
+  "success": true,
+  "data": {
+    "name": "Iris",
+    "slug": "iris",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Iris total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Iris is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Rainbow",
+    "long_meaning": "The meaning of Iris is recorded in name-lists as “Rainbow”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Iris expresses “Rainbow”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "i-r-i-s",
+    "syllables": 2,
+    "name_length": 4,
+    "transliteration": [
+      "Iris"
+    ],
+    "lucky_number": 1,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Gold",
+      "Orange"
+    ],
+    "lucky_stone": "Ruby",
+    "ruling_planet": "Sun",
+    "life_path_number": 1,
+    "numerology_meaning": "In Pythagorean numerology the letters of Iris total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
+    "in_hebrew": {
+      "name": "איריס",
+      "meaning": "פרח האיריס בעל משמעות רוחנית",
+      "long_meaning": "איריס הוא שם המקור ביוונית, אך בעברית משמעותו קשורה לפרח האיריס, המסמל את התקשורת עם האלוהים ואת הקשר בין העולם הגשמי לרוחני"
+    },
+    "in_greek": {
+      "name": "Ίρις",
+      "meaning": "ο홀ή της ίριδος, σύμβολο της ελπίδας",
+      "long_meaning": "η Ίρις είναι η θεά του ολύμπου, που αντιπροσωπεύει την ελπίδα και τη σχέση μεταξύ του ανθρώπινου και του θείου, με σημαντική σημασία στην χριστιανική παράδοση"
+    },
+    "in_latin": {
+      "name": "Iris",
+      "meaning": "arcus caelestis, symbolum spei",
+      "long_meaning": "Iris est nomen Graecum, quod significat arcum caelestis, symbolum spei et connexio inter mundum humanum et divinum, cum importantia in traditione christiana"
+    },
+    "in_english": {
+      "name": "Iris",
+      "meaning": "Rainbow",
+      "long_meaning": "Rainbow"
+    },
+    "pronunciation": {
+      "english": "AY-ris",
+      "biblical": "not directly biblical",
+      "ipa": "/ˈaɪrɪs/"
+    },
+    "name_variations": [
+      "Iris"
+    ],
+    "variants": [
+      "Iris"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Iris is used in Biblical naming tradition with the meaning “Rainbow”.",
+    "spiritual_significance": "Any spiritual significance attached to Iris is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Rainbow” is the basis of any symbolism attached to Iris; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "not applicable",
+      "verse_reference": "not applicable",
+      "note": "not directly mentioned in the Bible, but symbolically related to divine communication"
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Iris."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#IrisMeaning",
+      "#ChristianBabyNames",
+      "#BibleInspiredNames",
+      "#ChristianNames",
+      "#Iris"
+    ],
+    "monetization": {
+      "sponsored_content": [
+        {
+          "title": "Discover the Secrets of Your Baby's Name with Our Personalized Report",
+          "description": "Get a comprehensive report on the meaning, origin, spiritual significance, numerology, and more of of your baby's name. Personalized just for you!",
+          "price": 9.99,
+          "button_text": "Order Now"
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Iris Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Iris has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Iris, Iris name meaning, Iris meaning, Iris origin, Iris root, Iris pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Iris has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Iris",
+        "Iris name meaning",
+        "Iris meaning",
+        "Iris origin",
+        "Iris root",
+        "Iris pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Iris name meaning",
+      "secondary_keywords": [
+        "Iris meaning",
+        "Iris origin",
+        "Iris pronunciation",
+        "Iris lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Iris mean?",
+          "a": "Name-lists record the meaning as “Rainbow”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Iris verified?",
+          "a": "No. The meaning of Iris could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Iris come from?",
+          "a": "The origin of Iris has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Iris Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Iris has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Iris",
+      "Iris name meaning",
+      "Iris meaning",
+      "Iris origin",
+      "Iris root",
+      "Iris pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Iris has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Iris",
+      "description": "Iris — Rainbow",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Iris mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Rainbow”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Iris verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Iris could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Iris come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Iris has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 50,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:16:21.000Z",
+    "tier1_verified": {
+      "name": "Iris",
+      "slug": "iris",
+      "meaning": "Rainbow",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Iris",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Rainbow",
+      "long_meaning": "The name Iris is recorded with the meaning “Rainbow”. Iris is a Biblical name meaning “Rainbow”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Iris",
+          "meaning": "Rainbow",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "AY-ris",
+        "ipa": "/ˈaɪrɪs/"
+      },
+      "syllables": 2,
+      "name_length": 4,
+      "faqs": [
+        {
+          "q": "What does the name Iris mean?",
+          "a": "Name-lists record the meaning as “Rainbow”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Iris verified?",
+          "a": "No. The meaning of Iris could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Iris come from?",
+          "a": "The origin of Iris has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 1,
+        "life_path_number": 1,
+        "ruling_planet": "Sun",
+        "lucky_day": "Sunday",
+        "lucky_stone": "Ruby",
+        "lucky_colors": [
+          "Gold",
+          "Orange"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Iris total 28, reducing to 1. Number 1 is associated with leadership, independence and initiative."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:16:21.000Z"
+    }
   }
- }
 }

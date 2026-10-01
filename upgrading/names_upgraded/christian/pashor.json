@@ -1,497 +1,336 @@
 {
- "success": true,
- "data": {
-  "name": "Pashor",
-  "slug": "pashor",
-  "language": [
-   "English",
-   "Hebrew"
-  ],
-  "gender": "Male",
-  "gender_notes": "Pashor is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "God's wealth",
-  "long_meaning": "The name Pashor is recorded with the meaning “God's wealth”. Pashor is a Biblical name meaning “God's wealth”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Pashor expresses “God's wealth”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Pashor is recorded with the meaning “God's wealth”. Pashor is a Biblical name meaning “God's wealth”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "p-a-s-h-o-r",
-  "syllables": 2,
-  "name_length": 6,
-  "transliteration": [
-   "Pashor"
-  ],
-  "lucky_number": 5,
-  "lucky_day": "Wednesday",
-  "lucky_colors": [
-   "Green",
-   "Turquoise"
-  ],
-  "lucky_stone": "Emerald",
-  "ruling_planet": "Mercury",
-  "life_path_number": 5,
-  "numerology_meaning": "In Pythagorean numerology the letters of Pashor total 32, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
-  "in_hebrew": {
-   "name": "פשור",
-   "meaning": "הוא פותח או משחרר במצוות האל",
-   "long_meaning": "השם פשור הוא בעל שורשים עבריים ומשמעותו היא לפתוח או לשחרר. הוא מורכב משתי מילים: פש, שפירושה פתיחה, ו-ור, שפירושה אור או שחרור. לפיכך, השם פשור מתאר אדם שפותח או משחרר במצוות האל. במסורת היהודית, השם פשור נמצא בספר ירמיהו, פרק יח, פסוק 10, שם הוא מוזכר כשם של כוהן."
-  },
-  "in_greek": {
-   "name": "Πάσχωρ",
-   "meaning": "Ανοίγω ή ελευθερώνω με εντολή Θεού",
-   "long_meaning": "Το όνομα Πάσχωρ έχει εβραϊκές ρίζες και σημαίνει να ανοίγω ή να ελευθερώνω. Προέρχεται από δύο λέξεις: פש (pash), που σημαίνει άνοιγμα, και ור (or), που σημαίνει φως ή απελευθέρωση. Έτσι, το όνομα Πάσχωρ περιγράφει κάποιον που ανοίγει ή ελευθερώνει με εντολή Θεού. Στην Καινή Διαθήκη, δεν υπάρχει άμεση αναφορά στο όνομα Πάσχωρ, αλλά η παράδοσή του υπάρχει στην εβραϊκή κοινότητα."
-  },
-  "in_latin": {
-   "name": "Pashor",
-   "meaning": "Aperi or liberare jussu Dei",
-   "long_meaning": "Nomen Pashor habet radices hebraicas et significat aperire or liberare. Componitur ex duabus vocibus: פש (pash), quae significat apertionem, et ור (or), quae significat lucem or liberationem. Ita, nomen Pashor describit aliquem qui aperit or liberat jussu Dei. In traditione christiana, nomen Pashor inveniuntur in scripturis hebraicis."
-  },
-  "in_english": {
-   "name": "Pashor",
-   "meaning": "God's wealth",
-   "long_meaning": "The name Pashor is recorded with the meaning “God's wealth”. Pashor is a Biblical name meaning “God's wealth”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "PAS-or",
-   "biblical": "פַּשְׁחוֹר (Pashchor)",
-   "ipa": "/ˈpæsɔr/"
-  },
-  "name_variations": [
-   "Pashor"
-  ],
-  "variants": [
-   "Pashor"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Pashor is used in Biblical naming tradition with the meaning “God's wealth”.",
-  "spiritual_significance": "Any spiritual significance attached to Pashor is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “God's wealth” is the basis of any symbolism attached to Pashor; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": true,
-   "origin_scripture": "Jeremiah",
-   "verse_reference": "Jeremiah 20:10",
-   "note": "Pashor, son of Immer, a priest mentioned in Jeremiah 20:10."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Pashor."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#PashorMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Pashor"
-  ],
-  "monetization": {
-   "google_adsense": {
-    "pub_id": "ca-pub-1234567890123456",
-    "size": [
-     300,
-     250
+  "success": true,
+  "data": {
+    "name": "Pashor",
+    "slug": "pashor",
+    "language": [
+      "English",
+      "Hebrew"
     ],
-    "ad_type": "display"
-   },
-   "amazon_affiliate": {
-    "associate_id": "abcdefg1234567890"
-   }
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Pashor Name Meaning – God's wealth (Biblical)",
-   "meta_description": "Pashor is a Biblical name meaning “God's wealth”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Pashor, Pashor name meaning, Pashor meaning, Pashor origin, Pashor root, Pashor pronunciation, Biblical names",
-   "description_paragraph": "Pashor is a Biblical name meaning “God's wealth”.",
-   "keywords": [
-    "Pashor",
-    "Pashor name meaning",
-    "Pashor meaning",
-    "Pashor origin",
-    "Pashor root",
-    "Pashor pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Pashor name meaning",
-   "secondary_keywords": [
-    "Pashor meaning",
-    "Pashor origin",
-    "Pashor pronunciation",
-    "Pashor lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/pashor",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Which colours are associated with Pashor?",
-     "a": "Green, Turquoise are the traditional associations for Pashor. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Pashor?",
-     "a": "In Pythagorean numerology the letters of Pashor total 32, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-    },
-    {
-     "q": "How reliable is the meaning given for Pashor?",
-     "a": "The meaning of Pashor carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Pashor have a religious meaning?",
-     "a": "Pashor is recorded as a christian name meaning “God's wealth”."
-    },
-    {
-     "q": "What is the English meaning of Pashor?",
-     "a": "In English, Pashor is rendered as “God's wealth”."
-    },
-    {
-     "q": "Is Pashor suitable for a baby?",
-     "a": "Pashor is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Pashor?",
-     "a": "Pashor is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Pashor?",
-     "a": "Pashor is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Pashor have a positive meaning?",
-     "a": "Pashor carries the meaning “God's wealth”."
-    },
-    {
-     "q": "What does the name Pashor mean?",
-     "a": "Pashor means “God's wealth”."
-    },
-    {
-     "q": "What is the origin of the name Pashor?",
-     "a": "Pashor is of Biblical origin."
-    },
-    {
-     "q": "Is Pashor a male name?",
-     "a": "Pashor is used as a male name."
-    }
-   ]
-  },
-  "seo_title": "Pashor Name Meaning – God's wealth (Biblical)",
-  "meta_description": "Pashor is a Biblical name meaning “God's wealth”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Pashor",
-   "Pashor name meaning",
-   "Pashor meaning",
-   "Pashor origin",
-   "Pashor root",
-   "Pashor pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/pashor",
-  "intro_paragraph": "Pashor is a Biblical name meaning “God's wealth”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Pashor",
-   "description": "Pashor — God's wealth",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Pashor?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Green, Turquoise are the traditional associations for Pashor. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Pashor?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Pashor total 32, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Pashor?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Pashor carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Pashor have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pashor is recorded as a christian name meaning “God's wealth”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Pashor?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Pashor is rendered as “God's wealth”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Pashor suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pashor is used as a male given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Pashor?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pashor is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Pashor?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pashor is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Pashor have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pashor carries the meaning “God's wealth”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Pashor mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pashor means “God's wealth”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Pashor?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pashor is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Pashor a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pashor is used as a male name."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Pashor",
-     "item": "https://namemeaning.example/name/pashor"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Pashor",
-   "slug": "pashor",
-   "meaning": "God's wealth",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Pashor",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "God's wealth",
-   "long_meaning": "The name Pashor is recorded with the meaning “God's wealth”. Pashor is a Biblical name meaning “God's wealth”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Pashor",
-     "meaning": "God's wealth",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "PAS-or",
-    "ipa": "/ˈpæsɔr/"
-   },
-   "syllables": 2,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "Which colours are associated with Pashor?",
-     "a": "Green, Turquoise are the traditional associations for Pashor. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Pashor?",
-     "a": "In Pythagorean numerology the letters of Pashor total 32, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-    },
-    {
-     "q": "How reliable is the meaning given for Pashor?",
-     "a": "The meaning of Pashor carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Pashor have a religious meaning?",
-     "a": "Pashor is recorded as a christian name meaning “God's wealth”."
-    },
-    {
-     "q": "What is the English meaning of Pashor?",
-     "a": "In English, Pashor is rendered as “God's wealth”."
-    },
-    {
-     "q": "Is Pashor suitable for a baby?",
-     "a": "Pashor is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Pashor?",
-     "a": "Pashor is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Pashor?",
-     "a": "Pashor is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Pashor have a positive meaning?",
-     "a": "Pashor carries the meaning “God's wealth”."
-    },
-    {
-     "q": "What does the name Pashor mean?",
-     "a": "Pashor means “God's wealth”."
-    },
-    {
-     "q": "What is the origin of the name Pashor?",
-     "a": "Pashor is of Biblical origin."
-    },
-    {
-     "q": "Is Pashor a male name?",
-     "a": "Pashor is used as a male name."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
+    "gender": "Male",
+    "gender_notes": "Pashor is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "God's wealth",
+    "long_meaning": "The meaning of Pashor is recorded in name-lists as “God's wealth”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Pashor expresses “God's wealth”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "p-a-s-h-o-r",
+    "syllables": 2,
+    "name_length": 6,
+    "transliteration": [
+      "Pashor"
+    ],
     "lucky_number": 5,
-    "life_path_number": 5,
-    "ruling_planet": "Mercury",
     "lucky_day": "Wednesday",
-    "lucky_stone": "Emerald",
     "lucky_colors": [
-     "Green",
-     "Turquoise"
+      "Green",
+      "Turquoise"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Pashor total 32, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "lucky_stone": "Emerald",
+    "ruling_planet": "Mercury",
+    "life_path_number": 5,
+    "numerology_meaning": "In Pythagorean numerology the letters of Pashor total 32, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
+    "in_hebrew": {
+      "name": "פשור",
+      "meaning": "הוא פותח או משחרר במצוות האל",
+      "long_meaning": "השם פשור הוא בעל שורשים עבריים ומשמעותו היא לפתוח או לשחרר. הוא מורכב משתי מילים: פש, שפירושה פתיחה, ו-ור, שפירושה אור או שחרור. לפיכך, השם פשור מתאר אדם שפותח או משחרר במצוות האל. במסורת היהודית, השם פשור נמצא בספר ירמיהו, פרק יח, פסוק 10, שם הוא מוזכר כשם של כוהן."
+    },
+    "in_greek": {
+      "name": "Πάσχωρ",
+      "meaning": "Ανοίγω ή ελευθερώνω με εντολή Θεού",
+      "long_meaning": "Το όνομα Πάσχωρ έχει εβραϊκές ρίζες και σημαίνει να ανοίγω ή να ελευθερώνω. Προέρχεται από δύο λέξεις: פש (pash), που σημαίνει άνοιγμα, και ור (or), που σημαίνει φως ή απελευθέρωση. Έτσι, το όνομα Πάσχωρ περιγράφει κάποιον που ανοίγει ή ελευθερώνει με εντολή Θεού. Στην Καινή Διαθήκη, δεν υπάρχει άμεση αναφορά στο όνομα Πάσχωρ, αλλά η παράδοσή του υπάρχει στην εβραϊκή κοινότητα."
+    },
+    "in_latin": {
+      "name": "Pashor",
+      "meaning": "Aperi or liberare jussu Dei",
+      "long_meaning": "Nomen Pashor habet radices hebraicas et significat aperire or liberare. Componitur ex duabus vocibus: פש (pash), quae significat apertionem, et ור (or), quae significat lucem or liberationem. Ita, nomen Pashor describit aliquem qui aperit or liberat jussu Dei. In traditione christiana, nomen Pashor inveniuntur in scripturis hebraicis."
+    },
+    "in_english": {
+      "name": "Pashor",
+      "meaning": "God's wealth",
+      "long_meaning": "God's wealth"
+    },
+    "pronunciation": {
+      "english": "PAS-or",
+      "biblical": "פַּשְׁחוֹר (Pashchor)",
+      "ipa": "/ˈpæsɔr/"
+    },
+    "name_variations": [
+      "Pashor"
+    ],
+    "variants": [
+      "Pashor"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Pashor is used in Biblical naming tradition with the meaning “God's wealth”.",
+    "spiritual_significance": "Any spiritual significance attached to Pashor is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “God's wealth” is the basis of any symbolism attached to Pashor; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "Jeremiah",
+      "verse_reference": "Jeremiah 20:10",
+      "note": "Pashor, son of Immer, a priest mentioned in Jeremiah 20:10."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Pashor."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#PashorMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Pashor"
+    ],
+    "monetization": {
+      "google_adsense": {
+        "pub_id": "ca-pub-1234567890123456",
+        "size": [
+          300,
+          250
+        ],
+        "ad_type": "display"
+      },
+      "amazon_affiliate": {
+        "associate_id": "abcdefg1234567890"
+      }
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Pashor Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Pashor has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Pashor, Pashor name meaning, Pashor meaning, Pashor origin, Pashor root, Pashor pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Pashor has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Pashor",
+        "Pashor name meaning",
+        "Pashor meaning",
+        "Pashor origin",
+        "Pashor root",
+        "Pashor pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Pashor name meaning",
+      "secondary_keywords": [
+        "Pashor meaning",
+        "Pashor origin",
+        "Pashor pronunciation",
+        "Pashor lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Pashor mean?",
+          "a": "Name-lists record the meaning as “God's wealth”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Pashor verified?",
+          "a": "No. The meaning of Pashor could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Pashor come from?",
+          "a": "The origin of Pashor has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Pashor Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Pashor has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Pashor",
+      "Pashor name meaning",
+      "Pashor meaning",
+      "Pashor origin",
+      "Pashor root",
+      "Pashor pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Pashor has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Pashor",
+      "description": "Pashor — God's wealth",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Pashor mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “God's wealth”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Pashor verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Pashor could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Pashor come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Pashor has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:27:28.000Z",
+    "tier1_verified": {
+      "name": "Pashor",
+      "slug": "pashor",
+      "meaning": "God's wealth",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Pashor",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "God's wealth",
+      "long_meaning": "The name Pashor is recorded with the meaning “God's wealth”. Pashor is a Biblical name meaning “God's wealth”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Pashor",
+          "meaning": "God's wealth",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "PAS-or",
+        "ipa": "/ˈpæsɔr/"
+      },
+      "syllables": 2,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Pashor mean?",
+          "a": "Name-lists record the meaning as “God's wealth”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Pashor verified?",
+          "a": "No. The meaning of Pashor could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Pashor come from?",
+          "a": "The origin of Pashor has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 5,
+        "life_path_number": 5,
+        "ruling_planet": "Mercury",
+        "lucky_day": "Wednesday",
+        "lucky_stone": "Emerald",
+        "lucky_colors": [
+          "Green",
+          "Turquoise"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Pashor total 32, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:27:28.000Z"
+    }
   }
- }
 }

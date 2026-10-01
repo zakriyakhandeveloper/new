@@ -1,500 +1,339 @@
 {
- "success": true,
- "data": {
-  "name": "Ambrogio",
-  "slug": "ambrogio",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Ambrogio is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Saint",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Imperial, Powerful",
-  "long_meaning": "The name Ambrogio is recorded with the meaning “Imperial, Powerful”. Ambrogio is a Biblical name meaning “Imperial, Powerful”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Ambrogio expresses “Imperial, Powerful”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Ambrogio is recorded with the meaning “Imperial, Powerful”. Ambrogio is a Biblical name meaning “Imperial, Powerful”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "a-m-b-r-o-g-i-o",
-  "syllables": 3,
-  "name_length": 8,
-  "transliteration": [
-   "Ambrogio"
-  ],
-  "lucky_number": 8,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Blue",
-   "Black"
-  ],
-  "lucky_stone": "Blue Sapphire",
-  "ruling_planet": "Saturn",
-  "life_path_number": 8,
-  "numerology_meaning": "In Pythagorean numerology the letters of Ambrogio total 44, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-  "in_hebrew": {
-   "name": "אמברג׳יו",
-   "meaning": "אמברג׳יו הוא שם נוצרי שמשמעותו עולם או שמים",
-   "long_meaning": "אמברג׳יו הוא שם נוצרי שמקורו ביוונית ומשמעותו עולם או שמים. השם נגזר מהמילה היוונית 'אמברוסיה' שפירושה מזון אלוהי או אוכל של האלים. השם אמברג׳יו הוא גרסה של השם היווני 'אמברוסיוס' שמשמעותו נצחי או אלמותי. השם היה נפוץ בכנסייה הנוצרית הקדומה והיה שמו של אחד האבות הקדושים של הכנסייה."
-  },
-  "in_greek": {
-   "name": "Αμβρόγιος",
-   "meaning": "Αμβρόγιος σημαίνει αθάνατος ή αιώνιος",
-   "long_meaning": "Αμβρόγιος είναι ένα χριστιανικό όνομα που προέρχεται από το ελληνικό 'αμβροσία' που σημαίνει τροφή των θεών. Το όνομα Αμβρόγιος είναι μια παραλλαγή του ελληνικού ονόματος 'Αμβρόσιος' που σημαίνει αθάνατος ή αιώνιος. Το όνομα ήταν κοινό στην αρχαία χριστιανική εκκλησία και ήταν το όνομα ενός από τους πατέρες της εκκλησίας."
-  },
-  "in_latin": {
-   "name": "Ambrogio",
-   "meaning": "Ambrogio means immortal or eternal",
-   "long_meaning": "Ambrogio is a Christian name derived from the Greek 'ambrosia' meaning food of the gods. The name Ambrogio is a variant of the Greek name 'Ambrosios' meaning immortal or eternal. The name was common in the early Christian church and was the name of one of the church fathers. It is associated with Saint Ambrose, a 4th-century bishop and Doctor of the Church."
-  },
-  "in_english": {
-   "name": "Ambrogio",
-   "meaning": "Imperial, Powerful",
-   "long_meaning": "The name Ambrogio is recorded with the meaning “Imperial, Powerful”. Ambrogio is a Biblical name meaning “Imperial, Powerful”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "am-BROH-jee-oh",
-   "ipa": "/æmˈbroʊdʒioʊ/"
-  },
-  "name_variations": [
-   "Ambrogio"
-  ],
-  "variants": [
-   "Ambrogio"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Ambrogio is used in Biblical naming tradition with the meaning “Imperial, Powerful”.",
-  "spiritual_significance": "Any spiritual significance attached to Ambrogio is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Imperial, Powerful” is the basis of any symbolism attached to Ambrogio; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Ambrogio."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AmbrogioMeaning",
-   "#ChristianBabyNames",
-   "#SaintNames",
-   "#Ambrogio"
-  ],
-  "monetization": {
-   "ads": {
-    "placement": "Sidebar",
-    "type": "DisplayAds"
-   },
-   "affiliate_links": {
-    "books": [
-     "https://example.com/books/ambrogio"
+  "success": true,
+  "data": {
+    "name": "Ambrogio",
+    "slug": "ambrogio",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
     ],
-    "merchandise": [
-     "https://example.com/shop/ambrogio"
-    ]
-   }
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Ambrogio Name Meaning – Imperial, Powerful (Biblical)",
-   "meta_description": "Ambrogio is a Biblical name meaning “Imperial, Powerful”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Ambrogio, Ambrogio name meaning, Ambrogio meaning, Ambrogio origin, Ambrogio root, Ambrogio pronunciation, Biblical names",
-   "description_paragraph": "Ambrogio is a Biblical name meaning “Imperial, Powerful”.",
-   "keywords": [
-    "Ambrogio",
-    "Ambrogio name meaning",
-    "Ambrogio meaning",
-    "Ambrogio origin",
-    "Ambrogio root",
-    "Ambrogio pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Ambrogio name meaning",
-   "secondary_keywords": [
-    "Ambrogio meaning",
-    "Ambrogio origin",
-    "Ambrogio pronunciation",
-    "Ambrogio lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/ambrogio",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "How is Ambrogio pronounced?",
-     "a": "Ambrogio is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Ambrogio?",
-     "a": "Any spiritual significance attached to Ambrogio is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Ambrogio?",
-     "a": "Variant spellings of Ambrogio are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Ambrogio a common name?",
-     "a": "Popularity figures for Ambrogio have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Ambrogio say about a child?",
-     "a": "The name Ambrogio expresses “Imperial, Powerful”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Ambrogio be used in another language?",
-     "a": "Ambrogio is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Ambrogio mentioned in scripture?",
-     "a": "No scriptural reference for Ambrogio has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Ambrogio?",
-     "a": "The Pythagorean lucky number for Ambrogio is 8 (ruling planet Saturn). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Ambrogio?",
-     "a": "Saturday is the traditional association for Ambrogio. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Ambrogio?",
-     "a": "Blue Sapphire is the traditional association for Ambrogio. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Ambrogio?",
-     "a": "Blue, Black are the traditional associations for Ambrogio. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Ambrogio?",
-     "a": "In Pythagorean numerology the letters of Ambrogio total 44, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-    }
-   ]
-  },
-  "seo_title": "Ambrogio Name Meaning – Imperial, Powerful (Biblical)",
-  "meta_description": "Ambrogio is a Biblical name meaning “Imperial, Powerful”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Ambrogio",
-   "Ambrogio name meaning",
-   "Ambrogio meaning",
-   "Ambrogio origin",
-   "Ambrogio root",
-   "Ambrogio pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/ambrogio",
-  "intro_paragraph": "Ambrogio is a Biblical name meaning “Imperial, Powerful”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Ambrogio",
-   "description": "Ambrogio — Imperial, Powerful",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "How is Ambrogio pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ambrogio is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Ambrogio?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Ambrogio is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Ambrogio?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Ambrogio are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Ambrogio a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Ambrogio have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Ambrogio say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Ambrogio expresses “Imperial, Powerful”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Ambrogio be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ambrogio is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Ambrogio mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Ambrogio has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Ambrogio?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Ambrogio is 8 (ruling planet Saturn). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Ambrogio?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Saturday is the traditional association for Ambrogio. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Ambrogio?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Blue Sapphire is the traditional association for Ambrogio. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Ambrogio?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Blue, Black are the traditional associations for Ambrogio. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Ambrogio?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Ambrogio total 44, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Ambrogio",
-     "item": "https://namemeaning.example/name/ambrogio"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Ambrogio",
-   "slug": "ambrogio",
-   "meaning": "Imperial, Powerful",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Ambrogio",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Imperial, Powerful",
-   "long_meaning": "The name Ambrogio is recorded with the meaning “Imperial, Powerful”. Ambrogio is a Biblical name meaning “Imperial, Powerful”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Ambrogio",
-     "meaning": "Imperial, Powerful",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "am-BROH-jee-oh",
-    "ipa": "/æmˈbroʊdʒioʊ/"
-   },
-   "syllables": 3,
-   "name_length": 8,
-   "faqs": [
-    {
-     "q": "How is Ambrogio pronounced?",
-     "a": "Ambrogio is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Ambrogio?",
-     "a": "Any spiritual significance attached to Ambrogio is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Ambrogio?",
-     "a": "Variant spellings of Ambrogio are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Ambrogio a common name?",
-     "a": "Popularity figures for Ambrogio have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Ambrogio say about a child?",
-     "a": "The name Ambrogio expresses “Imperial, Powerful”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Ambrogio be used in another language?",
-     "a": "Ambrogio is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Ambrogio mentioned in scripture?",
-     "a": "No scriptural reference for Ambrogio has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Ambrogio?",
-     "a": "The Pythagorean lucky number for Ambrogio is 8 (ruling planet Saturn). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Ambrogio?",
-     "a": "Saturday is the traditional association for Ambrogio. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Ambrogio?",
-     "a": "Blue Sapphire is the traditional association for Ambrogio. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Ambrogio?",
-     "a": "Blue, Black are the traditional associations for Ambrogio. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Ambrogio?",
-     "a": "In Pythagorean numerology the letters of Ambrogio total 44, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
+    "gender": "Male",
+    "gender_notes": "Ambrogio is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Saint",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Imperial, Powerful",
+    "long_meaning": "The meaning of Ambrogio is recorded in name-lists as “Imperial, Powerful”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Ambrogio expresses “Imperial, Powerful”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "a-m-b-r-o-g-i-o",
+    "syllables": 3,
+    "name_length": 8,
+    "transliteration": [
+      "Ambrogio"
+    ],
     "lucky_number": 8,
-    "life_path_number": 8,
-    "ruling_planet": "Saturn",
     "lucky_day": "Saturday",
-    "lucky_stone": "Blue Sapphire",
     "lucky_colors": [
-     "Blue",
-     "Black"
+      "Blue",
+      "Black"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Ambrogio total 44, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "lucky_stone": "Blue Sapphire",
+    "ruling_planet": "Saturn",
+    "life_path_number": 8,
+    "numerology_meaning": "In Pythagorean numerology the letters of Ambrogio total 44, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
+    "in_hebrew": {
+      "name": "אמברג׳יו",
+      "meaning": "אמברג׳יו הוא שם נוצרי שמשמעותו עולם או שמים",
+      "long_meaning": "אמברג׳יו הוא שם נוצרי שמקורו ביוונית ומשמעותו עולם או שמים. השם נגזר מהמילה היוונית 'אמברוסיה' שפירושה מזון אלוהי או אוכל של האלים. השם אמברג׳יו הוא גרסה של השם היווני 'אמברוסיוס' שמשמעותו נצחי או אלמותי. השם היה נפוץ בכנסייה הנוצרית הקדומה והיה שמו של אחד האבות הקדושים של הכנסייה."
+    },
+    "in_greek": {
+      "name": "Αμβρόγιος",
+      "meaning": "Αμβρόγιος σημαίνει αθάνατος ή αιώνιος",
+      "long_meaning": "Αμβρόγιος είναι ένα χριστιανικό όνομα που προέρχεται από το ελληνικό 'αμβροσία' που σημαίνει τροφή των θεών. Το όνομα Αμβρόγιος είναι μια παραλλαγή του ελληνικού ονόματος 'Αμβρόσιος' που σημαίνει αθάνατος ή αιώνιος. Το όνομα ήταν κοινό στην αρχαία χριστιανική εκκλησία και ήταν το όνομα ενός από τους πατέρες της εκκλησίας."
+    },
+    "in_latin": {
+      "name": "Ambrogio",
+      "meaning": "Ambrogio means immortal or eternal",
+      "long_meaning": "Ambrogio is a Christian name derived from the Greek 'ambrosia' meaning food of the gods. The name Ambrogio is a variant of the Greek name 'Ambrosios' meaning immortal or eternal. The name was common in the early Christian church and was the name of one of the church fathers. It is associated with Saint Ambrose, a 4th-century bishop and Doctor of the Church."
+    },
+    "in_english": {
+      "name": "Ambrogio",
+      "meaning": "Imperial, Powerful",
+      "long_meaning": "Imperial, Powerful"
+    },
+    "pronunciation": {
+      "english": "am-BROH-jee-oh",
+      "ipa": "/æmˈbroʊdʒioʊ/"
+    },
+    "name_variations": [
+      "Ambrogio"
+    ],
+    "variants": [
+      "Ambrogio"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Ambrogio is used in Biblical naming tradition with the meaning “Imperial, Powerful”.",
+    "spiritual_significance": "Any spiritual significance attached to Ambrogio is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Imperial, Powerful” is the basis of any symbolism attached to Ambrogio; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Ambrogio."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AmbrogioMeaning",
+      "#ChristianBabyNames",
+      "#SaintNames",
+      "#Ambrogio"
+    ],
+    "monetization": {
+      "ads": {
+        "placement": "Sidebar",
+        "type": "DisplayAds"
+      },
+      "affiliate_links": {
+        "books": [
+          "https://example.com/books/ambrogio"
+        ],
+        "merchandise": [
+          "https://example.com/shop/ambrogio"
+        ]
+      }
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Ambrogio Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Ambrogio has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Ambrogio, Ambrogio name meaning, Ambrogio meaning, Ambrogio origin, Ambrogio root, Ambrogio pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Ambrogio has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Ambrogio",
+        "Ambrogio name meaning",
+        "Ambrogio meaning",
+        "Ambrogio origin",
+        "Ambrogio root",
+        "Ambrogio pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Ambrogio name meaning",
+      "secondary_keywords": [
+        "Ambrogio meaning",
+        "Ambrogio origin",
+        "Ambrogio pronunciation",
+        "Ambrogio lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Ambrogio mean?",
+          "a": "Name-lists record the meaning as “Imperial, Powerful”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Ambrogio verified?",
+          "a": "No. The meaning of Ambrogio could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Ambrogio come from?",
+          "a": "The origin of Ambrogio has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Ambrogio Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Ambrogio has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Ambrogio",
+      "Ambrogio name meaning",
+      "Ambrogio meaning",
+      "Ambrogio origin",
+      "Ambrogio root",
+      "Ambrogio pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Ambrogio has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Ambrogio",
+      "description": "Ambrogio — Imperial, Powerful",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Ambrogio mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Imperial, Powerful”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Ambrogio verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Ambrogio could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Ambrogio come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Ambrogio has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:05:10.000Z",
+    "tier1_verified": {
+      "name": "Ambrogio",
+      "slug": "ambrogio",
+      "meaning": "Imperial, Powerful",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Ambrogio",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Imperial, Powerful",
+      "long_meaning": "The name Ambrogio is recorded with the meaning “Imperial, Powerful”. Ambrogio is a Biblical name meaning “Imperial, Powerful”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Ambrogio",
+          "meaning": "Imperial, Powerful",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "am-BROH-jee-oh",
+        "ipa": "/æmˈbroʊdʒioʊ/"
+      },
+      "syllables": 3,
+      "name_length": 8,
+      "faqs": [
+        {
+          "q": "What does the name Ambrogio mean?",
+          "a": "Name-lists record the meaning as “Imperial, Powerful”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Ambrogio verified?",
+          "a": "No. The meaning of Ambrogio could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Ambrogio come from?",
+          "a": "The origin of Ambrogio has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 8,
+        "life_path_number": 8,
+        "ruling_planet": "Saturn",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Blue Sapphire",
+        "lucky_colors": [
+          "Blue",
+          "Black"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Ambrogio total 44, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:05:10.000Z"
+    }
   }
- }
 }

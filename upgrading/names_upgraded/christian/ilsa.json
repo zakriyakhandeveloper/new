@@ -1,491 +1,330 @@
 {
- "success": true,
- "data": {
-  "name": "Ilsa",
-  "slug": "ilsa",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Ilsa is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Virtue",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "God's Grace",
-  "long_meaning": "The name Ilsa is recorded with the meaning “God's Grace”. Ilsa is a Biblical name meaning “God's Grace”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Ilsa expresses “God's Grace”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Ilsa is recorded with the meaning “God's Grace”. Ilsa is a Biblical name meaning “God's Grace”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "i-l-s-a",
-  "syllables": 2,
-  "name_length": 4,
-  "transliteration": [
-   "Ilsa"
-  ],
-  "lucky_number": 5,
-  "lucky_day": "Wednesday",
-  "lucky_colors": [
-   "Green",
-   "Turquoise"
-  ],
-  "lucky_stone": "Emerald",
-  "ruling_planet": "Mercury",
-  "life_path_number": 5,
-  "numerology_meaning": "In Pythagorean numerology the letters of Ilsa total 14, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
-  "in_hebrew": {
-   "name": "אילסה",
-   "meaning": "אל הוא השולט הכל יכול",
-   "long_meaning": "אילסה הוא שם שמקורו בשם העברי אליעזר או איליה, שפירושו 'אל הוא השולט הכל יכול' או 'אלוהים הוא האור שלי'. השם אילסה הוא גרסה שונה של השם אליסיה או אליזבת, שגם הם קשורים לשמות עבריים אלו. השם נמצא בשימוש בקרב קהילות יהודיות ונוצריות כאחד, ויש לו משמעות רוחנית עמוקה."
-  },
-  "in_greek": {
-   "name": "Ίλσα",
-   "meaning": "Αλλά μην εκρήγνυται ἐλπίδα",
-   "long_meaning": "Το όνομα Ίλσα είναι πιθανόν παράγωγο του ονόματος Ελισάβετ ή Ελένη, που σημαίνει 'Αλλά μην εκρήγνυται ἐλπίδα' ή 'Φωτεινή, λάμπουσα'. Στην Καινή Διαθήκη, το όνομα Ελισάβετ αναφέρεται στη μητέρα του Ιωάννη του Βαπτίστη. Το όνομα Ίλσα έχει χρησιμοποιηθεί στην Εκκλησία από τους πρώτους χρόνους και έχει πνευματική σημασία."
-  },
-  "in_latin": {
-   "name": "Ilsa",
-   "meaning": "Deus est meus dominus",
-   "long_meaning": "Nomen Ilsa derivatur ex nomine hebraeo Eliezer vel Elias, quod significat 'Deus est meus dominus' vel 'Deus est lux mea'. Nomen Ilsa in usu est apud communitates judaicas et christianas, et habet profundam significationem spiritualem. In Ecclesia primitivia, nomen Ilsa fuerat usitatum."
-  },
-  "in_english": {
-   "name": "Ilsa",
-   "meaning": "God's Grace",
-   "long_meaning": "The name Ilsa is recorded with the meaning “God's Grace”. Ilsa is a Biblical name meaning “God's Grace”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "IL-sah",
-   "ipa": "/ˈɪlsə/"
-  },
-  "name_variations": [
-   "Ilsa"
-  ],
-  "variants": [
-   "Ilsa"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Ilsa is used in Biblical naming tradition with the meaning “God's Grace”.",
-  "spiritual_significance": "Any spiritual significance attached to Ilsa is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “God's Grace” is the basis of any symbolism attached to Ilsa; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Ilsa."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#IlsaMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Ilsa"
-  ],
-  "monetization": {
-   "display_ads": true,
-   "affiliate_links": true
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Ilsa Name Meaning – God's Grace (Biblical)",
-   "meta_description": "Ilsa is a Biblical name meaning “God's Grace”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Ilsa, Ilsa name meaning, Ilsa meaning, Ilsa origin, Ilsa root, Ilsa pronunciation, Biblical names",
-   "description_paragraph": "Ilsa is a Biblical name meaning “God's Grace”.",
-   "keywords": [
-    "Ilsa",
-    "Ilsa name meaning",
-    "Ilsa meaning",
-    "Ilsa origin",
-    "Ilsa root",
-    "Ilsa pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Ilsa name meaning",
-   "secondary_keywords": [
-    "Ilsa meaning",
-    "Ilsa origin",
-    "Ilsa pronunciation",
-    "Ilsa lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/ilsa",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Which culture uses the name Ilsa?",
-     "a": "Ilsa is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Ilsa have a positive meaning?",
-     "a": "Ilsa carries the meaning “God's Grace”."
-    },
-    {
-     "q": "What does the name Ilsa mean?",
-     "a": "Ilsa means “God's Grace”."
-    },
-    {
-     "q": "What is the origin of the name Ilsa?",
-     "a": "Ilsa is of Biblical origin."
-    },
-    {
-     "q": "Is Ilsa a unisex name?",
-     "a": "Ilsa is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Ilsa have?",
-     "a": "Ilsa has 2 syllables."
-    },
-    {
-     "q": "How is Ilsa pronounced?",
-     "a": "Ilsa is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Ilsa?",
-     "a": "Any spiritual significance attached to Ilsa is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Ilsa?",
-     "a": "Variant spellings of Ilsa are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Ilsa a common name?",
-     "a": "Popularity figures for Ilsa have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Ilsa say about a child?",
-     "a": "The name Ilsa expresses “God's Grace”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Ilsa be used in another language?",
-     "a": "Ilsa is recorded in Biblical; its script forms in other languages are given in the translations field."
-    }
-   ]
-  },
-  "seo_title": "Ilsa Name Meaning – God's Grace (Biblical)",
-  "meta_description": "Ilsa is a Biblical name meaning “God's Grace”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Ilsa",
-   "Ilsa name meaning",
-   "Ilsa meaning",
-   "Ilsa origin",
-   "Ilsa root",
-   "Ilsa pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/ilsa",
-  "intro_paragraph": "Ilsa is a Biblical name meaning “God's Grace”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Ilsa",
-   "description": "Ilsa — God's Grace",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Ilsa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ilsa is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Ilsa have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ilsa carries the meaning “God's Grace”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Ilsa mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ilsa means “God's Grace”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Ilsa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ilsa is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Ilsa a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ilsa is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Ilsa have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ilsa has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Ilsa pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ilsa is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Ilsa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Ilsa is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Ilsa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Ilsa are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Ilsa a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Ilsa have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Ilsa say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Ilsa expresses “God's Grace”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Ilsa be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ilsa is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Ilsa",
-     "item": "https://namemeaning.example/name/ilsa"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Ilsa",
-   "slug": "ilsa",
-   "meaning": "God's Grace",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Ilsa",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "God's Grace",
-   "long_meaning": "The name Ilsa is recorded with the meaning “God's Grace”. Ilsa is a Biblical name meaning “God's Grace”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Ilsa",
-     "meaning": "God's Grace",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "IL-sah",
-    "ipa": "/ˈɪlsə/"
-   },
-   "syllables": 2,
-   "name_length": 4,
-   "faqs": [
-    {
-     "q": "Which culture uses the name Ilsa?",
-     "a": "Ilsa is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Ilsa have a positive meaning?",
-     "a": "Ilsa carries the meaning “God's Grace”."
-    },
-    {
-     "q": "What does the name Ilsa mean?",
-     "a": "Ilsa means “God's Grace”."
-    },
-    {
-     "q": "What is the origin of the name Ilsa?",
-     "a": "Ilsa is of Biblical origin."
-    },
-    {
-     "q": "Is Ilsa a unisex name?",
-     "a": "Ilsa is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Ilsa have?",
-     "a": "Ilsa has 2 syllables."
-    },
-    {
-     "q": "How is Ilsa pronounced?",
-     "a": "Ilsa is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Ilsa?",
-     "a": "Any spiritual significance attached to Ilsa is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Ilsa?",
-     "a": "Variant spellings of Ilsa are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Ilsa a common name?",
-     "a": "Popularity figures for Ilsa have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Ilsa say about a child?",
-     "a": "The name Ilsa expresses “God's Grace”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Ilsa be used in another language?",
-     "a": "Ilsa is recorded in Biblical; its script forms in other languages are given in the translations field."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 5,
-    "life_path_number": 5,
-    "ruling_planet": "Mercury",
-    "lucky_day": "Wednesday",
-    "lucky_stone": "Emerald",
-    "lucky_colors": [
-     "Green",
-     "Turquoise"
+  "success": true,
+  "data": {
+    "name": "Ilsa",
+    "slug": "ilsa",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Ilsa total 14, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Ilsa is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Virtue",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "God's Grace",
+    "long_meaning": "The meaning of Ilsa is recorded in name-lists as “God's Grace”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Ilsa expresses “God's Grace”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "i-l-s-a",
+    "syllables": 2,
+    "name_length": 4,
+    "transliteration": [
+      "Ilsa"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Wednesday",
+    "lucky_colors": [
+      "Green",
+      "Turquoise"
+    ],
+    "lucky_stone": "Emerald",
+    "ruling_planet": "Mercury",
+    "life_path_number": 5,
+    "numerology_meaning": "In Pythagorean numerology the letters of Ilsa total 14, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
+    "in_hebrew": {
+      "name": "אילסה",
+      "meaning": "אל הוא השולט הכל יכול",
+      "long_meaning": "אילסה הוא שם שמקורו בשם העברי אליעזר או איליה, שפירושו 'אל הוא השולט הכל יכול' או 'אלוהים הוא האור שלי'. השם אילסה הוא גרסה שונה של השם אליסיה או אליזבת, שגם הם קשורים לשמות עבריים אלו. השם נמצא בשימוש בקרב קהילות יהודיות ונוצריות כאחד, ויש לו משמעות רוחנית עמוקה."
+    },
+    "in_greek": {
+      "name": "Ίλσα",
+      "meaning": "Αλλά μην εκρήγνυται ἐλπίδα",
+      "long_meaning": "Το όνομα Ίλσα είναι πιθανόν παράγωγο του ονόματος Ελισάβετ ή Ελένη, που σημαίνει 'Αλλά μην εκρήγνυται ἐλπίδα' ή 'Φωτεινή, λάμπουσα'. Στην Καινή Διαθήκη, το όνομα Ελισάβετ αναφέρεται στη μητέρα του Ιωάννη του Βαπτίστη. Το όνομα Ίλσα έχει χρησιμοποιηθεί στην Εκκλησία από τους πρώτους χρόνους και έχει πνευματική σημασία."
+    },
+    "in_latin": {
+      "name": "Ilsa",
+      "meaning": "Deus est meus dominus",
+      "long_meaning": "Nomen Ilsa derivatur ex nomine hebraeo Eliezer vel Elias, quod significat 'Deus est meus dominus' vel 'Deus est lux mea'. Nomen Ilsa in usu est apud communitates judaicas et christianas, et habet profundam significationem spiritualem. In Ecclesia primitivia, nomen Ilsa fuerat usitatum."
+    },
+    "in_english": {
+      "name": "Ilsa",
+      "meaning": "God's Grace",
+      "long_meaning": "God's Grace"
+    },
+    "pronunciation": {
+      "english": "IL-sah",
+      "ipa": "/ˈɪlsə/"
+    },
+    "name_variations": [
+      "Ilsa"
+    ],
+    "variants": [
+      "Ilsa"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Ilsa is used in Biblical naming tradition with the meaning “God's Grace”.",
+    "spiritual_significance": "Any spiritual significance attached to Ilsa is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “God's Grace” is the basis of any symbolism attached to Ilsa; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Ilsa."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#IlsaMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Ilsa"
+    ],
+    "monetization": {
+      "display_ads": true,
+      "affiliate_links": true
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Ilsa Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Ilsa has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Ilsa, Ilsa name meaning, Ilsa meaning, Ilsa origin, Ilsa root, Ilsa pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Ilsa has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Ilsa",
+        "Ilsa name meaning",
+        "Ilsa meaning",
+        "Ilsa origin",
+        "Ilsa root",
+        "Ilsa pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Ilsa name meaning",
+      "secondary_keywords": [
+        "Ilsa meaning",
+        "Ilsa origin",
+        "Ilsa pronunciation",
+        "Ilsa lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Ilsa mean?",
+          "a": "Name-lists record the meaning as “God's Grace”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Ilsa verified?",
+          "a": "No. The meaning of Ilsa could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Ilsa come from?",
+          "a": "The origin of Ilsa has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Ilsa Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Ilsa has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Ilsa",
+      "Ilsa name meaning",
+      "Ilsa meaning",
+      "Ilsa origin",
+      "Ilsa root",
+      "Ilsa pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Ilsa has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Ilsa",
+      "description": "Ilsa — God's Grace",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Ilsa mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “God's Grace”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Ilsa verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Ilsa could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Ilsa come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Ilsa has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:16:04.000Z",
+    "tier1_verified": {
+      "name": "Ilsa",
+      "slug": "ilsa",
+      "meaning": "God's Grace",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Ilsa",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "God's Grace",
+      "long_meaning": "The name Ilsa is recorded with the meaning “God's Grace”. Ilsa is a Biblical name meaning “God's Grace”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Ilsa",
+          "meaning": "God's Grace",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "IL-sah",
+        "ipa": "/ˈɪlsə/"
+      },
+      "syllables": 2,
+      "name_length": 4,
+      "faqs": [
+        {
+          "q": "What does the name Ilsa mean?",
+          "a": "Name-lists record the meaning as “God's Grace”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Ilsa verified?",
+          "a": "No. The meaning of Ilsa could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Ilsa come from?",
+          "a": "The origin of Ilsa has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 5,
+        "life_path_number": 5,
+        "ruling_planet": "Mercury",
+        "lucky_day": "Wednesday",
+        "lucky_stone": "Emerald",
+        "lucky_colors": [
+          "Green",
+          "Turquoise"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Ilsa total 14, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:16:04.000Z"
+    }
   }
- }
 }

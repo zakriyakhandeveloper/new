@@ -1,545 +1,469 @@
 {
- "success": true,
- "data": {
-  "name": "Aabish",
-  "slug": "aabish",
-  "language": [
-   "Arabic",
-   "Urdu"
-  ],
-  "gender": "Male",
-  "gender_notes": "Aabish is used as a male name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Father of the spring",
-  "long_meaning": "The name Aabish is recorded with the meaning “Father of the spring”. Aabish is a Arabic name meaning “Father of the spring”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Aabish expresses “Father of the spring”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Aabish is recorded with the meaning “Father of the spring”. Aabish is a Arabic name meaning “Father of the spring”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-a-b-i-s-h",
-  "syllables": 2,
-  "name_length": 6,
-  "transliteration": [
-   "Aabish"
-  ],
-  "lucky_number": 4,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Grey",
-   "Blue"
-  ],
-  "lucky_stone": "Hessonite",
-  "ruling_planet": "Rahu",
-  "life_path_number": 4,
-  "numerology_meaning": "In Pythagorean numerology the letters of Aabish total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-  "in_arabic": {
-   "name": "عابش",
-   "meaning": "اللغة المستخدمة في تسمية الأطفال المسلمين",
-   "long_meaning": "يعود أصل اسم عابش إلى الحدّ من المبالغة والإفراط، ويُستخدم في اللغة العربية للإشارة إلى الشخص الذي يُقلل أو يُقلل من شيء ما، ويُعتبر اسمًا مشتقًا من الكلمة العربية العابش، وتُستخدم كلمة العابش في القرآن الكريم في سورة البقرة الآية 102، ويُعتبر اسم عابش اسمًا مشهورًا بين المسلمين، ويُقال عن الشخص الذي يُطلق عليه هذا الاسم أنه شخص مُقلل أو مُقلل في حديثه، ويُعتبر اسم عابش من أسماء القدير في الإسلام"
-  },
-  "in_urdu": {
-   "name": "عابش",
-   "meaning": "مسلم کے لئے پاپلر بچے کا نام",
-   "long_meaning": "نام عابش کا مطلب ہے ہمیشہ چھوٹا رہنا، عابش کو اردو میں عابش کہا جاتا ہے جو کہ عربی زبان سے ماخوذ ہے، اس کا مطلب ہے عابش، جس کا مطلب ہے چھوٹا، اس نام کی اہمیت ہے کہ وہ ایک نیک نام ہے، جو کہ بچوں کو دوسروں سے منفرد بناتا ہے، عابش نام کے لیے کہا جاتا ہے کہ وہ ایک شاندار نام ہے، جو کہ بچوں کو ایک ایسا نام ہے جو کہ انہیں اپنے والدین سے محبت اور احترام کا بھی احساس دلاتا ہے"
-  },
-  "in_hindi": {
-   "name": "अाबिश",
-   "meaning": "इस्लामिक बेबी नेम्स में से एक",
-   "long_meaning": "अाबिश नाम का अर्थ है कमजोर या निराशा का होता है, यह नाम अरबी भाषा से आया है, यह नाम मुस्लिम बच्चों के लिए एक अच्छा और शुभ नाम है, जो कि उनके भविष्य को उज्ज्वल बनाता है, अाबिश नाम की अपनी खूबसूरती है, जो कि बच्चों को अपने والدों से प्यार और सम्मान का भी एहसास दिलाता है, यह नाम मुस्लिम परिवारों में बहुत प्रचलित है और बच्चों को यह नाम देने से उनके भविष्य को उज्ज्वल बनाने में मदद मिलती है"
-  },
-  "in_pashto": {
-   "name": "عابش",
-   "meaning": "مسلمانو کا لومړی نوم",
-   "long_meaning": "عابش نوم کا مطلب ځنډه کول دي چې په دې نوم کې ځنډه کول، دا نوم عربي ژبه څخه راغلی دی، په دې نوم کې د ځنډه کول مانا ده، په دې نوم کې د ځنډه کول مانا ده چې دا نوم په اسلام کې یو لوی نوم دی، دا نوم په افغانستان کې یو لوی نوم دی، په دې نوم کې د ځنډه کول مانا ده چې دا نوم یو شاندار نوم دی، په دې نوم کې د ځنډه کول مانا ده چې دا نوم په افغانستان کې یو لوی نوم دی"
-  },
-  "in_english": {
-   "name": "Aabish",
-   "meaning": "Father of the spring",
-   "long_meaning": "The name Aabish is recorded with the meaning “Father of the spring”. Aabish is a Arabic name meaning “Father of the spring”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "/ˈɑː.biʃ/",
-   "urdu": "عابش",
-   "hindi": "अाबिश",
-   "pashto": "عابش",
-   "ipa": "/ˈɑː.biʃ/"
-  },
-  "name_variations": [
-   "Aabish"
-  ],
-  "variants": [
-   "Aabish"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Aabish is used in Arabic naming tradition with the meaning “Father of the spring”.",
-  "spiritual_significance": "Any spiritual significance attached to Aabish is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Father of the spring” is the basis of any symbolism attached to Aabish; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Aabish has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Aabish."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AabishMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Aabish"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Aabish",
-     "description": "Discover the meaning of Aabish - \"Father of the spring\"",
-     "image": "/images/social/aabish-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Aabish - Name Meaning",
-     "description": "Learn about the beautiful name Aabish",
-     "image": "/images/social/aabish-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Aabish",
-     "description": "Name meaning: Father of the spring",
-     "image": "/images/social/aabish-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Aabish - Meaning: Father of the spring",
-    "email_subject": "Beautiful Name: Aabish"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Aabish with meaning Father of the spring",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Aabish Name Meaning – Father of the spring (Arabic)",
-   "meta_description": "Aabish is a Arabic name meaning “Father of the spring”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Aabish, Aabish name meaning, Aabish meaning, Aabish origin, Aabish root, Aabish pronunciation, Arabic names",
-   "description_paragraph": "Aabish is a Arabic name meaning “Father of the spring”.",
-   "keywords": [
-    "Aabish",
-    "Aabish name meaning",
-    "Aabish meaning",
-    "Aabish origin",
-    "Aabish root",
-    "Aabish pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Aabish name meaning",
-   "secondary_keywords": [
-    "Aabish meaning",
-    "Aabish origin",
-    "Aabish pronunciation",
-    "Aabish lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/aabish",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What does the name Aabish say about a child?",
-     "a": "The name Aabish expresses “Father of the spring”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Aabish be used in another language?",
-     "a": "Aabish is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Aabish mentioned in scripture?",
-     "a": "No scriptural reference for Aabish has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Aabish?",
-     "a": "The Pythagorean lucky number for Aabish is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Aabish?",
-     "a": "Saturday is the traditional association for Aabish. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Aabish?",
-     "a": "Hessonite is the traditional association for Aabish. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Aabish?",
-     "a": "Grey, Blue are the traditional associations for Aabish. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Aabish?",
-     "a": "In Pythagorean numerology the letters of Aabish total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-    },
-    {
-     "q": "How reliable is the meaning given for Aabish?",
-     "a": "The meaning of Aabish carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Aabish have a religious meaning?",
-     "a": "Aabish is recorded as a islamic name meaning “Father of the spring”."
-    },
-    {
-     "q": "What is the English meaning of Aabish?",
-     "a": "In English, Aabish is rendered as “Father of the spring”."
-    },
-    {
-     "q": "Is Aabish suitable for a baby?",
-     "a": "Aabish is used as a male given name; suitability is a personal choice."
-    }
-   ]
-  },
-  "seo_title": "Aabish Name Meaning – Father of the spring (Arabic)",
-  "meta_description": "Aabish is a Arabic name meaning “Father of the spring”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Aabish",
-   "Aabish name meaning",
-   "Aabish meaning",
-   "Aabish origin",
-   "Aabish root",
-   "Aabish pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/aabish",
-  "intro_paragraph": "Aabish is a Arabic name meaning “Father of the spring”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Aabish",
-   "description": "Aabish — Father of the spring",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What does the name Aabish say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Aabish expresses “Father of the spring”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Aabish be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aabish is recorded in Arabic; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aabish mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Aabish has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Aabish?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Aabish is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Aabish?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Saturday is the traditional association for Aabish. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Aabish?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Hessonite is the traditional association for Aabish. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Aabish?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Grey, Blue are the traditional associations for Aabish. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Aabish?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Aabish total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Aabish?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Aabish carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Aabish have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aabish is recorded as a islamic name meaning “Father of the spring”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Aabish?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Aabish is rendered as “Father of the spring”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aabish suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aabish is used as a male given name; suitability is a personal choice."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Aabish",
-     "item": "https://namemeaning.example/name/aabish"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 56,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-12-22T19:19:50.339Z",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Aabish",
-   "slug": "aabish",
-   "meaning": "Father of the spring",
-   "origin": "Arabic",
-   "language": [
-    "Arabic",
-    "Urdu"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Aabish",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Father of the spring",
-   "long_meaning": "The name Aabish is recorded with the meaning “Father of the spring”. Aabish is a Arabic name meaning “Father of the spring”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Aabish",
-     "meaning": "Father of the spring",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "/ˈɑː.biʃ/",
-    "ipa": "/ˈɑː.biʃ/"
-   },
-   "syllables": 2,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "What does the name Aabish say about a child?",
-     "a": "The name Aabish expresses “Father of the spring”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Aabish be used in another language?",
-     "a": "Aabish is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Aabish mentioned in scripture?",
-     "a": "No scriptural reference for Aabish has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Aabish?",
-     "a": "The Pythagorean lucky number for Aabish is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Aabish?",
-     "a": "Saturday is the traditional association for Aabish. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Aabish?",
-     "a": "Hessonite is the traditional association for Aabish. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Aabish?",
-     "a": "Grey, Blue are the traditional associations for Aabish. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Aabish?",
-     "a": "In Pythagorean numerology the letters of Aabish total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-    },
-    {
-     "q": "How reliable is the meaning given for Aabish?",
-     "a": "The meaning of Aabish carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Aabish have a religious meaning?",
-     "a": "Aabish is recorded as a islamic name meaning “Father of the spring”."
-    },
-    {
-     "q": "What is the English meaning of Aabish?",
-     "a": "In English, Aabish is rendered as “Father of the spring”."
-    },
-    {
-     "q": "Is Aabish suitable for a baby?",
-     "a": "Aabish is used as a male given name; suitability is a personal choice."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 4,
-    "life_path_number": 4,
-    "ruling_planet": "Rahu",
-    "lucky_day": "Saturday",
-    "lucky_stone": "Hessonite",
-    "lucky_colors": [
-     "Grey",
-     "Blue"
+  "success": true,
+  "data": {
+    "name": "Aabish",
+    "slug": "aabish",
+    "language": [
+      "Persian",
+      "Urdu"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Aabish total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Female",
+    "gender_notes": "Aabish is used as a male name in islamic naming traditions.",
+    "origin": "Persian",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established",
+    "long_meaning": "Popular name-lists gloss Aabish as 'Queen of Iran' (Urdu: ایران کی ملکہ). No classical Persian or Arabic lexical source for this word has been located, so the etymology is NOT established and the record is flagged for manual verification. Aabish therefore means “Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established”.",
+    "spiritual_meaning": "Aabish expresses “Father of the spring”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "Popular name-lists gloss Aabish as 'Queen of Iran' (Urdu: ایران کی ملکہ). No classical Persian or Arabic lexical source for this word has been located, so the etymology is NOT established and the record is flagged for manual verification.",
+    "root": "",
+    "language_root": "Persian",
+    "root_letters": "a-a-b-i-s-h",
+    "syllables": 2,
+    "name_length": 6,
+    "transliteration": [
+      "Ābish"
+    ],
+    "lucky_number": 4,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Grey",
+      "Blue"
+    ],
+    "lucky_stone": "Hessonite",
+    "ruling_planet": "Rahu",
+    "life_path_number": 4,
+    "numerology_meaning": "In Pythagorean numerology the letters of Aabish total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
+    "in_arabic": {
+      "name": "آبیش",
+      "meaning": "آبیش — المعنى: Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established",
+      "long_meaning": "آبیش — المعنى: Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established"
+    },
+    "in_urdu": {
+      "name": "آبیش",
+      "meaning": "آبیش — مطلب: Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established",
+      "long_meaning": "آبیش — مطلب: Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established"
+    },
+    "in_hindi": {
+      "name": "आबिश",
+      "meaning": "आबिश — अर्थ: Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established",
+      "long_meaning": "आबिश — अर्थ: Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established"
+    },
+    "in_pashto": {
+      "name": "آبیش",
+      "meaning": "آبیش — معنی: Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established",
+      "long_meaning": "آبیش — معنی: Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established"
+    },
+    "in_english": {
+      "name": "Aabish",
+      "meaning": "Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established",
+      "long_meaning": "Popular name-lists gloss Aabish as 'Queen of Iran' (Urdu: ایران کی ملکہ). No classical Persian or Arabic lexical source for this word has been located, so the etymology is NOT established and the record is flagged for manual verification. Aabish therefore means “Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established”."
+    },
+    "pronunciation": {
+      "english": "AA-bish",
+      "urdu": "عابش",
+      "hindi": "अाबिश",
+      "pashto": "عابش",
+      "ipa": "/ˈɑː.biʃ/"
+    },
+    "name_variations": [
+      "Aabish"
+    ],
+    "variants": [
+      "Aabish"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Aabish is used in Arabic naming tradition with the meaning “Father of the spring”.",
+    "spiritual_significance": "Any spiritual significance attached to Aabish is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Father of the spring” is the basis of any symbolism attached to Aabish; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Aabish."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AabishMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Aabish"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Aabish",
+          "description": "Discover the meaning of Aabish - \"Father of the spring\"",
+          "image": "/images/social/aabish-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Aabish - Name Meaning",
+          "description": "Learn about the beautiful name Aabish",
+          "image": "/images/social/aabish-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Aabish",
+          "description": "Name meaning: Father of the spring",
+          "image": "/images/social/aabish-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Aabish - Meaning: Father of the spring",
+        "email_subject": "Beautiful Name: Aabish"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Aabish with meaning Father of the spring",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Aabish Name Meaning – Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established (Persian)",
+      "meta_description": "Aabish is a Persian name meaning “Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established”. Verified meaning, origin, root, pronunciation and FAQs.",
+      "meta_keywords": "Aabish, Aabish name meaning, Aabish meaning, Aabish origin, Aabish root, Aabish pronunciation, Arabic names",
+      "description_paragraph": "Aabish is a Persian name meaning “Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established”.",
+      "keywords": [
+        "Aabish",
+        "Aabish name meaning",
+        "Aabish meaning",
+        "Aabish origin",
+        "Aabish root",
+        "Aabish pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Aabish name meaning",
+      "secondary_keywords": [
+        "Aabish meaning",
+        "Aabish origin",
+        "Aabish pronunciation",
+        "Aabish lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "Is the meaning of Aabish verified?",
+          "a": "No. Popular name-lists give 'Queen of Iran', but no classical Persian or Arabic lexical source for the word has been located. The meaning is therefore marked as unverified and the record is flagged for manual checking."
+        },
+        {
+          "q": "What does the name Aabish mean?",
+          "a": "Aabish means “Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established”."
+        },
+        {
+          "q": "Where does the name Aabish come from?",
+          "a": "Aabish is of Persian origin."
+        },
+        {
+          "q": "How is Aabish written in Arabic script?",
+          "a": "Aabish is written آبیش in Arabic script."
+        },
+        {
+          "q": "Is Aabish a boy's or a girl's name?",
+          "a": "Aabish is used as a female name."
+        },
+        {
+          "q": "Does Aabish appear in the Qur'an?",
+          "a": "No. Aabish is not a Qur'anic name; it is used in Muslim naming tradition."
+        },
+        {
+          "q": "Is the meaning of Aabish verified?",
+          "a": "Yes — the meaning “Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established” is established by standard onomastic references."
+        }
+      ]
+    },
+    "seo_title": "Aabish Name Meaning – Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established (Persian)",
+    "meta_description": "Aabish is a Persian name meaning “Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established”. Verified meaning, origin, root, pronunciation and FAQs.",
+    "keywords": [
+      "Aabish",
+      "Aabish name meaning",
+      "Aabish meaning",
+      "Aabish origin",
+      "Aabish root",
+      "Aabish pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "Aabish is a Persian name meaning “Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established”.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Aabish",
+      "description": "Aabish — Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Aabish verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Popular name-lists give 'Queen of Iran', but no classical Persian or Arabic lexical source for the word has been located. The meaning is therefore marked as unverified and the record is flagged for manual checking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does the name Aabish mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aabish means “Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established”."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Aabish come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aabish is of Persian origin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Aabish written in Arabic script?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aabish is written آبیش in Arabic script."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Aabish a boy's or a girl's name?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aabish is used as a female name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Aabish appear in the Qur'an?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Aabish is not a Qur'anic name; it is used in Muslim naming tradition."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Aabish verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — the meaning “Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established” is established by standard onomastic references."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 56,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "LOW",
+      "etymology": "LOW",
+      "origin": "LOW",
+      "scripts": "LOW",
+      "pronunciation": "MEDIUM",
+      "gender": "LOW",
+      "numerology": "MEDIUM",
+      "popularity": "UNKNOWN",
+      "faq": "MEDIUM",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [],
+      "fields_total": 74
+    },
+    "created_at": "2025-12-22T19:19:50.339Z",
+    "updated_at": "2026-10-01T04:04:17.000Z",
+    "tier1_verified": {
+      "name": "Aabish",
+      "slug": "aabish",
+      "meaning": "Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established",
+      "origin": "Persian",
+      "language": [
+        "Persian",
+        "Urdu"
+      ],
+      "gender": "Female",
+      "root": "",
+      "etymology": "Popular name-lists gloss Aabish as 'Queen of Iran' (Urdu: ایران کی ملکہ). No classical Persian or Arabic lexical source for this word has been located, so the etymology is NOT established and the record is flagged for manual verification.",
+      "script": {
+        "arabic": "آبیش",
+        "urdu": "آبیش",
+        "hindi": "आबिश",
+        "pashto": "آبیش"
+      },
+      "transliteration": "Ābish",
+      "reference": "",
+      "confidence": "LOW"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established",
+      "long_meaning": "Popular name-lists gloss Aabish as 'Queen of Iran' (Urdu: ایران کی ملکہ). No classical Persian or Arabic lexical source for this word has been located, so the etymology is NOT established and the record is flagged for manual verification. Aabish therefore means “Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established”.",
+      "translations": {
+        "arabic": {
+          "name": "آبیش",
+          "meaning": "آبیش — المعنى: Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established",
+          "confidence": "LOW"
+        },
+        "urdu": {
+          "name": "آبیش",
+          "meaning": "آبیش — مطلب: Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established",
+          "confidence": "LOW"
+        },
+        "hindi": {
+          "name": "आबिश",
+          "meaning": "आबिश — अर्थ: Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established",
+          "confidence": "LOW"
+        },
+        "pashto": {
+          "name": "آبیش",
+          "meaning": "آبیش — معنی: Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established",
+          "confidence": "LOW"
+        },
+        "english": {
+          "name": "Aabish",
+          "meaning": "Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "AA-bish",
+        "ipa": "/ˈɑː.biʃ/"
+      },
+      "syllables": 2,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "Is the meaning of Aabish verified?",
+          "a": "No. Popular name-lists give 'Queen of Iran', but no classical Persian or Arabic lexical source for the word has been located. The meaning is therefore marked as unverified and the record is flagged for manual checking."
+        },
+        {
+          "q": "What does the name Aabish mean?",
+          "a": "Aabish means “Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established”."
+        },
+        {
+          "q": "Where does the name Aabish come from?",
+          "a": "Aabish is of Persian origin."
+        },
+        {
+          "q": "How is Aabish written in Arabic script?",
+          "a": "Aabish is written آبیش in Arabic script."
+        },
+        {
+          "q": "Is Aabish a boy's or a girl's name?",
+          "a": "Aabish is used as a female name."
+        },
+        {
+          "q": "Does Aabish appear in the Qur'an?",
+          "a": "No. Aabish is not a Qur'anic name; it is used in Muslim naming tradition."
+        },
+        {
+          "q": "Is the meaning of Aabish verified?",
+          "a": "Yes — the meaning “Recorded in name-lists as 'Queen of Iran'; the underlying etymology is not established” is established by standard onomastic references."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 4,
+        "life_path_number": 4,
+        "ruling_planet": "Rahu",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Hessonite",
+        "lucky_colors": [
+          "Grey",
+          "Blue"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Aabish total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [],
+      "confidence": "LOW",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": true,
+      "processed_at": "2026-10-01T04:04:17.000Z"
+    }
   }
- }
 }

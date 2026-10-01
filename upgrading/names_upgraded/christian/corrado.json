@@ -1,493 +1,332 @@
 {
- "success": true,
- "data": {
-  "name": "Corrado",
-  "slug": "corrado",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Corrado is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Strong, brave, and steadfast",
-  "long_meaning": "The name Corrado is recorded with the meaning “Strong, brave, and steadfast”. Corrado is a Biblical name meaning “Strong, brave, and steadfast”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Corrado expresses “Strong, brave, and steadfast”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Corrado is recorded with the meaning “Strong, brave, and steadfast”. Corrado is a Biblical name meaning “Strong, brave, and steadfast”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "c-o-r-r-a-d-o",
-  "syllables": 3,
-  "name_length": 7,
-  "transliteration": [
-   "Corrado"
-  ],
-  "lucky_number": 2,
-  "lucky_day": "Monday",
-  "lucky_colors": [
-   "White",
-   "Silver"
-  ],
-  "lucky_stone": "Pearl",
-  "ruling_planet": "Moon",
-  "life_path_number": 2,
-  "numerology_meaning": "In Pythagorean numerology the letters of Corrado total 38, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
-  "in_hebrew": {
-   "name": "כורדו",
-   "meaning": "mountain man",
-   "long_meaning": "From the Hebrew word 'kur' meaning 'mountain' and 'ad' meaning 'man'. A name for someone who lives or is associated with mountains."
-  },
-  "in_greek": {
-   "name": "Κορράδος",
-   "meaning": "crow, raven",
-   "long_meaning": "From the Greek word 'korax' meaning 'crow' or 'raven'. A name for someone with dark hair or a dark complexion, or for someone associated with wisdom or prophecy, as crows are often seen as symbolic of these things in Greek mythology."
-  },
-  "in_latin": {
-   "name": "Corrado",
-   "meaning": "brave, strong",
-   "long_meaning": "From the Latin word 'cor' meaning 'heart' and 'radus' meaning 'strong' or 'brave'. A name for a valiant or powerful person."
-  },
-  "in_english": {
-   "name": "Corrado",
-   "meaning": "Strong, brave, and steadfast",
-   "long_meaning": "The name Corrado is recorded with the meaning “Strong, brave, and steadfast”. Corrado is a Biblical name meaning “Strong, brave, and steadfast”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "/kɔːˈrædoʊ/",
-   "ipa": "kɔːˈrɑːdɔ"
-  },
-  "name_variations": [
-   "Corrado"
-  ],
-  "variants": [
-   "Corrado"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Corrado is used in Biblical naming tradition with the meaning “Strong, brave, and steadfast”.",
-  "spiritual_significance": "Any spiritual significance attached to Corrado is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Strong, brave, and steadfast” is the basis of any symbolism attached to Corrado; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Corrado."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#CorradoMeaning",
-   "#ItalianBabyNames",
-   "#ChristianBabyNames"
-  ],
-  "monetization": {
-   "ads": {
-    "type": "display",
-    "placement": "sidebar"
-   },
-   "affiliate": {
-    "program": "BabyNames.com",
-    "product": "Corrado Baby Gifts"
-   }
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Corrado Name Meaning – Strong, brave, and steadfast (Biblical)",
-   "meta_description": "Corrado is a Biblical name meaning “Strong, brave, and steadfast”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Corrado, Corrado name meaning, Corrado meaning, Corrado origin, Corrado root, Corrado pronunciation, Biblical names",
-   "description_paragraph": "Corrado is a Biblical name meaning “Strong, brave, and steadfast”.",
-   "keywords": [
-    "Corrado",
-    "Corrado name meaning",
-    "Corrado meaning",
-    "Corrado origin",
-    "Corrado root",
-    "Corrado pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Corrado name meaning",
-   "secondary_keywords": [
-    "Corrado meaning",
-    "Corrado origin",
-    "Corrado pronunciation",
-    "Corrado lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/corrado",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What does the name Corrado say about a child?",
-     "a": "The name Corrado expresses “Strong, brave, and steadfast”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Corrado be used in another language?",
-     "a": "Corrado is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Corrado mentioned in scripture?",
-     "a": "No scriptural reference for Corrado has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Corrado?",
-     "a": "The Pythagorean lucky number for Corrado is 2 (ruling planet Moon). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Corrado?",
-     "a": "Monday is the traditional association for Corrado. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Corrado?",
-     "a": "Pearl is the traditional association for Corrado. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Corrado?",
-     "a": "White, Silver are the traditional associations for Corrado. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Corrado?",
-     "a": "In Pythagorean numerology the letters of Corrado total 38, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-    },
-    {
-     "q": "How reliable is the meaning given for Corrado?",
-     "a": "The meaning of Corrado carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Corrado have a religious meaning?",
-     "a": "Corrado is recorded as a christian name meaning “Strong, brave, and steadfast”."
-    },
-    {
-     "q": "What is the English meaning of Corrado?",
-     "a": "In English, Corrado is rendered as “Strong, brave, and steadfast”."
-    },
-    {
-     "q": "Is Corrado suitable for a baby?",
-     "a": "Corrado is used as a male given name; suitability is a personal choice."
-    }
-   ]
-  },
-  "seo_title": "Corrado Name Meaning – Strong, brave, and steadfast (Biblical)",
-  "meta_description": "Corrado is a Biblical name meaning “Strong, brave, and steadfast”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Corrado",
-   "Corrado name meaning",
-   "Corrado meaning",
-   "Corrado origin",
-   "Corrado root",
-   "Corrado pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/corrado",
-  "intro_paragraph": "Corrado is a Biblical name meaning “Strong, brave, and steadfast”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Corrado",
-   "description": "Corrado — Strong, brave, and steadfast",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What does the name Corrado say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Corrado expresses “Strong, brave, and steadfast”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Corrado be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Corrado is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Corrado mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Corrado has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Corrado?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Corrado is 2 (ruling planet Moon). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Corrado?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Monday is the traditional association for Corrado. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Corrado?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pearl is the traditional association for Corrado. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Corrado?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "White, Silver are the traditional associations for Corrado. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Corrado?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Corrado total 38, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Corrado?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Corrado carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Corrado have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Corrado is recorded as a christian name meaning “Strong, brave, and steadfast”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Corrado?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Corrado is rendered as “Strong, brave, and steadfast”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Corrado suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Corrado is used as a male given name; suitability is a personal choice."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Corrado",
-     "item": "https://namemeaning.example/name/corrado"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 56,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Corrado",
-   "slug": "corrado",
-   "meaning": "Strong, brave, and steadfast",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Corrado",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Strong, brave, and steadfast",
-   "long_meaning": "The name Corrado is recorded with the meaning “Strong, brave, and steadfast”. Corrado is a Biblical name meaning “Strong, brave, and steadfast”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Corrado",
-     "meaning": "Strong, brave, and steadfast",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "/kɔːˈrædoʊ/",
-    "ipa": "kɔːˈrɑːdɔ"
-   },
-   "syllables": 3,
-   "name_length": 7,
-   "faqs": [
-    {
-     "q": "What does the name Corrado say about a child?",
-     "a": "The name Corrado expresses “Strong, brave, and steadfast”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Corrado be used in another language?",
-     "a": "Corrado is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Corrado mentioned in scripture?",
-     "a": "No scriptural reference for Corrado has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Corrado?",
-     "a": "The Pythagorean lucky number for Corrado is 2 (ruling planet Moon). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Corrado?",
-     "a": "Monday is the traditional association for Corrado. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Corrado?",
-     "a": "Pearl is the traditional association for Corrado. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Corrado?",
-     "a": "White, Silver are the traditional associations for Corrado. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Corrado?",
-     "a": "In Pythagorean numerology the letters of Corrado total 38, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-    },
-    {
-     "q": "How reliable is the meaning given for Corrado?",
-     "a": "The meaning of Corrado carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Corrado have a religious meaning?",
-     "a": "Corrado is recorded as a christian name meaning “Strong, brave, and steadfast”."
-    },
-    {
-     "q": "What is the English meaning of Corrado?",
-     "a": "In English, Corrado is rendered as “Strong, brave, and steadfast”."
-    },
-    {
-     "q": "Is Corrado suitable for a baby?",
-     "a": "Corrado is used as a male given name; suitability is a personal choice."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 2,
-    "life_path_number": 2,
-    "ruling_planet": "Moon",
-    "lucky_day": "Monday",
-    "lucky_stone": "Pearl",
-    "lucky_colors": [
-     "White",
-     "Silver"
+  "success": true,
+  "data": {
+    "name": "Corrado",
+    "slug": "corrado",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Corrado total 38, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Corrado is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Strong, brave, and steadfast",
+    "long_meaning": "The meaning of Corrado is recorded in name-lists as “Strong, brave, and steadfast”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Corrado expresses “Strong, brave, and steadfast”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "c-o-r-r-a-d-o",
+    "syllables": 3,
+    "name_length": 7,
+    "transliteration": [
+      "Corrado"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "White",
+      "Silver"
+    ],
+    "lucky_stone": "Pearl",
+    "ruling_planet": "Moon",
+    "life_path_number": 2,
+    "numerology_meaning": "In Pythagorean numerology the letters of Corrado total 38, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
+    "in_hebrew": {
+      "name": "כורדו",
+      "meaning": "mountain man",
+      "long_meaning": "From the Hebrew word 'kur' meaning 'mountain' and 'ad' meaning 'man'. A name for someone who lives or is associated with mountains."
+    },
+    "in_greek": {
+      "name": "Κορράδος",
+      "meaning": "crow, raven",
+      "long_meaning": "From the Greek word 'korax' meaning 'crow' or 'raven'. A name for someone with dark hair or a dark complexion, or for someone associated with wisdom or prophecy, as crows are often seen as symbolic of these things in Greek mythology."
+    },
+    "in_latin": {
+      "name": "Corrado",
+      "meaning": "brave, strong",
+      "long_meaning": "From the Latin word 'cor' meaning 'heart' and 'radus' meaning 'strong' or 'brave'. A name for a valiant or powerful person."
+    },
+    "in_english": {
+      "name": "Corrado",
+      "meaning": "Strong, brave, and steadfast",
+      "long_meaning": "Strong, brave, and steadfast"
+    },
+    "pronunciation": {
+      "english": "/kɔːˈrædoʊ/",
+      "ipa": "kɔːˈrɑːdɔ"
+    },
+    "name_variations": [
+      "Corrado"
+    ],
+    "variants": [
+      "Corrado"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Corrado is used in Biblical naming tradition with the meaning “Strong, brave, and steadfast”.",
+    "spiritual_significance": "Any spiritual significance attached to Corrado is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Strong, brave, and steadfast” is the basis of any symbolism attached to Corrado; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Corrado."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#CorradoMeaning",
+      "#ItalianBabyNames",
+      "#ChristianBabyNames"
+    ],
+    "monetization": {
+      "ads": {
+        "type": "display",
+        "placement": "sidebar"
+      },
+      "affiliate": {
+        "program": "BabyNames.com",
+        "product": "Corrado Baby Gifts"
+      }
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Corrado Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Corrado has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Corrado, Corrado name meaning, Corrado meaning, Corrado origin, Corrado root, Corrado pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Corrado has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Corrado",
+        "Corrado name meaning",
+        "Corrado meaning",
+        "Corrado origin",
+        "Corrado root",
+        "Corrado pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Corrado name meaning",
+      "secondary_keywords": [
+        "Corrado meaning",
+        "Corrado origin",
+        "Corrado pronunciation",
+        "Corrado lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Corrado mean?",
+          "a": "Name-lists record the meaning as “Strong, brave, and steadfast”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Corrado verified?",
+          "a": "No. The meaning of Corrado could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Corrado come from?",
+          "a": "The origin of Corrado has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Corrado Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Corrado has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Corrado",
+      "Corrado name meaning",
+      "Corrado meaning",
+      "Corrado origin",
+      "Corrado root",
+      "Corrado pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Corrado has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Corrado",
+      "description": "Corrado — Strong, brave, and steadfast",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Corrado mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Strong, brave, and steadfast”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Corrado verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Corrado could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Corrado come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Corrado has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 56,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:07:56.000Z",
+    "tier1_verified": {
+      "name": "Corrado",
+      "slug": "corrado",
+      "meaning": "Strong, brave, and steadfast",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Corrado",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Strong, brave, and steadfast",
+      "long_meaning": "The name Corrado is recorded with the meaning “Strong, brave, and steadfast”. Corrado is a Biblical name meaning “Strong, brave, and steadfast”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Corrado",
+          "meaning": "Strong, brave, and steadfast",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "/kɔːˈrædoʊ/",
+        "ipa": "kɔːˈrɑːdɔ"
+      },
+      "syllables": 3,
+      "name_length": 7,
+      "faqs": [
+        {
+          "q": "What does the name Corrado mean?",
+          "a": "Name-lists record the meaning as “Strong, brave, and steadfast”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Corrado verified?",
+          "a": "No. The meaning of Corrado could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Corrado come from?",
+          "a": "The origin of Corrado has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 2,
+        "life_path_number": 2,
+        "ruling_planet": "Moon",
+        "lucky_day": "Monday",
+        "lucky_stone": "Pearl",
+        "lucky_colors": [
+          "White",
+          "Silver"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Corrado total 38, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:07:56.000Z"
+    }
   }
- }
 }

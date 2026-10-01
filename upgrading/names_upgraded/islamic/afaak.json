@@ -1,543 +1,382 @@
 {
- "success": true,
- "data": {
-  "name": "Afaak",
-  "slug": "afaak",
-  "language": [
-   "Arabic"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Afaak is used as a unisex name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Darkness, Mist",
-  "long_meaning": "The name Afaak is recorded with the meaning “Darkness, Mist”. Afaak is a Arabic name meaning “Darkness, Mist”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Afaak expresses “Darkness, Mist”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Afaak is recorded with the meaning “Darkness, Mist”. Afaak is a Arabic name meaning “Darkness, Mist”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-f-a-a-k",
-  "syllables": 2,
-  "name_length": 5,
-  "transliteration": [
-   "Afaak"
-  ],
-  "lucky_number": 2,
-  "lucky_day": "Monday",
-  "lucky_colors": [
-   "White",
-   "Silver"
-  ],
-  "lucky_stone": "Pearl",
-  "ruling_planet": "Moon",
-  "life_path_number": 2,
-  "numerology_meaning": "In Pythagorean numerology the letters of Afaak total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
-  "in_arabic": {
-   "name": "أفاك",
-   "meaning": "اسم يُستخدم في الإسلام للإشارة إلى الشخص الذي يمتلك قوة البصر",
-   "long_meaning": "أفاك هو اسم عربي يعود إلى الجذر الفعلي (ف-ك-أ) والذي يحتوي على معنى قوة البصر. يُعتبر هذا الاسم من بين الأسماء الإسلامية التي تُستخدم للإشارة إلى الشخص الذي يتمتع بقدرة على رؤية الأشياء بعين الإيمان. يُستخدم هذا الاسم في القرآن الكريم بشكل غير مباشر في سورة الفاتحة: (الر كِتَابٌ عَظِيمٌ). يُعتبر أفاك من ضمن الأسماء التي تنطوي على معنى البصيرة والرؤية، ويُستخدم لوصف الشخص الذي يتمتع بحسّ قوي في الإيمان واليقين. في التقاليد الإسلامية، يُعتبر الاسم أفاك من بين الأسماء التي تُستخدم للإشارة إلى الشخص الذي يتمتع بقدرة على رؤية الحقائق والحقائق العليا. في هذا السياق، يُعتبر الاسم أفاك من الأسماء الإسلامية التي تنطوي على معنى الحكمة والذكاء. يُستخدم هذا الاسم أيضًا في بعض الثقافات الإسلامية لوصف الشخص الذي يتمتع بحسّ قوي في الإيمان واليقين."
-  },
-  "in_urdu": {
-   "name": "افاک",
-   "meaning": "اسماں جو ذراہے اسلام میں دیکھنے کی طاقت کے ہیں",
-   "long_meaning": "افاک نام ہے جو عربي زبان میں آتا ہے اور اس کے جڑوں میں اف-ک-ا ہیں جو دیکھنے کی طاقت کے ہیں۔ یہ نام اسلامی ناموں میں سے ایک ہے جو دیکھنے والوں کے لیے استعمال کیا جاتا ہے۔ یہ نام قرآن مجید میں سورت الفاتحہ میں ذکر ہوا ہے۔ یہ نام دیکھنے کی طاقت کے لیے استعمال کیا جاتا ہے اور یہ نام آپ کو دیکھنے کی طاقت عطا کرتا ہے۔ اس نام کو عربی زبان میں بہت سارے علماء نے استعمال کیا ہے اور یہ نام اسلامی ناموں میں بہت اہمیت کا حامل ہے۔"
-  },
-  "in_hindi": {
-   "name": "अफाक",
-   "meaning": "इस्लाम में देखने की शक्ति के लिए प्रयोग किया जाने वाला नाम",
-   "long_meaning": "अफाक एक अरबी नाम है जो देखने की शक्ति के लिए प्रयोग किया जाता है। यह नाम अरबी भाषा के जड़ों से आया है, जो देखने की शक्ति के लिए प्रयोग किया जाता है। इस नाम को इस्लामी नामों में से एक माना जाता है जो देखने वालों के लिए प्रयोग किया जाता है। इस नाम को कुरान में सूरह फातिहा में उल्लेख किया गया है। इस नाम को देखने की शक्ति के लिए प्रयोग किया जाता है और यह नाम आपको देखने की शक्ति प्रदान करता है। इस नाम को अरबी भाषा में विभिन्न विद्वानों ने प्रयोग किया है और यह नाम इस्लामी नामों में बहुत महत्व का है।"
-  },
-  "in_pashto": {
-   "name": "افاک",
-   "meaning": "اسلام کې د دیکشنې قدرت لپاره پکارل کېدونکي نوم",
-   "long_meaning": "افاک پښتو نوم دی چې په اسلام کې د دیکشنې قدرت لپاره پکارل کېدونکي نوم دی. په دې نوم کې د جړو پښتې په عربي ژبه کې ځانګړي څيړنه کوي چې د دیکشنې قدرت لپاره پکارل کېدونکي نوم دی. په دې نوم کې د اسلامي نومونو په منځ کې د دیکشنې قدرت لپاره پکارل کېدونکي نوم دی. په دې نوم کې د دیکشنې قدرت لپاره پکارل کېدونکي نوم دی چې په قرآن کریم کې د فاتحې سورة کې په يوه ډول ذکر شوی دی. د دې نوم په پښتو ژبه کې د دیکشنې قدرت لپاره پکارل کېدونکي نوم دی چې د دیکشنې قدرت لپاره پکارل کېدونکي نوم دی."
-  },
-  "in_english": {
-   "name": "Afaak",
-   "meaning": "Darkness, Mist",
-   "long_meaning": "The name Afaak is recorded with the meaning “Darkness, Mist”. Afaak is a Arabic name meaning “Darkness, Mist”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "/ˈɑː.fiː.æk/",
-   "urdu": "افاک کا تلفظ اردو میں افاڑک ہے",
-   "hindi": "अफाक का उच्चारण हिन्दी में अफाक ہے",
-   "pashto": "پښتو کې د افاک تلفظ افاک دی",
-   "ipa": "/ˈɑː.fiː.æk/"
-  },
-  "name_variations": [
-   "Afaak"
-  ],
-  "variants": [
-   "Afaak"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Afaak is used in Arabic naming tradition with the meaning “Darkness, Mist”.",
-  "spiritual_significance": "Any spiritual significance attached to Afaak is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Darkness, Mist” is the basis of any symbolism attached to Afaak; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Afaak has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Afaak."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AfaakMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Afaak"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Afaak",
-     "description": "Discover the meaning of Afaak - \"Darkness, Mist\"",
-     "image": "/images/social/afaak-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Afaak - Name Meaning",
-     "description": "Learn about the beautiful name Afaak",
-     "image": "/images/social/afaak-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Afaak",
-     "description": "Name meaning: Darkness, Mist",
-     "image": "/images/social/afaak-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Afaak - Meaning: Darkness, Mist",
-    "email_subject": "Beautiful Name: Afaak"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Afaak with meaning Darkness, Mist",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Afaak Name Meaning – Darkness, Mist (Arabic)",
-   "meta_description": "Afaak is a Arabic name meaning “Darkness, Mist”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Afaak, Afaak name meaning, Afaak meaning, Afaak origin, Afaak root, Afaak pronunciation, Arabic names",
-   "description_paragraph": "Afaak is a Arabic name meaning “Darkness, Mist”.",
-   "keywords": [
-    "Afaak",
-    "Afaak name meaning",
-    "Afaak meaning",
-    "Afaak origin",
-    "Afaak root",
-    "Afaak pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Afaak name meaning",
-   "secondary_keywords": [
-    "Afaak meaning",
-    "Afaak origin",
-    "Afaak pronunciation",
-    "Afaak lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/afaak",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What does the name Afaak say about a child?",
-     "a": "The name Afaak expresses “Darkness, Mist”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Afaak be used in another language?",
-     "a": "Afaak is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Afaak mentioned in scripture?",
-     "a": "No scriptural reference for Afaak has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Afaak?",
-     "a": "The Pythagorean lucky number for Afaak is 2 (ruling planet Moon). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Afaak?",
-     "a": "Monday is the traditional association for Afaak. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Afaak?",
-     "a": "Pearl is the traditional association for Afaak. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Afaak?",
-     "a": "White, Silver are the traditional associations for Afaak. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Afaak?",
-     "a": "In Pythagorean numerology the letters of Afaak total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-    },
-    {
-     "q": "How reliable is the meaning given for Afaak?",
-     "a": "The meaning of Afaak carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Afaak have a religious meaning?",
-     "a": "Afaak is recorded as a islamic name meaning “Darkness, Mist”."
-    },
-    {
-     "q": "What is the English meaning of Afaak?",
-     "a": "In English, Afaak is rendered as “Darkness, Mist”."
-    },
-    {
-     "q": "Is Afaak suitable for a baby?",
-     "a": "Afaak is used as a unisex given name; suitability is a personal choice."
-    }
-   ]
-  },
-  "seo_title": "Afaak Name Meaning – Darkness, Mist (Arabic)",
-  "meta_description": "Afaak is a Arabic name meaning “Darkness, Mist”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Afaak",
-   "Afaak name meaning",
-   "Afaak meaning",
-   "Afaak origin",
-   "Afaak root",
-   "Afaak pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/afaak",
-  "intro_paragraph": "Afaak is a Arabic name meaning “Darkness, Mist”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Afaak",
-   "description": "Afaak — Darkness, Mist",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What does the name Afaak say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Afaak expresses “Darkness, Mist”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Afaak be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Afaak is recorded in Arabic; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Afaak mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Afaak has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Afaak?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Afaak is 2 (ruling planet Moon). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Afaak?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Monday is the traditional association for Afaak. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Afaak?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pearl is the traditional association for Afaak. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Afaak?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "White, Silver are the traditional associations for Afaak. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Afaak?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Afaak total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Afaak?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Afaak carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Afaak have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Afaak is recorded as a islamic name meaning “Darkness, Mist”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Afaak?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Afaak is rendered as “Darkness, Mist”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Afaak suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Afaak is used as a unisex given name; suitability is a personal choice."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Afaak",
-     "item": "https://namemeaning.example/name/afaak"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-12-22T19:19:49.952Z",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Afaak",
-   "slug": "afaak",
-   "meaning": "Darkness, Mist",
-   "origin": "Arabic",
-   "language": [
-    "Arabic"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Afaak",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Darkness, Mist",
-   "long_meaning": "The name Afaak is recorded with the meaning “Darkness, Mist”. Afaak is a Arabic name meaning “Darkness, Mist”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Afaak",
-     "meaning": "Darkness, Mist",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "/ˈɑː.fiː.æk/",
-    "ipa": "/ˈɑː.fiː.æk/"
-   },
-   "syllables": 2,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "What does the name Afaak say about a child?",
-     "a": "The name Afaak expresses “Darkness, Mist”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Afaak be used in another language?",
-     "a": "Afaak is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Afaak mentioned in scripture?",
-     "a": "No scriptural reference for Afaak has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Afaak?",
-     "a": "The Pythagorean lucky number for Afaak is 2 (ruling planet Moon). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Afaak?",
-     "a": "Monday is the traditional association for Afaak. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Afaak?",
-     "a": "Pearl is the traditional association for Afaak. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Afaak?",
-     "a": "White, Silver are the traditional associations for Afaak. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Afaak?",
-     "a": "In Pythagorean numerology the letters of Afaak total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-    },
-    {
-     "q": "How reliable is the meaning given for Afaak?",
-     "a": "The meaning of Afaak carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Afaak have a religious meaning?",
-     "a": "Afaak is recorded as a islamic name meaning “Darkness, Mist”."
-    },
-    {
-     "q": "What is the English meaning of Afaak?",
-     "a": "In English, Afaak is rendered as “Darkness, Mist”."
-    },
-    {
-     "q": "Is Afaak suitable for a baby?",
-     "a": "Afaak is used as a unisex given name; suitability is a personal choice."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 2,
-    "life_path_number": 2,
-    "ruling_planet": "Moon",
-    "lucky_day": "Monday",
-    "lucky_stone": "Pearl",
-    "lucky_colors": [
-     "White",
-     "Silver"
+  "success": true,
+  "data": {
+    "name": "Afaak",
+    "slug": "afaak",
+    "language": [
+      "Arabic"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Afaak total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Afaak is used as a unisex name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Darkness, Mist",
+    "long_meaning": "The meaning of Afaak is recorded in name-lists as “Darkness, Mist”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Afaak expresses “Darkness, Mist”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Arabic",
+    "root_letters": "a-f-a-a-k",
+    "syllables": 2,
+    "name_length": 5,
+    "transliteration": [
+      "Afaak"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "White",
+      "Silver"
+    ],
+    "lucky_stone": "Pearl",
+    "ruling_planet": "Moon",
+    "life_path_number": 2,
+    "numerology_meaning": "In Pythagorean numerology the letters of Afaak total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
+    "in_arabic": {
+      "name": "أفاك",
+      "meaning": "Darkness, Mist",
+      "long_meaning": "Darkness, Mist"
+    },
+    "in_urdu": {
+      "name": "افاک",
+      "meaning": "Darkness, Mist",
+      "long_meaning": "Darkness, Mist"
+    },
+    "in_hindi": {
+      "name": "अफाक",
+      "meaning": "Darkness, Mist",
+      "long_meaning": "Darkness, Mist"
+    },
+    "in_pashto": {
+      "name": "افاک",
+      "meaning": "Darkness, Mist",
+      "long_meaning": "Darkness, Mist"
+    },
+    "in_english": {
+      "name": "Afaak",
+      "meaning": "Darkness, Mist",
+      "long_meaning": "Darkness, Mist"
+    },
+    "pronunciation": {
+      "english": "/ˈɑː.fiː.æk/",
+      "urdu": "افاک کا تلفظ اردو میں افاڑک ہے",
+      "hindi": "अफाक का उच्चारण हिन्दी में अफाक ہے",
+      "pashto": "پښتو کې د افاک تلفظ افاک دی",
+      "ipa": "/ˈɑː.fiː.æk/"
+    },
+    "name_variations": [
+      "Afaak"
+    ],
+    "variants": [
+      "Afaak"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Afaak is used in Arabic naming tradition with the meaning “Darkness, Mist”.",
+    "spiritual_significance": "Any spiritual significance attached to Afaak is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Darkness, Mist” is the basis of any symbolism attached to Afaak; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "No Qur'anic reference for Afaak has been verified."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Afaak."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AfaakMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Afaak"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Afaak",
+          "description": "Discover the meaning of Afaak - \"Darkness, Mist\"",
+          "image": "/images/social/afaak-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Afaak - Name Meaning",
+          "description": "Learn about the beautiful name Afaak",
+          "image": "/images/social/afaak-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Afaak",
+          "description": "Name meaning: Darkness, Mist",
+          "image": "/images/social/afaak-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Afaak - Meaning: Darkness, Mist",
+        "email_subject": "Beautiful Name: Afaak"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Afaak with meaning Darkness, Mist",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Afaak Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Afaak has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Afaak, Afaak name meaning, Afaak meaning, Afaak origin, Afaak root, Afaak pronunciation, Arabic names",
+      "description_paragraph": "The meaning of Afaak has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Afaak",
+        "Afaak name meaning",
+        "Afaak meaning",
+        "Afaak origin",
+        "Afaak root",
+        "Afaak pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Afaak name meaning",
+      "secondary_keywords": [
+        "Afaak meaning",
+        "Afaak origin",
+        "Afaak pronunciation",
+        "Afaak lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Afaak mean?",
+          "a": "Name-lists record the meaning as “Darkness, Mist”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Afaak verified?",
+          "a": "No. The meaning of Afaak could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Afaak come from?",
+          "a": "The origin of Afaak has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Afaak Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Afaak has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Afaak",
+      "Afaak name meaning",
+      "Afaak meaning",
+      "Afaak origin",
+      "Afaak root",
+      "Afaak pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Afaak has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Afaak",
+      "description": "Afaak — Darkness, Mist",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Afaak mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Darkness, Mist”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Afaak verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Afaak could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Afaak come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Afaak has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 70
+    },
+    "created_at": "2025-12-22T19:19:49.952Z",
+    "updated_at": "2026-10-01T04:04:24.000Z",
+    "tier1_verified": {
+      "name": "Afaak",
+      "slug": "afaak",
+      "meaning": "Darkness, Mist",
+      "origin": "Arabic",
+      "language": [
+        "Arabic"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Afaak",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Darkness, Mist",
+      "long_meaning": "The name Afaak is recorded with the meaning “Darkness, Mist”. Afaak is a Arabic name meaning “Darkness, Mist”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Afaak",
+          "meaning": "Darkness, Mist",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "/ˈɑː.fiː.æk/",
+        "ipa": "/ˈɑː.fiː.æk/"
+      },
+      "syllables": 2,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Afaak mean?",
+          "a": "Name-lists record the meaning as “Darkness, Mist”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Afaak verified?",
+          "a": "No. The meaning of Afaak could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Afaak come from?",
+          "a": "The origin of Afaak has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 2,
+        "life_path_number": 2,
+        "ruling_planet": "Moon",
+        "lucky_day": "Monday",
+        "lucky_stone": "Pearl",
+        "lucky_colors": [
+          "White",
+          "Silver"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Afaak total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:24.000Z"
+    }
   }
- }
 }

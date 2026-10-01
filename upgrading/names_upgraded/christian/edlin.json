@@ -1,492 +1,331 @@
 {
- "success": true,
- "data": {
-  "name": "Edlin",
-  "slug": "edlin",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Edlin is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Wealthy protector",
-  "long_meaning": "The name Edlin is recorded with the meaning “Wealthy protector”. Edlin is a Biblical name meaning “Wealthy protector”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Edlin expresses “Wealthy protector”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Edlin is recorded with the meaning “Wealthy protector”. Edlin is a Biblical name meaning “Wealthy protector”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "e-d-l-i-n",
-  "syllables": 2,
-  "name_length": 5,
-  "transliteration": [
-   "Edlin"
-  ],
-  "lucky_number": 8,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Blue",
-   "Black"
-  ],
-  "lucky_stone": "Blue Sapphire",
-  "ruling_planet": "Saturn",
-  "life_path_number": 8,
-  "numerology_meaning": "In Pythagorean numerology the letters of Edlin total 26, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-  "in_hebrew": {
-   "name": "אדלין",
-   "meaning": "אדלין הוא שם נוצרי שפירושו עידוד או תמיכה באל",
-   "long_meaning": "אדלין הוא שם נוצרי שמקורו בשפה הגרמנית ופירושו 'עידוד' או 'תמיכה באל'. השם אדלין מורכב משתי מילים: 'אדל' שפירושו 'אציל' ו-'לין' שפירושו 'עידוד' או 'תמיכה'. השם נוצר כנראה כחלק מהמסורת הנוצרית של שמות תינוקות שמשמעותם רוחנית ועמוקה."
-  },
-  "in_greek": {
-   "name": "Έντλιν",
-   "meaning": "Το Έντλιν είναι ένα Χριστιανικό όνομα που σημαίνει υποστήριξη ή ενθάρρυνση στον Θεό",
-   "long_meaning": "Το Έντλιν είναι ένα Χριστιανικό όνομα που προέχεται από τη Γερμανική γλώσσα και σημαίνει 'υποστήριξη' ή 'ενθάρρυνση στον Θεό'. Το όνομα Έντλιν αποτελείται από δύο λέξεις: 'Άντλερ' που σημαίνει 'ευγενής' και '-λιν' που σημαίνει 'υποστήριξη' ή 'ενθάρρυνση'. Το όνομα πιθανότατα δημιουργήθηκε ως μέρος της Χριστιανικής παράδοσης των ονομάτων νηπίων που έχουν πνευματική και βαθιά σημασία."
-  },
-  "in_latin": {
-   "name": "Edlinus",
-   "meaning": "Edlinus est nomen Christianum quod significat exhortatio vel sustentatio in Deo",
-   "long_meaning": "Edlinus est nomen Christianum quod oritur ex lingua Germanica et significat 'exhortatio' vel 'sustentatio in Deo'. Nomen Edlinus constat ex duabus vocibus: 'Adel' quod significat 'nobilis' et '-lin' quod significat 'exhortatio' vel 'sustentatio'. Nomen probabiliter creatum est ut pars traditionis Christianorum nominum infantum quae significationem spiritualem et profundam habent."
-  },
-  "in_english": {
-   "name": "Edlin",
-   "meaning": "Wealthy protector",
-   "long_meaning": "The name Edlin is recorded with the meaning “Wealthy protector”. Edlin is a Biblical name meaning “Wealthy protector”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "ED-lin",
-   "ipa": "/ˈɛd.lɪn/"
-  },
-  "name_variations": [
-   "Edlin"
-  ],
-  "variants": [
-   "Edlin"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Edlin is used in Biblical naming tradition with the meaning “Wealthy protector”.",
-  "spiritual_significance": "Any spiritual significance attached to Edlin is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Wealthy protector” is the basis of any symbolism attached to Edlin; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Edlin."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#EdlinMeaning",
-   "#ChristianBabyNames",
-   "#NonBiblicalNames",
-   "#Edlin"
-  ],
-  "monetization": {
-   "google_adsense": {
-    "publisher_id": "pub-1234567890123456"
-   },
-   "affiliate_links": {
-    "babynames_website": "https://babynamesworld.com/edlin"
-   }
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Edlin Name Meaning – Wealthy protector (Biblical)",
-   "meta_description": "Edlin is a Biblical name meaning “Wealthy protector”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Edlin, Edlin name meaning, Edlin meaning, Edlin origin, Edlin root, Edlin pronunciation, Biblical names",
-   "description_paragraph": "Edlin is a Biblical name meaning “Wealthy protector”.",
-   "keywords": [
-    "Edlin",
-    "Edlin name meaning",
-    "Edlin meaning",
-    "Edlin origin",
-    "Edlin root",
-    "Edlin pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Edlin name meaning",
-   "secondary_keywords": [
-    "Edlin meaning",
-    "Edlin origin",
-    "Edlin pronunciation",
-    "Edlin lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/edlin",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Is Edlin suitable for a baby?",
-     "a": "Edlin is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Edlin?",
-     "a": "Edlin is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Edlin?",
-     "a": "Edlin is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Edlin have a positive meaning?",
-     "a": "Edlin carries the meaning “Wealthy protector”."
-    },
-    {
-     "q": "What does the name Edlin mean?",
-     "a": "Edlin means “Wealthy protector”."
-    },
-    {
-     "q": "What is the origin of the name Edlin?",
-     "a": "Edlin is of Biblical origin."
-    },
-    {
-     "q": "Is Edlin a unisex name?",
-     "a": "Edlin is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Edlin have?",
-     "a": "Edlin has 2 syllables."
-    },
-    {
-     "q": "How is Edlin pronounced?",
-     "a": "Edlin is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Edlin?",
-     "a": "Any spiritual significance attached to Edlin is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Edlin?",
-     "a": "Variant spellings of Edlin are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Edlin a common name?",
-     "a": "Popularity figures for Edlin have not been verified and are not published."
-    }
-   ]
-  },
-  "seo_title": "Edlin Name Meaning – Wealthy protector (Biblical)",
-  "meta_description": "Edlin is a Biblical name meaning “Wealthy protector”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Edlin",
-   "Edlin name meaning",
-   "Edlin meaning",
-   "Edlin origin",
-   "Edlin root",
-   "Edlin pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/edlin",
-  "intro_paragraph": "Edlin is a Biblical name meaning “Wealthy protector”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Edlin",
-   "description": "Edlin — Wealthy protector",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Is Edlin suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Edlin is used as a unisex given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Edlin?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Edlin is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Edlin?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Edlin is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Edlin have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Edlin carries the meaning “Wealthy protector”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Edlin mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Edlin means “Wealthy protector”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Edlin?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Edlin is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Edlin a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Edlin is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Edlin have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Edlin has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Edlin pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Edlin is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Edlin?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Edlin is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Edlin?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Edlin are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Edlin a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Edlin have not been verified and are not published."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Edlin",
-     "item": "https://namemeaning.example/name/edlin"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Edlin",
-   "slug": "edlin",
-   "meaning": "Wealthy protector",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Edlin",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Wealthy protector",
-   "long_meaning": "The name Edlin is recorded with the meaning “Wealthy protector”. Edlin is a Biblical name meaning “Wealthy protector”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Edlin",
-     "meaning": "Wealthy protector",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "ED-lin",
-    "ipa": "/ˈɛd.lɪn/"
-   },
-   "syllables": 2,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "Is Edlin suitable for a baby?",
-     "a": "Edlin is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Edlin?",
-     "a": "Edlin is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Edlin?",
-     "a": "Edlin is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Edlin have a positive meaning?",
-     "a": "Edlin carries the meaning “Wealthy protector”."
-    },
-    {
-     "q": "What does the name Edlin mean?",
-     "a": "Edlin means “Wealthy protector”."
-    },
-    {
-     "q": "What is the origin of the name Edlin?",
-     "a": "Edlin is of Biblical origin."
-    },
-    {
-     "q": "Is Edlin a unisex name?",
-     "a": "Edlin is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Edlin have?",
-     "a": "Edlin has 2 syllables."
-    },
-    {
-     "q": "How is Edlin pronounced?",
-     "a": "Edlin is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Edlin?",
-     "a": "Any spiritual significance attached to Edlin is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Edlin?",
-     "a": "Variant spellings of Edlin are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Edlin a common name?",
-     "a": "Popularity figures for Edlin have not been verified and are not published."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 8,
-    "life_path_number": 8,
-    "ruling_planet": "Saturn",
-    "lucky_day": "Saturday",
-    "lucky_stone": "Blue Sapphire",
-    "lucky_colors": [
-     "Blue",
-     "Black"
+  "success": true,
+  "data": {
+    "name": "Edlin",
+    "slug": "edlin",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Edlin total 26, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Edlin is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Wealthy protector",
+    "long_meaning": "The meaning of Edlin is recorded in name-lists as “Wealthy protector”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Edlin expresses “Wealthy protector”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "e-d-l-i-n",
+    "syllables": 2,
+    "name_length": 5,
+    "transliteration": [
+      "Edlin"
+    ],
+    "lucky_number": 8,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Blue",
+      "Black"
+    ],
+    "lucky_stone": "Blue Sapphire",
+    "ruling_planet": "Saturn",
+    "life_path_number": 8,
+    "numerology_meaning": "In Pythagorean numerology the letters of Edlin total 26, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
+    "in_hebrew": {
+      "name": "אדלין",
+      "meaning": "אדלין הוא שם נוצרי שפירושו עידוד או תמיכה באל",
+      "long_meaning": "אדלין הוא שם נוצרי שמקורו בשפה הגרמנית ופירושו 'עידוד' או 'תמיכה באל'. השם אדלין מורכב משתי מילים: 'אדל' שפירושו 'אציל' ו-'לין' שפירושו 'עידוד' או 'תמיכה'. השם נוצר כנראה כחלק מהמסורת הנוצרית של שמות תינוקות שמשמעותם רוחנית ועמוקה."
+    },
+    "in_greek": {
+      "name": "Έντλιν",
+      "meaning": "Το Έντλιν είναι ένα Χριστιανικό όνομα που σημαίνει υποστήριξη ή ενθάρρυνση στον Θεό",
+      "long_meaning": "Το Έντλιν είναι ένα Χριστιανικό όνομα που προέχεται από τη Γερμανική γλώσσα και σημαίνει 'υποστήριξη' ή 'ενθάρρυνση στον Θεό'. Το όνομα Έντλιν αποτελείται από δύο λέξεις: 'Άντλερ' που σημαίνει 'ευγενής' και '-λιν' που σημαίνει 'υποστήριξη' ή 'ενθάρρυνση'. Το όνομα πιθανότατα δημιουργήθηκε ως μέρος της Χριστιανικής παράδοσης των ονομάτων νηπίων που έχουν πνευματική και βαθιά σημασία."
+    },
+    "in_latin": {
+      "name": "Edlinus",
+      "meaning": "Edlinus est nomen Christianum quod significat exhortatio vel sustentatio in Deo",
+      "long_meaning": "Edlinus est nomen Christianum quod oritur ex lingua Germanica et significat 'exhortatio' vel 'sustentatio in Deo'. Nomen Edlinus constat ex duabus vocibus: 'Adel' quod significat 'nobilis' et '-lin' quod significat 'exhortatio' vel 'sustentatio'. Nomen probabiliter creatum est ut pars traditionis Christianorum nominum infantum quae significationem spiritualem et profundam habent."
+    },
+    "in_english": {
+      "name": "Edlin",
+      "meaning": "Wealthy protector",
+      "long_meaning": "Wealthy protector"
+    },
+    "pronunciation": {
+      "english": "ED-lin",
+      "ipa": "/ˈɛd.lɪn/"
+    },
+    "name_variations": [
+      "Edlin"
+    ],
+    "variants": [
+      "Edlin"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Edlin is used in Biblical naming tradition with the meaning “Wealthy protector”.",
+    "spiritual_significance": "Any spiritual significance attached to Edlin is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Wealthy protector” is the basis of any symbolism attached to Edlin; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Edlin."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#EdlinMeaning",
+      "#ChristianBabyNames",
+      "#NonBiblicalNames",
+      "#Edlin"
+    ],
+    "monetization": {
+      "google_adsense": {
+        "publisher_id": "pub-1234567890123456"
+      },
+      "affiliate_links": {
+        "babynames_website": "https://babynamesworld.com/edlin"
+      }
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Edlin Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Edlin has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Edlin, Edlin name meaning, Edlin meaning, Edlin origin, Edlin root, Edlin pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Edlin has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Edlin",
+        "Edlin name meaning",
+        "Edlin meaning",
+        "Edlin origin",
+        "Edlin root",
+        "Edlin pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Edlin name meaning",
+      "secondary_keywords": [
+        "Edlin meaning",
+        "Edlin origin",
+        "Edlin pronunciation",
+        "Edlin lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Edlin mean?",
+          "a": "Name-lists record the meaning as “Wealthy protector”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Edlin verified?",
+          "a": "No. The meaning of Edlin could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Edlin come from?",
+          "a": "The origin of Edlin has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Edlin Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Edlin has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Edlin",
+      "Edlin name meaning",
+      "Edlin meaning",
+      "Edlin origin",
+      "Edlin root",
+      "Edlin pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Edlin has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Edlin",
+      "description": "Edlin — Wealthy protector",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Edlin mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Wealthy protector”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Edlin verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Edlin could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Edlin come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Edlin has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:09:08.000Z",
+    "tier1_verified": {
+      "name": "Edlin",
+      "slug": "edlin",
+      "meaning": "Wealthy protector",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Edlin",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Wealthy protector",
+      "long_meaning": "The name Edlin is recorded with the meaning “Wealthy protector”. Edlin is a Biblical name meaning “Wealthy protector”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Edlin",
+          "meaning": "Wealthy protector",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "ED-lin",
+        "ipa": "/ˈɛd.lɪn/"
+      },
+      "syllables": 2,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Edlin mean?",
+          "a": "Name-lists record the meaning as “Wealthy protector”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Edlin verified?",
+          "a": "No. The meaning of Edlin could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Edlin come from?",
+          "a": "The origin of Edlin has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 8,
+        "life_path_number": 8,
+        "ruling_planet": "Saturn",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Blue Sapphire",
+        "lucky_colors": [
+          "Blue",
+          "Black"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Edlin total 26, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:09:08.000Z"
+    }
   }
- }
 }

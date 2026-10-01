@@ -1,497 +1,336 @@
 {
- "success": true,
- "data": {
-  "name": "Isac",
-  "slug": "isac",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Isac is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "God's reward",
-  "long_meaning": "The name Isac is recorded with the meaning “God's reward”. Isac is a Biblical name meaning “God's reward”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Isac expresses “God's reward”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Isac is recorded with the meaning “God's reward”. Isac is a Biblical name meaning “God's reward”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "i-s-a-c",
-  "syllables": 2,
-  "name_length": 4,
-  "transliteration": [
-   "Isac"
-  ],
-  "lucky_number": 5,
-  "lucky_day": "Wednesday",
-  "lucky_colors": [
-   "Green",
-   "Turquoise"
-  ],
-  "lucky_stone": "Emerald",
-  "ruling_planet": "Mercury",
-  "life_path_number": 5,
-  "numerology_meaning": "In Pythagorean numerology the letters of Isac total 14, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
-  "in_hebrew": {
-   "name": "יִצְחָק",
-   "meaning": "he who laughs",
-   "long_meaning": "from the Hebrew root 'sakah' which means 'to laugh'"
-  },
-  "in_greek": {
-   "name": "Ἰσακ",
-   "meaning": "Isaac",
-   "long_meaning": "Greek form of the Hebrew name"
-  },
-  "in_latin": {
-   "name": "Isaacus",
-   "meaning": "Isaac",
-   "long_meaning": "Latin form of the Hebrew name"
-  },
-  "in_english": {
-   "name": "Isac",
-   "meaning": "God's reward",
-   "long_meaning": "The name Isac is recorded with the meaning “God's reward”. Isac is a Biblical name meaning “God's reward”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "/ˈaɪzɑːk/, /ˈaɪsɑːk/",
-   "biblical": "/ɪˈsaːk/",
-   "ipa": "ˈisak, ˈisakː"
-  },
-  "name_variations": [
-   "Isac"
-  ],
-  "variants": [
-   "Isac"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Isac is used in Biblical naming tradition with the meaning “God's reward”.",
-  "spiritual_significance": "Any spiritual significance attached to Isac is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “God's reward” is the basis of any symbolism attached to Isac; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": true,
-   "origin_scripture": "Genesis",
-   "verse_reference": "Genesis 21:3",
-   "note": "Son of Abraham and Sarah, offered as a sacrifice by God to demonstrate His covenant with Abraham (Genesis 22)."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Isac."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#IsacMeaning",
-   "#ChristianBabyNames"
-  ],
-  "monetization": {
-   "ad_places": [
-    "header",
-    "footer"
-   ],
-   "ads_types": [
-    "image",
-    "text"
-   ],
-   "affiliate_links": [
-    "https://www.babynamesworld.com/isac-onesie",
-    "https://www.babynamesworld.com/isac-teddy"
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Isac Name Meaning – God's reward (Biblical)",
-   "meta_description": "Isac is a Biblical name meaning “God's reward”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Isac, Isac name meaning, Isac meaning, Isac origin, Isac root, Isac pronunciation, Biblical names",
-   "description_paragraph": "Isac is a Biblical name meaning “God's reward”.",
-   "keywords": [
-    "Isac",
-    "Isac name meaning",
-    "Isac meaning",
-    "Isac origin",
-    "Isac root",
-    "Isac pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Isac name meaning",
-   "secondary_keywords": [
-    "Isac meaning",
-    "Isac origin",
-    "Isac pronunciation",
-    "Isac lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/isac",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Which culture uses the name Isac?",
-     "a": "Isac is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Isac have a positive meaning?",
-     "a": "Isac carries the meaning “God's reward”."
-    },
-    {
-     "q": "What does the name Isac mean?",
-     "a": "Isac means “God's reward”."
-    },
-    {
-     "q": "What is the origin of the name Isac?",
-     "a": "Isac is of Biblical origin."
-    },
-    {
-     "q": "Is Isac a male name?",
-     "a": "Isac is used as a male name."
-    },
-    {
-     "q": "How many syllables does Isac have?",
-     "a": "Isac has 2 syllables."
-    },
-    {
-     "q": "How is Isac pronounced?",
-     "a": "Isac is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Isac?",
-     "a": "Any spiritual significance attached to Isac is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Isac?",
-     "a": "Variant spellings of Isac are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Isac a common name?",
-     "a": "Popularity figures for Isac have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Isac say about a child?",
-     "a": "The name Isac expresses “God's reward”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Isac be used in another language?",
-     "a": "Isac is recorded in Biblical; its script forms in other languages are given in the translations field."
-    }
-   ]
-  },
-  "seo_title": "Isac Name Meaning – God's reward (Biblical)",
-  "meta_description": "Isac is a Biblical name meaning “God's reward”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Isac",
-   "Isac name meaning",
-   "Isac meaning",
-   "Isac origin",
-   "Isac root",
-   "Isac pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/isac",
-  "intro_paragraph": "Isac is a Biblical name meaning “God's reward”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Isac",
-   "description": "Isac — God's reward",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Isac?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Isac is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Isac have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Isac carries the meaning “God's reward”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Isac mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Isac means “God's reward”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Isac?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Isac is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Isac a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Isac is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Isac have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Isac has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Isac pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Isac is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Isac?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Isac is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Isac?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Isac are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Isac a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Isac have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Isac say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Isac expresses “God's reward”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Isac be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Isac is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Isac",
-     "item": "https://namemeaning.example/name/isac"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Isac",
-   "slug": "isac",
-   "meaning": "God's reward",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Isac",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "God's reward",
-   "long_meaning": "The name Isac is recorded with the meaning “God's reward”. Isac is a Biblical name meaning “God's reward”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Isac",
-     "meaning": "God's reward",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "/ˈaɪzɑːk/, /ˈaɪsɑːk/",
-    "ipa": "ˈisak, ˈisakː"
-   },
-   "syllables": 2,
-   "name_length": 4,
-   "faqs": [
-    {
-     "q": "Which culture uses the name Isac?",
-     "a": "Isac is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Isac have a positive meaning?",
-     "a": "Isac carries the meaning “God's reward”."
-    },
-    {
-     "q": "What does the name Isac mean?",
-     "a": "Isac means “God's reward”."
-    },
-    {
-     "q": "What is the origin of the name Isac?",
-     "a": "Isac is of Biblical origin."
-    },
-    {
-     "q": "Is Isac a male name?",
-     "a": "Isac is used as a male name."
-    },
-    {
-     "q": "How many syllables does Isac have?",
-     "a": "Isac has 2 syllables."
-    },
-    {
-     "q": "How is Isac pronounced?",
-     "a": "Isac is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Isac?",
-     "a": "Any spiritual significance attached to Isac is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Isac?",
-     "a": "Variant spellings of Isac are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Isac a common name?",
-     "a": "Popularity figures for Isac have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Isac say about a child?",
-     "a": "The name Isac expresses “God's reward”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Isac be used in another language?",
-     "a": "Isac is recorded in Biblical; its script forms in other languages are given in the translations field."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 5,
-    "life_path_number": 5,
-    "ruling_planet": "Mercury",
-    "lucky_day": "Wednesday",
-    "lucky_stone": "Emerald",
-    "lucky_colors": [
-     "Green",
-     "Turquoise"
+  "success": true,
+  "data": {
+    "name": "Isac",
+    "slug": "isac",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Isac total 14, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Isac is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "God's reward",
+    "long_meaning": "The meaning of Isac is recorded in name-lists as “God's reward”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Isac expresses “God's reward”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "i-s-a-c",
+    "syllables": 2,
+    "name_length": 4,
+    "transliteration": [
+      "Isac"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Wednesday",
+    "lucky_colors": [
+      "Green",
+      "Turquoise"
+    ],
+    "lucky_stone": "Emerald",
+    "ruling_planet": "Mercury",
+    "life_path_number": 5,
+    "numerology_meaning": "In Pythagorean numerology the letters of Isac total 14, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
+    "in_hebrew": {
+      "name": "יִצְחָק",
+      "meaning": "he who laughs",
+      "long_meaning": "from the Hebrew root 'sakah' which means 'to laugh'"
+    },
+    "in_greek": {
+      "name": "Ἰσακ",
+      "meaning": "Isaac",
+      "long_meaning": "Greek form of the Hebrew name"
+    },
+    "in_latin": {
+      "name": "Isaacus",
+      "meaning": "Isaac",
+      "long_meaning": "Latin form of the Hebrew name"
+    },
+    "in_english": {
+      "name": "Isac",
+      "meaning": "God's reward",
+      "long_meaning": "God's reward"
+    },
+    "pronunciation": {
+      "english": "/ˈaɪzɑːk/, /ˈaɪsɑːk/",
+      "biblical": "/ɪˈsaːk/",
+      "ipa": "ˈisak, ˈisakː"
+    },
+    "name_variations": [
+      "Isac"
+    ],
+    "variants": [
+      "Isac"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Isac is used in Biblical naming tradition with the meaning “God's reward”.",
+    "spiritual_significance": "Any spiritual significance attached to Isac is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “God's reward” is the basis of any symbolism attached to Isac; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "Genesis",
+      "verse_reference": "Genesis 21:3",
+      "note": "Son of Abraham and Sarah, offered as a sacrifice by God to demonstrate His covenant with Abraham (Genesis 22)."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Isac."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#IsacMeaning",
+      "#ChristianBabyNames"
+    ],
+    "monetization": {
+      "ad_places": [
+        "header",
+        "footer"
+      ],
+      "ads_types": [
+        "image",
+        "text"
+      ],
+      "affiliate_links": [
+        "https://www.babynamesworld.com/isac-onesie",
+        "https://www.babynamesworld.com/isac-teddy"
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Isac Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Isac has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Isac, Isac name meaning, Isac meaning, Isac origin, Isac root, Isac pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Isac has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Isac",
+        "Isac name meaning",
+        "Isac meaning",
+        "Isac origin",
+        "Isac root",
+        "Isac pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Isac name meaning",
+      "secondary_keywords": [
+        "Isac meaning",
+        "Isac origin",
+        "Isac pronunciation",
+        "Isac lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Isac mean?",
+          "a": "Name-lists record the meaning as “God's reward”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Isac verified?",
+          "a": "No. The meaning of Isac could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Isac come from?",
+          "a": "The origin of Isac has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Isac Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Isac has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Isac",
+      "Isac name meaning",
+      "Isac meaning",
+      "Isac origin",
+      "Isac root",
+      "Isac pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Isac has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Isac",
+      "description": "Isac — God's reward",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Isac mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “God's reward”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Isac verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Isac could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Isac come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Isac has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:16:25.000Z",
+    "tier1_verified": {
+      "name": "Isac",
+      "slug": "isac",
+      "meaning": "God's reward",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Isac",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "God's reward",
+      "long_meaning": "The name Isac is recorded with the meaning “God's reward”. Isac is a Biblical name meaning “God's reward”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Isac",
+          "meaning": "God's reward",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "/ˈaɪzɑːk/, /ˈaɪsɑːk/",
+        "ipa": "ˈisak, ˈisakː"
+      },
+      "syllables": 2,
+      "name_length": 4,
+      "faqs": [
+        {
+          "q": "What does the name Isac mean?",
+          "a": "Name-lists record the meaning as “God's reward”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Isac verified?",
+          "a": "No. The meaning of Isac could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Isac come from?",
+          "a": "The origin of Isac has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 5,
+        "life_path_number": 5,
+        "ruling_planet": "Mercury",
+        "lucky_day": "Wednesday",
+        "lucky_stone": "Emerald",
+        "lucky_colors": [
+          "Green",
+          "Turquoise"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Isac total 14, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:16:25.000Z"
+    }
   }
- }
 }

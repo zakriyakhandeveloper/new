@@ -1,491 +1,330 @@
 {
- "success": true,
- "data": {
-  "name": "Anton",
-  "slug": "anton",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Anton is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Saint",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Greek: 'priceless one'",
-  "long_meaning": "The name Anton is recorded with the meaning “Greek: 'priceless one'”. Anton is a Biblical name meaning “Greek: 'priceless one'”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Anton expresses “Greek: 'priceless one'”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Anton is recorded with the meaning “Greek: 'priceless one'”. Anton is a Biblical name meaning “Greek: 'priceless one'”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "a-n-t-o-n",
-  "syllables": 2,
-  "name_length": 5,
-  "transliteration": [
-   "Anton"
-  ],
-  "lucky_number": 1,
-  "lucky_day": "Sunday",
-  "lucky_colors": [
-   "Gold",
-   "Orange"
-  ],
-  "lucky_stone": "Ruby",
-  "ruling_planet": "Sun",
-  "life_path_number": 1,
-  "numerology_meaning": "In Pythagorean numerology the letters of Anton total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
-  "in_hebrew": {
-   "name": "אנטון",
-   "meaning": "בעל חסד, יקר, אדם רב ערך",
-   "long_meaning": "השם אנטון נגזר מהשם היווני אנטון, שפירושו 'בעל חסד' או 'יקר'. הוא קשור למושגים של ערך וגדלות, ומשקף תכונות של אדם רב ערך ויקר."
-  },
-  "in_greek": {
-   "name": "Αντών",
-   "meaning": "Αντίος, αντίος, πολύτιμος",
-   "long_meaning": "Ο όρος Αντών προέρχεται από το ελληνικό 'Αντίος', που σημαίνει 'αντίος' ή 'πολύτιμος'. Στο πλαίσιο της παράδοσης Χριστιανική, το όνομα αντανακλά την έννοια του να είσαι πολύτιμος ή ανώτερος."
-  },
-  "in_latin": {
-   "name": "Anton",
-   "meaning": "Inestimabilis, pretiosus, magnus",
-   "long_meaning": "Nomen Anton derivatur ex Graeco 'Αντών', quod significat 'inestimabilis' vel 'pretiosus'. In traditione Christiana, nomen hoc reflectit notionem magnitatis et valoris spiritualis."
-  },
-  "in_english": {
-   "name": "Anton",
-   "meaning": "Greek: 'priceless one'",
-   "long_meaning": "The name Anton is recorded with the meaning “Greek: 'priceless one'”. Anton is a Biblical name meaning “Greek: 'priceless one'”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "AN-ton",
-   "ipa": "/ˈæn.tɒn/"
-  },
-  "name_variations": [
-   "Anton"
-  ],
-  "variants": [
-   "Anton"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Anton is used in Biblical naming tradition with the meaning “Greek: 'priceless one'”.",
-  "spiritual_significance": "Any spiritual significance attached to Anton is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Greek: 'priceless one'” is the basis of any symbolism attached to Anton; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Anton."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AntonMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Anton"
-  ],
-  "monetization": {
-   "google_ads": true,
-   "affiliate_links": true
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Anton Name Meaning – Greek: 'priceless one' (Biblical)",
-   "meta_description": "Anton is a Biblical name meaning “Greek: 'priceless one'”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Anton, Anton name meaning, Anton meaning, Anton origin, Anton root, Anton pronunciation, Biblical names",
-   "description_paragraph": "Anton is a Biblical name meaning “Greek: 'priceless one'”.",
-   "keywords": [
-    "Anton",
-    "Anton name meaning",
-    "Anton meaning",
-    "Anton origin",
-    "Anton root",
-    "Anton pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Anton name meaning",
-   "secondary_keywords": [
-    "Anton meaning",
-    "Anton origin",
-    "Anton pronunciation",
-    "Anton lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/anton",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the numerology of Anton?",
-     "a": "In Pythagorean numerology the letters of Anton total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-    },
-    {
-     "q": "How reliable is the meaning given for Anton?",
-     "a": "The meaning of Anton carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Anton have a religious meaning?",
-     "a": "Anton is recorded as a christian name meaning “Greek: 'priceless one'”."
-    },
-    {
-     "q": "What is the English meaning of Anton?",
-     "a": "In English, Anton is rendered as “Greek: 'priceless one'”."
-    },
-    {
-     "q": "Is Anton suitable for a baby?",
-     "a": "Anton is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Anton?",
-     "a": "Anton is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Anton?",
-     "a": "Anton is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Anton have a positive meaning?",
-     "a": "Anton carries the meaning “Greek: 'priceless one'”."
-    },
-    {
-     "q": "What does the name Anton mean?",
-     "a": "Anton means “Greek: 'priceless one'”."
-    },
-    {
-     "q": "What is the origin of the name Anton?",
-     "a": "Anton is of Biblical origin."
-    },
-    {
-     "q": "Is Anton a male name?",
-     "a": "Anton is used as a male name."
-    },
-    {
-     "q": "How many syllables does Anton have?",
-     "a": "Anton has 2 syllables."
-    }
-   ]
-  },
-  "seo_title": "Anton Name Meaning – Greek: 'priceless one' (Biblical)",
-  "meta_description": "Anton is a Biblical name meaning “Greek: 'priceless one'”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Anton",
-   "Anton name meaning",
-   "Anton meaning",
-   "Anton origin",
-   "Anton root",
-   "Anton pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/anton",
-  "intro_paragraph": "Anton is a Biblical name meaning “Greek: 'priceless one'”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Anton",
-   "description": "Anton — Greek: 'priceless one'",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Anton?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Anton total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Anton?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Anton carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Anton have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Anton is recorded as a christian name meaning “Greek: 'priceless one'”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Anton?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Anton is rendered as “Greek: 'priceless one'”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Anton suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Anton is used as a male given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Anton?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Anton is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Anton?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Anton is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Anton have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Anton carries the meaning “Greek: 'priceless one'”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Anton mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Anton means “Greek: 'priceless one'”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Anton?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Anton is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Anton a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Anton is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Anton have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Anton has 2 syllables."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Anton",
-     "item": "https://namemeaning.example/name/anton"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Anton",
-   "slug": "anton",
-   "meaning": "Greek: 'priceless one'",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Anton",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Greek: 'priceless one'",
-   "long_meaning": "The name Anton is recorded with the meaning “Greek: 'priceless one'”. Anton is a Biblical name meaning “Greek: 'priceless one'”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Anton",
-     "meaning": "Greek: 'priceless one'",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "AN-ton",
-    "ipa": "/ˈæn.tɒn/"
-   },
-   "syllables": 2,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "What is the numerology of Anton?",
-     "a": "In Pythagorean numerology the letters of Anton total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-    },
-    {
-     "q": "How reliable is the meaning given for Anton?",
-     "a": "The meaning of Anton carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Anton have a religious meaning?",
-     "a": "Anton is recorded as a christian name meaning “Greek: 'priceless one'”."
-    },
-    {
-     "q": "What is the English meaning of Anton?",
-     "a": "In English, Anton is rendered as “Greek: 'priceless one'”."
-    },
-    {
-     "q": "Is Anton suitable for a baby?",
-     "a": "Anton is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Anton?",
-     "a": "Anton is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Anton?",
-     "a": "Anton is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Anton have a positive meaning?",
-     "a": "Anton carries the meaning “Greek: 'priceless one'”."
-    },
-    {
-     "q": "What does the name Anton mean?",
-     "a": "Anton means “Greek: 'priceless one'”."
-    },
-    {
-     "q": "What is the origin of the name Anton?",
-     "a": "Anton is of Biblical origin."
-    },
-    {
-     "q": "Is Anton a male name?",
-     "a": "Anton is used as a male name."
-    },
-    {
-     "q": "How many syllables does Anton have?",
-     "a": "Anton has 2 syllables."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 1,
-    "life_path_number": 1,
-    "ruling_planet": "Sun",
-    "lucky_day": "Sunday",
-    "lucky_stone": "Ruby",
-    "lucky_colors": [
-     "Gold",
-     "Orange"
+  "success": true,
+  "data": {
+    "name": "Anton",
+    "slug": "anton",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Anton total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Anton is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Saint",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Greek: 'priceless one'",
+    "long_meaning": "The meaning of Anton is recorded in name-lists as “Greek: 'priceless one'”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Anton expresses “Greek: 'priceless one'”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "a-n-t-o-n",
+    "syllables": 2,
+    "name_length": 5,
+    "transliteration": [
+      "Anton"
+    ],
+    "lucky_number": 1,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Gold",
+      "Orange"
+    ],
+    "lucky_stone": "Ruby",
+    "ruling_planet": "Sun",
+    "life_path_number": 1,
+    "numerology_meaning": "In Pythagorean numerology the letters of Anton total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
+    "in_hebrew": {
+      "name": "אנטון",
+      "meaning": "בעל חסד, יקר, אדם רב ערך",
+      "long_meaning": "השם אנטון נגזר מהשם היווני אנטון, שפירושו 'בעל חסד' או 'יקר'. הוא קשור למושגים של ערך וגדלות, ומשקף תכונות של אדם רב ערך ויקר."
+    },
+    "in_greek": {
+      "name": "Αντών",
+      "meaning": "Αντίος, αντίος, πολύτιμος",
+      "long_meaning": "Ο όρος Αντών προέρχεται από το ελληνικό 'Αντίος', που σημαίνει 'αντίος' ή 'πολύτιμος'. Στο πλαίσιο της παράδοσης Χριστιανική, το όνομα αντανακλά την έννοια του να είσαι πολύτιμος ή ανώτερος."
+    },
+    "in_latin": {
+      "name": "Anton",
+      "meaning": "Inestimabilis, pretiosus, magnus",
+      "long_meaning": "Nomen Anton derivatur ex Graeco 'Αντών', quod significat 'inestimabilis' vel 'pretiosus'. In traditione Christiana, nomen hoc reflectit notionem magnitatis et valoris spiritualis."
+    },
+    "in_english": {
+      "name": "Anton",
+      "meaning": "Greek: 'priceless one'",
+      "long_meaning": "Greek: 'priceless one'"
+    },
+    "pronunciation": {
+      "english": "AN-ton",
+      "ipa": "/ˈæn.tɒn/"
+    },
+    "name_variations": [
+      "Anton"
+    ],
+    "variants": [
+      "Anton"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Anton is used in Biblical naming tradition with the meaning “Greek: 'priceless one'”.",
+    "spiritual_significance": "Any spiritual significance attached to Anton is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Greek: 'priceless one'” is the basis of any symbolism attached to Anton; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Anton."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AntonMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Anton"
+    ],
+    "monetization": {
+      "google_ads": true,
+      "affiliate_links": true
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Anton Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Anton has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Anton, Anton name meaning, Anton meaning, Anton origin, Anton root, Anton pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Anton has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Anton",
+        "Anton name meaning",
+        "Anton meaning",
+        "Anton origin",
+        "Anton root",
+        "Anton pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Anton name meaning",
+      "secondary_keywords": [
+        "Anton meaning",
+        "Anton origin",
+        "Anton pronunciation",
+        "Anton lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Anton mean?",
+          "a": "Name-lists record the meaning as “Greek: 'priceless one'”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Anton verified?",
+          "a": "No. The meaning of Anton could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Anton come from?",
+          "a": "The origin of Anton has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Anton Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Anton has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Anton",
+      "Anton name meaning",
+      "Anton meaning",
+      "Anton origin",
+      "Anton root",
+      "Anton pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Anton has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Anton",
+      "description": "Anton — Greek: 'priceless one'",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Anton mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Greek: 'priceless one'”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Anton verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Anton could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Anton come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Anton has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:05:23.000Z",
+    "tier1_verified": {
+      "name": "Anton",
+      "slug": "anton",
+      "meaning": "Greek: 'priceless one'",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Anton",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Greek: 'priceless one'",
+      "long_meaning": "The name Anton is recorded with the meaning “Greek: 'priceless one'”. Anton is a Biblical name meaning “Greek: 'priceless one'”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Anton",
+          "meaning": "Greek: 'priceless one'",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "AN-ton",
+        "ipa": "/ˈæn.tɒn/"
+      },
+      "syllables": 2,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Anton mean?",
+          "a": "Name-lists record the meaning as “Greek: 'priceless one'”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Anton verified?",
+          "a": "No. The meaning of Anton could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Anton come from?",
+          "a": "The origin of Anton has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 1,
+        "life_path_number": 1,
+        "ruling_planet": "Sun",
+        "lucky_day": "Sunday",
+        "lucky_stone": "Ruby",
+        "lucky_colors": [
+          "Gold",
+          "Orange"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Anton total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:05:23.000Z"
+    }
   }
- }
 }

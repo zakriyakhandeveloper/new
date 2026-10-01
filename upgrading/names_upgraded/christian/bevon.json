@@ -1,509 +1,348 @@
 {
- "success": true,
- "data": {
-  "name": "Bevon",
-  "slug": "bevon",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Bevon is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Bright, shining one",
-  "long_meaning": "The name Bevon is recorded with the meaning “Bright, shining one”. Bevon is a Biblical name meaning “Bright, shining one”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Bevon expresses “Bright, shining one”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Bevon is recorded with the meaning “Bright, shining one”. Bevon is a Biblical name meaning “Bright, shining one”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "b-e-v-o-n",
-  "syllables": 2,
-  "name_length": 5,
-  "transliteration": [
-   "Bevon"
-  ],
-  "lucky_number": 4,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Grey",
-   "Blue"
-  ],
-  "lucky_stone": "Hessonite",
-  "ruling_planet": "Rahu",
-  "life_path_number": 4,
-  "numerology_meaning": "In Pythagorean numerology the letters of Bevon total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-  "in_hebrew": {
-   "name": "בבון",
-   "meaning": "בבון",
-   "long_meaning": "בבון - שמשמעותו 'באיון' - שם שמשמעותו 'באיון' - השם 'בבון' יכול להתייחס ל'באיון' - זהו שם נדיר שמקורו בברית החדשה - השם 'בבון' נמצא בספר 'מתי', 'מתי 25:6' - 'באיון' שם העיר וכן 'בבון' - 'בבון' - 'באיון' - 'בבון' - 'באיון' - 'באיון' - 'באיון' - השם 'בבון' - 'באיון' - 'באיון' - 'באיון'"
-  },
-  "in_greek": {
-   "name": "Βέβον",
-   "meaning": "Βέβον",
-   "long_meaning": "Βέβον - το όνομα Βέβον σημαίνει 'πίστη' - το όνομα Βέβον προέρχεται από την ελληνική λέξη πίστη - το όνομα Βέβον χρησιμοποιείται στην Καινή Διαθήκη - στο Βεβαίωση - το όνομα Βέβον συνδέεται με την πίστη - το όνομα Βέβον αποδίδεται στην Πίστη - το όνομα Βέβον αναφέρεται στην Πίστη"
-  },
-  "in_latin": {
-   "name": "Bevon",
-   "meaning": "Bevon",
-   "long_meaning": "Bevon - nomen Bevon significat 'fides' - nomen Bevon a vocabulo fides originatur - nomen Bevon in Novo Testamento reperitur - in Bevaio nomen Bevon usus est - nomen Bevon fidei significat - nomen Bevon in fide christiana usus est"
-  },
-  "in_english": {
-   "name": "Bevon",
-   "meaning": "Bright, shining one",
-   "long_meaning": "The name Bevon is recorded with the meaning “Bright, shining one”. Bevon is a Biblical name meaning “Bright, shining one”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "BEE-von",
-   "biblical": "bēvōn",
-   "ipa": "/biːvɒn/"
-  },
-  "name_variations": [
-   "Bevon"
-  ],
-  "variants": [
-   "Bevon"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Bevon is used in Biblical naming tradition with the meaning “Bright, shining one”.",
-  "spiritual_significance": "Any spiritual significance attached to Bevon is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Bright, shining one” is the basis of any symbolism attached to Bevon; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": true,
-   "origin_scripture": "New Testament",
-   "verse_reference": "Matthew 25:6",
-   "note": "Bevon is mentioned in the New Testament as the name of a city, Bevon, and is associated with the concept of faith"
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Bevon."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#BevonMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Bevon"
-  ],
-  "monetization": {
-   "adsense": {
-    "enabled": true,
-    "places": [
-     "header",
-     "article",
-     "sidebar"
-    ]
-   },
-   "affiliate": {
-    "enabled": true,
-    "programs": [
-     "Amazon",
-     "BabyCenter"
+  "success": true,
+  "data": {
+    "name": "Bevon",
+    "slug": "bevon",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "keywords": [
-     "Bevon",
-     "Boy Name",
-     "Christian Name",
-     "Biblical Name"
-    ]
-   }
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Bevon Name Meaning – Bright, shining one (Biblical)",
-   "meta_description": "Bevon is a Biblical name meaning “Bright, shining one”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Bevon, Bevon name meaning, Bevon meaning, Bevon origin, Bevon root, Bevon pronunciation, Biblical names",
-   "description_paragraph": "Bevon is a Biblical name meaning “Bright, shining one”.",
-   "keywords": [
-    "Bevon",
-    "Bevon name meaning",
-    "Bevon meaning",
-    "Bevon origin",
-    "Bevon root",
-    "Bevon pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Bevon name meaning",
-   "secondary_keywords": [
-    "Bevon meaning",
-    "Bevon origin",
-    "Bevon pronunciation",
-    "Bevon lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/bevon",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the numerology of Bevon?",
-     "a": "In Pythagorean numerology the letters of Bevon total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-    },
-    {
-     "q": "How reliable is the meaning given for Bevon?",
-     "a": "The meaning of Bevon carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Bevon have a religious meaning?",
-     "a": "Bevon is recorded as a christian name meaning “Bright, shining one”."
-    },
-    {
-     "q": "What is the English meaning of Bevon?",
-     "a": "In English, Bevon is rendered as “Bright, shining one”."
-    },
-    {
-     "q": "Is Bevon suitable for a baby?",
-     "a": "Bevon is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Bevon?",
-     "a": "Bevon is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Bevon?",
-     "a": "Bevon is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Bevon have a positive meaning?",
-     "a": "Bevon carries the meaning “Bright, shining one”."
-    },
-    {
-     "q": "What does the name Bevon mean?",
-     "a": "Bevon means “Bright, shining one”."
-    },
-    {
-     "q": "What is the origin of the name Bevon?",
-     "a": "Bevon is of Biblical origin."
-    },
-    {
-     "q": "Is Bevon a male name?",
-     "a": "Bevon is used as a male name."
-    },
-    {
-     "q": "How many syllables does Bevon have?",
-     "a": "Bevon has 2 syllables."
-    }
-   ]
-  },
-  "seo_title": "Bevon Name Meaning – Bright, shining one (Biblical)",
-  "meta_description": "Bevon is a Biblical name meaning “Bright, shining one”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Bevon",
-   "Bevon name meaning",
-   "Bevon meaning",
-   "Bevon origin",
-   "Bevon root",
-   "Bevon pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/bevon",
-  "intro_paragraph": "Bevon is a Biblical name meaning “Bright, shining one”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Bevon",
-   "description": "Bevon — Bright, shining one",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Bevon?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Bevon total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Bevon?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Bevon carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Bevon have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Bevon is recorded as a christian name meaning “Bright, shining one”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Bevon?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Bevon is rendered as “Bright, shining one”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Bevon suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Bevon is used as a male given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Bevon?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Bevon is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Bevon?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Bevon is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Bevon have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Bevon carries the meaning “Bright, shining one”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Bevon mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Bevon means “Bright, shining one”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Bevon?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Bevon is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Bevon a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Bevon is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Bevon have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Bevon has 2 syllables."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Bevon",
-     "item": "https://namemeaning.example/name/bevon"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Bevon",
-   "slug": "bevon",
-   "meaning": "Bright, shining one",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Bevon",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Bright, shining one",
-   "long_meaning": "The name Bevon is recorded with the meaning “Bright, shining one”. Bevon is a Biblical name meaning “Bright, shining one”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Bevon",
-     "meaning": "Bright, shining one",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "BEE-von",
-    "ipa": "/biːvɒn/"
-   },
-   "syllables": 2,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "What is the numerology of Bevon?",
-     "a": "In Pythagorean numerology the letters of Bevon total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-    },
-    {
-     "q": "How reliable is the meaning given for Bevon?",
-     "a": "The meaning of Bevon carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Bevon have a religious meaning?",
-     "a": "Bevon is recorded as a christian name meaning “Bright, shining one”."
-    },
-    {
-     "q": "What is the English meaning of Bevon?",
-     "a": "In English, Bevon is rendered as “Bright, shining one”."
-    },
-    {
-     "q": "Is Bevon suitable for a baby?",
-     "a": "Bevon is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Bevon?",
-     "a": "Bevon is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Bevon?",
-     "a": "Bevon is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Bevon have a positive meaning?",
-     "a": "Bevon carries the meaning “Bright, shining one”."
-    },
-    {
-     "q": "What does the name Bevon mean?",
-     "a": "Bevon means “Bright, shining one”."
-    },
-    {
-     "q": "What is the origin of the name Bevon?",
-     "a": "Bevon is of Biblical origin."
-    },
-    {
-     "q": "Is Bevon a male name?",
-     "a": "Bevon is used as a male name."
-    },
-    {
-     "q": "How many syllables does Bevon have?",
-     "a": "Bevon has 2 syllables."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
+    "gender": "Male",
+    "gender_notes": "Bevon is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Bright, shining one",
+    "long_meaning": "The meaning of Bevon is recorded in name-lists as “Bright, shining one”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Bevon expresses “Bright, shining one”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "b-e-v-o-n",
+    "syllables": 2,
+    "name_length": 5,
+    "transliteration": [
+      "Bevon"
+    ],
     "lucky_number": 4,
-    "life_path_number": 4,
-    "ruling_planet": "Rahu",
     "lucky_day": "Saturday",
-    "lucky_stone": "Hessonite",
     "lucky_colors": [
-     "Grey",
-     "Blue"
+      "Grey",
+      "Blue"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Bevon total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "lucky_stone": "Hessonite",
+    "ruling_planet": "Rahu",
+    "life_path_number": 4,
+    "numerology_meaning": "In Pythagorean numerology the letters of Bevon total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
+    "in_hebrew": {
+      "name": "בבון",
+      "meaning": "בבון",
+      "long_meaning": "בבון - שמשמעותו 'באיון' - שם שמשמעותו 'באיון' - השם 'בבון' יכול להתייחס ל'באיון' - זהו שם נדיר שמקורו בברית החדשה - השם 'בבון' נמצא בספר 'מתי', 'מתי 25:6' - 'באיון' שם העיר וכן 'בבון' - 'בבון' - 'באיון' - 'בבון' - 'באיון' - 'באיון' - 'באיון' - השם 'בבון' - 'באיון' - 'באיון' - 'באיון'"
+    },
+    "in_greek": {
+      "name": "Βέβον",
+      "meaning": "Βέβον",
+      "long_meaning": "Βέβον - το όνομα Βέβον σημαίνει 'πίστη' - το όνομα Βέβον προέρχεται από την ελληνική λέξη πίστη - το όνομα Βέβον χρησιμοποιείται στην Καινή Διαθήκη - στο Βεβαίωση - το όνομα Βέβον συνδέεται με την πίστη - το όνομα Βέβον αποδίδεται στην Πίστη - το όνομα Βέβον αναφέρεται στην Πίστη"
+    },
+    "in_latin": {
+      "name": "Bevon",
+      "meaning": "Bevon",
+      "long_meaning": "Bevon - nomen Bevon significat 'fides' - nomen Bevon a vocabulo fides originatur - nomen Bevon in Novo Testamento reperitur - in Bevaio nomen Bevon usus est - nomen Bevon fidei significat - nomen Bevon in fide christiana usus est"
+    },
+    "in_english": {
+      "name": "Bevon",
+      "meaning": "Bright, shining one",
+      "long_meaning": "Bright, shining one"
+    },
+    "pronunciation": {
+      "english": "BEE-von",
+      "biblical": "bēvōn",
+      "ipa": "/biːvɒn/"
+    },
+    "name_variations": [
+      "Bevon"
+    ],
+    "variants": [
+      "Bevon"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Bevon is used in Biblical naming tradition with the meaning “Bright, shining one”.",
+    "spiritual_significance": "Any spiritual significance attached to Bevon is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Bright, shining one” is the basis of any symbolism attached to Bevon; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "New Testament",
+      "verse_reference": "Matthew 25:6",
+      "note": "Bevon is mentioned in the New Testament as the name of a city, Bevon, and is associated with the concept of faith"
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Bevon."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#BevonMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Bevon"
+    ],
+    "monetization": {
+      "adsense": {
+        "enabled": true,
+        "places": [
+          "header",
+          "article",
+          "sidebar"
+        ]
+      },
+      "affiliate": {
+        "enabled": true,
+        "programs": [
+          "Amazon",
+          "BabyCenter"
+        ],
+        "keywords": [
+          "Bevon",
+          "Boy Name",
+          "Christian Name",
+          "Biblical Name"
+        ]
+      }
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Bevon Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Bevon has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Bevon, Bevon name meaning, Bevon meaning, Bevon origin, Bevon root, Bevon pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Bevon has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Bevon",
+        "Bevon name meaning",
+        "Bevon meaning",
+        "Bevon origin",
+        "Bevon root",
+        "Bevon pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Bevon name meaning",
+      "secondary_keywords": [
+        "Bevon meaning",
+        "Bevon origin",
+        "Bevon pronunciation",
+        "Bevon lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Bevon mean?",
+          "a": "Name-lists record the meaning as “Bright, shining one”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Bevon verified?",
+          "a": "No. The meaning of Bevon could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Bevon come from?",
+          "a": "The origin of Bevon has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Bevon Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Bevon has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Bevon",
+      "Bevon name meaning",
+      "Bevon meaning",
+      "Bevon origin",
+      "Bevon root",
+      "Bevon pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Bevon has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Bevon",
+      "description": "Bevon — Bright, shining one",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Bevon mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Bright, shining one”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Bevon verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Bevon could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Bevon come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Bevon has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:06:27.000Z",
+    "tier1_verified": {
+      "name": "Bevon",
+      "slug": "bevon",
+      "meaning": "Bright, shining one",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Bevon",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Bright, shining one",
+      "long_meaning": "The name Bevon is recorded with the meaning “Bright, shining one”. Bevon is a Biblical name meaning “Bright, shining one”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Bevon",
+          "meaning": "Bright, shining one",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "BEE-von",
+        "ipa": "/biːvɒn/"
+      },
+      "syllables": 2,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Bevon mean?",
+          "a": "Name-lists record the meaning as “Bright, shining one”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Bevon verified?",
+          "a": "No. The meaning of Bevon could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Bevon come from?",
+          "a": "The origin of Bevon has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 4,
+        "life_path_number": 4,
+        "ruling_planet": "Rahu",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Hessonite",
+        "lucky_colors": [
+          "Grey",
+          "Blue"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Bevon total 22, reducing to 4. Number 4 is associated with discipline, order and steady effort."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:06:27.000Z"
+    }
   }
- }
 }

@@ -1,492 +1,331 @@
 {
- "success": true,
- "data": {
-  "name": "Salome",
-  "slug": "salome",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Salome is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Peace",
-  "long_meaning": "The name Salome is recorded with the meaning “Peace”. Salome is a Biblical name meaning “Peace”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Salome expresses “Peace”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Salome is recorded with the meaning “Peace”. Salome is a Biblical name meaning “Peace”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "s-a-l-o-m-e",
-  "syllables": 2,
-  "name_length": 6,
-  "transliteration": [
-   "Salome"
-  ],
-  "lucky_number": 2,
-  "lucky_day": "Monday",
-  "lucky_colors": [
-   "White",
-   "Silver"
-  ],
-  "lucky_stone": "Pearl",
-  "ruling_planet": "Moon",
-  "life_path_number": 2,
-  "numerology_meaning": "In Pythagorean numerology the letters of Salome total 20, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
-  "in_hebrew": {
-   "name": "שלומית",
-   "meaning": "שלום, שלומית, השלום היא",
-   "long_meaning": "השם שלומית נגזר מהמילה העברית 'שלום', שפירושה שלום, שלמות, והוא קשור לנושא השלום והאחדות. השם שלומית מופיע בתנ\"ך, ויש לו קונוטציות של שלום ורמוניה."
-  },
-  "in_greek": {
-   "name": "Σαλώμη",
-   "meaning": "Ειρήνη, αρμονία, και σωτηρία",
-   "long_meaning": "Το όνομα Σαλώμη προέρχεται από την εβραϊκή λέξη 'שלום' (shalom), που σημαίνει ειρήνη, αρμονία, και σωτηρία. Στην Καινή Διαθήκη, η Σαλώμη αναφέρεται ως η μητέρα των Ιωάννη και Ιακώβου, και η θεία του Ιησού."
-  },
-  "in_latin": {
-   "name": "Salome",
-   "meaning": "Peace, harmony, and salvation",
-   "long_meaning": "The name Salome is derived from the Hebrew word 'shalom,' meaning peace, harmony, and salvation. In the early Christian Church, Salome was revered as the mother of John and James, and the aunt of Jesus. The name Salome has been associated with peace, serenity, and devotion."
-  },
-  "in_english": {
-   "name": "Salome",
-   "meaning": "Peace",
-   "long_meaning": "The name Salome is recorded with the meaning “Peace”. Salome is a Biblical name meaning “Peace”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "sə-LOM-ee",
-   "biblical": "שלומית (Shlom-it)",
-   "ipa": "/səˈloʊmi/"
-  },
-  "name_variations": [
-   "Salome"
-  ],
-  "variants": [
-   "Salome"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Salome is used in Biblical naming tradition with the meaning “Peace”.",
-  "spiritual_significance": "Any spiritual significance attached to Salome is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Peace” is the basis of any symbolism attached to Salome; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": true,
-   "origin_scripture": "New Testament",
-   "verse_reference": "Mark 15:40, Matthew 27:55-56",
-   "note": "Salome is mentioned as the mother of John and James, and the aunt of Jesus."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Salome."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#SalomeMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Salome"
-  ],
-  "monetization": {
-   "affiliate_links": [],
-   "sponsored_content": []
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Salome Name Meaning – Peace (Biblical)",
-   "meta_description": "Salome is a Biblical name meaning “Peace”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Salome, Salome name meaning, Salome meaning, Salome origin, Salome root, Salome pronunciation, Biblical names",
-   "description_paragraph": "Salome is a Biblical name meaning “Peace”.",
-   "keywords": [
-    "Salome",
-    "Salome name meaning",
-    "Salome meaning",
-    "Salome origin",
-    "Salome root",
-    "Salome pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Salome name meaning",
-   "secondary_keywords": [
-    "Salome meaning",
-    "Salome origin",
-    "Salome pronunciation",
-    "Salome lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/salome",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the full form of Salome?",
-     "a": "Salome is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Salome?",
-     "a": "Salome is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Salome have a positive meaning?",
-     "a": "Salome carries the meaning “Peace”."
-    },
-    {
-     "q": "What does the name Salome mean?",
-     "a": "Salome means “Peace”."
-    },
-    {
-     "q": "What is the origin of the name Salome?",
-     "a": "Salome is of Biblical origin."
-    },
-    {
-     "q": "Is Salome a unisex name?",
-     "a": "Salome is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Salome have?",
-     "a": "Salome has 2 syllables."
-    },
-    {
-     "q": "How is Salome pronounced?",
-     "a": "Salome is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Salome?",
-     "a": "Any spiritual significance attached to Salome is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Salome?",
-     "a": "Variant spellings of Salome are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Salome a common name?",
-     "a": "Popularity figures for Salome have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Salome say about a child?",
-     "a": "The name Salome expresses “Peace”; any character association drawn from it is interpretive."
-    }
-   ]
-  },
-  "seo_title": "Salome Name Meaning – Peace (Biblical)",
-  "meta_description": "Salome is a Biblical name meaning “Peace”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Salome",
-   "Salome name meaning",
-   "Salome meaning",
-   "Salome origin",
-   "Salome root",
-   "Salome pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/salome",
-  "intro_paragraph": "Salome is a Biblical name meaning “Peace”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Salome",
-   "description": "Salome — Peace",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the full form of Salome?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Salome is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Salome?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Salome is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Salome have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Salome carries the meaning “Peace”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Salome mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Salome means “Peace”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Salome?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Salome is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Salome a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Salome is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Salome have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Salome has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Salome pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Salome is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Salome?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Salome is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Salome?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Salome are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Salome a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Salome have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Salome say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Salome expresses “Peace”; any character association drawn from it is interpretive."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Salome",
-     "item": "https://namemeaning.example/name/salome"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 50,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Salome",
-   "slug": "salome",
-   "meaning": "Peace",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Salome",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Peace",
-   "long_meaning": "The name Salome is recorded with the meaning “Peace”. Salome is a Biblical name meaning “Peace”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Salome",
-     "meaning": "Peace",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "sə-LOM-ee",
-    "ipa": "/səˈloʊmi/"
-   },
-   "syllables": 2,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "What is the full form of Salome?",
-     "a": "Salome is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Salome?",
-     "a": "Salome is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Salome have a positive meaning?",
-     "a": "Salome carries the meaning “Peace”."
-    },
-    {
-     "q": "What does the name Salome mean?",
-     "a": "Salome means “Peace”."
-    },
-    {
-     "q": "What is the origin of the name Salome?",
-     "a": "Salome is of Biblical origin."
-    },
-    {
-     "q": "Is Salome a unisex name?",
-     "a": "Salome is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Salome have?",
-     "a": "Salome has 2 syllables."
-    },
-    {
-     "q": "How is Salome pronounced?",
-     "a": "Salome is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Salome?",
-     "a": "Any spiritual significance attached to Salome is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Salome?",
-     "a": "Variant spellings of Salome are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Salome a common name?",
-     "a": "Popularity figures for Salome have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Salome say about a child?",
-     "a": "The name Salome expresses “Peace”; any character association drawn from it is interpretive."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 2,
-    "life_path_number": 2,
-    "ruling_planet": "Moon",
-    "lucky_day": "Monday",
-    "lucky_stone": "Pearl",
-    "lucky_colors": [
-     "White",
-     "Silver"
+  "success": true,
+  "data": {
+    "name": "Salome",
+    "slug": "salome",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Salome total 20, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Salome is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Peace",
+    "long_meaning": "The meaning of Salome is recorded in name-lists as “Peace”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Salome expresses “Peace”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "s-a-l-o-m-e",
+    "syllables": 2,
+    "name_length": 6,
+    "transliteration": [
+      "Salome"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "White",
+      "Silver"
+    ],
+    "lucky_stone": "Pearl",
+    "ruling_planet": "Moon",
+    "life_path_number": 2,
+    "numerology_meaning": "In Pythagorean numerology the letters of Salome total 20, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
+    "in_hebrew": {
+      "name": "שלומית",
+      "meaning": "שלום, שלומית, השלום היא",
+      "long_meaning": "השם שלומית נגזר מהמילה העברית 'שלום', שפירושה שלום, שלמות, והוא קשור לנושא השלום והאחדות. השם שלומית מופיע בתנ\"ך, ויש לו קונוטציות של שלום ורמוניה."
+    },
+    "in_greek": {
+      "name": "Σαλώμη",
+      "meaning": "Ειρήνη, αρμονία, και σωτηρία",
+      "long_meaning": "Το όνομα Σαλώμη προέρχεται από την εβραϊκή λέξη 'שלום' (shalom), που σημαίνει ειρήνη, αρμονία, και σωτηρία. Στην Καινή Διαθήκη, η Σαλώμη αναφέρεται ως η μητέρα των Ιωάννη και Ιακώβου, και η θεία του Ιησού."
+    },
+    "in_latin": {
+      "name": "Salome",
+      "meaning": "Peace, harmony, and salvation",
+      "long_meaning": "The name Salome is derived from the Hebrew word 'shalom,' meaning peace, harmony, and salvation. In the early Christian Church, Salome was revered as the mother of John and James, and the aunt of Jesus. The name Salome has been associated with peace, serenity, and devotion."
+    },
+    "in_english": {
+      "name": "Salome",
+      "meaning": "Peace",
+      "long_meaning": "Peace"
+    },
+    "pronunciation": {
+      "english": "sə-LOM-ee",
+      "biblical": "שלומית (Shlom-it)",
+      "ipa": "/səˈloʊmi/"
+    },
+    "name_variations": [
+      "Salome"
+    ],
+    "variants": [
+      "Salome"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Salome is used in Biblical naming tradition with the meaning “Peace”.",
+    "spiritual_significance": "Any spiritual significance attached to Salome is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Peace” is the basis of any symbolism attached to Salome; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "New Testament",
+      "verse_reference": "Mark 15:40, Matthew 27:55-56",
+      "note": "Salome is mentioned as the mother of John and James, and the aunt of Jesus."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Salome."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#SalomeMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Salome"
+    ],
+    "monetization": {
+      "affiliate_links": [],
+      "sponsored_content": []
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Salome Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Salome has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Salome, Salome name meaning, Salome meaning, Salome origin, Salome root, Salome pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Salome has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Salome",
+        "Salome name meaning",
+        "Salome meaning",
+        "Salome origin",
+        "Salome root",
+        "Salome pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Salome name meaning",
+      "secondary_keywords": [
+        "Salome meaning",
+        "Salome origin",
+        "Salome pronunciation",
+        "Salome lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Salome mean?",
+          "a": "Name-lists record the meaning as “Peace”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Salome verified?",
+          "a": "No. The meaning of Salome could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Salome come from?",
+          "a": "The origin of Salome has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Salome Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Salome has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Salome",
+      "Salome name meaning",
+      "Salome meaning",
+      "Salome origin",
+      "Salome root",
+      "Salome pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Salome has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Salome",
+      "description": "Salome — Peace",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Salome mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Peace”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Salome verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Salome could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Salome come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Salome has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 50,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:31:10.000Z",
+    "tier1_verified": {
+      "name": "Salome",
+      "slug": "salome",
+      "meaning": "Peace",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Salome",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Peace",
+      "long_meaning": "The name Salome is recorded with the meaning “Peace”. Salome is a Biblical name meaning “Peace”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Salome",
+          "meaning": "Peace",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "sə-LOM-ee",
+        "ipa": "/səˈloʊmi/"
+      },
+      "syllables": 2,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Salome mean?",
+          "a": "Name-lists record the meaning as “Peace”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Salome verified?",
+          "a": "No. The meaning of Salome could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Salome come from?",
+          "a": "The origin of Salome has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 2,
+        "life_path_number": 2,
+        "ruling_planet": "Moon",
+        "lucky_day": "Monday",
+        "lucky_stone": "Pearl",
+        "lucky_colors": [
+          "White",
+          "Silver"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Salome total 20, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:31:10.000Z"
+    }
   }
- }
 }

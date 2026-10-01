@@ -1,510 +1,349 @@
 {
- "success": true,
- "data": {
-  "name": "Alaric",
-  "slug": "alaric",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Alaric is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Ruler or protector",
-  "long_meaning": "The name Alaric is recorded with the meaning “Ruler or protector”. Alaric is a Biblical name meaning “Ruler or protector”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Alaric expresses “Ruler or protector”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Alaric is recorded with the meaning “Ruler or protector”. Alaric is a Biblical name meaning “Ruler or protector”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "a-l-a-r-i-c",
-  "syllables": 3,
-  "name_length": 6,
-  "transliteration": [
-   "Alaric"
-  ],
-  "lucky_number": 8,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Blue",
-   "Black"
-  ],
-  "lucky_stone": "Blue Sapphire",
-  "ruling_planet": "Saturn",
-  "life_path_number": 8,
-  "numerology_meaning": "In Pythagorean numerology the letters of Alaric total 26, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-  "in_hebrew": {
-   "name": "אלאריק",
-   "meaning": "שם גרמאני עם משמעות גבורה",
-   "long_meaning": "שם אלאריק הוא שם גרמאני שמקורו מהמילים הגותיות 'אלס' ו'ריק' שפירושן 'גבור' או 'מנהיג', בהקשר הנוצרי, השם אלאריק מסמל גבורה ואומץ, והוא נפוץ בקרב נוצרים באירופה"
-  },
-  "in_greek": {
-   "name": "Αλαρικός",
-   "meaning": "ονομα GERMANIKH προελευση με σημασια ανδρειας",
-   "long_meaning": "το ονομα Αλαρικός είναι GERMANIKH προελευση που προέρχεται από τις Γοτθικές λέξεις 'Αλς' και 'Ρικ' που σημαίνουν 'ανδρείος' ή 'αρχηγός', στον χριστιανικό contexto, το ονομα Αλαρικός συμβολίζει ανδρεία και θάρρος, και είναι συχνό μεταξύ των χριστιανών στην Ευρώπη"
-  },
-  "in_latin": {
-   "name": "Alaricus",
-   "meaning": "nomen germanicum cum significatu fortitudinis",
-   "long_meaning": "nomen Alaricus est germanicum nomen quod derivatur a verbis gothicis 'Als' et 'Rik' qui significant 'fortis' vel 'dux', in contextu christiano, nomen Alaricus significat fortitudinem et audaciam, et est frequentius inter christianos in Europa"
-  },
-  "in_english": {
-   "name": "Alaric",
-   "meaning": "Ruler or protector",
-   "long_meaning": "The name Alaric is recorded with the meaning “Ruler or protector”. Alaric is a Biblical name meaning “Ruler or protector”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "AL-uh-rick",
-   "biblical": "not applicable",
-   "ipa": "/ˈælərɪk/"
-  },
-  "name_variations": [
-   "Alaric"
-  ],
-  "variants": [
-   "Alaric"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Alaric is used in Biblical naming tradition with the meaning “Ruler or protector”.",
-  "spiritual_significance": "Any spiritual significance attached to Alaric is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Ruler or protector” is the basis of any symbolism attached to Alaric; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "not applicable",
-   "verse_reference": "not applicable",
-   "note": "not mentioned in the Bible"
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Alaric."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AlaricMeaning",
-   "#ChristianBabyNames",
-   "#GermanicNames",
-   "#Alaric"
-  ],
-  "monetization": {
-   "ads": {
-    "display": "inline-text",
-    "positions": [
-     "after_title",
-     "after_description"
+  "success": true,
+  "data": {
+    "name": "Alaric",
+    "slug": "alaric",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "ad_types": [
-     "text_ads",
-     "display_ads"
-    ]
-   },
-   "affiliates": {
-    "links": [
-     {
-      "text": "Shop for Alaric-inspired baby items",
-      "url": "https://example.com/shop/alaric"
-     },
-     {
-      "text": "Explore more Germanic baby names",
-      "url": "https://example.com/names/germanic"
-     }
-    ]
-   }
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Alaric Name Meaning – Ruler or protector (Biblical)",
-   "meta_description": "Alaric is a Biblical name meaning “Ruler or protector”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Alaric, Alaric name meaning, Alaric meaning, Alaric origin, Alaric root, Alaric pronunciation, Biblical names",
-   "description_paragraph": "Alaric is a Biblical name meaning “Ruler or protector”.",
-   "keywords": [
-    "Alaric",
-    "Alaric name meaning",
-    "Alaric meaning",
-    "Alaric origin",
-    "Alaric root",
-    "Alaric pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Alaric name meaning",
-   "secondary_keywords": [
-    "Alaric meaning",
-    "Alaric origin",
-    "Alaric pronunciation",
-    "Alaric lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/alaric",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What does the name Alaric mean?",
-     "a": "Alaric means “Ruler or protector”."
-    },
-    {
-     "q": "What is the origin of the name Alaric?",
-     "a": "Alaric is of Biblical origin."
-    },
-    {
-     "q": "Is Alaric a male name?",
-     "a": "Alaric is used as a male name."
-    },
-    {
-     "q": "How many syllables does Alaric have?",
-     "a": "Alaric has 3 syllables."
-    },
-    {
-     "q": "How is Alaric pronounced?",
-     "a": "Alaric is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Alaric?",
-     "a": "Any spiritual significance attached to Alaric is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Alaric?",
-     "a": "Variant spellings of Alaric are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Alaric a common name?",
-     "a": "Popularity figures for Alaric have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Alaric say about a child?",
-     "a": "The name Alaric expresses “Ruler or protector”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Alaric be used in another language?",
-     "a": "Alaric is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Alaric mentioned in scripture?",
-     "a": "No scriptural reference for Alaric has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Alaric?",
-     "a": "The Pythagorean lucky number for Alaric is 8 (ruling planet Saturn). This is an interpretive association, not a factual claim."
-    }
-   ]
-  },
-  "seo_title": "Alaric Name Meaning – Ruler or protector (Biblical)",
-  "meta_description": "Alaric is a Biblical name meaning “Ruler or protector”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Alaric",
-   "Alaric name meaning",
-   "Alaric meaning",
-   "Alaric origin",
-   "Alaric root",
-   "Alaric pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/alaric",
-  "intro_paragraph": "Alaric is a Biblical name meaning “Ruler or protector”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Alaric",
-   "description": "Alaric — Ruler or protector",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What does the name Alaric mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Alaric means “Ruler or protector”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Alaric?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Alaric is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Alaric a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Alaric is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Alaric have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Alaric has 3 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Alaric pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Alaric is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Alaric?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Alaric is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Alaric?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Alaric are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Alaric a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Alaric have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Alaric say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Alaric expresses “Ruler or protector”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Alaric be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Alaric is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Alaric mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Alaric has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Alaric?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Alaric is 8 (ruling planet Saturn). This is an interpretive association, not a factual claim."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Alaric",
-     "item": "https://namemeaning.example/name/alaric"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Alaric",
-   "slug": "alaric",
-   "meaning": "Ruler or protector",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Alaric",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Ruler or protector",
-   "long_meaning": "The name Alaric is recorded with the meaning “Ruler or protector”. Alaric is a Biblical name meaning “Ruler or protector”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Alaric",
-     "meaning": "Ruler or protector",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "AL-uh-rick",
-    "ipa": "/ˈælərɪk/"
-   },
-   "syllables": 3,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "What does the name Alaric mean?",
-     "a": "Alaric means “Ruler or protector”."
-    },
-    {
-     "q": "What is the origin of the name Alaric?",
-     "a": "Alaric is of Biblical origin."
-    },
-    {
-     "q": "Is Alaric a male name?",
-     "a": "Alaric is used as a male name."
-    },
-    {
-     "q": "How many syllables does Alaric have?",
-     "a": "Alaric has 3 syllables."
-    },
-    {
-     "q": "How is Alaric pronounced?",
-     "a": "Alaric is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Alaric?",
-     "a": "Any spiritual significance attached to Alaric is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Alaric?",
-     "a": "Variant spellings of Alaric are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Alaric a common name?",
-     "a": "Popularity figures for Alaric have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Alaric say about a child?",
-     "a": "The name Alaric expresses “Ruler or protector”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Alaric be used in another language?",
-     "a": "Alaric is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Alaric mentioned in scripture?",
-     "a": "No scriptural reference for Alaric has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Alaric?",
-     "a": "The Pythagorean lucky number for Alaric is 8 (ruling planet Saturn). This is an interpretive association, not a factual claim."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
+    "gender": "Male",
+    "gender_notes": "Alaric is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Ruler or protector",
+    "long_meaning": "The meaning of Alaric is recorded in name-lists as “Ruler or protector”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Alaric expresses “Ruler or protector”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "a-l-a-r-i-c",
+    "syllables": 3,
+    "name_length": 6,
+    "transliteration": [
+      "Alaric"
+    ],
     "lucky_number": 8,
-    "life_path_number": 8,
-    "ruling_planet": "Saturn",
     "lucky_day": "Saturday",
-    "lucky_stone": "Blue Sapphire",
     "lucky_colors": [
-     "Blue",
-     "Black"
+      "Blue",
+      "Black"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Alaric total 26, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "lucky_stone": "Blue Sapphire",
+    "ruling_planet": "Saturn",
+    "life_path_number": 8,
+    "numerology_meaning": "In Pythagorean numerology the letters of Alaric total 26, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
+    "in_hebrew": {
+      "name": "אלאריק",
+      "meaning": "שם גרמאני עם משמעות גבורה",
+      "long_meaning": "שם אלאריק הוא שם גרמאני שמקורו מהמילים הגותיות 'אלס' ו'ריק' שפירושן 'גבור' או 'מנהיג', בהקשר הנוצרי, השם אלאריק מסמל גבורה ואומץ, והוא נפוץ בקרב נוצרים באירופה"
+    },
+    "in_greek": {
+      "name": "Αλαρικός",
+      "meaning": "ονομα GERMANIKH προελευση με σημασια ανδρειας",
+      "long_meaning": "το ονομα Αλαρικός είναι GERMANIKH προελευση που προέρχεται από τις Γοτθικές λέξεις 'Αλς' και 'Ρικ' που σημαίνουν 'ανδρείος' ή 'αρχηγός', στον χριστιανικό contexto, το ονομα Αλαρικός συμβολίζει ανδρεία και θάρρος, και είναι συχνό μεταξύ των χριστιανών στην Ευρώπη"
+    },
+    "in_latin": {
+      "name": "Alaricus",
+      "meaning": "nomen germanicum cum significatu fortitudinis",
+      "long_meaning": "nomen Alaricus est germanicum nomen quod derivatur a verbis gothicis 'Als' et 'Rik' qui significant 'fortis' vel 'dux', in contextu christiano, nomen Alaricus significat fortitudinem et audaciam, et est frequentius inter christianos in Europa"
+    },
+    "in_english": {
+      "name": "Alaric",
+      "meaning": "Ruler or protector",
+      "long_meaning": "Ruler or protector"
+    },
+    "pronunciation": {
+      "english": "AL-uh-rick",
+      "biblical": "not applicable",
+      "ipa": "/ˈælərɪk/"
+    },
+    "name_variations": [
+      "Alaric"
+    ],
+    "variants": [
+      "Alaric"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Alaric is used in Biblical naming tradition with the meaning “Ruler or protector”.",
+    "spiritual_significance": "Any spiritual significance attached to Alaric is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Ruler or protector” is the basis of any symbolism attached to Alaric; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "not applicable",
+      "verse_reference": "not applicable",
+      "note": "not mentioned in the Bible"
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Alaric."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AlaricMeaning",
+      "#ChristianBabyNames",
+      "#GermanicNames",
+      "#Alaric"
+    ],
+    "monetization": {
+      "ads": {
+        "display": "inline-text",
+        "positions": [
+          "after_title",
+          "after_description"
+        ],
+        "ad_types": [
+          "text_ads",
+          "display_ads"
+        ]
+      },
+      "affiliates": {
+        "links": [
+          {
+            "text": "Shop for Alaric-inspired baby items",
+            "url": "https://example.com/shop/alaric"
+          },
+          {
+            "text": "Explore more Germanic baby names",
+            "url": "https://example.com/names/germanic"
+          }
+        ]
+      }
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Alaric Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Alaric has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Alaric, Alaric name meaning, Alaric meaning, Alaric origin, Alaric root, Alaric pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Alaric has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Alaric",
+        "Alaric name meaning",
+        "Alaric meaning",
+        "Alaric origin",
+        "Alaric root",
+        "Alaric pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Alaric name meaning",
+      "secondary_keywords": [
+        "Alaric meaning",
+        "Alaric origin",
+        "Alaric pronunciation",
+        "Alaric lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Alaric mean?",
+          "a": "Name-lists record the meaning as “Ruler or protector”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Alaric verified?",
+          "a": "No. The meaning of Alaric could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Alaric come from?",
+          "a": "The origin of Alaric has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Alaric Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Alaric has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Alaric",
+      "Alaric name meaning",
+      "Alaric meaning",
+      "Alaric origin",
+      "Alaric root",
+      "Alaric pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Alaric has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Alaric",
+      "description": "Alaric — Ruler or protector",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Alaric mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Ruler or protector”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Alaric verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Alaric could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Alaric come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Alaric has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:04:54.000Z",
+    "tier1_verified": {
+      "name": "Alaric",
+      "slug": "alaric",
+      "meaning": "Ruler or protector",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Alaric",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Ruler or protector",
+      "long_meaning": "The name Alaric is recorded with the meaning “Ruler or protector”. Alaric is a Biblical name meaning “Ruler or protector”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Alaric",
+          "meaning": "Ruler or protector",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "AL-uh-rick",
+        "ipa": "/ˈælərɪk/"
+      },
+      "syllables": 3,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Alaric mean?",
+          "a": "Name-lists record the meaning as “Ruler or protector”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Alaric verified?",
+          "a": "No. The meaning of Alaric could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Alaric come from?",
+          "a": "The origin of Alaric has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 8,
+        "life_path_number": 8,
+        "ruling_planet": "Saturn",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Blue Sapphire",
+        "lucky_colors": [
+          "Blue",
+          "Black"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Alaric total 26, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:54.000Z"
+    }
   }
- }
 }

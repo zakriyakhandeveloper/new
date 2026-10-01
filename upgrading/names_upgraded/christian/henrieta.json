@@ -1,504 +1,343 @@
 {
- "success": true,
- "data": {
-  "name": "Henrieta",
-  "slug": "henrieta",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Henrieta is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Virtue",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Graceful, ruler",
-  "long_meaning": "The name Henrieta is recorded with the meaning “Graceful, ruler”. Henrieta is a Biblical name meaning “Graceful, ruler”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Henrieta expresses “Graceful, ruler”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Henrieta is recorded with the meaning “Graceful, ruler”. Henrieta is a Biblical name meaning “Graceful, ruler”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "h-e-n-r-i-e-t-a",
-  "syllables": 3,
-  "name_length": 8,
-  "transliteration": [
-   "Henrieta"
-  ],
-  "lucky_number": 8,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Blue",
-   "Black"
-  ],
-  "lucky_stone": "Blue Sapphire",
-  "ruling_planet": "Saturn",
-  "life_path_number": 8,
-  "numerology_meaning": "In Pythagorean numerology the letters of Henrieta total 44, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-  "in_hebrew": {
-   "name": "הנריאטה",
-   "meaning": "מקור השם הוא תואר של קדושה",
-   "long_meaning": "השם הנריאטה בא מהשם הלטיני הנרי, המגיע משם ההברית העברית הנר, ומשמעותו 'אדון', 'שליט'. השם הנריאטה היה פופולרי באירופה בתקופה הביזנטית ונחשב לשם ראוי לנשים. במסורת הנוצרית, השם הנריאטה מייצג את המאפיינים הטובים של שלום, חסד וצדק. השם הנריאטה נחשב לשם נשים, אך גם יש כאלו המייחסים אותו לגברים. בפועל, השם נחשב נפוץ יותר בקרב נשים. השם הנריאטה נחשב לשם נשים, אך גם יש כאלו המייחסים אותו לגברים."
-  },
-  "in_greek": {
-   "name": "Ενριέτα",
-   "meaning": "Απευθύνεται σε ένα προσωνύμιο για την πνευματικότητα",
-   "long_meaning": "Ο όνομα Ενριέτα προέρχεται από το όνομα Ερρίκος, το οποίο είναι το λατινικό όνομα Ερρίκος. Το όνομα Ερρίκος προέρχεται από το αρχαίο ελληνικό όνομα Ερρίκος, το οποίο είναι το όνομα που σημαίνει 'απλούς'. Στην αρχαία Ελλάδα, το όνομα Ερρίκος ήταν δημοφιλές και συνδέθηκε με την ιδέα της πνευματικότητας και της σοφίας. Στη μεσαιωνική Ευρώπη, το όνομα Ενριέτα έγινε δημοφιλές και θεωρήθηκε ως όνομα για γυναίκες. Στη χριστιανική παράδοση, το όνομα Ενριέτα συνδέεται με την ιδέα της πνευματικότητας και της αγάπης. Οι άνθρωποι με το όνομα Ενριέτα θεωρούνται ευγενείς και φιλόσοφοι."
-  },
-  "in_latin": {
-   "name": "Henrietta",
-   "meaning": "Derivati ex nomine viri clarissimi",
-   "long_meaning": "Nomen Henrietta ab nomine Latino Henri derivatum est, quod significat 'dominus'. Nomen Henri originem habet in nomine Hebraico Hen, quod significat 'dominus'. In antiqua Europa, nomen Henri fuit commune et significabat fidem, virtutem et sapientiam. In medio aevo, nomen Henrietta factum est popularissimum et considabatur ut nomen mulierum. In traditione Christiana, nomen Henrietta significat fidem, caritatem et sapientiam. Viri et mulieres cum nomine Henrietta habentur ut nobiliores et sapientes."
-  },
-  "in_english": {
-   "name": "Henrieta",
-   "meaning": "Graceful, ruler",
-   "long_meaning": "The name Henrieta is recorded with the meaning “Graceful, ruler”. Henrieta is a Biblical name meaning “Graceful, ruler”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "HIN-ree-eh-tah",
-   "biblical": "Hebrew pronunciation: HIN-ree-ah (Hen in Hebrew is pronounced as HIN-ree, the feminine suffix -a is pronounced as -ah)",
-   "ipa": "/hɛnrɪˈɛtə/"
-  },
-  "name_variations": [
-   "Henrieta"
-  ],
-  "variants": [
-   "Henrieta"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Henrieta is used in Biblical naming tradition with the meaning “Graceful, ruler”.",
-  "spiritual_significance": "Any spiritual significance attached to Henrieta is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Graceful, ruler” is the basis of any symbolism attached to Henrieta; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Henrieta."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#HenrietaMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Henrieta"
-  ],
-  "monetization": {
-   "ads": [
-    {
-     "type": "display",
-     "location": "below_content"
-    },
-    {
-     "type": "native",
-     "location": "sidebar"
-    }
-   ],
-   "affiliate": [
-    {
-     "product": "Baby Name Book",
-     "link": "https://example.com/baby-name-book"
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Henrieta Name Meaning – Graceful, ruler (Biblical)",
-   "meta_description": "Henrieta is a Biblical name meaning “Graceful, ruler”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Henrieta, Henrieta name meaning, Henrieta meaning, Henrieta origin, Henrieta root, Henrieta pronunciation, Biblical names",
-   "description_paragraph": "Henrieta is a Biblical name meaning “Graceful, ruler”.",
-   "keywords": [
-    "Henrieta",
-    "Henrieta name meaning",
-    "Henrieta meaning",
-    "Henrieta origin",
-    "Henrieta root",
-    "Henrieta pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Henrieta name meaning",
-   "secondary_keywords": [
-    "Henrieta meaning",
-    "Henrieta origin",
-    "Henrieta pronunciation",
-    "Henrieta lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/henrieta",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Which day is associated with Henrieta?",
-     "a": "Saturday is the traditional association for Henrieta. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Henrieta?",
-     "a": "Blue Sapphire is the traditional association for Henrieta. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Henrieta?",
-     "a": "Blue, Black are the traditional associations for Henrieta. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Henrieta?",
-     "a": "In Pythagorean numerology the letters of Henrieta total 44, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-    },
-    {
-     "q": "How reliable is the meaning given for Henrieta?",
-     "a": "The meaning of Henrieta carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Henrieta have a religious meaning?",
-     "a": "Henrieta is recorded as a christian name meaning “Graceful, ruler”."
-    },
-    {
-     "q": "What is the English meaning of Henrieta?",
-     "a": "In English, Henrieta is rendered as “Graceful, ruler”."
-    },
-    {
-     "q": "Is Henrieta suitable for a baby?",
-     "a": "Henrieta is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Henrieta?",
-     "a": "Henrieta is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Henrieta?",
-     "a": "Henrieta is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Henrieta have a positive meaning?",
-     "a": "Henrieta carries the meaning “Graceful, ruler”."
-    },
-    {
-     "q": "What does the name Henrieta mean?",
-     "a": "Henrieta means “Graceful, ruler”."
-    }
-   ]
-  },
-  "seo_title": "Henrieta Name Meaning – Graceful, ruler (Biblical)",
-  "meta_description": "Henrieta is a Biblical name meaning “Graceful, ruler”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Henrieta",
-   "Henrieta name meaning",
-   "Henrieta meaning",
-   "Henrieta origin",
-   "Henrieta root",
-   "Henrieta pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/henrieta",
-  "intro_paragraph": "Henrieta is a Biblical name meaning “Graceful, ruler”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Henrieta",
-   "description": "Henrieta — Graceful, ruler",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Henrieta?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Saturday is the traditional association for Henrieta. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Henrieta?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Blue Sapphire is the traditional association for Henrieta. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Henrieta?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Blue, Black are the traditional associations for Henrieta. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Henrieta?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Henrieta total 44, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Henrieta?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Henrieta carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Henrieta have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Henrieta is recorded as a christian name meaning “Graceful, ruler”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Henrieta?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Henrieta is rendered as “Graceful, ruler”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Henrieta suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Henrieta is used as a unisex given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Henrieta?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Henrieta is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Henrieta?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Henrieta is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Henrieta have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Henrieta carries the meaning “Graceful, ruler”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Henrieta mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Henrieta means “Graceful, ruler”."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Henrieta",
-     "item": "https://namemeaning.example/name/henrieta"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Henrieta",
-   "slug": "henrieta",
-   "meaning": "Graceful, ruler",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Henrieta",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Graceful, ruler",
-   "long_meaning": "The name Henrieta is recorded with the meaning “Graceful, ruler”. Henrieta is a Biblical name meaning “Graceful, ruler”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Henrieta",
-     "meaning": "Graceful, ruler",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "HIN-ree-eh-tah",
-    "ipa": "/hɛnrɪˈɛtə/"
-   },
-   "syllables": 3,
-   "name_length": 8,
-   "faqs": [
-    {
-     "q": "Which day is associated with Henrieta?",
-     "a": "Saturday is the traditional association for Henrieta. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Henrieta?",
-     "a": "Blue Sapphire is the traditional association for Henrieta. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Henrieta?",
-     "a": "Blue, Black are the traditional associations for Henrieta. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Henrieta?",
-     "a": "In Pythagorean numerology the letters of Henrieta total 44, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-    },
-    {
-     "q": "How reliable is the meaning given for Henrieta?",
-     "a": "The meaning of Henrieta carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Henrieta have a religious meaning?",
-     "a": "Henrieta is recorded as a christian name meaning “Graceful, ruler”."
-    },
-    {
-     "q": "What is the English meaning of Henrieta?",
-     "a": "In English, Henrieta is rendered as “Graceful, ruler”."
-    },
-    {
-     "q": "Is Henrieta suitable for a baby?",
-     "a": "Henrieta is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Henrieta?",
-     "a": "Henrieta is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Henrieta?",
-     "a": "Henrieta is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Henrieta have a positive meaning?",
-     "a": "Henrieta carries the meaning “Graceful, ruler”."
-    },
-    {
-     "q": "What does the name Henrieta mean?",
-     "a": "Henrieta means “Graceful, ruler”."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 8,
-    "life_path_number": 8,
-    "ruling_planet": "Saturn",
-    "lucky_day": "Saturday",
-    "lucky_stone": "Blue Sapphire",
-    "lucky_colors": [
-     "Blue",
-     "Black"
+  "success": true,
+  "data": {
+    "name": "Henrieta",
+    "slug": "henrieta",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Henrieta total 44, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Henrieta is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Virtue",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Graceful, ruler",
+    "long_meaning": "The meaning of Henrieta is recorded in name-lists as “Graceful, ruler”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Henrieta expresses “Graceful, ruler”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "h-e-n-r-i-e-t-a",
+    "syllables": 3,
+    "name_length": 8,
+    "transliteration": [
+      "Henrieta"
+    ],
+    "lucky_number": 8,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Blue",
+      "Black"
+    ],
+    "lucky_stone": "Blue Sapphire",
+    "ruling_planet": "Saturn",
+    "life_path_number": 8,
+    "numerology_meaning": "In Pythagorean numerology the letters of Henrieta total 44, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
+    "in_hebrew": {
+      "name": "הנריאטה",
+      "meaning": "מקור השם הוא תואר של קדושה",
+      "long_meaning": "השם הנריאטה בא מהשם הלטיני הנרי, המגיע משם ההברית העברית הנר, ומשמעותו 'אדון', 'שליט'. השם הנריאטה היה פופולרי באירופה בתקופה הביזנטית ונחשב לשם ראוי לנשים. במסורת הנוצרית, השם הנריאטה מייצג את המאפיינים הטובים של שלום, חסד וצדק. השם הנריאטה נחשב לשם נשים, אך גם יש כאלו המייחסים אותו לגברים. בפועל, השם נחשב נפוץ יותר בקרב נשים. השם הנריאטה נחשב לשם נשים, אך גם יש כאלו המייחסים אותו לגברים."
+    },
+    "in_greek": {
+      "name": "Ενριέτα",
+      "meaning": "Απευθύνεται σε ένα προσωνύμιο για την πνευματικότητα",
+      "long_meaning": "Ο όνομα Ενριέτα προέρχεται από το όνομα Ερρίκος, το οποίο είναι το λατινικό όνομα Ερρίκος. Το όνομα Ερρίκος προέρχεται από το αρχαίο ελληνικό όνομα Ερρίκος, το οποίο είναι το όνομα που σημαίνει 'απλούς'. Στην αρχαία Ελλάδα, το όνομα Ερρίκος ήταν δημοφιλές και συνδέθηκε με την ιδέα της πνευματικότητας και της σοφίας. Στη μεσαιωνική Ευρώπη, το όνομα Ενριέτα έγινε δημοφιλές και θεωρήθηκε ως όνομα για γυναίκες. Στη χριστιανική παράδοση, το όνομα Ενριέτα συνδέεται με την ιδέα της πνευματικότητας και της αγάπης. Οι άνθρωποι με το όνομα Ενριέτα θεωρούνται ευγενείς και φιλόσοφοι."
+    },
+    "in_latin": {
+      "name": "Henrietta",
+      "meaning": "Derivati ex nomine viri clarissimi",
+      "long_meaning": "Nomen Henrietta ab nomine Latino Henri derivatum est, quod significat 'dominus'. Nomen Henri originem habet in nomine Hebraico Hen, quod significat 'dominus'. In antiqua Europa, nomen Henri fuit commune et significabat fidem, virtutem et sapientiam. In medio aevo, nomen Henrietta factum est popularissimum et considabatur ut nomen mulierum. In traditione Christiana, nomen Henrietta significat fidem, caritatem et sapientiam. Viri et mulieres cum nomine Henrietta habentur ut nobiliores et sapientes."
+    },
+    "in_english": {
+      "name": "Henrieta",
+      "meaning": "Graceful, ruler",
+      "long_meaning": "Graceful, ruler"
+    },
+    "pronunciation": {
+      "english": "HIN-ree-eh-tah",
+      "biblical": "Hebrew pronunciation: HIN-ree-ah (Hen in Hebrew is pronounced as HIN-ree, the feminine suffix -a is pronounced as -ah)",
+      "ipa": "/hɛnrɪˈɛtə/"
+    },
+    "name_variations": [
+      "Henrieta"
+    ],
+    "variants": [
+      "Henrieta"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Henrieta is used in Biblical naming tradition with the meaning “Graceful, ruler”.",
+    "spiritual_significance": "Any spiritual significance attached to Henrieta is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Graceful, ruler” is the basis of any symbolism attached to Henrieta; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Henrieta."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#HenrietaMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Henrieta"
+    ],
+    "monetization": {
+      "ads": [
+        {
+          "type": "display",
+          "location": "below_content"
+        },
+        {
+          "type": "native",
+          "location": "sidebar"
+        }
+      ],
+      "affiliate": [
+        {
+          "product": "Baby Name Book",
+          "link": "https://example.com/baby-name-book"
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Henrieta Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Henrieta has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Henrieta, Henrieta name meaning, Henrieta meaning, Henrieta origin, Henrieta root, Henrieta pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Henrieta has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Henrieta",
+        "Henrieta name meaning",
+        "Henrieta meaning",
+        "Henrieta origin",
+        "Henrieta root",
+        "Henrieta pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Henrieta name meaning",
+      "secondary_keywords": [
+        "Henrieta meaning",
+        "Henrieta origin",
+        "Henrieta pronunciation",
+        "Henrieta lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Henrieta mean?",
+          "a": "Name-lists record the meaning as “Graceful, ruler”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Henrieta verified?",
+          "a": "No. The meaning of Henrieta could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Henrieta come from?",
+          "a": "The origin of Henrieta has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Henrieta Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Henrieta has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Henrieta",
+      "Henrieta name meaning",
+      "Henrieta meaning",
+      "Henrieta origin",
+      "Henrieta root",
+      "Henrieta pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Henrieta has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Henrieta",
+      "description": "Henrieta — Graceful, ruler",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Henrieta mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Graceful, ruler”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Henrieta verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Henrieta could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Henrieta come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Henrieta has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:14:47.000Z",
+    "tier1_verified": {
+      "name": "Henrieta",
+      "slug": "henrieta",
+      "meaning": "Graceful, ruler",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Henrieta",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Graceful, ruler",
+      "long_meaning": "The name Henrieta is recorded with the meaning “Graceful, ruler”. Henrieta is a Biblical name meaning “Graceful, ruler”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Henrieta",
+          "meaning": "Graceful, ruler",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "HIN-ree-eh-tah",
+        "ipa": "/hɛnrɪˈɛtə/"
+      },
+      "syllables": 3,
+      "name_length": 8,
+      "faqs": [
+        {
+          "q": "What does the name Henrieta mean?",
+          "a": "Name-lists record the meaning as “Graceful, ruler”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Henrieta verified?",
+          "a": "No. The meaning of Henrieta could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Henrieta come from?",
+          "a": "The origin of Henrieta has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 8,
+        "life_path_number": 8,
+        "ruling_planet": "Saturn",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Blue Sapphire",
+        "lucky_colors": [
+          "Blue",
+          "Black"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Henrieta total 44, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:14:47.000Z"
+    }
   }
- }
 }

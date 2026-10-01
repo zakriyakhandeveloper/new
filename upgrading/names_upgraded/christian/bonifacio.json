@@ -1,492 +1,331 @@
 {
- "success": true,
- "data": {
-  "name": "Bonifacio",
-  "slug": "bonifacio",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Bonifacio is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Saint",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Good, Beneficent",
-  "long_meaning": "The name Bonifacio is recorded with the meaning “Good, Beneficent”. Bonifacio is a Biblical name meaning “Good, Beneficent”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Bonifacio expresses “Good, Beneficent”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Bonifacio is recorded with the meaning “Good, Beneficent”. Bonifacio is a Biblical name meaning “Good, Beneficent”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "b-o-n-i-f-a-c-i-o",
-  "syllables": 4,
-  "name_length": 9,
-  "transliteration": [
-   "Bonifacio"
-  ],
-  "lucky_number": 2,
-  "lucky_day": "Monday",
-  "lucky_colors": [
-   "White",
-   "Silver"
-  ],
-  "lucky_stone": "Pearl",
-  "ruling_planet": "Moon",
-  "life_path_number": 2,
-  "numerology_meaning": "In Pythagorean numerology the letters of Bonifacio total 47, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
-  "in_hebrew": {
-   "name": "בֹּנִיפַצִּי",
-   "meaning": "מְצֻיָּן תְּמוּר, שְׁנוֹת גְּאוּלָה, יַלְדַּת נִקְיָה",
-   "long_meaning": "בֹּנִיפַצִּי, שְׁמוֹ שֶׁמְצֻיָּן הַתְּמוּר, אֲשֶׁר נִקְרָא עַל שְׁמוֹ, 'שְׁנוֹת גְּאוּלָה' (עִלְמָא, 'שְׁנוֹת' - שְׁנֵי, 'גְּאוּלָה' - גְּאוּלָה), וְגַם 'יַלְדַּת נִקְיָה' (בָּנָא, 'יַלְדַּת' - 'נִקְיָה'), כְּכַלָּה, 'בֹּנִיפַצִּי', 'בֹּנִיפַצִּי' – 'הוּא, 'בֹּנִיפַצִּי', 'בֹּנִיפַצִּי' – 'הֻ' – 'לָ' – 'וה' – 'ה' – 'ז' – 'י' – 'ק' – 'ה' – 'ט' – 'ה' – 'ב' – 'ה' – 'ד' – 'ס' – 'י' – 'פ' – 'ך' – 'ץ', 'בֹּנִיפַצִּי' – 'בֹּנִיפַצִּי' – 'ה' – 'ו' – 'ך' – 'ם' – 'ץ'."
-  },
-  "in_greek": {
-   "name": "Μπονηφάκιος",
-   "meaning": "Ἀπλοῦς κατὰ τὴν ἐξέδρασιν, ἡλικία γλυκερῶν ἐλευθεριῶν",
-   "long_meaning": "Ὁ Μπονηφάκιος, ὁ ὀνόματός, 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν', (ἀπλοῦς, 'ἄπλος' - 'ἄπλος', κατὰ, 'κατά' - 'κατά', τὴν, 'ἡ' - 'ἡ', ἐξέδρασιν, 'ἐξέδρασις' - 'ἐξέδρασις'), καὶ 'ἡλικία γλυκερῶν ἐλευθεριῶν' (ἡλικία, 'ἡλικία' - 'ἡλικία', γλυκερῶν, 'γλυκερός' - 'γλυκερός', ἐλευθεριῶν, 'ἐλεύθερος' - 'ἐλεύθερος'), ὁ Μπονηφάκιος, ὁ Μπονηφάκιος, ὅς, 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν', 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν', οὕτως, 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν', 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν', ὅτι, 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν', 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν', οὗ, 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν', 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν', 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν', 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν', 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν'."
-  },
-  "in_latin": {
-   "name": "Bonifacius",
-   "meaning": "Benevolus et fecundus, annus liber, pueritia munditia",
-   "long_meaning": "Bonifacius, nomen ejus, 'Benevolus et fecundus', (benevolus, 'benevolus' - 'benevolus', et, 'et' - 'et', fecundus, 'fecundus' - 'fecundus'), et 'annus liber' (annus, 'annus' - 'annus', liber, 'liber' - 'liber'), et 'pueritia munditia' (pueritia, 'pueritia' - 'pueritia', munditia, 'munditia' - 'munditia'), Bonifacius, Bonifacius, qui, 'Benevolus et fecundus', 'Benevolus et fecundus', sic, 'Benevolus et fecundus', 'Benevolus et fecundus', quia, 'Benevolus et fecundus', 'Benevolus et fecundus', cuius, 'Benevolus et fecundus', 'Benevolus et fecundus', 'Benevolus et fecundus', 'Benevolus et fecundus', 'Benevolus et fecundus'."
-  },
-  "in_english": {
-   "name": "Bonifacio",
-   "meaning": "Good, Beneficent",
-   "long_meaning": "The name Bonifacio is recorded with the meaning “Good, Beneficent”. Bonifacio is a Biblical name meaning “Good, Beneficent”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "bon-ee-FAH-see-oh",
-   "biblical": "Biblical pronunciation not applicable",
-   "ipa": "/bɔnɪˈfɑːsiəʊ/"
-  },
-  "name_variations": [
-   "Bonifacio"
-  ],
-  "variants": [
-   "Bonifacio"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Bonifacio is used in Biblical naming tradition with the meaning “Good, Beneficent”.",
-  "spiritual_significance": "Any spiritual significance attached to Bonifacio is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Good, Beneficent” is the basis of any symbolism attached to Bonifacio; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Bonifacio."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#BonifacioMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Bonifacio"
-  ],
-  "monetization": {
-   "google_ad_sense": "ca-pub-1234567890123456",
-   "amazon_affiliate": "us-west-2"
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Bonifacio Name Meaning – Good, Beneficent (Biblical)",
-   "meta_description": "Bonifacio is a Biblical name meaning “Good, Beneficent”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Bonifacio, Bonifacio name meaning, Bonifacio meaning, Bonifacio origin, Bonifacio root, Bonifacio pronunciation, Biblical names",
-   "description_paragraph": "Bonifacio is a Biblical name meaning “Good, Beneficent”.",
-   "keywords": [
-    "Bonifacio",
-    "Bonifacio name meaning",
-    "Bonifacio meaning",
-    "Bonifacio origin",
-    "Bonifacio root",
-    "Bonifacio pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Bonifacio name meaning",
-   "secondary_keywords": [
-    "Bonifacio meaning",
-    "Bonifacio origin",
-    "Bonifacio pronunciation",
-    "Bonifacio lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/bonifacio",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Is Bonifacio suitable for a baby?",
-     "a": "Bonifacio is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Bonifacio?",
-     "a": "Bonifacio is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Bonifacio?",
-     "a": "Bonifacio is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Bonifacio have a positive meaning?",
-     "a": "Bonifacio carries the meaning “Good, Beneficent”."
-    },
-    {
-     "q": "What does the name Bonifacio mean?",
-     "a": "Bonifacio means “Good, Beneficent”."
-    },
-    {
-     "q": "What is the origin of the name Bonifacio?",
-     "a": "Bonifacio is of Biblical origin."
-    },
-    {
-     "q": "Is Bonifacio a male name?",
-     "a": "Bonifacio is used as a male name."
-    },
-    {
-     "q": "How many syllables does Bonifacio have?",
-     "a": "Bonifacio has 4 syllables."
-    },
-    {
-     "q": "How is Bonifacio pronounced?",
-     "a": "Bonifacio is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Bonifacio?",
-     "a": "Any spiritual significance attached to Bonifacio is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Bonifacio?",
-     "a": "Variant spellings of Bonifacio are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Bonifacio a common name?",
-     "a": "Popularity figures for Bonifacio have not been verified and are not published."
-    }
-   ]
-  },
-  "seo_title": "Bonifacio Name Meaning – Good, Beneficent (Biblical)",
-  "meta_description": "Bonifacio is a Biblical name meaning “Good, Beneficent”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Bonifacio",
-   "Bonifacio name meaning",
-   "Bonifacio meaning",
-   "Bonifacio origin",
-   "Bonifacio root",
-   "Bonifacio pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/bonifacio",
-  "intro_paragraph": "Bonifacio is a Biblical name meaning “Good, Beneficent”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Bonifacio",
-   "description": "Bonifacio — Good, Beneficent",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Is Bonifacio suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Bonifacio is used as a male given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Bonifacio?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Bonifacio is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Bonifacio?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Bonifacio is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Bonifacio have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Bonifacio carries the meaning “Good, Beneficent”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Bonifacio mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Bonifacio means “Good, Beneficent”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Bonifacio?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Bonifacio is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Bonifacio a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Bonifacio is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Bonifacio have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Bonifacio has 4 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Bonifacio pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Bonifacio is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Bonifacio?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Bonifacio is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Bonifacio?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Bonifacio are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Bonifacio a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Bonifacio have not been verified and are not published."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Bonifacio",
-     "item": "https://namemeaning.example/name/bonifacio"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Bonifacio",
-   "slug": "bonifacio",
-   "meaning": "Good, Beneficent",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Bonifacio",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Good, Beneficent",
-   "long_meaning": "The name Bonifacio is recorded with the meaning “Good, Beneficent”. Bonifacio is a Biblical name meaning “Good, Beneficent”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Bonifacio",
-     "meaning": "Good, Beneficent",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "bon-ee-FAH-see-oh",
-    "ipa": "/bɔnɪˈfɑːsiəʊ/"
-   },
-   "syllables": 4,
-   "name_length": 9,
-   "faqs": [
-    {
-     "q": "Is Bonifacio suitable for a baby?",
-     "a": "Bonifacio is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Bonifacio?",
-     "a": "Bonifacio is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Bonifacio?",
-     "a": "Bonifacio is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Bonifacio have a positive meaning?",
-     "a": "Bonifacio carries the meaning “Good, Beneficent”."
-    },
-    {
-     "q": "What does the name Bonifacio mean?",
-     "a": "Bonifacio means “Good, Beneficent”."
-    },
-    {
-     "q": "What is the origin of the name Bonifacio?",
-     "a": "Bonifacio is of Biblical origin."
-    },
-    {
-     "q": "Is Bonifacio a male name?",
-     "a": "Bonifacio is used as a male name."
-    },
-    {
-     "q": "How many syllables does Bonifacio have?",
-     "a": "Bonifacio has 4 syllables."
-    },
-    {
-     "q": "How is Bonifacio pronounced?",
-     "a": "Bonifacio is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Bonifacio?",
-     "a": "Any spiritual significance attached to Bonifacio is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Bonifacio?",
-     "a": "Variant spellings of Bonifacio are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Bonifacio a common name?",
-     "a": "Popularity figures for Bonifacio have not been verified and are not published."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 2,
-    "life_path_number": 2,
-    "ruling_planet": "Moon",
-    "lucky_day": "Monday",
-    "lucky_stone": "Pearl",
-    "lucky_colors": [
-     "White",
-     "Silver"
+  "success": true,
+  "data": {
+    "name": "Bonifacio",
+    "slug": "bonifacio",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Bonifacio total 47, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Bonifacio is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Saint",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Good, Beneficent",
+    "long_meaning": "The meaning of Bonifacio is recorded in name-lists as “Good, Beneficent”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Bonifacio expresses “Good, Beneficent”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "b-o-n-i-f-a-c-i-o",
+    "syllables": 4,
+    "name_length": 9,
+    "transliteration": [
+      "Bonifacio"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "White",
+      "Silver"
+    ],
+    "lucky_stone": "Pearl",
+    "ruling_planet": "Moon",
+    "life_path_number": 2,
+    "numerology_meaning": "In Pythagorean numerology the letters of Bonifacio total 47, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
+    "in_hebrew": {
+      "name": "בֹּנִיפַצִּי",
+      "meaning": "מְצֻיָּן תְּמוּר, שְׁנוֹת גְּאוּלָה, יַלְדַּת נִקְיָה",
+      "long_meaning": "בֹּנִיפַצִּי, שְׁמוֹ שֶׁמְצֻיָּן הַתְּמוּר, אֲשֶׁר נִקְרָא עַל שְׁמוֹ, 'שְׁנוֹת גְּאוּלָה' (עִלְמָא, 'שְׁנוֹת' - שְׁנֵי, 'גְּאוּלָה' - גְּאוּלָה), וְגַם 'יַלְדַּת נִקְיָה' (בָּנָא, 'יַלְדַּת' - 'נִקְיָה'), כְּכַלָּה, 'בֹּנִיפַצִּי', 'בֹּנִיפַצִּי' – 'הוּא, 'בֹּנִיפַצִּי', 'בֹּנִיפַצִּי' – 'הֻ' – 'לָ' – 'וה' – 'ה' – 'ז' – 'י' – 'ק' – 'ה' – 'ט' – 'ה' – 'ב' – 'ה' – 'ד' – 'ס' – 'י' – 'פ' – 'ך' – 'ץ', 'בֹּנִיפַצִּי' – 'בֹּנִיפַצִּי' – 'ה' – 'ו' – 'ך' – 'ם' – 'ץ'."
+    },
+    "in_greek": {
+      "name": "Μπονηφάκιος",
+      "meaning": "Ἀπλοῦς κατὰ τὴν ἐξέδρασιν, ἡλικία γλυκερῶν ἐλευθεριῶν",
+      "long_meaning": "Ὁ Μπονηφάκιος, ὁ ὀνόματός, 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν', (ἀπλοῦς, 'ἄπλος' - 'ἄπλος', κατὰ, 'κατά' - 'κατά', τὴν, 'ἡ' - 'ἡ', ἐξέδρασιν, 'ἐξέδρασις' - 'ἐξέδρασις'), καὶ 'ἡλικία γλυκερῶν ἐλευθεριῶν' (ἡλικία, 'ἡλικία' - 'ἡλικία', γλυκερῶν, 'γλυκερός' - 'γλυκερός', ἐλευθεριῶν, 'ἐλεύθερος' - 'ἐλεύθερος'), ὁ Μπονηφάκιος, ὁ Μπονηφάκιος, ὅς, 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν', 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν', οὕτως, 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν', 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν', ὅτι, 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν', 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν', οὗ, 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν', 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν', 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν', 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν', 'Ἀπλοῦς κατὰ τὴν ἐξέδρασιν'."
+    },
+    "in_latin": {
+      "name": "Bonifacius",
+      "meaning": "Benevolus et fecundus, annus liber, pueritia munditia",
+      "long_meaning": "Bonifacius, nomen ejus, 'Benevolus et fecundus', (benevolus, 'benevolus' - 'benevolus', et, 'et' - 'et', fecundus, 'fecundus' - 'fecundus'), et 'annus liber' (annus, 'annus' - 'annus', liber, 'liber' - 'liber'), et 'pueritia munditia' (pueritia, 'pueritia' - 'pueritia', munditia, 'munditia' - 'munditia'), Bonifacius, Bonifacius, qui, 'Benevolus et fecundus', 'Benevolus et fecundus', sic, 'Benevolus et fecundus', 'Benevolus et fecundus', quia, 'Benevolus et fecundus', 'Benevolus et fecundus', cuius, 'Benevolus et fecundus', 'Benevolus et fecundus', 'Benevolus et fecundus', 'Benevolus et fecundus', 'Benevolus et fecundus'."
+    },
+    "in_english": {
+      "name": "Bonifacio",
+      "meaning": "Good, Beneficent",
+      "long_meaning": "Good, Beneficent"
+    },
+    "pronunciation": {
+      "english": "bon-ee-FAH-see-oh",
+      "biblical": "Biblical pronunciation not applicable",
+      "ipa": "/bɔnɪˈfɑːsiəʊ/"
+    },
+    "name_variations": [
+      "Bonifacio"
+    ],
+    "variants": [
+      "Bonifacio"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Bonifacio is used in Biblical naming tradition with the meaning “Good, Beneficent”.",
+    "spiritual_significance": "Any spiritual significance attached to Bonifacio is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Good, Beneficent” is the basis of any symbolism attached to Bonifacio; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Bonifacio."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#BonifacioMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Bonifacio"
+    ],
+    "monetization": {
+      "google_ad_sense": "ca-pub-1234567890123456",
+      "amazon_affiliate": "us-west-2"
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Bonifacio Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Bonifacio has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Bonifacio, Bonifacio name meaning, Bonifacio meaning, Bonifacio origin, Bonifacio root, Bonifacio pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Bonifacio has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Bonifacio",
+        "Bonifacio name meaning",
+        "Bonifacio meaning",
+        "Bonifacio origin",
+        "Bonifacio root",
+        "Bonifacio pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Bonifacio name meaning",
+      "secondary_keywords": [
+        "Bonifacio meaning",
+        "Bonifacio origin",
+        "Bonifacio pronunciation",
+        "Bonifacio lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Bonifacio mean?",
+          "a": "Name-lists record the meaning as “Good, Beneficent”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Bonifacio verified?",
+          "a": "No. The meaning of Bonifacio could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Bonifacio come from?",
+          "a": "The origin of Bonifacio has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Bonifacio Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Bonifacio has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Bonifacio",
+      "Bonifacio name meaning",
+      "Bonifacio meaning",
+      "Bonifacio origin",
+      "Bonifacio root",
+      "Bonifacio pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Bonifacio has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Bonifacio",
+      "description": "Bonifacio — Good, Beneficent",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Bonifacio mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Good, Beneficent”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Bonifacio verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Bonifacio could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Bonifacio come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Bonifacio has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:06:42.000Z",
+    "tier1_verified": {
+      "name": "Bonifacio",
+      "slug": "bonifacio",
+      "meaning": "Good, Beneficent",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Bonifacio",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Good, Beneficent",
+      "long_meaning": "The name Bonifacio is recorded with the meaning “Good, Beneficent”. Bonifacio is a Biblical name meaning “Good, Beneficent”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Bonifacio",
+          "meaning": "Good, Beneficent",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "bon-ee-FAH-see-oh",
+        "ipa": "/bɔnɪˈfɑːsiəʊ/"
+      },
+      "syllables": 4,
+      "name_length": 9,
+      "faqs": [
+        {
+          "q": "What does the name Bonifacio mean?",
+          "a": "Name-lists record the meaning as “Good, Beneficent”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Bonifacio verified?",
+          "a": "No. The meaning of Bonifacio could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Bonifacio come from?",
+          "a": "The origin of Bonifacio has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 2,
+        "life_path_number": 2,
+        "ruling_planet": "Moon",
+        "lucky_day": "Monday",
+        "lucky_stone": "Pearl",
+        "lucky_colors": [
+          "White",
+          "Silver"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Bonifacio total 47, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:06:42.000Z"
+    }
   }
- }
 }

@@ -1,491 +1,330 @@
 {
- "success": true,
- "data": {
-  "name": "Ames",
-  "slug": "ames",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Ames is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Virtue",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Beloved",
-  "long_meaning": "The name Ames is recorded with the meaning “Beloved”. Ames is a Biblical name meaning “Beloved”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Ames expresses “Beloved”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Ames is recorded with the meaning “Beloved”. Ames is a Biblical name meaning “Beloved”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "a-m-e-s",
-  "syllables": 2,
-  "name_length": 4,
-  "transliteration": [
-   "Ames"
-  ],
-  "lucky_number": 2,
-  "lucky_day": "Monday",
-  "lucky_colors": [
-   "White",
-   "Silver"
-  ],
-  "lucky_stone": "Pearl",
-  "ruling_planet": "Moon",
-  "life_path_number": 2,
-  "numerology_meaning": "In Pythagorean numerology the letters of Ames total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
-  "in_hebrew": {
-   "name": "עמס",
-   "meaning": "שם משפחה אנגלי ישן",
-   "long_meaning": "שם עמס מקורו באנגלית ישנה, משמעותו היא נושא, נושא עול, שם זה נפוץ בקרב משפחות אנגליות ואמריקאיות, ולו משמעות רוחנית עמוקה בנצרות"
-  },
-  "in_greek": {
-   "name": "Άμης",
-   "meaning": "ο φέρων το βάρος",
-   "long_meaning": "το όνομα Άμης προέρχεται από την αγγλική γλώσσα, και σημαίνει ο φέρων το βάρος, ο φορέας, το όνομα αυτό χρησιμοποιείται σε χριστιανικές οικογένειες και έχει μια πνευματική σημασία στην χριστιανική παράδοση"
-  },
-  "in_latin": {
-   "name": "Ames",
-   "meaning": "nomen familiae anglorum",
-   "long_meaning": "nomen Ames originem habet in lingua anglica, significat portator, ferens onus, nomen hoc frequentatur in familiis anglicis et americanis, et habet profundam significationem spiritualem in christianismo"
-  },
-  "in_english": {
-   "name": "Ames",
-   "meaning": "Beloved",
-   "long_meaning": "The name Ames is recorded with the meaning “Beloved”. Ames is a Biblical name meaning “Beloved”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "AYMZ",
-   "biblical": "no biblical pronunciation",
-   "ipa": "/eɪmz/"
-  },
-  "name_variations": [
-   "Ames"
-  ],
-  "variants": [
-   "Ames"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Ames is used in Biblical naming tradition with the meaning “Beloved”.",
-  "spiritual_significance": "Any spiritual significance attached to Ames is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Beloved” is the basis of any symbolism attached to Ames; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "no biblical reference",
-   "verse_reference": "no verse reference",
-   "note": "no biblical usage"
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Ames."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AmesMeaning",
-   "#ChristianBabyNames",
-   "#EnglishSurnames",
-   "#ChristianNames",
-   "#Ames"
-  ],
-  "monetization": {
-   "price": 9.99,
-   "currency": "USD",
-   "description": "Unlock the full meaning and spiritual significance of the name Ames with our premium baby name analysis."
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Ames Name Meaning – Beloved (Biblical)",
-   "meta_description": "Ames is a Biblical name meaning “Beloved”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Ames, Ames name meaning, Ames meaning, Ames origin, Ames root, Ames pronunciation, Biblical names",
-   "description_paragraph": "Ames is a Biblical name meaning “Beloved”.",
-   "keywords": [
-    "Ames",
-    "Ames name meaning",
-    "Ames meaning",
-    "Ames origin",
-    "Ames root",
-    "Ames pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Ames name meaning",
-   "secondary_keywords": [
-    "Ames meaning",
-    "Ames origin",
-    "Ames pronunciation",
-    "Ames lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/ames",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the English meaning of Ames?",
-     "a": "In English, Ames is rendered as “Beloved”."
-    },
-    {
-     "q": "Is Ames suitable for a baby?",
-     "a": "Ames is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Ames?",
-     "a": "Ames is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Ames?",
-     "a": "Ames is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Ames have a positive meaning?",
-     "a": "Ames carries the meaning “Beloved”."
-    },
-    {
-     "q": "What does the name Ames mean?",
-     "a": "Ames means “Beloved”."
-    },
-    {
-     "q": "What is the origin of the name Ames?",
-     "a": "Ames is of Biblical origin."
-    },
-    {
-     "q": "Is Ames a unisex name?",
-     "a": "Ames is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Ames have?",
-     "a": "Ames has 2 syllables."
-    },
-    {
-     "q": "How is Ames pronounced?",
-     "a": "Ames is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Ames?",
-     "a": "Any spiritual significance attached to Ames is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Ames?",
-     "a": "Variant spellings of Ames are listed in the variants field of this record."
-    }
-   ]
-  },
-  "seo_title": "Ames Name Meaning – Beloved (Biblical)",
-  "meta_description": "Ames is a Biblical name meaning “Beloved”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Ames",
-   "Ames name meaning",
-   "Ames meaning",
-   "Ames origin",
-   "Ames root",
-   "Ames pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/ames",
-  "intro_paragraph": "Ames is a Biblical name meaning “Beloved”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Ames",
-   "description": "Ames — Beloved",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Ames?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Ames is rendered as “Beloved”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Ames suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ames is used as a unisex given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Ames?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ames is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Ames?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ames is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Ames have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ames carries the meaning “Beloved”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Ames mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ames means “Beloved”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Ames?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ames is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Ames a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ames is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Ames have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ames has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Ames pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ames is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Ames?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Ames is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Ames?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Ames are listed in the variants field of this record."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Ames",
-     "item": "https://namemeaning.example/name/ames"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 50,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Ames",
-   "slug": "ames",
-   "meaning": "Beloved",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Ames",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Beloved",
-   "long_meaning": "The name Ames is recorded with the meaning “Beloved”. Ames is a Biblical name meaning “Beloved”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Ames",
-     "meaning": "Beloved",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "AYMZ",
-    "ipa": "/eɪmz/"
-   },
-   "syllables": 2,
-   "name_length": 4,
-   "faqs": [
-    {
-     "q": "What is the English meaning of Ames?",
-     "a": "In English, Ames is rendered as “Beloved”."
-    },
-    {
-     "q": "Is Ames suitable for a baby?",
-     "a": "Ames is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Ames?",
-     "a": "Ames is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Ames?",
-     "a": "Ames is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Ames have a positive meaning?",
-     "a": "Ames carries the meaning “Beloved”."
-    },
-    {
-     "q": "What does the name Ames mean?",
-     "a": "Ames means “Beloved”."
-    },
-    {
-     "q": "What is the origin of the name Ames?",
-     "a": "Ames is of Biblical origin."
-    },
-    {
-     "q": "Is Ames a unisex name?",
-     "a": "Ames is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Ames have?",
-     "a": "Ames has 2 syllables."
-    },
-    {
-     "q": "How is Ames pronounced?",
-     "a": "Ames is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Ames?",
-     "a": "Any spiritual significance attached to Ames is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Ames?",
-     "a": "Variant spellings of Ames are listed in the variants field of this record."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 2,
-    "life_path_number": 2,
-    "ruling_planet": "Moon",
-    "lucky_day": "Monday",
-    "lucky_stone": "Pearl",
-    "lucky_colors": [
-     "White",
-     "Silver"
+  "success": true,
+  "data": {
+    "name": "Ames",
+    "slug": "ames",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Ames total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Ames is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Virtue",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Beloved",
+    "long_meaning": "The meaning of Ames is recorded in name-lists as “Beloved”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Ames expresses “Beloved”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "a-m-e-s",
+    "syllables": 2,
+    "name_length": 4,
+    "transliteration": [
+      "Ames"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "White",
+      "Silver"
+    ],
+    "lucky_stone": "Pearl",
+    "ruling_planet": "Moon",
+    "life_path_number": 2,
+    "numerology_meaning": "In Pythagorean numerology the letters of Ames total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
+    "in_hebrew": {
+      "name": "עמס",
+      "meaning": "שם משפחה אנגלי ישן",
+      "long_meaning": "שם עמס מקורו באנגלית ישנה, משמעותו היא נושא, נושא עול, שם זה נפוץ בקרב משפחות אנגליות ואמריקאיות, ולו משמעות רוחנית עמוקה בנצרות"
+    },
+    "in_greek": {
+      "name": "Άμης",
+      "meaning": "ο φέρων το βάρος",
+      "long_meaning": "το όνομα Άμης προέρχεται από την αγγλική γλώσσα, και σημαίνει ο φέρων το βάρος, ο φορέας, το όνομα αυτό χρησιμοποιείται σε χριστιανικές οικογένειες και έχει μια πνευματική σημασία στην χριστιανική παράδοση"
+    },
+    "in_latin": {
+      "name": "Ames",
+      "meaning": "nomen familiae anglorum",
+      "long_meaning": "nomen Ames originem habet in lingua anglica, significat portator, ferens onus, nomen hoc frequentatur in familiis anglicis et americanis, et habet profundam significationem spiritualem in christianismo"
+    },
+    "in_english": {
+      "name": "Ames",
+      "meaning": "Beloved",
+      "long_meaning": "Beloved"
+    },
+    "pronunciation": {
+      "english": "AYMZ",
+      "biblical": "no biblical pronunciation",
+      "ipa": "/eɪmz/"
+    },
+    "name_variations": [
+      "Ames"
+    ],
+    "variants": [
+      "Ames"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Ames is used in Biblical naming tradition with the meaning “Beloved”.",
+    "spiritual_significance": "Any spiritual significance attached to Ames is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Beloved” is the basis of any symbolism attached to Ames; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "no biblical reference",
+      "verse_reference": "no verse reference",
+      "note": "no biblical usage"
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Ames."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AmesMeaning",
+      "#ChristianBabyNames",
+      "#EnglishSurnames",
+      "#ChristianNames",
+      "#Ames"
+    ],
+    "monetization": {
+      "price": 9.99,
+      "currency": "USD",
+      "description": "Unlock the full meaning and spiritual significance of the name Ames with our premium baby name analysis."
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Ames Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Ames has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Ames, Ames name meaning, Ames meaning, Ames origin, Ames root, Ames pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Ames has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Ames",
+        "Ames name meaning",
+        "Ames meaning",
+        "Ames origin",
+        "Ames root",
+        "Ames pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Ames name meaning",
+      "secondary_keywords": [
+        "Ames meaning",
+        "Ames origin",
+        "Ames pronunciation",
+        "Ames lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Ames mean?",
+          "a": "Name-lists record the meaning as “Beloved”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Ames verified?",
+          "a": "No. The meaning of Ames could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Ames come from?",
+          "a": "The origin of Ames has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Ames Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Ames has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Ames",
+      "Ames name meaning",
+      "Ames meaning",
+      "Ames origin",
+      "Ames root",
+      "Ames pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Ames has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Ames",
+      "description": "Ames — Beloved",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Ames mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Beloved”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Ames verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Ames could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Ames come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Ames has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 50,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:05:11.000Z",
+    "tier1_verified": {
+      "name": "Ames",
+      "slug": "ames",
+      "meaning": "Beloved",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Ames",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Beloved",
+      "long_meaning": "The name Ames is recorded with the meaning “Beloved”. Ames is a Biblical name meaning “Beloved”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Ames",
+          "meaning": "Beloved",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "AYMZ",
+        "ipa": "/eɪmz/"
+      },
+      "syllables": 2,
+      "name_length": 4,
+      "faqs": [
+        {
+          "q": "What does the name Ames mean?",
+          "a": "Name-lists record the meaning as “Beloved”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Ames verified?",
+          "a": "No. The meaning of Ames could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Ames come from?",
+          "a": "The origin of Ames has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 2,
+        "life_path_number": 2,
+        "ruling_planet": "Moon",
+        "lucky_day": "Monday",
+        "lucky_stone": "Pearl",
+        "lucky_colors": [
+          "White",
+          "Silver"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Ames total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:05:11.000Z"
+    }
   }
- }
 }

@@ -1,539 +1,378 @@
 {
- "success": true,
- "data": {
-  "name": "Louisa",
-  "slug": "louisa",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Louisa is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "renowned in war",
-  "long_meaning": "The name Louisa is recorded with the meaning “renowned in war”. Louisa is a Biblical name meaning “renowned in war”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Louisa expresses “renowned in war”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Louisa is recorded with the meaning “renowned in war”. Louisa is a Biblical name meaning “renowned in war”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "l-o-u-i-s-a",
-  "syllables": 2,
-  "name_length": 6,
-  "transliteration": [
-   "Louisa"
-  ],
-  "lucky_number": 5,
-  "lucky_day": "Wednesday",
-  "lucky_colors": [
-   "Green",
-   "Turquoise"
-  ],
-  "lucky_stone": "Emerald",
-  "ruling_planet": "Mercury",
-  "life_path_number": 5,
-  "numerology_meaning": "In Pythagorean numerology the letters of Louisa total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
-  "in_hebrew": {
-   "name": "לואיסה",
-   "meaning": "אלוהים היא לוחמת ומנהיגה נאמנה",
-   "long_meaning": "לואיסה הוא שם נוצרי שמקורו בשם העברי 'אליהו' ומשמעותו 'אלוהים היא לוחמת ומנהיגה נאמנה'. השם לואיסה הוא גרסה נשית של השם לואיס, שפירושו 'אלוהים הוא הלוחם'. השם לואיסה משקף את התכונות של נאמנות, חוזק ואמונה."
-  },
-  "in_greek": {
-   "name": "Λουίζα",
-   "meaning": "Θεοπροστατευόμενη πολεμίστρια και πιστή",
-   "long_meaning": "Το όνομα Λουίζα είναι η γυναικεία μορφή του ονόματος Λουίς, που προέρχεται από το γερμανικό όνομα 'Chlodwig', που σημαίνει 'διάσημος πολεμιστής'. Στην παράδοση της Εκκλησίας, το όνομα Λουίζα συμβολίζει την προστασία και τη δύναμη του Θεού."
-  },
-  "in_latin": {
-   "name": "Louisa",
-   "meaning": "Deus est pugil et dux fidelis",
-   "long_meaning": "Nomen Louisa derivatur ex nomine Germanico 'Chlodwig', quod significat 'clarus pugil'. In traditione Christiana, nomen Louisa significat 'Deus est pugil et dux fidelis', id est, Deus est protector et dux fidelis."
-  },
-  "in_english": {
-   "name": "Louisa",
-   "meaning": "renowned in war",
-   "long_meaning": "The name Louisa is recorded with the meaning “renowned in war”. Louisa is a Biblical name meaning “renowned in war”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "LOO-ee-sah",
-   "ipa": "/luːˈiːzə/"
-  },
-  "name_variations": [
-   "Louisa"
-  ],
-  "variants": [
-   "Louisa"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Louisa is used in Biblical naming tradition with the meaning “renowned in war”.",
-  "spiritual_significance": "Any spiritual significance attached to Louisa is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “renowned in war” is the basis of any symbolism attached to Louisa; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Louisa."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#LouisaMeaning",
-   "#ChristianBabyNames",
-   "#Louisa"
-  ],
-  "monetization": {
-   "ad_places": [
-    {
-     "location": "after_short_meaning"
-    },
-    {
-     "location": "after_long_meaning"
-    },
-    {
-     "location": "after_spiritual_meaning"
-    },
-    {
-     "location": "after_emotional_traits"
-    },
-    {
-     "location": "after_hidden_personality_traits"
-    },
-    {
-     "location": "after_lucky_number"
-    },
-    {
-     "location": "after_lucky_day"
-    },
-    {
-     "location": "after_lucky_colors"
-    },
-    {
-     "location": "after_lucky_stone"
-    },
-    {
-     "location": "after_life_path_number"
-    },
-    {
-     "location": "after_numerology_meaning"
-    },
-    {
-     "location": "after_related_names"
-    },
-    {
-     "location": "after_similar_sounding_names"
-    },
-    {
-     "location": "after_celebrity_usage"
-    },
-    {
-     "location": "after_social_tags"
-    }
-   ],
-   "ad_formats": [
-    "text",
-    "display",
-    "video"
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Louisa Name Meaning – renowned in war (Biblical)",
-   "meta_description": "Louisa is a Biblical name meaning “renowned in war”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Louisa, Louisa name meaning, Louisa meaning, Louisa origin, Louisa root, Louisa pronunciation, Biblical names",
-   "description_paragraph": "Louisa is a Biblical name meaning “renowned in war”.",
-   "keywords": [
-    "Louisa",
-    "Louisa name meaning",
-    "Louisa meaning",
-    "Louisa origin",
-    "Louisa root",
-    "Louisa pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Louisa name meaning",
-   "secondary_keywords": [
-    "Louisa meaning",
-    "Louisa origin",
-    "Louisa pronunciation",
-    "Louisa lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/louisa",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What does the name Louisa say about a child?",
-     "a": "The name Louisa expresses “renowned in war”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Louisa be used in another language?",
-     "a": "Louisa is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Louisa mentioned in scripture?",
-     "a": "No scriptural reference for Louisa has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Louisa?",
-     "a": "The Pythagorean lucky number for Louisa is 5 (ruling planet Mercury). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Louisa?",
-     "a": "Wednesday is the traditional association for Louisa. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Louisa?",
-     "a": "Emerald is the traditional association for Louisa. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Louisa?",
-     "a": "Green, Turquoise are the traditional associations for Louisa. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Louisa?",
-     "a": "In Pythagorean numerology the letters of Louisa total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-    },
-    {
-     "q": "How reliable is the meaning given for Louisa?",
-     "a": "The meaning of Louisa carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Louisa have a religious meaning?",
-     "a": "Louisa is recorded as a christian name meaning “renowned in war”."
-    },
-    {
-     "q": "What is the English meaning of Louisa?",
-     "a": "In English, Louisa is rendered as “renowned in war”."
-    },
-    {
-     "q": "Is Louisa suitable for a baby?",
-     "a": "Louisa is used as a unisex given name; suitability is a personal choice."
-    }
-   ]
-  },
-  "seo_title": "Louisa Name Meaning – renowned in war (Biblical)",
-  "meta_description": "Louisa is a Biblical name meaning “renowned in war”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Louisa",
-   "Louisa name meaning",
-   "Louisa meaning",
-   "Louisa origin",
-   "Louisa root",
-   "Louisa pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/louisa",
-  "intro_paragraph": "Louisa is a Biblical name meaning “renowned in war”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Louisa",
-   "description": "Louisa — renowned in war",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What does the name Louisa say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Louisa expresses “renowned in war”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Louisa be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Louisa is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Louisa mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Louisa has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Louisa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Louisa is 5 (ruling planet Mercury). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Louisa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Wednesday is the traditional association for Louisa. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Louisa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Emerald is the traditional association for Louisa. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Louisa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Green, Turquoise are the traditional associations for Louisa. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Louisa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Louisa total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Louisa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Louisa carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Louisa have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Louisa is recorded as a christian name meaning “renowned in war”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Louisa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Louisa is rendered as “renowned in war”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Louisa suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Louisa is used as a unisex given name; suitability is a personal choice."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Louisa",
-     "item": "https://namemeaning.example/name/louisa"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Louisa",
-   "slug": "louisa",
-   "meaning": "renowned in war",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Louisa",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "renowned in war",
-   "long_meaning": "The name Louisa is recorded with the meaning “renowned in war”. Louisa is a Biblical name meaning “renowned in war”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Louisa",
-     "meaning": "renowned in war",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "LOO-ee-sah",
-    "ipa": "/luːˈiːzə/"
-   },
-   "syllables": 2,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "What does the name Louisa say about a child?",
-     "a": "The name Louisa expresses “renowned in war”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Louisa be used in another language?",
-     "a": "Louisa is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Louisa mentioned in scripture?",
-     "a": "No scriptural reference for Louisa has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Louisa?",
-     "a": "The Pythagorean lucky number for Louisa is 5 (ruling planet Mercury). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Louisa?",
-     "a": "Wednesday is the traditional association for Louisa. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Louisa?",
-     "a": "Emerald is the traditional association for Louisa. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Louisa?",
-     "a": "Green, Turquoise are the traditional associations for Louisa. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Louisa?",
-     "a": "In Pythagorean numerology the letters of Louisa total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-    },
-    {
-     "q": "How reliable is the meaning given for Louisa?",
-     "a": "The meaning of Louisa carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Louisa have a religious meaning?",
-     "a": "Louisa is recorded as a christian name meaning “renowned in war”."
-    },
-    {
-     "q": "What is the English meaning of Louisa?",
-     "a": "In English, Louisa is rendered as “renowned in war”."
-    },
-    {
-     "q": "Is Louisa suitable for a baby?",
-     "a": "Louisa is used as a unisex given name; suitability is a personal choice."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 5,
-    "life_path_number": 5,
-    "ruling_planet": "Mercury",
-    "lucky_day": "Wednesday",
-    "lucky_stone": "Emerald",
-    "lucky_colors": [
-     "Green",
-     "Turquoise"
+  "success": true,
+  "data": {
+    "name": "Louisa",
+    "slug": "louisa",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Louisa total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Louisa is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "renowned in war",
+    "long_meaning": "The meaning of Louisa is recorded in name-lists as “renowned in war”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Louisa expresses “renowned in war”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "l-o-u-i-s-a",
+    "syllables": 2,
+    "name_length": 6,
+    "transliteration": [
+      "Louisa"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Wednesday",
+    "lucky_colors": [
+      "Green",
+      "Turquoise"
+    ],
+    "lucky_stone": "Emerald",
+    "ruling_planet": "Mercury",
+    "life_path_number": 5,
+    "numerology_meaning": "In Pythagorean numerology the letters of Louisa total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
+    "in_hebrew": {
+      "name": "לואיסה",
+      "meaning": "אלוהים היא לוחמת ומנהיגה נאמנה",
+      "long_meaning": "לואיסה הוא שם נוצרי שמקורו בשם העברי 'אליהו' ומשמעותו 'אלוהים היא לוחמת ומנהיגה נאמנה'. השם לואיסה הוא גרסה נשית של השם לואיס, שפירושו 'אלוהים הוא הלוחם'. השם לואיסה משקף את התכונות של נאמנות, חוזק ואמונה."
+    },
+    "in_greek": {
+      "name": "Λουίζα",
+      "meaning": "Θεοπροστατευόμενη πολεμίστρια και πιστή",
+      "long_meaning": "Το όνομα Λουίζα είναι η γυναικεία μορφή του ονόματος Λουίς, που προέρχεται από το γερμανικό όνομα 'Chlodwig', που σημαίνει 'διάσημος πολεμιστής'. Στην παράδοση της Εκκλησίας, το όνομα Λουίζα συμβολίζει την προστασία και τη δύναμη του Θεού."
+    },
+    "in_latin": {
+      "name": "Louisa",
+      "meaning": "Deus est pugil et dux fidelis",
+      "long_meaning": "Nomen Louisa derivatur ex nomine Germanico 'Chlodwig', quod significat 'clarus pugil'. In traditione Christiana, nomen Louisa significat 'Deus est pugil et dux fidelis', id est, Deus est protector et dux fidelis."
+    },
+    "in_english": {
+      "name": "Louisa",
+      "meaning": "renowned in war",
+      "long_meaning": "renowned in war"
+    },
+    "pronunciation": {
+      "english": "LOO-ee-sah",
+      "ipa": "/luːˈiːzə/"
+    },
+    "name_variations": [
+      "Louisa"
+    ],
+    "variants": [
+      "Louisa"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Louisa is used in Biblical naming tradition with the meaning “renowned in war”.",
+    "spiritual_significance": "Any spiritual significance attached to Louisa is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “renowned in war” is the basis of any symbolism attached to Louisa; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Louisa."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#LouisaMeaning",
+      "#ChristianBabyNames",
+      "#Louisa"
+    ],
+    "monetization": {
+      "ad_places": [
+        {
+          "location": "after_short_meaning"
+        },
+        {
+          "location": "after_long_meaning"
+        },
+        {
+          "location": "after_spiritual_meaning"
+        },
+        {
+          "location": "after_emotional_traits"
+        },
+        {
+          "location": "after_hidden_personality_traits"
+        },
+        {
+          "location": "after_lucky_number"
+        },
+        {
+          "location": "after_lucky_day"
+        },
+        {
+          "location": "after_lucky_colors"
+        },
+        {
+          "location": "after_lucky_stone"
+        },
+        {
+          "location": "after_life_path_number"
+        },
+        {
+          "location": "after_numerology_meaning"
+        },
+        {
+          "location": "after_related_names"
+        },
+        {
+          "location": "after_similar_sounding_names"
+        },
+        {
+          "location": "after_celebrity_usage"
+        },
+        {
+          "location": "after_social_tags"
+        }
+      ],
+      "ad_formats": [
+        "text",
+        "display",
+        "video"
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Louisa Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Louisa has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Louisa, Louisa name meaning, Louisa meaning, Louisa origin, Louisa root, Louisa pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Louisa has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Louisa",
+        "Louisa name meaning",
+        "Louisa meaning",
+        "Louisa origin",
+        "Louisa root",
+        "Louisa pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Louisa name meaning",
+      "secondary_keywords": [
+        "Louisa meaning",
+        "Louisa origin",
+        "Louisa pronunciation",
+        "Louisa lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Louisa mean?",
+          "a": "Name-lists record the meaning as “renowned in war”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Louisa verified?",
+          "a": "No. The meaning of Louisa could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Louisa come from?",
+          "a": "The origin of Louisa has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Louisa Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Louisa has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Louisa",
+      "Louisa name meaning",
+      "Louisa meaning",
+      "Louisa origin",
+      "Louisa root",
+      "Louisa pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Louisa has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Louisa",
+      "description": "Louisa — renowned in war",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Louisa mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “renowned in war”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Louisa verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Louisa could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Louisa come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Louisa has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:21:29.000Z",
+    "tier1_verified": {
+      "name": "Louisa",
+      "slug": "louisa",
+      "meaning": "renowned in war",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Louisa",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "renowned in war",
+      "long_meaning": "The name Louisa is recorded with the meaning “renowned in war”. Louisa is a Biblical name meaning “renowned in war”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Louisa",
+          "meaning": "renowned in war",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "LOO-ee-sah",
+        "ipa": "/luːˈiːzə/"
+      },
+      "syllables": 2,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Louisa mean?",
+          "a": "Name-lists record the meaning as “renowned in war”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Louisa verified?",
+          "a": "No. The meaning of Louisa could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Louisa come from?",
+          "a": "The origin of Louisa has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 5,
+        "life_path_number": 5,
+        "ruling_planet": "Mercury",
+        "lucky_day": "Wednesday",
+        "lucky_stone": "Emerald",
+        "lucky_colors": [
+          "Green",
+          "Turquoise"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Louisa total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:21:29.000Z"
+    }
   }
- }
 }

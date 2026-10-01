@@ -1,502 +1,341 @@
 {
- "success": true,
- "data": {
-  "name": "Pip",
-  "slug": "pip",
-  "language": [
-   "English"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Pip is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Shortened form of Philip",
-  "long_meaning": "The name Pip is recorded with the meaning “Shortened form of Philip”. Pip is a Biblical name meaning “Shortened form of Philip”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Pip expresses “Shortened form of Philip”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Pip is recorded with the meaning “Shortened form of Philip”. Pip is a Biblical name meaning “Shortened form of Philip”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "p-i-p",
-  "syllables": 1,
-  "name_length": 3,
-  "transliteration": [
-   "Pip"
-  ],
-  "lucky_number": 5,
-  "lucky_day": "Wednesday",
-  "lucky_colors": [
-   "Green",
-   "Turquoise"
-  ],
-  "lucky_stone": "Emerald",
-  "ruling_planet": "Mercury",
-  "life_path_number": 5,
-  "numerology_meaning": "In Pythagorean numerology the letters of Pip total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
-  "in_hebrew": {
-   "name": "פיפ",
-   "meaning": "מי שנוצר כדי לגדל",
-   "long_meaning": "פיפ (PiP) היא שמה של אדם שנוצר לגדל, הנבואה אומרת 'כי ה' הוא אלוהינו, הגדלנו' (מלאכי 2:10). השם יכול להתייחס לאדם שנוצר לגדל, ללמד, או להגנה. בבסיסו, השם קשור לרבי שמעון בר יוחאי, אבי המושבות, שהיה קרוב משפחה של המשיח. בצורתו הבסיסית, פיפ (PiP) הוא שם ספרדי, שפירושו 'פפירוס', שהיה שם של אדם שהייתה לו פפירוס של ברכות."
-  },
-  "in_greek": {
-   "name": "Πίπ",
-   "meaning": "ο μικρός",
-   "long_meaning": "Πίπ (Píp) είναι ένα μικρό όνομα, που σημαίνει 'ο μικρός' (1 Samuel 17:42). Η προέλευση του ονόματος Πίπ δεν είναι σαφής, αλλά πιστεύεται ότι προέρχεται από την Αϊτινή λέξη 'pipi', η οποία σημαίνει 'μαύρος' και χρησιμοποιείται επίσης για να περιγράψει έναν μικρό άνθρωπο. Στο εβραϊκό και αιγυπτιακό πολιτισμό, το όνομα Πίπ σχετίζεται με την προέλευση του εαυτού, την προέλευση του πνεύματος και την κίνηση."
-  },
-  "in_latin": {
-   "name": "Pip",
-   "meaning": "nomen parvum",
-   "long_meaning": "Pip est nomen parvum, quod significat 'minor' (1 Sam. 17:42). Origines nominis Pip non sunt clarae, sed putatur quod proveniat ex lingua Aethiopica 'pipi', quae significat 'niger' et utiur etiam ad describendum hominem parvum. In cultura Hebraica et Aegyptia, nomen Pip conectatur cum origine sui, origine animi, et motu."
-  },
-  "in_english": {
-   "name": "Pip",
-   "meaning": "Shortened form of Philip",
-   "long_meaning": "The name Pip is recorded with the meaning “Shortened form of Philip”. Pip is a Biblical name meaning “Shortened form of Philip”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "PIP",
-   "biblical": "/pɪp/",
-   "ipa": "/pɪp/"
-  },
-  "name_variations": [
-   "Pip"
-  ],
-  "variants": [
-   "Pip"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Pip is used in Biblical naming tradition with the meaning “Shortened form of Philip”.",
-  "spiritual_significance": "Any spiritual significance attached to Pip is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Shortened form of Philip” is the basis of any symbolism attached to Pip; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "note": "No direct biblical reference found"
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Pip."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#PipMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Pip"
-  ],
-  "monetization": {
-   "ad_placement": "Article body",
-   "ads": [
-    {
-     "type": "display",
-     "format": "rectangle",
-     "size": [
-      300,
-      250
-     ],
-     "position": "right"
-    },
-    {
-     "type": "native",
-     "format": "content_rectangle",
-     "title": "Related Names & Meanings",
-     "description": "Explore more unique and meaningful names for your baby.",
-     "cta": "Discover Now",
-     "image": "https://example.com/related-names-image.jpg"
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Pip Name Meaning – Shortened form of Philip (Biblical)",
-   "meta_description": "Pip is a Biblical name meaning “Shortened form of Philip”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Pip, Pip name meaning, Pip meaning, Pip origin, Pip root, Pip pronunciation, Biblical names",
-   "description_paragraph": "Pip is a Biblical name meaning “Shortened form of Philip”.",
-   "keywords": [
-    "Pip",
-    "Pip name meaning",
-    "Pip meaning",
-    "Pip origin",
-    "Pip root",
-    "Pip pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Pip name meaning",
-   "secondary_keywords": [
-    "Pip meaning",
-    "Pip origin",
-    "Pip pronunciation",
-    "Pip lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/pip",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Which culture uses the name Pip?",
-     "a": "Pip is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Pip have a positive meaning?",
-     "a": "Pip carries the meaning “Shortened form of Philip”."
-    },
-    {
-     "q": "What does the name Pip mean?",
-     "a": "Pip means “Shortened form of Philip”."
-    },
-    {
-     "q": "What is the origin of the name Pip?",
-     "a": "Pip is of Biblical origin."
-    },
-    {
-     "q": "Is Pip a unisex name?",
-     "a": "Pip is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Pip have?",
-     "a": "Pip has 1 syllable."
-    },
-    {
-     "q": "How is Pip pronounced?",
-     "a": "Pip is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Pip?",
-     "a": "Any spiritual significance attached to Pip is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Pip?",
-     "a": "Variant spellings of Pip are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Pip a common name?",
-     "a": "Popularity figures for Pip have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Pip say about a child?",
-     "a": "The name Pip expresses “Shortened form of Philip”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Pip be used in another language?",
-     "a": "Pip is recorded in Biblical; its script forms in other languages are given in the translations field."
-    }
-   ]
-  },
-  "seo_title": "Pip Name Meaning – Shortened form of Philip (Biblical)",
-  "meta_description": "Pip is a Biblical name meaning “Shortened form of Philip”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Pip",
-   "Pip name meaning",
-   "Pip meaning",
-   "Pip origin",
-   "Pip root",
-   "Pip pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/pip",
-  "intro_paragraph": "Pip is a Biblical name meaning “Shortened form of Philip”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Pip",
-   "description": "Pip — Shortened form of Philip",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Pip?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pip is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Pip have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pip carries the meaning “Shortened form of Philip”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Pip mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pip means “Shortened form of Philip”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Pip?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pip is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Pip a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pip is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Pip have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pip has 1 syllable."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Pip pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pip is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Pip?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Pip is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Pip?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Pip are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Pip a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Pip have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Pip say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Pip expresses “Shortened form of Philip”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Pip be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pip is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Pip",
-     "item": "https://namemeaning.example/name/pip"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 56,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Pip",
-   "slug": "pip",
-   "meaning": "Shortened form of Philip",
-   "origin": "Biblical",
-   "language": [
-    "English"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Pip",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Shortened form of Philip",
-   "long_meaning": "The name Pip is recorded with the meaning “Shortened form of Philip”. Pip is a Biblical name meaning “Shortened form of Philip”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Pip",
-     "meaning": "Shortened form of Philip",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "PIP",
-    "ipa": "/pɪp/"
-   },
-   "syllables": 1,
-   "name_length": 3,
-   "faqs": [
-    {
-     "q": "Which culture uses the name Pip?",
-     "a": "Pip is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Pip have a positive meaning?",
-     "a": "Pip carries the meaning “Shortened form of Philip”."
-    },
-    {
-     "q": "What does the name Pip mean?",
-     "a": "Pip means “Shortened form of Philip”."
-    },
-    {
-     "q": "What is the origin of the name Pip?",
-     "a": "Pip is of Biblical origin."
-    },
-    {
-     "q": "Is Pip a unisex name?",
-     "a": "Pip is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Pip have?",
-     "a": "Pip has 1 syllable."
-    },
-    {
-     "q": "How is Pip pronounced?",
-     "a": "Pip is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Pip?",
-     "a": "Any spiritual significance attached to Pip is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Pip?",
-     "a": "Variant spellings of Pip are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Pip a common name?",
-     "a": "Popularity figures for Pip have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Pip say about a child?",
-     "a": "The name Pip expresses “Shortened form of Philip”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Pip be used in another language?",
-     "a": "Pip is recorded in Biblical; its script forms in other languages are given in the translations field."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 5,
-    "life_path_number": 5,
-    "ruling_planet": "Mercury",
-    "lucky_day": "Wednesday",
-    "lucky_stone": "Emerald",
-    "lucky_colors": [
-     "Green",
-     "Turquoise"
+  "success": true,
+  "data": {
+    "name": "Pip",
+    "slug": "pip",
+    "language": [
+      "English"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Pip total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Pip is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Shortened form of Philip",
+    "long_meaning": "The meaning of Pip is recorded in name-lists as “Shortened form of Philip”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Pip expresses “Shortened form of Philip”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "p-i-p",
+    "syllables": 1,
+    "name_length": 3,
+    "transliteration": [
+      "Pip"
+    ],
+    "lucky_number": 5,
+    "lucky_day": "Wednesday",
+    "lucky_colors": [
+      "Green",
+      "Turquoise"
+    ],
+    "lucky_stone": "Emerald",
+    "ruling_planet": "Mercury",
+    "life_path_number": 5,
+    "numerology_meaning": "In Pythagorean numerology the letters of Pip total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity.",
+    "in_hebrew": {
+      "name": "פיפ",
+      "meaning": "מי שנוצר כדי לגדל",
+      "long_meaning": "פיפ (PiP) היא שמה של אדם שנוצר לגדל, הנבואה אומרת 'כי ה' הוא אלוהינו, הגדלנו' (מלאכי 2:10). השם יכול להתייחס לאדם שנוצר לגדל, ללמד, או להגנה. בבסיסו, השם קשור לרבי שמעון בר יוחאי, אבי המושבות, שהיה קרוב משפחה של המשיח. בצורתו הבסיסית, פיפ (PiP) הוא שם ספרדי, שפירושו 'פפירוס', שהיה שם של אדם שהייתה לו פפירוס של ברכות."
+    },
+    "in_greek": {
+      "name": "Πίπ",
+      "meaning": "ο μικρός",
+      "long_meaning": "Πίπ (Píp) είναι ένα μικρό όνομα, που σημαίνει 'ο μικρός' (1 Samuel 17:42). Η προέλευση του ονόματος Πίπ δεν είναι σαφής, αλλά πιστεύεται ότι προέρχεται από την Αϊτινή λέξη 'pipi', η οποία σημαίνει 'μαύρος' και χρησιμοποιείται επίσης για να περιγράψει έναν μικρό άνθρωπο. Στο εβραϊκό και αιγυπτιακό πολιτισμό, το όνομα Πίπ σχετίζεται με την προέλευση του εαυτού, την προέλευση του πνεύματος και την κίνηση."
+    },
+    "in_latin": {
+      "name": "Pip",
+      "meaning": "nomen parvum",
+      "long_meaning": "Pip est nomen parvum, quod significat 'minor' (1 Sam. 17:42). Origines nominis Pip non sunt clarae, sed putatur quod proveniat ex lingua Aethiopica 'pipi', quae significat 'niger' et utiur etiam ad describendum hominem parvum. In cultura Hebraica et Aegyptia, nomen Pip conectatur cum origine sui, origine animi, et motu."
+    },
+    "in_english": {
+      "name": "Pip",
+      "meaning": "Shortened form of Philip",
+      "long_meaning": "Shortened form of Philip"
+    },
+    "pronunciation": {
+      "english": "PIP",
+      "biblical": "/pɪp/",
+      "ipa": "/pɪp/"
+    },
+    "name_variations": [
+      "Pip"
+    ],
+    "variants": [
+      "Pip"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Pip is used in Biblical naming tradition with the meaning “Shortened form of Philip”.",
+    "spiritual_significance": "Any spiritual significance attached to Pip is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Shortened form of Philip” is the basis of any symbolism attached to Pip; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "note": "No direct biblical reference found"
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Pip."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#PipMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Pip"
+    ],
+    "monetization": {
+      "ad_placement": "Article body",
+      "ads": [
+        {
+          "type": "display",
+          "format": "rectangle",
+          "size": [
+            300,
+            250
+          ],
+          "position": "right"
+        },
+        {
+          "type": "native",
+          "format": "content_rectangle",
+          "title": "Related Names & Meanings",
+          "description": "Explore more unique and meaningful names for your baby.",
+          "cta": "Discover Now",
+          "image": "https://example.com/related-names-image.jpg"
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Pip Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Pip has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Pip, Pip name meaning, Pip meaning, Pip origin, Pip root, Pip pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Pip has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Pip",
+        "Pip name meaning",
+        "Pip meaning",
+        "Pip origin",
+        "Pip root",
+        "Pip pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Pip name meaning",
+      "secondary_keywords": [
+        "Pip meaning",
+        "Pip origin",
+        "Pip pronunciation",
+        "Pip lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Pip mean?",
+          "a": "Name-lists record the meaning as “Shortened form of Philip”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Pip verified?",
+          "a": "No. The meaning of Pip could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Pip come from?",
+          "a": "The origin of Pip has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Pip Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Pip has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Pip",
+      "Pip name meaning",
+      "Pip meaning",
+      "Pip origin",
+      "Pip root",
+      "Pip pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Pip has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Pip",
+      "description": "Pip — Shortened form of Philip",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Pip mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Shortened form of Philip”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Pip verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Pip could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Pip come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Pip has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 56,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:28:17.000Z",
+    "tier1_verified": {
+      "name": "Pip",
+      "slug": "pip",
+      "meaning": "Shortened form of Philip",
+      "origin": "Biblical",
+      "language": [
+        "English"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Pip",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Shortened form of Philip",
+      "long_meaning": "The name Pip is recorded with the meaning “Shortened form of Philip”. Pip is a Biblical name meaning “Shortened form of Philip”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Pip",
+          "meaning": "Shortened form of Philip",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "PIP",
+        "ipa": "/pɪp/"
+      },
+      "syllables": 1,
+      "name_length": 3,
+      "faqs": [
+        {
+          "q": "What does the name Pip mean?",
+          "a": "Name-lists record the meaning as “Shortened form of Philip”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Pip verified?",
+          "a": "No. The meaning of Pip could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Pip come from?",
+          "a": "The origin of Pip has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 5,
+        "life_path_number": 5,
+        "ruling_planet": "Mercury",
+        "lucky_day": "Wednesday",
+        "lucky_stone": "Emerald",
+        "lucky_colors": [
+          "Green",
+          "Turquoise"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Pip total 23, reducing to 5. Number 5 is associated with freedom, adaptability and curiosity."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:28:17.000Z"
+    }
   }
- }
 }

@@ -1,547 +1,386 @@
 {
- "success": true,
- "data": {
-  "name": "Aayat",
-  "slug": "aayat",
-  "language": [
-   "Arabic",
-   "Urdu",
-   "Persian"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Aayat is used as a unisex name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Signs or Evidences",
-  "long_meaning": "The name Aayat is recorded with the meaning “Signs or Evidences”. Aayat is a Arabic name meaning “Signs or Evidences”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Aayat expresses “Signs or Evidences”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Aayat is recorded with the meaning “Signs or Evidences”. Aayat is a Arabic name meaning “Signs or Evidences”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-a-y-a-t",
-  "syllables": 1,
-  "name_length": 5,
-  "transliteration": [
-   "Aayat"
-  ],
-  "lucky_number": 3,
-  "lucky_day": "Thursday",
-  "lucky_colors": [
-   "Yellow",
-   "Gold"
-  ],
-  "lucky_stone": "Yellow Sapphire",
-  "ruling_planet": "Jupiter",
-  "life_path_number": 3,
-  "numerology_meaning": "In Pythagorean numerology the letters of Aayat total 12, reducing to 3. Number 3 is associated with expression, creativity and optimism.",
-  "in_arabic": {
-   "name": "آية",
-   "meaning": "علامت، چھپا ہوا معجزہ، خدا کی قدرت کی نشانی",
-   "long_meaning": "آية کا مطلب ہے علامت یا نشانی، جو خاص طور پر قرآن مجید کے حوالے سے استعمال ہوتا ہے۔ یہ نام اسلامی تقویم میں اہمیت رکھتا ہے کیونکہ آیت اللہ کی قدرت اور معجزات کی نشانی ہوتی ہے۔"
-  },
-  "in_urdu": {
-   "name": "آیت",
-   "meaning": "علامت، نشانی، وحی الٰہی کی نشانی",
-   "long_meaning": "آیت نام کا مطلب ہے علامت یا نشانی، جو قرآن مجید کی آیات کے حوالے سے استعمال ہوتا ہے۔ یہ نام اسلامی ثقافت میں بہت اہمیت رکھتا ہے کیونکہ یہ اللہ کی وحی اور معجزات کی نشاندہی کرتا ہے۔"
-  },
-  "in_hindi": {
-   "name": "आयत",
-   "meaning": "ईश्वर की शक्ति का प्रतीक, निशानी, चमत्कार",
-   "long_meaning": "आयत नाम का अर्थ है ईश्वर की शक्ति का प्रतीक या निशानी। यह नाम इस्लामी परंपरा में बहुत महत्वपूर्ण है क्योंकि यह कुरआन की आयतों को दर्शाता है, जो अल्लाह की शक्ति और चमत्कारों की निशानी होती हैं।"
-  },
-  "in_pashto": {
-   "name": "آیت",
-   "meaning": "د خدای د قدرت نښه، علامت، وحي",
-   "long_meaning": "آیت نوم د معنی دی د خدای د قدرت نښه یا علامت. دا نوم د اسلامي کلتور په منځ کې ډير اهميت لري ځکه چې دا د قرآن کريم آياتو ته اشاره کوي، کوم چې د خدای د وحي او قدرت نښې دي."
-  },
-  "in_english": {
-   "name": "Aayat",
-   "meaning": "Signs or Evidences",
-   "long_meaning": "The name Aayat is recorded with the meaning “Signs or Evidences”. Aayat is a Arabic name meaning “Signs or Evidences”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "ah-YAT",
-   "urdu": "آیت کا تلفظ: اے-یا-ت",
-   "hindi": "आयत का उच्चारण: आ-यत",
-   "pashto": "آیت د تلفظ: آ-ی-ت",
-   "ipa": "/ˈɑː.jæt/"
-  },
-  "name_variations": [
-   "Aayat"
-  ],
-  "variants": [
-   "Aayat"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Aayat is used in Arabic naming tradition with the meaning “Signs or Evidences”.",
-  "spiritual_significance": "Any spiritual significance attached to Aayat is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Signs or Evidences” is the basis of any symbolism attached to Aayat; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Aayat has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Aayat."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AayatMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Aayat"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Aayat",
-     "description": "Discover the meaning of Aayat - \"Signs or Evidences\"",
-     "image": "/images/social/aayat-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Aayat - Name Meaning",
-     "description": "Learn about the beautiful name Aayat",
-     "image": "/images/social/aayat-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Aayat",
-     "description": "Name meaning: Signs or Evidences",
-     "image": "/images/social/aayat-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Aayat - Meaning: Signs or Evidences",
-    "email_subject": "Beautiful Name: Aayat"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Aayat with meaning Signs or Evidences",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Aayat Name Meaning – Signs or Evidences (Arabic)",
-   "meta_description": "Aayat is a Arabic name meaning “Signs or Evidences”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Aayat, Aayat name meaning, Aayat meaning, Aayat origin, Aayat root, Aayat pronunciation, Arabic names",
-   "description_paragraph": "Aayat is a Arabic name meaning “Signs or Evidences”.",
-   "keywords": [
-    "Aayat",
-    "Aayat name meaning",
-    "Aayat meaning",
-    "Aayat origin",
-    "Aayat root",
-    "Aayat pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Aayat name meaning",
-   "secondary_keywords": [
-    "Aayat meaning",
-    "Aayat origin",
-    "Aayat pronunciation",
-    "Aayat lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/aayat",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the lucky number for Aayat?",
-     "a": "The Pythagorean lucky number for Aayat is 3 (ruling planet Jupiter). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Aayat?",
-     "a": "Thursday is the traditional association for Aayat. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Aayat?",
-     "a": "Yellow Sapphire is the traditional association for Aayat. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Aayat?",
-     "a": "Yellow, Gold are the traditional associations for Aayat. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Aayat?",
-     "a": "In Pythagorean numerology the letters of Aayat total 12, reducing to 3. Number 3 is associated with expression, creativity and optimism."
-    },
-    {
-     "q": "How reliable is the meaning given for Aayat?",
-     "a": "The meaning of Aayat carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Aayat have a religious meaning?",
-     "a": "Aayat is recorded as a islamic name meaning “Signs or Evidences”."
-    },
-    {
-     "q": "What is the English meaning of Aayat?",
-     "a": "In English, Aayat is rendered as “Signs or Evidences”."
-    },
-    {
-     "q": "Is Aayat suitable for a baby?",
-     "a": "Aayat is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Aayat?",
-     "a": "Aayat is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Aayat?",
-     "a": "Aayat is used in Arabic naming traditions."
-    },
-    {
-     "q": "Does Aayat have a positive meaning?",
-     "a": "Aayat carries the meaning “Signs or Evidences”."
-    }
-   ]
-  },
-  "seo_title": "Aayat Name Meaning – Signs or Evidences (Arabic)",
-  "meta_description": "Aayat is a Arabic name meaning “Signs or Evidences”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Aayat",
-   "Aayat name meaning",
-   "Aayat meaning",
-   "Aayat origin",
-   "Aayat root",
-   "Aayat pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/aayat",
-  "intro_paragraph": "Aayat is a Arabic name meaning “Signs or Evidences”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Aayat",
-   "description": "Aayat — Signs or Evidences",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Aayat?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Aayat is 3 (ruling planet Jupiter). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Aayat?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Thursday is the traditional association for Aayat. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Aayat?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Yellow Sapphire is the traditional association for Aayat. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Aayat?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Yellow, Gold are the traditional associations for Aayat. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Aayat?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Aayat total 12, reducing to 3. Number 3 is associated with expression, creativity and optimism."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Aayat?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Aayat carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Aayat have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aayat is recorded as a islamic name meaning “Signs or Evidences”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Aayat?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Aayat is rendered as “Signs or Evidences”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aayat suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aayat is used as a unisex given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Aayat?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aayat is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Aayat?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aayat is used in Arabic naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Aayat have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aayat carries the meaning “Signs or Evidences”."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Aayat",
-     "item": "https://namemeaning.example/name/aayat"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-12-22T19:19:49.846Z",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Aayat",
-   "slug": "aayat",
-   "meaning": "Signs or Evidences",
-   "origin": "Arabic",
-   "language": [
-    "Arabic",
-    "Urdu",
-    "Persian"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Aayat",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Signs or Evidences",
-   "long_meaning": "The name Aayat is recorded with the meaning “Signs or Evidences”. Aayat is a Arabic name meaning “Signs or Evidences”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Aayat",
-     "meaning": "Signs or Evidences",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "ah-YAT",
-    "ipa": "/ˈɑː.jæt/"
-   },
-   "syllables": 1,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "What is the lucky number for Aayat?",
-     "a": "The Pythagorean lucky number for Aayat is 3 (ruling planet Jupiter). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Aayat?",
-     "a": "Thursday is the traditional association for Aayat. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Aayat?",
-     "a": "Yellow Sapphire is the traditional association for Aayat. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Aayat?",
-     "a": "Yellow, Gold are the traditional associations for Aayat. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Aayat?",
-     "a": "In Pythagorean numerology the letters of Aayat total 12, reducing to 3. Number 3 is associated with expression, creativity and optimism."
-    },
-    {
-     "q": "How reliable is the meaning given for Aayat?",
-     "a": "The meaning of Aayat carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Aayat have a religious meaning?",
-     "a": "Aayat is recorded as a islamic name meaning “Signs or Evidences”."
-    },
-    {
-     "q": "What is the English meaning of Aayat?",
-     "a": "In English, Aayat is rendered as “Signs or Evidences”."
-    },
-    {
-     "q": "Is Aayat suitable for a baby?",
-     "a": "Aayat is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Aayat?",
-     "a": "Aayat is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Aayat?",
-     "a": "Aayat is used in Arabic naming traditions."
-    },
-    {
-     "q": "Does Aayat have a positive meaning?",
-     "a": "Aayat carries the meaning “Signs or Evidences”."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 3,
-    "life_path_number": 3,
-    "ruling_planet": "Jupiter",
-    "lucky_day": "Thursday",
-    "lucky_stone": "Yellow Sapphire",
-    "lucky_colors": [
-     "Yellow",
-     "Gold"
+  "success": true,
+  "data": {
+    "name": "Aayat",
+    "slug": "aayat",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Aayat total 12, reducing to 3. Number 3 is associated with expression, creativity and optimism."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Aayat is used as a unisex name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Signs or Evidences",
+    "long_meaning": "The meaning of Aayat is recorded in name-lists as “Signs or Evidences”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Aayat expresses “Signs or Evidences”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Arabic",
+    "root_letters": "a-a-y-a-t",
+    "syllables": 1,
+    "name_length": 5,
+    "transliteration": [
+      "Aayat"
+    ],
+    "lucky_number": 3,
+    "lucky_day": "Thursday",
+    "lucky_colors": [
+      "Yellow",
+      "Gold"
+    ],
+    "lucky_stone": "Yellow Sapphire",
+    "ruling_planet": "Jupiter",
+    "life_path_number": 3,
+    "numerology_meaning": "In Pythagorean numerology the letters of Aayat total 12, reducing to 3. Number 3 is associated with expression, creativity and optimism.",
+    "in_arabic": {
+      "name": "آية",
+      "meaning": "Signs or Evidences",
+      "long_meaning": "Signs or Evidences"
+    },
+    "in_urdu": {
+      "name": "آیت",
+      "meaning": "Signs or Evidences",
+      "long_meaning": "Signs or Evidences"
+    },
+    "in_hindi": {
+      "name": "आयत",
+      "meaning": "Signs or Evidences",
+      "long_meaning": "Signs or Evidences"
+    },
+    "in_pashto": {
+      "name": "آیت",
+      "meaning": "Signs or Evidences",
+      "long_meaning": "Signs or Evidences"
+    },
+    "in_english": {
+      "name": "Aayat",
+      "meaning": "Signs or Evidences",
+      "long_meaning": "Signs or Evidences"
+    },
+    "pronunciation": {
+      "english": "ah-YAT",
+      "urdu": "آیت کا تلفظ: اے-یا-ت",
+      "hindi": "आयत का उच्चारण: आ-यत",
+      "pashto": "آیت د تلفظ: آ-ی-ت",
+      "ipa": "/ˈɑː.jæt/"
+    },
+    "name_variations": [
+      "Aayat"
+    ],
+    "variants": [
+      "Aayat"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Aayat is used in Arabic naming tradition with the meaning “Signs or Evidences”.",
+    "spiritual_significance": "Any spiritual significance attached to Aayat is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Signs or Evidences” is the basis of any symbolism attached to Aayat; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "No Qur'anic reference for Aayat has been verified."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Aayat."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AayatMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Aayat"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Aayat",
+          "description": "Discover the meaning of Aayat - \"Signs or Evidences\"",
+          "image": "/images/social/aayat-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Aayat - Name Meaning",
+          "description": "Learn about the beautiful name Aayat",
+          "image": "/images/social/aayat-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Aayat",
+          "description": "Name meaning: Signs or Evidences",
+          "image": "/images/social/aayat-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Aayat - Meaning: Signs or Evidences",
+        "email_subject": "Beautiful Name: Aayat"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Aayat with meaning Signs or Evidences",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Aayat Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Aayat has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Aayat, Aayat name meaning, Aayat meaning, Aayat origin, Aayat root, Aayat pronunciation, Arabic names",
+      "description_paragraph": "The meaning of Aayat has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Aayat",
+        "Aayat name meaning",
+        "Aayat meaning",
+        "Aayat origin",
+        "Aayat root",
+        "Aayat pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Aayat name meaning",
+      "secondary_keywords": [
+        "Aayat meaning",
+        "Aayat origin",
+        "Aayat pronunciation",
+        "Aayat lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Aayat mean?",
+          "a": "Name-lists record the meaning as “Signs or Evidences”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Aayat verified?",
+          "a": "No. The meaning of Aayat could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Aayat come from?",
+          "a": "The origin of Aayat has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Aayat Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Aayat has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Aayat",
+      "Aayat name meaning",
+      "Aayat meaning",
+      "Aayat origin",
+      "Aayat root",
+      "Aayat pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Aayat has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Aayat",
+      "description": "Aayat — Signs or Evidences",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Aayat mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Signs or Evidences”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Aayat verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Aayat could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Aayat come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Aayat has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 70
+    },
+    "created_at": "2025-12-22T19:19:49.846Z",
+    "updated_at": "2026-10-01T04:04:19.000Z",
+    "tier1_verified": {
+      "name": "Aayat",
+      "slug": "aayat",
+      "meaning": "Signs or Evidences",
+      "origin": "Arabic",
+      "language": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Aayat",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Signs or Evidences",
+      "long_meaning": "The name Aayat is recorded with the meaning “Signs or Evidences”. Aayat is a Arabic name meaning “Signs or Evidences”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Aayat",
+          "meaning": "Signs or Evidences",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "ah-YAT",
+        "ipa": "/ˈɑː.jæt/"
+      },
+      "syllables": 1,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Aayat mean?",
+          "a": "Name-lists record the meaning as “Signs or Evidences”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Aayat verified?",
+          "a": "No. The meaning of Aayat could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Aayat come from?",
+          "a": "The origin of Aayat has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 3,
+        "life_path_number": 3,
+        "ruling_planet": "Jupiter",
+        "lucky_day": "Thursday",
+        "lucky_stone": "Yellow Sapphire",
+        "lucky_colors": [
+          "Yellow",
+          "Gold"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Aayat total 12, reducing to 3. Number 3 is associated with expression, creativity and optimism."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:19.000Z"
+    }
   }
- }
 }

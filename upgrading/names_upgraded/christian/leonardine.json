@@ -1,512 +1,351 @@
 {
- "success": true,
- "data": {
-  "name": "Leonardine",
-  "slug": "leonardine",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Leonardine is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Brave lion",
-  "long_meaning": "The name Leonardine is recorded with the meaning “Brave lion”. Leonardine is a Biblical name meaning “Brave lion”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Leonardine expresses “Brave lion”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Leonardine is recorded with the meaning “Brave lion”. Leonardine is a Biblical name meaning “Brave lion”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "l-e-o-n-a-r-d-i-n-e",
-  "syllables": 3,
-  "name_length": 10,
-  "transliteration": [
-   "Leonardine"
-  ],
-  "lucky_number": 7,
-  "lucky_day": "Tuesday",
-  "lucky_colors": [
-   "Grey",
-   "Smoke"
-  ],
-  "lucky_stone": "Cat's Eye",
-  "ruling_planet": "Ketu",
-  "life_path_number": 7,
-  "numerology_meaning": "In Pythagorean numerology the letters of Leonardine total 52, reducing to 7. Number 7 is associated with reflection, analysis and inner search.",
-  "in_hebrew": {
-   "name": "לאונרדין",
-   "meaning": "לאונרדין משמעו לב של אריה ברזיליא",
-   "long_meaning": "לאונרדין הוא שם נוצרי שמורכב משני שמות עבריים: לאו ו נרדיין. לאו משמעו לב או אריה, ונרדיין הוא שם שמשמעו ברזיליא או נזר. השם לאונרדין משמעו אפוא לב של אריה ברזיליא, ומתאר אדם בעל לב חזק ואמיץ."
-  },
-  "in_greek": {
-   "name": "Λεοναρδίνη",
-   "meaning": "Λεοναρδίνη σημαίνει καρδιά λιονταρίσια",
-   "long_meaning": "Λεοναρδίνη είναι ένα χριστιανικό όνομα που προέρχεται από δύο ελληνικές λέξεις: λεων (λιοντάρι) και καρδιά (κάρδια). Το όνομα Λεοναρδίνη σημαίνει καρδιά λιονταρίσια, δηλαδή καρδιά δυνατή και γενναία."
-  },
-  "in_latin": {
-   "name": "Leonardine",
-   "meaning": "Leonardine significat cor leonis robustum",
-   "long_meaning": "Leonardine est nomen christianum quod componitur ex duobus nominibus: leo et cordis. Leo significat leonem seu cor robustum, et cordis significat cordis. Nomen Leonardine significat cor leonis robustum, seu cor forti et animosum."
-  },
-  "in_english": {
-   "name": "Leonardine",
-   "meaning": "Brave lion",
-   "long_meaning": "The name Leonardine is recorded with the meaning “Brave lion”. Leonardine is a Biblical name meaning “Brave lion”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "lee-oh-nar-DEEN",
-   "ipa": "/liːoʊnɑːrˈdiːn/"
-  },
-  "name_variations": [
-   "Leonardine"
-  ],
-  "variants": [
-   "Leonardine"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Leonardine is used in Biblical naming tradition with the meaning “Brave lion”.",
-  "spiritual_significance": "Any spiritual significance attached to Leonardine is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Brave lion” is the basis of any symbolism attached to Leonardine; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Leonardine."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#LeonardineMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Leonardine"
-  ],
-  "monetization": {
-   "google_adsense": {
-    "publisher_id": "pub-1234567890123456",
-    "ads_layout": [
-     "in_article",
-     "in_article_sidebar"
+  "success": true,
+  "data": {
+    "name": "Leonardine",
+    "slug": "leonardine",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
     ],
-    "ad_types": [
-     "text_ads",
-     "display_ads"
-    ]
-   },
-   "affiliate_links": [
-    {
-     "name": "BabyClothes",
-     "url": "https://example.com/baby-clothes/leonardine",
-     "commission": 0.1
-    },
-    {
-     "name": "BabyGifts",
-     "url": "https://example.com/baby-gifts/leonardine",
-     "commission": 0.15
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Leonardine Name Meaning – Brave lion (Biblical)",
-   "meta_description": "Leonardine is a Biblical name meaning “Brave lion”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Leonardine, Leonardine name meaning, Leonardine meaning, Leonardine origin, Leonardine root, Leonardine pronunciation, Biblical names",
-   "description_paragraph": "Leonardine is a Biblical name meaning “Brave lion”.",
-   "keywords": [
-    "Leonardine",
-    "Leonardine name meaning",
-    "Leonardine meaning",
-    "Leonardine origin",
-    "Leonardine root",
-    "Leonardine pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Leonardine name meaning",
-   "secondary_keywords": [
-    "Leonardine meaning",
-    "Leonardine origin",
-    "Leonardine pronunciation",
-    "Leonardine lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/leonardine",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Does Leonardine have a positive meaning?",
-     "a": "Leonardine carries the meaning “Brave lion”."
-    },
-    {
-     "q": "What does the name Leonardine mean?",
-     "a": "Leonardine means “Brave lion”."
-    },
-    {
-     "q": "What is the origin of the name Leonardine?",
-     "a": "Leonardine is of Biblical origin."
-    },
-    {
-     "q": "Is Leonardine a unisex name?",
-     "a": "Leonardine is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Leonardine have?",
-     "a": "Leonardine has 3 syllables."
-    },
-    {
-     "q": "How is Leonardine pronounced?",
-     "a": "Leonardine is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Leonardine?",
-     "a": "Any spiritual significance attached to Leonardine is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Leonardine?",
-     "a": "Variant spellings of Leonardine are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Leonardine a common name?",
-     "a": "Popularity figures for Leonardine have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Leonardine say about a child?",
-     "a": "The name Leonardine expresses “Brave lion”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Leonardine be used in another language?",
-     "a": "Leonardine is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Leonardine mentioned in scripture?",
-     "a": "No scriptural reference for Leonardine has been verified; the record is flagged for source verification."
-    }
-   ]
-  },
-  "seo_title": "Leonardine Name Meaning – Brave lion (Biblical)",
-  "meta_description": "Leonardine is a Biblical name meaning “Brave lion”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Leonardine",
-   "Leonardine name meaning",
-   "Leonardine meaning",
-   "Leonardine origin",
-   "Leonardine root",
-   "Leonardine pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/leonardine",
-  "intro_paragraph": "Leonardine is a Biblical name meaning “Brave lion”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Leonardine",
-   "description": "Leonardine — Brave lion",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Does Leonardine have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Leonardine carries the meaning “Brave lion”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Leonardine mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Leonardine means “Brave lion”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Leonardine?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Leonardine is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Leonardine a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Leonardine is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Leonardine have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Leonardine has 3 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Leonardine pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Leonardine is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Leonardine?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Leonardine is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Leonardine?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Leonardine are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Leonardine a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Leonardine have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Leonardine say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Leonardine expresses “Brave lion”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Leonardine be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Leonardine is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Leonardine mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Leonardine has been verified; the record is flagged for source verification."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Leonardine",
-     "item": "https://namemeaning.example/name/leonardine"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Leonardine",
-   "slug": "leonardine",
-   "meaning": "Brave lion",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Leonardine",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Brave lion",
-   "long_meaning": "The name Leonardine is recorded with the meaning “Brave lion”. Leonardine is a Biblical name meaning “Brave lion”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Leonardine",
-     "meaning": "Brave lion",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "lee-oh-nar-DEEN",
-    "ipa": "/liːoʊnɑːrˈdiːn/"
-   },
-   "syllables": 3,
-   "name_length": 10,
-   "faqs": [
-    {
-     "q": "Does Leonardine have a positive meaning?",
-     "a": "Leonardine carries the meaning “Brave lion”."
-    },
-    {
-     "q": "What does the name Leonardine mean?",
-     "a": "Leonardine means “Brave lion”."
-    },
-    {
-     "q": "What is the origin of the name Leonardine?",
-     "a": "Leonardine is of Biblical origin."
-    },
-    {
-     "q": "Is Leonardine a unisex name?",
-     "a": "Leonardine is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Leonardine have?",
-     "a": "Leonardine has 3 syllables."
-    },
-    {
-     "q": "How is Leonardine pronounced?",
-     "a": "Leonardine is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Leonardine?",
-     "a": "Any spiritual significance attached to Leonardine is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Leonardine?",
-     "a": "Variant spellings of Leonardine are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Leonardine a common name?",
-     "a": "Popularity figures for Leonardine have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Leonardine say about a child?",
-     "a": "The name Leonardine expresses “Brave lion”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Leonardine be used in another language?",
-     "a": "Leonardine is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Leonardine mentioned in scripture?",
-     "a": "No scriptural reference for Leonardine has been verified; the record is flagged for source verification."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
+    "gender": "Unisex",
+    "gender_notes": "Leonardine is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Brave lion",
+    "long_meaning": "The meaning of Leonardine is recorded in name-lists as “Brave lion”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Leonardine expresses “Brave lion”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "l-e-o-n-a-r-d-i-n-e",
+    "syllables": 3,
+    "name_length": 10,
+    "transliteration": [
+      "Leonardine"
+    ],
     "lucky_number": 7,
-    "life_path_number": 7,
-    "ruling_planet": "Ketu",
     "lucky_day": "Tuesday",
-    "lucky_stone": "Cat's Eye",
     "lucky_colors": [
-     "Grey",
-     "Smoke"
+      "Grey",
+      "Smoke"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Leonardine total 52, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "lucky_stone": "Cat's Eye",
+    "ruling_planet": "Ketu",
+    "life_path_number": 7,
+    "numerology_meaning": "In Pythagorean numerology the letters of Leonardine total 52, reducing to 7. Number 7 is associated with reflection, analysis and inner search.",
+    "in_hebrew": {
+      "name": "לאונרדין",
+      "meaning": "לאונרדין משמעו לב של אריה ברזיליא",
+      "long_meaning": "לאונרדין הוא שם נוצרי שמורכב משני שמות עבריים: לאו ו נרדיין. לאו משמעו לב או אריה, ונרדיין הוא שם שמשמעו ברזיליא או נזר. השם לאונרדין משמעו אפוא לב של אריה ברזיליא, ומתאר אדם בעל לב חזק ואמיץ."
+    },
+    "in_greek": {
+      "name": "Λεοναρδίνη",
+      "meaning": "Λεοναρδίνη σημαίνει καρδιά λιονταρίσια",
+      "long_meaning": "Λεοναρδίνη είναι ένα χριστιανικό όνομα που προέρχεται από δύο ελληνικές λέξεις: λεων (λιοντάρι) και καρδιά (κάρδια). Το όνομα Λεοναρδίνη σημαίνει καρδιά λιονταρίσια, δηλαδή καρδιά δυνατή και γενναία."
+    },
+    "in_latin": {
+      "name": "Leonardine",
+      "meaning": "Leonardine significat cor leonis robustum",
+      "long_meaning": "Leonardine est nomen christianum quod componitur ex duobus nominibus: leo et cordis. Leo significat leonem seu cor robustum, et cordis significat cordis. Nomen Leonardine significat cor leonis robustum, seu cor forti et animosum."
+    },
+    "in_english": {
+      "name": "Leonardine",
+      "meaning": "Brave lion",
+      "long_meaning": "Brave lion"
+    },
+    "pronunciation": {
+      "english": "lee-oh-nar-DEEN",
+      "ipa": "/liːoʊnɑːrˈdiːn/"
+    },
+    "name_variations": [
+      "Leonardine"
+    ],
+    "variants": [
+      "Leonardine"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Leonardine is used in Biblical naming tradition with the meaning “Brave lion”.",
+    "spiritual_significance": "Any spiritual significance attached to Leonardine is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Brave lion” is the basis of any symbolism attached to Leonardine; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Leonardine."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#LeonardineMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Leonardine"
+    ],
+    "monetization": {
+      "google_adsense": {
+        "publisher_id": "pub-1234567890123456",
+        "ads_layout": [
+          "in_article",
+          "in_article_sidebar"
+        ],
+        "ad_types": [
+          "text_ads",
+          "display_ads"
+        ]
+      },
+      "affiliate_links": [
+        {
+          "name": "BabyClothes",
+          "url": "https://example.com/baby-clothes/leonardine",
+          "commission": 0.1
+        },
+        {
+          "name": "BabyGifts",
+          "url": "https://example.com/baby-gifts/leonardine",
+          "commission": 0.15
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Leonardine Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Leonardine has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Leonardine, Leonardine name meaning, Leonardine meaning, Leonardine origin, Leonardine root, Leonardine pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Leonardine has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Leonardine",
+        "Leonardine name meaning",
+        "Leonardine meaning",
+        "Leonardine origin",
+        "Leonardine root",
+        "Leonardine pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Leonardine name meaning",
+      "secondary_keywords": [
+        "Leonardine meaning",
+        "Leonardine origin",
+        "Leonardine pronunciation",
+        "Leonardine lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Leonardine mean?",
+          "a": "Name-lists record the meaning as “Brave lion”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Leonardine verified?",
+          "a": "No. The meaning of Leonardine could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Leonardine come from?",
+          "a": "The origin of Leonardine has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Leonardine Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Leonardine has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Leonardine",
+      "Leonardine name meaning",
+      "Leonardine meaning",
+      "Leonardine origin",
+      "Leonardine root",
+      "Leonardine pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Leonardine has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Leonardine",
+      "description": "Leonardine — Brave lion",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Leonardine mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Brave lion”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Leonardine verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Leonardine could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Leonardine come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Leonardine has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:20:39.000Z",
+    "tier1_verified": {
+      "name": "Leonardine",
+      "slug": "leonardine",
+      "meaning": "Brave lion",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Leonardine",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Brave lion",
+      "long_meaning": "The name Leonardine is recorded with the meaning “Brave lion”. Leonardine is a Biblical name meaning “Brave lion”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Leonardine",
+          "meaning": "Brave lion",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "lee-oh-nar-DEEN",
+        "ipa": "/liːoʊnɑːrˈdiːn/"
+      },
+      "syllables": 3,
+      "name_length": 10,
+      "faqs": [
+        {
+          "q": "What does the name Leonardine mean?",
+          "a": "Name-lists record the meaning as “Brave lion”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Leonardine verified?",
+          "a": "No. The meaning of Leonardine could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Leonardine come from?",
+          "a": "The origin of Leonardine has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 7,
+        "life_path_number": 7,
+        "ruling_planet": "Ketu",
+        "lucky_day": "Tuesday",
+        "lucky_stone": "Cat's Eye",
+        "lucky_colors": [
+          "Grey",
+          "Smoke"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Leonardine total 52, reducing to 7. Number 7 is associated with reflection, analysis and inner search."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:20:39.000Z"
+    }
   }
- }
 }

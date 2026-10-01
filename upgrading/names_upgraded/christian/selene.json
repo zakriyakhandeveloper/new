@@ -1,500 +1,339 @@
 {
- "success": true,
- "data": {
-  "name": "Selene",
-  "slug": "selene",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Selene is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Goddess of the Moon",
-  "long_meaning": "The name Selene is recorded with the meaning “Goddess of the Moon”. Selene is a Biblical name meaning “Goddess of the Moon”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Selene expresses “Goddess of the Moon”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Selene is recorded with the meaning “Goddess of the Moon”. Selene is a Biblical name meaning “Goddess of the Moon”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "s-e-l-e-n-e",
-  "syllables": 2,
-  "name_length": 6,
-  "transliteration": [
-   "Selene"
-  ],
-  "lucky_number": 6,
-  "lucky_day": "Friday",
-  "lucky_colors": [
-   "White",
-   "Pink"
-  ],
-  "lucky_stone": "Diamond",
-  "ruling_planet": "Venus",
-  "life_path_number": 6,
-  "numerology_meaning": "In Pythagorean numerology the letters of Selene total 24, reducing to 6. Number 6 is associated with responsibility, care and harmony.",
-  "in_hebrew": {
-   "name": "סלנה",
-   "meaning": "סלנה היא השם העברי לנוער הירח",
-   "long_meaning": "סלנה היא השם העברי לנוער הירח, והוא משוייך לאלה היוונית סלינה, שפירושה 'ירח'. השם סלנה מוזכר גם בתנ\"ך ככינויה של האלה הירחית. השימוש בשם זה נועד לתאר את היופי והתואר של הירח, וגם כדי להדגיש את הקשר הרוחני בין הירח לאלוהות. בנוסף, השם סלנה משמש גם כסמלו של ישו, שמכונה 'אור העולם'."
-  },
-  "in_greek": {
-   "name": "Σελήνη",
-   "meaning": "Το Σελήνη σημαίνει φεγγάρι στην ελληνική μυθολογία",
-   "long_meaning": "Το Σελήνη είναι το όνομα της θεάς του φεγγαριού στην ελληνική μυθολογία. Η Σελήνη ήταν κόρη του Τιτάνα Ηλίου και της θεάς της θάλασσας, Τηθύος. Στην ελληνική παράδοση, η Σελήνη ήταν σύμβολο της θηλυκότητας και της νύχτας. Ο χριστιανισμός δεν αναφέρει συγκεκριμένα τη Σελήνη, αλλά το σύμβολο του φεγγαριού χρησιμοποιείται συχνά για να αναπαραστήσει τη νύχτα και τη διάκριση μεταξύ φωτός και σκότους."
-  },
-  "in_latin": {
-   "name": "Selene",
-   "meaning": "Selene means moon in Latin",
-   "long_meaning": "The name Selene is derived from the Latin word for moon. In ancient Roman mythology, Selene was the goddess of the moon, equivalent to the Greek goddess Selene. The Latin term 'luna' was often used to refer to the moon, and Selene became a popular name among Christians to signify the light of Christ, which shines in the darkness."
-  },
-  "in_english": {
-   "name": "Selene",
-   "meaning": "Goddess of the Moon",
-   "long_meaning": "The name Selene is recorded with the meaning “Goddess of the Moon”. Selene is a Biblical name meaning “Goddess of the Moon”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "seh-LEE-nee",
-   "ipa": "/sɛˈliːni/"
-  },
-  "name_variations": [
-   "Selene"
-  ],
-  "variants": [
-   "Selene"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Selene is used in Biblical naming tradition with the meaning “Goddess of the Moon”.",
-  "spiritual_significance": "Any spiritual significance attached to Selene is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Goddess of the Moon” is the basis of any symbolism attached to Selene; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Selene."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#SeleneMeaning",
-   "#ChristianBabyNames",
-   "#MythologicalNames",
-   "#Selene"
-  ],
-  "monetization": {
-   "ads": [
-    {
-     "type": "banner",
-     "size": "300x250",
-     "position": "top"
-    },
-    {
-     "type": "textlink",
-     "text": "Explore more baby names",
-     "url": "https://example.com/baby-names"
-    }
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Selene Name Meaning – Goddess of the Moon (Biblical)",
-   "meta_description": "Selene is a Biblical name meaning “Goddess of the Moon”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Selene, Selene name meaning, Selene meaning, Selene origin, Selene root, Selene pronunciation, Biblical names",
-   "description_paragraph": "Selene is a Biblical name meaning “Goddess of the Moon”.",
-   "keywords": [
-    "Selene",
-    "Selene name meaning",
-    "Selene meaning",
-    "Selene origin",
-    "Selene root",
-    "Selene pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Selene name meaning",
-   "secondary_keywords": [
-    "Selene meaning",
-    "Selene origin",
-    "Selene pronunciation",
-    "Selene lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/selene",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What does the name Selene say about a child?",
-     "a": "The name Selene expresses “Goddess of the Moon”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Selene be used in another language?",
-     "a": "Selene is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Selene mentioned in scripture?",
-     "a": "No scriptural reference for Selene has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Selene?",
-     "a": "The Pythagorean lucky number for Selene is 6 (ruling planet Venus). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Selene?",
-     "a": "Friday is the traditional association for Selene. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Selene?",
-     "a": "Diamond is the traditional association for Selene. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Selene?",
-     "a": "White, Pink are the traditional associations for Selene. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Selene?",
-     "a": "In Pythagorean numerology the letters of Selene total 24, reducing to 6. Number 6 is associated with responsibility, care and harmony."
-    },
-    {
-     "q": "How reliable is the meaning given for Selene?",
-     "a": "The meaning of Selene carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Selene have a religious meaning?",
-     "a": "Selene is recorded as a christian name meaning “Goddess of the Moon”."
-    },
-    {
-     "q": "What is the English meaning of Selene?",
-     "a": "In English, Selene is rendered as “Goddess of the Moon”."
-    },
-    {
-     "q": "Is Selene suitable for a baby?",
-     "a": "Selene is used as a unisex given name; suitability is a personal choice."
-    }
-   ]
-  },
-  "seo_title": "Selene Name Meaning – Goddess of the Moon (Biblical)",
-  "meta_description": "Selene is a Biblical name meaning “Goddess of the Moon”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Selene",
-   "Selene name meaning",
-   "Selene meaning",
-   "Selene origin",
-   "Selene root",
-   "Selene pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/selene",
-  "intro_paragraph": "Selene is a Biblical name meaning “Goddess of the Moon”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Selene",
-   "description": "Selene — Goddess of the Moon",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What does the name Selene say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Selene expresses “Goddess of the Moon”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Selene be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Selene is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Selene mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Selene has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Selene?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Selene is 6 (ruling planet Venus). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Selene?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Friday is the traditional association for Selene. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Selene?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Diamond is the traditional association for Selene. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Selene?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "White, Pink are the traditional associations for Selene. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Selene?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Selene total 24, reducing to 6. Number 6 is associated with responsibility, care and harmony."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Selene?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Selene carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Selene have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Selene is recorded as a christian name meaning “Goddess of the Moon”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Selene?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Selene is rendered as “Goddess of the Moon”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Selene suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Selene is used as a unisex given name; suitability is a personal choice."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Selene",
-     "item": "https://namemeaning.example/name/selene"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 56,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Selene",
-   "slug": "selene",
-   "meaning": "Goddess of the Moon",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Selene",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Goddess of the Moon",
-   "long_meaning": "The name Selene is recorded with the meaning “Goddess of the Moon”. Selene is a Biblical name meaning “Goddess of the Moon”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Selene",
-     "meaning": "Goddess of the Moon",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "seh-LEE-nee",
-    "ipa": "/sɛˈliːni/"
-   },
-   "syllables": 2,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "What does the name Selene say about a child?",
-     "a": "The name Selene expresses “Goddess of the Moon”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Selene be used in another language?",
-     "a": "Selene is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Selene mentioned in scripture?",
-     "a": "No scriptural reference for Selene has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Selene?",
-     "a": "The Pythagorean lucky number for Selene is 6 (ruling planet Venus). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Selene?",
-     "a": "Friday is the traditional association for Selene. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Selene?",
-     "a": "Diamond is the traditional association for Selene. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Selene?",
-     "a": "White, Pink are the traditional associations for Selene. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Selene?",
-     "a": "In Pythagorean numerology the letters of Selene total 24, reducing to 6. Number 6 is associated with responsibility, care and harmony."
-    },
-    {
-     "q": "How reliable is the meaning given for Selene?",
-     "a": "The meaning of Selene carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Selene have a religious meaning?",
-     "a": "Selene is recorded as a christian name meaning “Goddess of the Moon”."
-    },
-    {
-     "q": "What is the English meaning of Selene?",
-     "a": "In English, Selene is rendered as “Goddess of the Moon”."
-    },
-    {
-     "q": "Is Selene suitable for a baby?",
-     "a": "Selene is used as a unisex given name; suitability is a personal choice."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 6,
-    "life_path_number": 6,
-    "ruling_planet": "Venus",
-    "lucky_day": "Friday",
-    "lucky_stone": "Diamond",
-    "lucky_colors": [
-     "White",
-     "Pink"
+  "success": true,
+  "data": {
+    "name": "Selene",
+    "slug": "selene",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Selene total 24, reducing to 6. Number 6 is associated with responsibility, care and harmony."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Selene is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Goddess of the Moon",
+    "long_meaning": "The meaning of Selene is recorded in name-lists as “Goddess of the Moon”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Selene expresses “Goddess of the Moon”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "s-e-l-e-n-e",
+    "syllables": 2,
+    "name_length": 6,
+    "transliteration": [
+      "Selene"
+    ],
+    "lucky_number": 6,
+    "lucky_day": "Friday",
+    "lucky_colors": [
+      "White",
+      "Pink"
+    ],
+    "lucky_stone": "Diamond",
+    "ruling_planet": "Venus",
+    "life_path_number": 6,
+    "numerology_meaning": "In Pythagorean numerology the letters of Selene total 24, reducing to 6. Number 6 is associated with responsibility, care and harmony.",
+    "in_hebrew": {
+      "name": "סלנה",
+      "meaning": "סלנה היא השם העברי לנוער הירח",
+      "long_meaning": "סלנה היא השם העברי לנוער הירח, והוא משוייך לאלה היוונית סלינה, שפירושה 'ירח'. השם סלנה מוזכר גם בתנ\"ך ככינויה של האלה הירחית. השימוש בשם זה נועד לתאר את היופי והתואר של הירח, וגם כדי להדגיש את הקשר הרוחני בין הירח לאלוהות. בנוסף, השם סלנה משמש גם כסמלו של ישו, שמכונה 'אור העולם'."
+    },
+    "in_greek": {
+      "name": "Σελήνη",
+      "meaning": "Το Σελήνη σημαίνει φεγγάρι στην ελληνική μυθολογία",
+      "long_meaning": "Το Σελήνη είναι το όνομα της θεάς του φεγγαριού στην ελληνική μυθολογία. Η Σελήνη ήταν κόρη του Τιτάνα Ηλίου και της θεάς της θάλασσας, Τηθύος. Στην ελληνική παράδοση, η Σελήνη ήταν σύμβολο της θηλυκότητας και της νύχτας. Ο χριστιανισμός δεν αναφέρει συγκεκριμένα τη Σελήνη, αλλά το σύμβολο του φεγγαριού χρησιμοποιείται συχνά για να αναπαραστήσει τη νύχτα και τη διάκριση μεταξύ φωτός και σκότους."
+    },
+    "in_latin": {
+      "name": "Selene",
+      "meaning": "Selene means moon in Latin",
+      "long_meaning": "The name Selene is derived from the Latin word for moon. In ancient Roman mythology, Selene was the goddess of the moon, equivalent to the Greek goddess Selene. The Latin term 'luna' was often used to refer to the moon, and Selene became a popular name among Christians to signify the light of Christ, which shines in the darkness."
+    },
+    "in_english": {
+      "name": "Selene",
+      "meaning": "Goddess of the Moon",
+      "long_meaning": "Goddess of the Moon"
+    },
+    "pronunciation": {
+      "english": "seh-LEE-nee",
+      "ipa": "/sɛˈliːni/"
+    },
+    "name_variations": [
+      "Selene"
+    ],
+    "variants": [
+      "Selene"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Selene is used in Biblical naming tradition with the meaning “Goddess of the Moon”.",
+    "spiritual_significance": "Any spiritual significance attached to Selene is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Goddess of the Moon” is the basis of any symbolism attached to Selene; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Selene."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#SeleneMeaning",
+      "#ChristianBabyNames",
+      "#MythologicalNames",
+      "#Selene"
+    ],
+    "monetization": {
+      "ads": [
+        {
+          "type": "banner",
+          "size": "300x250",
+          "position": "top"
+        },
+        {
+          "type": "textlink",
+          "text": "Explore more baby names",
+          "url": "https://example.com/baby-names"
+        }
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Selene Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Selene has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Selene, Selene name meaning, Selene meaning, Selene origin, Selene root, Selene pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Selene has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Selene",
+        "Selene name meaning",
+        "Selene meaning",
+        "Selene origin",
+        "Selene root",
+        "Selene pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Selene name meaning",
+      "secondary_keywords": [
+        "Selene meaning",
+        "Selene origin",
+        "Selene pronunciation",
+        "Selene lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Selene mean?",
+          "a": "Name-lists record the meaning as “Goddess of the Moon”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Selene verified?",
+          "a": "No. The meaning of Selene could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Selene come from?",
+          "a": "The origin of Selene has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Selene Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Selene has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Selene",
+      "Selene name meaning",
+      "Selene meaning",
+      "Selene origin",
+      "Selene root",
+      "Selene pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Selene has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Selene",
+      "description": "Selene — Goddess of the Moon",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Selene mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Goddess of the Moon”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Selene verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Selene could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Selene come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Selene has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 56,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:31:43.000Z",
+    "tier1_verified": {
+      "name": "Selene",
+      "slug": "selene",
+      "meaning": "Goddess of the Moon",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Selene",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Goddess of the Moon",
+      "long_meaning": "The name Selene is recorded with the meaning “Goddess of the Moon”. Selene is a Biblical name meaning “Goddess of the Moon”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Selene",
+          "meaning": "Goddess of the Moon",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "seh-LEE-nee",
+        "ipa": "/sɛˈliːni/"
+      },
+      "syllables": 2,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Selene mean?",
+          "a": "Name-lists record the meaning as “Goddess of the Moon”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Selene verified?",
+          "a": "No. The meaning of Selene could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Selene come from?",
+          "a": "The origin of Selene has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 6,
+        "life_path_number": 6,
+        "ruling_planet": "Venus",
+        "lucky_day": "Friday",
+        "lucky_stone": "Diamond",
+        "lucky_colors": [
+          "White",
+          "Pink"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Selene total 24, reducing to 6. Number 6 is associated with responsibility, care and harmony."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:31:43.000Z"
+    }
   }
- }
 }

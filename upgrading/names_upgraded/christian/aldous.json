@@ -1,488 +1,327 @@
 {
- "success": true,
- "data": {
-  "name": "Aldous",
-  "slug": "aldous",
-  "language": [
-   "English"
-  ],
-  "gender": "Male",
-  "gender_notes": "Aldous is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Wise, Old, or Kind",
-  "long_meaning": "The name Aldous is recorded with the meaning “Wise, Old, or Kind”. Aldous is a Biblical name meaning “Wise, Old, or Kind”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Aldous expresses “Wise, Old, or Kind”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Aldous is recorded with the meaning “Wise, Old, or Kind”. Aldous is a Biblical name meaning “Wise, Old, or Kind”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "a-l-d-o-u-s",
-  "syllables": 2,
-  "name_length": 6,
-  "transliteration": [
-   "Aldous"
-  ],
-  "lucky_number": 9,
-  "lucky_day": "Tuesday",
-  "lucky_colors": [
-   "Red",
-   "Crimson"
-  ],
-  "lucky_stone": "Red Coral",
-  "ruling_planet": "Mars",
-  "life_path_number": 9,
-  "numerology_meaning": "In Pythagorean numerology the letters of Aldous total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
-  "in_hebrew": {
-   "name": "אלדוס",
-   "meaning": "אלדוס הוא שם שמשמעותו 'עשיר' או 'מבוגר'",
-   "long_meaning": "אלדוס הוא שם שמקורו בשפה הגרמנית והוא נגזר מהמילים 'adal' שמשמעותו 'עשיר' ו-'oud' שמשמעותו 'מבוגר'. השם אלדוס לא מופיע ישירות בתנ\"ך, אך הוא קשור לשמות גרמניים עתיקים ששימשו את הנוצרים בימי הביניים. השם אלדוס משמש לעתים רחוקות בקהילות נוצריות מסוימות, והוא נושא משמעות של עושר רוחני וגדלות."
-  },
-  "in_greek": {
-   "name": "Αλδος",
-   "meaning": "Αλδος σημαίνει 'πλούσιος' ή 'γηραίος'",
-   "long_meaning": "Το όνομα Αλδος προέρχεται από τη γερμανική γλώσσα και συγκεκριμένα από τις λέξεις 'adal' που σημαίνει 'πλούσιος' και 'oud' που σημαίνει 'γηραίος'. Αν και το όνομα Αλδος δεν αναφέρεται άμεσα στις Καινές Διαθήκες, έχει σχέση με αρχαία γερμανικά ονόματα που χρησιμοποιούσαν οι Χριστιανοί κατά τον Μεσαίωνα. Το όνομα αυτό χρησιμοποιείται σπάνια σε ορισμένες χριστιανικές κοινότητες και φέρει τη σημασία πνευματικής πλούτου και ωριμότητας."
-  },
-  "in_latin": {
-   "name": "Aldous",
-   "meaning": "Aldous means 'rich' or 'old'",
-   "long_meaning": "The name Aldous originates from the Germanic language, derived from the words 'adal' meaning 'rich' and 'oud' meaning 'old'. Although Aldous does not appear directly in the Bible, it is connected to ancient Germanic names used by Christians during the Middle Ages. Aldous is occasionally used in certain Christian communities and carries a connotation of spiritual wealth and maturity."
-  },
-  "in_english": {
-   "name": "Aldous",
-   "meaning": "Wise, Old, or Kind",
-   "long_meaning": "The name Aldous is recorded with the meaning “Wise, Old, or Kind”. Aldous is a Biblical name meaning “Wise, Old, or Kind”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "AL-dous",
-   "ipa": "/ˈældəs/"
-  },
-  "name_variations": [
-   "Aldous"
-  ],
-  "variants": [
-   "Aldous"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Aldous is used in Biblical naming tradition with the meaning “Wise, Old, or Kind”.",
-  "spiritual_significance": "Any spiritual significance attached to Aldous is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Wise, Old, or Kind” is the basis of any symbolism attached to Aldous; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Aldous."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AldousMeaning",
-   "#ChristianBabyNames",
-   "#NonBiblicalNames",
-   "#ChristianNames",
-   "#Aldous"
-  ],
-  "monetization": {
-   "google_ads": true,
-   "affiliate_links": [
-    "https://example.com/aldous-books",
-    "https://example.com/aldous-clothing"
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Aldous Name Meaning – Wise, Old, or Kind (Biblical)",
-   "meta_description": "Aldous is a Biblical name meaning “Wise, Old, or Kind”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Aldous, Aldous name meaning, Aldous meaning, Aldous origin, Aldous root, Aldous pronunciation, Biblical names",
-   "description_paragraph": "Aldous is a Biblical name meaning “Wise, Old, or Kind”.",
-   "keywords": [
-    "Aldous",
-    "Aldous name meaning",
-    "Aldous meaning",
-    "Aldous origin",
-    "Aldous root",
-    "Aldous pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Aldous name meaning",
-   "secondary_keywords": [
-    "Aldous meaning",
-    "Aldous origin",
-    "Aldous pronunciation",
-    "Aldous lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/aldous",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What does the name Aldous mean?",
-     "a": "Aldous means “Wise, Old, or Kind”."
-    },
-    {
-     "q": "What is the origin of the name Aldous?",
-     "a": "Aldous is of Biblical origin."
-    },
-    {
-     "q": "Is Aldous a male name?",
-     "a": "Aldous is used as a male name."
-    },
-    {
-     "q": "How many syllables does Aldous have?",
-     "a": "Aldous has 2 syllables."
-    },
-    {
-     "q": "How is Aldous pronounced?",
-     "a": "Aldous is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Aldous?",
-     "a": "Any spiritual significance attached to Aldous is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Aldous?",
-     "a": "Variant spellings of Aldous are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Aldous a common name?",
-     "a": "Popularity figures for Aldous have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Aldous say about a child?",
-     "a": "The name Aldous expresses “Wise, Old, or Kind”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Aldous be used in another language?",
-     "a": "Aldous is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Aldous mentioned in scripture?",
-     "a": "No scriptural reference for Aldous has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Aldous?",
-     "a": "The Pythagorean lucky number for Aldous is 9 (ruling planet Mars). This is an interpretive association, not a factual claim."
-    }
-   ]
-  },
-  "seo_title": "Aldous Name Meaning – Wise, Old, or Kind (Biblical)",
-  "meta_description": "Aldous is a Biblical name meaning “Wise, Old, or Kind”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Aldous",
-   "Aldous name meaning",
-   "Aldous meaning",
-   "Aldous origin",
-   "Aldous root",
-   "Aldous pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/aldous",
-  "intro_paragraph": "Aldous is a Biblical name meaning “Wise, Old, or Kind”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Aldous",
-   "description": "Aldous — Wise, Old, or Kind",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What does the name Aldous mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aldous means “Wise, Old, or Kind”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Aldous?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aldous is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aldous a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aldous is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Aldous have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aldous has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Aldous pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aldous is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Aldous?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Aldous is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Aldous?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Aldous are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aldous a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Aldous have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Aldous say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Aldous expresses “Wise, Old, or Kind”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Aldous be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Aldous is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Aldous mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Aldous has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Aldous?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Aldous is 9 (ruling planet Mars). This is an interpretive association, not a factual claim."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Aldous",
-     "item": "https://namemeaning.example/name/aldous"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 56,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Aldous",
-   "slug": "aldous",
-   "meaning": "Wise, Old, or Kind",
-   "origin": "Biblical",
-   "language": [
-    "English"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Aldous",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Wise, Old, or Kind",
-   "long_meaning": "The name Aldous is recorded with the meaning “Wise, Old, or Kind”. Aldous is a Biblical name meaning “Wise, Old, or Kind”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Aldous",
-     "meaning": "Wise, Old, or Kind",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "AL-dous",
-    "ipa": "/ˈældəs/"
-   },
-   "syllables": 2,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "What does the name Aldous mean?",
-     "a": "Aldous means “Wise, Old, or Kind”."
-    },
-    {
-     "q": "What is the origin of the name Aldous?",
-     "a": "Aldous is of Biblical origin."
-    },
-    {
-     "q": "Is Aldous a male name?",
-     "a": "Aldous is used as a male name."
-    },
-    {
-     "q": "How many syllables does Aldous have?",
-     "a": "Aldous has 2 syllables."
-    },
-    {
-     "q": "How is Aldous pronounced?",
-     "a": "Aldous is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Aldous?",
-     "a": "Any spiritual significance attached to Aldous is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Aldous?",
-     "a": "Variant spellings of Aldous are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Aldous a common name?",
-     "a": "Popularity figures for Aldous have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Aldous say about a child?",
-     "a": "The name Aldous expresses “Wise, Old, or Kind”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Aldous be used in another language?",
-     "a": "Aldous is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Aldous mentioned in scripture?",
-     "a": "No scriptural reference for Aldous has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Aldous?",
-     "a": "The Pythagorean lucky number for Aldous is 9 (ruling planet Mars). This is an interpretive association, not a factual claim."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 9,
-    "life_path_number": 9,
-    "ruling_planet": "Mars",
-    "lucky_day": "Tuesday",
-    "lucky_stone": "Red Coral",
-    "lucky_colors": [
-     "Red",
-     "Crimson"
+  "success": true,
+  "data": {
+    "name": "Aldous",
+    "slug": "aldous",
+    "language": [
+      "English"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Aldous total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Aldous is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Wise, Old, or Kind",
+    "long_meaning": "The meaning of Aldous is recorded in name-lists as “Wise, Old, or Kind”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Aldous expresses “Wise, Old, or Kind”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "a-l-d-o-u-s",
+    "syllables": 2,
+    "name_length": 6,
+    "transliteration": [
+      "Aldous"
+    ],
+    "lucky_number": 9,
+    "lucky_day": "Tuesday",
+    "lucky_colors": [
+      "Red",
+      "Crimson"
+    ],
+    "lucky_stone": "Red Coral",
+    "ruling_planet": "Mars",
+    "life_path_number": 9,
+    "numerology_meaning": "In Pythagorean numerology the letters of Aldous total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
+    "in_hebrew": {
+      "name": "אלדוס",
+      "meaning": "אלדוס הוא שם שמשמעותו 'עשיר' או 'מבוגר'",
+      "long_meaning": "אלדוס הוא שם שמקורו בשפה הגרמנית והוא נגזר מהמילים 'adal' שמשמעותו 'עשיר' ו-'oud' שמשמעותו 'מבוגר'. השם אלדוס לא מופיע ישירות בתנ\"ך, אך הוא קשור לשמות גרמניים עתיקים ששימשו את הנוצרים בימי הביניים. השם אלדוס משמש לעתים רחוקות בקהילות נוצריות מסוימות, והוא נושא משמעות של עושר רוחני וגדלות."
+    },
+    "in_greek": {
+      "name": "Αλδος",
+      "meaning": "Αλδος σημαίνει 'πλούσιος' ή 'γηραίος'",
+      "long_meaning": "Το όνομα Αλδος προέρχεται από τη γερμανική γλώσσα και συγκεκριμένα από τις λέξεις 'adal' που σημαίνει 'πλούσιος' και 'oud' που σημαίνει 'γηραίος'. Αν και το όνομα Αλδος δεν αναφέρεται άμεσα στις Καινές Διαθήκες, έχει σχέση με αρχαία γερμανικά ονόματα που χρησιμοποιούσαν οι Χριστιανοί κατά τον Μεσαίωνα. Το όνομα αυτό χρησιμοποιείται σπάνια σε ορισμένες χριστιανικές κοινότητες και φέρει τη σημασία πνευματικής πλούτου και ωριμότητας."
+    },
+    "in_latin": {
+      "name": "Aldous",
+      "meaning": "Aldous means 'rich' or 'old'",
+      "long_meaning": "The name Aldous originates from the Germanic language, derived from the words 'adal' meaning 'rich' and 'oud' meaning 'old'. Although Aldous does not appear directly in the Bible, it is connected to ancient Germanic names used by Christians during the Middle Ages. Aldous is occasionally used in certain Christian communities and carries a connotation of spiritual wealth and maturity."
+    },
+    "in_english": {
+      "name": "Aldous",
+      "meaning": "Wise, Old, or Kind",
+      "long_meaning": "Wise, Old, or Kind"
+    },
+    "pronunciation": {
+      "english": "AL-dous",
+      "ipa": "/ˈældəs/"
+    },
+    "name_variations": [
+      "Aldous"
+    ],
+    "variants": [
+      "Aldous"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Aldous is used in Biblical naming tradition with the meaning “Wise, Old, or Kind”.",
+    "spiritual_significance": "Any spiritual significance attached to Aldous is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Wise, Old, or Kind” is the basis of any symbolism attached to Aldous; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Aldous."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AldousMeaning",
+      "#ChristianBabyNames",
+      "#NonBiblicalNames",
+      "#ChristianNames",
+      "#Aldous"
+    ],
+    "monetization": {
+      "google_ads": true,
+      "affiliate_links": [
+        "https://example.com/aldous-books",
+        "https://example.com/aldous-clothing"
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Aldous Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Aldous has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Aldous, Aldous name meaning, Aldous meaning, Aldous origin, Aldous root, Aldous pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Aldous has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Aldous",
+        "Aldous name meaning",
+        "Aldous meaning",
+        "Aldous origin",
+        "Aldous root",
+        "Aldous pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Aldous name meaning",
+      "secondary_keywords": [
+        "Aldous meaning",
+        "Aldous origin",
+        "Aldous pronunciation",
+        "Aldous lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Aldous mean?",
+          "a": "Name-lists record the meaning as “Wise, Old, or Kind”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Aldous verified?",
+          "a": "No. The meaning of Aldous could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Aldous come from?",
+          "a": "The origin of Aldous has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Aldous Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Aldous has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Aldous",
+      "Aldous name meaning",
+      "Aldous meaning",
+      "Aldous origin",
+      "Aldous root",
+      "Aldous pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Aldous has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Aldous",
+      "description": "Aldous — Wise, Old, or Kind",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Aldous mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Wise, Old, or Kind”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Aldous verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Aldous could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Aldous come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Aldous has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 56,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:04:56.000Z",
+    "tier1_verified": {
+      "name": "Aldous",
+      "slug": "aldous",
+      "meaning": "Wise, Old, or Kind",
+      "origin": "Biblical",
+      "language": [
+        "English"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Aldous",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Wise, Old, or Kind",
+      "long_meaning": "The name Aldous is recorded with the meaning “Wise, Old, or Kind”. Aldous is a Biblical name meaning “Wise, Old, or Kind”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Aldous",
+          "meaning": "Wise, Old, or Kind",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "AL-dous",
+        "ipa": "/ˈældəs/"
+      },
+      "syllables": 2,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Aldous mean?",
+          "a": "Name-lists record the meaning as “Wise, Old, or Kind”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Aldous verified?",
+          "a": "No. The meaning of Aldous could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Aldous come from?",
+          "a": "The origin of Aldous has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 9,
+        "life_path_number": 9,
+        "ruling_planet": "Mars",
+        "lucky_day": "Tuesday",
+        "lucky_stone": "Red Coral",
+        "lucky_colors": [
+          "Red",
+          "Crimson"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Aldous total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:56.000Z"
+    }
   }
- }
 }

@@ -1,547 +1,386 @@
 {
- "success": true,
- "data": {
-  "name": "Abdur",
-  "slug": "abdur",
-  "language": [
-   "Arabic",
-   "Urdu",
-   "Persian"
-  ],
-  "gender": "Male",
-  "gender_notes": "Abdur is used as a male name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Noble and blessed",
-  "long_meaning": "The name Abdur is recorded with the meaning “Noble and blessed”. Abdur is a Arabic name meaning “Noble and blessed”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Abdur expresses “Noble and blessed”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Abdur is recorded with the meaning “Noble and blessed”. Abdur is a Arabic name meaning “Noble and blessed”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-b-d-u-r",
-  "syllables": 2,
-  "name_length": 5,
-  "transliteration": [
-   "Abdur"
-  ],
-  "lucky_number": 1,
-  "lucky_day": "Sunday",
-  "lucky_colors": [
-   "Gold",
-   "Orange"
-  ],
-  "lucky_stone": "Ruby",
-  "ruling_planet": "Sun",
-  "life_path_number": 1,
-  "numerology_meaning": "In Pythagorean numerology the letters of Abdur total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
-  "in_arabic": {
-   "name": "عربي_Abdur",
-   "meaning": "Noble",
-   "long_meaning": "Noble کا عربی نام ہے جو اسلامی روایت میں اہمیت رکھتا ہے۔ یہ نام اللہ کی برکتوں سے منسوب ہے اور مسلمانوں میں بہت مقبول ہے۔"
-  },
-  "in_urdu": {
-   "name": "اردو_Abdur",
-   "meaning": "Noble",
-   "long_meaning": "Noble کا اردو نام ہے جو اسلامی ثقافت میں استعمال ہوتا ہے۔ یہ نام برکت اور خوشحالی کی علامت ہے۔"
-  },
-  "in_hindi": {
-   "name": "हिन्दी_Abdur",
-   "meaning": "Noble and blessed",
-   "long_meaning": "Noble and blessed का अर्थ है A beautiful Islamic name with deep spiritual significance"
-  },
-  "in_pashto": {
-   "name": "پښتو_Abdur",
-   "meaning": "Noble and blessed",
-   "long_meaning": "Noble and blessed د پښتو نوم دی چې د اسلام په کلتور کې مهميت لري. دا نوم د مسلمانانو لپاره د برکت او خوشحالي په توگه کيږي."
-  },
-  "in_english": {
-   "name": "Abdur",
-   "meaning": "Noble and blessed",
-   "long_meaning": "The name Abdur is recorded with the meaning “Noble and blessed”. Abdur is a Arabic name meaning “Noble and blessed”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "A-B-D-U-R",
-   "urdu": "اردو میں تلفظ کی تفصیل",
-   "hindi": "हिन्दी में उच्चारण विवरण",
-   "pashto": "په پښتو کې د تلفظ تفصیل",
-   "ipa": "/ˈabdur/"
-  },
-  "name_variations": [
-   "Abdur"
-  ],
-  "variants": [
-   "Abdur"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Abdur is used in Arabic naming tradition with the meaning “Noble and blessed”.",
-  "spiritual_significance": "Any spiritual significance attached to Abdur is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Noble and blessed” is the basis of any symbolism attached to Abdur; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Abdur has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Abdur."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AbdurMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Abdur"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Abdur",
-     "description": "Discover the meaning of Abdur - \"Noble and blessed\"",
-     "image": "/images/social/abdur-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Abdur - Name Meaning",
-     "description": "Learn about the beautiful name Abdur",
-     "image": "/images/social/abdur-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Abdur",
-     "description": "Name meaning: Noble and blessed",
-     "image": "/images/social/abdur-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Abdur - Meaning: Noble and blessed",
-    "email_subject": "Beautiful Name: Abdur"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Abdur with meaning Noble and blessed",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Abdur Name Meaning – Noble and blessed (Arabic)",
-   "meta_description": "Abdur is a Arabic name meaning “Noble and blessed”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Abdur, Abdur name meaning, Abdur meaning, Abdur origin, Abdur root, Abdur pronunciation, Arabic names",
-   "description_paragraph": "Abdur is a Arabic name meaning “Noble and blessed”.",
-   "keywords": [
-    "Abdur",
-    "Abdur name meaning",
-    "Abdur meaning",
-    "Abdur origin",
-    "Abdur root",
-    "Abdur pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Abdur name meaning",
-   "secondary_keywords": [
-    "Abdur meaning",
-    "Abdur origin",
-    "Abdur pronunciation",
-    "Abdur lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/abdur",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Is Abdur a common name?",
-     "a": "Popularity figures for Abdur have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Abdur say about a child?",
-     "a": "The name Abdur expresses “Noble and blessed”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Abdur be used in another language?",
-     "a": "Abdur is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Abdur mentioned in scripture?",
-     "a": "No scriptural reference for Abdur has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Abdur?",
-     "a": "The Pythagorean lucky number for Abdur is 1 (ruling planet Sun). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Abdur?",
-     "a": "Sunday is the traditional association for Abdur. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Abdur?",
-     "a": "Ruby is the traditional association for Abdur. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Abdur?",
-     "a": "Gold, Orange are the traditional associations for Abdur. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Abdur?",
-     "a": "In Pythagorean numerology the letters of Abdur total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-    },
-    {
-     "q": "How reliable is the meaning given for Abdur?",
-     "a": "The meaning of Abdur carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Abdur have a religious meaning?",
-     "a": "Abdur is recorded as a islamic name meaning “Noble and blessed”."
-    },
-    {
-     "q": "What is the English meaning of Abdur?",
-     "a": "In English, Abdur is rendered as “Noble and blessed”."
-    }
-   ]
-  },
-  "seo_title": "Abdur Name Meaning – Noble and blessed (Arabic)",
-  "meta_description": "Abdur is a Arabic name meaning “Noble and blessed”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Abdur",
-   "Abdur name meaning",
-   "Abdur meaning",
-   "Abdur origin",
-   "Abdur root",
-   "Abdur pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/abdur",
-  "intro_paragraph": "Abdur is a Arabic name meaning “Noble and blessed”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Abdur",
-   "description": "Abdur — Noble and blessed",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Is Abdur a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Abdur have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Abdur say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Abdur expresses “Noble and blessed”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Abdur be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abdur is recorded in Arabic; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Abdur mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Abdur has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Abdur?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Abdur is 1 (ruling planet Sun). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Abdur?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sunday is the traditional association for Abdur. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which gemstone is associated with Abdur?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ruby is the traditional association for Abdur. This is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which colours are associated with Abdur?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Gold, Orange are the traditional associations for Abdur. These are interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the numerology of Abdur?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In Pythagorean numerology the letters of Abdur total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Abdur?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Abdur carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Abdur have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Abdur is recorded as a islamic name meaning “Noble and blessed”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Abdur?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Abdur is rendered as “Noble and blessed”."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Abdur",
-     "item": "https://namemeaning.example/name/abdur"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2026-03-14T20:03:57.326Z",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Abdur",
-   "slug": "abdur",
-   "meaning": "Noble and blessed",
-   "origin": "Arabic",
-   "language": [
-    "Arabic",
-    "Urdu",
-    "Persian"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Abdur",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Noble and blessed",
-   "long_meaning": "The name Abdur is recorded with the meaning “Noble and blessed”. Abdur is a Arabic name meaning “Noble and blessed”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Abdur",
-     "meaning": "Noble and blessed",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "A-B-D-U-R",
-    "ipa": "/ˈabdur/"
-   },
-   "syllables": 2,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "Is Abdur a common name?",
-     "a": "Popularity figures for Abdur have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Abdur say about a child?",
-     "a": "The name Abdur expresses “Noble and blessed”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Abdur be used in another language?",
-     "a": "Abdur is recorded in Arabic; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Abdur mentioned in scripture?",
-     "a": "No scriptural reference for Abdur has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Abdur?",
-     "a": "The Pythagorean lucky number for Abdur is 1 (ruling planet Sun). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Abdur?",
-     "a": "Sunday is the traditional association for Abdur. This is interpretive."
-    },
-    {
-     "q": "Which gemstone is associated with Abdur?",
-     "a": "Ruby is the traditional association for Abdur. This is interpretive."
-    },
-    {
-     "q": "Which colours are associated with Abdur?",
-     "a": "Gold, Orange are the traditional associations for Abdur. These are interpretive."
-    },
-    {
-     "q": "What is the numerology of Abdur?",
-     "a": "In Pythagorean numerology the letters of Abdur total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-    },
-    {
-     "q": "How reliable is the meaning given for Abdur?",
-     "a": "The meaning of Abdur carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Abdur have a religious meaning?",
-     "a": "Abdur is recorded as a islamic name meaning “Noble and blessed”."
-    },
-    {
-     "q": "What is the English meaning of Abdur?",
-     "a": "In English, Abdur is rendered as “Noble and blessed”."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 1,
-    "life_path_number": 1,
-    "ruling_planet": "Sun",
-    "lucky_day": "Sunday",
-    "lucky_stone": "Ruby",
-    "lucky_colors": [
-     "Gold",
-     "Orange"
+  "success": true,
+  "data": {
+    "name": "Abdur",
+    "slug": "abdur",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Abdur total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Abdur is used as a male name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Noble and blessed",
+    "long_meaning": "The meaning of Abdur is recorded in name-lists as “Noble and blessed”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Abdur expresses “Noble and blessed”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Arabic",
+    "root_letters": "a-b-d-u-r",
+    "syllables": 2,
+    "name_length": 5,
+    "transliteration": [
+      "Abdur"
+    ],
+    "lucky_number": 1,
+    "lucky_day": "Sunday",
+    "lucky_colors": [
+      "Gold",
+      "Orange"
+    ],
+    "lucky_stone": "Ruby",
+    "ruling_planet": "Sun",
+    "life_path_number": 1,
+    "numerology_meaning": "In Pythagorean numerology the letters of Abdur total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative.",
+    "in_arabic": {
+      "name": "عربي_Abdur",
+      "meaning": "Noble and blessed",
+      "long_meaning": "Noble and blessed"
+    },
+    "in_urdu": {
+      "name": "اردو_Abdur",
+      "meaning": "Noble and blessed",
+      "long_meaning": "Noble and blessed"
+    },
+    "in_hindi": {
+      "name": "हिन्दी_Abdur",
+      "meaning": "Noble and blessed",
+      "long_meaning": "Noble and blessed"
+    },
+    "in_pashto": {
+      "name": "پښتو_Abdur",
+      "meaning": "Noble and blessed",
+      "long_meaning": "Noble and blessed"
+    },
+    "in_english": {
+      "name": "Abdur",
+      "meaning": "Noble and blessed",
+      "long_meaning": "Noble and blessed"
+    },
+    "pronunciation": {
+      "english": "A-B-D-U-R",
+      "urdu": "اردو میں تلفظ کی تفصیل",
+      "hindi": "हिन्दी में उच्चारण विवरण",
+      "pashto": "په پښتو کې د تلفظ تفصیل",
+      "ipa": "/ˈabdur/"
+    },
+    "name_variations": [
+      "Abdur"
+    ],
+    "variants": [
+      "Abdur"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Abdur is used in Arabic naming tradition with the meaning “Noble and blessed”.",
+    "spiritual_significance": "Any spiritual significance attached to Abdur is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Noble and blessed” is the basis of any symbolism attached to Abdur; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "No Qur'anic reference for Abdur has been verified."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Abdur."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AbdurMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Abdur"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Abdur",
+          "description": "Discover the meaning of Abdur - \"Noble and blessed\"",
+          "image": "/images/social/abdur-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Abdur - Name Meaning",
+          "description": "Learn about the beautiful name Abdur",
+          "image": "/images/social/abdur-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Abdur",
+          "description": "Name meaning: Noble and blessed",
+          "image": "/images/social/abdur-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Abdur - Meaning: Noble and blessed",
+        "email_subject": "Beautiful Name: Abdur"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Abdur with meaning Noble and blessed",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Abdur Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Abdur has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Abdur, Abdur name meaning, Abdur meaning, Abdur origin, Abdur root, Abdur pronunciation, Arabic names",
+      "description_paragraph": "The meaning of Abdur has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Abdur",
+        "Abdur name meaning",
+        "Abdur meaning",
+        "Abdur origin",
+        "Abdur root",
+        "Abdur pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Abdur name meaning",
+      "secondary_keywords": [
+        "Abdur meaning",
+        "Abdur origin",
+        "Abdur pronunciation",
+        "Abdur lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Abdur mean?",
+          "a": "Name-lists record the meaning as “Noble and blessed”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Abdur verified?",
+          "a": "No. The meaning of Abdur could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Abdur come from?",
+          "a": "The origin of Abdur has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Abdur Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Abdur has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Abdur",
+      "Abdur name meaning",
+      "Abdur meaning",
+      "Abdur origin",
+      "Abdur root",
+      "Abdur pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Abdur has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Abdur",
+      "description": "Abdur — Noble and blessed",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Abdur mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Noble and blessed”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Abdur verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Abdur could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Abdur come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Abdur has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 70
+    },
+    "created_at": "2026-03-14T20:03:57.326Z",
+    "updated_at": "2026-10-01T04:04:20.000Z",
+    "tier1_verified": {
+      "name": "Abdur",
+      "slug": "abdur",
+      "meaning": "Noble and blessed",
+      "origin": "Arabic",
+      "language": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Abdur",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Noble and blessed",
+      "long_meaning": "The name Abdur is recorded with the meaning “Noble and blessed”. Abdur is a Arabic name meaning “Noble and blessed”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Abdur",
+          "meaning": "Noble and blessed",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "A-B-D-U-R",
+        "ipa": "/ˈabdur/"
+      },
+      "syllables": 2,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Abdur mean?",
+          "a": "Name-lists record the meaning as “Noble and blessed”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Abdur verified?",
+          "a": "No. The meaning of Abdur could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Abdur come from?",
+          "a": "The origin of Abdur has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 1,
+        "life_path_number": 1,
+        "ruling_planet": "Sun",
+        "lucky_day": "Sunday",
+        "lucky_stone": "Ruby",
+        "lucky_colors": [
+          "Gold",
+          "Orange"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Abdur total 19, reducing to 1. Number 1 is associated with leadership, independence and initiative."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:20.000Z"
+    }
   }
- }
 }

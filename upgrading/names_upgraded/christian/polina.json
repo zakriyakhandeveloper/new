@@ -1,502 +1,341 @@
 {
- "success": true,
- "data": {
-  "name": "Polina",
-  "slug": "polina",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Polina is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Saint",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Ruler, Lady",
-  "long_meaning": "The name Polina is recorded with the meaning “Ruler, Lady”. Polina is a Biblical name meaning “Ruler, Lady”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Polina expresses “Ruler, Lady”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Polina is recorded with the meaning “Ruler, Lady”. Polina is a Biblical name meaning “Ruler, Lady”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "p-o-l-i-n-a",
-  "syllables": 3,
-  "name_length": 6,
-  "transliteration": [
-   "Polina"
-  ],
-  "lucky_number": 4,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Grey",
-   "Blue"
-  ],
-  "lucky_stone": "Hessonite",
-  "ruling_planet": "Rahu",
-  "life_path_number": 4,
-  "numerology_meaning": "In Pythagorean numerology the letters of Polina total 31, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-  "in_hebrew": {
-   "name": "פולינה",
-   "meaning": "שם נוצרי מקור הוא יווני",
-   "long_meaning": "פולינה הוא שם נוצרי שמקורו ביוונית, משמעותו היא קדושה וטהרה, והוא נגזר מהמילה היוונית פאולוס, שפירושה קטן או עני, אך בהקשר הנוצרי הוא מסמל ענווה וקדושה"
-  },
-  "in_greek": {
-   "name": "Πολίνα",
-   "meaning": "άγια και καθαρή",
-   "long_meaning": "Το όνομα Πολίνα είναι χριστιανικό όνομα που προέρχεται από την ελληνική γλώσσα, σημαίνει άγια και καθαρή, και προέρχεται από το όνομα Παύλος, που σημαίνει μικρός ή φτωχός, αλλά στον χριστιανικό контέκστο συμβολίζει ταπείνωση και αγιότητα"
-  },
-  "in_latin": {
-   "name": "Paulina",
-   "meaning": "sancta et pura",
-   "long_meaning": "Nomen Paulina est nomen christianum quod origo est graeca, significat sancta et pura, et derivatur a nomine Paulus, quod significat parvus vel pauper, sed in contextu christiano symbolizat humilitatem et sanctitatem"
-  },
-  "in_english": {
-   "name": "Polina",
-   "meaning": "Ruler, Lady",
-   "long_meaning": "The name Polina is recorded with the meaning “Ruler, Lady”. Polina is a Biblical name meaning “Ruler, Lady”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "poh-LEE-nah",
-   "biblical": "not directly biblical",
-   "ipa": "/pəˈliːnə/"
-  },
-  "name_variations": [
-   "Polina"
-  ],
-  "variants": [
-   "Polina"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Polina is used in Biblical naming tradition with the meaning “Ruler, Lady”.",
-  "spiritual_significance": "Any spiritual significance attached to Polina is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Ruler, Lady” is the basis of any symbolism attached to Polina; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": "not directly mentioned in the bible"
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Polina."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#PolinaMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Polina"
-  ],
-  "monetization": {
-   "google_adsense": {
-    "publisher_id": "pub-1234567890123456",
-    "ads_layout": "in_article"
-   },
-   "affiliate_links": {
-    "baby_clothes": [
-     "https://affiliate.com/baby-clothes/Polina",
-     "Baby Clothes for Polina"
+  "success": true,
+  "data": {
+    "name": "Polina",
+    "slug": "polina",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "name_meaning_books": [
-     "https://affiliate.com/books/Polina-Meaning",
-     "Books About the Meaning of Polina"
-    ]
-   }
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Polina Name Meaning – Ruler, Lady (Biblical)",
-   "meta_description": "Polina is a Biblical name meaning “Ruler, Lady”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Polina, Polina name meaning, Polina meaning, Polina origin, Polina root, Polina pronunciation, Biblical names",
-   "description_paragraph": "Polina is a Biblical name meaning “Ruler, Lady”.",
-   "keywords": [
-    "Polina",
-    "Polina name meaning",
-    "Polina meaning",
-    "Polina origin",
-    "Polina root",
-    "Polina pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Polina name meaning",
-   "secondary_keywords": [
-    "Polina meaning",
-    "Polina origin",
-    "Polina pronunciation",
-    "Polina lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/polina",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the origin of the name Polina?",
-     "a": "Polina is of Biblical origin."
-    },
-    {
-     "q": "Is Polina a unisex name?",
-     "a": "Polina is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Polina have?",
-     "a": "Polina has 3 syllables."
-    },
-    {
-     "q": "How is Polina pronounced?",
-     "a": "Polina is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Polina?",
-     "a": "Any spiritual significance attached to Polina is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Polina?",
-     "a": "Variant spellings of Polina are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Polina a common name?",
-     "a": "Popularity figures for Polina have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Polina say about a child?",
-     "a": "The name Polina expresses “Ruler, Lady”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Polina be used in another language?",
-     "a": "Polina is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Polina mentioned in scripture?",
-     "a": "No scriptural reference for Polina has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Polina?",
-     "a": "The Pythagorean lucky number for Polina is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Polina?",
-     "a": "Saturday is the traditional association for Polina. This is interpretive."
-    }
-   ]
-  },
-  "seo_title": "Polina Name Meaning – Ruler, Lady (Biblical)",
-  "meta_description": "Polina is a Biblical name meaning “Ruler, Lady”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Polina",
-   "Polina name meaning",
-   "Polina meaning",
-   "Polina origin",
-   "Polina root",
-   "Polina pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/polina",
-  "intro_paragraph": "Polina is a Biblical name meaning “Ruler, Lady”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Polina",
-   "description": "Polina — Ruler, Lady",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Polina?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Polina is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Polina a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Polina is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Polina have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Polina has 3 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Polina pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Polina is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Polina?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Polina is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Polina?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Polina are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Polina a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Polina have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Polina say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Polina expresses “Ruler, Lady”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Polina be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Polina is recorded in Biblical; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Polina mentioned in scripture?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No scriptural reference for Polina has been verified; the record is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the lucky number for Polina?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The Pythagorean lucky number for Polina is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which day is associated with Polina?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Saturday is the traditional association for Polina. This is interpretive."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Polina",
-     "item": "https://namemeaning.example/name/polina"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Polina",
-   "slug": "polina",
-   "meaning": "Ruler, Lady",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Polina",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Ruler, Lady",
-   "long_meaning": "The name Polina is recorded with the meaning “Ruler, Lady”. Polina is a Biblical name meaning “Ruler, Lady”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Polina",
-     "meaning": "Ruler, Lady",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "poh-LEE-nah",
-    "ipa": "/pəˈliːnə/"
-   },
-   "syllables": 3,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "What is the origin of the name Polina?",
-     "a": "Polina is of Biblical origin."
-    },
-    {
-     "q": "Is Polina a unisex name?",
-     "a": "Polina is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Polina have?",
-     "a": "Polina has 3 syllables."
-    },
-    {
-     "q": "How is Polina pronounced?",
-     "a": "Polina is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Polina?",
-     "a": "Any spiritual significance attached to Polina is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Polina?",
-     "a": "Variant spellings of Polina are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Polina a common name?",
-     "a": "Popularity figures for Polina have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Polina say about a child?",
-     "a": "The name Polina expresses “Ruler, Lady”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Polina be used in another language?",
-     "a": "Polina is recorded in Biblical; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "Is Polina mentioned in scripture?",
-     "a": "No scriptural reference for Polina has been verified; the record is flagged for source verification."
-    },
-    {
-     "q": "What is the lucky number for Polina?",
-     "a": "The Pythagorean lucky number for Polina is 4 (ruling planet Rahu). This is an interpretive association, not a factual claim."
-    },
-    {
-     "q": "Which day is associated with Polina?",
-     "a": "Saturday is the traditional association for Polina. This is interpretive."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
+    "gender": "Unisex",
+    "gender_notes": "Polina is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Saint",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Ruler, Lady",
+    "long_meaning": "The meaning of Polina is recorded in name-lists as “Ruler, Lady”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Polina expresses “Ruler, Lady”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "p-o-l-i-n-a",
+    "syllables": 3,
+    "name_length": 6,
+    "transliteration": [
+      "Polina"
+    ],
     "lucky_number": 4,
-    "life_path_number": 4,
-    "ruling_planet": "Rahu",
     "lucky_day": "Saturday",
-    "lucky_stone": "Hessonite",
     "lucky_colors": [
-     "Grey",
-     "Blue"
+      "Grey",
+      "Blue"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Polina total 31, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "lucky_stone": "Hessonite",
+    "ruling_planet": "Rahu",
+    "life_path_number": 4,
+    "numerology_meaning": "In Pythagorean numerology the letters of Polina total 31, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
+    "in_hebrew": {
+      "name": "פולינה",
+      "meaning": "שם נוצרי מקור הוא יווני",
+      "long_meaning": "פולינה הוא שם נוצרי שמקורו ביוונית, משמעותו היא קדושה וטהרה, והוא נגזר מהמילה היוונית פאולוס, שפירושה קטן או עני, אך בהקשר הנוצרי הוא מסמל ענווה וקדושה"
+    },
+    "in_greek": {
+      "name": "Πολίνα",
+      "meaning": "άγια και καθαρή",
+      "long_meaning": "Το όνομα Πολίνα είναι χριστιανικό όνομα που προέρχεται από την ελληνική γλώσσα, σημαίνει άγια και καθαρή, και προέρχεται από το όνομα Παύλος, που σημαίνει μικρός ή φτωχός, αλλά στον χριστιανικό контέκστο συμβολίζει ταπείνωση και αγιότητα"
+    },
+    "in_latin": {
+      "name": "Paulina",
+      "meaning": "sancta et pura",
+      "long_meaning": "Nomen Paulina est nomen christianum quod origo est graeca, significat sancta et pura, et derivatur a nomine Paulus, quod significat parvus vel pauper, sed in contextu christiano symbolizat humilitatem et sanctitatem"
+    },
+    "in_english": {
+      "name": "Polina",
+      "meaning": "Ruler, Lady",
+      "long_meaning": "Ruler, Lady"
+    },
+    "pronunciation": {
+      "english": "poh-LEE-nah",
+      "biblical": "not directly biblical",
+      "ipa": "/pəˈliːnə/"
+    },
+    "name_variations": [
+      "Polina"
+    ],
+    "variants": [
+      "Polina"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Polina is used in Biblical naming tradition with the meaning “Ruler, Lady”.",
+    "spiritual_significance": "Any spiritual significance attached to Polina is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Ruler, Lady” is the basis of any symbolism attached to Polina; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": "not directly mentioned in the bible"
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Polina."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#PolinaMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Polina"
+    ],
+    "monetization": {
+      "google_adsense": {
+        "publisher_id": "pub-1234567890123456",
+        "ads_layout": "in_article"
+      },
+      "affiliate_links": {
+        "baby_clothes": [
+          "https://affiliate.com/baby-clothes/Polina",
+          "Baby Clothes for Polina"
+        ],
+        "name_meaning_books": [
+          "https://affiliate.com/books/Polina-Meaning",
+          "Books About the Meaning of Polina"
+        ]
+      }
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Polina Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Polina has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Polina, Polina name meaning, Polina meaning, Polina origin, Polina root, Polina pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Polina has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Polina",
+        "Polina name meaning",
+        "Polina meaning",
+        "Polina origin",
+        "Polina root",
+        "Polina pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Polina name meaning",
+      "secondary_keywords": [
+        "Polina meaning",
+        "Polina origin",
+        "Polina pronunciation",
+        "Polina lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Polina mean?",
+          "a": "Name-lists record the meaning as “Ruler, Lady”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Polina verified?",
+          "a": "No. The meaning of Polina could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Polina come from?",
+          "a": "The origin of Polina has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Polina Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Polina has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Polina",
+      "Polina name meaning",
+      "Polina meaning",
+      "Polina origin",
+      "Polina root",
+      "Polina pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Polina has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Polina",
+      "description": "Polina — Ruler, Lady",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Polina mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Ruler, Lady”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Polina verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Polina could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Polina come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Polina has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:28:19.000Z",
+    "tier1_verified": {
+      "name": "Polina",
+      "slug": "polina",
+      "meaning": "Ruler, Lady",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Polina",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Ruler, Lady",
+      "long_meaning": "The name Polina is recorded with the meaning “Ruler, Lady”. Polina is a Biblical name meaning “Ruler, Lady”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Polina",
+          "meaning": "Ruler, Lady",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "poh-LEE-nah",
+        "ipa": "/pəˈliːnə/"
+      },
+      "syllables": 3,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Polina mean?",
+          "a": "Name-lists record the meaning as “Ruler, Lady”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Polina verified?",
+          "a": "No. The meaning of Polina could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Polina come from?",
+          "a": "The origin of Polina has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 4,
+        "life_path_number": 4,
+        "ruling_planet": "Rahu",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Hessonite",
+        "lucky_colors": [
+          "Grey",
+          "Blue"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Polina total 31, reducing to 4. Number 4 is associated with discipline, order and steady effort."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:28:19.000Z"
+    }
   }
- }
 }

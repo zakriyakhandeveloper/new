@@ -1,496 +1,335 @@
 {
- "success": true,
- "data": {
-  "name": "Divine",
-  "slug": "divine",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Divine is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "From the divine",
-  "long_meaning": "The name Divine is recorded with the meaning “From the divine”. Divine is a Biblical name meaning “From the divine”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Divine expresses “From the divine”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Divine is recorded with the meaning “From the divine”. Divine is a Biblical name meaning “From the divine”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "d-i-v-i-n-e",
-  "syllables": 2,
-  "name_length": 6,
-  "transliteration": [
-   "Divine"
-  ],
-  "lucky_number": 9,
-  "lucky_day": "Tuesday",
-  "lucky_colors": [
-   "Red",
-   "Crimson"
-  ],
-  "lucky_stone": "Red Coral",
-  "ruling_planet": "Mars",
-  "life_path_number": 9,
-  "numerology_meaning": "In Pythagorean numerology the letters of Divine total 36, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
-  "in_hebrew": {
-   "name": "דיבין",
-   "meaning": "קדוש, אלוהי, שמיימי",
-   "long_meaning": "השם דיבין מקורו במילה העברית 'דיווין' שמשמעותה קדוש או אלוהי, וכן הוא קשור למילה 'דו' שפירושה שניים, ו- 'וין' שפירושה בן או יין. השם נגזר מהמילה היוונית 'θεῖος' (theios) שמשמעותה אלוהי או שמיימי. השם דיבין משמש לעתים קרובות ככינוי לאלוהים או לישוע המשיח בכתבי הקודש הנוצריים."
-  },
-  "in_greek": {
-   "name": "Θεΐα",
-   "meaning": "Θεία, Θεῖος, Ἀγία",
-   "long_meaning": "Ὁ ὄνομα Θεΐα προέρχεται ἀπό τὴν ἑλληνικὴ λέξη 'θεῖος' (theios) ποὺ σημαίνει ἀλόημος ἢ θεϊκός. Ἡ λέξη 'θεῖος' εἶναι παράγωγο τῆς λέξεως 'θεός' (theos) ποὺ σημαίνει Θεός ἢ δαίμονας. Ὁ ὄνομα Θεΐα χρήζεται συχνὰ εἰς τὰ Χριστιανικὰ γράφα ὡς προσωνυμία τοῦ Θεοῦ ἢ τοῦ Ἰησοῦ Χριστοῦ."
-  },
-  "in_latin": {
-   "name": "Divinus",
-   "meaning": "Deus, divinus, sanctus",
-   "long_meaning": "Nomen Divinus a Latina voce 'divinus' derivatur, quae significat 'divine' vel 'sanctus'. Nomen etiam coniunctum est cum verbo 'deus', quod significat 'Deus' vel 'divinitas'. In Ecclesia Christiana, nomen Divinus saepe adhibetur ut titulus Dei vel Iesu Christi."
-  },
-  "in_english": {
-   "name": "Divine",
-   "meaning": "From the divine",
-   "long_meaning": "The name Divine is recorded with the meaning “From the divine”. Divine is a Biblical name meaning “From the divine”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "di-VINE",
-   "ipa": "/dɪˈvaɪn/"
-  },
-  "name_variations": [
-   "Divine"
-  ],
-  "variants": [
-   "Divine"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Divine is used in Biblical naming tradition with the meaning “From the divine”.",
-  "spiritual_significance": "Any spiritual significance attached to Divine is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “From the divine” is the basis of any symbolism attached to Divine; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Divine."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#DivineMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Divine"
-  ],
-  "monetization": {
-   "ads": {
-    "google_ad_sense": "ca-pub-1234567890123456",
-    "amazon_affiliate": "abcdefg123456"
-   },
-   "sponsorship": "Contact us for sponsorship opportunities.",
-   "donations": {
-    "paypal": "donate@example.com",
-    "patreon": "https://www.patreon.com/example"
-   }
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Divine Name Meaning – From the divine (Biblical)",
-   "meta_description": "Divine is a Biblical name meaning “From the divine”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Divine, Divine name meaning, Divine meaning, Divine origin, Divine root, Divine pronunciation, Biblical names",
-   "description_paragraph": "Divine is a Biblical name meaning “From the divine”.",
-   "keywords": [
-    "Divine",
-    "Divine name meaning",
-    "Divine meaning",
-    "Divine origin",
-    "Divine root",
-    "Divine pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Divine name meaning",
-   "secondary_keywords": [
-    "Divine meaning",
-    "Divine origin",
-    "Divine pronunciation",
-    "Divine lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/divine",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "How reliable is the meaning given for Divine?",
-     "a": "The meaning of Divine carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Divine have a religious meaning?",
-     "a": "Divine is recorded as a christian name meaning “From the divine”."
-    },
-    {
-     "q": "What is the English meaning of Divine?",
-     "a": "In English, Divine is rendered as “From the divine”."
-    },
-    {
-     "q": "Is Divine suitable for a baby?",
-     "a": "Divine is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Divine?",
-     "a": "Divine is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Divine?",
-     "a": "Divine is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Divine have a positive meaning?",
-     "a": "Divine carries the meaning “From the divine”."
-    },
-    {
-     "q": "What does the name Divine mean?",
-     "a": "Divine means “From the divine”."
-    },
-    {
-     "q": "What is the origin of the name Divine?",
-     "a": "Divine is of Biblical origin."
-    },
-    {
-     "q": "Is Divine a unisex name?",
-     "a": "Divine is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Divine have?",
-     "a": "Divine has 2 syllables."
-    },
-    {
-     "q": "How is Divine pronounced?",
-     "a": "Divine is pronounced as given in the pronunciation field of this record."
-    }
-   ]
-  },
-  "seo_title": "Divine Name Meaning – From the divine (Biblical)",
-  "meta_description": "Divine is a Biblical name meaning “From the divine”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Divine",
-   "Divine name meaning",
-   "Divine meaning",
-   "Divine origin",
-   "Divine root",
-   "Divine pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/divine",
-  "intro_paragraph": "Divine is a Biblical name meaning “From the divine”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Divine",
-   "description": "Divine — From the divine",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "How reliable is the meaning given for Divine?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The meaning of Divine carries confidence LOW in this record. It is flagged for source verification."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Divine have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Divine is recorded as a christian name meaning “From the divine”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Divine?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Divine is rendered as “From the divine”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Divine suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Divine is used as a unisex given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Divine?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Divine is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Divine?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Divine is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Divine have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Divine carries the meaning “From the divine”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Divine mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Divine means “From the divine”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Divine?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Divine is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Divine a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Divine is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Divine have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Divine has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Divine pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Divine is pronounced as given in the pronunciation field of this record."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Divine",
-     "item": "https://namemeaning.example/name/divine"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Divine",
-   "slug": "divine",
-   "meaning": "From the divine",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Divine",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "From the divine",
-   "long_meaning": "The name Divine is recorded with the meaning “From the divine”. Divine is a Biblical name meaning “From the divine”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Divine",
-     "meaning": "From the divine",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "di-VINE",
-    "ipa": "/dɪˈvaɪn/"
-   },
-   "syllables": 2,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "How reliable is the meaning given for Divine?",
-     "a": "The meaning of Divine carries confidence LOW in this record. It is flagged for source verification."
-    },
-    {
-     "q": "Does Divine have a religious meaning?",
-     "a": "Divine is recorded as a christian name meaning “From the divine”."
-    },
-    {
-     "q": "What is the English meaning of Divine?",
-     "a": "In English, Divine is rendered as “From the divine”."
-    },
-    {
-     "q": "Is Divine suitable for a baby?",
-     "a": "Divine is used as a unisex given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Divine?",
-     "a": "Divine is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Divine?",
-     "a": "Divine is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Divine have a positive meaning?",
-     "a": "Divine carries the meaning “From the divine”."
-    },
-    {
-     "q": "What does the name Divine mean?",
-     "a": "Divine means “From the divine”."
-    },
-    {
-     "q": "What is the origin of the name Divine?",
-     "a": "Divine is of Biblical origin."
-    },
-    {
-     "q": "Is Divine a unisex name?",
-     "a": "Divine is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Divine have?",
-     "a": "Divine has 2 syllables."
-    },
-    {
-     "q": "How is Divine pronounced?",
-     "a": "Divine is pronounced as given in the pronunciation field of this record."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 9,
-    "life_path_number": 9,
-    "ruling_planet": "Mars",
-    "lucky_day": "Tuesday",
-    "lucky_stone": "Red Coral",
-    "lucky_colors": [
-     "Red",
-     "Crimson"
+  "success": true,
+  "data": {
+    "name": "Divine",
+    "slug": "divine",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Divine total 36, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Unisex",
+    "gender_notes": "Divine is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "From the divine",
+    "long_meaning": "The meaning of Divine is recorded in name-lists as “From the divine”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Divine expresses “From the divine”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "d-i-v-i-n-e",
+    "syllables": 2,
+    "name_length": 6,
+    "transliteration": [
+      "Divine"
+    ],
+    "lucky_number": 9,
+    "lucky_day": "Tuesday",
+    "lucky_colors": [
+      "Red",
+      "Crimson"
+    ],
+    "lucky_stone": "Red Coral",
+    "ruling_planet": "Mars",
+    "life_path_number": 9,
+    "numerology_meaning": "In Pythagorean numerology the letters of Divine total 36, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
+    "in_hebrew": {
+      "name": "דיבין",
+      "meaning": "קדוש, אלוהי, שמיימי",
+      "long_meaning": "השם דיבין מקורו במילה העברית 'דיווין' שמשמעותה קדוש או אלוהי, וכן הוא קשור למילה 'דו' שפירושה שניים, ו- 'וין' שפירושה בן או יין. השם נגזר מהמילה היוונית 'θεῖος' (theios) שמשמעותה אלוהי או שמיימי. השם דיבין משמש לעתים קרובות ככינוי לאלוהים או לישוע המשיח בכתבי הקודש הנוצריים."
+    },
+    "in_greek": {
+      "name": "Θεΐα",
+      "meaning": "Θεία, Θεῖος, Ἀγία",
+      "long_meaning": "Ὁ ὄνομα Θεΐα προέρχεται ἀπό τὴν ἑλληνικὴ λέξη 'θεῖος' (theios) ποὺ σημαίνει ἀλόημος ἢ θεϊκός. Ἡ λέξη 'θεῖος' εἶναι παράγωγο τῆς λέξεως 'θεός' (theos) ποὺ σημαίνει Θεός ἢ δαίμονας. Ὁ ὄνομα Θεΐα χρήζεται συχνὰ εἰς τὰ Χριστιανικὰ γράφα ὡς προσωνυμία τοῦ Θεοῦ ἢ τοῦ Ἰησοῦ Χριστοῦ."
+    },
+    "in_latin": {
+      "name": "Divinus",
+      "meaning": "Deus, divinus, sanctus",
+      "long_meaning": "Nomen Divinus a Latina voce 'divinus' derivatur, quae significat 'divine' vel 'sanctus'. Nomen etiam coniunctum est cum verbo 'deus', quod significat 'Deus' vel 'divinitas'. In Ecclesia Christiana, nomen Divinus saepe adhibetur ut titulus Dei vel Iesu Christi."
+    },
+    "in_english": {
+      "name": "Divine",
+      "meaning": "From the divine",
+      "long_meaning": "From the divine"
+    },
+    "pronunciation": {
+      "english": "di-VINE",
+      "ipa": "/dɪˈvaɪn/"
+    },
+    "name_variations": [
+      "Divine"
+    ],
+    "variants": [
+      "Divine"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Divine is used in Biblical naming tradition with the meaning “From the divine”.",
+    "spiritual_significance": "Any spiritual significance attached to Divine is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “From the divine” is the basis of any symbolism attached to Divine; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Divine."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#DivineMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Divine"
+    ],
+    "monetization": {
+      "ads": {
+        "google_ad_sense": "ca-pub-1234567890123456",
+        "amazon_affiliate": "abcdefg123456"
+      },
+      "sponsorship": "Contact us for sponsorship opportunities.",
+      "donations": {
+        "paypal": "donate@example.com",
+        "patreon": "https://www.patreon.com/example"
+      }
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Divine Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Divine has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Divine, Divine name meaning, Divine meaning, Divine origin, Divine root, Divine pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Divine has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Divine",
+        "Divine name meaning",
+        "Divine meaning",
+        "Divine origin",
+        "Divine root",
+        "Divine pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Divine name meaning",
+      "secondary_keywords": [
+        "Divine meaning",
+        "Divine origin",
+        "Divine pronunciation",
+        "Divine lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Divine mean?",
+          "a": "Name-lists record the meaning as “From the divine”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Divine verified?",
+          "a": "No. The meaning of Divine could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Divine come from?",
+          "a": "The origin of Divine has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Divine Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Divine has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Divine",
+      "Divine name meaning",
+      "Divine meaning",
+      "Divine origin",
+      "Divine root",
+      "Divine pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Divine has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Divine",
+      "description": "Divine — From the divine",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Divine mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “From the divine”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Divine verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Divine could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Divine come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Divine has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:08:43.000Z",
+    "tier1_verified": {
+      "name": "Divine",
+      "slug": "divine",
+      "meaning": "From the divine",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Divine",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "From the divine",
+      "long_meaning": "The name Divine is recorded with the meaning “From the divine”. Divine is a Biblical name meaning “From the divine”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Divine",
+          "meaning": "From the divine",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "di-VINE",
+        "ipa": "/dɪˈvaɪn/"
+      },
+      "syllables": 2,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Divine mean?",
+          "a": "Name-lists record the meaning as “From the divine”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Divine verified?",
+          "a": "No. The meaning of Divine could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Divine come from?",
+          "a": "The origin of Divine has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 9,
+        "life_path_number": 9,
+        "ruling_planet": "Mars",
+        "lucky_day": "Tuesday",
+        "lucky_stone": "Red Coral",
+        "lucky_colors": [
+          "Red",
+          "Crimson"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Divine total 36, reducing to 9. Number 9 is associated with compassion, idealism and completion."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:08:43.000Z"
+    }
   }
- }
 }

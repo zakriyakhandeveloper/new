@@ -1,498 +1,337 @@
 {
- "success": true,
- "data": {
-  "name": "Efrain",
-  "slug": "efrain",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Efrain is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "God will strengthen",
-  "long_meaning": "The name Efrain is recorded with the meaning “God will strengthen”. Efrain is a Biblical name meaning “God will strengthen”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Efrain expresses “God will strengthen”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Efrain is recorded with the meaning “God will strengthen”. Efrain is a Biblical name meaning “God will strengthen”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "e-f-r-a-i-n",
-  "syllables": 2,
-  "name_length": 6,
-  "transliteration": [
-   "Efrain"
-  ],
-  "lucky_number": 8,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Blue",
-   "Black"
-  ],
-  "lucky_stone": "Blue Sapphire",
-  "ruling_planet": "Saturn",
-  "life_path_number": 8,
-  "numerology_meaning": "In Pythagorean numerology the letters of Efrain total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
-  "in_hebrew": {
-   "name": "אפרים",
-   "meaning": "פריון מרובה פרי בארץ ישראל",
-   "long_meaning": "אפרים הוא שם שמקורו בעברית ומשמעותו 'פריון מרובה פרי בארץ ישראל'. השם אפרים מוזכר בתנ'ך כבן של יוסף ואשתו אסנת, ונכדו של יעקב. הוא היה אביו של עם ישראל ועליו התנבא יעקב באמרו 'הוא יהיה מלא פרי וזרעו לשלשם' (בראשית מח 19). האפימציה לאפרים הייתה גדולה בישראל ועל שמו נקראה אחת משבטי ישראל - שבט אפרים."
-  },
-  "in_greek": {
-   "name": "Εφραΐμ",
-   "meaning": "πολυκαρπός χώρα ἐν τῇ γῇ Ἰσραήλ",
-   "long_meaning": "Εφραΐμ ὁ ὄνομα προέρχεται ἀπὸ τὴν ἑβραϊκὴν γλώσσαν καὶ σημαίνει 'πολυκαρπός χώρα ἐν τῇ γῇ Ἰσραήλ'. Ὁ Εφραΐμ εἶναι υἱὸς τοῦ Ἰωσήφ καὶ τῆς Ἀσνάθ, καὶ εγγονὸς τοῦ Ἰακώβ. Ἐγένετο πατήρ τοῦ λαοῦ Ἰσραήλ καὶ προεφήτευσε περὶ αὐτοῦ ὁ Ἰακὼβ λέγων 'αὐτός ἔσται εὐfruitful καὶ πονησεὶ εἰς γενεὰς καὶ γενεὰς' (Γένεσις 48.19). Ἡ σημασία τοῦ ονόματος Εφραΐμ εἶναι μεγάλη στὴν παράδοση τῶν Ἰσραηλιτῶν καὶ ἀπὸ τὸ ὄνομά του ὀνομάστηκε μιὰ ἀπὸ τὶς φυλές τοῦ λαοῦ Ἰσραήλ - ἡ φυλή Εφραΐμ."
-  },
-  "in_latin": {
-   "name": "Ephraim",
-   "meaning": "fruitful land of Israel",
-   "long_meaning": "The name Ephraim originates from the Hebrew language and translates to 'fruitful land of Israel'. Ephraim was the son of Joseph and Asenath, and the grandson of Jacob. He became a father figure to the Israelites and was prophesied by Jacob, saying 'he shall be fruitful and bring forth a multitude of nations' (Genesis 48:19). The name Ephraim holds great significance in Christian tradition and is associated with one of the tribes of Israel, the tribe of Ephraim."
-  },
-  "in_english": {
-   "name": "Efrain",
-   "meaning": "God will strengthen",
-   "long_meaning": "The name Efrain is recorded with the meaning “God will strengthen”. Efrain is a Biblical name meaning “God will strengthen”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "eh-FRAY-im",
-   "biblical": "eph-rah-IM",
-   "ipa": "/ɛˈfreɪɪm/"
-  },
-  "name_variations": [
-   "Efrain"
-  ],
-  "variants": [
-   "Efrain"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Efrain is used in Biblical naming tradition with the meaning “God will strengthen”.",
-  "spiritual_significance": "Any spiritual significance attached to Efrain is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “God will strengthen” is the basis of any symbolism attached to Efrain; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": true,
-   "origin_scripture": "Genesis",
-   "verse_reference": "Genesis 48:19",
-   "note": "Ephraim was a significant figure in the book of Genesis, being one of the sons of Joseph."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Efrain."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#EfrainMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Efrain"
-  ],
-  "monetization": {
-   "affiliate_links": [
-    {
-     "text": "Shop for baby items named Efrain",
-     "url": "https://example.com/efrain-baby-items"
-    }
-   ],
-   "ads": {
-    "location": "sidebar",
-    "type": "display"
-   }
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Efrain Name Meaning – God will strengthen (Biblical)",
-   "meta_description": "Efrain is a Biblical name meaning “God will strengthen”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Efrain, Efrain name meaning, Efrain meaning, Efrain origin, Efrain root, Efrain pronunciation, Biblical names",
-   "description_paragraph": "Efrain is a Biblical name meaning “God will strengthen”.",
-   "keywords": [
-    "Efrain",
-    "Efrain name meaning",
-    "Efrain meaning",
-    "Efrain origin",
-    "Efrain root",
-    "Efrain pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Efrain name meaning",
-   "secondary_keywords": [
-    "Efrain meaning",
-    "Efrain origin",
-    "Efrain pronunciation",
-    "Efrain lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/efrain",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Does Efrain have a religious meaning?",
-     "a": "Efrain is recorded as a christian name meaning “God will strengthen”."
-    },
-    {
-     "q": "What is the English meaning of Efrain?",
-     "a": "In English, Efrain is rendered as “God will strengthen”."
-    },
-    {
-     "q": "Is Efrain suitable for a baby?",
-     "a": "Efrain is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Efrain?",
-     "a": "Efrain is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Efrain?",
-     "a": "Efrain is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Efrain have a positive meaning?",
-     "a": "Efrain carries the meaning “God will strengthen”."
-    },
-    {
-     "q": "What does the name Efrain mean?",
-     "a": "Efrain means “God will strengthen”."
-    },
-    {
-     "q": "What is the origin of the name Efrain?",
-     "a": "Efrain is of Biblical origin."
-    },
-    {
-     "q": "Is Efrain a male name?",
-     "a": "Efrain is used as a male name."
-    },
-    {
-     "q": "How many syllables does Efrain have?",
-     "a": "Efrain has 2 syllables."
-    },
-    {
-     "q": "How is Efrain pronounced?",
-     "a": "Efrain is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Efrain?",
-     "a": "Any spiritual significance attached to Efrain is interpretive and is labelled as such in this record."
-    }
-   ]
-  },
-  "seo_title": "Efrain Name Meaning – God will strengthen (Biblical)",
-  "meta_description": "Efrain is a Biblical name meaning “God will strengthen”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Efrain",
-   "Efrain name meaning",
-   "Efrain meaning",
-   "Efrain origin",
-   "Efrain root",
-   "Efrain pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/efrain",
-  "intro_paragraph": "Efrain is a Biblical name meaning “God will strengthen”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Efrain",
-   "description": "Efrain — God will strengthen",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Does Efrain have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Efrain is recorded as a christian name meaning “God will strengthen”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Efrain?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Efrain is rendered as “God will strengthen”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Efrain suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Efrain is used as a male given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Efrain?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Efrain is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Efrain?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Efrain is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Efrain have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Efrain carries the meaning “God will strengthen”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Efrain mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Efrain means “God will strengthen”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Efrain?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Efrain is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Efrain a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Efrain is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Efrain have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Efrain has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Efrain pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Efrain is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Efrain?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Efrain is interpretive and is labelled as such in this record."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Efrain",
-     "item": "https://namemeaning.example/name/efrain"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 54,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Efrain",
-   "slug": "efrain",
-   "meaning": "God will strengthen",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Efrain",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "God will strengthen",
-   "long_meaning": "The name Efrain is recorded with the meaning “God will strengthen”. Efrain is a Biblical name meaning “God will strengthen”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Efrain",
-     "meaning": "God will strengthen",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "eh-FRAY-im",
-    "ipa": "/ɛˈfreɪɪm/"
-   },
-   "syllables": 2,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "Does Efrain have a religious meaning?",
-     "a": "Efrain is recorded as a christian name meaning “God will strengthen”."
-    },
-    {
-     "q": "What is the English meaning of Efrain?",
-     "a": "In English, Efrain is rendered as “God will strengthen”."
-    },
-    {
-     "q": "Is Efrain suitable for a baby?",
-     "a": "Efrain is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Efrain?",
-     "a": "Efrain is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Efrain?",
-     "a": "Efrain is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Efrain have a positive meaning?",
-     "a": "Efrain carries the meaning “God will strengthen”."
-    },
-    {
-     "q": "What does the name Efrain mean?",
-     "a": "Efrain means “God will strengthen”."
-    },
-    {
-     "q": "What is the origin of the name Efrain?",
-     "a": "Efrain is of Biblical origin."
-    },
-    {
-     "q": "Is Efrain a male name?",
-     "a": "Efrain is used as a male name."
-    },
-    {
-     "q": "How many syllables does Efrain have?",
-     "a": "Efrain has 2 syllables."
-    },
-    {
-     "q": "How is Efrain pronounced?",
-     "a": "Efrain is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Efrain?",
-     "a": "Any spiritual significance attached to Efrain is interpretive and is labelled as such in this record."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 8,
-    "life_path_number": 8,
-    "ruling_planet": "Saturn",
-    "lucky_day": "Saturday",
-    "lucky_stone": "Blue Sapphire",
-    "lucky_colors": [
-     "Blue",
-     "Black"
+  "success": true,
+  "data": {
+    "name": "Efrain",
+    "slug": "efrain",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Efrain total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Efrain is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "God will strengthen",
+    "long_meaning": "The meaning of Efrain is recorded in name-lists as “God will strengthen”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Efrain expresses “God will strengthen”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "e-f-r-a-i-n",
+    "syllables": 2,
+    "name_length": 6,
+    "transliteration": [
+      "Efrain"
+    ],
+    "lucky_number": 8,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Blue",
+      "Black"
+    ],
+    "lucky_stone": "Blue Sapphire",
+    "ruling_planet": "Saturn",
+    "life_path_number": 8,
+    "numerology_meaning": "In Pythagorean numerology the letters of Efrain total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery.",
+    "in_hebrew": {
+      "name": "אפרים",
+      "meaning": "פריון מרובה פרי בארץ ישראל",
+      "long_meaning": "אפרים הוא שם שמקורו בעברית ומשמעותו 'פריון מרובה פרי בארץ ישראל'. השם אפרים מוזכר בתנ'ך כבן של יוסף ואשתו אסנת, ונכדו של יעקב. הוא היה אביו של עם ישראל ועליו התנבא יעקב באמרו 'הוא יהיה מלא פרי וזרעו לשלשם' (בראשית מח 19). האפימציה לאפרים הייתה גדולה בישראל ועל שמו נקראה אחת משבטי ישראל - שבט אפרים."
+    },
+    "in_greek": {
+      "name": "Εφραΐμ",
+      "meaning": "πολυκαρπός χώρα ἐν τῇ γῇ Ἰσραήλ",
+      "long_meaning": "Εφραΐμ ὁ ὄνομα προέρχεται ἀπὸ τὴν ἑβραϊκὴν γλώσσαν καὶ σημαίνει 'πολυκαρπός χώρα ἐν τῇ γῇ Ἰσραήλ'. Ὁ Εφραΐμ εἶναι υἱὸς τοῦ Ἰωσήφ καὶ τῆς Ἀσνάθ, καὶ εγγονὸς τοῦ Ἰακώβ. Ἐγένετο πατήρ τοῦ λαοῦ Ἰσραήλ καὶ προεφήτευσε περὶ αὐτοῦ ὁ Ἰακὼβ λέγων 'αὐτός ἔσται εὐfruitful καὶ πονησεὶ εἰς γενεὰς καὶ γενεὰς' (Γένεσις 48.19). Ἡ σημασία τοῦ ονόματος Εφραΐμ εἶναι μεγάλη στὴν παράδοση τῶν Ἰσραηλιτῶν καὶ ἀπὸ τὸ ὄνομά του ὀνομάστηκε μιὰ ἀπὸ τὶς φυλές τοῦ λαοῦ Ἰσραήλ - ἡ φυλή Εφραΐμ."
+    },
+    "in_latin": {
+      "name": "Ephraim",
+      "meaning": "fruitful land of Israel",
+      "long_meaning": "The name Ephraim originates from the Hebrew language and translates to 'fruitful land of Israel'. Ephraim was the son of Joseph and Asenath, and the grandson of Jacob. He became a father figure to the Israelites and was prophesied by Jacob, saying 'he shall be fruitful and bring forth a multitude of nations' (Genesis 48:19). The name Ephraim holds great significance in Christian tradition and is associated with one of the tribes of Israel, the tribe of Ephraim."
+    },
+    "in_english": {
+      "name": "Efrain",
+      "meaning": "God will strengthen",
+      "long_meaning": "God will strengthen"
+    },
+    "pronunciation": {
+      "english": "eh-FRAY-im",
+      "biblical": "eph-rah-IM",
+      "ipa": "/ɛˈfreɪɪm/"
+    },
+    "name_variations": [
+      "Efrain"
+    ],
+    "variants": [
+      "Efrain"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Efrain is used in Biblical naming tradition with the meaning “God will strengthen”.",
+    "spiritual_significance": "Any spiritual significance attached to Efrain is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “God will strengthen” is the basis of any symbolism attached to Efrain; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "Genesis",
+      "verse_reference": "Genesis 48:19",
+      "note": "Ephraim was a significant figure in the book of Genesis, being one of the sons of Joseph."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Efrain."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#EfrainMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Efrain"
+    ],
+    "monetization": {
+      "affiliate_links": [
+        {
+          "text": "Shop for baby items named Efrain",
+          "url": "https://example.com/efrain-baby-items"
+        }
+      ],
+      "ads": {
+        "location": "sidebar",
+        "type": "display"
+      }
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Efrain Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Efrain has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Efrain, Efrain name meaning, Efrain meaning, Efrain origin, Efrain root, Efrain pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Efrain has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Efrain",
+        "Efrain name meaning",
+        "Efrain meaning",
+        "Efrain origin",
+        "Efrain root",
+        "Efrain pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Efrain name meaning",
+      "secondary_keywords": [
+        "Efrain meaning",
+        "Efrain origin",
+        "Efrain pronunciation",
+        "Efrain lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Efrain mean?",
+          "a": "Name-lists record the meaning as “God will strengthen”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Efrain verified?",
+          "a": "No. The meaning of Efrain could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Efrain come from?",
+          "a": "The origin of Efrain has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Efrain Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Efrain has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Efrain",
+      "Efrain name meaning",
+      "Efrain meaning",
+      "Efrain origin",
+      "Efrain root",
+      "Efrain pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Efrain has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Efrain",
+      "description": "Efrain — God will strengthen",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Efrain mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “God will strengthen”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Efrain verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Efrain could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Efrain come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Efrain has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 54,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:09:10.000Z",
+    "tier1_verified": {
+      "name": "Efrain",
+      "slug": "efrain",
+      "meaning": "God will strengthen",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Efrain",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "God will strengthen",
+      "long_meaning": "The name Efrain is recorded with the meaning “God will strengthen”. Efrain is a Biblical name meaning “God will strengthen”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Efrain",
+          "meaning": "God will strengthen",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "eh-FRAY-im",
+        "ipa": "/ɛˈfreɪɪm/"
+      },
+      "syllables": 2,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Efrain mean?",
+          "a": "Name-lists record the meaning as “God will strengthen”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Efrain verified?",
+          "a": "No. The meaning of Efrain could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Efrain come from?",
+          "a": "The origin of Efrain has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 8,
+        "life_path_number": 8,
+        "ruling_planet": "Saturn",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Blue Sapphire",
+        "lucky_colors": [
+          "Blue",
+          "Black"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Efrain total 35, reducing to 8. Number 8 is associated with ambition, authority and material mastery."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:09:10.000Z"
+    }
   }
- }
 }

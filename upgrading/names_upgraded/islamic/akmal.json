@@ -1,547 +1,386 @@
 {
- "success": true,
- "data": {
-  "name": "Akmal",
-  "slug": "akmal",
-  "language": [
-   "Arabic",
-   "Urdu",
-   "Persian"
-  ],
-  "gender": "Male",
-  "gender_notes": "Akmal is used as a male name in islamic naming traditions.",
-  "origin": "Arabic",
-  "religion": "islamic",
-  "category": "Islamic",
-  "culture": [
-   "Arabic"
-  ],
-  "short_meaning": "Perfect, Complete",
-  "long_meaning": "The name Akmal is recorded with the meaning “Perfect, Complete”. Akmal is a Arabic name meaning “Perfect, Complete”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Akmal expresses “Perfect, Complete”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Akmal is recorded with the meaning “Perfect, Complete”. Akmal is a Arabic name meaning “Perfect, Complete”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Arabic",
-  "root_letters": "a-k-m-a-l",
-  "syllables": 2,
-  "name_length": 5,
-  "transliteration": [
-   "Akmal"
-  ],
-  "lucky_number": 2,
-  "lucky_day": "Monday",
-  "lucky_colors": [
-   "White",
-   "Silver"
-  ],
-  "lucky_stone": "Pearl",
-  "ruling_planet": "Moon",
-  "life_path_number": 2,
-  "numerology_meaning": "In Pythagorean numerology the letters of Akmal total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
-  "in_arabic": {
-   "name": "أكمل",
-   "meaning": "أكمل يعني الكامل في جميع الصفات الحميدة والخصال",
-   "long_meaning": "اسم أكمل مشتق من الجذر العربي (ك-م-ل) الذي يعني الكمال والتمام. في اللغة العربية، يُستخدم هذا الاسم للإشارة إلى الشخص الذي يتصف بالكمال في جميع الصفات الحميدة والخصال. كما ورد في القرآن الكريم في سورة البقرة آية ١٢٨: ﴿وَأَكْمَلَ لَكُمْ دِينَكُمْ﴾، حيث يشير إلى إكمال الدين الإسلامي. تاريخياً، كان اسم أكمل يطلق على الأشخاص الذين يعتبرون مثالاً للكمال في الأخلاق والشخصية، مما يجعله اسمًا ذا أهمية كبيرة في الثقافة الإسلامية."
-  },
-  "in_urdu": {
-   "name": "اکمل",
-   "meaning": "اکمل کا مطلب ہوتا ہے مکمل خوبیاں اور اوصاف کا حامل",
-   "long_meaning": "اکمل نام عربی جڑ (ك-م-ل) سے ماخوذ ہے جس کا مطلب ہے مکمل یا مکمل کرنا۔ اردو میں، اس نام کا استعمال ان شخصیتوں کے لئے کیا جاتا ہے جو تمام اچھی خصوصیات اور خوبیاں رکھتے ہیں۔ اسلامی تقویم میں، یہ نام خاص طور پر اہمیت رکھتا ہے کیونکہ قرآن مجید میں سورة البقرة آية ١٢٨ میں ذکر کیا گیا ہے: ﴿وَأَكْمَلَ لَكُمْ دِينَكُمْ﴾، جو دین اسلام کی مکمل ہونے کی نشاندہی کرتا ہے۔ تاریخی طور پر، نام اکمل ان افراد کے لئے استعمال کیا جاتا تھا جو اخلاق اور شخصیت کے مثالی نمونے سمجھے جاتے تھے، جو اسے جنوبی ایشیائی اسلامی ثقافت میں ایک اہم نام بناتا ہے۔"
-  },
-  "in_hindi": {
-   "name": "अक्मल",
-   "meaning": "अक्मल का अर्थ होता है सभी अच्छे गुणों और विशेषताओं का संपूर्ण होना",
-   "long_meaning": "अक्मल नाम अरबी मूल (ك-م-ل) से लिया गया है, जिसका अर्थ है पूर्णता या पूरा करना। हिंदी में, इस नाम का उपयोग उन व्यक्तियों के लिए किया जाता है जो सभी अच्छे गुणों और विशेषताओं के साथ परिपूर्ण होते हैं। इस्लामी परंपरा में, यह नाम विशेष महत्व रखता है क्योंकि कुरआन में सूरह बक़राह आयत ١٢٨ में इसका उल्लेख है: ﴿وَأَكْمَلَ لَكُمْ دِينَكُمْ﴾, जो इस्लामी धर्म की पूर्णता को दर्शाता है। ऐतिहासिक रूप से, अक्मल नाम उन व्यक्तियों के लिए उपयोग किया जाता था जो चरित्र और व्यक्तित्व के आदर्श उदाहरण माने जाते थे, जो इसे भारतीय मुस्लिम समुदाय में एक महत्वपूर्ण नाम बनाता है।"
-  },
-  "in_pashto": {
-   "name": "اکمل",
-   "meaning": "اکمل د ټولو ښو صفاتو او ځانګړتیاوو بشپړ مالک دی",
-   "long_meaning": "اکمل نوم د عربي ريښې (ك-م-ل) څخه اخیستل شوی دی، چې معنی یې د بشپړتیا یا تمامولو څخه ده. په پښتو کې، دا نوم د هغو کسانو لپاره کارول کیږي چې د ټولو ښو صفاتو او ځانګړتیاوو سره بشپړ دي. په افغان او پښتون دود کې، دا نوم خاصه اهميت لري ځکه چې دا د اخلاق او شخصیت د مثالي نمونو په توګه ګڼل کیږي، کوم چې دا نوم په پښتني کلتور کې د پام وړ اهمیت سره یو ځای کوي."
-  },
-  "in_english": {
-   "name": "Akmal",
-   "meaning": "Perfect, Complete",
-   "long_meaning": "The name Akmal is recorded with the meaning “Perfect, Complete”. Akmal is a Arabic name meaning “Perfect, Complete”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "ah-KMAL",
-   "urdu": "اکمل کا تلفظ ہے 'اَکْمَل'",
-   "hindi": "अक्मल का उच्चारण है 'अ-क्मल'",
-   "pashto": "د اکمل تلفظ دی 'اکمل'",
-   "ipa": "/ˈakmal/"
-  },
-  "name_variations": [
-   "Akmal"
-  ],
-  "variants": [
-   "Akmal"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Akmal is used in Arabic naming tradition with the meaning “Perfect, Complete”.",
-  "spiritual_significance": "Any spiritual significance attached to Akmal is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Perfect, Complete” is the basis of any symbolism attached to Akmal; such symbolism is interpretive.",
-  "islamic_reference": {
-   "is_quranic": false,
-   "note": "No Qur'anic reference for Akmal has been verified."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Akmal."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#AkmalMeaning",
-   "#IslamicBabyNames",
-   "#ArabicNames",
-   "#MuslimNames",
-   "#Akmal"
-  ],
-  "monetization": {
-   "propush_trigger": true,
-   "exit_ad_enabled": true,
-   "ads_enabled": true
-  },
-  "user_engagement": {
-   "interactive_features": {
-    "name_calculator": true,
-    "meaning_quiz": true,
-    "pronunciation_tool": true,
-    "compatibility_checker": true
-   },
-   "community_features": {
-    "user_stories": [],
-    "rating_system": true,
-    "comment_section": true
-   },
-   "personalization": {
-    "favorite_lists": true,
-    "name_comparison": true,
-    "save_preferences": true
-   }
-  },
-  "social_optimization": {
-   "social_media_cards": {
-    "facebook": {
-     "title": "Beautiful Name: Akmal",
-     "description": "Discover the meaning of Akmal - \"Perfect, Complete\"",
-     "image": "/images/social/akmal-facebook.jpg"
-    },
-    "twitter": {
-     "title": "Akmal - Name Meaning",
-     "description": "Learn about the beautiful name Akmal",
-     "image": "/images/social/akmal-twitter.jpg"
-    },
-    "instagram": {
-     "title": "Akmal",
-     "description": "Name meaning: Perfect, Complete",
-     "image": "/images/social/akmal-instagram.jpg"
-    }
-   },
-   "sharing_optimization": {
-    "whatsapp_message": "Check out this beautiful name: Akmal - Meaning: Perfect, Complete",
-    "email_subject": "Beautiful Name: Akmal"
-   }
-  },
-  "accessibility": {
-   "screen_reader_optimized": true,
-   "alt_text": "Akmal with meaning Perfect, Complete",
-   "keyboard_navigable": true,
-   "high_contrast_mode": true,
-   "font_scaling_support": true,
-   "voice_navigation": true,
-   "braille_compatible": true,
-   "language_attributes": {
-    "primary": "en",
-    "rtl_support": false
-   }
-  },
-  "seo": {
-   "title": "Akmal Name Meaning – Perfect, Complete (Arabic)",
-   "meta_description": "Akmal is a Arabic name meaning “Perfect, Complete”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Akmal, Akmal name meaning, Akmal meaning, Akmal origin, Akmal root, Akmal pronunciation, Arabic names",
-   "description_paragraph": "Akmal is a Arabic name meaning “Perfect, Complete”.",
-   "keywords": [
-    "Akmal",
-    "Akmal name meaning",
-    "Akmal meaning",
-    "Akmal origin",
-    "Akmal root",
-    "Akmal pronunciation",
-    "Arabic names"
-   ],
-   "focus_keyword": "Akmal name meaning",
-   "secondary_keywords": [
-    "Akmal meaning",
-    "Akmal origin",
-    "Akmal pronunciation",
-    "Akmal lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/akmal",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the English meaning of Akmal?",
-     "a": "In English, Akmal is rendered as “Perfect, Complete”."
-    },
-    {
-     "q": "Is Akmal suitable for a baby?",
-     "a": "Akmal is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Akmal?",
-     "a": "Akmal is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Akmal?",
-     "a": "Akmal is used in Arabic naming traditions."
-    },
-    {
-     "q": "Does Akmal have a positive meaning?",
-     "a": "Akmal carries the meaning “Perfect, Complete”."
-    },
-    {
-     "q": "What does the name Akmal mean?",
-     "a": "Akmal means “Perfect, Complete”."
-    },
-    {
-     "q": "What is the origin of the name Akmal?",
-     "a": "Akmal is of Arabic origin."
-    },
-    {
-     "q": "Is Akmal a male name?",
-     "a": "Akmal is used as a male name."
-    },
-    {
-     "q": "How many syllables does Akmal have?",
-     "a": "Akmal has 2 syllables."
-    },
-    {
-     "q": "How is Akmal pronounced?",
-     "a": "Akmal is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Akmal?",
-     "a": "Any spiritual significance attached to Akmal is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Akmal?",
-     "a": "Variant spellings of Akmal are listed in the variants field of this record."
-    }
-   ]
-  },
-  "seo_title": "Akmal Name Meaning – Perfect, Complete (Arabic)",
-  "meta_description": "Akmal is a Arabic name meaning “Perfect, Complete”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Akmal",
-   "Akmal name meaning",
-   "Akmal meaning",
-   "Akmal origin",
-   "Akmal root",
-   "Akmal pronunciation",
-   "Arabic names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/akmal",
-  "intro_paragraph": "Akmal is a Arabic name meaning “Perfect, Complete”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Akmal",
-   "description": "Akmal — Perfect, Complete",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Akmal?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Akmal is rendered as “Perfect, Complete”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Akmal suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Akmal is used as a male given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Akmal?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Akmal is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Akmal?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Akmal is used in Arabic naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Akmal have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Akmal carries the meaning “Perfect, Complete”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Akmal mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Akmal means “Perfect, Complete”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Akmal?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Akmal is of Arabic origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Akmal a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Akmal is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Akmal have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Akmal has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Akmal pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Akmal is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Akmal?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Akmal is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Akmal?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Akmal are listed in the variants field of this record."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Islamic",
-     "item": "https://namemeaning.example/islamic"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Akmal",
-     "item": "https://namemeaning.example/name/akmal"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 70
-  },
-  "created_at": "2025-12-22T19:19:49.831Z",
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Akmal",
-   "slug": "akmal",
-   "meaning": "Perfect, Complete",
-   "origin": "Arabic",
-   "language": [
-    "Arabic",
-    "Urdu",
-    "Persian"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Akmal",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Perfect, Complete",
-   "long_meaning": "The name Akmal is recorded with the meaning “Perfect, Complete”. Akmal is a Arabic name meaning “Perfect, Complete”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Akmal",
-     "meaning": "Perfect, Complete",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "ah-KMAL",
-    "ipa": "/ˈakmal/"
-   },
-   "syllables": 2,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "What is the English meaning of Akmal?",
-     "a": "In English, Akmal is rendered as “Perfect, Complete”."
-    },
-    {
-     "q": "Is Akmal suitable for a baby?",
-     "a": "Akmal is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Akmal?",
-     "a": "Akmal is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Akmal?",
-     "a": "Akmal is used in Arabic naming traditions."
-    },
-    {
-     "q": "Does Akmal have a positive meaning?",
-     "a": "Akmal carries the meaning “Perfect, Complete”."
-    },
-    {
-     "q": "What does the name Akmal mean?",
-     "a": "Akmal means “Perfect, Complete”."
-    },
-    {
-     "q": "What is the origin of the name Akmal?",
-     "a": "Akmal is of Arabic origin."
-    },
-    {
-     "q": "Is Akmal a male name?",
-     "a": "Akmal is used as a male name."
-    },
-    {
-     "q": "How many syllables does Akmal have?",
-     "a": "Akmal has 2 syllables."
-    },
-    {
-     "q": "How is Akmal pronounced?",
-     "a": "Akmal is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Akmal?",
-     "a": "Any spiritual significance attached to Akmal is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Akmal?",
-     "a": "Variant spellings of Akmal are listed in the variants field of this record."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 2,
-    "life_path_number": 2,
-    "ruling_planet": "Moon",
-    "lucky_day": "Monday",
-    "lucky_stone": "Pearl",
-    "lucky_colors": [
-     "White",
-     "Silver"
+  "success": true,
+  "data": {
+    "name": "Akmal",
+    "slug": "akmal",
+    "language": [
+      "Arabic",
+      "Urdu",
+      "Persian"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Akmal total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Akmal is used as a male name in islamic naming traditions.",
+    "origin": "Arabic",
+    "religion": "islamic",
+    "category": "Islamic",
+    "culture": [
+      "Arabic"
+    ],
+    "short_meaning": "Perfect, Complete",
+    "long_meaning": "The meaning of Akmal is recorded in name-lists as “Perfect, Complete”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Akmal expresses “Perfect, Complete”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Arabic",
+    "root_letters": "a-k-m-a-l",
+    "syllables": 2,
+    "name_length": 5,
+    "transliteration": [
+      "Akmal"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "White",
+      "Silver"
+    ],
+    "lucky_stone": "Pearl",
+    "ruling_planet": "Moon",
+    "life_path_number": 2,
+    "numerology_meaning": "In Pythagorean numerology the letters of Akmal total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
+    "in_arabic": {
+      "name": "أكمل",
+      "meaning": "Perfect, Complete",
+      "long_meaning": "Perfect, Complete"
+    },
+    "in_urdu": {
+      "name": "اکمل",
+      "meaning": "Perfect, Complete",
+      "long_meaning": "Perfect, Complete"
+    },
+    "in_hindi": {
+      "name": "अक्मल",
+      "meaning": "Perfect, Complete",
+      "long_meaning": "Perfect, Complete"
+    },
+    "in_pashto": {
+      "name": "اکمل",
+      "meaning": "Perfect, Complete",
+      "long_meaning": "Perfect, Complete"
+    },
+    "in_english": {
+      "name": "Akmal",
+      "meaning": "Perfect, Complete",
+      "long_meaning": "Perfect, Complete"
+    },
+    "pronunciation": {
+      "english": "ah-KMAL",
+      "urdu": "اکمل کا تلفظ ہے 'اَکْمَل'",
+      "hindi": "अक्मल का उच्चारण है 'अ-क्मल'",
+      "pashto": "د اکمل تلفظ دی 'اکمل'",
+      "ipa": "/ˈakmal/"
+    },
+    "name_variations": [
+      "Akmal"
+    ],
+    "variants": [
+      "Akmal"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Akmal is used in Arabic naming tradition with the meaning “Perfect, Complete”.",
+    "spiritual_significance": "Any spiritual significance attached to Akmal is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Perfect, Complete” is the basis of any symbolism attached to Akmal; such symbolism is interpretive.",
+    "islamic_reference": {
+      "is_quranic": false,
+      "note": "No Qur'anic reference for Akmal has been verified."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Akmal."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#AkmalMeaning",
+      "#IslamicBabyNames",
+      "#ArabicNames",
+      "#MuslimNames",
+      "#Akmal"
+    ],
+    "monetization": {
+      "propush_trigger": true,
+      "exit_ad_enabled": true,
+      "ads_enabled": true
+    },
+    "user_engagement": {
+      "interactive_features": {
+        "name_calculator": true,
+        "meaning_quiz": true,
+        "pronunciation_tool": true,
+        "compatibility_checker": true
+      },
+      "community_features": {
+        "user_stories": [],
+        "rating_system": true,
+        "comment_section": true
+      },
+      "personalization": {
+        "favorite_lists": true,
+        "name_comparison": true,
+        "save_preferences": true
+      }
+    },
+    "social_optimization": {
+      "social_media_cards": {
+        "facebook": {
+          "title": "Beautiful Name: Akmal",
+          "description": "Discover the meaning of Akmal - \"Perfect, Complete\"",
+          "image": "/images/social/akmal-facebook.jpg"
+        },
+        "twitter": {
+          "title": "Akmal - Name Meaning",
+          "description": "Learn about the beautiful name Akmal",
+          "image": "/images/social/akmal-twitter.jpg"
+        },
+        "instagram": {
+          "title": "Akmal",
+          "description": "Name meaning: Perfect, Complete",
+          "image": "/images/social/akmal-instagram.jpg"
+        }
+      },
+      "sharing_optimization": {
+        "whatsapp_message": "Check out this beautiful name: Akmal - Meaning: Perfect, Complete",
+        "email_subject": "Beautiful Name: Akmal"
+      }
+    },
+    "accessibility": {
+      "screen_reader_optimized": true,
+      "alt_text": "Akmal with meaning Perfect, Complete",
+      "keyboard_navigable": true,
+      "high_contrast_mode": true,
+      "font_scaling_support": true,
+      "voice_navigation": true,
+      "braille_compatible": true,
+      "language_attributes": {
+        "primary": "en",
+        "rtl_support": false
+      }
+    },
+    "seo": {
+      "title": "Akmal Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Akmal has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Akmal, Akmal name meaning, Akmal meaning, Akmal origin, Akmal root, Akmal pronunciation, Arabic names",
+      "description_paragraph": "The meaning of Akmal has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Akmal",
+        "Akmal name meaning",
+        "Akmal meaning",
+        "Akmal origin",
+        "Akmal root",
+        "Akmal pronunciation",
+        "Arabic names"
+      ],
+      "focus_keyword": "Akmal name meaning",
+      "secondary_keywords": [
+        "Akmal meaning",
+        "Akmal origin",
+        "Akmal pronunciation",
+        "Akmal lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Akmal mean?",
+          "a": "Name-lists record the meaning as “Perfect, Complete”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Akmal verified?",
+          "a": "No. The meaning of Akmal could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Akmal come from?",
+          "a": "The origin of Akmal has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Akmal Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Akmal has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Akmal",
+      "Akmal name meaning",
+      "Akmal meaning",
+      "Akmal origin",
+      "Akmal root",
+      "Akmal pronunciation",
+      "Arabic names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Akmal has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Akmal",
+      "description": "Akmal — Perfect, Complete",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Akmal mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Perfect, Complete”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Akmal verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Akmal could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Akmal come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Akmal has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 70
+    },
+    "created_at": "2025-12-22T19:19:49.831Z",
+    "updated_at": "2026-10-01T04:04:34.000Z",
+    "tier1_verified": {
+      "name": "Akmal",
+      "slug": "akmal",
+      "meaning": "Perfect, Complete",
+      "origin": "Arabic",
+      "language": [
+        "Arabic",
+        "Urdu",
+        "Persian"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Akmal",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Perfect, Complete",
+      "long_meaning": "The name Akmal is recorded with the meaning “Perfect, Complete”. Akmal is a Arabic name meaning “Perfect, Complete”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Akmal",
+          "meaning": "Perfect, Complete",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "ah-KMAL",
+        "ipa": "/ˈakmal/"
+      },
+      "syllables": 2,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Akmal mean?",
+          "a": "Name-lists record the meaning as “Perfect, Complete”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Akmal verified?",
+          "a": "No. The meaning of Akmal could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Akmal come from?",
+          "a": "The origin of Akmal has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 2,
+        "life_path_number": 2,
+        "ruling_planet": "Moon",
+        "lucky_day": "Monday",
+        "lucky_stone": "Pearl",
+        "lucky_colors": [
+          "White",
+          "Silver"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Akmal total 11, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:04:34.000Z"
+    }
   }
- }
 }

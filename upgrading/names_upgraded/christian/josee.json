@@ -1,502 +1,341 @@
 {
- "success": true,
- "data": {
-  "name": "Josee",
-  "slug": "josee",
-  "language": [
-   "English",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Unisex",
-  "gender_notes": "Josee is used as a unisex name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "God's Healer",
-  "long_meaning": "The name Josee is recorded with the meaning “God's Healer”. Josee is a Biblical name meaning “God's Healer”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Josee expresses “God's Healer”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Josee is recorded with the meaning “God's Healer”. Josee is a Biblical name meaning “God's Healer”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "j-o-s-e-e",
-  "syllables": 1,
-  "name_length": 5,
-  "transliteration": [
-   "Josee"
-  ],
-  "lucky_number": 9,
-  "lucky_day": "Tuesday",
-  "lucky_colors": [
-   "Red",
-   "Crimson"
-  ],
-  "lucky_stone": "Red Coral",
-  "ruling_planet": "Mars",
-  "life_path_number": 9,
-  "numerology_meaning": "In Pythagorean numerology the letters of Josee total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
-  "in_hebrew": {
-   "name": "יוזי",
-   "meaning": "אלוהים יוסף - אלוהים יוסיף",
-   "long_meaning": "השם יוזי הוא נגזר מהשם העברי יוסף, שפירושו 'אלוהים יוסף' או 'אלוהים יוסיף'. השם יוסף הוא אחד מהשמות הנפוצים ביותר בתנ'ך, והוא מוזכר לראשונה בספר בראשית. הנושא של השם הוא על הגדלת ועל השגשוג שנתן אלוהים לאדם הנושא את השם."
-  },
-  "in_greek": {
-   "name": "Χοζε",
-   "meaning": "Ο Θεός προσθέτει",
-   "long_meaning": "Το όνομα Χοζε είναι μια μορφή του ονόματος Ιωσήφ, που σημαίνει 'Ο Θεός προσθέτει' ή 'Ο Θεός αυξάνει'. Στην Καινή Διαθήκη, το όνομα Ιωσήφ αναφέρεται σε πολλούς πρόσωπα, συμπεριλαμβανομένου του Ιωσήφ, του συζύγου της Μαρίας, της μητέρας του Ιησού. Το όνομα αυτό έχει μεγάλη σημασία στην παράδοση των πρώτων Χριστιανών."
-  },
-  "in_latin": {
-   "name": "Josee",
-   "meaning": "Deus addit",
-   "long_meaning": "Nomen Josee derivatur ex nomine hebraico Ioseph, quod significat 'Deus addit' vel 'Deus auget'. In Ecclesia primitiva, nomen Ioseph frequenter invenitur, et est nomen unius de apostolis Jesu Christi. Nomen hoc habet magnam significationem in traditione christiana, quia coniunctum est cum mysterio divino et humano."
-  },
-  "in_english": {
-   "name": "Josee",
-   "meaning": "God's Healer",
-   "long_meaning": "The name Josee is recorded with the meaning “God's Healer”. Josee is a Biblical name meaning “God's Healer”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "joh-ZAY",
-   "biblical": "yō-sēph",
-   "ipa": "/dʒoʊˈzeɪ/"
-  },
-  "name_variations": [
-   "Josee"
-  ],
-  "variants": [
-   "Josee"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Josee is used in Biblical naming tradition with the meaning “God's Healer”.",
-  "spiritual_significance": "Any spiritual significance attached to Josee is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “God's Healer” is the basis of any symbolism attached to Josee; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": true,
-   "origin_scripture": "Genesis",
-   "verse_reference": "Genesis 30:24",
-   "note": "The name Joseph first appears in Genesis 30:24, where it is given to the son of Jacob and Rachel."
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Josee."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#JoseeMeaning",
-   "#ChristianBabyNames",
-   "#BibleNames",
-   "#ChristianNames",
-   "#Josee"
-  ],
-  "monetization": {
-   "affiliate_links": [
-    "https://example.com/affiliate/baby-books",
-    "https://example.com/affiliate/baby-clothes"
-   ],
-   "ads": {
-    "types": [
-     "banner",
-     "native"
+  "success": true,
+  "data": {
+    "name": "Josee",
+    "slug": "josee",
+    "language": [
+      "English",
+      "Greek",
+      "Latin"
     ],
-    "positions": [
-     "header",
-     "sidebar"
-    ]
-   }
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Josee Name Meaning – God's Healer (Biblical)",
-   "meta_description": "Josee is a Biblical name meaning “God's Healer”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Josee, Josee name meaning, Josee meaning, Josee origin, Josee root, Josee pronunciation, Biblical names",
-   "description_paragraph": "Josee is a Biblical name meaning “God's Healer”.",
-   "keywords": [
-    "Josee",
-    "Josee name meaning",
-    "Josee meaning",
-    "Josee origin",
-    "Josee root",
-    "Josee pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Josee name meaning",
-   "secondary_keywords": [
-    "Josee meaning",
-    "Josee origin",
-    "Josee pronunciation",
-    "Josee lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/josee",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "What is the full form of Josee?",
-     "a": "Josee is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Josee?",
-     "a": "Josee is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Josee have a positive meaning?",
-     "a": "Josee carries the meaning “God's Healer”."
-    },
-    {
-     "q": "What does the name Josee mean?",
-     "a": "Josee means “God's Healer”."
-    },
-    {
-     "q": "What is the origin of the name Josee?",
-     "a": "Josee is of Biblical origin."
-    },
-    {
-     "q": "Is Josee a unisex name?",
-     "a": "Josee is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Josee have?",
-     "a": "Josee has 1 syllable."
-    },
-    {
-     "q": "How is Josee pronounced?",
-     "a": "Josee is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Josee?",
-     "a": "Any spiritual significance attached to Josee is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Josee?",
-     "a": "Variant spellings of Josee are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Josee a common name?",
-     "a": "Popularity figures for Josee have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Josee say about a child?",
-     "a": "The name Josee expresses “God's Healer”; any character association drawn from it is interpretive."
-    }
-   ]
-  },
-  "seo_title": "Josee Name Meaning – God's Healer (Biblical)",
-  "meta_description": "Josee is a Biblical name meaning “God's Healer”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Josee",
-   "Josee name meaning",
-   "Josee meaning",
-   "Josee origin",
-   "Josee root",
-   "Josee pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/josee",
-  "intro_paragraph": "Josee is a Biblical name meaning “God's Healer”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Josee",
-   "description": "Josee — God's Healer",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the full form of Josee?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Josee is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Josee?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Josee is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Josee have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Josee carries the meaning “God's Healer”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Josee mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Josee means “God's Healer”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Josee?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Josee is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Josee a unisex name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Josee is used as a unisex name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Josee have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Josee has 1 syllable."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Josee pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Josee is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Josee?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Josee is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Josee?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Josee are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Josee a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Josee have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Josee say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Josee expresses “God's Healer”; any character association drawn from it is interpretive."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Josee",
-     "item": "https://namemeaning.example/name/josee"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Josee",
-   "slug": "josee",
-   "meaning": "God's Healer",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Unisex",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Josee",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "God's Healer",
-   "long_meaning": "The name Josee is recorded with the meaning “God's Healer”. Josee is a Biblical name meaning “God's Healer”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Josee",
-     "meaning": "God's Healer",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "joh-ZAY",
-    "ipa": "/dʒoʊˈzeɪ/"
-   },
-   "syllables": 1,
-   "name_length": 5,
-   "faqs": [
-    {
-     "q": "What is the full form of Josee?",
-     "a": "Josee is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Josee?",
-     "a": "Josee is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Josee have a positive meaning?",
-     "a": "Josee carries the meaning “God's Healer”."
-    },
-    {
-     "q": "What does the name Josee mean?",
-     "a": "Josee means “God's Healer”."
-    },
-    {
-     "q": "What is the origin of the name Josee?",
-     "a": "Josee is of Biblical origin."
-    },
-    {
-     "q": "Is Josee a unisex name?",
-     "a": "Josee is used as a unisex name."
-    },
-    {
-     "q": "How many syllables does Josee have?",
-     "a": "Josee has 1 syllable."
-    },
-    {
-     "q": "How is Josee pronounced?",
-     "a": "Josee is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Josee?",
-     "a": "Any spiritual significance attached to Josee is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Josee?",
-     "a": "Variant spellings of Josee are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Josee a common name?",
-     "a": "Popularity figures for Josee have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Josee say about a child?",
-     "a": "The name Josee expresses “God's Healer”; any character association drawn from it is interpretive."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
+    "gender": "Unisex",
+    "gender_notes": "Josee is used as a unisex name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "God's Healer",
+    "long_meaning": "The meaning of Josee is recorded in name-lists as “God's Healer”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Josee expresses “God's Healer”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "j-o-s-e-e",
+    "syllables": 1,
+    "name_length": 5,
+    "transliteration": [
+      "Josee"
+    ],
     "lucky_number": 9,
-    "life_path_number": 9,
-    "ruling_planet": "Mars",
     "lucky_day": "Tuesday",
-    "lucky_stone": "Red Coral",
     "lucky_colors": [
-     "Red",
-     "Crimson"
+      "Red",
+      "Crimson"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Josee total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "lucky_stone": "Red Coral",
+    "ruling_planet": "Mars",
+    "life_path_number": 9,
+    "numerology_meaning": "In Pythagorean numerology the letters of Josee total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion.",
+    "in_hebrew": {
+      "name": "יוזי",
+      "meaning": "אלוהים יוסף - אלוהים יוסיף",
+      "long_meaning": "השם יוזי הוא נגזר מהשם העברי יוסף, שפירושו 'אלוהים יוסף' או 'אלוהים יוסיף'. השם יוסף הוא אחד מהשמות הנפוצים ביותר בתנ'ך, והוא מוזכר לראשונה בספר בראשית. הנושא של השם הוא על הגדלת ועל השגשוג שנתן אלוהים לאדם הנושא את השם."
+    },
+    "in_greek": {
+      "name": "Χοζε",
+      "meaning": "Ο Θεός προσθέτει",
+      "long_meaning": "Το όνομα Χοζε είναι μια μορφή του ονόματος Ιωσήφ, που σημαίνει 'Ο Θεός προσθέτει' ή 'Ο Θεός αυξάνει'. Στην Καινή Διαθήκη, το όνομα Ιωσήφ αναφέρεται σε πολλούς πρόσωπα, συμπεριλαμβανομένου του Ιωσήφ, του συζύγου της Μαρίας, της μητέρας του Ιησού. Το όνομα αυτό έχει μεγάλη σημασία στην παράδοση των πρώτων Χριστιανών."
+    },
+    "in_latin": {
+      "name": "Josee",
+      "meaning": "Deus addit",
+      "long_meaning": "Nomen Josee derivatur ex nomine hebraico Ioseph, quod significat 'Deus addit' vel 'Deus auget'. In Ecclesia primitiva, nomen Ioseph frequenter invenitur, et est nomen unius de apostolis Jesu Christi. Nomen hoc habet magnam significationem in traditione christiana, quia coniunctum est cum mysterio divino et humano."
+    },
+    "in_english": {
+      "name": "Josee",
+      "meaning": "God's Healer",
+      "long_meaning": "God's Healer"
+    },
+    "pronunciation": {
+      "english": "joh-ZAY",
+      "biblical": "yō-sēph",
+      "ipa": "/dʒoʊˈzeɪ/"
+    },
+    "name_variations": [
+      "Josee"
+    ],
+    "variants": [
+      "Josee"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Josee is used in Biblical naming tradition with the meaning “God's Healer”.",
+    "spiritual_significance": "Any spiritual significance attached to Josee is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “God's Healer” is the basis of any symbolism attached to Josee; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "Genesis",
+      "verse_reference": "Genesis 30:24",
+      "note": "The name Joseph first appears in Genesis 30:24, where it is given to the son of Jacob and Rachel."
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Josee."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#JoseeMeaning",
+      "#ChristianBabyNames",
+      "#BibleNames",
+      "#ChristianNames",
+      "#Josee"
+    ],
+    "monetization": {
+      "affiliate_links": [
+        "https://example.com/affiliate/baby-books",
+        "https://example.com/affiliate/baby-clothes"
+      ],
+      "ads": {
+        "types": [
+          "banner",
+          "native"
+        ],
+        "positions": [
+          "header",
+          "sidebar"
+        ]
+      }
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Josee Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Josee has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Josee, Josee name meaning, Josee meaning, Josee origin, Josee root, Josee pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Josee has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Josee",
+        "Josee name meaning",
+        "Josee meaning",
+        "Josee origin",
+        "Josee root",
+        "Josee pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Josee name meaning",
+      "secondary_keywords": [
+        "Josee meaning",
+        "Josee origin",
+        "Josee pronunciation",
+        "Josee lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Josee mean?",
+          "a": "Name-lists record the meaning as “God's Healer”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Josee verified?",
+          "a": "No. The meaning of Josee could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Josee come from?",
+          "a": "The origin of Josee has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Josee Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Josee has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Josee",
+      "Josee name meaning",
+      "Josee meaning",
+      "Josee origin",
+      "Josee root",
+      "Josee pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Josee has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Josee",
+      "description": "Josee — God's Healer",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Josee mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “God's Healer”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Josee verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Josee could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Josee come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Josee has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:18:18.000Z",
+    "tier1_verified": {
+      "name": "Josee",
+      "slug": "josee",
+      "meaning": "God's Healer",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Unisex",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Josee",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "God's Healer",
+      "long_meaning": "The name Josee is recorded with the meaning “God's Healer”. Josee is a Biblical name meaning “God's Healer”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Josee",
+          "meaning": "God's Healer",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "joh-ZAY",
+        "ipa": "/dʒoʊˈzeɪ/"
+      },
+      "syllables": 1,
+      "name_length": 5,
+      "faqs": [
+        {
+          "q": "What does the name Josee mean?",
+          "a": "Name-lists record the meaning as “God's Healer”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Josee verified?",
+          "a": "No. The meaning of Josee could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Josee come from?",
+          "a": "The origin of Josee has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 9,
+        "life_path_number": 9,
+        "ruling_planet": "Mars",
+        "lucky_day": "Tuesday",
+        "lucky_stone": "Red Coral",
+        "lucky_colors": [
+          "Red",
+          "Crimson"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Josee total 18, reducing to 9. Number 9 is associated with compassion, idealism and completion."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:18:18.000Z"
+    }
   }
- }
 }

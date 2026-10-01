@@ -1,497 +1,336 @@
 {
- "success": true,
- "data": {
-  "name": "Rudolf",
-  "slug": "rudolf",
-  "language": [
-   "English",
-   "Hebrew",
-   "Greek",
-   "Latin"
-  ],
-  "gender": "Male",
-  "gender_notes": "Rudolf is used as a male name in christian naming traditions.",
-  "origin": "Biblical",
-  "religion": "christian",
-  "category": "Biblical",
-  "culture": [
-   "Biblical"
-  ],
-  "short_meaning": "Wolf's counsel",
-  "long_meaning": "The name Rudolf is recorded with the meaning “Wolf's counsel”. Rudolf is a Biblical name meaning “Wolf's counsel”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "spiritual_meaning": "Rudolf expresses “Wolf's counsel”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "The name Rudolf is recorded with the meaning “Wolf's counsel”. Rudolf is a Biblical name meaning “Wolf's counsel”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-  "root": "",
-  "language_root": "Biblical",
-  "root_letters": "r-u-d-o-l-f",
-  "syllables": 2,
-  "name_length": 6,
-  "transliteration": [
-   "Rudolf"
-  ],
-  "lucky_number": 4,
-  "lucky_day": "Saturday",
-  "lucky_colors": [
-   "Grey",
-   "Blue"
-  ],
-  "lucky_stone": "Hessonite",
-  "ruling_planet": "Rahu",
-  "life_path_number": 4,
-  "numerology_meaning": "In Pythagorean numerology the letters of Rudolf total 31, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
-  "in_hebrew": {
-   "name": "רודולף",
-   "meaning": "בעברית, רודולף פירושו ידוע, תהילה ואהבה",
-   "long_meaning": "רודולף הוא שם תעתוע, שווייצרי, שמקורו בעברית, ופירושו ידוע - תהילה ואהבה. נראה שהשם רודולף הושפע מהלטינית, שם יהודי, ובא ליהדות. השם רודולף הוא שם נדיר, ולכאורה, אין לו קשרים לברית החדשה. עם זאת, ישנם אנשים רבים, ספציפית, שנולדו עם השם רודולף, וכולם רואים בו הזדמנות יוצאת דופן, שלא רק להיות יוצאי-דופן, אלא גם, שלהיות, אצל האנשים, התמידים, שיכולים, להביט, בעיני-העסק, אל-עבר, עבר, ולהיות, ערב, ולהיות, החדש, ולהיות, מאושר. בעיני-האל, כל-אדם, שנולד, עם השם, רודולף, הוא, בן-כבוד, וכל-אדם, שיחזור, במעש, על-פי-דעת, יקבל, כבוד, בעולם-הבא."
-  },
-  "in_greek": {
-   "name": "Ροδόルフος",
-   "meaning": "στο ελλήνικο, Ροδόルフος σημαίνει θηληφόρος",
-   "long_meaning": "Ο Ροδόルフος είναι ένα εκκλησιαστικό όνομα, που προέρχεται από τη λατινική γλώσσα. Η λέξη είναι σύνθεση δύο λέξεων: ρόδον (ρόδο) που σημαίνει θηλή και φος (φύς) που σημαίνει φως. Ο Ροδόルフος είναι ένα όνομα που δίνεται σε αγόρια και θεωρείται ότι αντιπροσωπεύει την αγάπη και την εκτίμηση για τους ανθρώπους. Στην Βίβλο, δεν υπάρχει κάποιο πρόσωπο με το όνομα Ροδόルフος. Ωστόσο, στοهدίζει ότι είναι ένα όνομα που αντιπροσωπεύει την αγάπη και την εκτίμηση για τους ανθρώπους. Στην Εκκλησιαστική παράδοση, ο Ροδόルフος είναι ένα από τα ονόματα που δίνεται σε αγόρια, που αντιπροσωπεύει την αγάπη και την εκτίμηση για τους ανθρώπους."
-  },
-  "in_latin": {
-   "name": "Rudolphus",
-   "meaning": "in latino, Rudolphus significat amator, amicorum",
-   "long_meaning": "Rudolphus est nomen masculinum, quod a Latina lingua originem ducit. Rudolphus significat amator, amicorum. Nomen est compositum ex duabus partibus: rodus, quod significat amor, et phus, quod significat lux. Rudolphus est nomen, quod in Ecclesia Catholica Romana usurpatum est. In historia Ecclesiae, Rudolphus est unus ex nominibus, quae in honorem sancti apostoli Petri dabantur. In cultura populari, Rudolphus est nomen, quod in libris et pelliculis apparuit. In familia, Rudolphus est nomen, quod in honorem sancti Rudolphi, episcopi, datur. In Ecclesia, Rudolphus est nomen, quod in honorem sancti apostoli Petri datur."
-  },
-  "in_english": {
-   "name": "Rudolf",
-   "meaning": "Wolf's counsel",
-   "long_meaning": "The name Rudolf is recorded with the meaning “Wolf's counsel”. Rudolf is a Biblical name meaning “Wolf's counsel”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification."
-  },
-  "pronunciation": {
-   "english": "ROO-dolf",
-   "biblical": "Not applicable",
-   "ipa": "/ˈruːdɒlf/"
-  },
-  "name_variations": [
-   "Rudolf"
-  ],
-  "variants": [
-   "Rudolf"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Rudolf is used in Biblical naming tradition with the meaning “Wolf's counsel”.",
-  "spiritual_significance": "Any spiritual significance attached to Rudolf is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Wolf's counsel” is the basis of any symbolism attached to Rudolf; such symbolism is interpretive.",
-  "biblical_reference": {
-   "is_biblical": false,
-   "origin_scripture": "",
-   "verse_reference": "",
-   "note": ""
-  },
-  "historical_references": [],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Rudolf."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#RudolfMeaning",
-   "#ChristianBabyNames",
-   "#NonBiblicalNames",
-   "#Rudolf"
-  ],
-  "monetization": {
-   "google_adsense": {
-    "publisher_id": "pub-1234567890123456",
-    "ad_unit_id": "ad_unit_1"
-   },
-   "affiliate_programs": [
-    "amazon",
-    "babiesrus"
-   ]
-  },
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Rudolf Name Meaning – Wolf's counsel (Biblical)",
-   "meta_description": "Rudolf is a Biblical name meaning “Wolf's counsel”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Rudolf, Rudolf name meaning, Rudolf meaning, Rudolf origin, Rudolf root, Rudolf pronunciation, Biblical names",
-   "description_paragraph": "Rudolf is a Biblical name meaning “Wolf's counsel”.",
-   "keywords": [
-    "Rudolf",
-    "Rudolf name meaning",
-    "Rudolf meaning",
-    "Rudolf origin",
-    "Rudolf root",
-    "Rudolf pronunciation",
-    "Biblical names"
-   ],
-   "focus_keyword": "Rudolf name meaning",
-   "secondary_keywords": [
-    "Rudolf meaning",
-    "Rudolf origin",
-    "Rudolf pronunciation",
-    "Rudolf lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/rudolf",
-   "seo_score": 70,
-   "faq": [
-    {
-     "q": "Does Rudolf have a religious meaning?",
-     "a": "Rudolf is recorded as a christian name meaning “Wolf's counsel”."
-    },
-    {
-     "q": "What is the English meaning of Rudolf?",
-     "a": "In English, Rudolf is rendered as “Wolf's counsel”."
-    },
-    {
-     "q": "Is Rudolf suitable for a baby?",
-     "a": "Rudolf is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Rudolf?",
-     "a": "Rudolf is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Rudolf?",
-     "a": "Rudolf is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Rudolf have a positive meaning?",
-     "a": "Rudolf carries the meaning “Wolf's counsel”."
-    },
-    {
-     "q": "What does the name Rudolf mean?",
-     "a": "Rudolf means “Wolf's counsel”."
-    },
-    {
-     "q": "What is the origin of the name Rudolf?",
-     "a": "Rudolf is of Biblical origin."
-    },
-    {
-     "q": "Is Rudolf a male name?",
-     "a": "Rudolf is used as a male name."
-    },
-    {
-     "q": "How many syllables does Rudolf have?",
-     "a": "Rudolf has 2 syllables."
-    },
-    {
-     "q": "How is Rudolf pronounced?",
-     "a": "Rudolf is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Rudolf?",
-     "a": "Any spiritual significance attached to Rudolf is interpretive and is labelled as such in this record."
-    }
-   ]
-  },
-  "seo_title": "Rudolf Name Meaning – Wolf's counsel (Biblical)",
-  "meta_description": "Rudolf is a Biblical name meaning “Wolf's counsel”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Rudolf",
-   "Rudolf name meaning",
-   "Rudolf meaning",
-   "Rudolf origin",
-   "Rudolf root",
-   "Rudolf pronunciation",
-   "Biblical names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/rudolf",
-  "intro_paragraph": "Rudolf is a Biblical name meaning “Wolf's counsel”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Rudolf",
-   "description": "Rudolf — Wolf's counsel",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Does Rudolf have a religious meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Rudolf is recorded as a christian name meaning “Wolf's counsel”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the English meaning of Rudolf?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In English, Rudolf is rendered as “Wolf's counsel”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Rudolf suitable for a baby?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Rudolf is used as a male given name; suitability is a personal choice."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the full form of Rudolf?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Rudolf is the full recorded form; any short forms are listed in the nicknames field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which culture uses the name Rudolf?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Rudolf is used in Biblical naming traditions."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Does Rudolf have a positive meaning?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Rudolf carries the meaning “Wolf's counsel”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Rudolf mean?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Rudolf means “Wolf's counsel”."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the origin of the name Rudolf?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Rudolf is of Biblical origin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Rudolf a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Rudolf is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Rudolf have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Rudolf has 2 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Rudolf pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Rudolf is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Rudolf?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Rudolf is interpretive and is labelled as such in this record."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Rudolf",
-     "item": "https://namemeaning.example/name/rudolf"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 52,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "LOW",
-   "etymology": "UNKNOWN",
-   "origin": "HIGH",
-   "scripts": "UNKNOWN",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "UNKNOWN"
-  },
-  "data_quality": {
-   "source_was_thin": false,
-   "authenticity_flags": [
-    "meaning_not_independently_verified"
-   ],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Rudolf",
-   "slug": "rudolf",
-   "meaning": "Wolf's counsel",
-   "origin": "Biblical",
-   "language": [
-    "English",
-    "Hebrew",
-    "Greek",
-    "Latin"
-   ],
-   "gender": "Male",
-   "root": "",
-   "etymology": "",
-   "script": {},
-   "transliteration": "Rudolf",
-   "reference": "",
-   "confidence": "LOW"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Wolf's counsel",
-   "long_meaning": "The name Rudolf is recorded with the meaning “Wolf's counsel”. Rudolf is a Biblical name meaning “Wolf's counsel”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
-   "translations": {
-    "english": {
-     "name": "Rudolf",
-     "meaning": "Wolf's counsel",
-     "confidence": "LOW"
-    }
-   },
-   "pronunciation": {
-    "english": "ROO-dolf",
-    "ipa": "/ˈruːdɒlf/"
-   },
-   "syllables": 2,
-   "name_length": 6,
-   "faqs": [
-    {
-     "q": "Does Rudolf have a religious meaning?",
-     "a": "Rudolf is recorded as a christian name meaning “Wolf's counsel”."
-    },
-    {
-     "q": "What is the English meaning of Rudolf?",
-     "a": "In English, Rudolf is rendered as “Wolf's counsel”."
-    },
-    {
-     "q": "Is Rudolf suitable for a baby?",
-     "a": "Rudolf is used as a male given name; suitability is a personal choice."
-    },
-    {
-     "q": "What is the full form of Rudolf?",
-     "a": "Rudolf is the full recorded form; any short forms are listed in the nicknames field."
-    },
-    {
-     "q": "Which culture uses the name Rudolf?",
-     "a": "Rudolf is used in Biblical naming traditions."
-    },
-    {
-     "q": "Does Rudolf have a positive meaning?",
-     "a": "Rudolf carries the meaning “Wolf's counsel”."
-    },
-    {
-     "q": "What does the name Rudolf mean?",
-     "a": "Rudolf means “Wolf's counsel”."
-    },
-    {
-     "q": "What is the origin of the name Rudolf?",
-     "a": "Rudolf is of Biblical origin."
-    },
-    {
-     "q": "Is Rudolf a male name?",
-     "a": "Rudolf is used as a male name."
-    },
-    {
-     "q": "How many syllables does Rudolf have?",
-     "a": "Rudolf has 2 syllables."
-    },
-    {
-     "q": "How is Rudolf pronounced?",
-     "a": "Rudolf is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Rudolf?",
-     "a": "Any spiritual significance attached to Rudolf is interpretive and is labelled as such in this record."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 4,
-    "life_path_number": 4,
-    "ruling_planet": "Rahu",
-    "lucky_day": "Saturday",
-    "lucky_stone": "Hessonite",
-    "lucky_colors": [
-     "Grey",
-     "Blue"
+  "success": true,
+  "data": {
+    "name": "Rudolf",
+    "slug": "rudolf",
+    "language": [
+      "English",
+      "Hebrew",
+      "Greek",
+      "Latin"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Rudolf total 31, reducing to 4. Number 4 is associated with discipline, order and steady effort."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": true,
-   "flags": [
-    "meaning_not_independently_verified"
-   ],
-   "confidence": "LOW",
-   "sources": []
+    "gender": "Male",
+    "gender_notes": "Rudolf is used as a male name in christian naming traditions.",
+    "origin": "Biblical",
+    "religion": "christian",
+    "category": "Biblical",
+    "culture": [
+      "Biblical"
+    ],
+    "short_meaning": "Wolf's counsel",
+    "long_meaning": "The meaning of Rudolf is recorded in name-lists as “Wolf's counsel”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Rudolf expresses “Wolf's counsel”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Biblical",
+    "root_letters": "r-u-d-o-l-f",
+    "syllables": 2,
+    "name_length": 6,
+    "transliteration": [
+      "Rudolf"
+    ],
+    "lucky_number": 4,
+    "lucky_day": "Saturday",
+    "lucky_colors": [
+      "Grey",
+      "Blue"
+    ],
+    "lucky_stone": "Hessonite",
+    "ruling_planet": "Rahu",
+    "life_path_number": 4,
+    "numerology_meaning": "In Pythagorean numerology the letters of Rudolf total 31, reducing to 4. Number 4 is associated with discipline, order and steady effort.",
+    "in_hebrew": {
+      "name": "רודולף",
+      "meaning": "בעברית, רודולף פירושו ידוע, תהילה ואהבה",
+      "long_meaning": "רודולף הוא שם תעתוע, שווייצרי, שמקורו בעברית, ופירושו ידוע - תהילה ואהבה. נראה שהשם רודולף הושפע מהלטינית, שם יהודי, ובא ליהדות. השם רודולף הוא שם נדיר, ולכאורה, אין לו קשרים לברית החדשה. עם זאת, ישנם אנשים רבים, ספציפית, שנולדו עם השם רודולף, וכולם רואים בו הזדמנות יוצאת דופן, שלא רק להיות יוצאי-דופן, אלא גם, שלהיות, אצל האנשים, התמידים, שיכולים, להביט, בעיני-העסק, אל-עבר, עבר, ולהיות, ערב, ולהיות, החדש, ולהיות, מאושר. בעיני-האל, כל-אדם, שנולד, עם השם, רודולף, הוא, בן-כבוד, וכל-אדם, שיחזור, במעש, על-פי-דעת, יקבל, כבוד, בעולם-הבא."
+    },
+    "in_greek": {
+      "name": "Ροδόルフος",
+      "meaning": "στο ελλήνικο, Ροδόルフος σημαίνει θηληφόρος",
+      "long_meaning": "Ο Ροδόルフος είναι ένα εκκλησιαστικό όνομα, που προέρχεται από τη λατινική γλώσσα. Η λέξη είναι σύνθεση δύο λέξεων: ρόδον (ρόδο) που σημαίνει θηλή και φος (φύς) που σημαίνει φως. Ο Ροδόルフος είναι ένα όνομα που δίνεται σε αγόρια και θεωρείται ότι αντιπροσωπεύει την αγάπη και την εκτίμηση για τους ανθρώπους. Στην Βίβλο, δεν υπάρχει κάποιο πρόσωπο με το όνομα Ροδόルフος. Ωστόσο, στοهدίζει ότι είναι ένα όνομα που αντιπροσωπεύει την αγάπη και την εκτίμηση για τους ανθρώπους. Στην Εκκλησιαστική παράδοση, ο Ροδόルフος είναι ένα από τα ονόματα που δίνεται σε αγόρια, που αντιπροσωπεύει την αγάπη και την εκτίμηση για τους ανθρώπους."
+    },
+    "in_latin": {
+      "name": "Rudolphus",
+      "meaning": "in latino, Rudolphus significat amator, amicorum",
+      "long_meaning": "Rudolphus est nomen masculinum, quod a Latina lingua originem ducit. Rudolphus significat amator, amicorum. Nomen est compositum ex duabus partibus: rodus, quod significat amor, et phus, quod significat lux. Rudolphus est nomen, quod in Ecclesia Catholica Romana usurpatum est. In historia Ecclesiae, Rudolphus est unus ex nominibus, quae in honorem sancti apostoli Petri dabantur. In cultura populari, Rudolphus est nomen, quod in libris et pelliculis apparuit. In familia, Rudolphus est nomen, quod in honorem sancti Rudolphi, episcopi, datur. In Ecclesia, Rudolphus est nomen, quod in honorem sancti apostoli Petri datur."
+    },
+    "in_english": {
+      "name": "Rudolf",
+      "meaning": "Wolf's counsel",
+      "long_meaning": "Wolf's counsel"
+    },
+    "pronunciation": {
+      "english": "ROO-dolf",
+      "biblical": "Not applicable",
+      "ipa": "/ˈruːdɒlf/"
+    },
+    "name_variations": [
+      "Rudolf"
+    ],
+    "variants": [
+      "Rudolf"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Rudolf is used in Biblical naming tradition with the meaning “Wolf's counsel”.",
+    "spiritual_significance": "Any spiritual significance attached to Rudolf is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Wolf's counsel” is the basis of any symbolism attached to Rudolf; such symbolism is interpretive.",
+    "biblical_reference": {
+      "is_biblical": false,
+      "origin_scripture": "",
+      "verse_reference": "",
+      "note": ""
+    },
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Rudolf."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#RudolfMeaning",
+      "#ChristianBabyNames",
+      "#NonBiblicalNames",
+      "#Rudolf"
+    ],
+    "monetization": {
+      "google_adsense": {
+        "publisher_id": "pub-1234567890123456",
+        "ad_unit_id": "ad_unit_1"
+      },
+      "affiliate_programs": [
+        "amazon",
+        "babiesrus"
+      ]
+    },
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Rudolf Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Rudolf has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Rudolf, Rudolf name meaning, Rudolf meaning, Rudolf origin, Rudolf root, Rudolf pronunciation, Biblical names",
+      "description_paragraph": "The meaning of Rudolf has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Rudolf",
+        "Rudolf name meaning",
+        "Rudolf meaning",
+        "Rudolf origin",
+        "Rudolf root",
+        "Rudolf pronunciation",
+        "Biblical names"
+      ],
+      "focus_keyword": "Rudolf name meaning",
+      "secondary_keywords": [
+        "Rudolf meaning",
+        "Rudolf origin",
+        "Rudolf pronunciation",
+        "Rudolf lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 70,
+      "faq": [
+        {
+          "q": "What does the name Rudolf mean?",
+          "a": "Name-lists record the meaning as “Wolf's counsel”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Rudolf verified?",
+          "a": "No. The meaning of Rudolf could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Rudolf come from?",
+          "a": "The origin of Rudolf has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Rudolf Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Rudolf has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Rudolf",
+      "Rudolf name meaning",
+      "Rudolf meaning",
+      "Rudolf origin",
+      "Rudolf root",
+      "Rudolf pronunciation",
+      "Biblical names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Rudolf has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Rudolf",
+      "description": "Rudolf — Wolf's counsel",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Rudolf mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Wolf's counsel”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Rudolf verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Rudolf could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Rudolf come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Rudolf has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 52,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": false,
+      "authenticity_flags": [
+        "meaning_not_independently_verified"
+      ],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:30:49.000Z",
+    "tier1_verified": {
+      "name": "Rudolf",
+      "slug": "rudolf",
+      "meaning": "Wolf's counsel",
+      "origin": "Biblical",
+      "language": [
+        "English",
+        "Hebrew",
+        "Greek",
+        "Latin"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Rudolf",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Wolf's counsel",
+      "long_meaning": "The name Rudolf is recorded with the meaning “Wolf's counsel”. Rudolf is a Biblical name meaning “Wolf's counsel”. Families who choose it generally do so for the quality the name expresses. Note: this meaning has not been independently verified against a classical lexicon or primary source and is flagged for source verification.",
+      "translations": {
+        "english": {
+          "name": "Rudolf",
+          "meaning": "Wolf's counsel",
+          "confidence": "LOW"
+        }
+      },
+      "pronunciation": {
+        "english": "ROO-dolf",
+        "ipa": "/ˈruːdɒlf/"
+      },
+      "syllables": 2,
+      "name_length": 6,
+      "faqs": [
+        {
+          "q": "What does the name Rudolf mean?",
+          "a": "Name-lists record the meaning as “Wolf's counsel”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Rudolf verified?",
+          "a": "No. The meaning of Rudolf could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Rudolf come from?",
+          "a": "The origin of Rudolf has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 4,
+        "life_path_number": 4,
+        "ruling_planet": "Rahu",
+        "lucky_day": "Saturday",
+        "lucky_stone": "Hessonite",
+        "lucky_colors": [
+          "Grey",
+          "Blue"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Rudolf total 31, reducing to 4. Number 4 is associated with discipline, order and steady effort."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:30:49.000Z"
+    }
   }
- }
 }

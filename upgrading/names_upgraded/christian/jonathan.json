@@ -1,499 +1,328 @@
 {
- "success": true,
- "data": {
-  "name": "Jonathan",
-  "slug": "jonathan",
-  "language": [
-   "Hebrew"
-  ],
-  "gender": "Male",
-  "gender_notes": "Jonathan is used as a male name in christian naming traditions.",
-  "origin": "Hebrew",
-  "religion": "christian",
-  "category": "Christian",
-  "culture": [
-   "Hebrew"
-  ],
-  "short_meaning": "Yahweh has given",
-  "long_meaning": "From the Hebrew Yehonatan: Yahu, 'Yahweh', + natan, 'has given'. Its root is Hebrew y-h-w-n-t-n. Jonathan, son of King Saul (1 Samuel 18). Jonathan is a Hebrew name meaning “Yahweh has given”. Families who choose it generally do so for the quality the name expresses.",
-  "spiritual_meaning": "Jonathan expresses “Yahweh has given”; spiritual readings of the name are interpretive.",
-  "emotional_traits": [],
-  "hidden_personality_traits": [],
-  "etymology": "From the Hebrew Yehonatan: Yahu, 'Yahweh', + natan, 'has given'.",
-  "root": "Hebrew y-h-w-n-t-n",
-  "language_root": "Hebrew",
-  "root_letters": "j-o-n-a-t-h-a-n",
-  "syllables": 3,
-  "name_length": 8,
-  "transliteration": [
-   "Yehonatan"
-  ],
-  "lucky_number": 2,
-  "lucky_day": "Monday",
-  "lucky_colors": [
-   "White",
-   "Silver"
-  ],
-  "lucky_stone": "Pearl",
-  "ruling_planet": "Moon",
-  "life_path_number": 2,
-  "numerology_meaning": "In Pythagorean numerology the letters of Jonathan total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
-  "in_hebrew": {
-   "name": "יְהוֹנָתָן",
-   "meaning": "Yahweh has given",
-   "long_meaning": "יְהוֹנָתָן — meaning: Yahweh has given"
-  },
-  "in_greek": {
-   "name": "Ἰωνάθαν",
-   "meaning": "Yahweh has given",
-   "long_meaning": "Ἰωνάθαν — meaning: Yahweh has given"
-  },
-  "in_latin": {
-   "name": "Ionathan",
-   "meaning": "Yahweh has given",
-   "long_meaning": "Ionathan — meaning: Yahweh has given"
-  },
-  "in_english": {
-   "name": "Jonathan",
-   "meaning": "Yahweh has given",
-   "long_meaning": "From the Hebrew Yehonatan: Yahu, 'Yahweh', + natan, 'has given'. Its root is Hebrew y-h-w-n-t-n. Jonathan, son of King Saul (1 Samuel 18). Jonathan is a Hebrew name meaning “Yahweh has given”. Families who choose it generally do so for the quality the name expresses."
-  },
-  "pronunciation": {
-   "english": "jonathan",
-   "ipa": "/jonaθan/"
-  },
-  "name_variations": [
-   "Jonathan"
-  ],
-  "variants": [
-   "Jonathan"
-  ],
-  "diminutives": [],
-  "nicknames": [],
-  "related_names": [],
-  "similar_sounding_names": [],
-  "notable_people": [],
-  "celebrity_usage": [],
-  "popularity_score": null,
-  "popularity_by_region": [],
-  "cultural_impact": "Jonathan is used in Hebrew naming tradition with the meaning “Yahweh has given”.",
-  "spiritual_significance": "Any spiritual significance attached to Jonathan is interpretive and is labelled as such.",
-  "spiritual_symbolism": "The meaning “Yahweh has given” is the basis of any symbolism attached to Jonathan; such symbolism is interpretive.",
-  "biblical_reference": {},
-  "historical_references": [
-   {
-    "reference": "Jonathan, son of King Saul (1 Samuel 18).",
-    "time_period": "",
-    "context": ""
-   }
-  ],
-  "modern_usage": {
-   "trends": [],
-   "platforms": [],
-   "modern_context": "No verified modern-usage statistics are published for Jonathan."
-  },
-  "name_in_real_life": {
-   "person_name": "",
-   "location": "",
-   "story": "",
-   "note": "No verified real-life bearer is published for this name."
-  },
-  "social_tags": [
-   "#Jonathan",
-   "#JonathanMeaning",
-   "#ChristianNames",
-   "#BabyNames"
-  ],
-  "monetization": {},
-  "user_engagement": {},
-  "social_optimization": {},
-  "accessibility": {},
-  "seo": {
-   "title": "Jonathan Name Meaning – Yahweh has given (Hebrew)",
-   "meta_description": "Jonathan is a Hebrew name meaning “Yahweh has given”. Verified meaning, origin, root, pronunciation and FAQs.",
-   "meta_keywords": "Jonathan, Jonathan name meaning, Jonathan meaning, Jonathan origin, Jonathan root, Jonathan pronunciation, Hebrew names",
-   "description_paragraph": "Jonathan is a Hebrew name meaning “Yahweh has given”.",
-   "keywords": [
-    "Jonathan",
-    "Jonathan name meaning",
-    "Jonathan meaning",
-    "Jonathan origin",
-    "Jonathan root",
-    "Jonathan pronunciation",
-    "Hebrew names"
-   ],
-   "focus_keyword": "Jonathan name meaning",
-   "secondary_keywords": [
-    "Jonathan meaning",
-    "Jonathan origin",
-    "Jonathan pronunciation",
-    "Jonathan lucky number"
-   ],
-   "canonical_url": "https://namemeaning.example/name/jonathan",
-   "seo_score": 90,
-   "faq": [
-    {
-     "q": "Is Jonathan a male name?",
-     "a": "Jonathan is used as a male name."
-    },
-    {
-     "q": "How many syllables does Jonathan have?",
-     "a": "Jonathan has 3 syllables."
-    },
-    {
-     "q": "How is Jonathan pronounced?",
-     "a": "Jonathan is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Jonathan?",
-     "a": "Any spiritual significance attached to Jonathan is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Jonathan?",
-     "a": "Variant spellings of Jonathan are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Jonathan a common name?",
-     "a": "Popularity figures for Jonathan have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Jonathan say about a child?",
-     "a": "The name Jonathan expresses “Yahweh has given”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Jonathan be used in another language?",
-     "a": "Jonathan is recorded in Hebrew; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "What is the root of the name Jonathan?",
-     "a": "The root of Jonathan is Hebrew y-h-w-n-t-n."
-    },
-    {
-     "q": "Which letters make up the root of Jonathan?",
-     "a": "The root letters of Jonathan are Hebrew y-h-w-n-t-n."
-    },
-    {
-     "q": "What is the etymology of Jonathan?",
-     "a": "From the Hebrew Yehonatan: Yahu, 'Yahweh', + natan, 'has given'."
-    },
-    {
-     "q": "From which word is Jonathan derived?",
-     "a": "From the Hebrew Yehonatan: Yahu, 'Yahweh', + natan, 'has given'."
-    }
-   ]
-  },
-  "seo_title": "Jonathan Name Meaning – Yahweh has given (Hebrew)",
-  "meta_description": "Jonathan is a Hebrew name meaning “Yahweh has given”. Verified meaning, origin, root, pronunciation and FAQs.",
-  "keywords": [
-   "Jonathan",
-   "Jonathan name meaning",
-   "Jonathan meaning",
-   "Jonathan origin",
-   "Jonathan root",
-   "Jonathan pronunciation",
-   "Hebrew names"
-  ],
-  "canonical_url": "https://namemeaning.example/name/jonathan",
-  "intro_paragraph": "Jonathan is a Hebrew name meaning “Yahweh has given”.",
-  "structured_data": {
-   "@context": "https://schema.org",
-   "@type": "Thing",
-   "name": "Jonathan",
-   "description": "Jonathan — Yahweh has given",
-   "additionalType": "https://schema.org/Person"
-  },
-  "structured_data_faq": {
-   "@context": "https://schema.org",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Is Jonathan a male name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Jonathan is used as a male name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many syllables does Jonathan have?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Jonathan has 3 syllables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is Jonathan pronounced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Jonathan is pronounced as given in the pronunciation field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the spiritual significance of Jonathan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Any spiritual significance attached to Jonathan is interpretive and is labelled as such in this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Are there variant spellings of Jonathan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Variant spellings of Jonathan are listed in the variants field of this record."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is Jonathan a common name?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Popularity figures for Jonathan have not been verified and are not published."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What does the name Jonathan say about a child?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The name Jonathan expresses “Yahweh has given”; any character association drawn from it is interpretive."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can Jonathan be used in another language?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Jonathan is recorded in Hebrew; its script forms in other languages are given in the translations field."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the root of the name Jonathan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The root of Jonathan is Hebrew y-h-w-n-t-n."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Which letters make up the root of Jonathan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The root letters of Jonathan are Hebrew y-h-w-n-t-n."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What is the etymology of Jonathan?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "From the Hebrew Yehonatan: Yahu, 'Yahweh', + natan, 'has given'."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "From which word is Jonathan derived?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "From the Hebrew Yehonatan: Yahu, 'Yahweh', + natan, 'has given'."
-     }
-    }
-   ]
-  },
-  "structured_data_breadcrumb": {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://namemeaning.example/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Christian",
-     "item": "https://namemeaning.example/christian"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Jonathan",
-     "item": "https://namemeaning.example/name/jonathan"
-    }
-   ]
-  },
-  "advanced_seo": {
-   "technical_seo": {
-    "page_load_speed": "optimized",
-    "mobile_friendly": true,
-    "schema_markup": true,
-    "ssl_certificate": true,
-    "cdn_optimized": true
-   },
-   "content_seo": {
-    "word_count": 45,
-    "readability_score": "A",
-    "keyword_density": "optimal",
-    "internal_linking": true
-   },
-   "performance_metrics": {
-    "core_web_vitals": "excellent",
-    "bounce_rate_prediction": "low",
-    "engagement_time": "high"
-   }
-  },
-  "confidence": {
-   "meaning": "HIGH",
-   "etymology": "HIGH",
-   "origin": "HIGH",
-   "scripts": "HIGH",
-   "pronunciation": "MEDIUM",
-   "gender": "HIGH",
-   "numerology": "MEDIUM",
-   "popularity": "UNKNOWN",
-   "faq": "MEDIUM",
-   "notable_people": "UNKNOWN",
-   "historical_references": "HIGH"
-  },
-  "data_quality": {
-   "source_was_thin": true,
-   "authenticity_flags": [],
-   "fields_total": 69
-  },
-  "created_at": null,
-  "updated_at": "2026-09-30T00:00:00.000Z",
-  "tier1_verified": {
-   "name": "Jonathan",
-   "slug": "jonathan",
-   "meaning": "Yahweh has given",
-   "origin": "Hebrew",
-   "language": [
-    "Hebrew"
-   ],
-   "gender": "Male",
-   "root": "Hebrew y-h-w-n-t-n",
-   "etymology": "From the Hebrew Yehonatan: Yahu, 'Yahweh', + natan, 'has given'.",
-   "script": {
-    "hebrew": "יְהוֹנָתָן",
-    "greek": "Ἰωνάθαν",
-    "latin": "Ionathan"
-   },
-   "transliteration": "Yehonatan",
-   "reference": "Jonathan, son of King Saul (1 Samuel 18).",
-   "confidence": "HIGH"
-  },
-  "tier2_explanatory": {
-   "short_meaning": "Yahweh has given",
-   "long_meaning": "From the Hebrew Yehonatan: Yahu, 'Yahweh', + natan, 'has given'. Its root is Hebrew y-h-w-n-t-n. Jonathan, son of King Saul (1 Samuel 18). Jonathan is a Hebrew name meaning “Yahweh has given”. Families who choose it generally do so for the quality the name expresses.",
-   "translations": {
-    "hebrew": {
-     "name": "יְהוֹנָתָן",
-     "meaning": "יְהוֹנָתָן — meaning: Yahweh has given",
-     "confidence": "HIGH"
-    },
-    "greek": {
-     "name": "Ἰωνάθαν",
-     "meaning": "Ἰωνάθαν — meaning: Yahweh has given",
-     "confidence": "HIGH"
-    },
-    "latin": {
-     "name": "Ionathan",
-     "meaning": "Ionathan — meaning: Yahweh has given",
-     "confidence": "HIGH"
-    },
-    "english": {
-     "name": "Jonathan",
-     "meaning": "Yahweh has given",
-     "confidence": "HIGH"
-    }
-   },
-   "pronunciation": {
-    "english": "jonathan",
-    "ipa": "/jonaθan/"
-   },
-   "syllables": 3,
-   "name_length": 8,
-   "faqs": [
-    {
-     "q": "Is Jonathan a male name?",
-     "a": "Jonathan is used as a male name."
-    },
-    {
-     "q": "How many syllables does Jonathan have?",
-     "a": "Jonathan has 3 syllables."
-    },
-    {
-     "q": "How is Jonathan pronounced?",
-     "a": "Jonathan is pronounced as given in the pronunciation field of this record."
-    },
-    {
-     "q": "What is the spiritual significance of Jonathan?",
-     "a": "Any spiritual significance attached to Jonathan is interpretive and is labelled as such in this record."
-    },
-    {
-     "q": "Are there variant spellings of Jonathan?",
-     "a": "Variant spellings of Jonathan are listed in the variants field of this record."
-    },
-    {
-     "q": "Is Jonathan a common name?",
-     "a": "Popularity figures for Jonathan have not been verified and are not published."
-    },
-    {
-     "q": "What does the name Jonathan say about a child?",
-     "a": "The name Jonathan expresses “Yahweh has given”; any character association drawn from it is interpretive."
-    },
-    {
-     "q": "Can Jonathan be used in another language?",
-     "a": "Jonathan is recorded in Hebrew; its script forms in other languages are given in the translations field."
-    },
-    {
-     "q": "What is the root of the name Jonathan?",
-     "a": "The root of Jonathan is Hebrew y-h-w-n-t-n."
-    },
-    {
-     "q": "Which letters make up the root of Jonathan?",
-     "a": "The root letters of Jonathan are Hebrew y-h-w-n-t-n."
-    },
-    {
-     "q": "What is the etymology of Jonathan?",
-     "a": "From the Hebrew Yehonatan: Yahu, 'Yahweh', + natan, 'has given'."
-    },
-    {
-     "q": "From which word is Jonathan derived?",
-     "a": "From the Hebrew Yehonatan: Yahu, 'Yahweh', + natan, 'has given'."
-    }
-   ]
-  },
-  "tier3_interpretive": {
-   "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
-   "numerology": {
-    "lucky_number": 2,
-    "life_path_number": 2,
-    "ruling_planet": "Moon",
-    "lucky_day": "Monday",
-    "lucky_stone": "Pearl",
-    "lucky_colors": [
-     "White",
-     "Silver"
+  "success": true,
+  "data": {
+    "name": "Jonathan",
+    "slug": "jonathan",
+    "language": [
+      "Hebrew"
     ],
-    "numerology_meaning": "In Pythagorean numerology the letters of Jonathan total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
-   },
-   "personality_associations": [],
-   "spiritual_symbolism": ""
-  },
-  "verification": {
-   "needs_manual_verification": false,
-   "flags": [],
-   "confidence": "HIGH",
-   "sources": [
-    "Classical lexicography / scripture"
-   ]
+    "gender": "Male",
+    "gender_notes": "Jonathan is used as a male name in christian naming traditions.",
+    "origin": "Hebrew",
+    "religion": "christian",
+    "category": "Christian",
+    "culture": [
+      "Hebrew"
+    ],
+    "short_meaning": "Yahweh has given",
+    "long_meaning": "The meaning of Jonathan is recorded in name-lists as “Yahweh has given”. This meaning has NOT been verified against a classical lexical or onomastic source, so it is published as an unverified candidate only. The record is flagged for manual source verification.",
+    "spiritual_meaning": "Jonathan expresses “Yahweh has given”; spiritual readings of the name are interpretive.",
+    "emotional_traits": [],
+    "hidden_personality_traits": [],
+    "etymology": "",
+    "root": "",
+    "language_root": "Hebrew",
+    "root_letters": "j-o-n-a-t-h-a-n",
+    "syllables": 3,
+    "name_length": 8,
+    "transliteration": [
+      "Yehonatan"
+    ],
+    "lucky_number": 2,
+    "lucky_day": "Monday",
+    "lucky_colors": [
+      "White",
+      "Silver"
+    ],
+    "lucky_stone": "Pearl",
+    "ruling_planet": "Moon",
+    "life_path_number": 2,
+    "numerology_meaning": "In Pythagorean numerology the letters of Jonathan total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance.",
+    "in_hebrew": {
+      "name": "יְהוֹנָתָן",
+      "meaning": "Yahweh has given",
+      "long_meaning": "יְהוֹנָתָן — meaning: Yahweh has given"
+    },
+    "in_greek": {
+      "name": "Ἰωνάθαν",
+      "meaning": "Yahweh has given",
+      "long_meaning": "Ἰωνάθαν — meaning: Yahweh has given"
+    },
+    "in_latin": {
+      "name": "Ionathan",
+      "meaning": "Yahweh has given",
+      "long_meaning": "Ionathan — meaning: Yahweh has given"
+    },
+    "in_english": {
+      "name": "Jonathan",
+      "meaning": "Yahweh has given",
+      "long_meaning": "Yahweh has given"
+    },
+    "pronunciation": {
+      "english": "jonathan",
+      "ipa": "/jonaθan/"
+    },
+    "name_variations": [
+      "Jonathan"
+    ],
+    "variants": [
+      "Jonathan"
+    ],
+    "diminutives": [],
+    "nicknames": [],
+    "related_names": [],
+    "similar_sounding_names": [],
+    "notable_people": [],
+    "celebrity_usage": [],
+    "popularity_score": null,
+    "popularity_by_region": [],
+    "cultural_impact": "Jonathan is used in Hebrew naming tradition with the meaning “Yahweh has given”.",
+    "spiritual_significance": "Any spiritual significance attached to Jonathan is interpretive and is labelled as such.",
+    "spiritual_symbolism": "The meaning “Yahweh has given” is the basis of any symbolism attached to Jonathan; such symbolism is interpretive.",
+    "biblical_reference": {},
+    "historical_references": [],
+    "modern_usage": {
+      "trends": [],
+      "platforms": [],
+      "modern_context": "No verified modern-usage statistics are published for Jonathan."
+    },
+    "name_in_real_life": {
+      "person_name": "",
+      "location": "",
+      "story": "",
+      "note": "No verified real-life bearer is published for this name."
+    },
+    "social_tags": [
+      "#Jonathan",
+      "#JonathanMeaning",
+      "#ChristianNames",
+      "#BabyNames"
+    ],
+    "monetization": {},
+    "user_engagement": {},
+    "social_optimization": {},
+    "accessibility": {},
+    "seo": {
+      "title": "Jonathan Name Meaning – unverified, pending source check",
+      "meta_description": "The meaning of Jonathan has not been verified against a reliable source. This record is flagged for manual verification.",
+      "meta_keywords": "Jonathan, Jonathan name meaning, Jonathan meaning, Jonathan origin, Jonathan root, Jonathan pronunciation, Hebrew names",
+      "description_paragraph": "The meaning of Jonathan has not been verified against a reliable source. This record is flagged for manual verification.",
+      "keywords": [
+        "Jonathan",
+        "Jonathan name meaning",
+        "Jonathan meaning",
+        "Jonathan origin",
+        "Jonathan root",
+        "Jonathan pronunciation",
+        "Hebrew names"
+      ],
+      "focus_keyword": "Jonathan name meaning",
+      "secondary_keywords": [
+        "Jonathan meaning",
+        "Jonathan origin",
+        "Jonathan pronunciation",
+        "Jonathan lucky number"
+      ],
+      "canonical_url": "",
+      "seo_score": 90,
+      "faq": [
+        {
+          "q": "What does the name Jonathan mean?",
+          "a": "Name-lists record the meaning as “Yahweh has given”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Jonathan verified?",
+          "a": "No. The meaning of Jonathan could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Jonathan come from?",
+          "a": "The origin of Jonathan has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "seo_title": "Jonathan Name Meaning – unverified, pending source check",
+    "meta_description": "The meaning of Jonathan has not been verified against a reliable source. This record is flagged for manual verification.",
+    "keywords": [
+      "Jonathan",
+      "Jonathan name meaning",
+      "Jonathan meaning",
+      "Jonathan origin",
+      "Jonathan root",
+      "Jonathan pronunciation",
+      "Hebrew names"
+    ],
+    "canonical_url": "",
+    "intro_paragraph": "The meaning of Jonathan has not been verified against a reliable source. This record is flagged for manual verification.",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "Thing",
+      "name": "Jonathan",
+      "description": "Jonathan — Yahweh has given",
+      "additionalType": "https://schema.org/Person"
+    },
+    "structured_data_faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the name Jonathan mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Name-lists record the meaning as “Yahweh has given”, but this has not been verified against a classical source. Treat it as unverified."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the meaning of Jonathan verified?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The meaning of Jonathan could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the name Jonathan come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The origin of Jonathan has not been verified and is not asserted here."
+          }
+        }
+      ]
+    },
+    "structured_data_breadcrumb": {},
+    "advanced_seo": {
+      "technical_seo": {
+        "page_load_speed": "optimized",
+        "mobile_friendly": true,
+        "schema_markup": true,
+        "ssl_certificate": true,
+        "cdn_optimized": true
+      },
+      "content_seo": {
+        "word_count": 45,
+        "readability_score": "A",
+        "keyword_density": "optimal",
+        "internal_linking": true
+      },
+      "performance_metrics": {
+        "core_web_vitals": "excellent",
+        "bounce_rate_prediction": "low",
+        "engagement_time": "high"
+      }
+    },
+    "confidence": {
+      "meaning": "UNKNOWN",
+      "etymology": "UNKNOWN",
+      "origin": "UNKNOWN",
+      "scripts": "UNKNOWN",
+      "pronunciation": "UNKNOWN",
+      "gender": "UNKNOWN",
+      "numerology": "UNKNOWN",
+      "popularity": "UNKNOWN",
+      "faq": "UNKNOWN",
+      "notable_people": "UNKNOWN",
+      "historical_references": "UNKNOWN"
+    },
+    "data_quality": {
+      "source_was_thin": true,
+      "authenticity_flags": [],
+      "fields_total": 69
+    },
+    "created_at": null,
+    "updated_at": "2026-10-01T04:18:12.000Z",
+    "tier1_verified": {
+      "name": "Jonathan",
+      "slug": "jonathan",
+      "meaning": "Yahweh has given",
+      "origin": "Hebrew",
+      "language": [
+        "Hebrew"
+      ],
+      "gender": "Male",
+      "root": "",
+      "etymology": "",
+      "script": {},
+      "transliteration": "Jonathan",
+      "reference": "",
+      "confidence": "UNKNOWN"
+    },
+    "tier2_explanatory": {
+      "short_meaning": "Yahweh has given",
+      "long_meaning": "From the Hebrew Yehonatan: Yahu, 'Yahweh', + natan, 'has given'. Its root is Hebrew y-h-w-n-t-n. Jonathan, son of King Saul (1 Samuel 18). Jonathan is a Hebrew name meaning “Yahweh has given”. Families who choose it generally do so for the quality the name expresses.",
+      "translations": {
+        "hebrew": {
+          "name": "יְהוֹנָתָן",
+          "meaning": "יְהוֹנָתָן — meaning: Yahweh has given",
+          "confidence": "HIGH"
+        },
+        "greek": {
+          "name": "Ἰωνάθαν",
+          "meaning": "Ἰωνάθαν — meaning: Yahweh has given",
+          "confidence": "HIGH"
+        },
+        "latin": {
+          "name": "Ionathan",
+          "meaning": "Ionathan — meaning: Yahweh has given",
+          "confidence": "HIGH"
+        },
+        "english": {
+          "name": "Jonathan",
+          "meaning": "Yahweh has given",
+          "confidence": "HIGH"
+        }
+      },
+      "pronunciation": {
+        "english": "jonathan",
+        "ipa": "/jonaθan/"
+      },
+      "syllables": 3,
+      "name_length": 8,
+      "faqs": [
+        {
+          "q": "What does the name Jonathan mean?",
+          "a": "Name-lists record the meaning as “Yahweh has given”, but this has not been verified against a classical source. Treat it as unverified."
+        },
+        {
+          "q": "Is the meaning of Jonathan verified?",
+          "a": "No. The meaning of Jonathan could not be established from a reliable lexical or onomastic source, so the record is flagged for manual verification."
+        },
+        {
+          "q": "Where does the name Jonathan come from?",
+          "a": "The origin of Jonathan has not been verified and is not asserted here."
+        }
+      ]
+    },
+    "tier3_interpretive": {
+      "disclaimer": "The following fields are interpretive/optional associations, not factual claims.",
+      "numerology": {
+        "lucky_number": 2,
+        "life_path_number": 2,
+        "ruling_planet": "Moon",
+        "lucky_day": "Monday",
+        "lucky_stone": "Pearl",
+        "lucky_colors": [
+          "White",
+          "Silver"
+        ],
+        "numerology_meaning": "In Pythagorean numerology the letters of Jonathan total 29, reducing to 2. Number 2 is associated with cooperation, sensitivity and balance."
+      },
+      "personality_associations": [],
+      "spiritual_symbolism": ""
+    },
+    "verification": {
+      "needs_manual_verification": true,
+      "flags": [
+        "no_verified_lexicon_entry"
+      ],
+      "confidence": "UNKNOWN",
+      "sources": []
+    },
+    "nameverse": {
+      "pipeline": "NameVerse v4",
+      "methodology": "Original -> Verified -> Expanded -> Enriched",
+      "tier1_verified": false,
+      "processed_at": "2026-10-01T04:18:12.000Z"
+    }
   }
- }
 }
