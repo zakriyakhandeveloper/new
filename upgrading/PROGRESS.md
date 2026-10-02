@@ -4,36 +4,36 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 3400 |
-| Current batch | 34 |
-| Batch range | kadira .. keyvan (100) |
-| Verified forms | 3243 |
+| Names completed | 3500 |
+| Current batch | 35 |
+| Batch range | khabeer .. khurram (100) |
+| Verified forms | 3343 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | keyvan |
-| Updated | 2026-10-02T05:42:50Z |
+| Next batch starts after | khurram |
+| Updated | 2026-10-02T05:45:12Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 1711 |
-| low | 663 |
-| medium | 869 |
+| high | 1792 |
+| low | 665 |
+| medium | 886 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 2573 |
-| Persian | 443 |
+| Arabic | 2662 |
+| Persian | 452 |
 | Unknown | 204 |
 | Hebrew | 58 |
 | Turkish | 40 |
-| Turkic | 17 |
+| Turkic | 18 |
 | Kurdish | 15 |
 | Sanskrit | 10 |
-| Greek | 7 |
+| Greek | 8 |
 | Pashto | 6 |
 | Urdu | 3 |
 | Hindi | 3 |
