@@ -3,14 +3,14 @@
  "culture": "islamic",
  "branch": "names-upgraded-v3",
  "total_names_in_slice": 5471,
- "names_completed": 500,
- "current_batch": 5,
+ "names_completed": 600,
+ "current_batch": 6,
  "batch_range": {
-  "first": "aizat",
-  "last": "alesha",
+  "first": "alev",
+  "last": "amaal",
   "count": 100
  },
- "batches_completed": 5,
+ "batches_completed": 6,
  "per_name": [
   {
    "name": "Aamilah",
@@ -5011,30 +5011,1030 @@
    "gender": "Female",
    "manual_review_required": true,
    "reason": "The form عليشا is an established Arabic lexical item. The source record's gloss 'Night-born' could not be matched to a Tier-A/B Arabic lexical source. The ident"
+  },
+  {
+   "name": "Alev",
+   "slug": "alev",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aleya",
+   "slug": "aleya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aleyah",
+   "slug": "aleyah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alfaaz",
+   "slug": "alfaaz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alfani",
+   "slug": "alfani",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Alfani. The source record's gloss 'Wise, Intellectual' could not be matched to a Tier-A/B lexical source and no script"
+  },
+  {
+   "name": "Alfarooq",
+   "slug": "alfarooq",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alfatah",
+   "slug": "alfatah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alfatih",
+   "slug": "alfatih",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alfaz",
+   "slug": "alfaz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alfiyaa",
+   "slug": "alfiyaa",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Alfiyaa. The source record's gloss 'Thriving, Flourishing, Prosperous' could not be matched to a Tier-A/B lexical sour"
+  },
+  {
+   "name": "Alhadi",
+   "slug": "alhadi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alhafiz",
+   "slug": "alhafiz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alhaij",
+   "slug": "alhaij",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alhajj",
+   "slug": "alhajj",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alhamd",
+   "slug": "alhamd",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alhamdu",
+   "slug": "alhamdu",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alhan",
+   "slug": "alhan",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Alhan. The source record's gloss 'The One Giving Grace' could not be matched to a Tier-A/B lexical source and no scrip"
+  },
+  {
+   "name": "Alharith",
+   "slug": "alharith",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alhasan",
+   "slug": "alhasan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alhayat",
+   "slug": "alhayat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alhazin",
+   "slug": "alhazin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alhusain",
+   "slug": "alhusain",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alhussein",
+   "slug": "alhussein",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ali",
+   "slug": "ali",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alia",
+   "slug": "alia",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aliaa",
+   "slug": "aliaa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aliah",
+   "slug": "aliah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alif",
+   "slug": "alif",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alifa",
+   "slug": "alifa",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Alifa. The source record's gloss 'Noble, Exalted, Intelligent' could not be matched to a Tier-A/B lexical source and n"
+  },
+  {
+   "name": "Alih",
+   "slug": "alih",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aliha",
+   "slug": "aliha",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aliha. The source record's gloss 'Exalted One' could not be matched to a Tier-A/B lexical source and no script form wa"
+  },
+  {
+   "name": "Alihsan",
+   "slug": "alihsan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alika",
+   "slug": "alika",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Alika. The source record's gloss 'Unique, Precious, Rare' could not be matched to a Tier-A/B lexical source and no scr"
+  },
+  {
+   "name": "Alim",
+   "slug": "alim",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alima",
+   "slug": "alima",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alimah",
+   "slug": "alimah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aliman",
+   "slug": "aliman",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aliman. The source record's gloss 'The Trustee, The Guardian' could not be matched to a Tier-A/B lexical source and no"
+  },
+  {
+   "name": "Alimani",
+   "slug": "alimani",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Alimani. The source record's gloss 'The learned one' could not be matched to a Tier-A/B lexical source and no script f"
+  },
+  {
+   "name": "Alina",
+   "slug": "alina",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Alina. The source record's gloss 'Noble, Bright' could not be matched to a Tier-A/B lexical source and no script form "
+  },
+  {
+   "name": "Aliq",
+   "slug": "aliq",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aliq. The source record's gloss 'Exalted, Sublime' could not be matched to a Tier-A/B lexical source and no script for"
+  },
+  {
+   "name": "Alir",
+   "slug": "alir",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Alir. The source record's gloss 'Exalted, Sublime' could not be matched to a Tier-A/B lexical source and no script for"
+  },
+  {
+   "name": "Alisa",
+   "slug": "alisa",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Alisa. The source record's gloss 'Noble, Exalted' could not be matched to a Tier-A/B lexical source and no script form"
+  },
+  {
+   "name": "Alishba",
+   "slug": "alishba",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Alishba. The source record's gloss 'Noble and blessed' could not be matched to a Tier-A/B lexical source and no script"
+  },
+  {
+   "name": "Aliya",
+   "slug": "aliya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aliyah",
+   "slug": "aliyah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aliyan",
+   "slug": "aliyan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aliyat",
+   "slug": "aliyat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aliyya",
+   "slug": "aliyya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aliyyah",
+   "slug": "aliyyah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aliza",
+   "slug": "aliza",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Hebrew",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alizah",
+   "slug": "alizah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Hebrew",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alizeh",
+   "slug": "alizeh",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Hebrew",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Allal",
+   "slug": "allal",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Allal. The source record's gloss 'God's Light' could not be matched to a Tier-A/B lexical source and no script form wa"
+  },
+  {
+   "name": "Allam",
+   "slug": "allam",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Allama",
+   "slug": "allama",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alleyah",
+   "slug": "alleyah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alliyah",
+   "slug": "alliyah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alma",
+   "slug": "alma",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Alma. The source record's gloss 'Nourisher, Sustainer' could not be matched to a Tier-A/B lexical source and no script"
+  },
+  {
+   "name": "Almaas",
+   "slug": "almaas",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Almahdi",
+   "slug": "almahdi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alman",
+   "slug": "alman",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Alman. The source record's gloss 'Exalted, noble' could not be matched to a Tier-A/B lexical source and no script form"
+  },
+  {
+   "name": "Almas",
+   "slug": "almas",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Almasa",
+   "slug": "almasa",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Almasa. The source record's gloss 'The Light' could not be matched to a Tier-A/B lexical source and no script form was"
+  },
+  {
+   "name": "Almash",
+   "slug": "almash",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Almash. The source record's gloss 'Noble' could not be matched to a Tier-A/B lexical source and no script form was sup"
+  },
+  {
+   "name": "Almasi",
+   "slug": "almasi",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Almaz",
+   "slug": "almaz",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Almeera",
+   "slug": "almeera",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Almir",
+   "slug": "almir",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Almir. The source record's gloss 'High' could not be matched to a Tier-A/B lexical source and no script form was suppl"
+  },
+  {
+   "name": "Almira",
+   "slug": "almira",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Almira. The source record's gloss 'Noble and blessed' could not be matched to a Tier-A/B lexical source and no script "
+  },
+  {
+   "name": "Aloosh",
+   "slug": "aloosh",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aloosh. The source record's gloss 'Night and clouds' could not be matched to a Tier-A/B lexical source and no script f"
+  },
+  {
+   "name": "Alperen",
+   "slug": "alperen",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alsafi",
+   "slug": "alsafi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alshan",
+   "slug": "alshan",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Alshan. The source record's gloss 'Noble, handsomeness' could not be matched to a Tier-A/B lexical source and no scrip"
+  },
+  {
+   "name": "Altaaf",
+   "slug": "altaaf",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Altaf",
+   "slug": "altaf",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Altair",
+   "slug": "altair",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Altamash",
+   "slug": "altamash",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Althaf",
+   "slug": "althaf",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Altin",
+   "slug": "altin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Altun",
+   "slug": "altun",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alvand",
+   "slug": "alvand",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alvi",
+   "slug": "alvi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alvian",
+   "slug": "alvian",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Alvian. The source record's gloss 'Powerful, Strong' could not be matched to a Tier-A/B lexical source and no script f"
+  },
+  {
+   "name": "Alvina",
+   "slug": "alvina",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Alvina. The source record's gloss 'Gentle, Soft' could not be matched to a Tier-A/B lexical source and no script form "
+  },
+  {
+   "name": "Alvira",
+   "slug": "alvira",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Alvira. The source record's gloss 'Noble and blessed' could not be matched to a Tier-A/B lexical source and no script "
+  },
+  {
+   "name": "Alwan",
+   "slug": "alwan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alwand",
+   "slug": "alwand",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alwina",
+   "slug": "alwina",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Alwina. The source record's gloss 'Kind, Devoted' could not be matched to a Tier-A/B lexical source and no script form"
+  },
+  {
+   "name": "Alya",
+   "slug": "alya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alyaa",
+   "slug": "alyaa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alyaan",
+   "slug": "alyaan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عليان is an established Arabic lexical item. The source record's gloss 'Gift from Allah' could not be matched to a Tier-A/B lexical source. The form is"
+  },
+  {
+   "name": "Alyan",
+   "slug": "alyan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form عليان is an established Arabic lexical item. The source record's gloss 'Light of Allah' could not be matched to a Tier-A/B lexical source. The form is "
+  },
+  {
+   "name": "Alyana",
+   "slug": "alyana",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Alyana. The source record's gloss 'Night, dark one' could not be matched to a Tier-A/B lexical source and no script fo"
+  },
+  {
+   "name": "Alyas",
+   "slug": "alyas",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Alyas. The source record's gloss 'Night ascending' could not be matched to a Tier-A/B lexical source and no script for"
+  },
+  {
+   "name": "Alyazia",
+   "slug": "alyazia",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form العزيزية is an established Arabic lexical item. The source record's gloss 'Noble, Exalted' could not be matched to a Tier-A/B lexical source. The form "
+  },
+  {
+   "name": "Alza",
+   "slug": "alza",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Alza. The source record's gloss 'Support, Exalted' could not be matched to a Tier-A/B lexical source and no script for"
+  },
+  {
+   "name": "Alzahra",
+   "slug": "alzahra",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ama",
+   "slug": "ama",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Ama. The source record's gloss 'Mother of prophet Ibrahim' could not be matched to a Tier-A/B lexical source and no sc"
+  },
+  {
+   "name": "Amaad",
+   "slug": "amaad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amaal",
+   "slug": "amaal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
   }
  ],
  "confidence_summary": {
-  "medium": 159,
-  "high": 169,
-  "unverified": 86,
-  "low": 86
+  "medium": 170,
+  "high": 225,
+  "unverified": 116,
+  "low": 89
  },
  "origin_summary": {
-  "Arabic": 361,
-  "Unknown": 85,
-  "Hebrew": 6,
+  "Arabic": 417,
+  "Unknown": 115,
+  "Hebrew": 9,
   "Sanskrit": 4,
-  "Persian": 32,
+  "Persian": 38,
   "Yoruba": 1,
   "Latin": 1,
   "Pashto": 2,
-  "Turkish": 2,
+  "Turkish": 7,
   "Turkic": 4,
   "Irish": 1,
   "Greek": 1
  },
- "verified_forms": 414,
- "unverified_forms": 86,
+ "verified_forms": 484,
+ "unverified_forms": 116,
  "quality_gate": {
   "invalid_json": 0,
   "conflict_markers": 0,
@@ -5046,6 +6046,6 @@
   "broken_text": 0,
   "total_failures": 0
  },
- "next_batch_starts_after": "alesha",
- "updated_at": "2026-10-02T03:27:03Z"
+ "next_batch_starts_after": "amaal",
+ "updated_at": "2026-10-02T03:29:06Z"
 }

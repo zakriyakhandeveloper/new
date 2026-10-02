@@ -4,35 +4,35 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 500 |
-| Current batch | 5 |
-| Batch range | aizat .. alesha (100) |
-| Verified forms | 414 |
-| Unverified forms (no gloss asserted) | 86 |
-| Next batch starts after | alesha |
-| Updated | 2026-10-02T03:27:03Z |
+| Names completed | 600 |
+| Current batch | 6 |
+| Batch range | alev .. amaal (100) |
+| Verified forms | 484 |
+| Unverified forms (no gloss asserted) | 116 |
+| Next batch starts after | amaal |
+| Updated | 2026-10-02T03:29:06Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 169 |
-| low | 86 |
-| medium | 159 |
-| unverified | 86 |
+| high | 225 |
+| low | 89 |
+| medium | 170 |
+| unverified | 116 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 361 |
-| Unknown | 85 |
-| Persian | 32 |
-| Hebrew | 6 |
+| Arabic | 417 |
+| Unknown | 115 |
+| Persian | 38 |
+| Hebrew | 9 |
+| Turkish | 7 |
 | Sanskrit | 4 |
 | Turkic | 4 |
 | Pashto | 2 |
-| Turkish | 2 |
 | Yoruba | 1 |
 | Latin | 1 |
 | Irish | 1 |
@@ -61,3 +61,4 @@
 | 3 | adeela .. afsar | 100 | complete |
 | 4 | afshan .. aizah | 100 | complete |
 | 5 | aizat .. alesha | 100 | complete |
+| 6 | alev .. amaal | 100 | complete |
