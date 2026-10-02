@@ -1,1036 +1,2045 @@
 {
-  "dataset": "NameVerse",
-  "culture": "islamic",
-  "branch": "names-upgraded-v3",
-  "total_names_in_slice": 14411,
-  "names_completed": 100,
-  "current_batch": 1,
-  "batch_range": {
-    "first": "aamilah",
-    "last": "aaus",
-    "count": 100
+ "dataset": "NameVerse",
+ "culture": "islamic",
+ "branch": "names-upgraded-v3",
+ "total_names_in_slice": 5471,
+ "names_completed": 200,
+ "current_batch": 2,
+ "batch_range": {
+  "first": "aayan",
+  "last": "adeel",
+  "count": 100
+ },
+ "batches_completed": 2,
+ "per_name": [
+  {
+   "name": "Aamilah",
+   "slug": "aamilah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
   },
-  "batches_completed": 1,
-  "per_name": [
-    {
-      "name": "Aamilah",
-      "slug": "aamilah",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aamin",
-      "slug": "aamin",
-      "status": "complete",
-      "meaning_confidence": "high",
-      "origin": "Arabic",
-      "gender": "Male",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aamina",
-      "slug": "aamina",
-      "status": "complete",
-      "meaning_confidence": "high",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aaminaat",
-      "slug": "aaminaat",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aaminah",
-      "slug": "aaminah",
-      "status": "complete",
-      "meaning_confidence": "high",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aamir",
-      "slug": "aamir",
-      "status": "complete",
-      "meaning_confidence": "high",
-      "origin": "Arabic",
-      "gender": "Male",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aamira",
-      "slug": "aamira",
-      "status": "complete",
-      "meaning_confidence": "high",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aamirah",
-      "slug": "aamirah",
-      "status": "complete",
-      "meaning_confidence": "high",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aamirat",
-      "slug": "aamirat",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aamirul",
-      "slug": "aamirul",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aamiya",
-      "slug": "aamiya",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aamla",
-      "slug": "aamla",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aamna",
-      "slug": "aamna",
-      "status": "complete",
-      "meaning_confidence": "high",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aamra",
-      "slug": "aamra",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aamrah",
-      "slug": "aamrah",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aana",
-      "slug": "aana",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aanal",
-      "slug": "aanal",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aanan",
-      "slug": "aanan",
-      "status": "complete",
-      "meaning_confidence": "low",
-      "origin": "Arabic",
-      "gender": "Unisex",
-      "manual_review_required": true,
-      "reason": null
-    },
-    {
-      "name": "Aaneseh",
-      "slug": "aaneseh",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aani",
-      "slug": "aani",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aania",
-      "slug": "aania",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aanil",
-      "slug": "aanil",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aanisa",
-      "slug": "aanisa",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aanisah",
-      "slug": "aanisah",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aaniya",
-      "slug": "aaniya",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aaniyah",
-      "slug": "aaniyah",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aaolin",
-      "slug": "aaolin",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aaqib",
-      "slug": "aaqib",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Male",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aaqiba",
-      "slug": "aaqiba",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aaqibah",
-      "slug": "aaqibah",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aaqif",
-      "slug": "aaqif",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Male",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aaqifa",
-      "slug": "aaqifa",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aaqil",
-      "slug": "aaqil",
-      "status": "complete",
-      "meaning_confidence": "high",
-      "origin": "Arabic",
-      "gender": "Male",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aaqilah",
-      "slug": "aaqilah",
-      "status": "complete",
-      "meaning_confidence": "high",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aara",
-      "slug": "aara",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aaraf",
-      "slug": "aaraf",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Unisex",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aarasun",
-      "slug": "aarasun",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aareeha",
-      "slug": "aareeha",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aarefa",
-      "slug": "aarefa",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aarfa",
-      "slug": "aarfa",
-      "status": "complete",
-      "meaning_confidence": "low",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": true,
-      "reason": null
-    },
-    {
-      "name": "Aarib",
-      "slug": "aarib",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aaribah",
-      "slug": "aaribah",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aaribat",
-      "slug": "aaribat",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aaribun",
-      "slug": "aaribun",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aarif",
-      "slug": "aarif",
-      "status": "complete",
-      "meaning_confidence": "high",
-      "origin": "Arabic",
-      "gender": "Male",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aarifa",
-      "slug": "aarifa",
-      "status": "complete",
-      "meaning_confidence": "high",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aarifah",
-      "slug": "aarifah",
-      "status": "complete",
-      "meaning_confidence": "high",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aarifin",
-      "slug": "aarifin",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Male",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aariz",
-      "slug": "aariz",
-      "status": "complete",
-      "meaning_confidence": "low",
-      "origin": "Arabic",
-      "gender": "Male",
-      "manual_review_required": true,
-      "reason": null
-    },
-    {
-      "name": "Aarizah",
-      "slug": "aarizah",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aarizun",
-      "slug": "aarizun",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aaron",
-      "slug": "aaron",
-      "status": "complete",
-      "meaning_confidence": "high",
-      "origin": "Hebrew",
-      "gender": "Male",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aarya",
-      "slug": "aarya",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Sanskrit",
-      "gender": "Unisex",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aaryan",
-      "slug": "aaryan",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Sanskrit",
-      "gender": "Male",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aarzam",
-      "slug": "aarzam",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aarzoo",
-      "slug": "aarzoo",
-      "status": "complete",
-      "meaning_confidence": "high",
-      "origin": "Persian",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aarzu",
-      "slug": "aarzu",
-      "status": "complete",
-      "meaning_confidence": "high",
-      "origin": "Persian",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aas",
-      "slug": "aas",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aasaal",
-      "slug": "aasaal",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aasal",
-      "slug": "aasal",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Unisex",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aaseman",
-      "slug": "aaseman",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aasfa",
-      "slug": "aasfa",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aashif",
-      "slug": "aashif",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aashik",
-      "slug": "aashik",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Male",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aashiq",
-      "slug": "aashiq",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Male",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aashir",
-      "slug": "aashir",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Male",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aasia",
-      "slug": "aasia",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aasif",
-      "slug": "aasif",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Male",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aasifah",
-      "slug": "aasifah",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aasim",
-      "slug": "aasim",
-      "status": "complete",
-      "meaning_confidence": "high",
-      "origin": "Arabic",
-      "gender": "Male",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aasima",
-      "slug": "aasima",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aasimah",
-      "slug": "aasimah",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aasimat",
-      "slug": "aasimat",
-      "status": "complete",
-      "meaning_confidence": "low",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": true,
-      "reason": null
-    },
-    {
-      "name": "Aasir",
-      "slug": "aasir",
-      "status": "complete",
-      "meaning_confidence": "low",
-      "origin": "Arabic",
-      "gender": "Male",
-      "manual_review_required": true,
-      "reason": null
-    },
-    {
-      "name": "Aasira",
-      "slug": "aasira",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aasiya",
-      "slug": "aasiya",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aasiyah",
-      "slug": "aasiyah",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aasiyyah",
-      "slug": "aasiyyah",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aasma",
-      "slug": "aasma",
-      "status": "complete",
-      "meaning_confidence": "high",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aasmaa",
-      "slug": "aasmaa",
-      "status": "complete",
-      "meaning_confidence": "high",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aasman",
-      "slug": "aasman",
-      "status": "complete",
-      "meaning_confidence": "high",
-      "origin": "Persian",
-      "gender": "Male",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aateqa",
-      "slug": "aateqa",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aathira",
-      "slug": "aathira",
-      "status": "complete_unverified_form",
-      "meaning_confidence": "unverified",
-      "origin": "Unknown",
-      "gender": "Unknown",
-      "manual_review_required": true,
-      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
-    },
-    {
-      "name": "Aati",
-      "slug": "aati",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Male",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aatif",
-      "slug": "aatif",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Male",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aatifa",
-      "slug": "aatifa",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aatifah",
-      "slug": "aatifah",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aatik",
-      "slug": "aatik",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Male",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aatika",
-      "slug": "aatika",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aatikaat",
-      "slug": "aatikaat",
-      "status": "complete",
-      "meaning_confidence": "low",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": true,
-      "reason": null
-    },
-    {
-      "name": "Aatikah",
-      "slug": "aatikah",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aatiq",
-      "slug": "aatiq",
-      "status": "complete",
-      "meaning_confidence": "low",
-      "origin": "Arabic",
-      "gender": "Male",
-      "manual_review_required": true,
-      "reason": null
-    },
-    {
-      "name": "Aatiqa",
-      "slug": "aatiqa",
-      "status": "complete",
-      "meaning_confidence": "low",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": true,
-      "reason": null
-    },
-    {
-      "name": "Aatiqah",
-      "slug": "aatiqah",
-      "status": "complete",
-      "meaning_confidence": "low",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": true,
-      "reason": null
-    },
-    {
-      "name": "Aatir",
-      "slug": "aatir",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Male",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aatira",
-      "slug": "aatira",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aatirah",
-      "slug": "aatirah",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aatiya",
-      "slug": "aatiya",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Female",
-      "manual_review_required": false,
-      "reason": null
-    },
-    {
-      "name": "Aauf",
-      "slug": "aauf",
-      "status": "complete",
-      "meaning_confidence": "low",
-      "origin": "Arabic",
-      "gender": "Male",
-      "manual_review_required": true,
-      "reason": null
-    },
-    {
-      "name": "Aaus",
-      "slug": "aaus",
-      "status": "complete",
-      "meaning_confidence": "medium",
-      "origin": "Arabic",
-      "gender": "Male",
-      "manual_review_required": false,
-      "reason": null
-    }
-  ],
-  "confidence_summary": {
-    "medium": 41,
-    "high": 19,
-    "unverified": 30,
-    "low": 10
+  {
+   "name": "Aamin",
+   "slug": "aamin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
   },
-  "verified_forms": 70,
-  "unverified_forms": 30,
-  "quality_gate": {
-    "json_invalid": 0,
-    "conflict_markers": 0,
-    "schema_mismatches": 0,
-    "duplicate_slugs": 0,
-    "english_gloss_in_translation": 0,
-    "bad_structured_data": 0,
-    "missing_evidence": 0,
-    "broken_text": 0
+  {
+   "name": "Aamina",
+   "slug": "aamina",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
   },
-  "next_batch_starts_after": "aaus",
-  "updated_at": "2026-10-02T00:00:00.000Z"
+  {
+   "name": "Aaminaat",
+   "slug": "aaminaat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aaminah",
+   "slug": "aaminah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aamir",
+   "slug": "aamir",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aamira",
+   "slug": "aamira",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aamirah",
+   "slug": "aamirah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aamirat",
+   "slug": "aamirat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aamirul",
+   "slug": "aamirul",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aamirul. The form aamirul could not be matched to a verified Arabic lexical form. It may be a romanization of a compou"
+  },
+  {
+   "name": "Aamiya",
+   "slug": "aamiya",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aamiya. The source record gave عامية ('colloquial'), which is a linguistic register term rather than a personal name. "
+  },
+  {
+   "name": "Aamla",
+   "slug": "aamla",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aamla. No verified Arabic, Persian, Urdu, Hindi or Pashto lexical form could be matched to aamla. No gloss is asserted"
+  },
+  {
+   "name": "Aamna",
+   "slug": "aamna",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aamra",
+   "slug": "aamra",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aamra. The source record gave أميرة (amīra, 'princess'), which is a different name (see aamirah). The form aamra could"
+  },
+  {
+   "name": "Aamrah",
+   "slug": "aamrah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aana",
+   "slug": "aana",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aana. The source record supplied a Latin-script placeholder rather than a script form. No verified lexical form could "
+  },
+  {
+   "name": "Aanal",
+   "slug": "aanal",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aanal. No verified lexical form could be matched to aanal. No gloss is asserted."
+  },
+  {
+   "name": "Aanan",
+   "slug": "aanan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form عنان is an established Arabic lexical item. عنان means 'reins, halter' in Arabic. Its use as a personal name is reported but not verified from a Tier-A"
+  },
+  {
+   "name": "Aaneseh",
+   "slug": "aaneseh",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aaneseh. The source record supplied a Latin-script placeholder rather than a script form. No verified lexical form cou"
+  },
+  {
+   "name": "Aani",
+   "slug": "aani",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aani. No verified lexical form could be matched to aani. No gloss is asserted."
+  },
+  {
+   "name": "Aania",
+   "slug": "aania",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aania. No verified lexical form could be matched to aania. No gloss is asserted."
+  },
+  {
+   "name": "Aanil",
+   "slug": "aanil",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aanil. The source record supplied a Latin-script placeholder rather than a script form. No verified lexical form could"
+  },
+  {
+   "name": "Aanisa",
+   "slug": "aanisa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aanisah",
+   "slug": "aanisah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aaniya",
+   "slug": "aaniya",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aaniya. No verified lexical form could be matched to aaniya. No gloss is asserted."
+  },
+  {
+   "name": "Aaniyah",
+   "slug": "aaniyah",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aaniyah. No verified lexical form could be matched to aaniyah. No gloss is asserted."
+  },
+  {
+   "name": "Aaolin",
+   "slug": "aaolin",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aaolin. No verified lexical form could be matched to aaolin. No gloss is asserted."
+  },
+  {
+   "name": "Aaqib",
+   "slug": "aaqib",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aaqiba",
+   "slug": "aaqiba",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aaqibah",
+   "slug": "aaqibah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aaqif",
+   "slug": "aaqif",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aaqifa",
+   "slug": "aaqifa",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aaqifa. The source record gave أعقل ('more rational'), which is a different word. The form aaqifa could not be verifie"
+  },
+  {
+   "name": "Aaqil",
+   "slug": "aaqil",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aaqilah",
+   "slug": "aaqilah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aara",
+   "slug": "aara",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aara. The source record gave عارة, which is not a standard Arabic lexical form. The identification could not be verifi"
+  },
+  {
+   "name": "Aaraf",
+   "slug": "aaraf",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aarasun",
+   "slug": "aarasun",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aarasun. No verified lexical form could be matched to aarasun. No gloss is asserted."
+  },
+  {
+   "name": "Aareeha",
+   "slug": "aareeha",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aareeha. No verified lexical form could be matched to aareeha. No gloss is asserted."
+  },
+  {
+   "name": "Aarefa",
+   "slug": "aarefa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aarfa",
+   "slug": "aarfa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عرفة is an established Arabic lexical item. عرفة is the name of the plain near Mecca associated with the Hajj. Its use as a personal name is reported b"
+  },
+  {
+   "name": "Aarib",
+   "slug": "aarib",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aarib. The source record gave عارب, which is not a standard Arabic lexical form. The identification could not be verif"
+  },
+  {
+   "name": "Aaribah",
+   "slug": "aaribah",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aaribah. No verified lexical form could be matched to aaribah. No gloss is asserted."
+  },
+  {
+   "name": "Aaribat",
+   "slug": "aaribat",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aaribat. No verified lexical form could be matched to aaribat. No gloss is asserted."
+  },
+  {
+   "name": "Aaribun",
+   "slug": "aaribun",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aaribun. No verified lexical form could be matched to aaribun. No gloss is asserted."
+  },
+  {
+   "name": "Aarif",
+   "slug": "aarif",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aarifa",
+   "slug": "aarifa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aarifah",
+   "slug": "aarifah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aarifin",
+   "slug": "aarifin",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aariz",
+   "slug": "aariz",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عارض is an established Arabic lexical item. عارض can mean 'cloud' or 'one who presents'. Its use as a personal name is reported but not verified from a"
+  },
+  {
+   "name": "Aarizah",
+   "slug": "aarizah",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aarizah. The source record gave عاريظة, which is not a standard Arabic lexical form. The identification could not be v"
+  },
+  {
+   "name": "Aarizun",
+   "slug": "aarizun",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aarizun. No verified lexical form could be matched to aarizun. No gloss is asserted."
+  },
+  {
+   "name": "Aaron",
+   "slug": "aaron",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aarya",
+   "slug": "aarya",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Sanskrit",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aaryan",
+   "slug": "aaryan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Sanskrit",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aarzam",
+   "slug": "aarzam",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aarzam. The source record gave عرضام, which is not a standard Arabic lexical form. The identification could not be ver"
+  },
+  {
+   "name": "Aarzoo",
+   "slug": "aarzoo",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aarzu",
+   "slug": "aarzu",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aas",
+   "slug": "aas",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aas. No verified lexical form could be matched to aas. No gloss is asserted."
+  },
+  {
+   "name": "Aasaal",
+   "slug": "aasaal",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aasaal. The source record gave أحمد ('Ahmad'), which is a different name entirely. The form aasaal could not be verifi"
+  },
+  {
+   "name": "Aasal",
+   "slug": "aasal",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aaseman",
+   "slug": "aaseman",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aaseman. The source record supplied a Latin-script placeholder rather than a script form. The form aaseman resembles P"
+  },
+  {
+   "name": "Aasfa",
+   "slug": "aasfa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aashif",
+   "slug": "aashif",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aashif. The source record gave عاشف, which is not a standard Arabic lexical form. The identification could not be veri"
+  },
+  {
+   "name": "Aashik",
+   "slug": "aashik",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aashiq",
+   "slug": "aashiq",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aashir",
+   "slug": "aashir",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aasia",
+   "slug": "aasia",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aasif",
+   "slug": "aasif",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aasifah",
+   "slug": "aasifah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aasim",
+   "slug": "aasim",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aasima",
+   "slug": "aasima",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aasimah",
+   "slug": "aasimah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aasimat",
+   "slug": "aasimat",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عاصمات is an established Arabic lexical item. Plural form of عاصمة."
+  },
+  {
+   "name": "Aasir",
+   "slug": "aasir",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عاصر is an established Arabic lexical item. عاصر means 'contemporary, one who lives in the same age'. Its use as a personal name is reported but not ve"
+  },
+  {
+   "name": "Aasira",
+   "slug": "aasira",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aasira. The source record gave الأسيرة ('the captive'), which is a definite noun phrase rather than a name. The identi"
+  },
+  {
+   "name": "Aasiya",
+   "slug": "aasiya",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aasiyah",
+   "slug": "aasiyah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aasiyyah",
+   "slug": "aasiyyah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aasma",
+   "slug": "aasma",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aasmaa",
+   "slug": "aasmaa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aasman",
+   "slug": "aasman",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aateqa",
+   "slug": "aateqa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aathira",
+   "slug": "aathira",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aathira. The source record gave أثيرة, which is not a standard Arabic lexical form. The identification could not be ve"
+  },
+  {
+   "name": "Aati",
+   "slug": "aati",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aatif",
+   "slug": "aatif",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aatifa",
+   "slug": "aatifa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aatifah",
+   "slug": "aatifah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aatik",
+   "slug": "aatik",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aatika",
+   "slug": "aatika",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aatikaat",
+   "slug": "aatikaat",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عاتكات is an established Arabic lexical item. Plural form of عاتكة."
+  },
+  {
+   "name": "Aatikah",
+   "slug": "aatikah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aatiq",
+   "slug": "aatiq",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عاتق is an established Arabic lexical item. The source record gave عاطق, which is not a standard form; the intended form is likely عتيق ('ancient, nobl"
+  },
+  {
+   "name": "Aatiqa",
+   "slug": "aatiqa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عتيقة is an established Arabic lexical item. Feminine of عتيق. The source record's form آتيفا is not standard; the intended form is likely عتيقة. The i"
+  },
+  {
+   "name": "Aatiqah",
+   "slug": "aatiqah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عتيقة is an established Arabic lexical item. Variant romanization of aatiqa. The source record's form is not standard and the identification is uncerta"
+  },
+  {
+   "name": "Aatir",
+   "slug": "aatir",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aatira",
+   "slug": "aatira",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aatirah",
+   "slug": "aatirah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aatiya",
+   "slug": "aatiya",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aauf",
+   "slug": "aauf",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عؤف is an established Arabic lexical item. The source record gave عؤف; the standard form is عوف (ʿAwf), a well-attested early Islamic male name. The id"
+  },
+  {
+   "name": "Aaus",
+   "slug": "aaus",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aayan",
+   "slug": "aayan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aayat",
+   "slug": "aayat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aayesha",
+   "slug": "aayesha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aazad",
+   "slug": "aazad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aazam",
+   "slug": "aazam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aazim",
+   "slug": "aazim",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abaan",
+   "slug": "abaan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abaas",
+   "slug": "abaas",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ababil",
+   "slug": "ababil",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abad",
+   "slug": "abad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abaid",
+   "slug": "abaid",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aban",
+   "slug": "aban",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abar",
+   "slug": "abar",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Abar. The source record gave أبار with the gloss 'Father of the multitude', which is a folk explanation of the Abar- e"
+  },
+  {
+   "name": "Abasi",
+   "slug": "abasi",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abasin",
+   "slug": "abasin",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Abasin. The source record gave اباسين, which is not a standard Arabic lexical form. No verified identification was est"
+  },
+  {
+   "name": "Abbaas",
+   "slug": "abbaas",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abbad",
+   "slug": "abbad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abbas",
+   "slug": "abbas",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abbasi",
+   "slug": "abbasi",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abbass",
+   "slug": "abbass",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abbood",
+   "slug": "abbood",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abd",
+   "slug": "abd",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abda",
+   "slug": "abda",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abdah",
+   "slug": "abdah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abdal",
+   "slug": "abdal",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abdiel",
+   "slug": "abdiel",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Abdiel. The source record gave the placeholder عربي_Abdiel, which is not an Arabic form. Abdiel is a Hebrew biblical n"
+  },
+  {
+   "name": "Abdil",
+   "slug": "abdil",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Abdil. The source record gave عبديل, which is not a standard Arabic lexical form. No verified identification was estab"
+  },
+  {
+   "name": "Abdiqani",
+   "slug": "abdiqani",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abduh",
+   "slug": "abduh",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abdul",
+   "slug": "abdul",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abdullah",
+   "slug": "abdullah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abdulqadir",
+   "slug": "abdulqadir",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abdun",
+   "slug": "abdun",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Abdun. The source record gave عبدن, which is not a standard Arabic lexical form. No verified identification was establ"
+  },
+  {
+   "name": "Abdur",
+   "slug": "abdur",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abdus",
+   "slug": "abdus",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abdushakur",
+   "slug": "abdushakur",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abed",
+   "slug": "abed",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abeda",
+   "slug": "abeda",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abedin",
+   "slug": "abedin",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abeed",
+   "slug": "abeed",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abeel",
+   "slug": "abeel",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form أبيل is an established Arabic lexical item. The source record's gloss 'Gentle, Kind, Devoted' could not be matched to a Tier-A/B Arabic lexical source."
+  },
+  {
+   "name": "Abeer",
+   "slug": "abeer",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abeera",
+   "slug": "abeera",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abi",
+   "slug": "abi",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form أبي is an established Arabic lexical item. أبي is the construct/possessive form of أب ('father'). Its use as a personal name is reported but not verifi"
+  },
+  {
+   "name": "Abia",
+   "slug": "abia",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Abia. The source record supplied the Latin-script placeholder 'Abia' rather than a script form. No verified lexical fo"
+  },
+  {
+   "name": "Abid",
+   "slug": "abid",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abida",
+   "slug": "abida",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abidah",
+   "slug": "abidah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abidat",
+   "slug": "abidat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abideen",
+   "slug": "abideen",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abidin",
+   "slug": "abidin",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abidur",
+   "slug": "abidur",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Abidur. The source record gave عابدور, which is not a standard Arabic lexical form. No verified identification was est"
+  },
+  {
+   "name": "Abir",
+   "slug": "abir",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abira",
+   "slug": "abira",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abis",
+   "slug": "abis",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Abis. The source record gave أبيس with the gloss 'Father, Fatherly', which is a folk explanation. No verified identifi"
+  },
+  {
+   "name": "Abisha",
+   "slug": "abisha",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Abisha. The source record gave ابيشة, which is not a standard Arabic lexical form. No verified identification was esta"
+  },
+  {
+   "name": "Abkar",
+   "slug": "abkar",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Abkar. The source record gave أبكر with the gloss 'Father of the Poor', which is a folk explanation. No verified ident"
+  },
+  {
+   "name": "Abla",
+   "slug": "abla",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ablah",
+   "slug": "ablah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abood",
+   "slug": "abood",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abou",
+   "slug": "abou",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abqari",
+   "slug": "abqari",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abra",
+   "slug": "abra",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Abra. The source record gave أبرا with the gloss 'Father of a great multitude', which is a folk explanation. No verifi"
+  },
+  {
+   "name": "Abraar",
+   "slug": "abraar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abraha",
+   "slug": "abraha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abraham",
+   "slug": "abraham",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abrahim",
+   "slug": "abrahim",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abram",
+   "slug": "abram",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abrar",
+   "slug": "abrar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abrash",
+   "slug": "abrash",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Abrash. The source record gave أبرش with the gloss 'Father of multitudes', which is a folk explanation. No verified id"
+  },
+  {
+   "name": "Abrisham",
+   "slug": "abrisham",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Persian",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Abrisham. ابریشم is a Persian word meaning 'silk'. It is not an Arabic name, and its use as a personal name is not ver"
+  },
+  {
+   "name": "Abru",
+   "slug": "abru",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Abru. The source record supplied the Latin-script placeholder 'Abru' rather than a script form. No verified lexical fo"
+  },
+  {
+   "name": "Absalom",
+   "slug": "absalom",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Hebrew",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Absar",
+   "slug": "absar",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Absar. The source record gave أبصار with the gloss 'Servant of the Almighty', which is unsupported. أبصار is the plura"
+  },
+  {
+   "name": "Abshir",
+   "slug": "abshir",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أبشر is an established Arabic lexical item. Related to بشارة ('good tidings'). The source record's gloss 'Gift, Reward' is an approximation; the identi"
+  },
+  {
+   "name": "Absi",
+   "slug": "absi",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form أبسي is an established Arabic lexical item. The source record's gloss 'Sweet one, delicate' could not be matched to a Tier-A/B Arabic lexical source. T"
+  },
+  {
+   "name": "Abtahi",
+   "slug": "abtahi",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form أبطحي is an established Arabic lexical item. Nisba adjective from أبطح (a place name near Mecca). The source record's gloss 'Giver of Good' is unsuppor"
+  },
+  {
+   "name": "Abtal",
+   "slug": "abtal",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أبطال is an established Arabic lexical item. أبطال is the plural of بطل ('hero'). The source record's gloss 'Mothers of the believers' is unsupported a"
+  },
+  {
+   "name": "Abu",
+   "slug": "abu",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abudi",
+   "slug": "abudi",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عبودي is an established Arabic lexical item. Nisba adjective from عبود. The source record's gloss 'Father of a great one' is unsupported."
+  },
+  {
+   "name": "Abyad",
+   "slug": "abyad",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Abza",
+   "slug": "abza",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Abza. The source record gave أبزا with the gloss 'Father of greatness', which is a folk explanation. No verified ident"
+  },
+  {
+   "name": "Ada",
+   "slug": "ada",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عائدة is an established Arabic lexical item. The source record gave عادة ('habit, custom'), which is a common noun rather than a personal name. The int"
+  },
+  {
+   "name": "Adaa",
+   "slug": "adaa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أداء is an established Arabic lexical item. أداء means 'performance, fulfilment'. The source record's gloss 'Frequent' is unsupported. Its use as a per"
+  },
+  {
+   "name": "Adaan",
+   "slug": "adaan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adal",
+   "slug": "adal",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adala",
+   "slug": "adala",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adalat",
+   "slug": "adalat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adam",
+   "slug": "adam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adan",
+   "slug": "adan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adar",
+   "slug": "adar",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form أدار is an established Arabic lexical item. The source record's gloss 'Spring, New Beginnings' could not be matched to a Tier-A/B Arabic lexical source"
+  },
+  {
+   "name": "Adara",
+   "slug": "adara",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أدارة is an established Arabic lexical item. The source record's gloss 'Joyful one' could not be matched to a Tier-A/B Arabic lexical source. The ident"
+  },
+  {
+   "name": "Adawi",
+   "slug": "adawi",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عدوي is an established Arabic lexical item. Nisba adjective from عدو. The source record's gloss 'Exalted, noble' is unsupported."
+  },
+  {
+   "name": "Adawiyah",
+   "slug": "adawiyah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عدوية is an established Arabic lexical item. Nisba adjective from عدو. The source record's gloss 'Gardener, one who cultivates' is unsupported."
+  },
+  {
+   "name": "Addar",
+   "slug": "addar",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form أضار is an established Arabic lexical item. The source record's gloss 'Gentle, Kind, Beloved' could not be matched to a Tier-A/B Arabic lexical source."
+  },
+  {
+   "name": "Addul",
+   "slug": "addul",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عدول is an established Arabic lexical item. عدول is a plural of عدل. The source record's gloss 'Servant of God' is unsupported."
+  },
+  {
+   "name": "Adebayo",
+   "slug": "adebayo",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Yoruba",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adeeb",
+   "slug": "adeeb",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adeeba",
+   "slug": "adeeba",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adeel",
+   "slug": "adeel",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  }
+ ],
+ "confidence_summary": {
+  "medium": 77,
+  "high": 52,
+  "unverified": 46,
+  "low": 25
+ },
+ "origin_summary": {
+  "Arabic": 145,
+  "Unknown": 45,
+  "Hebrew": 2,
+  "Sanskrit": 2,
+  "Persian": 5,
+  "Yoruba": 1
+ },
+ "verified_forms": 154,
+ "unverified_forms": 46,
+ "quality_gate": {
+  "invalid_json": 0,
+  "conflict_markers": 0,
+  "schema_mismatches": 0,
+  "duplicate_slugs": 0,
+  "english_gloss_in_translation": 0,
+  "bad_structured_data": 0,
+  "missing_evidence": 0,
+  "broken_text": 0,
+  "total_failures": 0
+ },
+ "next_batch_starts_after": "adeel",
+ "updated_at": "2026-10-02T03:16:58Z"
 }
