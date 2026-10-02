@@ -4,40 +4,40 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 1700 |
-| Current batch | 17 |
-| Batch range | cala .. darman (100) |
-| Verified forms | 1575 |
+| Names completed | 1800 |
+| Current batch | 18 |
+| Batch range | daroon .. diya (100) |
+| Verified forms | 1675 |
 | Unverified forms (no gloss asserted) | 125 |
-| Next batch starts after | darman |
-| Updated | 2026-10-02T03:50:37Z |
+| Next batch starts after | diya |
+| Updated | 2026-10-02T03:53:21Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 769 |
-| low | 413 |
-| medium | 393 |
+| high | 839 |
+| low | 424 |
+| medium | 412 |
 | unverified | 125 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 1247 |
-| Persian | 216 |
-| Unknown | 127 |
-| Hebrew | 28 |
-| Turkish | 22 |
+| Arabic | 1289 |
+| Persian | 256 |
+| Unknown | 131 |
+| Hebrew | 38 |
+| Turkish | 24 |
 | Turkic | 17 |
 | Kurdish | 9 |
 | Sanskrit | 7 |
 | Greek | 7 |
+| Pashto | 3 |
 | Urdu | 3 |
 | Hindi | 3 |
 | Latin | 2 |
-| Pashto | 2 |
 | Irish | 2 |
 | Punjabi | 2 |
 | Yoruba | 1 |
@@ -46,6 +46,7 @@
 | Akkadian | 1 |
 | Slavic | 1 |
 | Indonesian | 1 |
+| English | 1 |
 
 ## Quality gate
 
@@ -82,3 +83,4 @@
 | 15 | baraa .. bazla | 100 | complete |
 | 16 | bazlul .. caitlyn | 100 | complete |
 | 17 | cala .. darman | 100 | complete |
+| 18 | daroon .. diya | 100 | complete |
