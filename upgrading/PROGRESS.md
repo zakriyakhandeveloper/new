@@ -4,43 +4,44 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 900 |
-| Current batch | 9 |
-| Batch range | aqdas .. arsal (100) |
-| Verified forms | 775 |
+| Names completed | 1000 |
+| Current batch | 10 |
+| Batch range | arsala .. asima (100) |
+| Verified forms | 875 |
 | Unverified forms (no gloss asserted) | 125 |
-| Next batch starts after | arsal |
-| Updated | 2026-10-02T03:36:15Z |
+| Next batch starts after | asima |
+| Updated | 2026-10-02T03:37:52Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 330 |
-| low | 192 |
-| medium | 253 |
+| high | 360 |
+| low | 242 |
+| medium | 273 |
 | unverified | 125 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 663 |
+| Arabic | 741 |
 | Unknown | 124 |
-| Persian | 74 |
+| Persian | 91 |
 | Hebrew | 9 |
+| Turkic | 8 |
 | Turkish | 7 |
 | Sanskrit | 6 |
-| Turkic | 5 |
 | Greek | 3 |
 | Pashto | 2 |
+| Kurdish | 2 |
 | Yoruba | 1 |
 | Latin | 1 |
 | Irish | 1 |
 | Punjabi | 1 |
 | Basque | 1 |
 | Berber | 1 |
-| Kurdish | 1 |
+| Akkadian | 1 |
 
 ## Quality gate
 
@@ -69,3 +70,4 @@
 | 7 | amaan .. anabia | 100 | complete |
 | 8 | anaf .. aphrodite | 100 | complete |
 | 9 | aqdas .. arsal | 100 | complete |
+| 10 | arsala .. asima | 100 | complete |

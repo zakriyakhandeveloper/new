@@ -66,6 +66,7 @@ RANGES = [
     (1, "aamilah", "aaus"), (2, "aayan", "adeel"), (3, "adeela", "afsar"),
     (4, "afshan", "aizah"), (5, "aizat", "alesha"), (6, "alev", "amaal"),
     (7, "amaan", "anabia"), (8, "anaf", "aphrodite"), (9, "aqdas", "arsal"),
+    (10, "arsala", "asima"),
 ]
 md = ["# NameVerse Upgrade Progress", "",
       "| Field | Value |", "|---|---|",
