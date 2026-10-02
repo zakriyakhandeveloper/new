@@ -4,32 +4,32 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 3000 |
-| Current batch | 30 |
-| Batch range | huthayfa .. inan (100) |
-| Verified forms | 2843 |
+| Names completed | 3100 |
+| Current batch | 31 |
+| Batch range | inara .. jabbar (100) |
+| Verified forms | 2943 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | inan |
-| Updated | 2026-10-02T05:30:52Z |
+| Next batch starts after | jabbar |
+| Updated | 2026-10-02T05:34:09Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 1522 |
-| low | 590 |
-| medium | 731 |
+| high | 1563 |
+| low | 607 |
+| medium | 773 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 2228 |
-| Persian | 403 |
+| Arabic | 2320 |
+| Persian | 406 |
 | Unknown | 204 |
 | Hebrew | 58 |
-| Turkish | 38 |
+| Turkish | 40 |
 | Turkic | 17 |
 | Kurdish | 12 |
 | Sanskrit | 7 |
@@ -40,14 +40,16 @@
 | Latin | 2 |
 | Irish | 2 |
 | Punjabi | 2 |
+| Indonesian | 2 |
 | Yoruba | 1 |
 | Basque | 1 |
 | Berber | 1 |
 | Akkadian | 1 |
 | Slavic | 1 |
-| Indonesian | 1 |
 | English | 1 |
 | Somali | 1 |
+| Tamil | 1 |
+| Germanic | 1 |
 
 ## Quality gate
 
