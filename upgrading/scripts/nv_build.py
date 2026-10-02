@@ -4,11 +4,11 @@ import json, re, sys
 from curated import CUR, GLOSSES
 
 ORIGIN_NATIVE = {
-    "ur": {"Arabic": "عربی", "Persian": "فارسی", "Sanskrit": "سنسکرت", "Hebrew": "عبرانی", "Unknown": "نامعلوم"},
-    "fa": {"Arabic": "عربی", "Persian": "فارسی", "Sanskrit": "سانسکریت", "Hebrew": "عبری", "Unknown": "نامعلوم"},
-    "hi": {"Arabic": "अरबी", "Persian": "फ़ारसी", "Sanskrit": "संस्कृत", "Hebrew": "हिब्रू", "Unknown": "अज्ञात"},
-    "ps": {"Arabic": "عربي", "Persian": "فارسي", "Sanskrit": "سانسکریت", "Hebrew": "عبري", "Unknown": "نامعلوم"},
-    "ar": {"Arabic": "العربية", "Persian": "الفارسية", "Sanskrit": "السنسكريتية", "Hebrew": "العبرية", "Unknown": "غير محددة"},
+    "ur": {"Arabic": "عربی", "Persian": "فارسی", "Sanskrit": "سنسکرت", "Hebrew": "عبرانی", "Turkish": "ترکی", "Turkic": "ترک", "Kurdish": "کردی", "Greek": "یونانی", "Unknown": "نامعلوم"},
+    "fa": {"Arabic": "عربی", "Persian": "فارسی", "Sanskrit": "سانسکریت", "Hebrew": "عبری", "Turkish": "ترکی", "Turkic": "ترک", "Kurdish": "کردی", "Greek": "یونانی", "Unknown": "نامعلوم"},
+    "hi": {"Arabic": "अरबी", "Persian": "फ़ारसी", "Sanskrit": "संस्कृत", "Hebrew": "हिब्रू", "Turkish": "तुर्की", "Turkic": "तुर्क", "Kurdish": "कुर्दी", "Greek": "यूनानी", "Unknown": "अज्ञात"},
+    "ps": {"Arabic": "عربي", "Persian": "فارسي", "Sanskrit": "سانسکریت", "Hebrew": "عبري", "Turkish": "ترکي", "Turkic": "ترک", "Kurdish": "کردي", "Greek": "یوناني", "Unknown": "نامعلوم"},
+    "ar": {"Arabic": "العربية", "Persian": "الفارسية", "Sanskrit": "السنسكريتية", "Hebrew": "العبرية", "Turkish": "التركية", "Turkic": "التركية", "Kurdish": "الكردية", "Greek": "اليونانية", "Unknown": "غير محددة"},
 }
 
 LONG_T = {

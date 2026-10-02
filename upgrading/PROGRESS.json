@@ -3,14 +3,14 @@
  "culture": "islamic",
  "branch": "names-upgraded-v3",
  "total_names_in_slice": 5471,
- "names_completed": 2300,
- "current_batch": 23,
+ "names_completed": 2400,
+ "current_batch": 24,
  "batch_range": {
-  "first": "fateema",
-  "last": "ferdous",
+  "first": "ferhat",
+  "last": "ghadir",
   "count": 100
  },
- "batches_completed": 23,
+ "batches_completed": 24,
  "per_name": [
   {
    "name": "Aamilah",
@@ -23011,31 +23011,1031 @@
    "gender": "Male",
    "manual_review_required": false,
    "reason": null
+  },
+  {
+   "name": "Ferhat",
+   "slug": "ferhat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Feride",
+   "slug": "feride",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Feroz",
+   "slug": "feroz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Feroza",
+   "slug": "feroza",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ferozah",
+   "slug": "ferozah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Feroze",
+   "slug": "feroze",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ferran",
+   "slug": "ferran",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Ferran. No lexical identification could be established for ferran against a Tier-A/B source. The source record asserte"
+  },
+  {
+   "name": "Feryal",
+   "slug": "feryal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Feyza",
+   "slug": "feyza",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fida",
+   "slug": "fida",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Fida. The source record carries no linguistic data at all for fida (empty language, gender, and meaning). No verified "
+  },
+  {
+   "name": "Fidaa",
+   "slug": "fidaa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fidah",
+   "slug": "fidah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fiddah",
+   "slug": "fiddah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fidha",
+   "slug": "fidha",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fikr",
+   "slug": "fikr",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fikrat",
+   "slug": "fikrat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fikri",
+   "slug": "fikri",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fikriyah",
+   "slug": "fikriyah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fila",
+   "slug": "fila",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Fila. The source record gave the Latin string 'Fila' as the 'Arabic form' and the gloss 'moonlight'; neither could be "
+  },
+  {
+   "name": "Filza",
+   "slug": "filza",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Filza. Filza is a female given name used in South Asia (recorded on Urdu naming references as 'rose from heaven'), but"
+  },
+  {
+   "name": "Filzah",
+   "slug": "filzah",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Filzah. Filzah is a spelling variant of Filza, recorded in South Asian naming usage. No Tier-A/B lexical source establ"
+  },
+  {
+   "name": "Fir",
+   "slug": "fir",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Firas",
+   "slug": "firas",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Firasat",
+   "slug": "firasat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Firasha",
+   "slug": "firasha",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Firasha. Firasha corresponds in form to Arabic فراشة (farāsha) 'butterfly'; the source record itself supplied no meani"
+  },
+  {
+   "name": "Firdaus",
+   "slug": "firdaus",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Firdausi",
+   "slug": "firdausi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Firdaws",
+   "slug": "firdaws",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Firdevs",
+   "slug": "firdevs",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Firdos",
+   "slug": "firdos",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Firdous",
+   "slug": "firdous",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Firnas",
+   "slug": "firnas",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Firouz",
+   "slug": "firouz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Firoz",
+   "slug": "firoz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Firoza",
+   "slug": "firoza",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Firuz",
+   "slug": "firuz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Firuze",
+   "slug": "firuze",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Firuzeh",
+   "slug": "firuzeh",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Firyal",
+   "slug": "firyal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fitrah",
+   "slug": "fitrah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fitrat",
+   "slug": "fitrat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fiza",
+   "slug": "fiza",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fizah",
+   "slug": "fizah",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Fizah. The source record's 'Arabic form' فضحة is not an attested lexical item, and the gloss 'breeze, gentle wind' was"
+  },
+  {
+   "name": "Fizan",
+   "slug": "fizan",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Fizan. Fizan appears in South Asian naming usage; it may relate to Arabic فيضان (fayḍān) 'flood, overflow, abundance',"
+  },
+  {
+   "name": "Fizza",
+   "slug": "fizza",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fizzah",
+   "slug": "fizzah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fizzi",
+   "slug": "fizzi",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Fizzi. Fizzi is recorded in the source only through Latin strings; no script form or lexical meaning was established f"
+  },
+  {
+   "name": "Fojan",
+   "slug": "fojan",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Fojan. No Tier-A/B source establishes a lexical form of this shape. The source gave the Arabic form فجان (not an attes"
+  },
+  {
+   "name": "Folla",
+   "slug": "folla",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Folla. Folla is recorded in the source only through Latin strings; it corresponds to no established Arabic or Persian "
+  },
+  {
+   "name": "Foram",
+   "slug": "foram",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Foram. CRITICAL SOURCE ERROR: the source record gave أحمد (Ahmad) as both the 'Arabic form' and the 'Urdu form' of for"
+  },
+  {
+   "name": "Foroud",
+   "slug": "foroud",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Forough",
+   "slug": "forough",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Forouz",
+   "slug": "forouz",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Forouzan",
+   "slug": "forouzan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fouad",
+   "slug": "fouad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fouzan",
+   "slug": "fouzan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Fouzan. Fouzan relates in form to the Arabic root ف و ز (f-w-z) 'to succeed, be victorious' (cf. فوز fawz 'success', ف"
+  },
+  {
+   "name": "Fouzia",
+   "slug": "fouzia",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fouziah",
+   "slug": "fouziah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fozhan",
+   "slug": "fozhan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Fozhan. Fozhan (فوژان) is current in Persian and South Asian naming, but no Tier-A/B source establishes a settled lexi"
+  },
+  {
+   "name": "Fozia",
+   "slug": "fozia",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Foziah",
+   "slug": "foziah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fuad",
+   "slug": "fuad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fuada",
+   "slug": "fuada",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fuhad",
+   "slug": "fuhad",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Fuhad. Fuhad most plausibly corresponds to Arabic فهد (fahd) 'cheetah, leopard' — a long-established Arabic male name "
+  },
+  {
+   "name": "Fullah",
+   "slug": "fullah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Fullah. Fullah corresponds in form to Arabic فُلّة (fulla) 'jasmine blossom' — a plausible female given name in Arabic"
+  },
+  {
+   "name": "Furat",
+   "slug": "furat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Furqaan",
+   "slug": "furqaan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Furqan",
+   "slug": "furqan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fursan",
+   "slug": "fursan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fusun",
+   "slug": "fusun",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Futoon",
+   "slug": "futoon",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Futoon. No lexical identification was established for futoon. The source gave فتونه and the gloss 'happiness', neither"
+  },
+  {
+   "name": "Fuzail",
+   "slug": "fuzail",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gabina",
+   "slug": "gabina",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Gabina. Gabina is recorded in the source only through Latin strings and does not correspond to an established Arabic o"
+  },
+  {
+   "name": "Gabir",
+   "slug": "gabir",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gabr",
+   "slug": "gabr",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gadaa",
+   "slug": "gadaa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Gadaa. Gadaa corresponds in form to Arabic غَداء (ghadāʾ) 'morning meal' or to the root غ د و 'morning', but the sourc"
+  },
+  {
+   "name": "Gaddafi",
+   "slug": "gaddafi",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gafar",
+   "slug": "gafar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gafoor",
+   "slug": "gafoor",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Galai",
+   "slug": "galai",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Galai. Galai is recorded in the source only through Latin strings and corresponds to no established Arabic or Persian "
+  },
+  {
+   "name": "Galal",
+   "slug": "galal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Galawezh",
+   "slug": "galawezh",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Kurdish",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Galib",
+   "slug": "galib",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Galila",
+   "slug": "galila",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gamal",
+   "slug": "gamal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gamil",
+   "slug": "gamil",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gamila",
+   "slug": "gamila",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gamze",
+   "slug": "gamze",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ganiyah",
+   "slug": "ganiyah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gauhar",
+   "slug": "gauhar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gawdat",
+   "slug": "gawdat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gazala",
+   "slug": "gazala",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gede",
+   "slug": "gede",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Gede. Gede is recorded in the source only through Latin strings and does not correspond to an established Arabic or Pe"
+  },
+  {
+   "name": "Geela",
+   "slug": "geela",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Geela. Geela corresponds to Arabic جِيلة (Jīla) 'a generation, a people', from the root ج ي ل. The source gave جِل (a "
+  },
+  {
+   "name": "Ghada",
+   "slug": "ghada",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghadah",
+   "slug": "ghadah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghadeer",
+   "slug": "ghadeer",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghadi",
+   "slug": "ghadi",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghadia",
+   "slug": "ghadia",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghadir",
+   "slug": "ghadir",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
   }
  ],
  "confidence_summary": {
-  "medium": 506,
-  "high": 1190,
-  "unverified": 125,
-  "low": 479
+  "medium": 525,
+  "high": 1249,
+  "unverified": 140,
+  "low": 486
  },
  "origin_summary": {
-  "Arabic": 1658,
-  "Unknown": 158,
+  "Arabic": 1720,
+  "Unknown": 173,
   "Hebrew": 54,
   "Sanskrit": 7,
-  "Persian": 333,
+  "Persian": 354,
   "Yoruba": 1,
   "Latin": 2,
   "Pashto": 4,
-  "Turkish": 33,
+  "Turkish": 34,
   "Turkic": 17,
   "Irish": 2,
   "Greek": 7,
   "Punjabi": 2,
   "Basque": 1,
   "Berber": 1,
-  "Kurdish": 10,
+  "Kurdish": 11,
   "Akkadian": 1,
   "Slavic": 1,
   "Indonesian": 1,
@@ -23043,8 +24043,8 @@
   "Hindi": 3,
   "English": 1
  },
- "verified_forms": 2175,
- "unverified_forms": 125,
+ "verified_forms": 2260,
+ "unverified_forms": 140,
  "quality_gate": {
   "invalid_json": 0,
   "conflict_markers": 0,
@@ -23056,6 +24056,6 @@
   "broken_text": 0,
   "total_failures": 0
  },
- "next_batch_starts_after": "ferdous",
- "updated_at": "2026-10-02T04:07:09Z"
+ "next_batch_starts_after": "ghadir",
+ "updated_at": "2026-10-02T04:45:18Z"
 }
