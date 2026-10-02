@@ -3,14 +3,14 @@
  "culture": "islamic",
  "branch": "names-upgraded-v3",
  "total_names_in_slice": 5471,
- "names_completed": 1800,
- "current_batch": 18,
+ "names_completed": 1900,
+ "current_batch": 19,
  "batch_range": {
-  "first": "daroon",
-  "last": "diya",
+  "first": "diyaa",
+  "last": "elvina",
   "count": 100
  },
- "batches_completed": 18,
+ "batches_completed": 19,
  "per_name": [
   {
    "name": "Aamilah",
@@ -18011,31 +18011,1031 @@
    "gender": "Female",
    "manual_review_required": false,
    "reason": null
+  },
+  {
+   "name": "Diyaa",
+   "slug": "diyaa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Diyan",
+   "slug": "diyan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Diyana",
+   "slug": "diyana",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Diyanah",
+   "slug": "diyanah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form ديانة is an established Arabic lexical item. The source record's gloss 'Seeker of knowledge' could not be matched to a Tier-A/B lexical source. The ide"
+  },
+  {
+   "name": "Diyari",
+   "slug": "diyari",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form دياري is an established Arabic lexical item. The source record's gloss 'Daylight' could not be matched to a Tier-A/B lexical source. The identification"
+  },
+  {
+   "name": "Djamel",
+   "slug": "djamel",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Djamila",
+   "slug": "djamila",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Djillali",
+   "slug": "djillali",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dler",
+   "slug": "dler",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Kurdish",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Doa",
+   "slug": "doa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Doaa",
+   "slug": "doaa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Doha",
+   "slug": "doha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Donya",
+   "slug": "donya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Doost",
+   "slug": "doost",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dorna",
+   "slug": "dorna",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form دورنا is an established Unknown lexical item. The source record's gloss 'Mountain' could not be matched to a Tier-A/B lexical source. The identificatio"
+  },
+  {
+   "name": "Dornaz",
+   "slug": "dornaz",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dorsa",
+   "slug": "dorsa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Doruk",
+   "slug": "doruk",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dost",
+   "slug": "dost",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Douha",
+   "slug": "douha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dounia",
+   "slug": "dounia",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Drakhshan",
+   "slug": "drakhshan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dua",
+   "slug": "dua",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Duaa",
+   "slug": "duaa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Duha",
+   "slug": "duha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dulal",
+   "slug": "dulal",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Duma",
+   "slug": "duma",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form دومة is an established Arabic lexical item. The source record's gloss 'Thunder' could not be matched to a Tier-A/B lexical source. The identification i"
+  },
+  {
+   "name": "Duman",
+   "slug": "duman",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Turkish",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dunia",
+   "slug": "dunia",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Duniya",
+   "slug": "duniya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dunya",
+   "slug": "dunya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Duraid",
+   "slug": "duraid",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Durdana",
+   "slug": "durdana",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Duriya",
+   "slug": "duriya",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Durra",
+   "slug": "durra",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Durrah",
+   "slug": "durrah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Durrani",
+   "slug": "durrani",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Pashto",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Durratul",
+   "slug": "durratul",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dyab",
+   "slug": "dyab",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form ذياب is an established Arabic lexical item. The source record's gloss 'Sea' could not be matched to a Tier-A/B lexical source. The identification is un"
+  },
+  {
+   "name": "Dzaki",
+   "slug": "dzaki",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dzakwan",
+   "slug": "dzakwan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ebad",
+   "slug": "ebad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ebadat",
+   "slug": "ebadat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ebi",
+   "slug": "ebi",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form أبي is an established Arabic lexical item. The source record's gloss 'Fish' could not be matched to a Tier-A/B lexical source. The identification is un"
+  },
+  {
+   "name": "Ebraheem",
+   "slug": "ebraheem",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ebrahim",
+   "slug": "ebrahim",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ebtesam",
+   "slug": "ebtesam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ebtihaj",
+   "slug": "ebtihaj",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ebtihal",
+   "slug": "ebtihal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ebtisam",
+   "slug": "ebtisam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Edhem",
+   "slug": "edhem",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Eeda",
+   "slug": "eeda",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عيدة is an established Arabic lexical item. The source record's gloss 'Desire or craving' could not be matched to a Tier-A/B lexical source. The identi"
+  },
+  {
+   "name": "Eeman",
+   "slug": "eeman",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Eesha",
+   "slug": "eesha",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Eeshaa",
+   "slug": "eeshaa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Efah",
+   "slug": "efah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Efaz",
+   "slug": "efaz",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Efendi",
+   "slug": "efendi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Effat",
+   "slug": "effat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Efrah",
+   "slug": "efrah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Eftikhar",
+   "slug": "eftikhar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ehaab",
+   "slug": "ehaab",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ehab",
+   "slug": "ehab",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ehsaan",
+   "slug": "ehsaan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ehsan",
+   "slug": "ehsan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ehsaneh",
+   "slug": "ehsaneh",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ehsas",
+   "slug": "ehsas",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ehsun",
+   "slug": "ehsun",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ehteram",
+   "slug": "ehteram",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ehtesham",
+   "slug": "ehtesham",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ehtiram",
+   "slug": "ehtiram",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ehtisham",
+   "slug": "ehtisham",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Eid",
+   "slug": "eid",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Eidi",
+   "slug": "eidi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Eifa",
+   "slug": "eifa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Eihab",
+   "slug": "eihab",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Eila",
+   "slug": "eila",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عيلة is an established Arabic lexical item. The source record's gloss \"God's bounty\" could not be matched to a Tier-A/B lexical source. The identificat"
+  },
+  {
+   "name": "Eima",
+   "slug": "eima",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أيمة is an established Arabic lexical item. The source record's gloss 'Mother of the Faithful' could not be matched to a Tier-A/B lexical source. The i"
+  },
+  {
+   "name": "Eiman",
+   "slug": "eiman",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Einas",
+   "slug": "einas",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Eira",
+   "slug": "eira",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form إيرا is an established Unknown lexical item. The source record's gloss 'Luminous, Radiant' could not be matched to a Tier-A/B lexical source. The ident"
+  },
+  {
+   "name": "Eisa",
+   "slug": "eisa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Eithar",
+   "slug": "eithar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ejaaz",
+   "slug": "ejaaz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ejaz",
+   "slug": "ejaz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ekram",
+   "slug": "ekram",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ekramul",
+   "slug": "ekramul",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ekrima",
+   "slug": "ekrima",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Elaaf",
+   "slug": "elaaf",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Elaf",
+   "slug": "elaf",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Elaheh",
+   "slug": "elaheh",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Elham",
+   "slug": "elham",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Eliar",
+   "slug": "eliar",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Elias",
+   "slug": "elias",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Elika",
+   "slug": "elika",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form إليكا is an established Unknown lexical item. The source record's gloss 'Light' could not be matched to a Tier-A/B lexical source. The identification i"
+  },
+  {
+   "name": "Eliyas",
+   "slug": "eliyas",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Eliza",
+   "slug": "eliza",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Elmira",
+   "slug": "elmira",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form إلميرا is an established Unknown lexical item. The source record's gloss 'Olive tree' could not be matched to a Tier-A/B lexical source. The identifica"
+  },
+  {
+   "name": "Elnaz",
+   "slug": "elnaz",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Elvina",
+   "slug": "elvina",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form إلفينا is an established Unknown lexical item. The source record's gloss 'Gentle, Beautiful' could not be matched to a Tier-A/B lexical source. The ide"
   }
  ],
  "confidence_summary": {
-  "medium": 412,
-  "high": 839,
+  "medium": 439,
+  "high": 899,
   "unverified": 125,
-  "low": 424
+  "low": 437
  },
  "origin_summary": {
-  "Arabic": 1289,
-  "Unknown": 131,
-  "Hebrew": 38,
+  "Arabic": 1364,
+  "Unknown": 136,
+  "Hebrew": 44,
   "Sanskrit": 7,
-  "Persian": 256,
+  "Persian": 265,
   "Yoruba": 1,
   "Latin": 2,
-  "Pashto": 3,
-  "Turkish": 24,
+  "Pashto": 4,
+  "Turkish": 27,
   "Turkic": 17,
   "Irish": 2,
   "Greek": 7,
   "Punjabi": 2,
   "Basque": 1,
   "Berber": 1,
-  "Kurdish": 9,
+  "Kurdish": 10,
   "Akkadian": 1,
   "Slavic": 1,
   "Indonesian": 1,
@@ -18043,7 +19043,7 @@
   "Hindi": 3,
   "English": 1
  },
- "verified_forms": 1675,
+ "verified_forms": 1775,
  "unverified_forms": 125,
  "quality_gate": {
   "invalid_json": 0,
@@ -18056,6 +19056,6 @@
   "broken_text": 0,
   "total_failures": 0
  },
- "next_batch_starts_after": "diya",
- "updated_at": "2026-10-02T03:53:21Z"
+ "next_batch_starts_after": "elvina",
+ "updated_at": "2026-10-02T03:55:50Z"
 }

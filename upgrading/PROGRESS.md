@@ -4,37 +4,37 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 1800 |
-| Current batch | 18 |
-| Batch range | daroon .. diya (100) |
-| Verified forms | 1675 |
+| Names completed | 1900 |
+| Current batch | 19 |
+| Batch range | diyaa .. elvina (100) |
+| Verified forms | 1775 |
 | Unverified forms (no gloss asserted) | 125 |
-| Next batch starts after | diya |
-| Updated | 2026-10-02T03:53:21Z |
+| Next batch starts after | elvina |
+| Updated | 2026-10-02T03:55:50Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 839 |
-| low | 424 |
-| medium | 412 |
+| high | 899 |
+| low | 437 |
+| medium | 439 |
 | unverified | 125 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 1289 |
-| Persian | 256 |
-| Unknown | 131 |
-| Hebrew | 38 |
-| Turkish | 24 |
+| Arabic | 1364 |
+| Persian | 265 |
+| Unknown | 136 |
+| Hebrew | 44 |
+| Turkish | 27 |
 | Turkic | 17 |
-| Kurdish | 9 |
+| Kurdish | 10 |
 | Sanskrit | 7 |
 | Greek | 7 |
-| Pashto | 3 |
+| Pashto | 4 |
 | Urdu | 3 |
 | Hindi | 3 |
 | Latin | 2 |
@@ -84,3 +84,4 @@
 | 16 | bazlul .. caitlyn | 100 | complete |
 | 17 | cala .. darman | 100 | complete |
 | 18 | daroon .. diya | 100 | complete |
+| 19 | diyaa .. elvina | 100 | complete |
