@@ -4,32 +4,32 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 2900 |
-| Current batch | 29 |
-| Batch range | hemin .. hutaf (100) |
-| Verified forms | 2743 |
+| Names completed | 3000 |
+| Current batch | 30 |
+| Batch range | huthayfa .. inan (100) |
+| Verified forms | 2843 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | hutaf |
-| Updated | 2026-10-02T05:27:12Z |
+| Next batch starts after | inan |
+| Updated | 2026-10-02T05:30:52Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 1487 |
-| low | 560 |
-| medium | 696 |
+| high | 1522 |
+| low | 590 |
+| medium | 731 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 2130 |
+| Arabic | 2228 |
 | Persian | 403 |
 | Unknown | 204 |
-| Hebrew | 57 |
-| Turkish | 37 |
+| Hebrew | 58 |
+| Turkish | 38 |
 | Turkic | 17 |
 | Kurdish | 12 |
 | Sanskrit | 7 |

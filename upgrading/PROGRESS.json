@@ -3,14 +3,14 @@
  "culture": "islamic",
  "branch": "names-upgraded-v3",
  "total_names_in_slice": 5471,
- "names_completed": 2900,
- "current_batch": 29,
+ "names_completed": 3000,
+ "current_batch": 30,
  "batch_range": {
-  "first": "hemin",
-  "last": "hutaf",
+  "first": "huthayfa",
+  "last": "inan",
   "count": 100
  },
- "batches_completed": 29,
+ "batches_completed": 30,
  "per_name": [
   {
    "name": "Aamilah",
@@ -29011,24 +29011,1024 @@
    "gender": "Female",
    "manual_review_required": true,
    "reason": "The form هتاف is an established Arabic lexical item. Hutaf is recorded at low confidence. The source repeated the Latin string in the Arabic column and glossed "
+  },
+  {
+   "name": "Huthayfa",
+   "slug": "huthayfa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Huwaida",
+   "slug": "huwaida",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form هويدة is an established Arabic lexical item. Huwaida is recorded at low confidence. The source gave هويدة and glossed the name 'Compassionate'; حُوَيْد"
+  },
+  {
+   "name": "Huzaif",
+   "slug": "huzaif",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Huzaifa",
+   "slug": "huzaifa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Huzaifah",
+   "slug": "huzaifah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Huzaimah",
+   "slug": "huzaimah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form حزيمة is an established Arabic lexical item. Huzaimah is recorded at low confidence. The source gave حزامة (a different word) and glossed the name 'Blo"
+  },
+  {
+   "name": "Huzefa",
+   "slug": "huzefa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hyder",
+   "slug": "hyder",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Iba",
+   "slug": "iba",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form إبا is an established Arabic lexical item. Iba is recorded at low confidence. The source repeated the Latin string in the Arabic column and glossed the"
+  },
+  {
+   "name": "Ibaa",
+   "slug": "ibaa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ibad",
+   "slug": "ibad",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ibn",
+   "slug": "ibn",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form ابن is an established Arabic lexical item. Ibn is Arabic اِبْن (ibn) 'son of', a patronymic particle used in Arabic naming, not a given name. The sourc"
+  },
+  {
+   "name": "Ibr",
+   "slug": "ibr",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form إبر is an established Arabic lexical item. Ibr is recorded at low confidence. The source gave إبر and glossed the name 'Exalted'; the form is a short f"
+  },
+  {
+   "name": "Ibrah",
+   "slug": "ibrah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ibraheem",
+   "slug": "ibraheem",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ibrahem",
+   "slug": "ibrahem",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ibrahim",
+   "slug": "ibrahim",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ibrar",
+   "slug": "ibrar",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ibrat",
+   "slug": "ibrat",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عبرة is an established Arabic lexical item. Ibrat is recorded at low confidence. The source gave إبرات (a different form) and glossed the name 'Warning"
+  },
+  {
+   "name": "Ibrhim",
+   "slug": "ibrhim",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ibtesam",
+   "slug": "ibtesam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ibtihaj",
+   "slug": "ibtihaj",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ibtihal",
+   "slug": "ibtihal",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ibtisam",
+   "slug": "ibtisam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ibtissem",
+   "slug": "ibtissem",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Id",
+   "slug": "id",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Idrak",
+   "slug": "idrak",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Idrees",
+   "slug": "idrees",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Idris",
+   "slug": "idris",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ied",
+   "slug": "ied",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Iesa",
+   "slug": "iesa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Iffah",
+   "slug": "iffah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Iffat",
+   "slug": "iffat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ifra",
+   "slug": "ifra",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عفراء is an established Arabic lexical item. Ifra is recorded at low confidence. The source gave إفراء and glossed the name 'First Ray of Sun'; the int"
+  },
+  {
+   "name": "Ifrah",
+   "slug": "ifrah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ifran",
+   "slug": "ifran",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عفران is an established Arabic lexical item. Ifran is recorded at low confidence. The source gave إفران and glossed the name 'Free, Sincere'; the form "
+  },
+  {
+   "name": "Iftikhar",
+   "slug": "iftikhar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Iftin",
+   "slug": "iftin",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form إفتين is an established Arabic lexical item. Iftin is recorded at low confidence. The source gave إفتين and glossed the name 'Moon, Bright'; the form ا"
+  },
+  {
+   "name": "Ihab",
+   "slug": "ihab",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form إهاب is an established Arabic lexical item. Ihab is recorded at low confidence. The source gave إحب (a different form) and glossed the name 'Given by A"
+  },
+  {
+   "name": "Iham",
+   "slug": "iham",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form إهام is an established Arabic lexical item. Iham is recorded at low confidence. The source gave the broken form أح م and glossed the name 'gift, presen"
+  },
+  {
+   "name": "Ihsaan",
+   "slug": "ihsaan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ihsan",
+   "slug": "ihsan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ihsana",
+   "slug": "ihsana",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form إحسانة is an established Arabic lexical item. Ihsana is recorded at low confidence. The source gave إحسانا and glossed the name 'Goodness, Grace'; إِحْ"
+  },
+  {
+   "name": "Ihtisham",
+   "slug": "ihtisham",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ijaaz",
+   "slug": "ijaaz",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ijaz",
+   "slug": "ijaz",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form إجازة is an established Arabic lexical item. Ijaz is recorded at low confidence. The source gave إياز (a different form) and glossed the name 'Permissi"
+  },
+  {
+   "name": "Ijlal",
+   "slug": "ijlal",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ikha",
+   "slug": "ikha",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ikhlaq",
+   "slug": "ikhlaq",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ikhlas",
+   "slug": "ikhlas",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ikhwan",
+   "slug": "ikhwan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Iklil",
+   "slug": "iklil",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ikra",
+   "slug": "ikra",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form إكرام is an established Arabic lexical item. Ikra is recorded at low confidence. The source gave إكرا and glossed the name 'Raisin'; the intended form "
+  },
+  {
+   "name": "Ikraam",
+   "slug": "ikraam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ikram",
+   "slug": "ikram",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ilaf",
+   "slug": "ilaf",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ilam",
+   "slug": "ilam",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form إعلام is an established Arabic lexical item. Ilam is recorded at low confidence. The source gave إسلام (a different word) and glossed the name 'Light, "
+  },
+  {
+   "name": "Ilan",
+   "slug": "ilan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form إيلان is an established Arabic lexical item. Ilan is recorded at low confidence. The source gave إيلان and glossed the name 'Sunlight'; إِيلَان (Īlān) "
+  },
+  {
+   "name": "Ilana",
+   "slug": "ilana",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Hebrew",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ilhaam",
+   "slug": "ilhaam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ilhaan",
+   "slug": "ilhaan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form إلهام is an established Arabic lexical item. Ilhaan is recorded at low confidence. The source gave إلهان (a different form) and glossed the name 'Inner"
+  },
+  {
+   "name": "Ilham",
+   "slug": "ilham",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ilhan",
+   "slug": "ilhan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Turkish",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form إلهان is an established Turkish lexical item. Ilhan is recorded at low confidence. The source gave إلهان and glossed the name 'First Cry of a Newborn';"
+  },
+  {
+   "name": "Ilhem",
+   "slug": "ilhem",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form إلهام is an established Arabic lexical item. Ilhem is recorded at low confidence. The source gave إلهم (a different form) and glossed the name 'Heavenl"
+  },
+  {
+   "name": "Ilias",
+   "slug": "ilias",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Iliya",
+   "slug": "iliya",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form إليا is an established Arabic lexical item. Iliya is recorded at low confidence. The source gave علية (a different name) and glossed the name 'God's Gr"
+  },
+  {
+   "name": "Ilma",
+   "slug": "ilma",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form علم is an established Arabic lexical item. Ilma is recorded at low confidence. The source gave إلما and glossed the name 'Knowledge, Information'; the "
+  },
+  {
+   "name": "Ilman",
+   "slug": "ilman",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form إلمام is an established Arabic lexical item. Ilman is recorded at low confidence. The source gave the broken form إلمأن and glossed the name 'Knowledge"
+  },
+  {
+   "name": "Ilmi",
+   "slug": "ilmi",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Iltaf",
+   "slug": "iltaf",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ilya",
+   "slug": "ilya",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ilyan",
+   "slug": "ilyan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form إليان is an established Arabic lexical item. Ilyan is recorded at low confidence. The source gave إليان and glossed the name 'God's grace'; إِلْيَان (I"
+  },
+  {
+   "name": "Ilyana",
+   "slug": "ilyana",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form إليانا is an established Arabic lexical item. Ilyana is recorded at low confidence. The source gave إليانا and glossed the name 'God's gift'; إِلْيَانَ"
+  },
+  {
+   "name": "Ilyas",
+   "slug": "ilyas",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Imaad",
+   "slug": "imaad",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Imaan",
+   "slug": "imaan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Imad",
+   "slug": "imad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Imam",
+   "slug": "imam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Iman",
+   "slug": "iman",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Imana",
+   "slug": "imana",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form إيمانة is an established Arabic lexical item. Imana is recorded at low confidence. The source gave إيمانا and glossed the name 'Faithful'; إِيمَانَة (Ī"
+  },
+  {
+   "name": "Imane",
+   "slug": "imane",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Imani",
+   "slug": "imani",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Imara",
+   "slug": "imara",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Imdad",
+   "slug": "imdad",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Imed",
+   "slug": "imed",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form إميد is an established Arabic lexical item. Imed is recorded at low confidence. The source gave إميد and glossed the name 'Reward, Gift'; the form إِمِ"
+  },
+  {
+   "name": "Imen",
+   "slug": "imen",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Imra",
+   "slug": "imra",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عمرة is an established Arabic lexical item. Imra is recorded at low confidence. The source gave عميرة and glossed the name 'Free, Unrestrained'; the fo"
+  },
+  {
+   "name": "Imraan",
+   "slug": "imraan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Imram",
+   "slug": "imram",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عمران is an established Arabic lexical item. Imram is recorded at low confidence. The source repeated the Latin string in the Arabic column and glossed"
+  },
+  {
+   "name": "Imran",
+   "slug": "imran",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Imrana",
+   "slug": "imrana",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عمران is an established Arabic lexical item. Imrana is recorded at low confidence. The source gave إمرانة and glossed the name 'Faithful'; the intended"
+  },
+  {
+   "name": "Imtiaaz",
+   "slug": "imtiaaz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Imtiaz",
+   "slug": "imtiaz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Imtithal",
+   "slug": "imtithal",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Imtiyaz",
+   "slug": "imtiyaz",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Inaam",
+   "slug": "inaam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Inaaya",
+   "slug": "inaaya",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Inab",
+   "slug": "inab",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Inam",
+   "slug": "inam",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Inan",
+   "slug": "inan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عنان is an established Arabic lexical item. Inan is recorded at low confidence. The source gave إنان (a different form) and glossed the name 'Gift, Ble"
   }
  ],
  "confidence_summary": {
-  "medium": 696,
-  "high": 1487,
+  "medium": 731,
+  "high": 1522,
   "unverified": 157,
-  "low": 560
+  "low": 590
  },
  "origin_summary": {
-  "Arabic": 2130,
+  "Arabic": 2228,
   "Unknown": 204,
-  "Hebrew": 57,
+  "Hebrew": 58,
   "Sanskrit": 7,
   "Persian": 403,
   "Yoruba": 1,
   "Latin": 2,
   "Pashto": 6,
-  "Turkish": 37,
+  "Turkish": 38,
   "Turkic": 17,
   "Irish": 2,
   "Greek": 7,
@@ -29044,7 +30044,7 @@
   "English": 1,
   "Somali": 1
  },
- "verified_forms": 2743,
+ "verified_forms": 2843,
  "unverified_forms": 157,
  "quality_gate": {
   "invalid_json": 0,
@@ -29057,6 +30057,6 @@
   "broken_text": 0,
   "total_failures": 0
  },
- "next_batch_starts_after": "hutaf",
- "updated_at": "2026-10-02T05:27:12Z"
+ "next_batch_starts_after": "inan",
+ "updated_at": "2026-10-02T05:30:52Z"
 }
