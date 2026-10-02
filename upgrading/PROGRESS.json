@@ -3,14 +3,14 @@
  "culture": "islamic",
  "branch": "names-upgraded-v3",
  "total_names_in_slice": 5471,
- "names_completed": 600,
- "current_batch": 6,
+ "names_completed": 700,
+ "current_batch": 7,
  "batch_range": {
-  "first": "alev",
-  "last": "amaal",
+  "first": "amaan",
+  "last": "anabia",
   "count": 100
  },
- "batches_completed": 6,
+ "batches_completed": 7,
  "per_name": [
   {
    "name": "Aamilah",
@@ -6011,17 +6011,1017 @@
    "gender": "Female",
    "manual_review_required": false,
    "reason": null
+  },
+  {
+   "name": "Amaan",
+   "slug": "amaan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amaar",
+   "slug": "amaar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amad",
+   "slug": "amad",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amah",
+   "slug": "amah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amaira",
+   "slug": "amaira",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amal",
+   "slug": "amal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amala",
+   "slug": "amala",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amalia",
+   "slug": "amalia",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Amalia. The source record's gloss 'God's bounty' could not be matched to a Tier-A/B lexical source and no script form "
+  },
+  {
+   "name": "Amalin",
+   "slug": "amalin",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Amalin. The source record's gloss 'Young, Tender' could not be matched to a Tier-A/B lexical source and no script form"
+  },
+  {
+   "name": "Amalina",
+   "slug": "amalina",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Amalina. The source record's gloss 'Hope, Trust' could not be matched to a Tier-A/B lexical source and no script form "
+  },
+  {
+   "name": "Amam",
+   "slug": "amam",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أمام is an established Arabic lexical item. The source record's gloss 'Mother of Mothers' could not be matched to a Tier-A/B lexical source. The form r"
+  },
+  {
+   "name": "Amama",
+   "slug": "amama",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aman",
+   "slug": "aman",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amana",
+   "slug": "amana",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amanah",
+   "slug": "amanah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amaneh",
+   "slug": "amaneh",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amani",
+   "slug": "amani",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amanina",
+   "slug": "amanina",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Amanina. The source record's gloss 'Trust, faith, belief' could not be matched to a Tier-A/B lexical source and no scr"
+  },
+  {
+   "name": "Amar",
+   "slug": "amar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amara",
+   "slug": "amara",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عمارة is an established Arabic lexical item. The source record's gloss 'Long life and prosperity' could not be matched to a Tier-A/B lexical source. Th"
+  },
+  {
+   "name": "Amarah",
+   "slug": "amarah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عمارة is an established Arabic lexical item. The source record's gloss 'She who is steadfast' could not be matched to a Tier-A/B lexical source. The id"
+  },
+  {
+   "name": "Amarat",
+   "slug": "amarat",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Amarat. The source record's gloss 'Devoted, Loyal' could not be matched to a Tier-A/B lexical source and no script for"
+  },
+  {
+   "name": "Amarjeet",
+   "slug": "amarjeet",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Punjabi",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amas",
+   "slug": "amas",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أماس is an established Arabic lexical item. The source record's gloss 'Gatherer, Sustainer' could not be matched to a Tier-A/B lexical source. The iden"
+  },
+  {
+   "name": "Amat",
+   "slug": "amat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amatul",
+   "slug": "amatul",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amatus",
+   "slug": "amatus",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form أمة ال is an established Arabic lexical item. First element of the compound amat al-. The source record's gloss 'Loving' is unsupported."
+  },
+  {
+   "name": "Amaya",
+   "slug": "amaya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Basque",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amazigh",
+   "slug": "amazigh",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Berber",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ambar",
+   "slug": "ambar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amber",
+   "slug": "amber",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ambreen",
+   "slug": "ambreen",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amdad",
+   "slug": "amdad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ameed",
+   "slug": "ameed",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ameel",
+   "slug": "ameel",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أميل is an established Arabic lexical item. The source record's gloss 'River' could not be matched to a Tier-A/B lexical source. The identification is "
+  },
+  {
+   "name": "Ameen",
+   "slug": "ameen",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ameena",
+   "slug": "ameena",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ameenah",
+   "slug": "ameenah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ameenat",
+   "slug": "ameenat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ameer",
+   "slug": "ameer",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ameera",
+   "slug": "ameera",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ameerah",
+   "slug": "ameerah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ameerat",
+   "slug": "ameerat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amel",
+   "slug": "amel",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amelia",
+   "slug": "amelia",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Amelia. The source record's gloss 'Industrious one' could not be matched to a Tier-A/B lexical source and no script fo"
+  },
+  {
+   "name": "Amena",
+   "slug": "amena",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amer",
+   "slug": "amer",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amial",
+   "slug": "amial",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Amial. The source record's gloss 'Gentle, Kind' could not be matched to a Tier-A/B lexical source and no script form w"
+  },
+  {
+   "name": "Amid",
+   "slug": "amid",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form عميد is an established Arabic lexical item. The source record's gloss 'Present' could not be matched to a Tier-A/B lexical source. The form resembles ع"
+  },
+  {
+   "name": "Amil",
+   "slug": "amil",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amila",
+   "slug": "amila",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amilah",
+   "slug": "amilah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amima",
+   "slug": "amima",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أميمة is an established Arabic lexical item. The source record's gloss 'Mother of the believers' could not be matched to a Tier-A/B lexical source. The"
+  },
+  {
+   "name": "Amin",
+   "slug": "amin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amina",
+   "slug": "amina",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aminah",
+   "slug": "aminah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aminat",
+   "slug": "aminat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aminatou",
+   "slug": "aminatou",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amine",
+   "slug": "amine",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amineh",
+   "slug": "amineh",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aminu",
+   "slug": "aminu",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aminul",
+   "slug": "aminul",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aminur",
+   "slug": "aminur",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amir",
+   "slug": "amir",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amira",
+   "slug": "amira",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amiraa",
+   "slug": "amiraa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amirah",
+   "slug": "amirah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amirani",
+   "slug": "amirani",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أميراني is an established Arabic lexical item. The source record's gloss 'Prince, Commander' could not be matched to a Tier-A/B lexical source. The for"
+  },
+  {
+   "name": "Amiri",
+   "slug": "amiri",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amirul",
+   "slug": "amirul",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amirun",
+   "slug": "amirun",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أمير is an established Arabic lexical item. The source record's gloss 'Commander, Prince' could not be matched to a Tier-A/B lexical source. The form r"
+  },
+  {
+   "name": "Amjaad",
+   "slug": "amjaad",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amjad",
+   "slug": "amjad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amjed",
+   "slug": "amjed",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ammaar",
+   "slug": "ammaar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ammaarah",
+   "slug": "ammaarah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عمارة is an established Arabic lexical item. The source record's gloss 'Long-lived, Prosperous' could not be matched to a Tier-A/B lexical source. The "
+  },
+  {
+   "name": "Amman",
+   "slug": "amman",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form عمان is an established Arabic lexical item. The source record's gloss 'Mountain or high place' could not be matched to a Tier-A/B lexical source. The f"
+  },
+  {
+   "name": "Ammani",
+   "slug": "ammani",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Ammani. The source record's gloss 'Trustworthy and faithful' could not be matched to a Tier-A/B lexical source and no "
+  },
+  {
+   "name": "Ammar",
+   "slug": "ammar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ammarah",
+   "slug": "ammarah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amna",
+   "slug": "amna",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amnah",
+   "slug": "amnah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amnan",
+   "slug": "amnan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أمنان is an established Arabic lexical item. The source record's gloss 'Protection, Safety' could not be matched to a Tier-A/B lexical source. The iden"
+  },
+  {
+   "name": "Amr",
+   "slug": "amr",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amra",
+   "slug": "amra",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عمرة is an established Arabic lexical item. The source record's gloss 'Mother of many' could not be matched to a Tier-A/B lexical source. The form is a"
+  },
+  {
+   "name": "Amrah",
+   "slug": "amrah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عمرة is an established Arabic lexical item. The source record's gloss 'High-born, Exalted' could not be matched to a Tier-A/B lexical source. The ident"
+  },
+  {
+   "name": "Amran",
+   "slug": "amran",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amreen",
+   "slug": "amreen",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عمرین is an established Arabic lexical item. The source record's gloss 'Sweet smelling' could not be matched to a Tier-A/B lexical source. The identifi"
+  },
+  {
+   "name": "Amri",
+   "slug": "amri",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عمري is an established Arabic lexical item. The source record's gloss 'Belonging to Allah' could not be matched to a Tier-A/B lexical source. The form "
+  },
+  {
+   "name": "Amrin",
+   "slug": "amrin",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عمرین is an established Arabic lexical item. The source record's gloss 'Protector' could not be matched to a Tier-A/B lexical source. The identificatio"
+  },
+  {
+   "name": "Amrina",
+   "slug": "amrina",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Amrina. The source record's gloss 'Noble, Precious' could not be matched to a Tier-A/B lexical source and no script fo"
+  },
+  {
+   "name": "Amro",
+   "slug": "amro",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amru",
+   "slug": "amru",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amsal",
+   "slug": "amsal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Amyrah",
+   "slug": "amyrah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ana",
+   "slug": "ana",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أنا is an established Arabic lexical item. The source record's gloss 'Breath, Life' could not be matched to a Tier-A/B lexical source. The form is also"
+  },
+  {
+   "name": "Anaam",
+   "slug": "anaam",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anaan",
+   "slug": "anaan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أنان is an established Arabic lexical item. The source record's gloss 'Nurse, supporter' could not be matched to a Tier-A/B lexical source. The identif"
+  },
+  {
+   "name": "Anaas",
+   "slug": "anaas",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أناس is an established Arabic lexical item. The source record's gloss 'Giver of good news' could not be matched to a Tier-A/B lexical source. The form "
+  },
+  {
+   "name": "Anabia",
+   "slug": "anabia",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
   }
  ],
  "confidence_summary": {
-  "medium": 170,
-  "high": 225,
-  "unverified": 116,
-  "low": 89
+  "medium": 202,
+  "high": 263,
+  "unverified": 125,
+  "low": 110
  },
  "origin_summary": {
-  "Arabic": 417,
-  "Unknown": 115,
+  "Arabic": 505,
+  "Unknown": 124,
   "Hebrew": 9,
   "Sanskrit": 4,
   "Persian": 38,
@@ -6031,10 +7031,13 @@
   "Turkish": 7,
   "Turkic": 4,
   "Irish": 1,
-  "Greek": 1
+  "Greek": 1,
+  "Punjabi": 1,
+  "Basque": 1,
+  "Berber": 1
  },
- "verified_forms": 484,
- "unverified_forms": 116,
+ "verified_forms": 575,
+ "unverified_forms": 125,
  "quality_gate": {
   "invalid_json": 0,
   "conflict_markers": 0,
@@ -6046,6 +7049,6 @@
   "broken_text": 0,
   "total_failures": 0
  },
- "next_batch_starts_after": "amaal",
- "updated_at": "2026-10-02T03:29:06Z"
+ "next_batch_starts_after": "anabia",
+ "updated_at": "2026-10-02T03:30:37Z"
 }

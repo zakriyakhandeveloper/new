@@ -65,6 +65,7 @@ json.dump(prog, open("upgrading/PROGRESS.json", "w", encoding="utf-8"), ensure_a
 RANGES = [
     (1, "aamilah", "aaus"), (2, "aayan", "adeel"), (3, "adeela", "afsar"),
     (4, "afshan", "aizah"), (5, "aizat", "alesha"), (6, "alev", "amaal"),
+    (7, "amaan", "anabia"),
 ]
 md = ["# NameVerse Upgrade Progress", "",
       "| Field | Value |", "|---|---|",
