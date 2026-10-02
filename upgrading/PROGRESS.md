@@ -4,33 +4,33 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 1200 |
-| Current batch | 12 |
-| Batch range | aus .. ayyoub (100) |
-| Verified forms | 1075 |
+| Names completed | 1300 |
+| Current batch | 13 |
+| Batch range | ayyub .. badawi (100) |
+| Verified forms | 1175 |
 | Unverified forms (no gloss asserted) | 125 |
-| Next batch starts after | ayyoub |
-| Updated | 2026-10-02T03:41:10Z |
+| Next batch starts after | badawi |
+| Updated | 2026-10-02T03:43:10Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 427 |
-| low | 311 |
-| medium | 337 |
+| high | 464 |
+| low | 352 |
+| medium | 359 |
 | unverified | 125 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 909 |
+| Arabic | 992 |
 | Unknown | 124 |
-| Persian | 104 |
+| Persian | 120 |
 | Turkish | 15 |
+| Hebrew | 12 |
 | Turkic | 12 |
-| Hebrew | 11 |
 | Kurdish | 7 |
 | Sanskrit | 6 |
 | Greek | 3 |
@@ -73,3 +73,4 @@
 | 10 | arsala .. asima | 100 | complete |
 | 11 | asimah .. aurangzeb | 100 | complete |
 | 12 | aus .. ayyoub | 100 | complete |
+| 13 | ayyub .. badawi | 100 | complete |
