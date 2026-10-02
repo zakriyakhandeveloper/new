@@ -4,36 +4,36 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 1100 |
-| Current batch | 11 |
-| Batch range | asimah .. aurangzeb (100) |
-| Verified forms | 975 |
+| Names completed | 1200 |
+| Current batch | 12 |
+| Batch range | aus .. ayyoub (100) |
+| Verified forms | 1075 |
 | Unverified forms (no gloss asserted) | 125 |
-| Next batch starts after | aurangzeb |
-| Updated | 2026-10-02T03:39:26Z |
+| Next batch starts after | ayyoub |
+| Updated | 2026-10-02T03:41:10Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 389 |
-| low | 287 |
-| medium | 299 |
+| high | 427 |
+| low | 311 |
+| medium | 337 |
 | unverified | 125 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 830 |
+| Arabic | 909 |
 | Unknown | 124 |
-| Persian | 99 |
-| Turkic | 10 |
-| Hebrew | 9 |
-| Turkish | 7 |
+| Persian | 104 |
+| Turkish | 15 |
+| Turkic | 12 |
+| Hebrew | 11 |
+| Kurdish | 7 |
 | Sanskrit | 6 |
 | Greek | 3 |
-| Kurdish | 3 |
 | Pashto | 2 |
 | Yoruba | 1 |
 | Latin | 1 |
@@ -72,3 +72,4 @@
 | 9 | aqdas .. arsal | 100 | complete |
 | 10 | arsala .. asima | 100 | complete |
 | 11 | asimah .. aurangzeb | 100 | complete |
+| 12 | aus .. ayyoub | 100 | complete |

@@ -3,14 +3,14 @@
  "culture": "islamic",
  "branch": "names-upgraded-v3",
  "total_names_in_slice": 5471,
- "names_completed": 1100,
- "current_batch": 11,
+ "names_completed": 1200,
+ "current_batch": 12,
  "batch_range": {
-  "first": "asimah",
-  "last": "aurangzeb",
+  "first": "aus",
+  "last": "ayyoub",
   "count": 100
  },
- "batches_completed": 11,
+ "batches_completed": 12,
  "per_name": [
   {
    "name": "Aamilah",
@@ -11011,34 +11011,1034 @@
    "gender": "Male",
    "manual_review_required": false,
    "reason": null
+  },
+  {
+   "name": "Aus",
+   "slug": "aus",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Avan",
+   "slug": "avan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Avaz",
+   "slug": "avaz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aveen",
+   "slug": "aveen",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Kurdish",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Avesta",
+   "slug": "avesta",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Avina",
+   "slug": "avina",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Kurdish",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form آوینا is an established Kurdish lexical item. Kurdish name related to Avîn ('love'). The source record's gloss 'Radiant' is unsupported. The source rec"
+  },
+  {
+   "name": "Avishan",
+   "slug": "avishan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Avivit",
+   "slug": "avivit",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Awa",
+   "slug": "awa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Awab",
+   "slug": "awab",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Awad",
+   "slug": "awad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Awadi",
+   "slug": "awadi",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عوضي is an established Arabic lexical item. Nisba from عوض. The source record's gloss 'River' is unsupported. The identification is uncertain."
+  },
+  {
+   "name": "Awais",
+   "slug": "awais",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Awamir",
+   "slug": "awamir",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Awan",
+   "slug": "awan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Awani",
+   "slug": "awani",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أواني is an established Arabic lexical item. Related to أوان. The source record's gloss 'Gift' is unsupported. The identification is uncertain."
+  },
+  {
+   "name": "Awat",
+   "slug": "awat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Kurdish",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Awatif",
+   "slug": "awatif",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Awd",
+   "slug": "awd",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Awdah",
+   "slug": "awdah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Awena",
+   "slug": "awena",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Kurdish",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form آوێنە is an established Kurdish lexical item. Kurdish name related to Avîn. The source record's gloss 'Gentle, loving' is an approximation. The source "
+  },
+  {
+   "name": "Awfa",
+   "slug": "awfa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Awfiyah",
+   "slug": "awfiyah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عوفية is an established Arabic lexical item. Related to وفاء ('fidelity'). The source record's gloss 'Delicate, Gentle' is unsupported. The identificat"
+  },
+  {
+   "name": "Awj",
+   "slug": "awj",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Awlad",
+   "slug": "awlad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Awn",
+   "slug": "awn",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Awni",
+   "slug": "awni",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Awrad",
+   "slug": "awrad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aws",
+   "slug": "aws",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Awsam",
+   "slug": "awsam",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Awwad",
+   "slug": "awwad",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Awwal",
+   "slug": "awwal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aya",
+   "slug": "aya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayaan",
+   "slug": "ayaan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayaana",
+   "slug": "ayaana",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أيانة is an established Arabic lexical item. Related to آية. The source record's gloss 'Nourisher, Life-giver' is unsupported. The identification is un"
+  },
+  {
+   "name": "Ayaat",
+   "slug": "ayaat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayad",
+   "slug": "ayad",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayah",
+   "slug": "ayah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayan",
+   "slug": "ayan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayana",
+   "slug": "ayana",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أيانة is an established Arabic lexical item. Related to آية. The source record's gloss 'Life, breath' is unsupported. The identification is uncertain."
+  },
+  {
+   "name": "Ayasha",
+   "slug": "ayasha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayat",
+   "slug": "ayat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayaz",
+   "slug": "ayaz",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Turkic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aybak",
+   "slug": "aybak",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Turkic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayd",
+   "slug": "ayd",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayda",
+   "slug": "ayda",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aydah",
+   "slug": "aydah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aydarus",
+   "slug": "aydarus",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aydi",
+   "slug": "aydi",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عيدي is an established Arabic lexical item. Nisba from عيد. The source record's gloss 'Helpful one' is unsupported. The identification is uncertain."
+  },
+  {
+   "name": "Aydin",
+   "slug": "aydin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayed",
+   "slug": "ayed",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayeen",
+   "slug": "ayeen",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayeesha",
+   "slug": "ayeesha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayeh",
+   "slug": "ayeh",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayeisha",
+   "slug": "ayeisha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayesha",
+   "slug": "ayesha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayeshaa",
+   "slug": "ayeshaa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayeshaan",
+   "slug": "ayeshaan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عائشان is an established Arabic lexical item. Related to عائشة. The source record's gloss 'High Status, Exalted' is unsupported. The identification is "
+  },
+  {
+   "name": "Ayeza",
+   "slug": "ayeza",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عائزة is an established Arabic lexical item. Related to عائشة. The source record's gloss 'Noble, Respectable, Beautiful' is unsupported. The identifica"
+  },
+  {
+   "name": "Ayham",
+   "slug": "ayham",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayiq",
+   "slug": "ayiq",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form عايق is an established Arabic lexical item. The source record's gloss 'Strong, wise one' could not be matched to a Tier-A/B lexical source. The identif"
+  },
+  {
+   "name": "Ayish",
+   "slug": "ayish",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayisha",
+   "slug": "ayisha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayla",
+   "slug": "ayla",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayleen",
+   "slug": "ayleen",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Turkish",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form آيلين is an established Turkish lexical item. Modern Turkish name related to Aylin. The source record's gloss 'Gentle Flow' is unsupported. The source "
+  },
+  {
+   "name": "Aylin",
+   "slug": "aylin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayma",
+   "slug": "ayma",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أيمة is an established Arabic lexical item. The source record's gloss 'Life or Living' could not be matched to a Tier-A/B lexical source. The identific"
+  },
+  {
+   "name": "Aymaan",
+   "slug": "aymaan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayman",
+   "slug": "ayman",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aymann",
+   "slug": "aymann",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aymar",
+   "slug": "aymar",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أيمر is an established Arabic lexical item. The source record's gloss 'Soldier, Lion' could not be matched to a Tier-A/B lexical source. The identifica"
+  },
+  {
+   "name": "Aymen",
+   "slug": "aymen",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayn",
+   "slug": "ayn",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayna",
+   "slug": "ayna",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aynal",
+   "slug": "aynal",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عينال is an established Arabic lexical item. The source record's gloss 'Source of Water' could not be matched to a Tier-A/B lexical source. The identif"
+  },
+  {
+   "name": "Aynoor",
+   "slug": "aynoor",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aynul",
+   "slug": "aynul",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عين ال is an established Arabic lexical item. The source record's gloss 'The One with the Eye' could not be matched to a Tier-A/B lexical source. The i"
+  },
+  {
+   "name": "Aynur",
+   "slug": "aynur",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Turkish",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayoob",
+   "slug": "ayoob",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayoosh",
+   "slug": "ayoosh",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أيوش is an established Arabic lexical item. The source record's gloss 'Fish' could not be matched to a Tier-A/B lexical source. The identification is u"
+  },
+  {
+   "name": "Ayoub",
+   "slug": "ayoub",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayra",
+   "slug": "ayra",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form آيرا is an established Arabic lexical item. The source record's gloss 'Mountain of Might or Lioness' could not be matched to a Tier-A/B lexical source."
+  },
+  {
+   "name": "Ayraa",
+   "slug": "ayraa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form آيرا is an established Arabic lexical item. The source record's gloss 'Mountain of light' could not be matched to a Tier-A/B lexical source. The identi"
+  },
+  {
+   "name": "Aysa",
+   "slug": "aysa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aysan",
+   "slug": "aysan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Turkish",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form آيسان is an established Turkish lexical item. Modern Turkish name. The source record's gloss 'Moonlight' is an approximation. The source record classif"
+  },
+  {
+   "name": "Aysar",
+   "slug": "aysar",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayse",
+   "slug": "ayse",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aysen",
+   "slug": "aysen",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Turkish",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayser",
+   "slug": "ayser",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aysha",
+   "slug": "aysha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayshah",
+   "slug": "ayshah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aysun",
+   "slug": "aysun",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Turkish",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aytak",
+   "slug": "aytak",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أيتك is an established Arabic lexical item. The source record's gloss 'Helpful, Supportive' could not be matched to a Tier-A/B lexical source. The iden"
+  },
+  {
+   "name": "Aytan",
+   "slug": "aytan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أيتان is an established Arabic lexical item. The source record's gloss 'Night gazing' could not be matched to a Tier-A/B lexical source. The identifica"
+  },
+  {
+   "name": "Ayusha",
+   "slug": "ayusha",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أيوشا is an established Arabic lexical item. The source record's gloss 'Life, Existence' could not be matched to a Tier-A/B lexical source. The identif"
+  },
+  {
+   "name": "Ayyad",
+   "slug": "ayyad",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayyan",
+   "slug": "ayyan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayyash",
+   "slug": "ayyash",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ayyaz",
+   "slug": "ayyaz",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عيّاز is an established Arabic lexical item. The source record's gloss 'Noble and blessed' could not be matched to a Tier-A/B lexical source. The ident"
+  },
+  {
+   "name": "Ayyoub",
+   "slug": "ayyoub",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
   }
  ],
  "confidence_summary": {
-  "medium": 299,
-  "high": 389,
+  "medium": 337,
+  "high": 427,
   "unverified": 125,
-  "low": 287
+  "low": 311
  },
  "origin_summary": {
-  "Arabic": 830,
+  "Arabic": 909,
   "Unknown": 124,
-  "Hebrew": 9,
+  "Hebrew": 11,
   "Sanskrit": 6,
-  "Persian": 99,
+  "Persian": 104,
   "Yoruba": 1,
   "Latin": 1,
   "Pashto": 2,
-  "Turkish": 7,
-  "Turkic": 10,
+  "Turkish": 15,
+  "Turkic": 12,
   "Irish": 1,
   "Greek": 3,
   "Punjabi": 1,
   "Basque": 1,
   "Berber": 1,
-  "Kurdish": 3,
+  "Kurdish": 7,
   "Akkadian": 1
  },
- "verified_forms": 975,
+ "verified_forms": 1075,
  "unverified_forms": 125,
  "quality_gate": {
   "invalid_json": 0,
@@ -11051,6 +12051,6 @@
   "broken_text": 0,
   "total_failures": 0
  },
- "next_batch_starts_after": "aurangzeb",
- "updated_at": "2026-10-02T03:39:26Z"
+ "next_batch_starts_after": "ayyoub",
+ "updated_at": "2026-10-02T03:41:10Z"
 }
