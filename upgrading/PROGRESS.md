@@ -4,32 +4,32 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 2200 |
-| Current batch | 22 |
-| Batch range | fareeha .. fateem (100) |
-| Verified forms | 2075 |
+| Names completed | 2300 |
+| Current batch | 23 |
+| Batch range | fateema .. ferdous (100) |
+| Verified forms | 2175 |
 | Unverified forms (no gloss asserted) | 125 |
-| Next batch starts after | fateem |
-| Updated | 2026-10-02T04:04:53Z |
+| Next batch starts after | ferdous |
+| Updated | 2026-10-02T04:07:09Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 1112 |
-| low | 470 |
-| medium | 493 |
+| high | 1190 |
+| low | 479 |
+| medium | 506 |
 | unverified | 125 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 1572 |
-| Persian | 327 |
-| Unknown | 151 |
+| Arabic | 1658 |
+| Persian | 333 |
+| Unknown | 158 |
 | Hebrew | 54 |
-| Turkish | 32 |
+| Turkish | 33 |
 | Turkic | 17 |
 | Kurdish | 10 |
 | Sanskrit | 7 |
@@ -88,3 +88,4 @@
 | 20 | emaad .. fahda | 100 | complete |
 | 21 | fahdah .. fareedah | 100 | complete |
 | 22 | fareeha .. fateem | 100 | complete |
+| 23 | fateema .. ferdous | 100 | complete |

@@ -70,7 +70,7 @@ RANGES = [
     (13, "ayyub", "badawi"), (14, "badee", "bara"), (15, "baraa", "bazla"),
     (16, "bazlul", "caitlyn"), (17, "cala", "darman"), (18, "daroon", "diya"),
     (19, "diyaa", "elvina"), (20, "emaad", "fahda"), (21, "fahdah", "fareedah"),
-    (22, "fareeha", "fateem"),
+    (22, "fareeha", "fateem"), (23, "fateema", "ferdous"),
 ]
 md = ["# NameVerse Upgrade Progress", "",
       "| Field | Value |", "|---|---|",
