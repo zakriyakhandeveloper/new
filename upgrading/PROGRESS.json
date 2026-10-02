@@ -1,0 +1,1036 @@
+{
+  "dataset": "NameVerse",
+  "culture": "islamic",
+  "branch": "names-upgraded-v3",
+  "total_names_in_slice": 14411,
+  "names_completed": 100,
+  "current_batch": 1,
+  "batch_range": {
+    "first": "aamilah",
+    "last": "aaus",
+    "count": 100
+  },
+  "batches_completed": 1,
+  "per_name": [
+    {
+      "name": "Aamilah",
+      "slug": "aamilah",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aamin",
+      "slug": "aamin",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aamina",
+      "slug": "aamina",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aaminaat",
+      "slug": "aaminaat",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aaminah",
+      "slug": "aaminah",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aamir",
+      "slug": "aamir",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aamira",
+      "slug": "aamira",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aamirah",
+      "slug": "aamirah",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aamirat",
+      "slug": "aamirat",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aamirul",
+      "slug": "aamirul",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aamiya",
+      "slug": "aamiya",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aamla",
+      "slug": "aamla",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aamna",
+      "slug": "aamna",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aamra",
+      "slug": "aamra",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aamrah",
+      "slug": "aamrah",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aana",
+      "slug": "aana",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aanal",
+      "slug": "aanal",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aanan",
+      "slug": "aanan",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Arabic",
+      "gender": "Unisex",
+      "manual_review_required": true,
+      "reason": null
+    },
+    {
+      "name": "Aaneseh",
+      "slug": "aaneseh",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aani",
+      "slug": "aani",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aania",
+      "slug": "aania",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aanil",
+      "slug": "aanil",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aanisa",
+      "slug": "aanisa",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aanisah",
+      "slug": "aanisah",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aaniya",
+      "slug": "aaniya",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aaniyah",
+      "slug": "aaniyah",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aaolin",
+      "slug": "aaolin",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aaqib",
+      "slug": "aaqib",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aaqiba",
+      "slug": "aaqiba",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aaqibah",
+      "slug": "aaqibah",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aaqif",
+      "slug": "aaqif",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aaqifa",
+      "slug": "aaqifa",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aaqil",
+      "slug": "aaqil",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aaqilah",
+      "slug": "aaqilah",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aara",
+      "slug": "aara",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aaraf",
+      "slug": "aaraf",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Unisex",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aarasun",
+      "slug": "aarasun",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aareeha",
+      "slug": "aareeha",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aarefa",
+      "slug": "aarefa",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aarfa",
+      "slug": "aarfa",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": true,
+      "reason": null
+    },
+    {
+      "name": "Aarib",
+      "slug": "aarib",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aaribah",
+      "slug": "aaribah",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aaribat",
+      "slug": "aaribat",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aaribun",
+      "slug": "aaribun",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aarif",
+      "slug": "aarif",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aarifa",
+      "slug": "aarifa",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aarifah",
+      "slug": "aarifah",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aarifin",
+      "slug": "aarifin",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aariz",
+      "slug": "aariz",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": null
+    },
+    {
+      "name": "Aarizah",
+      "slug": "aarizah",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aarizun",
+      "slug": "aarizun",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aaron",
+      "slug": "aaron",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Hebrew",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aarya",
+      "slug": "aarya",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Unisex",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aaryan",
+      "slug": "aaryan",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Sanskrit",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aarzam",
+      "slug": "aarzam",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aarzoo",
+      "slug": "aarzoo",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Persian",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aarzu",
+      "slug": "aarzu",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Persian",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aas",
+      "slug": "aas",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aasaal",
+      "slug": "aasaal",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aasal",
+      "slug": "aasal",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Unisex",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aaseman",
+      "slug": "aaseman",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aasfa",
+      "slug": "aasfa",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aashif",
+      "slug": "aashif",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aashik",
+      "slug": "aashik",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aashiq",
+      "slug": "aashiq",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aashir",
+      "slug": "aashir",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aasia",
+      "slug": "aasia",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aasif",
+      "slug": "aasif",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aasifah",
+      "slug": "aasifah",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aasim",
+      "slug": "aasim",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aasima",
+      "slug": "aasima",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aasimah",
+      "slug": "aasimah",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aasimat",
+      "slug": "aasimat",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": true,
+      "reason": null
+    },
+    {
+      "name": "Aasir",
+      "slug": "aasir",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": null
+    },
+    {
+      "name": "Aasira",
+      "slug": "aasira",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aasiya",
+      "slug": "aasiya",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aasiyah",
+      "slug": "aasiyah",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aasiyyah",
+      "slug": "aasiyyah",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aasma",
+      "slug": "aasma",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aasmaa",
+      "slug": "aasmaa",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aasman",
+      "slug": "aasman",
+      "status": "complete",
+      "meaning_confidence": "high",
+      "origin": "Persian",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aateqa",
+      "slug": "aateqa",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aathira",
+      "slug": "aathira",
+      "status": "complete_unverified_form",
+      "meaning_confidence": "unverified",
+      "origin": "Unknown",
+      "gender": "Unknown",
+      "manual_review_required": true,
+      "reason": "form not matched to a Tier-A/B source; no gloss asserted"
+    },
+    {
+      "name": "Aati",
+      "slug": "aati",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aatif",
+      "slug": "aatif",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aatifa",
+      "slug": "aatifa",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aatifah",
+      "slug": "aatifah",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aatik",
+      "slug": "aatik",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aatika",
+      "slug": "aatika",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aatikaat",
+      "slug": "aatikaat",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": true,
+      "reason": null
+    },
+    {
+      "name": "Aatikah",
+      "slug": "aatikah",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aatiq",
+      "slug": "aatiq",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": null
+    },
+    {
+      "name": "Aatiqa",
+      "slug": "aatiqa",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": true,
+      "reason": null
+    },
+    {
+      "name": "Aatiqah",
+      "slug": "aatiqah",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": true,
+      "reason": null
+    },
+    {
+      "name": "Aatir",
+      "slug": "aatir",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aatira",
+      "slug": "aatira",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aatirah",
+      "slug": "aatirah",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aatiya",
+      "slug": "aatiya",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Female",
+      "manual_review_required": false,
+      "reason": null
+    },
+    {
+      "name": "Aauf",
+      "slug": "aauf",
+      "status": "complete",
+      "meaning_confidence": "low",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": true,
+      "reason": null
+    },
+    {
+      "name": "Aaus",
+      "slug": "aaus",
+      "status": "complete",
+      "meaning_confidence": "medium",
+      "origin": "Arabic",
+      "gender": "Male",
+      "manual_review_required": false,
+      "reason": null
+    }
+  ],
+  "confidence_summary": {
+    "medium": 41,
+    "high": 19,
+    "unverified": 30,
+    "low": 10
+  },
+  "verified_forms": 70,
+  "unverified_forms": 30,
+  "quality_gate": {
+    "json_invalid": 0,
+    "conflict_markers": 0,
+    "schema_mismatches": 0,
+    "duplicate_slugs": 0,
+    "english_gloss_in_translation": 0,
+    "bad_structured_data": 0,
+    "missing_evidence": 0,
+    "broken_text": 0
+  },
+  "next_batch_starts_after": "aaus",
+  "updated_at": "2026-10-02T00:00:00.000Z"
+}
