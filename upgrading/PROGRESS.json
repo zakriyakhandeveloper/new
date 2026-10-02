@@ -3,14 +3,14 @@
  "culture": "islamic",
  "branch": "names-upgraded-v3",
  "total_names_in_slice": 5471,
- "names_completed": 200,
- "current_batch": 2,
+ "names_completed": 300,
+ "current_batch": 3,
  "batch_range": {
-  "first": "aayan",
-  "last": "adeel",
+  "first": "adeela",
+  "last": "afsar",
   "count": 100
  },
- "batches_completed": 2,
+ "batches_completed": 3,
  "per_name": [
   {
    "name": "Aamilah",
@@ -2011,24 +2011,1026 @@
    "gender": "Male",
    "manual_review_required": false,
    "reason": null
+  },
+  {
+   "name": "Adeela",
+   "slug": "adeela",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adeelah",
+   "slug": "adeelah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adeem",
+   "slug": "adeem",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Adeem. The source record gave أديم with the gloss 'Intelligent', which is unsupported. أديم is an Arabic word for 'tan"
+  },
+  {
+   "name": "Adeena",
+   "slug": "adeena",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Adeena. The source record gave عدینہ with the gloss 'Adorned, precious one', which is unsupported. No verified identif"
+  },
+  {
+   "name": "Adeeva",
+   "slug": "adeeva",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Adeeva. The source record gave عائشة ('Āʾisha), which is a different name. The form adeeva could not be independently "
+  },
+  {
+   "name": "Adel",
+   "slug": "adel",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adem",
+   "slug": "adem",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aden",
+   "slug": "aden",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adena",
+   "slug": "adena",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Adena. The source record supplied the Latin-script placeholder 'Aisha' rather than a script form. No verified lexical "
+  },
+  {
+   "name": "Adha",
+   "slug": "adha",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adham",
+   "slug": "adham",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adhara",
+   "slug": "adhara",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Adhara. The source record gave أذرة with the gloss 'Star, Moon', which is unsupported. No verified identification was "
+  },
+  {
+   "name": "Adi",
+   "slug": "adi",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form عادي is an established Arabic lexical item. The source record's gloss 'Friend' could not be matched to a Tier-A/B Arabic lexical source. The identifica"
+  },
+  {
+   "name": "Adib",
+   "slug": "adib",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adiba",
+   "slug": "adiba",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adibah",
+   "slug": "adibah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adil",
+   "slug": "adil",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adila",
+   "slug": "adila",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adilah",
+   "slug": "adilah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adilene",
+   "slug": "adilene",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Adilene. The source record gave عديلين, which is not a standard Arabic lexical form. No verified identification was es"
+  },
+  {
+   "name": "Adillah",
+   "slug": "adillah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adineh",
+   "slug": "adineh",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Adineh. The source record gave عدینه with the gloss 'Noble, Delicate', which is unsupported. No verified identificatio"
+  },
+  {
+   "name": "Adir",
+   "slug": "adir",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Adir. The source record gave أدير with the gloss 'Man, Mighty', which is unsupported. No verified identification was e"
+  },
+  {
+   "name": "Adiva",
+   "slug": "adiva",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أديبة is an established Arabic lexical item. The source record gave أديبة (adība), a different form. The identification of adiva is uncertain."
+  },
+  {
+   "name": "Adiy",
+   "slug": "adiy",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adiya",
+   "slug": "adiya",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form آديا is an established Arabic lexical item. The source record's gloss 'Adornment, Grace' could not be matched to a Tier-A/B Arabic lexical source. The "
+  },
+  {
+   "name": "Adiyan",
+   "slug": "adiyan",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Adiyan. The source record gave عادلين, which is a plural form rather than a name. No verified identification was estab"
+  },
+  {
+   "name": "Adl",
+   "slug": "adl",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adla",
+   "slug": "adla",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adlah",
+   "slug": "adlah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adlan",
+   "slug": "adlan",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Adlan. The source record gave أدلان with the gloss 'Gentle, Kind', which is unsupported. No verified identification wa"
+  },
+  {
+   "name": "Adli",
+   "slug": "adli",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adn",
+   "slug": "adn",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عدن is an established Arabic lexical item. ʿAdn ('Eden'). The source record's gloss 'Divine gift, creation' is unsupported."
+  },
+  {
+   "name": "Adna",
+   "slug": "adna",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Adna. The source record gave عدنى with the gloss 'Adornment', which is unsupported. No verified identification was est"
+  },
+  {
+   "name": "Adnaan",
+   "slug": "adnaan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adnan",
+   "slug": "adnan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adr",
+   "slug": "adr",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form عدر is an established Arabic lexical item. The source record's gloss 'Light Rain' could not be matched to a Tier-A/B Arabic lexical source. The identif"
+  },
+  {
+   "name": "Adrianna",
+   "slug": "adrianna",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Latin",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Adrish",
+   "slug": "adrish",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Adrish. The source record supplied the Latin-script placeholder 'Adrish' rather than a script form. No verified lexica"
+  },
+  {
+   "name": "Adwa",
+   "slug": "adwa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عدوة is an established Arabic lexical item. عدوة means 'grievance, enmity'. The source record's gloss 'Grievance, complaint' is a reasonable rendering,"
+  },
+  {
+   "name": "Adwaa",
+   "slug": "adwaa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أضواء is an established Arabic lexical item. أضواء is the plural of ضوء ('light'). The source record's gloss 'Sweetness, Delight, Happiness' is unsuppo"
+  },
+  {
+   "name": "Adyan",
+   "slug": "adyan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form عديان is an established Arabic lexical item. The source record's gloss 'worshiper, devotee' could not be matched to a Tier-A/B Arabic lexical source. T"
+  },
+  {
+   "name": "Aeesha",
+   "slug": "aeesha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aeisha",
+   "slug": "aeisha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aejaz",
+   "slug": "aejaz",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aeman",
+   "slug": "aeman",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aeni",
+   "slug": "aeni",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aeni. The source record gave عيني ('my eye'), a possessive phrase rather than a personal name, with the gloss 'Not App"
+  },
+  {
+   "name": "Afaaf",
+   "slug": "afaaf",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afaaq",
+   "slug": "afaaq",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afaf",
+   "slug": "afaf",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afam",
+   "slug": "afam",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Afam. The source record gave عاف with the gloss 'Rare and beautiful', which is unsupported. No verified identification"
+  },
+  {
+   "name": "Afana",
+   "slug": "afana",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Afana. The source record supplied the Latin-script placeholder 'Aisha' rather than a script form. No verified lexical "
+  },
+  {
+   "name": "Afandi",
+   "slug": "afandi",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afaq",
+   "slug": "afaq",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afaque",
+   "slug": "afaque",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afdal",
+   "slug": "afdal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afdhal",
+   "slug": "afdhal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afeef",
+   "slug": "afeef",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afeefa",
+   "slug": "afeefa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Affaf",
+   "slug": "affaf",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Affan",
+   "slug": "affan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afham",
+   "slug": "afham",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afia",
+   "slug": "afia",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afiaa",
+   "slug": "afiaa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afif",
+   "slug": "afif",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afifa",
+   "slug": "afifa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afifah",
+   "slug": "afifah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afiq",
+   "slug": "afiq",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أفيق is an established Arabic lexical item. The source record's gloss 'Intelligent, wise, or knowing' could not be matched to a Tier-A/B Arabic lexical"
+  },
+  {
+   "name": "Afiqah",
+   "slug": "afiqah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أفيقة is an established Arabic lexical item. The source record's gloss 'Knowledgeable, Intelligent' could not be matched to a Tier-A/B Arabic lexical s"
+  },
+  {
+   "name": "Afiya",
+   "slug": "afiya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afiyah",
+   "slug": "afiyah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afiza",
+   "slug": "afiza",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عفيفة is an established Arabic lexical item. The source record gave عفیزة, which is not a standard Arabic lexical form. The intended form may be عفيفة."
+  },
+  {
+   "name": "Afizah",
+   "slug": "afizah",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Afizah. The source record supplied the Latin-script placeholder 'Afizah' rather than a script form. No verified lexica"
+  },
+  {
+   "name": "Afkar",
+   "slug": "afkar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aflah",
+   "slug": "aflah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aflak",
+   "slug": "aflak",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aflatoon",
+   "slug": "aflatoon",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afnan",
+   "slug": "afnan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afnin",
+   "slug": "afnin",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أفنين is an established Arabic lexical item. The source record's form أفنين is not a standard Arabic plural. The identification is uncertain."
+  },
+  {
+   "name": "Afra",
+   "slug": "afra",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Afra. The source record left this name with no origin and no script form. No verified lexical form could be matched an"
+  },
+  {
+   "name": "Afraa",
+   "slug": "afraa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form أفراء is an established Arabic lexical item. The source record's gloss 'Honor, dignity' could not be matched to a Tier-A/B Arabic lexical source. The i"
+  },
+  {
+   "name": "Afraah",
+   "slug": "afraah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afrah",
+   "slug": "afrah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afran",
+   "slug": "afran",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form أفران is an established Arabic lexical item. The source record's gloss 'Frequent' could not be matched to a Tier-A/B Arabic lexical source. The identif"
+  },
+  {
+   "name": "Afrasiab",
+   "slug": "afrasiab",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afraz",
+   "slug": "afraz",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أفراز is an established Arabic lexical item. The source record's gloss 'Elevated, Respected' could not be matched to a Tier-A/B Arabic lexical source. "
+  },
+  {
+   "name": "Afreen",
+   "slug": "afreen",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afridi",
+   "slug": "afridi",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Pashto",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afrin",
+   "slug": "afrin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afrouz",
+   "slug": "afrouz",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Afrouz. The source record gave فاطمة (Fāṭima), which is a different name. The form afrouz could not be independently v"
+  },
+  {
+   "name": "Afroz",
+   "slug": "afroz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afroza",
+   "slug": "afroza",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Afroza. The source record gave عائشة ('Āʾisha), which is a different name. The form afroza could not be independently "
+  },
+  {
+   "name": "Afroze",
+   "slug": "afroze",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afruz",
+   "slug": "afruz",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afsah",
+   "slug": "afsah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أفسح is an established Arabic lexical item. The source record's gloss 'Open, Clear, Truthful' could not be matched to a Tier-A/B Arabic lexical source."
+  },
+  {
+   "name": "Afsan",
+   "slug": "afsan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afsana",
+   "slug": "afsana",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afsanah",
+   "slug": "afsanah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afsaneh",
+   "slug": "afsaneh",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Afsar",
+   "slug": "afsar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
   }
  ],
  "confidence_summary": {
-  "medium": 77,
-  "high": 52,
-  "unverified": 46,
-  "low": 25
+  "medium": 100,
+  "high": 94,
+  "unverified": 65,
+  "low": 41
  },
  "origin_summary": {
-  "Arabic": 145,
-  "Unknown": 45,
+  "Arabic": 213,
+  "Unknown": 64,
   "Hebrew": 2,
   "Sanskrit": 2,
-  "Persian": 5,
-  "Yoruba": 1
+  "Persian": 16,
+  "Yoruba": 1,
+  "Latin": 1,
+  "Pashto": 1
  },
- "verified_forms": 154,
- "unverified_forms": 46,
+ "verified_forms": 235,
+ "unverified_forms": 65,
  "quality_gate": {
   "invalid_json": 0,
   "conflict_markers": 0,
@@ -2040,6 +3042,6 @@
   "broken_text": 0,
   "total_failures": 0
  },
- "next_batch_starts_after": "adeel",
- "updated_at": "2026-10-02T03:16:58Z"
+ "next_batch_starts_after": "afsar",
+ "updated_at": "2026-10-02T03:21:36Z"
 }
