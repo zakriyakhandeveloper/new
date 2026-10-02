@@ -4,29 +4,29 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 3500 |
-| Current batch | 35 |
-| Batch range | khabeer .. khurram (100) |
-| Verified forms | 3343 |
+| Names completed | 3600 |
+| Current batch | 36 |
+| Batch range | khursheed .. liban (100) |
+| Verified forms | 3443 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | khurram |
-| Updated | 2026-10-02T05:45:12Z |
+| Next batch starts after | liban |
+| Updated | 2026-10-02T05:47:20Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 1792 |
-| low | 665 |
-| medium | 886 |
+| high | 1863 |
+| low | 679 |
+| medium | 901 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 2662 |
-| Persian | 452 |
+| Arabic | 2747 |
+| Persian | 466 |
 | Unknown | 204 |
 | Hebrew | 58 |
 | Turkish | 40 |
@@ -35,11 +35,11 @@
 | Sanskrit | 10 |
 | Greek | 8 |
 | Pashto | 6 |
+| Punjabi | 3 |
 | Urdu | 3 |
 | Hindi | 3 |
 | Latin | 2 |
 | Irish | 2 |
-| Punjabi | 2 |
 | Indonesian | 2 |
 | Yoruba | 1 |
 | Basque | 1 |
