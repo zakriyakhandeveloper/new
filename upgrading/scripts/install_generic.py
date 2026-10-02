@@ -73,6 +73,7 @@ RANGES = [
     (22, "fareeha", "fateem"), (23, "fateema", "ferdous"),
     (24, "ferhat", "ghadir"),
     (25, "ghaffar", "guzel"),
+    (26, "haadee", "hakeema"),
 ]
 md = ["# NameVerse Upgrade Progress", "",
       "| Field | Value |", "|---|---|",

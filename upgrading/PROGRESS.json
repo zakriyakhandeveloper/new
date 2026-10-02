@@ -3,14 +3,14 @@
  "culture": "islamic",
  "branch": "names-upgraded-v3",
  "total_names_in_slice": 5471,
- "names_completed": 2500,
- "current_batch": 25,
+ "names_completed": 2600,
+ "current_batch": 26,
  "batch_range": {
-  "first": "ghaffar",
-  "last": "guzel",
+  "first": "haadee",
+  "last": "hakeema",
   "count": 100
  },
- "batches_completed": 25,
+ "batches_completed": 26,
  "per_name": [
   {
    "name": "Aamilah",
@@ -25011,24 +25011,1024 @@
    "gender": "Female",
    "manual_review_required": false,
    "reason": null
+  },
+  {
+   "name": "Haadee",
+   "slug": "haadee",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haadi",
+   "slug": "haadi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haadii",
+   "slug": "haadii",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haadiya",
+   "slug": "haadiya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haadiyah",
+   "slug": "haadiyah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haafiz",
+   "slug": "haafiz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haajar",
+   "slug": "haajar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haaji",
+   "slug": "haaji",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haala",
+   "slug": "haala",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haami",
+   "slug": "haami",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haani",
+   "slug": "haani",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haaris",
+   "slug": "haaris",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haashim",
+   "slug": "haashim",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haatim",
+   "slug": "haatim",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haaziq",
+   "slug": "haaziq",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Habash",
+   "slug": "habash",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Habat",
+   "slug": "habat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Habeeb",
+   "slug": "habeeb",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Habeeba",
+   "slug": "habeeba",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Habeel",
+   "slug": "habeel",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Habib",
+   "slug": "habib",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Habiba",
+   "slug": "habiba",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Habibah",
+   "slug": "habibah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Habibeh",
+   "slug": "habibeh",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Habil",
+   "slug": "habil",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Habis",
+   "slug": "habis",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Habis. The source gave حبيس as the Arabic form and the gloss 'blessed'. حبيس (ḥabīs) means 'confined, imprisoned; a pr"
+  },
+  {
+   "name": "Habshah",
+   "slug": "habshah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hada",
+   "slug": "hada",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hadad",
+   "slug": "hadad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hadaf",
+   "slug": "hadaf",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hadaya",
+   "slug": "hadaya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haddad",
+   "slug": "haddad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hadee",
+   "slug": "hadee",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hadeel",
+   "slug": "hadeel",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hadeer",
+   "slug": "hadeer",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hadees",
+   "slug": "hadees",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hadi",
+   "slug": "hadi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hadia",
+   "slug": "hadia",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hadiah",
+   "slug": "hadiah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hadid",
+   "slug": "hadid",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hadil",
+   "slug": "hadil",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hadir",
+   "slug": "hadir",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hadis",
+   "slug": "hadis",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hadiya",
+   "slug": "hadiya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hadiyah",
+   "slug": "hadiyah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hadiyyah",
+   "slug": "hadiyyah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hadjara",
+   "slug": "hadjara",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Hadjara. The source gave هجرة (hijra, 'emigration') as the Arabic form and the gloss 'traveller, pilgrim', together wi"
+  },
+  {
+   "name": "Hadya",
+   "slug": "hadya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hafa",
+   "slug": "hafa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form حفا is an established Arabic lexical item. Hafa relates to the Arabic root ح ف و: حافي 'barefoot', and the classical Arab virtue of honouring 'the bare"
+  },
+  {
+   "name": "Hafeel",
+   "slug": "hafeel",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form حافل is an established Arabic lexical item. Hafeel corresponds to Arabic حافل (ḥāfil) 'abounding, full, crowded; a large gathering'. The source gloss '"
+  },
+  {
+   "name": "Hafeez",
+   "slug": "hafeez",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hafeeza",
+   "slug": "hafeeza",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hafeezah",
+   "slug": "hafeezah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hafi",
+   "slug": "hafi",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hafid",
+   "slug": "hafid",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form حافد is an established Arabic lexical item. Hafid corresponds to Arabic حافد (ḥāfid), active participle of ح ف د 'to serve, to hasten to help'. The sou"
+  },
+  {
+   "name": "Hafida",
+   "slug": "hafida",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form حفيدة is an established Arabic lexical item. Hafida most plausibly corresponds to Arabic حفيدة (ḥafīda) 'granddaughter' — a common term of affection us"
+  },
+  {
+   "name": "Hafifah",
+   "slug": "hafifah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hafiz",
+   "slug": "hafiz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hafiza",
+   "slug": "hafiza",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hafizah",
+   "slug": "hafizah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hafizh",
+   "slug": "hafizh",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hafs",
+   "slug": "hafs",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Hafs. Hafs (حفص) is the name of a well-known early authority, Ḥafṣ ibn ʿUmar. Its etymology is not securely establishe"
+  },
+  {
+   "name": "Hafsa",
+   "slug": "hafsa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hafsah",
+   "slug": "hafsah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hafza",
+   "slug": "hafza",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hagir",
+   "slug": "hagir",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hahah",
+   "slug": "hahah",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Hahah. NOT A NAME: hahah is recorded in the source with the Arabic form حاحاه and the gloss 'laughter'. It is an onoma"
+  },
+  {
+   "name": "Haibat",
+   "slug": "haibat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haida",
+   "slug": "haida",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haidar",
+   "slug": "haidar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haidarah",
+   "slug": "haidarah",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Haidarah. The source gave هادرة as the Arabic form and the gloss 'the one who makes the way clear'. هادرة is not an at"
+  },
+  {
+   "name": "Haidari",
+   "slug": "haidari",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haider",
+   "slug": "haider",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haif",
+   "slug": "haif",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Haif. The source gave حيف as the Arabic form and the gloss 'riverbank'. حيف (ḥayf) actually means 'injustice, iniquity"
+  },
+  {
+   "name": "Haifa",
+   "slug": "haifa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haikal",
+   "slug": "haikal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haimi",
+   "slug": "haimi",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Hebrew",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haiqa",
+   "slug": "haiqa",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Haiqa. The source gave حيقة as the Arabic form and the gloss 'gathering, assembly, congregation'. No Tier-A/B source e"
+  },
+  {
+   "name": "Hair",
+   "slug": "hair",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Hair. NOT A NAME: the source lists 'hair' with the Arabic column شعر ('hair, poetry') and the Urdu column بال ('hair')"
+  },
+  {
+   "name": "Haiza",
+   "slug": "haiza",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Haiza. No reliable identification was established for haiza. Name directories give mutually inconsistent glosses ('roy"
+  },
+  {
+   "name": "Hajar",
+   "slug": "hajar",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hajarah",
+   "slug": "hajarah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haji",
+   "slug": "haji",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hajib",
+   "slug": "hajib",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hajiba",
+   "slug": "hajiba",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Hajiba. The source gave حاجبة as the Arabic form and the gloss 'servant of God'. حاجبة is not an attested name, and 's"
+  },
+  {
+   "name": "Hajidah",
+   "slug": "hajidah",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Hajidah. The source gave حاجدة as the Arabic form and the gloss 'successful one'. No such Arabic word or name is estab"
+  },
+  {
+   "name": "Hajir",
+   "slug": "hajir",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hajira",
+   "slug": "hajira",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hajiyah",
+   "slug": "hajiyah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hajja",
+   "slug": "hajja",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hajjah",
+   "slug": "hajjah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hajjaj",
+   "slug": "hajjaj",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hajna",
+   "slug": "hajna",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Hajna. The source gave هاجنة as the Arabic form and the gloss 'graceful'. No such word or name is established in Arabi"
+  },
+  {
+   "name": "Hajra",
+   "slug": "hajra",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hajrah",
+   "slug": "hajrah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hajrat",
+   "slug": "hajrat",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Hajrat. The source gave حجرت as the Arabic form and the gloss 'respected one'. No such Arabic form is established (the"
+  },
+  {
+   "name": "Hakam",
+   "slug": "hakam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hakan",
+   "slug": "hakan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hakeem",
+   "slug": "hakeem",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hakeema",
+   "slug": "hakeema",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
   }
  ],
  "confidence_summary": {
-  "medium": 557,
-  "high": 1302,
-  "unverified": 145,
-  "low": 496
+  "medium": 578,
+  "high": 1364,
+  "unverified": 157,
+  "low": 501
  },
  "origin_summary": {
-  "Arabic": 1779,
-  "Unknown": 178,
-  "Hebrew": 55,
+  "Arabic": 1865,
+  "Unknown": 190,
+  "Hebrew": 56,
   "Sanskrit": 7,
   "Persian": 386,
   "Yoruba": 1,
   "Latin": 2,
   "Pashto": 5,
-  "Turkish": 36,
+  "Turkish": 37,
   "Turkic": 17,
   "Irish": 2,
   "Greek": 7,
@@ -25043,8 +26043,8 @@
   "Hindi": 3,
   "English": 1
  },
- "verified_forms": 2355,
- "unverified_forms": 145,
+ "verified_forms": 2443,
+ "unverified_forms": 157,
  "quality_gate": {
   "invalid_json": 0,
   "conflict_markers": 0,
@@ -25056,6 +26056,6 @@
   "broken_text": 0,
   "total_failures": 0
  },
- "next_batch_starts_after": "guzel",
- "updated_at": "2026-10-02T04:49:45Z"
+ "next_batch_starts_after": "hakeema",
+ "updated_at": "2026-10-02T04:54:15Z"
 }

@@ -4,32 +4,32 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 2500 |
-| Current batch | 25 |
-| Batch range | ghaffar .. guzel (100) |
-| Verified forms | 2355 |
-| Unverified forms (no gloss asserted) | 145 |
-| Next batch starts after | guzel |
-| Updated | 2026-10-02T04:49:45Z |
+| Names completed | 2600 |
+| Current batch | 26 |
+| Batch range | haadee .. hakeema (100) |
+| Verified forms | 2443 |
+| Unverified forms (no gloss asserted) | 157 |
+| Next batch starts after | hakeema |
+| Updated | 2026-10-02T04:54:15Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 1302 |
-| low | 496 |
-| medium | 557 |
-| unverified | 145 |
+| high | 1364 |
+| low | 501 |
+| medium | 578 |
+| unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 1779 |
+| Arabic | 1865 |
 | Persian | 386 |
-| Unknown | 178 |
-| Hebrew | 55 |
-| Turkish | 36 |
+| Unknown | 190 |
+| Hebrew | 56 |
+| Turkish | 37 |
 | Turkic | 17 |
 | Kurdish | 11 |
 | Sanskrit | 7 |
@@ -91,3 +91,4 @@
 | 23 | fateema .. ferdous | 100 | complete |
 | 24 | ferhat .. ghadir | 100 | complete |
 | 25 | ghaffar .. guzel | 100 | complete |
+| 26 | haadee .. hakeema | 100 | complete |
