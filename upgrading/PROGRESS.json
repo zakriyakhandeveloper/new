@@ -3,14 +3,14 @@
  "culture": "islamic",
  "branch": "names-upgraded-v3",
  "total_names_in_slice": 5471,
- "names_completed": 400,
- "current_batch": 4,
+ "names_completed": 500,
+ "current_batch": 5,
  "batch_range": {
-  "first": "afshan",
-  "last": "aizah",
+  "first": "aizat",
+  "last": "alesha",
   "count": 100
  },
- "batches_completed": 4,
+ "batches_completed": 5,
  "per_name": [
   {
    "name": "Aamilah",
@@ -4011,20 +4011,1020 @@
    "gender": "Female",
    "manual_review_required": false,
    "reason": null
+  },
+  {
+   "name": "Aizat",
+   "slug": "aizat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aizaz",
+   "slug": "aizaz",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Aizaz. The source record gave the placeholder عربي_Aizaz, which is not an Arabic form. No verified identification was "
+  },
+  {
+   "name": "Aizza",
+   "slug": "aizza",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عائزة is an established Arabic lexical item. The source record's gloss 'Glorifier of God' could not be matched to a Tier-A/B Arabic lexical source. The"
+  },
+  {
+   "name": "Aizzah",
+   "slug": "aizzah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ajab",
+   "slug": "ajab",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ajal",
+   "slug": "ajal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ajam",
+   "slug": "ajam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ajaz",
+   "slug": "ajaz",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عجز is an established Arabic lexical item. ʿAjz ('weakness, inability'). The source record's gloss 'Quiet, calm' is unsupported."
+  },
+  {
+   "name": "Ajda",
+   "slug": "ajda",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أجدا is an established Arabic lexical item. The source record's gloss 'Devout, Worshipper' could not be matched to a Tier-A/B Arabic lexical source. Th"
+  },
+  {
+   "name": "Ajeeb",
+   "slug": "ajeeb",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ajeel",
+   "slug": "ajeel",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ajia",
+   "slug": "ajia",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Ajia. The source record supplied the Latin-script placeholder 'Ajia' rather than a script form. No verified lexical fo"
+  },
+  {
+   "name": "Ajib",
+   "slug": "ajib",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ajla",
+   "slug": "ajla",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عجلى is an established Arabic lexical item. The source record's gloss 'Gentle and soft' could not be matched to a Tier-A/B Arabic lexical source. The i"
+  },
+  {
+   "name": "Ajlan",
+   "slug": "ajlan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أجلان is an established Arabic lexical item. The source record's gloss 'Mountain or hill' could not be matched to a Tier-A/B Arabic lexical source. The"
+  },
+  {
+   "name": "Ajmal",
+   "slug": "ajmal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ajmar",
+   "slug": "ajmar",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أجمر is an established Arabic lexical item. The source record's gloss 'Gentle, kind, compassionate' could not be matched to a Tier-A/B Arabic lexical s"
+  },
+  {
+   "name": "Ajmi",
+   "slug": "ajmi",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ajva",
+   "slug": "ajva",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أجوة is an established Arabic lexical item. The source record's gloss 'Dates' could not be matched to a Tier-A/B Arabic lexical source. The identificat"
+  },
+  {
+   "name": "Ajwad",
+   "slug": "ajwad",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Akaash",
+   "slug": "akaash",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Sanskrit",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Akasha",
+   "slug": "akasha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Sanskrit",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Akbar",
+   "slug": "akbar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Akbari",
+   "slug": "akbari",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Akber",
+   "slug": "akber",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Akeel",
+   "slug": "akeel",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Akeelah",
+   "slug": "akeelah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Akeem",
+   "slug": "akeem",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Akela",
+   "slug": "akela",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Akela. The source record supplied the Latin-script placeholder 'Akela' rather than a script form. No verified lexical "
+  },
+  {
+   "name": "Akhas",
+   "slug": "akhas",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أخاس is an established Arabic lexical item. The source record's gloss 'Helper, Supporter' could not be matched to a Tier-A/B Arabic lexical source. The"
+  },
+  {
+   "name": "Akhdan",
+   "slug": "akhdan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أخدان is an established Arabic lexical item. The source record's gloss 'Helper, Supporter' could not be matched to a Tier-A/B Arabic lexical source. Th"
+  },
+  {
+   "name": "Akhlak",
+   "slug": "akhlak",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Akhlaq",
+   "slug": "akhlaq",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Akhlas",
+   "slug": "akhlas",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Akhmad",
+   "slug": "akhmad",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Akhram",
+   "slug": "akhram",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أخرم is an established Arabic lexical item. The source record's gloss 'Late, deferred' could not be matched to a Tier-A/B Arabic lexical source. The id"
+  },
+  {
+   "name": "Akhtar",
+   "slug": "akhtar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Akhter",
+   "slug": "akhter",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Akhyar",
+   "slug": "akhyar",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aki",
+   "slug": "aki",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form أكي is an established Arabic lexical item. The source record's gloss 'Bright, Shining' could not be matched to a Tier-A/B Arabic lexical source. The id"
+  },
+  {
+   "name": "Akia",
+   "slug": "akia",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عقيا is an established Arabic lexical item. The source record's gloss 'Truthful' could not be matched to a Tier-A/B Arabic lexical source. The identifi"
+  },
+  {
+   "name": "Akib",
+   "slug": "akib",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Akif",
+   "slug": "akif",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Akifa",
+   "slug": "akifa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عكيفة is an established Arabic lexical item. The source record's gloss 'A woman who is strong and determined' could not be matched to a Tier-A/B Arabic"
+  },
+  {
+   "name": "Akifah",
+   "slug": "akifah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عكيفة is an established Arabic lexical item. The source record's gloss 'Fragile, Eternal, Garden' could not be matched to a Tier-A/B Arabic lexical sou"
+  },
+  {
+   "name": "Akil",
+   "slug": "akil",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Akila",
+   "slug": "akila",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Akilah",
+   "slug": "akilah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Akili",
+   "slug": "akili",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Akim",
+   "slug": "akim",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form حكيم is an established Arabic lexical item. The source record gave عكيم, which is not a standard Arabic form. The intended name may be حكيم. The identi"
+  },
+  {
+   "name": "Akin",
+   "slug": "akin",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form أكين is an established Arabic lexical item. The source record's gloss 'Trustworthy, Sincere' could not be matched to a Tier-A/B Arabic lexical source. "
+  },
+  {
+   "name": "Aklima",
+   "slug": "aklima",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عقليمة is an established Arabic lexical item. The source record's gloss 'Moon-lit Night' could not be matched to a Tier-A/B Arabic lexical source. The "
+  },
+  {
+   "name": "Aklimah",
+   "slug": "aklimah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أكليمة is an established Arabic lexical item. The source record's gloss 'Calm' could not be matched to a Tier-A/B Arabic lexical source. The identifica"
+  },
+  {
+   "name": "Akmal",
+   "slug": "akmal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Akram",
+   "slug": "akram",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Akram. The source record left this name with no origin, no script form and no gloss. No verified identification was es"
+  },
+  {
+   "name": "Akrama",
+   "slug": "akrama",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Akramat",
+   "slug": "akramat",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أكرمات is an established Arabic lexical item. The source record's form أكرمات is not a standard Arabic form. The identification is uncertain."
+  },
+  {
+   "name": "Aksa",
+   "slug": "aksa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أكسا is an established Arabic lexical item. The source record's gloss 'The Sanctified One' could not be matched to a Tier-A/B Arabic lexical source. Th"
+  },
+  {
+   "name": "Aksana",
+   "slug": "aksana",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أكسانا is an established Arabic lexical item. The source record's gloss 'Helping hand, support' could not be matched to a Tier-A/B Arabic lexical sourc"
+  },
+  {
+   "name": "Akseer",
+   "slug": "akseer",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aksil",
+   "slug": "aksil",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أكسيل is an established Arabic lexical item. The source record's gloss 'The One Who Is Near' could not be matched to a Tier-A/B Arabic lexical source. "
+  },
+  {
+   "name": "Aktham",
+   "slug": "aktham",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أكثم is an established Arabic lexical item. The source record's gloss 'Merciful' could not be matched to a Tier-A/B Arabic lexical source. The identifi"
+  },
+  {
+   "name": "Akuma",
+   "slug": "akuma",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Akuma. The source record gave أكومه with the gloss 'Evil Spirit', which is not a personal-name meaning. No verified id"
+  },
+  {
+   "name": "Akwan",
+   "slug": "akwan",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Akwan. The source record gave أكوان with the gloss 'Unknown'. No verified identification was established and no gloss "
+  },
+  {
+   "name": "Ala",
+   "slug": "ala",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alaa",
+   "slug": "alaa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alaali",
+   "slug": "alaali",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aladdin",
+   "slug": "aladdin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alaia",
+   "slug": "alaia",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alala",
+   "slug": "alala",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form الأعلى is an established Arabic lexical item. The source record's form الا is a definite article rather than a name. The identification is uncertain."
+  },
+  {
+   "name": "Alaleh",
+   "slug": "alaleh",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alam",
+   "slug": "alam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alamal",
+   "slug": "alamal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alamat",
+   "slug": "alamat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alamgir",
+   "slug": "alamgir",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Alamgir. The source record gave the placeholder عربي_Alamgir, which is not an Arabic form. ʿĀlamgīr is a Persian compo"
+  },
+  {
+   "name": "Alasad",
+   "slug": "alasad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alauddin",
+   "slug": "alauddin",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Alauddin. The source record gave the placeholder عربي_Alauddin, which is not an Arabic form. The correct form is علاء "
+  },
+  {
+   "name": "Alaudeen",
+   "slug": "alaudeen",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alawi",
+   "slug": "alawi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alaya",
+   "slug": "alaya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Alayna",
+   "slug": "alayna",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form علينا is an established Arabic lexical item. The source record's form علينا is a prepositional phrase ('upon us') rather than a personal name. The iden"
+  },
+  {
+   "name": "Albara",
+   "slug": "albara",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form البراء is an established Arabic lexical item. Al-barāʾ ('freedom, innocence'). The source record's gloss 'The Exalted One' is unsupported."
+  },
+  {
+   "name": "Albaz",
+   "slug": "albaz",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Albinaa",
+   "slug": "albinaa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form ألبينا is an established Arabic lexical item. The source record's gloss 'Gentle, Radiant' could not be matched to a Tier-A/B Arabic lexical source. The"
+  },
+  {
+   "name": "Alborz",
+   "slug": "alborz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aldina",
+   "slug": "aldina",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form الدينة is an established Arabic lexical item. The source record's form الدينة is not a standard Arabic form. The identification is uncertain."
+  },
+  {
+   "name": "Alee",
+   "slug": "alee",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aleef",
+   "slug": "aleef",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أليف is an established Arabic lexical item. The source record's gloss 'Letter A in Arabic Alphabet' is a description of the letter alif rather than a l"
+  },
+  {
+   "name": "Aleem",
+   "slug": "aleem",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aleema",
+   "slug": "aleema",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aleen",
+   "slug": "aleen",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form علين is an established Arabic lexical item. The source record's gloss 'Gentle, Kind' could not be matched to a Tier-A/B Arabic lexical source. The iden"
+  },
+  {
+   "name": "Aleena",
+   "slug": "aleena",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aleesa",
+   "slug": "aleesa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form آليسا is an established Arabic lexical item. The source record's form آليسا is a transliteration of a European name (Alicia/Alice) rather than an Arabi"
+  },
+  {
+   "name": "Aleeya",
+   "slug": "aleeya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aleeyah",
+   "slug": "aleeyah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aleeza",
+   "slug": "aleeza",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Hebrew",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aleezah",
+   "slug": "aleezah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Hebrew",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عليزة is an established Hebrew lexical item. Variant romanization of عليزة. The source record's gloss 'Submission to Allah' is unsupported."
+  },
+  {
+   "name": "Aleezay",
+   "slug": "aleezay",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Hebrew",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عليزة is an established Hebrew lexical item. Variant romanization of عليزة. The source record's gloss 'Exalted, Noble' is unsupported."
+  },
+  {
+   "name": "Aleha",
+   "slug": "aleha",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عليها is an established Arabic lexical item. The source record's form عليها is a prepositional phrase ('upon her') rather than a personal name. The ide"
+  },
+  {
+   "name": "Alesha",
+   "slug": "alesha",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عليشا is an established Arabic lexical item. The source record's gloss 'Night-born' could not be matched to a Tier-A/B Arabic lexical source. The ident"
   }
  ],
  "confidence_summary": {
-  "medium": 139,
-  "high": 132,
-  "unverified": 78,
-  "low": 51
+  "medium": 159,
+  "high": 169,
+  "unverified": 86,
+  "low": 86
  },
  "origin_summary": {
-  "Arabic": 278,
-  "Unknown": 77,
-  "Hebrew": 3,
-  "Sanskrit": 2,
-  "Persian": 28,
+  "Arabic": 361,
+  "Unknown": 85,
+  "Hebrew": 6,
+  "Sanskrit": 4,
+  "Persian": 32,
   "Yoruba": 1,
   "Latin": 1,
   "Pashto": 2,
@@ -4033,8 +5033,8 @@
   "Irish": 1,
   "Greek": 1
  },
- "verified_forms": 322,
- "unverified_forms": 78,
+ "verified_forms": 414,
+ "unverified_forms": 86,
  "quality_gate": {
   "invalid_json": 0,
   "conflict_markers": 0,
@@ -4046,6 +5046,6 @@
   "broken_text": 0,
   "total_failures": 0
  },
- "next_batch_starts_after": "aizah",
- "updated_at": "2026-10-02T03:24:27Z"
+ "next_batch_starts_after": "alesha",
+ "updated_at": "2026-10-02T03:27:03Z"
 }
