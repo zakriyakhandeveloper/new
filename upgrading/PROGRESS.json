@@ -3,14 +3,14 @@
  "culture": "islamic",
  "branch": "names-upgraded-v3",
  "total_names_in_slice": 5471,
- "names_completed": 700,
- "current_batch": 7,
+ "names_completed": 800,
+ "current_batch": 8,
  "batch_range": {
-  "first": "amaan",
-  "last": "anabia",
+  "first": "anaf",
+  "last": "aphrodite",
   "count": 100
  },
- "batches_completed": 7,
+ "batches_completed": 8,
  "per_name": [
   {
    "name": "Aamilah",
@@ -7011,32 +7011,1032 @@
    "gender": "Female",
    "manual_review_required": false,
    "reason": null
+  },
+  {
+   "name": "Anaf",
+   "slug": "anaf",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form أنف is an established Arabic lexical item. The source record's gloss 'Giver, Helper' could not be matched to a Tier-A/B lexical source. The form أنف me"
+  },
+  {
+   "name": "Anah",
+   "slug": "anah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أناه is an established Arabic lexical item. The source record's gloss 'Grace, Comfort, Consolation' could not be matched to a Tier-A/B lexical source. "
+  },
+  {
+   "name": "Anahid",
+   "slug": "anahid",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anahit",
+   "slug": "anahit",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anahita",
+   "slug": "anahita",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anam",
+   "slug": "anam",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anamika",
+   "slug": "anamika",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Sanskrit",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anan",
+   "slug": "anan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form أنان is an established Arabic lexical item. The source record's gloss 'Given' could not be matched to a Tier-A/B lexical source. The identification is "
+  },
+  {
+   "name": "Anar",
+   "slug": "anar",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anas",
+   "slug": "anas",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anasa",
+   "slug": "anasa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form أناسة is an established Arabic lexical item. The source record's gloss 'Giver, Provider' could not be matched to a Tier-A/B lexical source. The identif"
+  },
+  {
+   "name": "Anasi",
+   "slug": "anasi",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أناسي is an established Arabic lexical item. The source record's gloss 'Loved one, Beloved' could not be matched to a Tier-A/B lexical source. The form"
+  },
+  {
+   "name": "Anass",
+   "slug": "anass",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anat",
+   "slug": "anat",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أنات is an established Arabic lexical item. The source record's gloss 'Grace' could not be matched to a Tier-A/B lexical source. The identification is "
+  },
+  {
+   "name": "Anaya",
+   "slug": "anaya",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anbar",
+   "slug": "anbar",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عنبر is an established Arabic lexical item. The source record's gloss 'Camp, tent, city' could not be matched to a Tier-A/B lexical source. The form عن"
+  },
+  {
+   "name": "Andaleeb",
+   "slug": "andaleeb",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عندليب is an established Arabic lexical item. The source record's gloss 'Moonlight' could not be matched to a Tier-A/B lexical source. The form عندليب "
+  },
+  {
+   "name": "Andalib",
+   "slug": "andalib",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Andam",
+   "slug": "andam",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Persian",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form أندام is an established Persian lexical item. The source record's gloss 'Protector, Defender' could not be matched to a Tier-A/B lexical source. Persia"
+  },
+  {
+   "name": "Andi",
+   "slug": "andi",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أندي is an established Arabic lexical item. The source record's gloss 'Man' could not be matched to a Tier-A/B lexical source. The identification is un"
+  },
+  {
+   "name": "Andia",
+   "slug": "andia",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أندية is an established Arabic lexical item. The source record's gloss 'Follower of Faith' could not be matched to a Tier-A/B lexical source. The form "
+  },
+  {
+   "name": "Andin",
+   "slug": "andin",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أندين is an established Arabic lexical item. The source record's gloss 'Strong, Victorious' could not be matched to a Tier-A/B lexical source. The iden"
+  },
+  {
+   "name": "Andisheh",
+   "slug": "andisheh",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Andleeb",
+   "slug": "andleeb",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عندليب is an established Arabic lexical item. The source record's gloss 'Elegant' could not be matched to a Tier-A/B lexical source. The form عندليب me"
+  },
+  {
+   "name": "Aneeka",
+   "slug": "aneeka",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أنيقة is an established Arabic lexical item. The source record's gloss 'Near, Close' could not be matched to a Tier-A/B lexical source. The form أنيقة "
+  },
+  {
+   "name": "Aneela",
+   "slug": "aneela",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أنيلة is an established Arabic lexical item. The source record's gloss 'Helper' could not be matched to a Tier-A/B lexical source. The identification i"
+  },
+  {
+   "name": "Aneen",
+   "slug": "aneen",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أنين is an established Arabic lexical item. The source record's gloss 'Grace, Pleasure' could not be matched to a Tier-A/B lexical source. The form أني"
+  },
+  {
+   "name": "Aneeq",
+   "slug": "aneeq",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aneeqa",
+   "slug": "aneeqa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aneeqah",
+   "slug": "aneeqah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أنيقة is an established Arabic lexical item. The source record's gloss 'Deliverer, Helper' could not be matched to a Tier-A/B lexical source. The form "
+  },
+  {
+   "name": "Anees",
+   "slug": "anees",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aneesa",
+   "slug": "aneesa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aneesah",
+   "slug": "aneesah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aneesh",
+   "slug": "aneesh",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أنيش is an established Arabic lexical item. The source record's gloss 'Graceful, wise' could not be matched to a Tier-A/B lexical source. The identific"
+  },
+  {
+   "name": "Aneesha",
+   "slug": "aneesha",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أنيشة is an established Arabic lexical item. The source record's gloss 'Friendly, Peaceful' could not be matched to a Tier-A/B lexical source. The iden"
+  },
+  {
+   "name": "Aneeza",
+   "slug": "aneeza",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أنيزة is an established Arabic lexical item. The source record's gloss 'Gracious, gentle, sweet' could not be matched to a Tier-A/B lexical source. The"
+  },
+  {
+   "name": "Anfal",
+   "slug": "anfal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anfas",
+   "slug": "anfas",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Angar",
+   "slug": "angar",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form أنغر is an established Arabic lexical item. The source record's gloss was truncated and no reliable identification could be established. The identifica"
+  },
+  {
+   "name": "Angham",
+   "slug": "angham",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anhar",
+   "slug": "anhar",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anida",
+   "slug": "anida",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أنيدة is an established Arabic lexical item. The source record's gloss 'Graceful, Gentle' could not be matched to a Tier-A/B lexical source. The identi"
+  },
+  {
+   "name": "Anif",
+   "slug": "anif",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أنف is an established Arabic lexical item. The source record's gloss 'Forgetful' could not be matched to a Tier-A/B lexical source. The form أنف means "
+  },
+  {
+   "name": "Anifa",
+   "slug": "anifa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أنيفة is an established Arabic lexical item. The source record's gloss 'Gracious, compassionate' could not be matched to a Tier-A/B lexical source. The"
+  },
+  {
+   "name": "Anika",
+   "slug": "anika",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anila",
+   "slug": "anila",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أنيلة is an established Arabic lexical item. The source record's gloss 'Grace, beauty, light' could not be matched to a Tier-A/B lexical source. The id"
+  },
+  {
+   "name": "Aniq",
+   "slug": "aniq",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aniqa",
+   "slug": "aniqa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aniqah",
+   "slug": "aniqah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anis",
+   "slug": "anis",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anisa",
+   "slug": "anisa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anisah",
+   "slug": "anisah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anise",
+   "slug": "anise",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أنيس is an established Arabic lexical item. The source record's gloss describes anise as derived from Greek, which is a botanical etymology rather than"
+  },
+  {
+   "name": "Anisha",
+   "slug": "anisha",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أنيشة is an established Arabic lexical item. The source record's gloss 'Gift' could not be matched to a Tier-A/B lexical source. The identification is "
+  },
+  {
+   "name": "Aniya",
+   "slug": "aniya",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أنية is an established Arabic lexical item. The source record's gloss 'Graceful' could not be matched to a Tier-A/B lexical source. The identification "
+  },
+  {
+   "name": "Aniza",
+   "slug": "aniza",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عنيزة is an established Arabic lexical item. The source record's gloss 'Pure and Chaste' could not be matched to a Tier-A/B lexical source. The form عن"
+  },
+  {
+   "name": "Anizah",
+   "slug": "anizah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عنيزة is an established Arabic lexical item. The source record's gloss 'Protector, Guardian' could not be matched to a Tier-A/B lexical source. The ide"
+  },
+  {
+   "name": "Anja",
+   "slug": "anja",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أنجا is an established Arabic lexical item. The source record's gloss 'Graceful' could not be matched to a Tier-A/B lexical source. The identification "
+  },
+  {
+   "name": "Anjam",
+   "slug": "anjam",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anjum",
+   "slug": "anjum",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anmar",
+   "slug": "anmar",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أنمار is an established Arabic lexical item. The source record's gloss 'Lover of the Beloved' could not be matched to a Tier-A/B lexical source. The id"
+  },
+  {
+   "name": "Annali",
+   "slug": "annali",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form أنالي is an established Arabic lexical item. The source record's gloss 'Graceful, Radiant' could not be matched to a Tier-A/B lexical source. The ident"
+  },
+  {
+   "name": "Annam",
+   "slug": "annam",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أنام is an established Arabic lexical item. The source record's gloss 'Grace' could not be matched to a Tier-A/B lexical source. The form أنام means 'm"
+  },
+  {
+   "name": "Annissa",
+   "slug": "annissa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أنيسة is an established Arabic lexical item. The source record's gloss 'Graceful, beautiful' could not be matched to a Tier-A/B lexical source. The for"
+  },
+  {
+   "name": "Annum",
+   "slug": "annum",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أنعم is an established Arabic lexical item. The source record's gloss 'Gift from Allah' could not be matched to a Tier-A/B lexical source. The identifi"
+  },
+  {
+   "name": "Anoosh",
+   "slug": "anoosh",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anoosha",
+   "slug": "anoosha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anouar",
+   "slug": "anouar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anoud",
+   "slug": "anoud",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عنود is an established Arabic lexical item. The source record's gloss 'Brave' could not be matched to a Tier-A/B lexical source. The form عنود means 's"
+  },
+  {
+   "name": "Anoush",
+   "slug": "anoush",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anousha",
+   "slug": "anousha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anoushiravan",
+   "slug": "anoushiravan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ans",
+   "slug": "ans",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ansa",
+   "slug": "ansa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أنساء is an established Arabic lexical item. The source record's gloss 'Supporter, Helper' could not be matched to a Tier-A/B lexical source. The ident"
+  },
+  {
+   "name": "Ansaar",
+   "slug": "ansaar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ansab",
+   "slug": "ansab",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أنصاب is an established Arabic lexical item. The source record's gloss 'Stripes, Patterns' could not be matched to a Tier-A/B lexical source. The form "
+  },
+  {
+   "name": "Ansah",
+   "slug": "ansah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أنساء is an established Arabic lexical item. The source record's gloss 'Supporter, Helper' could not be matched to a Tier-A/B lexical source. The ident"
+  },
+  {
+   "name": "Ansam",
+   "slug": "ansam",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أنسام is an established Arabic lexical item. The source record's gloss 'Dots, Spots' could not be matched to a Tier-A/B lexical source. The form أنسام "
+  },
+  {
+   "name": "Ansar",
+   "slug": "ansar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ansari",
+   "slug": "ansari",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anser",
+   "slug": "anser",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أنصر is an established Arabic lexical item. The source record's gloss 'Dedicated to Allah' could not be matched to a Tier-A/B lexical source. The form "
+  },
+  {
+   "name": "Ansha",
+   "slug": "ansha",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أنشا is an established Arabic lexical item. The source record's gloss 'A light, a helper' could not be matched to a Tier-A/B lexical source. The identi"
+  },
+  {
+   "name": "Anshar",
+   "slug": "anshar",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أنشر is an established Arabic lexical item. The source record's gloss 'Heavenly' could not be matched to a Tier-A/B lexical source. The identification "
+  },
+  {
+   "name": "Antar",
+   "slug": "antar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anum",
+   "slug": "anum",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form أنعم is an established Arabic lexical item. The source record's gloss 'Peaceful and Tranquil' could not be matched to a Tier-A/B lexical source. The id"
+  },
+  {
+   "name": "Anush",
+   "slug": "anush",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أنوش is an established Persian lexical item. The source record's gloss 'Lily' could not be matched to a Tier-A/B lexical source. Persian anūsh means 's"
+  },
+  {
+   "name": "Anusha",
+   "slug": "anusha",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anushka",
+   "slug": "anushka",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Sanskrit",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anvar",
+   "slug": "anvar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anwaar",
+   "slug": "anwaar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anwar",
+   "slug": "anwar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anwara",
+   "slug": "anwara",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anwari",
+   "slug": "anwari",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anwer",
+   "slug": "anwer",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Anya",
+   "slug": "anya",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أنيا is an established Arabic lexical item. The source record's gloss 'Grace, Favor' could not be matched to a Tier-A/B lexical source. The identificat"
+  },
+  {
+   "name": "Anza",
+   "slug": "anza",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عنزة is an established Arabic lexical item. The source record's gloss 'Caravan, Journey' could not be matched to a Tier-A/B lexical source. The form عن"
+  },
+  {
+   "name": "Anzala",
+   "slug": "anzala",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form أنزلة is an established Arabic lexical item. The source record's gloss 'Help, Assistance' could not be matched to a Tier-A/B lexical source. The identi"
+  },
+  {
+   "name": "Anzar",
+   "slug": "anzar",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أنظر is an established Arabic lexical item. The source record's gloss 'Protector, Guardian, Watcher' could not be matched to a Tier-A/B lexical source."
+  },
+  {
+   "name": "Apana",
+   "slug": "apana",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أبانا is an established Arabic lexical item. The source record's gloss 'Divine grace, kindness' could not be matched to a Tier-A/B lexical source. The "
+  },
+  {
+   "name": "Aphrodite",
+   "slug": "aphrodite",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Greek",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
   }
  ],
  "confidence_summary": {
-  "medium": 202,
-  "high": 263,
+  "medium": 223,
+  "high": 291,
   "unverified": 125,
-  "low": 110
+  "low": 161
  },
  "origin_summary": {
-  "Arabic": 505,
+  "Arabic": 588,
   "Unknown": 124,
   "Hebrew": 9,
-  "Sanskrit": 4,
-  "Persian": 38,
+  "Sanskrit": 6,
+  "Persian": 52,
   "Yoruba": 1,
   "Latin": 1,
   "Pashto": 2,
   "Turkish": 7,
   "Turkic": 4,
   "Irish": 1,
-  "Greek": 1,
+  "Greek": 2,
   "Punjabi": 1,
   "Basque": 1,
   "Berber": 1
  },
- "verified_forms": 575,
+ "verified_forms": 675,
  "unverified_forms": 125,
  "quality_gate": {
   "invalid_json": 0,
@@ -7049,6 +8049,6 @@
   "broken_text": 0,
   "total_failures": 0
  },
- "next_batch_starts_after": "anabia",
- "updated_at": "2026-10-02T03:30:37Z"
+ "next_batch_starts_after": "aphrodite",
+ "updated_at": "2026-10-02T03:34:39Z"
 }

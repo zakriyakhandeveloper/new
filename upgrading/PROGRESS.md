@@ -4,39 +4,39 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 700 |
-| Current batch | 7 |
-| Batch range | amaan .. anabia (100) |
-| Verified forms | 575 |
+| Names completed | 800 |
+| Current batch | 8 |
+| Batch range | anaf .. aphrodite (100) |
+| Verified forms | 675 |
 | Unverified forms (no gloss asserted) | 125 |
-| Next batch starts after | anabia |
-| Updated | 2026-10-02T03:30:37Z |
+| Next batch starts after | aphrodite |
+| Updated | 2026-10-02T03:34:39Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 263 |
-| low | 110 |
-| medium | 202 |
+| high | 291 |
+| low | 161 |
+| medium | 223 |
 | unverified | 125 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 505 |
+| Arabic | 588 |
 | Unknown | 124 |
-| Persian | 38 |
+| Persian | 52 |
 | Hebrew | 9 |
 | Turkish | 7 |
-| Sanskrit | 4 |
+| Sanskrit | 6 |
 | Turkic | 4 |
 | Pashto | 2 |
+| Greek | 2 |
 | Yoruba | 1 |
 | Latin | 1 |
 | Irish | 1 |
-| Greek | 1 |
 | Punjabi | 1 |
 | Basque | 1 |
 | Berber | 1 |
@@ -66,3 +66,4 @@
 | 5 | aizat .. alesha | 100 | complete |
 | 6 | alev .. amaal | 100 | complete |
 | 7 | amaan .. anabia | 100 | complete |
+| 8 | anaf .. aphrodite | 100 | complete |
