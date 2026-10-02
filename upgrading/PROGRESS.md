@@ -4,32 +4,32 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 1900 |
-| Current batch | 19 |
-| Batch range | diyaa .. elvina (100) |
-| Verified forms | 1775 |
+| Names completed | 2000 |
+| Current batch | 20 |
+| Batch range | emaad .. fahda (100) |
+| Verified forms | 1875 |
 | Unverified forms (no gloss asserted) | 125 |
-| Next batch starts after | elvina |
-| Updated | 2026-10-02T03:55:50Z |
+| Next batch starts after | fahda |
+| Updated | 2026-10-02T03:58:35Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 899 |
-| low | 437 |
-| medium | 439 |
+| high | 980 |
+| low | 445 |
+| medium | 450 |
 | unverified | 125 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 1364 |
-| Persian | 265 |
-| Unknown | 136 |
-| Hebrew | 44 |
-| Turkish | 27 |
+| Arabic | 1441 |
+| Persian | 268 |
+| Unknown | 141 |
+| Hebrew | 54 |
+| Turkish | 32 |
 | Turkic | 17 |
 | Kurdish | 10 |
 | Sanskrit | 7 |
@@ -85,3 +85,4 @@
 | 17 | cala .. darman | 100 | complete |
 | 18 | daroon .. diya | 100 | complete |
 | 19 | diyaa .. elvina | 100 | complete |
+| 20 | emaad .. fahda | 100 | complete |
