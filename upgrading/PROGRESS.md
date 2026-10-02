@@ -4,35 +4,39 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 300 |
-| Current batch | 3 |
-| Batch range | adeela .. afsar (100) |
-| Verified forms | 235 |
-| Unverified forms (no gloss asserted) | 65 |
-| Next batch starts after | afsar |
-| Updated | 2026-10-02T03:21:36Z |
+| Names completed | 400 |
+| Current batch | 4 |
+| Batch range | afshan .. aizah (100) |
+| Verified forms | 322 |
+| Unverified forms (no gloss asserted) | 78 |
+| Next batch starts after | aizah |
+| Updated | 2026-10-02T03:24:27Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 94 |
-| low | 41 |
-| medium | 100 |
-| unverified | 65 |
+| high | 132 |
+| low | 51 |
+| medium | 139 |
+| unverified | 78 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 213 |
-| Unknown | 64 |
-| Persian | 16 |
-| Hebrew | 2 |
+| Arabic | 278 |
+| Unknown | 77 |
+| Persian | 28 |
+| Turkic | 4 |
+| Hebrew | 3 |
 | Sanskrit | 2 |
+| Pashto | 2 |
+| Turkish | 2 |
 | Yoruba | 1 |
 | Latin | 1 |
-| Pashto | 1 |
+| Irish | 1 |
+| Greek | 1 |
 
 ## Quality gate
 
@@ -55,3 +59,4 @@
 | 1 | aamilah .. aaus | 100 | complete |
 | 2 | aayan .. adeel | 100 | complete |
 | 3 | adeela .. afsar | 100 | complete |
+| 4 | afshan .. aizah | 100 | complete |
