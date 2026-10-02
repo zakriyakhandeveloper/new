@@ -4,34 +4,34 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 3300 |
-| Current batch | 33 |
-| Batch range | jawahar .. kadir (100) |
-| Verified forms | 3143 |
+| Names completed | 3400 |
+| Current batch | 34 |
+| Batch range | kadira .. keyvan (100) |
+| Verified forms | 3243 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | kadir |
-| Updated | 2026-10-02T05:40:00Z |
+| Next batch starts after | keyvan |
+| Updated | 2026-10-02T05:42:50Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 1651 |
-| low | 650 |
-| medium | 842 |
+| high | 1711 |
+| low | 663 |
+| medium | 869 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 2486 |
-| Persian | 432 |
+| Arabic | 2573 |
+| Persian | 443 |
 | Unknown | 204 |
 | Hebrew | 58 |
 | Turkish | 40 |
 | Turkic | 17 |
-| Kurdish | 14 |
+| Kurdish | 15 |
 | Sanskrit | 10 |
 | Greek | 7 |
 | Pashto | 6 |
@@ -53,6 +53,7 @@
 | Spanish | 1 |
 | Dutch | 1 |
 | Chinese | 1 |
+| Western | 1 |
 
 ## Quality gate
 
