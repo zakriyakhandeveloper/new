@@ -4,35 +4,35 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 3200 |
-| Current batch | 32 |
-| Batch range | jabeen .. jawadi (100) |
-| Verified forms | 3043 |
+| Names completed | 3300 |
+| Current batch | 33 |
+| Batch range | jawahar .. kadir (100) |
+| Verified forms | 3143 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | jawadi |
-| Updated | 2026-10-02T05:37:09Z |
+| Next batch starts after | kadir |
+| Updated | 2026-10-02T05:40:00Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 1611 |
-| low | 626 |
-| medium | 806 |
+| high | 1651 |
+| low | 650 |
+| medium | 842 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 2405 |
-| Persian | 420 |
+| Arabic | 2486 |
+| Persian | 432 |
 | Unknown | 204 |
 | Hebrew | 58 |
 | Turkish | 40 |
 | Turkic | 17 |
-| Kurdish | 12 |
-| Sanskrit | 7 |
+| Kurdish | 14 |
+| Sanskrit | 10 |
 | Greek | 7 |
 | Pashto | 6 |
 | Urdu | 3 |
@@ -51,6 +51,8 @@
 | Tamil | 1 |
 | Germanic | 1 |
 | Spanish | 1 |
+| Dutch | 1 |
+| Chinese | 1 |
 
 ## Quality gate
 

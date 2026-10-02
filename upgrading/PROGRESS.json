@@ -3,14 +3,14 @@
  "culture": "islamic",
  "branch": "names-upgraded-v3",
  "total_names_in_slice": 5471,
- "names_completed": 3200,
- "current_batch": 32,
+ "names_completed": 3300,
+ "current_batch": 33,
  "batch_range": {
-  "first": "jabeen",
-  "last": "jawadi",
+  "first": "jawahar",
+  "last": "kadir",
   "count": 100
  },
- "batches_completed": 32,
+ "batches_completed": 33,
  "per_name": [
   {
    "name": "Aamilah",
@@ -32011,20 +32011,1020 @@
    "gender": "Male",
    "manual_review_required": false,
    "reason": null
+  },
+  {
+   "name": "Jawahar",
+   "slug": "jawahar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jawaher",
+   "slug": "jawaher",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jawahir",
+   "slug": "jawahir",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jawaid",
+   "slug": "jawaid",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jawan",
+   "slug": "jawan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jawara",
+   "slug": "jawara",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form جوارة is an established Arabic lexical item. Jawara is recorded at low confidence. The source gave جوارة and glossed the name 'Gentle, Kind'; جَوَارَة "
+  },
+  {
+   "name": "Jawdat",
+   "slug": "jawdat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jawhar",
+   "slug": "jawhar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jawhara",
+   "slug": "jawhara",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jawharat",
+   "slug": "jawharat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jawhari",
+   "slug": "jawhari",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jawid",
+   "slug": "jawid",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jawwad",
+   "slug": "jawwad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jaya",
+   "slug": "jaya",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Sanskrit",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jayed",
+   "slug": "jayed",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jazeera",
+   "slug": "jazeera",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jazi",
+   "slug": "jazi",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form جازي is an established Arabic lexical item. Jazi is recorded at low confidence. The source gave the mixed-script junk form جazi and glossed the name 'G"
+  },
+  {
+   "name": "Jazib",
+   "slug": "jazib",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jazlaan",
+   "slug": "jazlaan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form جزلان is an established Arabic lexical item. Jazlaan is recorded at low confidence. The source gave جزلان and glossed the name 'Glowing Gem'; جَزْلَان "
+  },
+  {
+   "name": "Jazmin",
+   "slug": "jazmin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jeelan",
+   "slug": "jeelan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jeevan",
+   "slug": "jeevan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Sanskrit",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jehad",
+   "slug": "jehad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jehan",
+   "slug": "jehan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jehanzeb",
+   "slug": "jehanzeb",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jemina",
+   "slug": "jemina",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form جمينة is an established Arabic lexical item. Jemina is recorded at low confidence. The source gave جمينة and glossed the name 'Gentle, beautiful'; جَمِ"
+  },
+  {
+   "name": "Jena",
+   "slug": "jena",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jennah",
+   "slug": "jennah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jeroen",
+   "slug": "jeroen",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Dutch",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form يرون is an established Dutch lexical item. Jeroen is recorded at low confidence. The source gave جرون and glossed the name 'Light, bright, shining'; Je"
+  },
+  {
+   "name": "Jian",
+   "slug": "jian",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Chinese",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form جيان is an established Chinese lexical item. Jian is recorded at low confidence. The source gave جن and glossed the name 'Surname: Simple, plain'; Jian"
+  },
+  {
+   "name": "Jibal",
+   "slug": "jibal",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jibrail",
+   "slug": "jibrail",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jibran",
+   "slug": "jibran",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jibreel",
+   "slug": "jibreel",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jibriil",
+   "slug": "jibriil",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jibril",
+   "slug": "jibril",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jidah",
+   "slug": "jidah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form جدة is an established Arabic lexical item. Jidah is recorded at low confidence. The source repeated the Latin string in the Arabic column and glossed t"
+  },
+  {
+   "name": "Jigar",
+   "slug": "jigar",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jihaad",
+   "slug": "jihaad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jihad",
+   "slug": "jihad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jihan",
+   "slug": "jihan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jilan",
+   "slug": "jilan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jilani",
+   "slug": "jilani",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jina",
+   "slug": "jina",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form جينا is an established Arabic lexical item. Jina is recorded at low confidence. The source gave جينة and glossed the name 'Born of great virtue'; جِينَ"
+  },
+  {
+   "name": "Jinan",
+   "slug": "jinan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jirah",
+   "slug": "jirah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form جيرة is an established Arabic lexical item. Jirah is recorded at low confidence. The source gave جيرة and glossed the name 'Peaceful'; جِيرَة (Jīra) is"
+  },
+  {
+   "name": "Jivan",
+   "slug": "jivan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Sanskrit",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jiyan",
+   "slug": "jiyan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Kurdish",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Johar",
+   "slug": "johar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Johara",
+   "slug": "johara",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Johi",
+   "slug": "johi",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form جوهي is an established Arabic lexical item. Johi is recorded at low confidence. The source repeated the Latin string in the Arabic column and glossed t"
+  },
+  {
+   "name": "Jonah",
+   "slug": "jonah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jood",
+   "slug": "jood",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Joodi",
+   "slug": "joodi",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Josha",
+   "slug": "josha",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form جوشا is an established Arabic lexical item. Josha is recorded at low confidence. The source gave جوشا and glossed the name \"God's Gift\"; جُوشَا (Jūshā)"
+  },
+  {
+   "name": "Joud",
+   "slug": "joud",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jouri",
+   "slug": "jouri",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form جوري is an established Arabic lexical item. Jouri is recorded at low confidence. The source record was an 8-key stub with no data; جُورِي (Jūrī) is a d"
+  },
+  {
+   "name": "Jubair",
+   "slug": "jubair",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jubran",
+   "slug": "jubran",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jud",
+   "slug": "jud",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Juda",
+   "slug": "juda",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form جودا is an established Arabic lexical item. Juda is recorded at low confidence. The source repeated the Latin string in the Arabic column and glossed t"
+  },
+  {
+   "name": "Juday",
+   "slug": "juday",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form جدى is an established Arabic lexical item. Juday is recorded at low confidence. The source gave جدى and glossed the name 'Unknown'; جُدَى (Judā) is a d"
+  },
+  {
+   "name": "Jul",
+   "slug": "jul",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form جل is an established Arabic lexical item. Jul is recorded at low confidence. The source gave جل and glossed the name 'Short, little, young'; جُل (Jul) "
+  },
+  {
+   "name": "Jumaa",
+   "slug": "jumaa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jumaat",
+   "slug": "jumaat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jumadi",
+   "slug": "jumadi",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jumah",
+   "slug": "jumah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Juman",
+   "slug": "juman",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jumana",
+   "slug": "jumana",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form جمانة is an established Arabic lexical item. Jumana is recorded at low confidence. The source record was an 8-key stub with no data; جُمَانَة (Jumāna) "
+  },
+  {
+   "name": "Jumanah",
+   "slug": "jumanah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form جمانة is an established Arabic lexical item. Jumanah is recorded at low confidence. The source record was an 8-key stub with no data; جُمَانَة (Jumāna)"
+  },
+  {
+   "name": "Jumman",
+   "slug": "jumman",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jun",
+   "slug": "jun",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form جن is an established Arabic lexical item. Jun is recorded at low confidence. The source record was an 8-key stub with no data; جُن (Jun) is a documente"
+  },
+  {
+   "name": "Junaid",
+   "slug": "junaid",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Junaida",
+   "slug": "junaida",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Junaidah",
+   "slug": "junaidah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Junaina",
+   "slug": "junaina",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Junainah",
+   "slug": "junainah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Junayd",
+   "slug": "junayd",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Juni",
+   "slug": "juni",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form جوني is an established Arabic lexical item. Juni is recorded at low confidence. The source gave جوني and glossed the name 'Moonlight'; جُونِي (Jūnī) is"
+  },
+  {
+   "name": "Junna",
+   "slug": "junna",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Juwairiya",
+   "slug": "juwairiya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Juwan",
+   "slug": "juwan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form جوان is an established Arabic lexical item. Juwan is recorded at low confidence. The source gave جووان and glossed the name 'Yellow'; جُوَان (Juwān) is"
+  },
+  {
+   "name": "Juyal",
+   "slug": "juyal",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form جويال is an established Arabic lexical item. Juyal is recorded at low confidence. The source gave جوال and glossed the name 'Gentle and Joyful'; جُويَا"
+  },
+  {
+   "name": "Juzar",
+   "slug": "juzar",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Juzer",
+   "slug": "juzer",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Jwan",
+   "slug": "jwan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Kurdish",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form جوان is an established Kurdish lexical item. Jwan is recorded at low confidence. The source record was an 8-key stub with no data; جوان (jwan) 'young' "
+  },
+  {
+   "name": "Ka-b",
+   "slug": "ka-b",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Kaab",
+   "slug": "kaab",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Kaamil",
+   "slug": "kaamil",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Kabeer",
+   "slug": "kabeer",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Kabir",
+   "slug": "kabir",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Kabira",
+   "slug": "kabira",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Kadar",
+   "slug": "kadar",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Kaddour",
+   "slug": "kaddour",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Kadeem",
+   "slug": "kadeem",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Kadeen",
+   "slug": "kadeen",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form كادين is an established Arabic lexical item. Kadeen is recorded at low confidence. The source gave كادين and glossed the name 'Pure, Innocent, Beautifu"
+  },
+  {
+   "name": "Kadeer",
+   "slug": "kadeer",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Kader",
+   "slug": "kader",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Kadin",
+   "slug": "kadin",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form كادين is an established Arabic lexical item. Kadin is recorded at low confidence. The source gave كادين and glossed the name 'Servant, helper'; كَادِين"
+  },
+  {
+   "name": "Kadir",
+   "slug": "kadir",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
   }
  ],
  "confidence_summary": {
-  "medium": 806,
-  "high": 1611,
+  "medium": 842,
+  "high": 1651,
   "unverified": 157,
-  "low": 626
+  "low": 650
  },
  "origin_summary": {
-  "Arabic": 2405,
+  "Arabic": 2486,
   "Unknown": 204,
   "Hebrew": 58,
-  "Sanskrit": 7,
-  "Persian": 420,
+  "Sanskrit": 10,
+  "Persian": 432,
   "Yoruba": 1,
   "Latin": 2,
   "Pashto": 6,
@@ -32035,7 +33035,7 @@
   "Punjabi": 2,
   "Basque": 1,
   "Berber": 1,
-  "Kurdish": 12,
+  "Kurdish": 14,
   "Akkadian": 1,
   "Slavic": 1,
   "Indonesian": 2,
@@ -32045,9 +33045,11 @@
   "Somali": 1,
   "Tamil": 1,
   "Germanic": 1,
-  "Spanish": 1
+  "Spanish": 1,
+  "Dutch": 1,
+  "Chinese": 1
  },
- "verified_forms": 3043,
+ "verified_forms": 3143,
  "unverified_forms": 157,
  "quality_gate": {
   "invalid_json": 0,
@@ -32060,6 +33062,6 @@
   "broken_text": 0,
   "total_failures": 0
  },
- "next_batch_starts_after": "jawadi",
- "updated_at": "2026-10-02T05:37:09Z"
+ "next_batch_starts_after": "kadir",
+ "updated_at": "2026-10-02T05:40:00Z"
 }
