@@ -4,29 +4,29 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 3100 |
-| Current batch | 31 |
-| Batch range | inara .. jabbar (100) |
-| Verified forms | 2943 |
+| Names completed | 3200 |
+| Current batch | 32 |
+| Batch range | jabeen .. jawadi (100) |
+| Verified forms | 3043 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | jabbar |
-| Updated | 2026-10-02T05:34:09Z |
+| Next batch starts after | jawadi |
+| Updated | 2026-10-02T05:37:09Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 1563 |
-| low | 607 |
-| medium | 773 |
+| high | 1611 |
+| low | 626 |
+| medium | 806 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 2320 |
-| Persian | 406 |
+| Arabic | 2405 |
+| Persian | 420 |
 | Unknown | 204 |
 | Hebrew | 58 |
 | Turkish | 40 |
@@ -50,6 +50,7 @@
 | Somali | 1 |
 | Tamil | 1 |
 | Germanic | 1 |
+| Spanish | 1 |
 
 ## Quality gate
 
