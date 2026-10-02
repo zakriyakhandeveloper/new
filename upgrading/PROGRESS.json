@@ -3,14 +3,14 @@
  "culture": "islamic",
  "branch": "names-upgraded-v3",
  "total_names_in_slice": 5471,
- "names_completed": 2700,
- "current_batch": 27,
+ "names_completed": 2800,
+ "current_batch": 28,
  "batch_range": {
-  "first": "hakem",
-  "last": "harisa",
+  "first": "harisah",
+  "last": "helai",
   "count": 100
  },
- "batches_completed": 27,
+ "batches_completed": 28,
  "per_name": [
   {
    "name": "Aamilah",
@@ -27011,20 +27011,1020 @@
    "gender": "Female",
    "manual_review_required": true,
    "reason": "The form حريث is an established Arabic lexical item. Harisa is recorded at low confidence. The source gave حريرة ('a kind of porridge') and glossed the name 'ga"
+  },
+  {
+   "name": "Harisah",
+   "slug": "harisah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form حارثة is an established Arabic lexical item. Harisah is recorded at low confidence. The source gave حريزة ('silk', a different word) and glossed the na"
+  },
+  {
+   "name": "Harith",
+   "slug": "harith",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haritha",
+   "slug": "haritha",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hariz",
+   "slug": "hariz",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haroon",
+   "slug": "haroon",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haroun",
+   "slug": "haroun",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Harun",
+   "slug": "harun",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hasan",
+   "slug": "hasan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hasana",
+   "slug": "hasana",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hasanain",
+   "slug": "hasanain",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hasanat",
+   "slug": "hasanat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hasbi",
+   "slug": "hasbi",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haseeb",
+   "slug": "haseeb",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haseem",
+   "slug": "haseem",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form حسيم is an established Arabic lexical item. Haseem is recorded at low confidence. The source gave حسيم and glossed the name 'Generous, Magnificent'; th"
+  },
+  {
+   "name": "Haseen",
+   "slug": "haseen",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haseena",
+   "slug": "haseena",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hasham",
+   "slug": "hasham",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hashan",
+   "slug": "hashan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form هشان is an established Arabic lexical item. Hashan is recorded at low confidence. The source gave حسن (that is hasan) and glossed the name 'Happy'; the"
+  },
+  {
+   "name": "Hashim",
+   "slug": "hashim",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hashimah",
+   "slug": "hashimah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form هشيمة is an established Arabic lexical item. Hashimah is recorded at low confidence. The source gave هشيمة and glossed the name 'Follower of Hashim'; t"
+  },
+  {
+   "name": "Hashimi",
+   "slug": "hashimi",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hashir",
+   "slug": "hashir",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form حشير is an established Arabic lexical item. Hashir is recorded at low confidence. The source gave حشير and glossed the name 'Traveler, Messenger'; the "
+  },
+  {
+   "name": "Hashmat",
+   "slug": "hashmat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hasib",
+   "slug": "hasib",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hasiba",
+   "slug": "hasiba",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form حسيبة is an established Arabic lexical item. Hasiba is recorded at low confidence. The source gave حسينة (that is haseena) and glossed the name 'Blosso"
+  },
+  {
+   "name": "Hasif",
+   "slug": "hasif",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form حاسف is an established Arabic lexical item. Hasif is recorded at low confidence. The source gave حاسف and glossed the name 'Gifted, Generous'; the form"
+  },
+  {
+   "name": "Hasil",
+   "slug": "hasil",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hasim",
+   "slug": "hasim",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hasin",
+   "slug": "hasin",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hasina",
+   "slug": "hasina",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hasinah",
+   "slug": "hasinah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hasna",
+   "slug": "hasna",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hasnaa",
+   "slug": "hasnaa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hasnah",
+   "slug": "hasnah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hasnain",
+   "slug": "hasnain",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hasnat",
+   "slug": "hasnat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hasoun",
+   "slug": "hasoun",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form حسون is an established Arabic lexical item. Hasoun is recorded at low confidence. The source gave حسون and glossed the name 'Gift, Blessing'; حَسُّون ("
+  },
+  {
+   "name": "Hasrat",
+   "slug": "hasrat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hassaan",
+   "slug": "hassaan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hassam",
+   "slug": "hassam",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hassan",
+   "slug": "hassan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hassana",
+   "slug": "hassana",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hassib",
+   "slug": "hassib",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hassiba",
+   "slug": "hassiba",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form حسيبة is an established Arabic lexical item. Hassiba is recorded at low confidence. The source gave حسيبة and glossed the name 'Gifted one'; حَسِيبَة ("
+  },
+  {
+   "name": "Hassina",
+   "slug": "hassina",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hassnain",
+   "slug": "hassnain",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hassun",
+   "slug": "hassun",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form حسن is an established Arabic lexical item. Hassun is recorded at low confidence. The source gave حسن and glossed the name 'Gift'; the form is likely a "
+  },
+  {
+   "name": "Hatam",
+   "slug": "hatam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hatem",
+   "slug": "hatem",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hatim",
+   "slug": "hatim",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hattab",
+   "slug": "hattab",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haula",
+   "slug": "haula",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form حولة is an established Arabic lexical item. Haula is recorded at low confidence. The source gave حولة and glossed the name 'Easy going, simple'; حَوْلَ"
+  },
+  {
+   "name": "Hawa",
+   "slug": "hawa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hawah",
+   "slug": "hawah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hawari",
+   "slug": "hawari",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hawas",
+   "slug": "hawas",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hawla",
+   "slug": "hawla",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form حولة is an established Arabic lexical item. Hawla is recorded at low confidence. The source gave هولة and glossed the name 'Revolving, continuous'; the"
+  },
+  {
+   "name": "Hawra",
+   "slug": "hawra",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hawraa",
+   "slug": "hawraa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hawwa",
+   "slug": "hawwa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hawwaa",
+   "slug": "hawwaa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haya",
+   "slug": "haya",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hayaa",
+   "slug": "hayaa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hayaat",
+   "slug": "hayaat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hayal",
+   "slug": "hayal",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form هيال is an established Arabic lexical item. Hayal is recorded at low confidence. The source gave هيال and glossed the name 'Imagination'; the form is u"
+  },
+  {
+   "name": "Hayam",
+   "slug": "hayam",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form هيام is an established Arabic lexical item. Hayam is recorded at low confidence. The source gave no Arabic form and glossed the name 'Life, Existence';"
+  },
+  {
+   "name": "Hayat",
+   "slug": "hayat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hayati",
+   "slug": "hayati",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haydar",
+   "slug": "haydar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haydara",
+   "slug": "haydara",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form حيدرة is an established Arabic lexical item. Haydara is recorded at low confidence. The source gave هايدارا (non-standard) and glossed the name 'Gazell"
+  },
+  {
+   "name": "Hayder",
+   "slug": "hayder",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hayet",
+   "slug": "hayet",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hayfa",
+   "slug": "hayfa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hayfaa",
+   "slug": "hayfaa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hayl",
+   "slug": "hayl",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form هيل is an established Arabic lexical item. Hayl is recorded at low confidence. The source gave هيل and glossed the name 'Life, Existence'; the form هَي"
+  },
+  {
+   "name": "Haysam",
+   "slug": "haysam",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haytham",
+   "slug": "haytham",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hayyan",
+   "slug": "hayyan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haza",
+   "slug": "haza",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form حازة is an established Arabic lexical item. Haza is recorded at low confidence. The source gave حز and glossed the name 'Gift, Treasure'; the form is u"
+  },
+  {
+   "name": "Hazal",
+   "slug": "hazal",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form هزال is an established Arabic lexical item. Hazal is recorded at low confidence. The source gave هزال and glossed the name 'Flower'; the form هُزَال (H"
+  },
+  {
+   "name": "Hazar",
+   "slug": "hazar",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form حذر is an established Arabic lexical item. Hazar is recorded at low confidence. The source gave هازر and glossed the name 'Thousands'; the form حَذَر ("
+  },
+  {
+   "name": "Hazeem",
+   "slug": "hazeem",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form حزيم is an established Arabic lexical item. Hazeem is recorded at low confidence. The source gave حزيم and glossed the name 'Vigilant, Watchful, Protec"
+  },
+  {
+   "name": "Hazem",
+   "slug": "hazem",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hazim",
+   "slug": "hazim",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haziq",
+   "slug": "haziq",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Haziqah",
+   "slug": "haziqah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hazir",
+   "slug": "hazir",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hazirah",
+   "slug": "hazirah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form حاضرة is an established Arabic lexical item. Hazirah is recorded at low confidence. The source gave حاذرة (non-standard) and glossed the name 'Ready, P"
+  },
+  {
+   "name": "Haziran",
+   "slug": "haziran",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form حزيران is an established Arabic lexical item. Haziran is recorded at low confidence. حَزِيرَان (Ḥazīrān) is the name of a month (June) in the Levantine"
+  },
+  {
+   "name": "Hazm",
+   "slug": "hazm",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hazra",
+   "slug": "hazra",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form حزرى is an established Arabic lexical item. Hazra is recorded at low confidence. The source gave حزرى and glossed the name 'Blessed one'; the form is u"
+  },
+  {
+   "name": "Hazrat",
+   "slug": "hazrat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hazwan",
+   "slug": "hazwan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form حزوان is an established Arabic lexical item. Hazwan is recorded at low confidence. The source gave حزوان and glossed the name 'Gift, blessing'; the for"
+  },
+  {
+   "name": "Heba",
+   "slug": "heba",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hebba",
+   "slug": "hebba",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hedaya",
+   "slug": "hedaya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hedayat",
+   "slug": "hedayat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hedi",
+   "slug": "hedi",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Heela",
+   "slug": "heela",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Helai",
+   "slug": "helai",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form هلاء is an established Arabic lexical item. Helai is recorded at low confidence. The source gave هلاء and glossed the name 'Light, Moon'; the form هَلَ"
   }
  ],
  "confidence_summary": {
-  "medium": 596,
-  "high": 1430,
+  "medium": 645,
+  "high": 1456,
   "unverified": 157,
-  "low": 517
+  "low": 542
  },
  "origin_summary": {
-  "Arabic": 1950,
+  "Arabic": 2048,
   "Unknown": 204,
   "Hebrew": 56,
   "Sanskrit": 7,
-  "Persian": 387,
+  "Persian": 389,
   "Yoruba": 1,
   "Latin": 2,
   "Pashto": 5,
@@ -27043,7 +28043,7 @@
   "Hindi": 3,
   "English": 1
  },
- "verified_forms": 2543,
+ "verified_forms": 2643,
  "unverified_forms": 157,
  "quality_gate": {
   "invalid_json": 0,
@@ -27056,6 +28056,6 @@
   "broken_text": 0,
   "total_failures": 0
  },
- "next_batch_starts_after": "harisa",
- "updated_at": "2026-10-02T05:15:00Z"
+ "next_batch_starts_after": "helai",
+ "updated_at": "2026-10-02T05:24:04Z"
 }

@@ -4,29 +4,29 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 2700 |
-| Current batch | 27 |
-| Batch range | hakem .. harisa (100) |
-| Verified forms | 2543 |
+| Names completed | 2800 |
+| Current batch | 28 |
+| Batch range | harisah .. helai (100) |
+| Verified forms | 2643 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | harisa |
-| Updated | 2026-10-02T05:15:00Z |
+| Next batch starts after | helai |
+| Updated | 2026-10-02T05:24:04Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 1430 |
-| low | 517 |
-| medium | 596 |
+| high | 1456 |
+| low | 542 |
+| medium | 645 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 1950 |
-| Persian | 387 |
+| Arabic | 2048 |
+| Persian | 389 |
 | Unknown | 204 |
 | Hebrew | 56 |
 | Turkish | 37 |
@@ -93,3 +93,4 @@
 | 25 | ghaffar .. guzel | 100 | complete |
 | 26 | haadee .. hakeema | 100 | complete |
 | 27 | hakem .. harisa | 100 | complete |
+| 28 | harisah .. helai | 100 | complete |
