@@ -4,44 +4,46 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 1500 |
-| Current batch | 15 |
-| Batch range | baraa .. bazla (100) |
-| Verified forms | 1375 |
+| Names completed | 1600 |
+| Current batch | 16 |
+| Batch range | bazlul .. caitlyn (100) |
+| Verified forms | 1475 |
 | Unverified forms (no gloss asserted) | 125 |
-| Next batch starts after | bazla |
-| Updated | 2026-10-02T03:46:56Z |
+| Next batch starts after | caitlyn |
+| Updated | 2026-10-02T03:48:41Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 605 |
-| low | 388 |
-| medium | 382 |
+| high | 690 |
+| low | 399 |
+| medium | 386 |
 | unverified | 125 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 1154 |
-| Persian | 155 |
+| Arabic | 1200 |
+| Persian | 190 |
 | Unknown | 124 |
-| Turkish | 16 |
-| Hebrew | 13 |
-| Turkic | 13 |
-| Kurdish | 7 |
+| Turkish | 19 |
+| Turkic | 17 |
+| Hebrew | 16 |
+| Kurdish | 9 |
+| Greek | 7 |
 | Sanskrit | 6 |
-| Greek | 3 |
 | Pashto | 2 |
+| Irish | 2 |
 | Yoruba | 1 |
 | Latin | 1 |
-| Irish | 1 |
 | Punjabi | 1 |
 | Basque | 1 |
 | Berber | 1 |
 | Akkadian | 1 |
+| Slavic | 1 |
+| Indonesian | 1 |
 
 ## Quality gate
 
@@ -76,3 +78,4 @@
 | 13 | ayyub .. badawi | 100 | complete |
 | 14 | badee .. bara | 100 | complete |
 | 15 | baraa .. bazla | 100 | complete |
+| 16 | bazlul .. caitlyn | 100 | complete |

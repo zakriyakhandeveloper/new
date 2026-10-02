@@ -3,14 +3,14 @@
  "culture": "islamic",
  "branch": "names-upgraded-v3",
  "total_names_in_slice": 5471,
- "names_completed": 1500,
- "current_batch": 15,
+ "names_completed": 1600,
+ "current_batch": 16,
  "batch_range": {
-  "first": "baraa",
-  "last": "bazla",
+  "first": "bazlul",
+  "last": "caitlyn",
   "count": 100
  },
- "batches_completed": 15,
+ "batches_completed": 16,
  "per_name": [
   {
    "name": "Aamilah",
@@ -15011,34 +15011,1036 @@
    "gender": "Female",
    "manual_review_required": true,
    "reason": "The form بزلة is an established Arabic lexical item. The source record's gloss 'Jasmine flower' could not be matched to a Tier-A/B lexical source. The identific"
+  },
+  {
+   "name": "Bazlul",
+   "slug": "bazlul",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form بذل ال is an established Arabic lexical item. The source record's gloss 'Protector of the Faith' could not be matched to a Tier-A/B lexical source. The"
+  },
+  {
+   "name": "Bazlur",
+   "slug": "bazlur",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form بذل الرحمن is an established Arabic lexical item. The source record's gloss 'Protector, Strong One' could not be matched to a Tier-A/B lexical source. "
+  },
+  {
+   "name": "Bebars",
+   "slug": "bebars",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Beena",
+   "slug": "beena",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Beenish",
+   "slug": "beenish",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Beg",
+   "slug": "beg",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Begum",
+   "slug": "begum",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Behboud",
+   "slug": "behboud",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Behdad",
+   "slug": "behdad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Behdokht",
+   "slug": "behdokht",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Behija",
+   "slug": "behija",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Behjat",
+   "slug": "behjat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Behnam",
+   "slug": "behnam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Behnaz",
+   "slug": "behnaz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Behrad",
+   "slug": "behrad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Behram",
+   "slug": "behram",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Behrang",
+   "slug": "behrang",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Behrokh",
+   "slug": "behrokh",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Behrouz",
+   "slug": "behrouz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Behroz",
+   "slug": "behroz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Behruz",
+   "slug": "behruz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Behsa",
+   "slug": "behsa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form بهسا is an established Persian lexical item. The source record's gloss 'Joyful, Radiant' could not be matched to a Tier-A/B lexical source. The form is"
+  },
+  {
+   "name": "Behshad",
+   "slug": "behshad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Behshid",
+   "slug": "behshid",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form بهشید is an established Persian lexical item. The source record's gloss 'God is with him' could not be matched to a Tier-A/B lexical source. The form i"
+  },
+  {
+   "name": "Behtash",
+   "slug": "behtash",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Behy",
+   "slug": "behy",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Behzad",
+   "slug": "behzad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bekir",
+   "slug": "bekir",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Belal",
+   "slug": "belal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Belkis",
+   "slug": "belkis",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Benazeer",
+   "slug": "benazeer",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Benazir",
+   "slug": "benazir",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Benish",
+   "slug": "benish",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form بنش is an established Arabic lexical item. The source record's gloss 'Bountiful, Generous' could not be matched to a Tier-A/B lexical source. The ident"
+  },
+  {
+   "name": "Benyamin",
+   "slug": "benyamin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Beram",
+   "slug": "beram",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form برام is an established Arabic lexical item. The source record's gloss 'Light, Bright' could not be matched to a Tier-A/B lexical source. The identifica"
+  },
+  {
+   "name": "Berfin",
+   "slug": "berfin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Kurdish",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Berka",
+   "slug": "berka",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Besharat",
+   "slug": "besharat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Beshr",
+   "slug": "beshr",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Betool",
+   "slug": "betool",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bibi",
+   "slug": "bibi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bidar",
+   "slug": "bidar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bihar",
+   "slug": "bihar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bijan",
+   "slug": "bijan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bilaal",
+   "slug": "bilaal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bilal",
+   "slug": "bilal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bilawal",
+   "slug": "bilawal",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Billah",
+   "slug": "billah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Billal",
+   "slug": "billal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bilqees",
+   "slug": "bilqees",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bilqis",
+   "slug": "bilqis",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bilquis",
+   "slug": "bilquis",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bilyana",
+   "slug": "bilyana",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Slavic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bina",
+   "slug": "bina",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Binesh",
+   "slug": "binesh",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Binish",
+   "slug": "binish",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Binte",
+   "slug": "binte",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Binyamin",
+   "slug": "binyamin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Biryar",
+   "slug": "biryar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Kurdish",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bisar",
+   "slug": "bisar",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form بسار is an established Arabic lexical item. The source record's gloss 'Breeze, gentle wind' could not be matched to a Tier-A/B lexical source. The iden"
+  },
+  {
+   "name": "Bisharat",
+   "slug": "bisharat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bishr",
+   "slug": "bishr",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bisma",
+   "slug": "bisma",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bita",
+   "slug": "bita",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bizhan",
+   "slug": "bizhan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Boaz",
+   "slug": "boaz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Borna",
+   "slug": "borna",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Borumand",
+   "slug": "borumand",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Borzou",
+   "slug": "borzou",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bostan",
+   "slug": "bostan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Botros",
+   "slug": "botros",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Greek",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Boulos",
+   "slug": "boulos",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Greek",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bouzid",
+   "slug": "bouzid",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form بوزيد is an established Arabic lexical item. The source record's gloss 'The one who guards, protects' could not be matched to a Tier-A/B lexical source"
+  },
+  {
+   "name": "Bozorg",
+   "slug": "bozorg",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bozorgmehr",
+   "slug": "bozorgmehr",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Brahin",
+   "slug": "brahin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Buddah",
+   "slug": "buddah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form بداح is an established Arabic lexical item. The source record's gloss 'Gift of Allah' could not be matched to a Tier-A/B lexical source. The identifica"
+  },
+  {
+   "name": "Bukhari",
+   "slug": "bukhari",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bulbul",
+   "slug": "bulbul",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bulus",
+   "slug": "bulus",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Greek",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bunyad",
+   "slug": "bunyad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Burak",
+   "slug": "burak",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Buraq",
+   "slug": "buraq",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Burhan",
+   "slug": "burhan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Burhani",
+   "slug": "burhani",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Burj",
+   "slug": "burj",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Burum",
+   "slug": "burum",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form بروم is an established Arabic lexical item. The source record's gloss 'Mountain' could not be matched to a Tier-A/B lexical source. The identification "
+  },
+  {
+   "name": "Buse",
+   "slug": "buse",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bushira",
+   "slug": "bushira",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bushra",
+   "slug": "bushra",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bushraa",
+   "slug": "bushraa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Buthaina",
+   "slug": "buthaina",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Buthainah",
+   "slug": "buthainah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Buthayna",
+   "slug": "buthayna",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Buthaynah",
+   "slug": "buthaynah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Butrus",
+   "slug": "butrus",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Greek",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Cafer",
+   "slug": "cafer",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Cagatay",
+   "slug": "cagatay",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Cahyani",
+   "slug": "cahyani",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Indonesian",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form چاهیانی is an established Indonesian lexical item. The source record's gloss 'Graceful, elegant' could not be matched to a Tier-A/B lexical source. The"
+  },
+  {
+   "name": "Caitlyn",
+   "slug": "caitlyn",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Irish",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
   }
  ],
  "confidence_summary": {
-  "medium": 382,
-  "high": 605,
+  "medium": 386,
+  "high": 690,
   "unverified": 125,
-  "low": 388
+  "low": 399
  },
  "origin_summary": {
-  "Arabic": 1154,
+  "Arabic": 1200,
   "Unknown": 124,
-  "Hebrew": 13,
+  "Hebrew": 16,
   "Sanskrit": 6,
-  "Persian": 155,
+  "Persian": 190,
   "Yoruba": 1,
   "Latin": 1,
   "Pashto": 2,
-  "Turkish": 16,
-  "Turkic": 13,
-  "Irish": 1,
-  "Greek": 3,
+  "Turkish": 19,
+  "Turkic": 17,
+  "Irish": 2,
+  "Greek": 7,
   "Punjabi": 1,
   "Basque": 1,
   "Berber": 1,
-  "Kurdish": 7,
-  "Akkadian": 1
+  "Kurdish": 9,
+  "Akkadian": 1,
+  "Slavic": 1,
+  "Indonesian": 1
  },
- "verified_forms": 1375,
+ "verified_forms": 1475,
  "unverified_forms": 125,
  "quality_gate": {
   "invalid_json": 0,
@@ -15051,6 +16053,6 @@
   "broken_text": 0,
   "total_failures": 0
  },
- "next_batch_starts_after": "bazla",
- "updated_at": "2026-10-02T03:46:56Z"
+ "next_batch_starts_after": "caitlyn",
+ "updated_at": "2026-10-02T03:48:41Z"
 }
