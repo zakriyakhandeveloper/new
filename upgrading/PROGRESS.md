@@ -4,29 +4,29 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 3700 |
-| Current batch | 37 |
-| Batch range | libas .. mahfooz (100) |
-| Verified forms | 3543 |
+| Names completed | 3800 |
+| Current batch | 38 |
+| Batch range | mahfoud .. mamnoon (100) |
+| Verified forms | 3643 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | mahfooz |
-| Updated | 2026-10-02T05:50:03Z |
+| Next batch starts after | mamnoon |
+| Updated | 2026-10-02T05:52:41Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 1933 |
-| low | 683 |
-| medium | 927 |
+| high | 2014 |
+| low | 689 |
+| medium | 940 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 2835 |
-| Persian | 475 |
+| Arabic | 2914 |
+| Persian | 495 |
 | Unknown | 204 |
 | Hebrew | 58 |
 | Turkish | 40 |
@@ -34,7 +34,7 @@
 | Kurdish | 15 |
 | Sanskrit | 10 |
 | Greek | 8 |
-| Pashto | 6 |
+| Pashto | 7 |
 | Punjabi | 3 |
 | Urdu | 3 |
 | Hindi | 3 |
