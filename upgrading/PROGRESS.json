@@ -3,14 +3,14 @@
  "culture": "islamic",
  "branch": "names-upgraded-v3",
  "total_names_in_slice": 5471,
- "names_completed": 1000,
- "current_batch": 10,
+ "names_completed": 1100,
+ "current_batch": 11,
  "batch_range": {
-  "first": "arsala",
-  "last": "asima",
+  "first": "asimah",
+  "last": "aurangzeb",
   "count": 100
  },
- "batches_completed": 10,
+ "batches_completed": 11,
  "per_name": [
   {
    "name": "Aamilah",
@@ -10011,34 +10011,1034 @@
    "gender": "Female",
    "manual_review_required": false,
    "reason": null
+  },
+  {
+   "name": "Asimah",
+   "slug": "asimah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عاصمة is an established Arabic lexical item. The source record's gloss 'Companion, Friend' could not be matched to a Tier-A/B lexical source. The form "
+  },
+  {
+   "name": "Asir",
+   "slug": "asir",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أسير is an established Arabic lexical item. The source record's gloss 'Strong, Firm' could not be matched to a Tier-A/B lexical source. The form أسير m"
+  },
+  {
+   "name": "Asiya",
+   "slug": "asiya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Asiyah",
+   "slug": "asiyah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Asiyeh",
+   "slug": "asiyeh",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Asjad",
+   "slug": "asjad",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أسجد is an established Arabic lexical item. The source record's gloss 'Defender, Fighter, Protector' could not be matched to a Tier-A/B lexical source."
+  },
+  {
+   "name": "Askar",
+   "slug": "askar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Askari",
+   "slug": "askari",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Asker",
+   "slug": "asker",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Asla",
+   "slug": "asla",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أصلى is an established Arabic lexical item. The source record's gloss 'Submission to Allah' could not be matched to a Tier-A/B lexical source. The form"
+  },
+  {
+   "name": "Aslam",
+   "slug": "aslam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aslan",
+   "slug": "aslan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Turkic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Asli",
+   "slug": "asli",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Asliha",
+   "slug": "asliha",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أصليحة is an established Arabic lexical item. The source record's gloss 'Authentic, Sincere' could not be matched to a Tier-A/B lexical source. The for"
+  },
+  {
+   "name": "Asma",
+   "slug": "asma",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Asmaa",
+   "slug": "asmaa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Asmae",
+   "slug": "asmae",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Asmaee",
+   "slug": "asmaee",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أسمائية is an established Arabic lexical item. The source record's gloss 'Mother of a Scatterer' could not be matched to a Tier-A/B lexical source. The"
+  },
+  {
+   "name": "Asmaeel",
+   "slug": "asmaeel",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form إسماعيل is an established Arabic lexical item. The source record's gloss 'Lion, the brave one' could not be matched to a Tier-A/B lexical source. The f"
+  },
+  {
+   "name": "Asmahan",
+   "slug": "asmahan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أسمهان is an established Arabic lexical item. The source record's gloss 'Gift of God' could not be matched to a Tier-A/B lexical source. The form أسمها"
+  },
+  {
+   "name": "Asman",
+   "slug": "asman",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Asmar",
+   "slug": "asmar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Asmara",
+   "slug": "asmara",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أسمارا is an established Arabic lexical item. The source record's gloss 'Love, Passion, Desire' could not be matched to a Tier-A/B lexical source. The "
+  },
+  {
+   "name": "Asmaraa",
+   "slug": "asmaraa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أسمارا is an established Arabic lexical item. The source record's gloss 'Lover' could not be matched to a Tier-A/B lexical source. The identification i"
+  },
+  {
+   "name": "Asmat",
+   "slug": "asmat",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عصمت is an established Arabic lexical item. The source record's gloss 'Heat' could not be matched to a Tier-A/B lexical source. The form عصمت means 'ch"
+  },
+  {
+   "name": "Asna",
+   "slug": "asna",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أسنى is an established Arabic lexical item. The source record's gloss 'Grace, beauty, purity' could not be matched to a Tier-A/B lexical source. The fo"
+  },
+  {
+   "name": "Aso",
+   "slug": "aso",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عسو is an established Arabic lexical item. The source record's gloss 'Help or Support' could not be matched to a Tier-A/B lexical source. The identific"
+  },
+  {
+   "name": "Asr",
+   "slug": "asr",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Asra",
+   "slug": "asra",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Asrar",
+   "slug": "asrar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Asreen",
+   "slug": "asreen",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form آسرین is an established Persian lexical item. The source record's gloss 'Green, verdant' could not be matched to a Tier-A/B lexical source. The form is"
+  },
+  {
+   "name": "Assia",
+   "slug": "assia",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Astan",
+   "slug": "astan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Asteer",
+   "slug": "asteer",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أستير is an established Arabic lexical item. The source record's gloss 'Star, constellation' could not be matched to a Tier-A/B lexical source. The ide"
+  },
+  {
+   "name": "Asu",
+   "slug": "asu",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Kurdish",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Asuda",
+   "slug": "asuda",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aswad",
+   "slug": "aswad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Asya",
+   "slug": "asya",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Asyaf",
+   "slug": "asyaf",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أسياف is an established Arabic lexical item. The source record's gloss 'Helpful, Supportive' could not be matched to a Tier-A/B lexical source. The for"
+  },
+  {
+   "name": "Asyam",
+   "slug": "asyam",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أصيام is an established Arabic lexical item. The source record's gloss 'Help or Support' could not be matched to a Tier-A/B lexical source. The form أص"
+  },
+  {
+   "name": "Asyiqin",
+   "slug": "asyiqin",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Asyraf",
+   "slug": "asyraf",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أشرف is an established Arabic lexical item. The source record's gloss 'Lion' could not be matched to a Tier-A/B lexical source. The form أشرف means 'no"
+  },
+  {
+   "name": "Asyura",
+   "slug": "asyura",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ata",
+   "slug": "ata",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ataa",
+   "slug": "ataa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Atabak",
+   "slug": "atabak",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Atah",
+   "slug": "atah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Atal",
+   "slug": "atal",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form أطل is an established Arabic lexical item. The source record's gloss 'At the river' could not be matched to a Tier-A/B lexical source. The identificati"
+  },
+  {
+   "name": "Atallah",
+   "slug": "atallah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Atash",
+   "slug": "atash",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عطش is an established Arabic lexical item. The source record's gloss 'Fire' could not be matched to a Tier-A/B lexical source. The form عطش means 'thir"
+  },
+  {
+   "name": "Ataya",
+   "slug": "ataya",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Atbin",
+   "slug": "atbin",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عطبين is an established Arabic lexical item. The source record's gloss 'Gift from Allah' could not be matched to a Tier-A/B lexical source. The identif"
+  },
+  {
+   "name": "Ateef",
+   "slug": "ateef",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ateek",
+   "slug": "ateek",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عتيق is an established Arabic lexical item. The source record's gloss 'Strong, Powerful' could not be matched to a Tier-A/B lexical source. The form عت"
+  },
+  {
+   "name": "Ateeq",
+   "slug": "ateeq",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ateeqah",
+   "slug": "ateeqah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Atefeh",
+   "slug": "atefeh",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عطيفة is an established Arabic lexical item. The source record's gloss 'Noble One' could not be matched to a Tier-A/B lexical source. The form عطيفة me"
+  },
+  {
+   "name": "Atf",
+   "slug": "atf",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form عطف is an established Arabic lexical item. The source record's gloss 'Gift' could not be matched to a Tier-A/B lexical source. The form عطف means 'kind"
+  },
+  {
+   "name": "Atha",
+   "slug": "atha",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عطاء is an established Arabic lexical item. The source record's gloss 'Given' could not be matched to a Tier-A/B lexical source. The identification is "
+  },
+  {
+   "name": "Athar",
+   "slug": "athar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Athari",
+   "slug": "athari",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أثري is an established Arabic lexical item. The source record's gloss 'Radiant, shining' could not be matched to a Tier-A/B lexical source. The form أث"
+  },
+  {
+   "name": "Atheel",
+   "slug": "atheel",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Atheer",
+   "slug": "atheer",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form أثير is an established Arabic lexical item. The source record's gloss 'Clouds of fragrance' could not be matched to a Tier-A/B lexical source. The form"
+  },
+  {
+   "name": "Ather",
+   "slug": "ather",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أثير is an established Arabic lexical item. The source record's gloss 'Sky, Firmament' could not be matched to a Tier-A/B lexical source. The identific"
+  },
+  {
+   "name": "Athif",
+   "slug": "athif",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عطيف is an established Arabic lexical item. The source record's gloss 'Breath, Sigh' could not be matched to a Tier-A/B lexical source. The form عطيف m"
+  },
+  {
+   "name": "Athilah",
+   "slug": "athilah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Athir",
+   "slug": "athir",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أثير is an established Arabic lexical item. The source record's gloss 'Moon, Stars' could not be matched to a Tier-A/B lexical source. The identificati"
+  },
+  {
+   "name": "Athiyya",
+   "slug": "athiyya",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عطية is an established Arabic lexical item. The source record's gloss 'Follower of God' could not be matched to a Tier-A/B lexical source. The form عطي"
+  },
+  {
+   "name": "Atia",
+   "slug": "atia",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Atif",
+   "slug": "atif",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Atifa",
+   "slug": "atifa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Atifah",
+   "slug": "atifah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عاطفة is an established Arabic lexical item. The source record's gloss 'Giver of gifts' could not be matched to a Tier-A/B lexical source. The form عاط"
+  },
+  {
+   "name": "Atik",
+   "slug": "atik",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عاتق is an established Arabic lexical item. The source record's gloss 'Strong, Powerful' could not be matched to a Tier-A/B lexical source. The form عا"
+  },
+  {
+   "name": "Atika",
+   "slug": "atika",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Atikah",
+   "slug": "atikah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Atila",
+   "slug": "atila",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عتيلة is an established Arabic lexical item. The source record's gloss 'Invincible, unconquerable' could not be matched to a Tier-A/B lexical source. T"
+  },
+  {
+   "name": "Atiq",
+   "slug": "atiq",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Atiqa",
+   "slug": "atiqa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Atiqah",
+   "slug": "atiqah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Atir",
+   "slug": "atir",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عاطر is an established Arabic lexical item. The source record's gloss 'Glowing, Bright, Radiant' could not be matched to a Tier-A/B lexical source. The"
+  },
+  {
+   "name": "Atirah",
+   "slug": "atirah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عطرة is an established Arabic lexical item. The source record's gloss 'Delight, Pleasure' could not be matched to a Tier-A/B lexical source. The form ع"
+  },
+  {
+   "name": "Atiya",
+   "slug": "atiya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Atiyah",
+   "slug": "atiyah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Atoosa",
+   "slug": "atoosa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عطوسة is an established Arabic lexical item. The source record's gloss 'Decorated, Precious' could not be matched to a Tier-A/B lexical source. The ide"
+  },
+  {
+   "name": "Attaa",
+   "slug": "attaa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form عطاء is an established Arabic lexical item. The source record's gloss 'Father, or present' could not be matched to a Tier-A/B lexical source. The form "
+  },
+  {
+   "name": "Attaf",
+   "slug": "attaf",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form عطاف is an established Arabic lexical item. The source record's gloss 'Given by God' could not be matched to a Tier-A/B lexical source. The form عطاف m"
+  },
+  {
+   "name": "Attar",
+   "slug": "attar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Attiq",
+   "slug": "attiq",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Attiya",
+   "slug": "attiya",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عطية is an established Arabic lexical item. The source record's gloss 'Support, helper' could not be matched to a Tier-A/B lexical source. The form عطي"
+  },
+  {
+   "name": "Atusa",
+   "slug": "atusa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Atwa",
+   "slug": "atwa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form عطوة is an established Arabic lexical item. The source record's gloss 'Support, Aid' could not be matched to a Tier-A/B lexical source. The identificat"
+  },
+  {
+   "name": "Atyab",
+   "slug": "atyab",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form أطيب is an established Arabic lexical item. The source record's gloss 'Strong, Brave' could not be matched to a Tier-A/B lexical source. The form أطيب "
+  },
+  {
+   "name": "Atyaf",
+   "slug": "atyaf",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أطياف is an established Arabic lexical item. The source record's gloss 'Gift from Allah' could not be matched to a Tier-A/B lexical source. The form أط"
+  },
+  {
+   "name": "Aufa",
+   "slug": "aufa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أوفى is an established Arabic lexical item. The source record's gloss 'Worshipper' could not be matched to a Tier-A/B lexical source. The form أوفى mea"
+  },
+  {
+   "name": "Aula",
+   "slug": "aula",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form أولى is an established Arabic lexical item. The source record's gloss 'Knowledge, Wisdom' could not be matched to a Tier-A/B lexical source. The form أ"
+  },
+  {
+   "name": "Aulia",
+   "slug": "aulia",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Auliya",
+   "slug": "auliya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aun",
+   "slug": "aun",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aurang",
+   "slug": "aurang",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Aurangzeb",
+   "slug": "aurangzeb",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
   }
  ],
  "confidence_summary": {
-  "medium": 273,
-  "high": 360,
+  "medium": 299,
+  "high": 389,
   "unverified": 125,
-  "low": 242
+  "low": 287
  },
  "origin_summary": {
-  "Arabic": 741,
+  "Arabic": 830,
   "Unknown": 124,
   "Hebrew": 9,
   "Sanskrit": 6,
-  "Persian": 91,
+  "Persian": 99,
   "Yoruba": 1,
   "Latin": 1,
   "Pashto": 2,
   "Turkish": 7,
-  "Turkic": 8,
+  "Turkic": 10,
   "Irish": 1,
   "Greek": 3,
   "Punjabi": 1,
   "Basque": 1,
   "Berber": 1,
-  "Kurdish": 2,
+  "Kurdish": 3,
   "Akkadian": 1
  },
- "verified_forms": 875,
+ "verified_forms": 975,
  "unverified_forms": 125,
  "quality_gate": {
   "invalid_json": 0,
@@ -10051,6 +11051,6 @@
   "broken_text": 0,
   "total_failures": 0
  },
- "next_batch_starts_after": "asima",
- "updated_at": "2026-10-02T03:37:52Z"
+ "next_batch_starts_after": "aurangzeb",
+ "updated_at": "2026-10-02T03:39:26Z"
 }
