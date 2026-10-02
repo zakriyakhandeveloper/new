@@ -4,32 +4,32 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 3800 |
-| Current batch | 38 |
-| Batch range | mahfoud .. mamnoon (100) |
-| Verified forms | 3643 |
+| Names completed | 3900 |
+| Current batch | 39 |
+| Batch range | mamoona .. mashooq (100) |
+| Verified forms | 3743 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | mamnoon |
-| Updated | 2026-10-02T05:52:41Z |
+| Next batch starts after | mashooq |
+| Updated | 2026-10-02T05:55:43Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 2014 |
-| low | 689 |
-| medium | 940 |
+| high | 2096 |
+| low | 700 |
+| medium | 947 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 2914 |
-| Persian | 495 |
+| Arabic | 3010 |
+| Persian | 498 |
 | Unknown | 204 |
 | Hebrew | 58 |
-| Turkish | 40 |
+| Turkish | 41 |
 | Turkic | 18 |
 | Kurdish | 15 |
 | Sanskrit | 10 |
@@ -73,32 +73,42 @@
 
 | Batch | Range | Count | Status |
 |---|---|---|---|
-| 1 | aamilah .. aaus | 100 | complete |
-| 2 | aayan .. adeel | 100 | complete |
-| 3 | adeela .. afsar | 100 | complete |
-| 4 | afshan .. aizah | 100 | complete |
-| 5 | aizat .. alesha | 100 | complete |
-| 6 | alev .. amaal | 100 | complete |
-| 7 | amaan .. anabia | 100 | complete |
-| 8 | anaf .. aphrodite | 100 | complete |
-| 9 | aqdas .. arsal | 100 | complete |
-| 10 | arsala .. asima | 100 | complete |
-| 11 | asimah .. aurangzeb | 100 | complete |
-| 12 | aus .. ayyoub | 100 | complete |
-| 13 | ayyub .. badawi | 100 | complete |
-| 14 | badee .. bara | 100 | complete |
-| 15 | baraa .. bazla | 100 | complete |
-| 16 | bazlul .. caitlyn | 100 | complete |
-| 17 | cala .. darman | 100 | complete |
-| 18 | daroon .. diya | 100 | complete |
-| 19 | diyaa .. elvina | 100 | complete |
-| 20 | emaad .. fahda | 100 | complete |
-| 21 | fahdah .. fareedah | 100 | complete |
-| 22 | fareeha .. fateem | 100 | complete |
-| 23 | fateema .. ferdous | 100 | complete |
-| 24 | ferhat .. ghadir | 100 | complete |
-| 25 | ghaffar .. guzel | 100 | complete |
-| 26 | haadee .. hakeema | 100 | complete |
-| 27 | hakem .. harisa | 100 | complete |
-| 28 | harisah .. helai | 100 | complete |
-| 29 | hemin .. hutaf | 100 | complete |
+| 1 | aabid .. aasimah | 100 | complete |
+| 2 | aasimat .. abu | 100 | complete |
+| 3 | abudi .. afnin | 100 | complete |
+| 4 | afra .. ainy | 100 | complete |
+| 5 | aira .. alawi | 100 | complete |
+| 6 | alaya .. altin | 100 | complete |
+| 7 | altun .. ammar | 100 | complete |
+| 8 | ammarah .. ansar | 100 | complete |
+| 9 | ansari .. ariz | 100 | complete |
+| 10 | arjaan .. ashil | 100 | complete |
+| 11 | ashim .. atiqah | 100 | complete |
+| 12 | atir .. ayoob | 100 | complete |
+| 13 | ayoosh .. azzahra | 100 | complete |
+| 14 | azzam .. balqees | 100 | complete |
+| 15 | balqis .. batia | 100 | complete |
+| 16 | batin .. bulbul | 100 | complete |
+| 17 | bulus .. danish | 100 | complete |
+| 18 | danishah .. dil | 100 | complete |
+| 19 | dilara .. eiman | 100 | complete |
+| 20 | einas .. fadhilah | 100 | complete |
+| 21 | fadhl .. farag | 100 | complete |
+| 22 | farah .. faryal | 100 | complete |
+| 23 | faryar .. faza | 100 | complete |
+| 24 | fazal .. gafoor | 100 | complete |
+| 25 | galai .. gonca | 100 | complete |
+| 26 | gord .. hair | 100 | complete |
+| 27 | haiza .. hanifah | 100 | complete |
+| 28 | hanin .. haza | 100 | complete |
+| 29 | hazal .. humayra | 100 | complete |
+| 30 | humayun .. iman | 100 | complete |
+| 31 | imana .. izaan | 100 | complete |
+| 32 | izat .. jarir | 100 | complete |
+| 33 | jaseem .. juni | 100 | complete |
+| 34 | junna .. kausar | 100 | complete |
+| 35 | kauser .. khazan | 100 | complete |
+| 36 | khazanah .. latifi | 100 | complete |
+| 37 | layal .. maham | 100 | complete |
+| 38 | mahan .. makhfi | 100 | complete |
+| 39 | makki .. marzia | 100 | complete |
