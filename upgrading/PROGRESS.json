@@ -3,14 +3,14 @@
  "culture": "islamic",
  "branch": "names-upgraded-v3",
  "total_names_in_slice": 5471,
- "names_completed": 2000,
- "current_batch": 20,
+ "names_completed": 2100,
+ "current_batch": 21,
  "batch_range": {
-  "first": "emaad",
-  "last": "fahda",
+  "first": "fahdah",
+  "last": "fareedah",
   "count": 100
  },
- "batches_completed": 20,
+ "batches_completed": 21,
  "per_name": [
   {
    "name": "Aamilah",
@@ -20011,20 +20011,1020 @@
    "gender": "Female",
    "manual_review_required": false,
    "reason": null
+  },
+  {
+   "name": "Fahdah",
+   "slug": "fahdah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faheem",
+   "slug": "faheem",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faheema",
+   "slug": "faheema",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fahid",
+   "slug": "fahid",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fahiim",
+   "slug": "fahiim",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fahim",
+   "slug": "fahim",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fahima",
+   "slug": "fahima",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fahimah",
+   "slug": "fahimah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fahmi",
+   "slug": "fahmi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fahmida",
+   "slug": "fahmida",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fahri",
+   "slug": "fahri",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fahrina",
+   "slug": "fahrina",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form فخرينة is an established Unknown lexical item. The source record's gloss 'Light bearing' could not be matched to a Tier-A/B lexical source. The identif"
+  },
+  {
+   "name": "Faid",
+   "slug": "faid",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faida",
+   "slug": "faida",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faidah",
+   "slug": "faidah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faih",
+   "slug": "faih",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faiha",
+   "slug": "faiha",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faihaa",
+   "slug": "faihaa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faik",
+   "slug": "faik",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faika",
+   "slug": "faika",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faima",
+   "slug": "faima",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form فيمة is an established Unknown lexical item. The source record's gloss 'Deliverer, Helper' could not be matched to a Tier-A/B lexical source. The ident"
+  },
+  {
+   "name": "Faiq",
+   "slug": "faiq",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faiqa",
+   "slug": "faiqa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faiqah",
+   "slug": "faiqah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fairooz",
+   "slug": "fairooz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fairoz",
+   "slug": "fairoz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fairuz",
+   "slug": "fairuz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fairuza",
+   "slug": "fairuza",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faisal",
+   "slug": "faisal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faishal",
+   "slug": "faishal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faiyaz",
+   "slug": "faiyaz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faiz",
+   "slug": "faiz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faiza",
+   "slug": "faiza",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faizaan",
+   "slug": "faizaan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faizah",
+   "slug": "faizah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faizan",
+   "slug": "faizan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faizel",
+   "slug": "faizel",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faizi",
+   "slug": "faizi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fajar",
+   "slug": "fajar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fajer",
+   "slug": "fajer",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fajr",
+   "slug": "fajr",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fajrul",
+   "slug": "fajrul",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fakhar",
+   "slug": "fakhar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fakher",
+   "slug": "fakher",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fakhir",
+   "slug": "fakhir",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fakhira",
+   "slug": "fakhira",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fakhirah",
+   "slug": "fakhirah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fakhita",
+   "slug": "fakhita",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form فخيطة is an established Arabic lexical item. The source record's gloss 'Praiseworthy, Commendable' could not be matched to a Tier-A/B lexical source. T"
+  },
+  {
+   "name": "Fakhr",
+   "slug": "fakhr",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fakhra",
+   "slug": "fakhra",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fakhri",
+   "slug": "fakhri",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fakhriya",
+   "slug": "fakhriya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fakhrul",
+   "slug": "fakhrul",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fakhry",
+   "slug": "fakhry",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fakih",
+   "slug": "fakih",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fakira",
+   "slug": "fakira",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fakrul",
+   "slug": "fakrul",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Falaah",
+   "slug": "falaah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Falah",
+   "slug": "falah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Falahi",
+   "slug": "falahi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Falak",
+   "slug": "falak",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Falaki",
+   "slug": "falaki",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Falih",
+   "slug": "falih",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Falilat",
+   "slug": "falilat",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form فليلة is an established Arabic lexical item. The source record's gloss 'Freed, released' could not be matched to a Tier-A/B lexical source. The identif"
+  },
+  {
+   "name": "Faliq",
+   "slug": "faliq",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fallah",
+   "slug": "fallah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Famida",
+   "slug": "famida",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form فميدة is an established Unknown lexical item. The source record's gloss 'Expander' could not be matched to a Tier-A/B lexical source. The identificatio"
+  },
+  {
+   "name": "Fanan",
+   "slug": "fanan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fanar",
+   "slug": "fanar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fani",
+   "slug": "fani",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faouzi",
+   "slug": "faouzi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faqeeh",
+   "slug": "faqeeh",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faqeer",
+   "slug": "faqeer",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faqih",
+   "slug": "faqih",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faqir",
+   "slug": "faqir",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fara",
+   "slug": "fara",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form فرح is an established Arabic lexical item. The source record's gloss 'Horse' could not be matched to a Tier-A/B lexical source. The identification is u"
+  },
+  {
+   "name": "Faraah",
+   "slug": "faraah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faraaz",
+   "slug": "faraaz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Farag",
+   "slug": "farag",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Farah",
+   "slug": "farah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Farahan",
+   "slug": "farahan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Farahani",
+   "slug": "farahani",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Farahat",
+   "slug": "farahat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Farahin",
+   "slug": "farahin",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Farahmand",
+   "slug": "farahmand",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Farahnaz",
+   "slug": "farahnaz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faraj",
+   "slug": "faraj",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Farakh",
+   "slug": "farakh",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faramarz",
+   "slug": "faramarz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Farangis",
+   "slug": "farangis",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faras",
+   "slug": "faras",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Farasat",
+   "slug": "farasat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Faraz",
+   "slug": "faraz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fard",
+   "slug": "fard",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fardan",
+   "slug": "fardan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fardaws",
+   "slug": "fardaws",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fardeen",
+   "slug": "fardeen",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fareed",
+   "slug": "fareed",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fareeda",
+   "slug": "fareeda",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Fareedah",
+   "slug": "fareedah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
   }
  ],
  "confidence_summary": {
-  "medium": 450,
-  "high": 980,
+  "medium": 465,
+  "high": 1059,
   "unverified": 125,
-  "low": 445
+  "low": 451
  },
  "origin_summary": {
-  "Arabic": 1441,
-  "Unknown": 141,
+  "Arabic": 1526,
+  "Unknown": 144,
   "Hebrew": 54,
   "Sanskrit": 7,
-  "Persian": 268,
+  "Persian": 280,
   "Yoruba": 1,
   "Latin": 2,
   "Pashto": 4,
@@ -20043,7 +21043,7 @@
   "Hindi": 3,
   "English": 1
  },
- "verified_forms": 1875,
+ "verified_forms": 1975,
  "unverified_forms": 125,
  "quality_gate": {
   "invalid_json": 0,
@@ -20056,6 +21056,6 @@
   "broken_text": 0,
   "total_failures": 0
  },
- "next_batch_starts_after": "fahda",
- "updated_at": "2026-10-02T03:58:35Z"
+ "next_batch_starts_after": "fareedah",
+ "updated_at": "2026-10-02T04:03:00Z"
 }
