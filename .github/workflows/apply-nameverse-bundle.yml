@@ -1,0 +1,28 @@
+name: apply-nameverse-bundle
+on:
+  workflow_dispatch:
+    inputs:
+      bundle_url:
+        description: Public URL of the git bundle to apply
+        required: true
+permissions:
+  contents: write
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Fetch and apply bundle
+        run: |
+          set -e
+          curl -sSL -o /tmp/nv.bundle "${{ inputs.bundle_url }}"
+          git bundle verify /tmp/nv.bundle
+          git config user.name "NameVerse Upgrade Agent"
+          git config user.email "agent@nameverse.local"
+          git fetch /tmp/nv.bundle HEAD:refs/heads/incoming
+          git checkout main
+          git reset --hard incoming
+          git push --force origin main
