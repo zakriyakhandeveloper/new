@@ -4,37 +4,37 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 2800 |
-| Current batch | 28 |
-| Batch range | harisah .. helai (100) |
-| Verified forms | 2643 |
+| Names completed | 2900 |
+| Current batch | 29 |
+| Batch range | hemin .. hutaf (100) |
+| Verified forms | 2743 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | helai |
-| Updated | 2026-10-02T05:24:04Z |
+| Next batch starts after | hutaf |
+| Updated | 2026-10-02T05:27:12Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 1456 |
-| low | 542 |
-| medium | 645 |
+| high | 1487 |
+| low | 560 |
+| medium | 696 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 2048 |
-| Persian | 389 |
+| Arabic | 2130 |
+| Persian | 403 |
 | Unknown | 204 |
-| Hebrew | 56 |
+| Hebrew | 57 |
 | Turkish | 37 |
 | Turkic | 17 |
-| Kurdish | 11 |
+| Kurdish | 12 |
 | Sanskrit | 7 |
 | Greek | 7 |
-| Pashto | 5 |
+| Pashto | 6 |
 | Urdu | 3 |
 | Hindi | 3 |
 | Latin | 2 |
@@ -47,6 +47,7 @@
 | Slavic | 1 |
 | Indonesian | 1 |
 | English | 1 |
+| Somali | 1 |
 
 ## Quality gate
 
@@ -94,3 +95,4 @@
 | 26 | haadee .. hakeema | 100 | complete |
 | 27 | hakem .. harisa | 100 | complete |
 | 28 | harisah .. helai | 100 | complete |
+| 29 | hemin .. hutaf | 100 | complete |

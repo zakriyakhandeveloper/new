@@ -3,14 +3,14 @@
  "culture": "islamic",
  "branch": "names-upgraded-v3",
  "total_names_in_slice": 5471,
- "names_completed": 2800,
- "current_batch": 28,
+ "names_completed": 2900,
+ "current_batch": 29,
  "batch_range": {
-  "first": "harisah",
-  "last": "helai",
+  "first": "hemin",
+  "last": "hutaf",
   "count": 100
  },
- "batches_completed": 28,
+ "batches_completed": 29,
  "per_name": [
   {
    "name": "Aamilah",
@@ -28011,23 +28011,1023 @@
    "gender": "Female",
    "manual_review_required": true,
    "reason": "The form هلاء is an established Arabic lexical item. Helai is recorded at low confidence. The source gave هلاء and glossed the name 'Light, Moon'; the form هَلَ"
+  },
+  {
+   "name": "Hemin",
+   "slug": "hemin",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form هیمن is an established Persian lexical item. Hemin is recorded at low confidence. The source gave همين and glossed the name 'Exalted, Noble'; هیمن (Hem"
+  },
+  {
+   "name": "Hena",
+   "slug": "hena",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hesam",
+   "slug": "hesam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hesham",
+   "slug": "hesham",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hessa",
+   "slug": "hessa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form حصة is an established Arabic lexical item. Hessa is recorded at low confidence. The source gave حسا and glossed the name 'Gentle, Soft'; حِصَّة (Ḥiṣṣa)"
+  },
+  {
+   "name": "Hewad",
+   "slug": "hewad",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Pashto",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Heyam",
+   "slug": "heyam",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Heydar",
+   "slug": "heydar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hiba",
+   "slug": "hiba",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hibah",
+   "slug": "hibah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hibat",
+   "slug": "hibat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hibba",
+   "slug": "hibba",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hicham",
+   "slug": "hicham",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hichem",
+   "slug": "hichem",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hidaya",
+   "slug": "hidaya",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hidayah",
+   "slug": "hidayah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hidayat",
+   "slug": "hidayat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hifza",
+   "slug": "hifza",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form حفظة is an established Arabic lexical item. Hifza is recorded at low confidence. The source gave حِفْظَة and glossed the name 'Preservation, Protection"
+  },
+  {
+   "name": "Hijab",
+   "slug": "hijab",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hijazi",
+   "slug": "hijazi",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hijrah",
+   "slug": "hijrah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hikma",
+   "slug": "hikma",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hikmah",
+   "slug": "hikmah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hikmat",
+   "slug": "hikmat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hila",
+   "slug": "hila",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hilal",
+   "slug": "hilal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hilali",
+   "slug": "hilali",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hilel",
+   "slug": "hilel",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Hebrew",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hilmi",
+   "slug": "hilmi",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hilya",
+   "slug": "hilya",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Himayat",
+   "slug": "himayat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hina",
+   "slug": "hina",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form هينا is an established Arabic lexical item. Hina is recorded at low confidence. The source gave the junk string 'عربي_Hina' in the Arabic column and gl"
+  },
+  {
+   "name": "Hind",
+   "slug": "hind",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hindun",
+   "slug": "hindun",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hira",
+   "slug": "hira",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hisam",
+   "slug": "hisam",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hishaam",
+   "slug": "hishaam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hisham",
+   "slug": "hisham",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hisyam",
+   "slug": "hisyam",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form هشام is an established Arabic lexical item. Hisyam is recorded at low confidence. The source gave the broken form حسيا م and glossed the name 'Gift, Gr"
+  },
+  {
+   "name": "Hiwa",
+   "slug": "hiwa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Kurdish",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form هیوا is an established Kurdish lexical item. Hiwa is recorded at low confidence. The source gave هيوا and glossed the name 'Life, Living'; هیوا (Hiwa) "
+  },
+  {
+   "name": "Hiyam",
+   "slug": "hiyam",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hoda",
+   "slug": "hoda",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hodan",
+   "slug": "hodan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Somali",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form هودان is an established Somali lexical item. Hodan is recorded at low confidence. The source gave حُدان and glossed the name 'Grace, Generosity, Gift';"
+  },
+  {
+   "name": "Homa",
+   "slug": "homa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hood",
+   "slug": "hood",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hooda",
+   "slug": "hooda",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hooman",
+   "slug": "hooman",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form هومن is an established Persian lexical item. Hooman is recorded at low confidence. The source repeated the Latin string in the Arabic column and glosse"
+  },
+  {
+   "name": "Hoor",
+   "slug": "hoor",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hooria",
+   "slug": "hooria",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Horia",
+   "slug": "horia",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hosaam",
+   "slug": "hosaam",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hoshang",
+   "slug": "hoshang",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hoshmand",
+   "slug": "hoshmand",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hoshyar",
+   "slug": "hoshyar",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hosna",
+   "slug": "hosna",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hosni",
+   "slug": "hosni",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Houd",
+   "slug": "houd",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Houda",
+   "slug": "houda",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Houman",
+   "slug": "houman",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form هومن is an established Persian lexical item. Houman is recorded at low confidence. The source repeated the Latin string in the Arabic column and glosse"
+  },
+  {
+   "name": "Houshang",
+   "slug": "houshang",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Houssam",
+   "slug": "houssam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hoyam",
+   "slug": "hoyam",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hub",
+   "slug": "hub",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form حب is an established Arabic lexical item. Hub is recorded at low confidence. The source gave حوب and glossed the name 'A center or source'; حُبّ (Ḥubb)"
+  },
+  {
+   "name": "Huba",
+   "slug": "huba",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form حبة is an established Arabic lexical item. Huba is recorded at low confidence. The source gave حبة and glossed the name 'Bright, Shining'; حُبَة (Ḥuba)"
+  },
+  {
+   "name": "Hubba",
+   "slug": "hubba",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form حبة is an established Arabic lexical item. Hubba is recorded at low confidence. The source gave حبة and glossed the name 'Beloved, Affectionate'; حُبَّ"
+  },
+  {
+   "name": "Hud",
+   "slug": "hud",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Huda",
+   "slug": "huda",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hudaifa",
+   "slug": "hudaifa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hukam",
+   "slug": "hukam",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Huma",
+   "slug": "huma",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Humaid",
+   "slug": "humaid",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Humair",
+   "slug": "humair",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form حمير is an established Arabic lexical item. Humair is recorded at low confidence. The source gave حُمَيْر and glossed the name 'Lion-like'; حُمَيْر (Ḥu"
+  },
+  {
+   "name": "Humaira",
+   "slug": "humaira",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Humairaa",
+   "slug": "humairaa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Humairah",
+   "slug": "humairah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Humam",
+   "slug": "humam",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Humaun",
+   "slug": "humaun",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Humayn",
+   "slug": "humayn",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form همایون is an established Persian lexical item. Humayn is recorded at low confidence. The source gave همین and glossed the name 'A beautiful and kind pe"
+  },
+  {
+   "name": "Humayra",
+   "slug": "humayra",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Humayun",
+   "slug": "humayun",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Humera",
+   "slug": "humera",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Humeyra",
+   "slug": "humeyra",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Humza",
+   "slug": "humza",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hurmuz",
+   "slug": "hurmuz",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form هرمز is an established Persian lexical item. Hurmuz is recorded at low confidence. The source repeated the Latin string in the Arabic column and glosse"
+  },
+  {
+   "name": "Husaam",
+   "slug": "husaam",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Husain",
+   "slug": "husain",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Husam",
+   "slug": "husam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Husayn",
+   "slug": "husayn",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Husein",
+   "slug": "husein",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Husna",
+   "slug": "husna",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Husnain",
+   "slug": "husnain",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Husni",
+   "slug": "husni",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Husnu",
+   "slug": "husnu",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form حسن is an established Arabic lexical item. Husnu is recorded at low confidence. The source gave حسنو and glossed the name 'Beauty, Goodness'; حُسْن (Ḥu"
+  },
+  {
+   "name": "Husnul",
+   "slug": "husnul",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form حسن الـ is an established Arabic lexical item. Husnul is recorded at low confidence. The source gave حسنل and glossed the name 'Beauty, Grace'; the for"
+  },
+  {
+   "name": "Hussain",
+   "slug": "hussain",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hussam",
+   "slug": "hussam",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hussein",
+   "slug": "hussein",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hussnain",
+   "slug": "hussnain",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hussni",
+   "slug": "hussni",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Hutaf",
+   "slug": "hutaf",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form هتاف is an established Arabic lexical item. Hutaf is recorded at low confidence. The source repeated the Latin string in the Arabic column and glossed "
   }
  ],
  "confidence_summary": {
-  "medium": 645,
-  "high": 1456,
+  "medium": 696,
+  "high": 1487,
   "unverified": 157,
-  "low": 542
+  "low": 560
  },
  "origin_summary": {
-  "Arabic": 2048,
+  "Arabic": 2130,
   "Unknown": 204,
-  "Hebrew": 56,
+  "Hebrew": 57,
   "Sanskrit": 7,
-  "Persian": 389,
+  "Persian": 403,
   "Yoruba": 1,
   "Latin": 2,
-  "Pashto": 5,
+  "Pashto": 6,
   "Turkish": 37,
   "Turkic": 17,
   "Irish": 2,
@@ -28035,15 +29035,16 @@
   "Punjabi": 2,
   "Basque": 1,
   "Berber": 1,
-  "Kurdish": 11,
+  "Kurdish": 12,
   "Akkadian": 1,
   "Slavic": 1,
   "Indonesian": 1,
   "Urdu": 3,
   "Hindi": 3,
-  "English": 1
+  "English": 1,
+  "Somali": 1
  },
- "verified_forms": 2643,
+ "verified_forms": 2743,
  "unverified_forms": 157,
  "quality_gate": {
   "invalid_json": 0,
@@ -28056,6 +29057,6 @@
   "broken_text": 0,
   "total_failures": 0
  },
- "next_batch_starts_after": "helai",
- "updated_at": "2026-10-02T05:24:04Z"
+ "next_batch_starts_after": "hutaf",
+ "updated_at": "2026-10-02T05:27:12Z"
 }
