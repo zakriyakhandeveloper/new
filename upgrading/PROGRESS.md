@@ -4,37 +4,37 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 2400 |
-| Current batch | 24 |
-| Batch range | ferhat .. ghadir (100) |
-| Verified forms | 2260 |
-| Unverified forms (no gloss asserted) | 140 |
-| Next batch starts after | ghadir |
-| Updated | 2026-10-02T04:45:18Z |
+| Names completed | 2500 |
+| Current batch | 25 |
+| Batch range | ghaffar .. guzel (100) |
+| Verified forms | 2355 |
+| Unverified forms (no gloss asserted) | 145 |
+| Next batch starts after | guzel |
+| Updated | 2026-10-02T04:49:45Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 1249 |
-| low | 486 |
-| medium | 525 |
-| unverified | 140 |
+| high | 1302 |
+| low | 496 |
+| medium | 557 |
+| unverified | 145 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 1720 |
-| Persian | 354 |
-| Unknown | 173 |
-| Hebrew | 54 |
-| Turkish | 34 |
+| Arabic | 1779 |
+| Persian | 386 |
+| Unknown | 178 |
+| Hebrew | 55 |
+| Turkish | 36 |
 | Turkic | 17 |
 | Kurdish | 11 |
 | Sanskrit | 7 |
 | Greek | 7 |
-| Pashto | 4 |
+| Pashto | 5 |
 | Urdu | 3 |
 | Hindi | 3 |
 | Latin | 2 |
@@ -90,3 +90,4 @@
 | 22 | fareeha .. fateem | 100 | complete |
 | 23 | fateema .. ferdous | 100 | complete |
 | 24 | ferhat .. ghadir | 100 | complete |
+| 25 | ghaffar .. guzel | 100 | complete |

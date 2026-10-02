@@ -3,14 +3,14 @@
  "culture": "islamic",
  "branch": "names-upgraded-v3",
  "total_names_in_slice": 5471,
- "names_completed": 2400,
- "current_batch": 24,
+ "names_completed": 2500,
+ "current_batch": 25,
  "batch_range": {
-  "first": "ferhat",
-  "last": "ghadir",
+  "first": "ghaffar",
+  "last": "guzel",
   "count": 100
  },
- "batches_completed": 24,
+ "batches_completed": 25,
  "per_name": [
   {
    "name": "Aamilah",
@@ -24011,24 +24011,1024 @@
    "gender": "Female",
    "manual_review_required": false,
    "reason": null
+  },
+  {
+   "name": "Ghaffar",
+   "slug": "ghaffar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghaffari",
+   "slug": "ghaffari",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghafir",
+   "slug": "ghafir",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghafoor",
+   "slug": "ghafoor",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghafur",
+   "slug": "ghafur",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghaida",
+   "slug": "ghaida",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Ghaida. The source record gave the Arabic form غَذَاء — which is Arabic for 'nourishment, food' (from غ ذ و) and does "
+  },
+  {
+   "name": "Ghaidaa",
+   "slug": "ghaidaa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghais",
+   "slug": "ghais",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghaisan",
+   "slug": "ghaisan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Ghaisan. Ghaisan appears in South Asian naming usage, but no Tier-A/B source establishes a lexical form or settled mea"
+  },
+  {
+   "name": "Ghaith",
+   "slug": "ghaith",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghali",
+   "slug": "ghali",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghalia",
+   "slug": "ghalia",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghaliah",
+   "slug": "ghaliah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghalib",
+   "slug": "ghalib",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghaliya",
+   "slug": "ghaliya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghanem",
+   "slug": "ghanem",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghani",
+   "slug": "ghani",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghania",
+   "slug": "ghania",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghanim",
+   "slug": "ghanim",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghaniya",
+   "slug": "ghaniya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghannam",
+   "slug": "ghannam",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gharam",
+   "slug": "gharam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghareeb",
+   "slug": "ghareeb",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gharib",
+   "slug": "gharib",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghasaan",
+   "slug": "ghasaan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghassan",
+   "slug": "ghassan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghaya",
+   "slug": "ghaya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghayda",
+   "slug": "ghayda",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghaydaa",
+   "slug": "ghaydaa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghaylan",
+   "slug": "ghaylan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghayoor",
+   "slug": "ghayoor",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghays",
+   "slug": "ghays",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghaysaa",
+   "slug": "ghaysaa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghayth",
+   "slug": "ghayth",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghayur",
+   "slug": "ghayur",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghazaal",
+   "slug": "ghazaal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghazal",
+   "slug": "ghazal",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghazala",
+   "slug": "ghazala",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghazalat",
+   "slug": "ghazalat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghazali",
+   "slug": "ghazali",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghazanfar",
+   "slug": "ghazanfar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghazanfari",
+   "slug": "ghazanfari",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghazi",
+   "slug": "ghazi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghazni",
+   "slug": "ghazni",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghazwa",
+   "slug": "ghazwa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghazwan",
+   "slug": "ghazwan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghina",
+   "slug": "ghina",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghiyas",
+   "slug": "ghiyas",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghiyath",
+   "slug": "ghiyath",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghizlan",
+   "slug": "ghizlan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghofran",
+   "slug": "ghofran",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghorzang",
+   "slug": "ghorzang",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Pashto",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Ghorzang. Ghorzang is a Pashto male name and place-name (Ghorzang is a locality in Kabul). No Tier-A/B source establis"
+  },
+  {
+   "name": "Ghufran",
+   "slug": "ghufran",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghulam",
+   "slug": "ghulam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghuncha",
+   "slug": "ghuncha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghusoon",
+   "slug": "ghusoon",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghusoun",
+   "slug": "ghusoun",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ghusun",
+   "slug": "ghusun",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Giath",
+   "slug": "giath",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gibran",
+   "slug": "gibran",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gibril",
+   "slug": "gibril",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gilani",
+   "slug": "gilani",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gohar",
+   "slug": "gohar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Golab",
+   "slug": "golab",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Golala",
+   "slug": "golala",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Golala. CRITICAL SOURCE ERROR: the source record gave علی ('Ali') as this name's Arabic form and Urdu form — a complet"
+  },
+  {
+   "name": "Golan",
+   "slug": "golan",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Golan. Golan is chiefly a place-name (the Golan Heights); the source's Arabic form جَلان and the gloss 'hill, elevated"
+  },
+  {
+   "name": "Golara",
+   "slug": "golara",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Golbarg",
+   "slug": "golbarg",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Golestan",
+   "slug": "golestan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Golfam",
+   "slug": "golfam",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Golfam. CRITICAL SOURCE ERROR: the source record gave عائشة ('Aisha') as this name's Arabic form and Urdu form — a com"
+  },
+  {
+   "name": "Golnar",
+   "slug": "golnar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Golnaz",
+   "slug": "golnaz",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Golnoush",
+   "slug": "golnoush",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Golpar",
+   "slug": "golpar",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Persian",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Golpar. Golpar is a Persian word for a plant (golpar, used as a spice); it appears as a given name in Persianate usage"
+  },
+  {
+   "name": "Golrokh",
+   "slug": "golrokh",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Golsa",
+   "slug": "golsa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form گلسا is an established Persian lexical item. Golsa is the Persian گل‌سا (golsā) 'rose-like, resembling a rose', a modern feminine name. The source gave"
+  },
+  {
+   "name": "Golshan",
+   "slug": "golshan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Golzar",
+   "slug": "golzar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gonca",
+   "slug": "gonca",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gord",
+   "slug": "gord",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Persian",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form گرد is an established Persian lexical item. Gord appears in Persian naming and epic vocabulary as گُرد (gord) 'brave, hero, champion' (the Shahnameh us"
+  },
+  {
+   "name": "Guda",
+   "slug": "guda",
+   "status": "complete",
+   "meaning_confidence": "unverified",
+   "origin": "Unknown",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Guda. CRITICAL SOURCE ERROR: the source record gave أحمد ('Ahmad') as this name's Arabic form and Urdu form — a differ"
+  },
+  {
+   "name": "Gufran",
+   "slug": "gufran",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gul",
+   "slug": "gul",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gulala",
+   "slug": "gulala",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form گلالہ is an established Persian lexical item. Gulala appears in South Asian Persianate naming with the reported sense 'rosebud', plausibly گل 'flower' "
+  },
+  {
+   "name": "Gulali",
+   "slug": "gulali",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form گلالی is an established Persian lexical item. Gulali is a variant of gulala in South Asian naming, reported as 'rosebud'. The source gave the meaningle"
+  },
+  {
+   "name": "Gulchin",
+   "slug": "gulchin",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gulfam",
+   "slug": "gulfam",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form گلفام is an established Persian lexical item. Gulfam appears in South Asian Persianate naming, popularly explained as 'jasmine flower' or as گل 'flower"
+  },
+  {
+   "name": "Gulistan",
+   "slug": "gulistan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gulnar",
+   "slug": "gulnar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gulnaz",
+   "slug": "gulnaz",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gulnaza",
+   "slug": "gulnaza",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gulnisa",
+   "slug": "gulnisa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Gulnisa. Gulnisa appears in Persianate and South Asian naming (گل 'flower' with a second element that is not securely "
+  },
+  {
+   "name": "Gulraiz",
+   "slug": "gulraiz",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gulrez",
+   "slug": "gulrez",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gulsan",
+   "slug": "gulsan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gulsana",
+   "slug": "gulsana",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form گلسانہ is an established Persian lexical item. Gulsana is an extended form in the گل 'flower' family, reported with the sense 'rose garden'. The source"
+  },
+  {
+   "name": "Gulshad",
+   "slug": "gulshad",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gulshan",
+   "slug": "gulshan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Gulzar",
+   "slug": "gulzar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Guzel",
+   "slug": "guzel",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
   }
  ],
  "confidence_summary": {
-  "medium": 525,
-  "high": 1249,
-  "unverified": 140,
-  "low": 486
+  "medium": 557,
+  "high": 1302,
+  "unverified": 145,
+  "low": 496
  },
  "origin_summary": {
-  "Arabic": 1720,
-  "Unknown": 173,
-  "Hebrew": 54,
+  "Arabic": 1779,
+  "Unknown": 178,
+  "Hebrew": 55,
   "Sanskrit": 7,
-  "Persian": 354,
+  "Persian": 386,
   "Yoruba": 1,
   "Latin": 2,
-  "Pashto": 4,
-  "Turkish": 34,
+  "Pashto": 5,
+  "Turkish": 36,
   "Turkic": 17,
   "Irish": 2,
   "Greek": 7,
@@ -24043,8 +25043,8 @@
   "Hindi": 3,
   "English": 1
  },
- "verified_forms": 2260,
- "unverified_forms": 140,
+ "verified_forms": 2355,
+ "unverified_forms": 145,
  "quality_gate": {
   "invalid_json": 0,
   "conflict_markers": 0,
@@ -24056,6 +25056,6 @@
   "broken_text": 0,
   "total_failures": 0
  },
- "next_batch_starts_after": "ghadir",
- "updated_at": "2026-10-02T04:45:18Z"
+ "next_batch_starts_after": "guzel",
+ "updated_at": "2026-10-02T04:49:45Z"
 }
