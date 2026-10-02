@@ -3,14 +3,14 @@
  "culture": "islamic",
  "branch": "names-upgraded-v3",
  "total_names_in_slice": 5471,
- "names_completed": 1600,
- "current_batch": 16,
+ "names_completed": 1700,
+ "current_batch": 17,
  "batch_range": {
-  "first": "bazlul",
-  "last": "caitlyn",
+  "first": "cala",
+  "last": "darman",
   "count": 100
  },
- "batches_completed": 16,
+ "batches_completed": 17,
  "per_name": [
   {
    "name": "Aamilah",
@@ -16011,36 +16011,1038 @@
    "gender": "Female",
    "manual_review_required": false,
    "reason": null
+  },
+  {
+   "name": "Cala",
+   "slug": "cala",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form كالا is an established Unknown lexical item. The source record's gloss 'Slender, beautiful' could not be matched to a Tier-A/B lexical source. The iden"
+  },
+  {
+   "name": "Camelia",
+   "slug": "camelia",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Latin",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Carima",
+   "slug": "carima",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Carwan",
+   "slug": "carwan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form قروان is an established Arabic lexical item. The source record's gloss 'Traveler' could not be matched to a Tier-A/B lexical source. The identification"
+  },
+  {
+   "name": "Cemal",
+   "slug": "cemal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ceyda",
+   "slug": "ceyda",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Turkish",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chadia",
+   "slug": "chadia",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chafia",
+   "slug": "chafia",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chafik",
+   "slug": "chafik",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chafika",
+   "slug": "chafika",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chahid",
+   "slug": "chahid",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chahira",
+   "slug": "chahira",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chahra",
+   "slug": "chahra",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chahrazad",
+   "slug": "chahrazad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chaker",
+   "slug": "chaker",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chakira",
+   "slug": "chakira",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chakor",
+   "slug": "chakor",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chaman",
+   "slug": "chaman",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chamis",
+   "slug": "chamis",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chams",
+   "slug": "chams",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chamsia",
+   "slug": "chamsia",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chana",
+   "slug": "chana",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Hebrew",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chanan",
+   "slug": "chanan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Hebrew",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chand",
+   "slug": "chand",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Urdu",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chanda",
+   "slug": "chanda",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Urdu",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chandni",
+   "slug": "chandni",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Urdu",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chaudhary",
+   "slug": "chaudhary",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hindi",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chaudhry",
+   "slug": "chaudhry",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hindi",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chawki",
+   "slug": "chawki",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Cheema",
+   "slug": "cheema",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Punjabi",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chiman",
+   "slug": "chiman",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chinar",
+   "slug": "chinar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chokri",
+   "slug": "chokri",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Chowdhury",
+   "slug": "chowdhury",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hindi",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Citra",
+   "slug": "citra",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Sanskrit",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Coman",
+   "slug": "coman",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Unknown",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form كومان is an established Unknown lexical item. The source record's gloss 'Graceful, beautiful' could not be matched to a Tier-A/B lexical source. The id"
+  },
+  {
+   "name": "Cuneyd",
+   "slug": "cuneyd",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "D-irah",
+   "slug": "d-irah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Daana",
+   "slug": "daana",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Daanii",
+   "slug": "daanii",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Daanish",
+   "slug": "daanish",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Daanyaal",
+   "slug": "daanyaal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dabbah",
+   "slug": "dabbah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dabir",
+   "slug": "dabir",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dadmehr",
+   "slug": "dadmehr",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dadwar",
+   "slug": "dadwar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Daffa",
+   "slug": "daffa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form دفة is an established Arabic lexical item. The source record's gloss 'Noble' could not be matched to a Tier-A/B lexical source. The identification is u"
+  },
+  {
+   "name": "Dahee",
+   "slug": "dahee",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form دهي is an established Arabic lexical item. The source record's gloss 'Gifted, Clever' could not be matched to a Tier-A/B lexical source. The identifica"
+  },
+  {
+   "name": "Dahi",
+   "slug": "dahi",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form داهي is an established Arabic lexical item. The source record's gloss 'Graceful, pleasant' could not be matched to a Tier-A/B lexical source. The ident"
+  },
+  {
+   "name": "Dahma",
+   "slug": "dahma",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form دهماء is an established Arabic lexical item. The source record's gloss 'Bitter Grief' could not be matched to a Tier-A/B lexical source. The identifica"
+  },
+  {
+   "name": "Daif",
+   "slug": "daif",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dair",
+   "slug": "dair",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Daiya",
+   "slug": "daiya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Daiyaan",
+   "slug": "daiyaan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Daiyan",
+   "slug": "daiyan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dakheel",
+   "slug": "dakheel",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dakhil",
+   "slug": "dakhil",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dalaj",
+   "slug": "dalaj",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form دلج is an established Arabic lexical item. The source record's gloss 'Slender, Graceful' could not be matched to a Tier-A/B lexical source. The identif"
+  },
+  {
+   "name": "Dalal",
+   "slug": "dalal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Daler",
+   "slug": "daler",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dalia",
+   "slug": "dalia",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Daliah",
+   "slug": "daliah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dalil",
+   "slug": "dalil",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dalilah",
+   "slug": "dalilah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dalir",
+   "slug": "dalir",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Daliya",
+   "slug": "daliya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dalu",
+   "slug": "dalu",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Damaa",
+   "slug": "damaa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form داما is an established Arabic lexical item. The source record's gloss 'Submissive' could not be matched to a Tier-A/B lexical source. The identificatio"
+  },
+  {
+   "name": "Daman",
+   "slug": "daman",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Damir",
+   "slug": "damir",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dana",
+   "slug": "dana",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Danah",
+   "slug": "danah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Daneen",
+   "slug": "daneen",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form دانين is an established Arabic lexical item. The source record's gloss 'Delicate flower' could not be matched to a Tier-A/B lexical source. The identif"
+  },
+  {
+   "name": "Danesh",
+   "slug": "danesh",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dania",
+   "slug": "dania",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Daniah",
+   "slug": "daniah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Danial",
+   "slug": "danial",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Daniel",
+   "slug": "daniel",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Danish",
+   "slug": "danish",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Danishah",
+   "slug": "danishah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form دانشہ is an established Persian lexical item. The source record's gloss 'Graceful' could not be matched to a Tier-A/B lexical source. The form is Persi"
+  },
+  {
+   "name": "Daniya",
+   "slug": "daniya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Daniyal",
+   "slug": "daniyal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Danyah",
+   "slug": "danyah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Danyal",
+   "slug": "danyal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Danyar",
+   "slug": "danyar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Daood",
+   "slug": "daood",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Daoud",
+   "slug": "daoud",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dar",
+   "slug": "dar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dara",
+   "slug": "dara",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Darab",
+   "slug": "darab",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Darah",
+   "slug": "darah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form دارة is an established Arabic lexical item. The source record's gloss 'Blood, Wound' could not be matched to a Tier-A/B lexical source. The identificat"
+  },
+  {
+   "name": "Dardana",
+   "slug": "dardana",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dareen",
+   "slug": "dareen",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Daria",
+   "slug": "daria",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Darina",
+   "slug": "darina",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form دارينا is an established Arabic lexical item. The source record's gloss 'Light, shining one' could not be matched to a Tier-A/B lexical source. The ide"
+  },
+  {
+   "name": "Daris",
+   "slug": "daris",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dariush",
+   "slug": "dariush",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Dariya",
+   "slug": "dariya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Darkan",
+   "slug": "darkan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Unknown",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form داركان is an established Unknown lexical item. The source record left the meaning blank and the gender as 'genderle'. The identification is uncertain."
+  },
+  {
+   "name": "Darman",
+   "slug": "darman",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
   }
  ],
  "confidence_summary": {
-  "medium": 386,
-  "high": 690,
+  "medium": 393,
+  "high": 769,
   "unverified": 125,
-  "low": 399
+  "low": 413
  },
  "origin_summary": {
-  "Arabic": 1200,
-  "Unknown": 124,
-  "Hebrew": 16,
-  "Sanskrit": 6,
-  "Persian": 190,
+  "Arabic": 1247,
+  "Unknown": 127,
+  "Hebrew": 28,
+  "Sanskrit": 7,
+  "Persian": 216,
   "Yoruba": 1,
-  "Latin": 1,
+  "Latin": 2,
   "Pashto": 2,
-  "Turkish": 19,
+  "Turkish": 22,
   "Turkic": 17,
   "Irish": 2,
   "Greek": 7,
-  "Punjabi": 1,
+  "Punjabi": 2,
   "Basque": 1,
   "Berber": 1,
   "Kurdish": 9,
   "Akkadian": 1,
   "Slavic": 1,
-  "Indonesian": 1
+  "Indonesian": 1,
+  "Urdu": 3,
+  "Hindi": 3
  },
- "verified_forms": 1475,
+ "verified_forms": 1575,
  "unverified_forms": 125,
  "quality_gate": {
   "invalid_json": 0,
@@ -16053,6 +17055,6 @@
   "broken_text": 0,
   "total_failures": 0
  },
- "next_batch_starts_after": "caitlyn",
- "updated_at": "2026-10-02T03:48:41Z"
+ "next_batch_starts_after": "darman",
+ "updated_at": "2026-10-02T03:50:37Z"
 }

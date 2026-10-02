@@ -4,41 +4,43 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 1600 |
-| Current batch | 16 |
-| Batch range | bazlul .. caitlyn (100) |
-| Verified forms | 1475 |
+| Names completed | 1700 |
+| Current batch | 17 |
+| Batch range | cala .. darman (100) |
+| Verified forms | 1575 |
 | Unverified forms (no gloss asserted) | 125 |
-| Next batch starts after | caitlyn |
-| Updated | 2026-10-02T03:48:41Z |
+| Next batch starts after | darman |
+| Updated | 2026-10-02T03:50:37Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 690 |
-| low | 399 |
-| medium | 386 |
+| high | 769 |
+| low | 413 |
+| medium | 393 |
 | unverified | 125 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 1200 |
-| Persian | 190 |
-| Unknown | 124 |
-| Turkish | 19 |
+| Arabic | 1247 |
+| Persian | 216 |
+| Unknown | 127 |
+| Hebrew | 28 |
+| Turkish | 22 |
 | Turkic | 17 |
-| Hebrew | 16 |
 | Kurdish | 9 |
+| Sanskrit | 7 |
 | Greek | 7 |
-| Sanskrit | 6 |
+| Urdu | 3 |
+| Hindi | 3 |
+| Latin | 2 |
 | Pashto | 2 |
 | Irish | 2 |
+| Punjabi | 2 |
 | Yoruba | 1 |
-| Latin | 1 |
-| Punjabi | 1 |
 | Basque | 1 |
 | Berber | 1 |
 | Akkadian | 1 |
@@ -79,3 +81,4 @@
 | 14 | badee .. bara | 100 | complete |
 | 15 | baraa .. bazla | 100 | complete |
 | 16 | bazlul .. caitlyn | 100 | complete |
+| 17 | cala .. darman | 100 | complete |
