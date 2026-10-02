@@ -3,14 +3,14 @@
  "culture": "islamic",
  "branch": "names-upgraded-v3",
  "total_names_in_slice": 5471,
- "names_completed": 1400,
- "current_batch": 14,
+ "names_completed": 1500,
+ "current_batch": 15,
  "batch_range": {
-  "first": "badee",
-  "last": "bara",
+  "first": "baraa",
+  "last": "bazla",
   "count": 100
  },
- "batches_completed": 14,
+ "batches_completed": 15,
  "per_name": [
   {
    "name": "Aamilah",
@@ -14011,24 +14011,1024 @@
    "gender": "Male",
    "manual_review_required": false,
    "reason": null
+  },
+  {
+   "name": "Baraa",
+   "slug": "baraa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Baraah",
+   "slug": "baraah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Baraan",
+   "slug": "baraan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Barack",
+   "slug": "barack",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Barah",
+   "slug": "barah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form برة is an established Arabic lexical item. The source record's gloss 'Mountain of Allah' could not be matched to a Tier-A/B lexical source. The identif"
+  },
+  {
+   "name": "Barahim",
+   "slug": "barahim",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form براهيم is an established Arabic lexical item. The source record's gloss 'Thunder' could not be matched to a Tier-A/B lexical source. The identification"
+  },
+  {
+   "name": "Baraka",
+   "slug": "baraka",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Barakah",
+   "slug": "barakah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Barakat",
+   "slug": "barakat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Baram",
+   "slug": "baram",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form برم is an established Arabic lexical item. The source record's gloss 'Exalted, Noble' could not be matched to a Tier-A/B lexical source. The identifica"
+  },
+  {
+   "name": "Barat",
+   "slug": "barat",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form برات is an established Arabic lexical item. The source record's gloss 'Sweet' could not be matched to a Tier-A/B lexical source. The identification is "
+  },
+  {
+   "name": "Bardia",
+   "slug": "bardia",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bari",
+   "slug": "bari",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bariah",
+   "slug": "bariah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Barii",
+   "slug": "barii",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Barika",
+   "slug": "barika",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bariq",
+   "slug": "bariq",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Barira",
+   "slug": "barira",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bariz",
+   "slug": "bariz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bariza",
+   "slug": "bariza",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Barja",
+   "slug": "barja",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form برجة is an established Arabic lexical item. The source record's gloss 'Exalted, Noble' could not be matched to a Tier-A/B lexical source. The identific"
+  },
+  {
+   "name": "Barkat",
+   "slug": "barkat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Barkhan",
+   "slug": "barkhan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form برخان is an established Arabic lexical item. The source record's gloss 'Mountain of God' could not be matched to a Tier-A/B lexical source. The identif"
+  },
+  {
+   "name": "Barmak",
+   "slug": "barmak",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Barni",
+   "slug": "barni",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form برني is an established Arabic lexical item. The source record's gloss 'Sprout, Young' could not be matched to a Tier-A/B lexical source. The identifica"
+  },
+  {
+   "name": "Barr",
+   "slug": "barr",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Barsa",
+   "slug": "barsa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form برسا is an established Arabic lexical item. The source record's gloss 'Name of a mountain' could not be matched to a Tier-A/B lexical source. The ident"
+  },
+  {
+   "name": "Baryal",
+   "slug": "baryal",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form بريال is an established Arabic lexical item. The source record's gloss 'Exalted, Noble' could not be matched to a Tier-A/B lexical source. The identifi"
+  },
+  {
+   "name": "Basaam",
+   "slug": "basaam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basam",
+   "slug": "basam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basama",
+   "slug": "basama",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basan",
+   "slug": "basan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form باسان is an established Arabic lexical item. The source record's gloss 'Ripe fruit' could not be matched to a Tier-A/B lexical source. The identificati"
+  },
+  {
+   "name": "Basar",
+   "slug": "basar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Baseel",
+   "slug": "baseel",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Baseem",
+   "slug": "baseem",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Baseer",
+   "slug": "baseer",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Baseerat",
+   "slug": "baseerat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basel",
+   "slug": "basel",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basem",
+   "slug": "basem",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basemah",
+   "slug": "basemah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bashaar",
+   "slug": "bashaar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bashair",
+   "slug": "bashair",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bashar",
+   "slug": "bashar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basharat",
+   "slug": "basharat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basheer",
+   "slug": "basheer",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basheera",
+   "slug": "basheera",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basheerah",
+   "slug": "basheerah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basheerat",
+   "slug": "basheerat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bashir",
+   "slug": "bashir",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bashira",
+   "slug": "bashira",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bashirah",
+   "slug": "bashirah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bashiri",
+   "slug": "bashiri",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bashu",
+   "slug": "bashu",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form باشو is an established Arabic lexical item. The source record's gloss 'Snow' could not be matched to a Tier-A/B lexical source. The identification is u"
+  },
+  {
+   "name": "Basil",
+   "slug": "basil",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basila",
+   "slug": "basila",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basili",
+   "slug": "basili",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form باسيلي is an established Arabic lexical item. The source record's gloss 'Little King' could not be matched to a Tier-A/B lexical source. The identifica"
+  },
+  {
+   "name": "Basim",
+   "slug": "basim",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basima",
+   "slug": "basima",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basir",
+   "slug": "basir",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basira",
+   "slug": "basira",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basirah",
+   "slug": "basirah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basirat",
+   "slug": "basirat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basit",
+   "slug": "basit",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basita",
+   "slug": "basita",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basma",
+   "slug": "basma",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basmaa",
+   "slug": "basmaa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basmah",
+   "slug": "basmah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basman",
+   "slug": "basman",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form باسمان is an established Arabic lexical item. The source record's gloss 'Resilient, Brave' could not be matched to a Tier-A/B lexical source. The ident"
+  },
+  {
+   "name": "Basmat",
+   "slug": "basmat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basoom",
+   "slug": "basoom",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form باسوم is an established Arabic lexical item. The source record's gloss 'Fragrant flower' could not be matched to a Tier-A/B lexical source. The identif"
+  },
+  {
+   "name": "Basooma",
+   "slug": "basooma",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form باسومة is an established Arabic lexical item. The source record's gloss 'Fruitful, fertile' could not be matched to a Tier-A/B lexical source. The iden"
+  },
+  {
+   "name": "Basra",
+   "slug": "basra",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bassam",
+   "slug": "bassam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bassem",
+   "slug": "bassem",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bassim",
+   "slug": "bassim",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Basyir",
+   "slug": "basyir",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Batal",
+   "slug": "batal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bathna",
+   "slug": "bathna",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form بثينة is an established Arabic lexical item. The source record's gloss 'Daughter of trust' could not be matched to a Tier-A/B lexical source. The ident"
+  },
+  {
+   "name": "Batia",
+   "slug": "batia",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form بثية is an established Arabic lexical item. The source record's gloss 'Daughter of God' could not be matched to a Tier-A/B lexical source. The identifi"
+  },
+  {
+   "name": "Batin",
+   "slug": "batin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Batool",
+   "slug": "batool",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Batoor",
+   "slug": "batoor",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form بتور is an established Arabic lexical item. The source record's gloss 'Pure, Clean' could not be matched to a Tier-A/B lexical source. The identificati"
+  },
+  {
+   "name": "Batoul",
+   "slug": "batoul",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Batrisyia",
+   "slug": "batrisyia",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form بترسيا is an established Arabic lexical item. The source record's gloss 'Daughter of God' could not be matched to a Tier-A/B lexical source. The identi"
+  },
+  {
+   "name": "Batu",
+   "slug": "batu",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form باتو is an established Arabic lexical item. The source record's gloss 'Rock, Stone' could not be matched to a Tier-A/B lexical source. The identificati"
+  },
+  {
+   "name": "Batul",
+   "slug": "batul",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Batula",
+   "slug": "batula",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bawan",
+   "slug": "bawan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": true,
+   "reason": "The form باوان is an established Arabic lexical item. The source record's gloss \"God's Blessings\" could not be matched to a Tier-A/B lexical source. The identif"
+  },
+  {
+   "name": "Bayaan",
+   "slug": "bayaan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bayan",
+   "slug": "bayan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unisex",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bayazid",
+   "slug": "bayazid",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bayda",
+   "slug": "bayda",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Baydaa",
+   "slug": "baydaa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bayram",
+   "slug": "bayram",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Baz",
+   "slug": "baz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Baza",
+   "slug": "baza",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form بازا is an established Arabic lexical item. The source record's gloss 'Richer, Wealthier' could not be matched to a Tier-A/B lexical source. The identi"
+  },
+  {
+   "name": "Bazan",
+   "slug": "bazan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form بازان is an established Arabic lexical item. The source record's gloss 'Powerful' could not be matched to a Tier-A/B lexical source. The identification"
+  },
+  {
+   "name": "Bazil",
+   "slug": "bazil",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bazilah",
+   "slug": "bazilah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Bazla",
+   "slug": "bazla",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form بزلة is an established Arabic lexical item. The source record's gloss 'Jasmine flower' could not be matched to a Tier-A/B lexical source. The identific"
   }
  ],
  "confidence_summary": {
-  "medium": 378,
-  "high": 533,
+  "medium": 382,
+  "high": 605,
   "unverified": 125,
-  "low": 364
+  "low": 388
  },
  "origin_summary": {
-  "Arabic": 1060,
+  "Arabic": 1154,
   "Unknown": 124,
-  "Hebrew": 12,
+  "Hebrew": 13,
   "Sanskrit": 6,
-  "Persian": 151,
+  "Persian": 155,
   "Yoruba": 1,
   "Latin": 1,
   "Pashto": 2,
-  "Turkish": 15,
+  "Turkish": 16,
   "Turkic": 13,
   "Irish": 1,
   "Greek": 3,
@@ -14038,7 +15038,7 @@
   "Kurdish": 7,
   "Akkadian": 1
  },
- "verified_forms": 1275,
+ "verified_forms": 1375,
  "unverified_forms": 125,
  "quality_gate": {
   "invalid_json": 0,
@@ -14051,6 +15051,6 @@
   "broken_text": 0,
   "total_failures": 0
  },
- "next_batch_starts_after": "bara",
- "updated_at": "2026-10-02T03:45:19Z"
+ "next_batch_starts_after": "bazla",
+ "updated_at": "2026-10-02T03:46:56Z"
 }

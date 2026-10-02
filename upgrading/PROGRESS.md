@@ -4,33 +4,33 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 1400 |
-| Current batch | 14 |
-| Batch range | badee .. bara (100) |
-| Verified forms | 1275 |
+| Names completed | 1500 |
+| Current batch | 15 |
+| Batch range | baraa .. bazla (100) |
+| Verified forms | 1375 |
 | Unverified forms (no gloss asserted) | 125 |
-| Next batch starts after | bara |
-| Updated | 2026-10-02T03:45:19Z |
+| Next batch starts after | bazla |
+| Updated | 2026-10-02T03:46:56Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 533 |
-| low | 364 |
-| medium | 378 |
+| high | 605 |
+| low | 388 |
+| medium | 382 |
 | unverified | 125 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 1060 |
-| Persian | 151 |
+| Arabic | 1154 |
+| Persian | 155 |
 | Unknown | 124 |
-| Turkish | 15 |
+| Turkish | 16 |
+| Hebrew | 13 |
 | Turkic | 13 |
-| Hebrew | 12 |
 | Kurdish | 7 |
 | Sanskrit | 6 |
 | Greek | 3 |
@@ -75,3 +75,4 @@
 | 12 | aus .. ayyoub | 100 | complete |
 | 13 | ayyub .. badawi | 100 | complete |
 | 14 | badee .. bara | 100 | complete |
+| 15 | baraa .. bazla | 100 | complete |
