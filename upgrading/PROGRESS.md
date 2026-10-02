@@ -4,30 +4,30 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 2100 |
-| Current batch | 21 |
-| Batch range | fahdah .. fareedah (100) |
-| Verified forms | 1975 |
+| Names completed | 2200 |
+| Current batch | 22 |
+| Batch range | fareeha .. fateem (100) |
+| Verified forms | 2075 |
 | Unverified forms (no gloss asserted) | 125 |
-| Next batch starts after | fareedah |
-| Updated | 2026-10-02T04:03:00Z |
+| Next batch starts after | fateem |
+| Updated | 2026-10-02T04:04:53Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 1059 |
-| low | 451 |
-| medium | 465 |
+| high | 1112 |
+| low | 470 |
+| medium | 493 |
 | unverified | 125 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 1526 |
-| Persian | 280 |
-| Unknown | 144 |
+| Arabic | 1572 |
+| Persian | 327 |
+| Unknown | 151 |
 | Hebrew | 54 |
 | Turkish | 32 |
 | Turkic | 17 |
@@ -87,3 +87,4 @@
 | 19 | diyaa .. elvina | 100 | complete |
 | 20 | emaad .. fahda | 100 | complete |
 | 21 | fahdah .. fareedah | 100 | complete |
+| 22 | fareeha .. fateem | 100 | complete |
