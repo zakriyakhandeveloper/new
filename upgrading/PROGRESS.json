@@ -3,14 +3,14 @@
  "culture": "islamic",
  "branch": "names-upgraded-v3",
  "total_names_in_slice": 5471,
- "names_completed": 5200,
- "current_batch": 52,
+ "names_completed": 5300,
+ "current_batch": 53,
  "batch_range": {
-  "first": "ramadan",
-  "last": "raz",
+  "first": "raza",
+  "last": "rohana",
   "count": 100
  },
- "batches_completed": 52,
+ "batches_completed": 53,
  "per_name": [
   {
    "name": "Aabid",
@@ -52011,35 +52011,1035 @@
    "gender": "Male",
    "manual_review_required": false,
    "reason": null
+  },
+  {
+   "name": "Raza",
+   "slug": "raza",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Razaan",
+   "slug": "razaan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Razak",
+   "slug": "razak",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Razan",
+   "slug": "razan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Razaq",
+   "slug": "razaq",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Razeen",
+   "slug": "razeen",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Razhan",
+   "slug": "razhan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Kurdish",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Razi",
+   "slug": "razi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Razia",
+   "slug": "razia",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Raziah",
+   "slug": "raziah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Razik",
+   "slug": "razik",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Razin",
+   "slug": "razin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Razina",
+   "slug": "razina",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Raziq",
+   "slug": "raziq",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Raziya",
+   "slug": "raziya",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Razwan",
+   "slug": "razwan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Razzak",
+   "slug": "razzak",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Razzaq",
+   "slug": "razzaq",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Reda",
+   "slug": "reda",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Reeham",
+   "slug": "reeham",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Reem",
+   "slug": "reem",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Reema",
+   "slug": "reema",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Reet",
+   "slug": "reet",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rehaam",
+   "slug": "rehaam",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rehaan",
+   "slug": "rehaan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rehab",
+   "slug": "rehab",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Reham",
+   "slug": "reham",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rehan",
+   "slug": "rehan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rehana",
+   "slug": "rehana",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rehena",
+   "slug": "rehena",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rehma",
+   "slug": "rehma",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rehman",
+   "slug": "rehman",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rehmat",
+   "slug": "rehmat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rehnuma",
+   "slug": "rehnuma",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Urdu",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Reja",
+   "slug": "reja",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rejab",
+   "slug": "rejab",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Renana",
+   "slug": "renana",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Resa",
+   "slug": "resa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Resha",
+   "slug": "resha",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Resham",
+   "slug": "resham",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Reyan",
+   "slug": "reyan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Reyhan",
+   "slug": "reyhan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Reyhana",
+   "slug": "reyhana",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Reza",
+   "slug": "reza",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Riad",
+   "slug": "riad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Riaz",
+   "slug": "riaz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rida",
+   "slug": "rida",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ridaa",
+   "slug": "ridaa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ridha",
+   "slug": "ridha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ridhaa",
+   "slug": "ridhaa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ridhwaan",
+   "slug": "ridhwaan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ridhwan",
+   "slug": "ridhwan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ridwaan",
+   "slug": "ridwaan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ridwan",
+   "slug": "ridwan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rifa",
+   "slug": "rifa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rifaa",
+   "slug": "rifaa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rifaat",
+   "slug": "rifaat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rifah",
+   "slug": "rifah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rifai",
+   "slug": "rifai",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rifal",
+   "slug": "rifal",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rifaqat",
+   "slug": "rifaqat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rifat",
+   "slug": "rifat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rifaya",
+   "slug": "rifaya",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Riffat",
+   "slug": "riffat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rifqah",
+   "slug": "rifqah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rifqi",
+   "slug": "rifqi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Riha",
+   "slug": "riha",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rihab",
+   "slug": "rihab",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Riham",
+   "slug": "riham",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rihan",
+   "slug": "rihan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rihana",
+   "slug": "rihana",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rija",
+   "slug": "rija",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rim",
+   "slug": "rim",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rima",
+   "slug": "rima",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rimal",
+   "slug": "rimal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rimas",
+   "slug": "rimas",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rimsha",
+   "slug": "rimsha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rina",
+   "slug": "rina",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rinad",
+   "slug": "rinad",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rishan",
+   "slug": "rishan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Riswana",
+   "slug": "riswana",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Riyaad",
+   "slug": "riyaad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Riyad",
+   "slug": "riyad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Riyadh",
+   "slug": "riyadh",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Riyah",
+   "slug": "riyah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Riyasat",
+   "slug": "riyasat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Riyaz",
+   "slug": "riyaz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Riyazul",
+   "slug": "riyazul",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Riza",
+   "slug": "riza",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rizq",
+   "slug": "rizq",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rizvan",
+   "slug": "rizvan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rizvi",
+   "slug": "rizvi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Urdu",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rizwaan",
+   "slug": "rizwaan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rizwan",
+   "slug": "rizwan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rizwana",
+   "slug": "rizwana",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rochdi",
+   "slug": "rochdi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Roha",
+   "slug": "roha",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rohaan",
+   "slug": "rohaan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rohail",
+   "slug": "rohail",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Rohana",
+   "slug": "rohana",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Malay",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
   }
  ],
  "confidence_summary": {
-  "high": 3197,
+  "high": 3273,
   "low": 729,
-  "medium": 1117,
+  "medium": 1141,
   "unverified": 157
  },
  "origin_summary": {
-  "Arabic": 4079,
+  "Arabic": 4172,
   "Unknown": 224,
-  "Persian": 647,
+  "Persian": 649,
   "Hebrew": 59,
   "Sanskrit": 12,
   "Yoruba": 2,
   "Latin": 2,
   "Pashto": 9,
-  "Turkish": 63,
+  "Turkish": 64,
   "Turkic": 18,
   "Irish": 2,
   "Greek": 8,
   "Punjabi": 3,
   "Basque": 1,
   "Berber": 1,
-  "Kurdish": 16,
+  "Kurdish": 17,
   "Akkadian": 1,
   "Slavic": 1,
   "Indonesian": 4,
-  "Urdu": 14,
+  "Urdu": 16,
   "Hindi": 12,
   "English": 4,
   "Somali": 1,
@@ -52053,9 +53053,9 @@
   "Malayalam": 1,
   "Bengali": 1,
   "Aramaic": 2,
-  "Malay": 1
+  "Malay": 2
  },
- "verified_forms": 5043,
+ "verified_forms": 5143,
  "unverified_forms": 157,
  "quality_gate": {
   "invalid_json": 0,
@@ -52068,6 +53068,6 @@
   "broken_text": 0,
   "total_failures": 0
  },
- "next_batch_starts_after": "raz",
- "updated_at": "2026-10-03T03:32:41Z"
+ "next_batch_starts_after": "rohana",
+ "updated_at": "2026-10-03T03:35:52Z"
 }

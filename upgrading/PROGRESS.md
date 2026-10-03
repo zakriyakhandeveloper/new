@@ -4,35 +4,35 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 5200 |
-| Current batch | 52 |
-| Batch range | ramadan .. raz (100) |
-| Verified forms | 5043 |
+| Names completed | 5300 |
+| Current batch | 53 |
+| Batch range | raza .. rohana (100) |
+| Verified forms | 5143 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | raz |
-| Updated | 2026-10-03T03:32:41Z |
+| Next batch starts after | rohana |
+| Updated | 2026-10-03T03:35:52Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 3197 |
+| high | 3273 |
 | low | 729 |
-| medium | 1117 |
+| medium | 1141 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 4079 |
-| Persian | 647 |
+| Arabic | 4172 |
+| Persian | 649 |
 | Unknown | 224 |
-| Turkish | 63 |
+| Turkish | 64 |
 | Hebrew | 59 |
 | Turkic | 18 |
-| Kurdish | 16 |
-| Urdu | 14 |
+| Kurdish | 17 |
+| Urdu | 16 |
 | Sanskrit | 12 |
 | Hindi | 12 |
 | Pashto | 9 |
@@ -47,6 +47,7 @@
 | Irish | 2 |
 | Chinese | 2 |
 | Aramaic | 2 |
+| Malay | 2 |
 | Basque | 1 |
 | Berber | 1 |
 | Akkadian | 1 |
@@ -58,7 +59,6 @@
 | Dutch | 1 |
 | Malayalam | 1 |
 | Bengali | 1 |
-| Malay | 1 |
 
 ## Quality gate
 
@@ -89,3 +89,4 @@
 | 50 | pouran .. rafaat | 100 | complete |
 | 51 | rafah .. raki | 100 | complete |
 | 52 | ramadan .. raz | 100 | complete |
+| 53 | raza .. rohana | 100 | complete |
