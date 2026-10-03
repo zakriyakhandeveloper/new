@@ -4,29 +4,29 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 4400 |
-| Current batch | 44 |
-| Batch range | murtada .. nacira (100) |
-| Verified forms | 4243 |
+| Names completed | 4500 |
+| Current batch | 45 |
+| Batch range | nada .. najid (100) |
+| Verified forms | 4343 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | nacira |
-| Updated | 2026-10-03T03:06:58Z |
+| Next batch starts after | najid |
+| Updated | 2026-10-03T03:10:05Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 2528 |
+| high | 2615 |
 | low | 729 |
-| medium | 986 |
+| medium | 999 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 3431 |
-| Persian | 540 |
+| Arabic | 3522 |
+| Persian | 544 |
 | Unknown | 224 |
 | Hebrew | 59 |
 | Turkish | 48 |
@@ -35,9 +35,9 @@
 | Sanskrit | 10 |
 | Pashto | 8 |
 | Greek | 8 |
-| Hindi | 5 |
+| Hindi | 8 |
+| Urdu | 4 |
 | Punjabi | 3 |
-| Urdu | 3 |
 | English | 3 |
 | Western | 3 |
 | Russian | 3 |
@@ -55,6 +55,7 @@
 | Germanic | 1 |
 | Spanish | 1 |
 | Dutch | 1 |
+| Malayalam | 1 |
 
 ## Quality gate
 
@@ -77,3 +78,4 @@
 | 42 | aabid .. mudasser | 100 | complete |
 | 43 | mudassir .. murshida | 100 | complete |
 | 44 | murtada .. nacira | 100 | complete |
+| 45 | nada .. najid | 100 | complete |
