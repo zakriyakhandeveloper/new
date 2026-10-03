@@ -1,0 +1,469 @@
+{
+  "success": true,
+  "data": {
+    "name": "Zlatan",
+    "slug": "zlatan",
+    "identity": {
+      "display_name": "Zlatan",
+      "normalized_name": "zlatan",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Zlatan",
+        "zlatan"
+      ],
+      "search_variants": [
+        "Zlatan",
+        "zlatan"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
+    },
+    "core_meaning": {
+      "short_meaning": "Zlatan; golden (Slavic)",
+      "primary_meaning": "Zlatan; golden (Slavic)",
+      "secondary_meanings": [],
+      "literal_meaning": "Zlatan; golden (Slavic)",
+      "extended_meaning": "Zlatan; golden (Slavic)",
+      "meaning_explanation": "Zlatan corresponds to the Slavic form زْلَاتَان (Slavic zlato (gold)). Its core sense is zlatan; golden (slavic). Zlatan is a Slavic (Bosnian) male given name, from zlato ('gold'), meaning 'golden'.",
+      "meaning_confidence": "high"
+    },
+    "etymology": {
+      "primary_language": "Slavic",
+      "lexical_form": "زْلَاتَان",
+      "transliteration": "zlatan",
+      "romanization": "zlatan",
+      "root_status": "Slavic zlato (gold)",
+      "etymological_meaning": [
+        "Zlatan; golden (Slavic)"
+      ],
+      "etymology_explanation": "The form زْلَاتَان is an established Slavic lexical item. Zlatan is a Slavic (Bosnian) male given name, from zlato ('gold'), meaning 'golden'.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Slavic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "زْلَاتَان is an established Arabic form.",
+        "Urdu": "زلاتان is used in Urdu.",
+        "Persian": "زلاتان is an established Persian form.",
+        "Hindi": "ज़्लातान is used in Hindi.",
+        "Pashto": "زلاتان is used in Pashto."
+      },
+      "language_confidence": "high"
+    },
+    "origin": {
+      "primary_origin": "Slavic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Slavic form زْلَاتَان. Zlatan is a Slavic (Bosnian) male given name, from zlato ('gold'), meaning 'golden'.",
+      "cultural_transmission": []
+    },
+    "religion": {
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Zlatan may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "Zlatan is a Slavic name, not a Quranic Arabic form."
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense zlatan; golden (slavic).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Zlatan; golden (Slavic)",
+      "related_concepts": [
+        "zlatan; golden (slavic)"
+      ],
+      "semantic_relationship": "The central semantic idea is zlatan; golden (slavic); other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of zlatan; golden (slavic).",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Zlatan; golden (slavic)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Zlatan",
+        "meaning": "Zlatan; golden (Slavic)",
+        "long_meaning": "Zlatan is a Slavic-origin name. Its core meaning is zlatan; golden (slavic). Zlatan is a Slavic (Bosnian) male given name, from zlato ('gold'), meaning 'golden'."
+      },
+      "urdu": {
+        "name": "زلاتان",
+        "meaning": "زلاتان، سنہری",
+        "long_meaning": "Zlatan (زلاتان) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم زلاتان، سنہری ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "زلاتان",
+        "meaning": "زلاتان، زرین",
+        "long_meaning": "Zlatan (زلاتان) نامی برگرفته از زبان نامعلوم است و معنای اصلی آن زلاتان، زرین است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "ज़्लातान",
+        "meaning": "ज़्लातान, स्वर्णिम",
+        "long_meaning": "Zlatan (ज़्लातान) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ ज़्लातान, स्वर्णिम है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "زلاتان",
+        "meaning": "زلاتان، زرین",
+        "long_meaning": "Zlatan (زلاتان) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې زلاتان، زرین ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "زْلَاتَان",
+        "meaning": "زْلَاتَان، ذَهَبِيّ",
+        "long_meaning": "Zlatan (زْلَاتَان) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي زْلَاتَان، ذَهَبِيّ. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
+    },
+    "pronunciation": {
+      "romanized": "zla-tan",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "زلاتان",
+      "persian": "زلاتان",
+      "hindi": "ज़्लातान",
+      "pashto": "زلاتان"
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Zlatan",
+        "zlatan"
+      ],
+      "script_variants": [
+        "زلاتان",
+        "زْلَاتَان",
+        "ज़्लातान"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form زْلَاتَان is an established Slavic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Zlatan can be understood through the Slavic form زْلَاتَان, whose central sense is zlatan; golden (slavic). Zlatan is a Slavic (Bosnian) male given name, from zlato ('gold'), meaning 'golden'.",
+      "is_fictional": false
+    },
+    "faq": [
+      {
+        "question": "What does Zlatan mean?",
+        "answer": "Zlatan is associated with the Slavic form زْلَاتَان, whose core sense is zlatan; golden (slavic)."
+      },
+      {
+        "question": "What is the origin of Zlatan?",
+        "answer": "Zlatan is associated with Slavic. Zlatan is a Slavic (Bosnian) male given name, from zlato ('gold'), meaning 'golden'."
+      },
+      {
+        "question": "Is Zlatan an Arabic name?",
+        "answer": "No — the underlying form is Slavic, not Arabic."
+      },
+      {
+        "question": "Is Zlatan an Islamic name?",
+        "answer": "Zlatan can occur in Muslim naming contexts, but it is better described as a Slavic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Zlatan a Quranic name?",
+        "answer": "Zlatan should not be classified as a Quranic personal name without a direct Quranic basis. Zlatan is a Slavic name, not a Quranic Arabic form."
+      },
+      {
+        "question": "What does Zlatan mean in Urdu?",
+        "answer": "In Urdu, Zlatan is rendered زلاتان and carries the sense زلاتان، سنہری."
+      },
+      {
+        "question": "What does Zlatan mean in Persian?",
+        "answer": "In Persian, Zlatan is rendered زلاتان and carries the sense زلاتان، زرین."
+      },
+      {
+        "question": "How is Zlatan pronounced?",
+        "answer": "A romanized syllable approximation is zla-tan. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Zlatan?",
+        "answer": "Romanization variants include Zlatan, zlatan. Script forms are زلاتان, زْلَاتَان, ज़्लातान."
+      },
+      {
+        "question": "Is Zlatan a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+      }
+    ],
+    "seo": {
+      "title": "Zlatan Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Slavic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Zlatan (زْلَاتَان).",
+      "h1": "Zlatan Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Zlatan meaning",
+      "secondary_keywords": [
+        "Zlatan name meaning",
+        "Zlatan meaning in Urdu",
+        "Zlatan origin",
+        "Zlatan Islamic name",
+        "Zlatan pronunciation",
+        "Zlatan name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Zlatan (زْلَاتَان) is associated with the Slavic form زْلَاتَان, whose core sense is zlatan; golden (slavic). Zlatan is a Slavic (Bosnian) male given name, from zlato ('gold'), meaning 'golden'.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Zlatan is associated with the Slavic form زْلَاتَان, whose core sense is zlatan; golden (slavic).",
+      "meaning_section": "The central meaning of Zlatan is zlatan; golden (slavic).",
+      "origin_section": "Zlatan is associated with Slavic rather than with a different language.",
+      "islam_section": "Zlatan can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Zlatan is with the sense zlatan; golden (slavic).",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Zlatan",
+      "#ZlatanMeaning",
+      "#ZlatanName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
+      ]
+    },
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Zlatan corresponds to the Slavic form زْلَاتَان",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Zlatan has the core sense zlatan; golden (slavic)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
+      ],
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
+      ],
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "Zlatan",
+      "alternateName": [
+        "Zlatan",
+        "zlatan"
+      ],
+      "description": "A name associated with the Slavic form زْلَاتَان, meaning zlatan; golden (slavic).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "zlatan",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Slavic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
+        }
+      ]
+    },
+    "accessibility": {
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Zlatan, associated with the Slavic form زْلَاتَان, meaning zlatan; golden (slavic)."
+    },
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
+  }
+}
