@@ -1,0 +1,476 @@
+{
+  "success": true,
+  "data": {
+    "name": "Shahrzad",
+    "slug": "shahrzad",
+    "identity": {
+      "display_name": "Shahrzad",
+      "normalized_name": "shahrzad",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Shahrzad",
+        "shahrzad"
+      ],
+      "search_variants": [
+        "Shahrzad",
+        "shahrzad"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
+    },
+    "core_meaning": {
+      "short_meaning": "Shahrzad; city-born (Persian)",
+      "primary_meaning": "Shahrzad; city-born (Persian)",
+      "secondary_meanings": [],
+      "literal_meaning": "Shahrzad; city-born (Persian)",
+      "extended_meaning": "Shahrzad; city-born (Persian)",
+      "meaning_explanation": "Shahrzad corresponds to the Persian form شَهْرْزَاد (Persian شهرزاد (Shahrzād)). Its core sense is shahrzad; city-born (persian). Shahrzad is Persian شهرزاد (Shahrzād), meaning 'city-born'. It is the name of the storyteller in the Thousand and One Nights.",
+      "meaning_confidence": "high"
+    },
+    "etymology": {
+      "primary_language": "Persian",
+      "lexical_form": "شَهْرْزَاد",
+      "transliteration": "shahrzad",
+      "romanization": "shahrzad",
+      "root_status": "Persian شهرزاد (Shahrzād)",
+      "etymological_meaning": [
+        "Shahrzad; city-born (Persian)"
+      ],
+      "etymology_explanation": "The form شَهْرْزَاد is an established Persian lexical item. Shahrzad is Persian شهرزاد (Shahrzād), meaning 'city-born'. It is the name of the storyteller in the Thousand and One Nights.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Persian",
+      "associated_languages": [
+        "Urdu",
+        "Hindi",
+        "Pashto"
+      ],
+      "language_notes": {
+        "Arabic": "شَهْرْزَاد is an established Arabic form.",
+        "Urdu": "شہرزاد is used in Urdu.",
+        "Persian": "شهرزاد is an established Persian form.",
+        "Hindi": "शहरज़ाद is used in Hindi.",
+        "Pashto": "شهرزاد is used in Pashto."
+      },
+      "language_confidence": "high"
+    },
+    "origin": {
+      "primary_origin": "Persian",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Persian form شَهْرْزَاد. Shahrzad is Persian شهرزاد (Shahrzād), meaning 'city-born'. It is the name of the storyteller in the Thousand and One Nights.",
+      "cultural_transmission": [
+        "Persian",
+        "Persianate South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Persianate cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Shahrzad may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "Shahrzād is a Persian name, not a Quranic Arabic form."
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Persian",
+        "Persianate South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense shahrzad; city-born (persian).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Shahrzad; city-born (Persian)",
+      "related_concepts": [
+        "shahrzad; city-born (persian)"
+      ],
+      "semantic_relationship": "The central semantic idea is shahrzad; city-born (persian); other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of shahrzad; city-born (persian).",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Shahrzad; city-born (persian)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Shahrzad",
+        "meaning": "Shahrzad; city-born (Persian)",
+        "long_meaning": "Shahrzad is a Persian-origin name. Its core meaning is shahrzad; city-born (persian). Shahrzad is Persian شهرزاد (Shahrzād), meaning 'city-born'. It is the name of the storyteller in the Thousand and One Nights."
+      },
+      "urdu": {
+        "name": "شہرزاد",
+        "meaning": "شہرزاد، شہر کی پیدائش",
+        "long_meaning": "Shahrzad (شہرزاد) فارسی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم شہرزاد، شہر کی پیدائش ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "شهرزاد",
+        "meaning": "شهرزاد، زاده شهر",
+        "long_meaning": "Shahrzad (شهرزاد) نامی برگرفته از زبان فارسی است و معنای اصلی آن شهرزاد، زاده شهر است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "शहरज़ाद",
+        "meaning": "शहरज़ाद, नगर-जात",
+        "long_meaning": "Shahrzad (शहरज़ाद) फ़ारसी भाषा से लिया गया नाम है। इसका मुख्य अर्थ शहरज़ाद, नगर-जात है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "شهرزاد",
+        "meaning": "شهرزاد، د ښار زېږېدلې",
+        "long_meaning": "Shahrzad (شهرزاد) د فارسي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې شهرزاد، د ښار زېږېدلې ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "شَهْرْزَاد",
+        "meaning": "شَهْرْزَاد، مَوْلُودَةُ الْمَدِينَة",
+        "long_meaning": "Shahrzad (شَهْرْزَاد) اسم مأخوذ من اللغة الفارسية، ومعناه الأساسي شَهْرْزَاد، مَوْلُودَةُ الْمَدِينَة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
+    },
+    "pronunciation": {
+      "romanized": "shah-rzad",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "شہرزاد",
+      "persian": "شهرزاد",
+      "hindi": "शहरज़ाद",
+      "pashto": "شهرزاد"
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Shahrzad",
+        "shahrzad"
+      ],
+      "script_variants": [
+        "شهرزاد",
+        "شَهْرْزَاد",
+        "شہرزاد",
+        "शहरज़ाद"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form شَهْرْزَاد is an established Persian lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Shahrzad can be understood through the Persian form شَهْرْزَاد, whose central sense is shahrzad; city-born (persian). Shahrzad is Persian شهرزاد (Shahrzād), meaning 'city-born'. It is the name of the storyteller in the Thousand and One Nights.",
+      "is_fictional": false
+    },
+    "faq": [
+      {
+        "question": "What does Shahrzad mean?",
+        "answer": "Shahrzad is associated with the Persian form شَهْرْزَاد, whose core sense is shahrzad; city-born (persian)."
+      },
+      {
+        "question": "What is the origin of Shahrzad?",
+        "answer": "Shahrzad is associated with Persian. Shahrzad is Persian شهرزاد (Shahrzād), meaning 'city-born'. It is the name of the storyteller in the Thousand and One Nights."
+      },
+      {
+        "question": "Is Shahrzad an Arabic name?",
+        "answer": "No — the underlying form is Persian, not Arabic."
+      },
+      {
+        "question": "Is Shahrzad an Islamic name?",
+        "answer": "Shahrzad can occur in Muslim naming contexts, but it is better described as a Persian-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Shahrzad a Quranic name?",
+        "answer": "Shahrzad should not be classified as a Quranic personal name without a direct Quranic basis. Shahrzād is a Persian name, not a Quranic Arabic form."
+      },
+      {
+        "question": "What does Shahrzad mean in Urdu?",
+        "answer": "In Urdu, Shahrzad is rendered شہرزاد and carries the sense شہرزاد، شہر کی پیدائش."
+      },
+      {
+        "question": "What does Shahrzad mean in Persian?",
+        "answer": "In Persian, Shahrzad is rendered شهرزاد and carries the sense شهرزاد، زاده شهر."
+      },
+      {
+        "question": "How is Shahrzad pronounced?",
+        "answer": "A romanized syllable approximation is shah-rzad. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Shahrzad?",
+        "answer": "Romanization variants include Shahrzad, shahrzad. Script forms are شهرزاد, شَهْرْزَاد, شہرزاد, शहरज़ाद."
+      },
+      {
+        "question": "Is Shahrzad a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+      }
+    ],
+    "seo": {
+      "title": "Shahrzad Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Persian origin, Urdu meaning, pronunciation, variants and Islamic naming context of Shahrzad (شَهْرْزَاد).",
+      "h1": "Shahrzad Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Shahrzad meaning",
+      "secondary_keywords": [
+        "Shahrzad name meaning",
+        "Shahrzad meaning in Urdu",
+        "Shahrzad origin",
+        "Shahrzad Islamic name",
+        "Shahrzad pronunciation",
+        "Shahrzad name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Shahrzad (شَهْرْزَاد) is associated with the Persian form شَهْرْزَاد, whose core sense is shahrzad; city-born (persian). Shahrzad is Persian شهرزاد (Shahrzād), meaning 'city-born'. It is the name of the storyteller in the Thousand and One Nights.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Shahrzad is associated with the Persian form شَهْرْزَاد, whose core sense is shahrzad; city-born (persian).",
+      "meaning_section": "The central meaning of Shahrzad is shahrzad; city-born (persian).",
+      "origin_section": "Shahrzad is associated with Persian rather than with a different language.",
+      "islam_section": "Shahrzad can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Shahrzad is with the sense shahrzad; city-born (persian).",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Shahrzad",
+      "#ShahrzadMeaning",
+      "#ShahrzadName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
+      ]
+    },
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Shahrzad corresponds to the Persian form شَهْرْزَاد",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Shahrzad has the core sense shahrzad; city-born (persian)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
+      ],
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
+      ],
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "Shahrzad",
+      "alternateName": [
+        "Shahrzad",
+        "shahrzad"
+      ],
+      "description": "A name associated with the Persian form شَهْرْزَاد, meaning shahrzad; city-born (persian).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "shahrzad",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Persian"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
+        }
+      ]
+    },
+    "accessibility": {
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Shahrzad, associated with the Persian form شَهْرْزَاد, meaning shahrzad; city-born (persian)."
+    },
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
+  }
+}
