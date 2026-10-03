@@ -1,0 +1,481 @@
+{
+  "success": true,
+  "data": {
+    "name": "Rahmah",
+    "slug": "rahmah",
+    "identity": {
+      "display_name": "Rahmah",
+      "normalized_name": "rahmah",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Rahmah",
+        "rahmah"
+      ],
+      "search_variants": [
+        "Rahmah",
+        "rahmah"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
+    },
+    "core_meaning": {
+      "short_meaning": "Rahmah; mercy, compassion",
+      "primary_meaning": "Rahmah; mercy",
+      "secondary_meanings": [
+        "compassion"
+      ],
+      "literal_meaning": "Rahmah; mercy",
+      "extended_meaning": "Rahmah; mercy, compassion",
+      "meaning_explanation": "Rahmah corresponds to the Arabic form رَحْمَة (Arabic root ر ح م (r-ḥ-m); رَحْمَة (Raḥma)). Its core sense is rahmah; mercy, compassion. Rahmah is Arabic رَحْمَة (Raḥma) 'mercy, compassion', from the root ر ح م (r-ḥ-m). The source gloss 'Mercy' is consistent. Same name as rahma.",
+      "meaning_confidence": "high"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "رَحْمَة",
+      "transliteration": "rahmah",
+      "romanization": "rahmah",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Rahmah; mercy",
+        "compassion"
+      ],
+      "etymology_explanation": "The form رَحْمَة is an established Arabic lexical item. Rahmah is Arabic رَحْمَة (Raḥma) 'mercy, compassion', from the root ر ح م (r-ḥ-m). The source gloss 'Mercy' is consistent. Same name as rahma.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "رَحْمَة is an established Arabic form.",
+        "Urdu": "رحمہ is used in Urdu.",
+        "Persian": "رحمه is an established Persian form.",
+        "Hindi": "रहमा is used in Hindi.",
+        "Pashto": "رحمه is used in Pashto."
+      },
+      "language_confidence": "high"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form رَحْمَة. Rahmah is Arabic رَحْمَة (Raḥma) 'mercy, compassion', from the root ر ح م (r-ḥ-m). The source gloss 'Mercy' is consistent. Same name as rahma.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Rahmah may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense rahmah; mercy, compassion.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Rahmah; mercy",
+      "related_concepts": [
+        "rahmah; mercy",
+        "compassion"
+      ],
+      "semantic_relationship": "The central semantic idea is rahmah; mercy; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of rahmah; mercy.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Rahmah; mercy",
+        "Compassion"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Rahmah",
+        "meaning": "Rahmah; mercy, compassion",
+        "long_meaning": "Rahmah is a Arabic-origin name. Its core meaning is rahmah; mercy, compassion. Rahmah is Arabic رَحْمَة (Raḥma) 'mercy, compassion', from the root ر ح م (r-ḥ-m). The source gloss 'Mercy' is consistent. Same name as rahma."
+      },
+      "urdu": {
+        "name": "رحمہ",
+        "meaning": "رحمہ، رحمت",
+        "long_meaning": "Rahmah (رحمہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم رحمہ، رحمت ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "رحمه",
+        "meaning": "رحمه، رحمت",
+        "long_meaning": "Rahmah (رحمه) نامی برگرفته از زبان عربی است و معنای اصلی آن رحمه، رحمت است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "रहमा",
+        "meaning": "रहमा, दया",
+        "long_meaning": "Rahmah (रहमा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ रहमा, दया है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "رحمه",
+        "meaning": "رحمه، رحمت",
+        "long_meaning": "Rahmah (رحمه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې رحمه، رحمت ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "رَحْمَة",
+        "meaning": "الرَّحْمَة",
+        "long_meaning": "Rahmah (رَحْمَة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الرَّحْمَة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
+    },
+    "pronunciation": {
+      "romanized": "rah-mah",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "رحمہ",
+      "persian": "رحمه",
+      "hindi": "रहमा",
+      "pashto": "رحمه"
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Rahmah",
+        "rahmah"
+      ],
+      "script_variants": [
+        "رحمه",
+        "رحمہ",
+        "رَحْمَة",
+        "रहमा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form رَحْمَة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Rahmah can be understood through the Arabic form رَحْمَة, whose central sense is rahmah; mercy, compassion. Rahmah is Arabic رَحْمَة (Raḥma) 'mercy, compassion', from the root ر ح م (r-ḥ-m). The source gloss 'Mercy' is consistent. Same name as rahma.",
+      "is_fictional": false
+    },
+    "faq": [
+      {
+        "question": "What does Rahmah mean?",
+        "answer": "Rahmah is associated with the Arabic form رَحْمَة, whose core sense is rahmah; mercy, compassion."
+      },
+      {
+        "question": "What is the origin of Rahmah?",
+        "answer": "Rahmah is associated with Arabic. Rahmah is Arabic رَحْمَة (Raḥma) 'mercy, compassion', from the root ر ح م (r-ḥ-m). The source gloss 'Mercy' is consistent. Same name as rahma."
+      },
+      {
+        "question": "Is Rahmah an Arabic name?",
+        "answer": "Yes — the underlying form رَحْمَة is Arabic."
+      },
+      {
+        "question": "Is Rahmah an Islamic name?",
+        "answer": "Rahmah can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Rahmah a Quranic name?",
+        "answer": "Rahmah should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Rahmah mean in Urdu?",
+        "answer": "In Urdu, Rahmah is rendered رحمہ and carries the sense رحمہ، رحمت."
+      },
+      {
+        "question": "What does Rahmah mean in Persian?",
+        "answer": "In Persian, Rahmah is rendered رحمه and carries the sense رحمه، رحمت."
+      },
+      {
+        "question": "How is Rahmah pronounced?",
+        "answer": "A romanized syllable approximation is rah-mah. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Rahmah?",
+        "answer": "Romanization variants include Rahmah, rahmah. Script forms are رحمه, رحمہ, رَحْمَة, रहमा."
+      },
+      {
+        "question": "Is Rahmah a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+      }
+    ],
+    "seo": {
+      "title": "Rahmah Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Rahmah (رَحْمَة).",
+      "h1": "Rahmah Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Rahmah meaning",
+      "secondary_keywords": [
+        "Rahmah name meaning",
+        "Rahmah meaning in Urdu",
+        "Rahmah origin",
+        "Rahmah Islamic name",
+        "Rahmah pronunciation",
+        "Rahmah name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Rahmah (رَحْمَة) is associated with the Arabic form رَحْمَة, whose core sense is rahmah; mercy, compassion. Rahmah is Arabic رَحْمَة (Raḥma) 'mercy, compassion', from the root ر ح م (r-ḥ-m). The source gloss 'Mercy' is consistent. Same name as rahma.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Rahmah is associated with the Arabic form رَحْمَة, whose core sense is rahmah; mercy, compassion.",
+      "meaning_section": "The central meaning of Rahmah is rahmah; mercy, compassion.",
+      "origin_section": "Rahmah is associated with Arabic rather than with a different language.",
+      "islam_section": "Rahmah can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Rahmah is with the sense rahmah; mercy.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Rahmah",
+      "#RahmahMeaning",
+      "#RahmahName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
+      ]
+    },
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Rahmah corresponds to the Arabic form رَحْمَة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Rahmah has the core sense rahmah; mercy, compassion",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
+      ],
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
+      ],
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "Rahmah",
+      "alternateName": [
+        "Rahmah",
+        "rahmah"
+      ],
+      "description": "A name associated with the Arabic form رَحْمَة, meaning rahmah; mercy, compassion.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "rahmah",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
+        }
+      ]
+    },
+    "accessibility": {
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Rahmah, associated with the Arabic form رَحْمَة, meaning rahmah; mercy, compassion."
+    },
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
+  }
+}

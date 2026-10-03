@@ -4,37 +4,37 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 5000 |
-| Current batch | 50 |
-| Batch range | pouran .. rafaat (100) |
-| Verified forms | 4843 |
+| Names completed | 5100 |
+| Current batch | 51 |
+| Batch range | rafah .. raki (100) |
+| Verified forms | 4943 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | rafaat |
-| Updated | 2026-10-03T03:26:59Z |
+| Next batch starts after | raki |
+| Updated | 2026-10-03T03:30:06Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 3037 |
+| high | 3119 |
 | low | 729 |
-| medium | 1077 |
+| medium | 1095 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 3895 |
-| Persian | 637 |
+| Arabic | 3990 |
+| Persian | 640 |
 | Unknown | 224 |
 | Turkish | 61 |
 | Hebrew | 59 |
 | Turkic | 18 |
 | Kurdish | 16 |
+| Sanskrit | 12 |
 | Urdu | 12 |
 | Hindi | 12 |
-| Sanskrit | 10 |
 | Pashto | 9 |
 | Greek | 8 |
 | Indonesian | 4 |
@@ -87,3 +87,4 @@
 | 48 | nevine .. nuha | 100 | complete |
 | 49 | nuhaa .. pir | 100 | complete |
 | 50 | pouran .. rafaat | 100 | complete |
+| 51 | rafah .. raki | 100 | complete |
