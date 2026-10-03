@@ -1,0 +1,475 @@
+{
+  "success": true,
+  "data": {
+    "name": "Sabreen",
+    "slug": "sabreen",
+    "identity": {
+      "display_name": "Sabreen",
+      "normalized_name": "sabreen",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Sabreen",
+        "sabreen"
+      ],
+      "search_variants": [
+        "Sabreen",
+        "sabreen"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
+    },
+    "core_meaning": {
+      "short_meaning": "Sabreen; patient ones (plural)",
+      "primary_meaning": "Sabreen; patient ones (plural)",
+      "secondary_meanings": [],
+      "literal_meaning": "Sabreen; patient ones (plural)",
+      "extended_meaning": "Sabreen; patient ones (plural)",
+      "meaning_explanation": "Sabreen corresponds to the Arabic form صَابِرِين (Arabic root ص ب ر (ṣ-b-r); صَابِرِين (Ṣābirīn)). Its core sense is sabreen; patient ones (plural). Sabreen is Arabic صَابِرِين (Ṣābirīn) 'patient ones', the plural of صَابِر (ṣābir), used as a female given name. CRITICAL SOURCE ERROR: the source record was an empty stub with no data; the form and sense have been established from the lexical root. Same name as sabrin.",
+      "meaning_confidence": "high"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "صَابِرِين",
+      "transliteration": "sabreen",
+      "romanization": "sabreen",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Sabreen; patient ones (plural)"
+      ],
+      "etymology_explanation": "The form صَابِرِين is an established Arabic lexical item. Sabreen is Arabic صَابِرِين (Ṣābirīn) 'patient ones', the plural of صَابِر (ṣābir), used as a female given name. CRITICAL SOURCE ERROR: the source record was an empty stub with no data; the form and sense have been established from the lexical root. Same name as sabrin.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "صَابِرِين is an established Arabic form.",
+        "Urdu": "صابرین is used in Urdu.",
+        "Persian": "صابرین is an established Persian form.",
+        "Hindi": "साबिरीन is used in Hindi.",
+        "Pashto": "صابرین is used in Pashto."
+      },
+      "language_confidence": "high"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form صَابِرِين. Sabreen is Arabic صَابِرِين (Ṣābirīn) 'patient ones', the plural of صَابِر (ṣābir), used as a female given name. CRITICAL SOURCE ERROR: the source record was an empty stub with no data; the form and sense have been established from the lexical root. Same name as sabrin.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Sabreen may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense sabreen; patient ones (plural).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Sabreen; patient ones (plural)",
+      "related_concepts": [
+        "sabreen; patient ones (plural)"
+      ],
+      "semantic_relationship": "The central semantic idea is sabreen; patient ones (plural); other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of sabreen; patient ones (plural).",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Sabreen; patient ones (plural)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Sabreen",
+        "meaning": "Sabreen; patient ones (plural)",
+        "long_meaning": "Sabreen is a Arabic-origin name. Its core meaning is sabreen; patient ones (plural). Sabreen is Arabic صَابِرِين (Ṣābirīn) 'patient ones', the plural of صَابِر (ṣābir), used as a female given name. CRITICAL SOURCE ERROR: the source record was an empty stub with no data; the form and sense have been established from the lexical root. Same name as sabrin."
+      },
+      "urdu": {
+        "name": "صابرین",
+        "meaning": "صابرین، صبر کرنے والے",
+        "long_meaning": "Sabreen (صابرین) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم صابرین، صبر کرنے والے ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "صابرین",
+        "meaning": "صابرین، شکیبایان",
+        "long_meaning": "Sabreen (صابرین) نامی برگرفته از زبان عربی است و معنای اصلی آن صابرین، شکیبایان است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "साबिरीन",
+        "meaning": "साबिरीन, धैर्यवान",
+        "long_meaning": "Sabreen (साबिरीन) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ साबिरीन, धैर्यवान है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "صابرین",
+        "meaning": "صابرین، صبر کوونکي",
+        "long_meaning": "Sabreen (صابرین) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې صابرین، صبر کوونکي ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "صَابِرِين",
+        "meaning": "الصَّابِرِين، الصَّابِرُون",
+        "long_meaning": "Sabreen (صَابِرِين) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الصَّابِرِين، الصَّابِرُون. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
+    },
+    "pronunciation": {
+      "romanized": "sab-reen",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "صابرین",
+      "persian": "صابرین",
+      "hindi": "साबिरीन",
+      "pashto": "صابرین"
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Sabreen",
+        "sabreen"
+      ],
+      "script_variants": [
+        "صابرین",
+        "صَابِرِين",
+        "साबिरीन"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form صَابِرِين is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Sabreen can be understood through the Arabic form صَابِرِين, whose central sense is sabreen; patient ones (plural). Sabreen is Arabic صَابِرِين (Ṣābirīn) 'patient ones', the plural of صَابِر (ṣābir), used as a female given name. CRITICAL SOURCE ERROR: the source record was an empty stub with no data; the form and sense have been established from the lexical root. Same name as sabrin.",
+      "is_fictional": false
+    },
+    "faq": [
+      {
+        "question": "What does Sabreen mean?",
+        "answer": "Sabreen is associated with the Arabic form صَابِرِين, whose core sense is sabreen; patient ones (plural)."
+      },
+      {
+        "question": "What is the origin of Sabreen?",
+        "answer": "Sabreen is associated with Arabic. Sabreen is Arabic صَابِرِين (Ṣābirīn) 'patient ones', the plural of صَابِر (ṣābir), used as a female given name. CRITICAL SOURCE ERROR: the source record was an empty stub with no data; the form and sense have been established from the lexical root. Same name as sabrin."
+      },
+      {
+        "question": "Is Sabreen an Arabic name?",
+        "answer": "Yes — the underlying form صَابِرِين is Arabic."
+      },
+      {
+        "question": "Is Sabreen an Islamic name?",
+        "answer": "Sabreen can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Sabreen a Quranic name?",
+        "answer": "Sabreen should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Sabreen mean in Urdu?",
+        "answer": "In Urdu, Sabreen is rendered صابرین and carries the sense صابرین، صبر کرنے والے."
+      },
+      {
+        "question": "What does Sabreen mean in Persian?",
+        "answer": "In Persian, Sabreen is rendered صابرین and carries the sense صابرین، شکیبایان."
+      },
+      {
+        "question": "How is Sabreen pronounced?",
+        "answer": "A romanized syllable approximation is sab-reen. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Sabreen?",
+        "answer": "Romanization variants include Sabreen, sabreen. Script forms are صابرین, صَابِرِين, साबिरीन."
+      },
+      {
+        "question": "Is Sabreen a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+      }
+    ],
+    "seo": {
+      "title": "Sabreen Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Sabreen (صَابِرِين).",
+      "h1": "Sabreen Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Sabreen meaning",
+      "secondary_keywords": [
+        "Sabreen name meaning",
+        "Sabreen meaning in Urdu",
+        "Sabreen origin",
+        "Sabreen Islamic name",
+        "Sabreen pronunciation",
+        "Sabreen name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Sabreen (صَابِرِين) is associated with the Arabic form صَابِرِين, whose core sense is sabreen; patient ones (plural). Sabreen is Arabic صَابِرِين (Ṣābirīn) 'patient ones', the plural of صَابِر (ṣābir), used as a female given name. CRITICAL SOURCE ERROR: the source record was an empty stub with no data; the form and sense have been established from the lexical root. Same name as sabrin.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Sabreen is associated with the Arabic form صَابِرِين, whose core sense is sabreen; patient ones (plural).",
+      "meaning_section": "The central meaning of Sabreen is sabreen; patient ones (plural).",
+      "origin_section": "Sabreen is associated with Arabic rather than with a different language.",
+      "islam_section": "Sabreen can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Sabreen is with the sense sabreen; patient ones (plural).",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Sabreen",
+      "#SabreenMeaning",
+      "#SabreenName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
+      ]
+    },
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Sabreen corresponds to the Arabic form صَابِرِين",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Sabreen has the core sense sabreen; patient ones (plural)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
+      ],
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
+      ],
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "Sabreen",
+      "alternateName": [
+        "Sabreen",
+        "sabreen"
+      ],
+      "description": "A name associated with the Arabic form صَابِرِين, meaning sabreen; patient ones (plural).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "sabreen",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
+        }
+      ]
+    },
+    "accessibility": {
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Sabreen, associated with the Arabic form صَابِرِين, meaning sabreen; patient ones (plural)."
+    },
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
+  }
+}

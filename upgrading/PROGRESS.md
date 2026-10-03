@@ -4,41 +4,41 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 5400 |
-| Current batch | 54 |
-| Batch range | rohi .. sabahat (100) |
-| Verified forms | 5243 |
+| Names completed | 5493 |
+| Current batch | 55 |
+| Batch range | sabawoon .. safwa (93) |
+| Verified forms | 5336 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | sabahat |
-| Updated | 2026-10-03T03:38:54Z |
+| Next batch starts after | safwa |
+| Updated | 2026-10-03T03:42:33Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 3354 |
+| high | 3424 |
 | low | 729 |
-| medium | 1160 |
+| medium | 1183 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 4246 |
-| Persian | 661 |
+| Arabic | 4331 |
+| Persian | 664 |
 | Unknown | 224 |
-| Turkish | 66 |
-| Hebrew | 61 |
+| Turkish | 67 |
+| Hebrew | 63 |
 | Urdu | 22 |
 | Kurdish | 20 |
 | Turkic | 18 |
 | Sanskrit | 12 |
 | Hindi | 12 |
-| Pashto | 9 |
+| Pashto | 10 |
 | Greek | 8 |
+| English | 5 |
 | Indonesian | 4 |
-| English | 4 |
 | Punjabi | 3 |
 | Western | 3 |
 | Russian | 3 |
@@ -91,3 +91,4 @@
 | 52 | ramadan .. raz | 100 | complete |
 | 53 | raza .. rohana | 100 | complete |
 | 54 | rohi .. sabahat | 100 | complete |
+| 55 | sabawoon .. safwa | 93 | complete |
