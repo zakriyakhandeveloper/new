@@ -1,0 +1,470 @@
+{
+  "success": true,
+  "data": {
+    "name": "Saule",
+    "slug": "saule",
+    "identity": {
+      "display_name": "Saule",
+      "normalized_name": "saule",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Saule",
+        "saule"
+      ],
+      "search_variants": [
+        "Saule",
+        "saule"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
+    },
+    "core_meaning": {
+      "short_meaning": "Saule; ray of light (Kazakh)",
+      "primary_meaning": "Saule; ray of light (Kazakh)",
+      "secondary_meanings": [],
+      "literal_meaning": "Saule; ray of light (Kazakh)",
+      "extended_meaning": "Saule; ray of light (Kazakh)",
+      "meaning_explanation": "Saule corresponds to the Kazakh form سَاوْلِه (Kazakh Сәуле (Säule)). Its core sense is saule; ray of light (kazakh). Saule is Kazakh сәуле, meaning 'ray of light'. It is used as a female given name.",
+      "meaning_confidence": "high"
+    },
+    "etymology": {
+      "primary_language": "Kazakh",
+      "lexical_form": "سَاوْلِه",
+      "transliteration": "saule",
+      "romanization": "saule",
+      "root_status": "Kazakh Сәуле (Säule)",
+      "etymological_meaning": [
+        "Saule; ray of light (Kazakh)"
+      ],
+      "etymology_explanation": "The form سَاوْلِه is an established Kazakh lexical item. Saule is Kazakh сәуле, meaning 'ray of light'. It is used as a female given name.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Kazakh",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "سَاوْلِه is an established Arabic form.",
+        "Urdu": "ساولے is used in Urdu.",
+        "Persian": "ساوله is an established Persian form.",
+        "Hindi": "सौले is used in Hindi.",
+        "Pashto": "ساوله is used in Pashto."
+      },
+      "language_confidence": "high"
+    },
+    "origin": {
+      "primary_origin": "Kazakh",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Kazakh form سَاوْلِه. Saule is Kazakh сәуле, meaning 'ray of light'. It is used as a female given name.",
+      "cultural_transmission": []
+    },
+    "religion": {
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Saule may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "Säule is a Kazakh word, not a Quranic Arabic form."
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense saule; ray of light (kazakh).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Saule; ray of light (Kazakh)",
+      "related_concepts": [
+        "saule; ray of light (kazakh)"
+      ],
+      "semantic_relationship": "The central semantic idea is saule; ray of light (kazakh); other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of saule; ray of light (kazakh).",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Saule; ray of light (kazakh)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Saule",
+        "meaning": "Saule; ray of light (Kazakh)",
+        "long_meaning": "Saule is a Kazakh-origin name. Its core meaning is saule; ray of light (kazakh). Saule is Kazakh сәуле, meaning 'ray of light'. It is used as a female given name."
+      },
+      "urdu": {
+        "name": "ساولے",
+        "meaning": "ساولے، روشنی کی کرن",
+        "long_meaning": "Saule (ساولے) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم ساولے، روشنی کی کرن ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "ساوله",
+        "meaning": "ساوله، پرتو نور",
+        "long_meaning": "Saule (ساوله) نامی برگرفته از زبان نامعلوم است و معنای اصلی آن ساوله، پرتو نور است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "सौले",
+        "meaning": "सौले, प्रकाश की किरण",
+        "long_meaning": "Saule (सौले) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ सौले, प्रकाश की किरण है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "ساوله",
+        "meaning": "ساوله، د رڼا وړانګه",
+        "long_meaning": "Saule (ساوله) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ساوله، د رڼا وړانګه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "سَاوْلِه",
+        "meaning": "سَاوْلِه، شُعَاعُ النُّور",
+        "long_meaning": "Saule (سَاوْلِه) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي سَاوْلِه، شُعَاعُ النُّور. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
+    },
+    "pronunciation": {
+      "romanized": "sau-le",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "ساولے",
+      "persian": "ساوله",
+      "hindi": "सौले",
+      "pashto": "ساوله"
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Saule",
+        "saule"
+      ],
+      "script_variants": [
+        "ساوله",
+        "ساولے",
+        "سَاوْلِه",
+        "सौले"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form سَاوْلِه is an established Kazakh lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Saule can be understood through the Kazakh form سَاوْلِه, whose central sense is saule; ray of light (kazakh). Saule is Kazakh сәуле, meaning 'ray of light'. It is used as a female given name.",
+      "is_fictional": false
+    },
+    "faq": [
+      {
+        "question": "What does Saule mean?",
+        "answer": "Saule is associated with the Kazakh form سَاوْلِه, whose core sense is saule; ray of light (kazakh)."
+      },
+      {
+        "question": "What is the origin of Saule?",
+        "answer": "Saule is associated with Kazakh. Saule is Kazakh сәуле, meaning 'ray of light'. It is used as a female given name."
+      },
+      {
+        "question": "Is Saule an Arabic name?",
+        "answer": "No — the underlying form is Kazakh, not Arabic."
+      },
+      {
+        "question": "Is Saule an Islamic name?",
+        "answer": "Saule can occur in Muslim naming contexts, but it is better described as a Kazakh-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Saule a Quranic name?",
+        "answer": "Saule should not be classified as a Quranic personal name without a direct Quranic basis. Säule is a Kazakh word, not a Quranic Arabic form."
+      },
+      {
+        "question": "What does Saule mean in Urdu?",
+        "answer": "In Urdu, Saule is rendered ساولے and carries the sense ساولے، روشنی کی کرن."
+      },
+      {
+        "question": "What does Saule mean in Persian?",
+        "answer": "In Persian, Saule is rendered ساوله and carries the sense ساوله، پرتو نور."
+      },
+      {
+        "question": "How is Saule pronounced?",
+        "answer": "A romanized syllable approximation is sau-le. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Saule?",
+        "answer": "Romanization variants include Saule, saule. Script forms are ساوله, ساولے, سَاوْلِه, सौले."
+      },
+      {
+        "question": "Is Saule a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+      }
+    ],
+    "seo": {
+      "title": "Saule Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Kazakh origin, Urdu meaning, pronunciation, variants and Islamic naming context of Saule (سَاوْلِه).",
+      "h1": "Saule Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Saule meaning",
+      "secondary_keywords": [
+        "Saule name meaning",
+        "Saule meaning in Urdu",
+        "Saule origin",
+        "Saule Islamic name",
+        "Saule pronunciation",
+        "Saule name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Saule (سَاوْلِه) is associated with the Kazakh form سَاوْلِه, whose core sense is saule; ray of light (kazakh). Saule is Kazakh сәуле, meaning 'ray of light'. It is used as a female given name.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Saule is associated with the Kazakh form سَاوْلِه, whose core sense is saule; ray of light (kazakh).",
+      "meaning_section": "The central meaning of Saule is saule; ray of light (kazakh).",
+      "origin_section": "Saule is associated with Kazakh rather than with a different language.",
+      "islam_section": "Saule can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Saule is with the sense saule; ray of light (kazakh).",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Saule",
+      "#SauleMeaning",
+      "#SauleName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
+      ]
+    },
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Saule corresponds to the Kazakh form سَاوْلِه",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Saule has the core sense saule; ray of light (kazakh)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
+      ],
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
+      ],
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "Saule",
+      "alternateName": [
+        "Saule",
+        "saule"
+      ],
+      "description": "A name associated with the Kazakh form سَاوْلِه, meaning saule; ray of light (kazakh).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "saule",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Kazakh"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
+        }
+      ]
+    },
+    "accessibility": {
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Saule, associated with the Kazakh form سَاوْلِه, meaning saule; ray of light (kazakh)."
+    },
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
+  }
+}

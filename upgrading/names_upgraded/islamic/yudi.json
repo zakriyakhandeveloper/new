@@ -1,0 +1,471 @@
+{
+  "success": true,
+  "data": {
+    "name": "Yudi",
+    "slug": "yudi",
+    "identity": {
+      "display_name": "Yudi",
+      "normalized_name": "yudi",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Yudi",
+        "yudi"
+      ],
+      "search_variants": [
+        "Yudi",
+        "yudi"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
+    },
+    "core_meaning": {
+      "short_meaning": "Yudi; an Indonesian male given name",
+      "primary_meaning": "Yudi; an Indonesian male given name",
+      "secondary_meanings": [],
+      "literal_meaning": "Yudi; an Indonesian male given name",
+      "extended_meaning": "Yudi; an Indonesian male given name",
+      "meaning_explanation": "Yudi corresponds to the Indonesian form يُودِي (Indonesian Yudi (a given name)). Its core sense is yudi; an indonesian male given name. Yudi is an Indonesian male given name. No confident lexical sense could be established, so no meaning is asserted.",
+      "meaning_confidence": "medium"
+    },
+    "etymology": {
+      "primary_language": "Indonesian",
+      "lexical_form": "يُودِي",
+      "transliteration": "yudi",
+      "romanization": "yudi",
+      "root_status": "Indonesian Yudi (a given name)",
+      "etymological_meaning": [
+        "Yudi; an Indonesian male given name"
+      ],
+      "etymology_explanation": "The form يُودِي is an established Indonesian lexical item. Yudi is an Indonesian male given name. No confident lexical sense could be established, so no meaning is asserted.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Indonesian",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "يُودِي is an established Arabic form.",
+        "Urdu": "یودي is used in Urdu.",
+        "Persian": "یودی is an established Persian form.",
+        "Hindi": "युदी is used in Hindi.",
+        "Pashto": "يودي is used in Pashto."
+      },
+      "language_confidence": "medium"
+    },
+    "origin": {
+      "primary_origin": "Indonesian",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Indonesian form يُودِي. Yudi is an Indonesian male given name. No confident lexical sense could be established, so no meaning is asserted.",
+      "cultural_transmission": []
+    },
+    "religion": {
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Yudi may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "Yudi is an Indonesian name, not a Quranic Arabic form."
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense yudi; an indonesian male given name.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Yudi; an Indonesian male given name",
+      "related_concepts": [
+        "yudi; an indonesian male given name"
+      ],
+      "semantic_relationship": "The central semantic idea is yudi; an indonesian male given name; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of yudi; an indonesian male given name.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Yudi; an indonesian male given name"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Yudi",
+        "meaning": "Yudi; an Indonesian male given name",
+        "long_meaning": "Yudi is a Indonesian-origin name. Its core meaning is yudi; an indonesian male given name. Yudi is an Indonesian male given name. No confident lexical sense could be established, so no meaning is asserted."
+      },
+      "urdu": {
+        "name": "یودي",
+        "meaning": "یودي (مردانہ نام)",
+        "long_meaning": "Yudi (یودي) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم یودي (مردانہ نام) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "یودی",
+        "meaning": "یودی (نام مردانہ)",
+        "long_meaning": "Yudi (یودی) نامی برگرفته از زبان نامعلوم است و معنای اصلی آن یودی (نام مردانہ) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "युदी",
+        "meaning": "युदी (पुरुष नाम)",
+        "long_meaning": "Yudi (युदी) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ युदी (पुरुष नाम) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "يودي",
+        "meaning": "يودي (نر نوم)",
+        "long_meaning": "Yudi (يودي) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې يودي (نر نوم) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "يُودِي",
+        "meaning": "يُودِي (اسْم عَلَم مُذَكَّر)",
+        "long_meaning": "Yudi (يُودِي) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي يُودِي (اسْم عَلَم مُذَكَّر). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
+    },
+    "pronunciation": {
+      "romanized": "yu-di",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "یودي",
+      "persian": "یودی",
+      "hindi": "युदी",
+      "pashto": "يودي"
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Yudi",
+        "yudi"
+      ],
+      "script_variants": [
+        "يودي",
+        "يُودِي",
+        "یودي",
+        "یودی",
+        "युदी"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form يُودِي is an established Indonesian lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Yudi can be understood through the Indonesian form يُودِي, whose central sense is yudi; an indonesian male given name. Yudi is an Indonesian male given name. No confident lexical sense could be established, so no meaning is asserted.",
+      "is_fictional": false
+    },
+    "faq": [
+      {
+        "question": "What does Yudi mean?",
+        "answer": "Yudi is associated with the Indonesian form يُودِي, whose core sense is yudi; an indonesian male given name."
+      },
+      {
+        "question": "What is the origin of Yudi?",
+        "answer": "Yudi is associated with Indonesian. Yudi is an Indonesian male given name. No confident lexical sense could be established, so no meaning is asserted."
+      },
+      {
+        "question": "Is Yudi an Arabic name?",
+        "answer": "No — the underlying form is Indonesian, not Arabic."
+      },
+      {
+        "question": "Is Yudi an Islamic name?",
+        "answer": "Yudi can occur in Muslim naming contexts, but it is better described as a Indonesian-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Yudi a Quranic name?",
+        "answer": "Yudi should not be classified as a Quranic personal name without a direct Quranic basis. Yudi is an Indonesian name, not a Quranic Arabic form."
+      },
+      {
+        "question": "What does Yudi mean in Urdu?",
+        "answer": "In Urdu, Yudi is rendered یودي and carries the sense یودي (مردانہ نام)."
+      },
+      {
+        "question": "What does Yudi mean in Persian?",
+        "answer": "In Persian, Yudi is rendered یودی and carries the sense یودی (نام مردانہ)."
+      },
+      {
+        "question": "How is Yudi pronounced?",
+        "answer": "A romanized syllable approximation is yu-di. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Yudi?",
+        "answer": "Romanization variants include Yudi, yudi. Script forms are يودي, يُودِي, یودي, یودی, युदी."
+      },
+      {
+        "question": "Is Yudi a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+      }
+    ],
+    "seo": {
+      "title": "Yudi Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Indonesian origin, Urdu meaning, pronunciation, variants and Islamic naming context of Yudi (يُودِي).",
+      "h1": "Yudi Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Yudi meaning",
+      "secondary_keywords": [
+        "Yudi name meaning",
+        "Yudi meaning in Urdu",
+        "Yudi origin",
+        "Yudi Islamic name",
+        "Yudi pronunciation",
+        "Yudi name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Yudi (يُودِي) is associated with the Indonesian form يُودِي, whose core sense is yudi; an indonesian male given name. Yudi is an Indonesian male given name. No confident lexical sense could be established, so no meaning is asserted.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Yudi is associated with the Indonesian form يُودِي, whose core sense is yudi; an indonesian male given name.",
+      "meaning_section": "The central meaning of Yudi is yudi; an indonesian male given name.",
+      "origin_section": "Yudi is associated with Indonesian rather than with a different language.",
+      "islam_section": "Yudi can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Yudi is with the sense yudi; an indonesian male given name.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Yudi",
+      "#YudiMeaning",
+      "#YudiName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
+      ]
+    },
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Yudi corresponds to the Indonesian form يُودِي",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Yudi has the core sense yudi; an indonesian male given name",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
+      ],
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
+      ],
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "Yudi",
+      "alternateName": [
+        "Yudi",
+        "yudi"
+      ],
+      "description": "A name associated with the Indonesian form يُودِي, meaning yudi; an indonesian male given name.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "yudi",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Indonesian"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
+        }
+      ]
+    },
+    "accessibility": {
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Yudi, associated with the Indonesian form يُودِي, meaning yudi; an indonesian male given name."
+    },
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
+  }
+}
