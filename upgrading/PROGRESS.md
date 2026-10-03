@@ -4,41 +4,41 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 4600 |
-| Current batch | 46 |
-| Batch range | najih .. navid (100) |
-| Verified forms | 4443 |
+| Names completed | 4700 |
+| Current batch | 47 |
+| Batch range | navil .. neveen (100) |
+| Verified forms | 4543 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | navid |
-| Updated | 2026-10-03T03:13:25Z |
+| Next batch starts after | neveen |
+| Updated | 2026-10-03T03:17:24Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 2700 |
+| high | 2787 |
 | low | 729 |
-| medium | 1014 |
+| medium | 1027 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 3601 |
-| Persian | 563 |
+| Arabic | 3669 |
+| Persian | 583 |
 | Unknown | 224 |
 | Hebrew | 59 |
-| Turkish | 50 |
+| Turkish | 53 |
 | Turkic | 18 |
 | Kurdish | 15 |
+| Hindi | 11 |
 | Sanskrit | 10 |
 | Pashto | 8 |
 | Greek | 8 |
-| Hindi | 8 |
-| Urdu | 4 |
+| Urdu | 8 |
+| English | 4 |
 | Punjabi | 3 |
-| English | 3 |
 | Western | 3 |
 | Russian | 3 |
 | Yoruba | 2 |
@@ -56,6 +56,7 @@
 | Spanish | 1 |
 | Dutch | 1 |
 | Malayalam | 1 |
+| Bengali | 1 |
 
 ## Quality gate
 
@@ -80,3 +81,4 @@
 | 44 | murtada .. nacira | 100 | complete |
 | 45 | nada .. najid | 100 | complete |
 | 46 | najih .. navid | 100 | complete |
+| 47 | navil .. neveen | 100 | complete |

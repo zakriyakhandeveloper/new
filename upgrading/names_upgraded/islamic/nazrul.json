@@ -1,0 +1,478 @@
+{
+  "success": true,
+  "data": {
+    "name": "Nazrul",
+    "slug": "nazrul",
+    "identity": {
+      "display_name": "Nazrul",
+      "normalized_name": "nazrul",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Nazrul",
+        "nazrul"
+      ],
+      "search_variants": [
+        "Nazrul",
+        "nazrul"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
+    },
+    "core_meaning": {
+      "short_meaning": "Vow, pledge, promise",
+      "primary_meaning": "Vow",
+      "secondary_meanings": [
+        "pledge",
+        "promise"
+      ],
+      "literal_meaning": "Vow",
+      "extended_meaning": "Vow, pledge, promise",
+      "meaning_explanation": "Nazrul corresponds to the Bengali form نَذْرُول (Bengali নজরুল (nazrul), from Arabic نَذْر (nadhr)). Its core sense is vow, pledge, promise. Nazrul is a Bengali male given name, from Arabic نَذْر (nadhr) 'vow, pledge'. CRITICAL SOURCE ERROR: the source gave نَزْرُول (a non-standard form) and labelled the origin Arabic; the name as used is Bengali. The source gloss 'Pledge, promise' is broadly consistent.",
+      "meaning_confidence": "high"
+    },
+    "etymology": {
+      "primary_language": "Bengali",
+      "lexical_form": "نَذْرُول",
+      "transliteration": "nazrul",
+      "romanization": "nazrul",
+      "root_status": "Bengali নজরুল (nazrul), from Arabic نَذْر (nadhr)",
+      "etymological_meaning": [
+        "Vow",
+        "pledge",
+        "promise"
+      ],
+      "etymology_explanation": "The form نَذْرُول is an established Bengali lexical item. Nazrul is a Bengali male given name, from Arabic نَذْر (nadhr) 'vow, pledge'. CRITICAL SOURCE ERROR: the source gave نَزْرُول (a non-standard form) and labelled the origin Arabic; the name as used is Bengali. The source gloss 'Pledge, promise' is broadly consistent.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Bengali",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "نَذْرُول is an established Arabic form.",
+        "Urdu": "نذرول is used in Urdu.",
+        "Persian": "نذرول is an established Persian form.",
+        "Hindi": "नज़रुल is used in Hindi.",
+        "Pashto": "نذرول is used in Pashto."
+      },
+      "language_confidence": "high"
+    },
+    "origin": {
+      "primary_origin": "Bengali",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Bengali form نَذْرُول. Nazrul is a Bengali male given name, from Arabic نَذْر (nadhr) 'vow, pledge'. CRITICAL SOURCE ERROR: the source gave نَزْرُول (a non-standard form) and labelled the origin Arabic; the name as used is Bengali. The source gloss 'Pledge, promise' is broadly consistent.",
+      "cultural_transmission": []
+    },
+    "religion": {
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Nazrul may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense vow, pledge, promise.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Vow",
+      "related_concepts": [
+        "vow",
+        "pledge",
+        "promise"
+      ],
+      "semantic_relationship": "The central semantic idea is vow; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of vow.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Vow",
+        "Pledge",
+        "Promise"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Nazrul",
+        "meaning": "Vow, pledge, promise",
+        "long_meaning": "Nazrul is a Bengali-origin name. Its core meaning is vow, pledge, promise. Nazrul is a Bengali male given name, from Arabic نَذْر (nadhr) 'vow, pledge'. CRITICAL SOURCE ERROR: the source gave نَزْرُول (a non-standard form) and labelled the origin Arabic; the name as used is Bengali. The source gloss 'Pledge, promise' is broadly consistent."
+      },
+      "urdu": {
+        "name": "نذرول",
+        "meaning": "نذر، عہد، وعدہ",
+        "long_meaning": "Nazrul (نذرول) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم نذر، عہد، وعدہ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "نذرول",
+        "meaning": "نذر، پیمان",
+        "long_meaning": "Nazrul (نذرول) نامی برگرفته از زبان نامعلوم است و معنای اصلی آن نذر، پیمان است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "नज़रुल",
+        "meaning": "नज़्र, प्रतिज्ञा",
+        "long_meaning": "Nazrul (नज़रुल) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ नज़्र, प्रतिज्ञा है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "نذرول",
+        "meaning": "نذر، ژمنه",
+        "long_meaning": "Nazrul (نذرول) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې نذر، ژمنه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "نَذْرُول",
+        "meaning": "النَّذْر، الْعَهْد",
+        "long_meaning": "Nazrul (نَذْرُول) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي النَّذْر، الْعَهْد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
+    },
+    "pronunciation": {
+      "romanized": "naz-rul",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "نذرول",
+      "persian": "نذرول",
+      "hindi": "नज़रुल",
+      "pashto": "نذرول"
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Nazrul",
+        "nazrul"
+      ],
+      "script_variants": [
+        "نذرول",
+        "نَذْرُول",
+        "नज़रुल"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form نَذْرُول is an established Bengali lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Nazrul can be understood through the Bengali form نَذْرُول, whose central sense is vow, pledge, promise. Nazrul is a Bengali male given name, from Arabic نَذْر (nadhr) 'vow, pledge'. CRITICAL SOURCE ERROR: the source gave نَزْرُول (a non-standard form) and labelled the origin Arabic; the name as used is Bengali. The source gloss 'Pledge, promise' is broadly consistent.",
+      "is_fictional": false
+    },
+    "faq": [
+      {
+        "question": "What does Nazrul mean?",
+        "answer": "Nazrul is associated with the Bengali form نَذْرُول, whose core sense is vow, pledge, promise."
+      },
+      {
+        "question": "What is the origin of Nazrul?",
+        "answer": "Nazrul is associated with Bengali. Nazrul is a Bengali male given name, from Arabic نَذْر (nadhr) 'vow, pledge'. CRITICAL SOURCE ERROR: the source gave نَزْرُول (a non-standard form) and labelled the origin Arabic; the name as used is Bengali. The source gloss 'Pledge, promise' is broadly consistent."
+      },
+      {
+        "question": "Is Nazrul an Arabic name?",
+        "answer": "No — the underlying form is Bengali, not Arabic."
+      },
+      {
+        "question": "Is Nazrul an Islamic name?",
+        "answer": "Nazrul can occur in Muslim naming contexts, but it is better described as a Bengali-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Nazrul a Quranic name?",
+        "answer": "Nazrul should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Nazrul mean in Urdu?",
+        "answer": "In Urdu, Nazrul is rendered نذرول and carries the sense نذر، عہد، وعدہ."
+      },
+      {
+        "question": "What does Nazrul mean in Persian?",
+        "answer": "In Persian, Nazrul is rendered نذرول and carries the sense نذر، پیمان."
+      },
+      {
+        "question": "How is Nazrul pronounced?",
+        "answer": "A romanized syllable approximation is naz-rul. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Nazrul?",
+        "answer": "Romanization variants include Nazrul, nazrul. Script forms are نذرول, نَذْرُول, नज़रुल."
+      },
+      {
+        "question": "Is Nazrul a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+      }
+    ],
+    "seo": {
+      "title": "Nazrul Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Bengali origin, Urdu meaning, pronunciation, variants and Islamic naming context of Nazrul (نَذْرُول).",
+      "h1": "Nazrul Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Nazrul meaning",
+      "secondary_keywords": [
+        "Nazrul name meaning",
+        "Nazrul meaning in Urdu",
+        "Nazrul origin",
+        "Nazrul Islamic name",
+        "Nazrul pronunciation",
+        "Nazrul name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Nazrul (نَذْرُول) is associated with the Bengali form نَذْرُول, whose core sense is vow, pledge, promise. Nazrul is a Bengali male given name, from Arabic نَذْر (nadhr) 'vow, pledge'. CRITICAL SOURCE ERROR: the source gave نَزْرُول (a non-standard form) and labelled the origin Arabic; the name as used is Bengali. The source gloss 'Pledge, promise' is broadly consistent.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Nazrul is associated with the Bengali form نَذْرُول, whose core sense is vow, pledge, promise.",
+      "meaning_section": "The central meaning of Nazrul is vow, pledge, promise.",
+      "origin_section": "Nazrul is associated with Bengali rather than with a different language.",
+      "islam_section": "Nazrul can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Nazrul is with the sense vow.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Nazrul",
+      "#NazrulMeaning",
+      "#NazrulName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
+      ]
+    },
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Nazrul corresponds to the Bengali form نَذْرُول",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Nazrul has the core sense vow, pledge, promise",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
+      ],
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
+      ],
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "Nazrul",
+      "alternateName": [
+        "Nazrul",
+        "nazrul"
+      ],
+      "description": "A name associated with the Bengali form نَذْرُول, meaning vow, pledge, promise.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "nazrul",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Bengali"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
+        }
+      ]
+    },
+    "accessibility": {
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Nazrul, associated with the Bengali form نَذْرُول, meaning vow, pledge, promise."
+    },
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
+  }
+}

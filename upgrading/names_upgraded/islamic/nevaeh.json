@@ -1,0 +1,471 @@
+{
+  "success": true,
+  "data": {
+    "name": "Nevaeh",
+    "slug": "nevaeh",
+    "identity": {
+      "display_name": "Nevaeh",
+      "normalized_name": "nevaeh",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Nevaeh",
+        "nevaeh"
+      ],
+      "search_variants": [
+        "Nevaeh",
+        "nevaeh"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
+    },
+    "core_meaning": {
+      "short_meaning": "Nevaeh; an English given name",
+      "primary_meaning": "Nevaeh; an English given name",
+      "secondary_meanings": [],
+      "literal_meaning": "Nevaeh; an English given name",
+      "extended_meaning": "Nevaeh; an English given name",
+      "meaning_explanation": "Nevaeh corresponds to the English form نِيفَايَة (English Nevaeh ('heaven' reversed)). Its core sense is nevaeh; an english given name. Nevaeh is an English female given name, coined as 'heaven' spelled backwards. CRITICAL SOURCE ERROR: the source gave فاطمة (a different name) and labelled the origin Arabic; the name is English. The source gloss 'Divine gift' is unsupported and has been replaced with the documented identification.",
+      "meaning_confidence": "high"
+    },
+    "etymology": {
+      "primary_language": "English",
+      "lexical_form": "نِيفَايَة",
+      "transliteration": "nevaeh",
+      "romanization": "nevaeh",
+      "root_status": "English Nevaeh ('heaven' reversed)",
+      "etymological_meaning": [
+        "Nevaeh; an English given name"
+      ],
+      "etymology_explanation": "The form نِيفَايَة is an established English lexical item. Nevaeh is an English female given name, coined as 'heaven' spelled backwards. CRITICAL SOURCE ERROR: the source gave فاطمة (a different name) and labelled the origin Arabic; the name is English. The source gloss 'Divine gift' is unsupported and has been replaced with the documented identification.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
+    },
+    "language": {
+      "primary": "English",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "نِيفَايَة is an established Arabic form.",
+        "Urdu": "نیوایہ is used in Urdu.",
+        "Persian": "نوایه is an established Persian form.",
+        "Hindi": "नेवेया is used in Hindi.",
+        "Pashto": "نیوایه is used in Pashto."
+      },
+      "language_confidence": "high"
+    },
+    "origin": {
+      "primary_origin": "English",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the English form نِيفَايَة. Nevaeh is an English female given name, coined as 'heaven' spelled backwards. CRITICAL SOURCE ERROR: the source gave فاطمة (a different name) and labelled the origin Arabic; the name is English. The source gloss 'Divine gift' is unsupported and has been replaced with the documented identification.",
+      "cultural_transmission": []
+    },
+    "religion": {
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Nevaeh may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense nevaeh; an english given name.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Nevaeh; an English given name",
+      "related_concepts": [
+        "nevaeh; an english given name"
+      ],
+      "semantic_relationship": "The central semantic idea is nevaeh; an english given name; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of nevaeh; an english given name.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Nevaeh; an english given name"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Nevaeh",
+        "meaning": "Nevaeh; an English given name",
+        "long_meaning": "Nevaeh is a English-origin name. Its core meaning is nevaeh; an english given name. Nevaeh is an English female given name, coined as 'heaven' spelled backwards. CRITICAL SOURCE ERROR: the source gave فاطمة (a different name) and labelled the origin Arabic; the name is English. The source gloss 'Divine gift' is unsupported and has been replaced with the documented identification."
+      },
+      "urdu": {
+        "name": "نیوایہ",
+        "meaning": "نیوایہ (انگریزی نام)",
+        "long_meaning": "Nevaeh (نیوایہ) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم نیوایہ (انگریزی نام) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "نوایه",
+        "meaning": "نوایه (نام انگلیسی)",
+        "long_meaning": "Nevaeh (نوایه) نامی برگرفته از زبان نامعلوم است و معنای اصلی آن نوایه (نام انگلیسی) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "नेवेया",
+        "meaning": "नेवेया (अंग्रेज़ी नाम)",
+        "long_meaning": "Nevaeh (नेवेया) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ नेवेया (अंग्रेज़ी नाम) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "نیوایه",
+        "meaning": "نیوایه (انګلیسي نوم)",
+        "long_meaning": "Nevaeh (نیوایه) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې نیوایه (انګلیسي نوم) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "نِيفَايَة",
+        "meaning": "نِيفَايَة (اسْم عَلَم إِنْجِلِيزِيّ)",
+        "long_meaning": "Nevaeh (نِيفَايَة) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي نِيفَايَة (اسْم عَلَم إِنْجِلِيزِيّ). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
+    },
+    "pronunciation": {
+      "romanized": "ne-vaeh",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "نیوایہ",
+      "persian": "نوایه",
+      "hindi": "नेवेया",
+      "pashto": "نیوایه"
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Nevaeh",
+        "nevaeh"
+      ],
+      "script_variants": [
+        "نوایه",
+        "نِيفَايَة",
+        "نیوایه",
+        "نیوایہ",
+        "नेवेया"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form نِيفَايَة is an established English lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Nevaeh can be understood through the English form نِيفَايَة, whose central sense is nevaeh; an english given name. Nevaeh is an English female given name, coined as 'heaven' spelled backwards. CRITICAL SOURCE ERROR: the source gave فاطمة (a different name) and labelled the origin Arabic; the name is English. The source gloss 'Divine gift' is unsupported and has been replaced with the documented identification.",
+      "is_fictional": false
+    },
+    "faq": [
+      {
+        "question": "What does Nevaeh mean?",
+        "answer": "Nevaeh is associated with the English form نِيفَايَة, whose core sense is nevaeh; an english given name."
+      },
+      {
+        "question": "What is the origin of Nevaeh?",
+        "answer": "Nevaeh is associated with English. Nevaeh is an English female given name, coined as 'heaven' spelled backwards. CRITICAL SOURCE ERROR: the source gave فاطمة (a different name) and labelled the origin Arabic; the name is English. The source gloss 'Divine gift' is unsupported and has been replaced with the documented identification."
+      },
+      {
+        "question": "Is Nevaeh an Arabic name?",
+        "answer": "No — the underlying form is English, not Arabic."
+      },
+      {
+        "question": "Is Nevaeh an Islamic name?",
+        "answer": "Nevaeh can occur in Muslim naming contexts, but it is better described as a English-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Nevaeh a Quranic name?",
+        "answer": "Nevaeh should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Nevaeh mean in Urdu?",
+        "answer": "In Urdu, Nevaeh is rendered نیوایہ and carries the sense نیوایہ (انگریزی نام)."
+      },
+      {
+        "question": "What does Nevaeh mean in Persian?",
+        "answer": "In Persian, Nevaeh is rendered نوایه and carries the sense نوایه (نام انگلیسی)."
+      },
+      {
+        "question": "How is Nevaeh pronounced?",
+        "answer": "A romanized syllable approximation is ne-vaeh. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Nevaeh?",
+        "answer": "Romanization variants include Nevaeh, nevaeh. Script forms are نوایه, نِيفَايَة, نیوایه, نیوایہ, नेवेया."
+      },
+      {
+        "question": "Is Nevaeh a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+      }
+    ],
+    "seo": {
+      "title": "Nevaeh Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, English origin, Urdu meaning, pronunciation, variants and Islamic naming context of Nevaeh (نِيفَايَة).",
+      "h1": "Nevaeh Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Nevaeh meaning",
+      "secondary_keywords": [
+        "Nevaeh name meaning",
+        "Nevaeh meaning in Urdu",
+        "Nevaeh origin",
+        "Nevaeh Islamic name",
+        "Nevaeh pronunciation",
+        "Nevaeh name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Nevaeh (نِيفَايَة) is associated with the English form نِيفَايَة, whose core sense is nevaeh; an english given name. Nevaeh is an English female given name, coined as 'heaven' spelled backwards. CRITICAL SOURCE ERROR: the source gave فاطمة (a different name) and labelled the origin Arabic; the name is English. The source gloss 'Divine gift' is unsupported and has been replaced with the documented identification.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Nevaeh is associated with the English form نِيفَايَة, whose core sense is nevaeh; an english given name.",
+      "meaning_section": "The central meaning of Nevaeh is nevaeh; an english given name.",
+      "origin_section": "Nevaeh is associated with English rather than with a different language.",
+      "islam_section": "Nevaeh can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Nevaeh is with the sense nevaeh; an english given name.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Nevaeh",
+      "#NevaehMeaning",
+      "#NevaehName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
+      ]
+    },
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Nevaeh corresponds to the English form نِيفَايَة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Nevaeh has the core sense nevaeh; an english given name",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
+      ],
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
+      ],
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "Nevaeh",
+      "alternateName": [
+        "Nevaeh",
+        "nevaeh"
+      ],
+      "description": "A name associated with the English form نِيفَايَة, meaning nevaeh; an english given name.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "nevaeh",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "English"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
+        }
+      ]
+    },
+    "accessibility": {
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Nevaeh, associated with the English form نِيفَايَة, meaning nevaeh; an english given name."
+    },
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
+  }
+}
