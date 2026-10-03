@@ -1,0 +1,470 @@
+{
+  "success": true,
+  "data": {
+    "name": "Nnamdi",
+    "slug": "nnamdi",
+    "identity": {
+      "display_name": "Nnamdi",
+      "normalized_name": "nnamdi",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Nnamdi",
+        "nnamdi"
+      ],
+      "search_variants": [
+        "Nnamdi",
+        "nnamdi"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
+    },
+    "core_meaning": {
+      "short_meaning": "Nnamdi; my father is alive (Igbo)",
+      "primary_meaning": "Nnamdi; my father is alive (Igbo)",
+      "secondary_meanings": [],
+      "literal_meaning": "Nnamdi; my father is alive (Igbo)",
+      "extended_meaning": "Nnamdi; my father is alive (Igbo)",
+      "meaning_explanation": "Nnamdi corresponds to the Igbo form نَّامْدِي (Igbo ńnà (father) + m dị (is alive)). Its core sense is nnamdi; my father is alive (igbo). Nnamdi is Igbo, from ńnà ('father') + m dị ('is alive'), meaning 'my father is alive'. It is used as a male given name.",
+      "meaning_confidence": "high"
+    },
+    "etymology": {
+      "primary_language": "Igbo",
+      "lexical_form": "نَّامْدِي",
+      "transliteration": "nnamdi",
+      "romanization": "nnamdi",
+      "root_status": "Igbo ńnà (father) + m dị (is alive)",
+      "etymological_meaning": [
+        "Nnamdi; my father is alive (Igbo)"
+      ],
+      "etymology_explanation": "The form نَّامْدِي is an established Igbo lexical item. Nnamdi is Igbo, from ńnà ('father') + m dị ('is alive'), meaning 'my father is alive'. It is used as a male given name.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Igbo",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "نَّامْدِي is an established Arabic form.",
+        "Urdu": "نامدی is used in Urdu.",
+        "Persian": "نامدی is an established Persian form.",
+        "Hindi": "न्नामदी is used in Hindi.",
+        "Pashto": "نامدي is used in Pashto."
+      },
+      "language_confidence": "high"
+    },
+    "origin": {
+      "primary_origin": "Igbo",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Igbo form نَّامْدِي. Nnamdi is Igbo, from ńnà ('father') + m dị ('is alive'), meaning 'my father is alive'. It is used as a male given name.",
+      "cultural_transmission": []
+    },
+    "religion": {
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Nnamdi may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "Nnamdi is an Igbo name, not a Quranic Arabic form."
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense nnamdi; my father is alive (igbo).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Nnamdi; my father is alive (Igbo)",
+      "related_concepts": [
+        "nnamdi; my father is alive (igbo)"
+      ],
+      "semantic_relationship": "The central semantic idea is nnamdi; my father is alive (igbo); other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of nnamdi; my father is alive (igbo).",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Nnamdi; my father is alive (igbo)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Nnamdi",
+        "meaning": "Nnamdi; my father is alive (Igbo)",
+        "long_meaning": "Nnamdi is a Igbo-origin name. Its core meaning is nnamdi; my father is alive (igbo). Nnamdi is Igbo, from ńnà ('father') + m dị ('is alive'), meaning 'my father is alive'. It is used as a male given name."
+      },
+      "urdu": {
+        "name": "نامدی",
+        "meaning": "نامدی، میرا باپ زندہ ہے",
+        "long_meaning": "Nnamdi (نامدی) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم نامدی، میرا باپ زندہ ہے ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "نامدی",
+        "meaning": "نامدی، پدرم زنده است",
+        "long_meaning": "Nnamdi (نامدی) نامی برگرفته از زبان نامعلوم است و معنای اصلی آن نامدی، پدرم زنده است است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "न्नामदी",
+        "meaning": "न्नामदी, मेरे पिता जीवित हैं",
+        "long_meaning": "Nnamdi (न्नामदी) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ न्नामदी, मेरे पिता जीवित हैं है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "نامدي",
+        "meaning": "نامدي، زما پلار ژوندی دی",
+        "long_meaning": "Nnamdi (نامدي) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې نامدي، زما پلار ژوندی دی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "نَّامْدِي",
+        "meaning": "نَّامْدِي، أَبِي حَيٌّ",
+        "long_meaning": "Nnamdi (نَّامْدِي) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي نَّامْدِي، أَبِي حَيٌّ. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
+    },
+    "pronunciation": {
+      "romanized": "nnam-di",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "نامدی",
+      "persian": "نامدی",
+      "hindi": "न्नामदी",
+      "pashto": "نامدي"
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Nnamdi",
+        "nnamdi"
+      ],
+      "script_variants": [
+        "نامدي",
+        "نامدی",
+        "نَّامْدِي",
+        "न्नामदी"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form نَّامْدِي is an established Igbo lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Nnamdi can be understood through the Igbo form نَّامْدِي, whose central sense is nnamdi; my father is alive (igbo). Nnamdi is Igbo, from ńnà ('father') + m dị ('is alive'), meaning 'my father is alive'. It is used as a male given name.",
+      "is_fictional": false
+    },
+    "faq": [
+      {
+        "question": "What does Nnamdi mean?",
+        "answer": "Nnamdi is associated with the Igbo form نَّامْدِي, whose core sense is nnamdi; my father is alive (igbo)."
+      },
+      {
+        "question": "What is the origin of Nnamdi?",
+        "answer": "Nnamdi is associated with Igbo. Nnamdi is Igbo, from ńnà ('father') + m dị ('is alive'), meaning 'my father is alive'. It is used as a male given name."
+      },
+      {
+        "question": "Is Nnamdi an Arabic name?",
+        "answer": "No — the underlying form is Igbo, not Arabic."
+      },
+      {
+        "question": "Is Nnamdi an Islamic name?",
+        "answer": "Nnamdi can occur in Muslim naming contexts, but it is better described as a Igbo-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Nnamdi a Quranic name?",
+        "answer": "Nnamdi should not be classified as a Quranic personal name without a direct Quranic basis. Nnamdi is an Igbo name, not a Quranic Arabic form."
+      },
+      {
+        "question": "What does Nnamdi mean in Urdu?",
+        "answer": "In Urdu, Nnamdi is rendered نامدی and carries the sense نامدی، میرا باپ زندہ ہے."
+      },
+      {
+        "question": "What does Nnamdi mean in Persian?",
+        "answer": "In Persian, Nnamdi is rendered نامدی and carries the sense نامدی، پدرم زنده است."
+      },
+      {
+        "question": "How is Nnamdi pronounced?",
+        "answer": "A romanized syllable approximation is nnam-di. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Nnamdi?",
+        "answer": "Romanization variants include Nnamdi, nnamdi. Script forms are نامدي, نامدی, نَّامْدِي, न्नामदी."
+      },
+      {
+        "question": "Is Nnamdi a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+      }
+    ],
+    "seo": {
+      "title": "Nnamdi Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Igbo origin, Urdu meaning, pronunciation, variants and Islamic naming context of Nnamdi (نَّامْدِي).",
+      "h1": "Nnamdi Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Nnamdi meaning",
+      "secondary_keywords": [
+        "Nnamdi name meaning",
+        "Nnamdi meaning in Urdu",
+        "Nnamdi origin",
+        "Nnamdi Islamic name",
+        "Nnamdi pronunciation",
+        "Nnamdi name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Nnamdi (نَّامْدِي) is associated with the Igbo form نَّامْدِي, whose core sense is nnamdi; my father is alive (igbo). Nnamdi is Igbo, from ńnà ('father') + m dị ('is alive'), meaning 'my father is alive'. It is used as a male given name.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Nnamdi is associated with the Igbo form نَّامْدِي, whose core sense is nnamdi; my father is alive (igbo).",
+      "meaning_section": "The central meaning of Nnamdi is nnamdi; my father is alive (igbo).",
+      "origin_section": "Nnamdi is associated with Igbo rather than with a different language.",
+      "islam_section": "Nnamdi can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Nnamdi is with the sense nnamdi; my father is alive (igbo).",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Nnamdi",
+      "#NnamdiMeaning",
+      "#NnamdiName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
+      ]
+    },
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Nnamdi corresponds to the Igbo form نَّامْدِي",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Nnamdi has the core sense nnamdi; my father is alive (igbo)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
+      ],
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
+      ],
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "Nnamdi",
+      "alternateName": [
+        "Nnamdi",
+        "nnamdi"
+      ],
+      "description": "A name associated with the Igbo form نَّامْدِي, meaning nnamdi; my father is alive (igbo).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "nnamdi",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Igbo"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
+        }
+      ]
+    },
+    "accessibility": {
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Nnamdi, associated with the Igbo form نَّامْدِي, meaning nnamdi; my father is alive (igbo)."
+    },
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
+  }
+}
