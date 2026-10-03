@@ -1,0 +1,476 @@
+{
+  "success": true,
+  "data": {
+    "name": "Shahd",
+    "slug": "shahd",
+    "identity": {
+      "display_name": "Shahd",
+      "normalized_name": "shahd",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Shahd",
+        "shahd"
+      ],
+      "search_variants": [
+        "Shahd",
+        "shahd"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
+    },
+    "core_meaning": {
+      "short_meaning": "Shahd; honey",
+      "primary_meaning": "Shahd; honey",
+      "secondary_meanings": [],
+      "literal_meaning": "Shahd; honey",
+      "extended_meaning": "Shahd; honey",
+      "meaning_explanation": "Shahd corresponds to the Arabic form شَهْد (Arabic root ش ه د (sh-h-d); شَهْد (Shahd)). Its core sense is shahd; honey. Shahd is Arabic شَهْد (Shahd), meaning 'honey'.",
+      "meaning_confidence": "high"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "شَهْد",
+      "transliteration": "shahd",
+      "romanization": "shahd",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Shahd; honey"
+      ],
+      "etymology_explanation": "The form شَهْد is an established Arabic lexical item. Shahd is Arabic شَهْد (Shahd), meaning 'honey'.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "شَهْد is an established Arabic form.",
+        "Urdu": "شہد is used in Urdu.",
+        "Persian": "شهد is an established Persian form.",
+        "Hindi": "शहद is used in Hindi.",
+        "Pashto": "شهد is used in Pashto."
+      },
+      "language_confidence": "high"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form شَهْد. Shahd is Arabic شَهْد (Shahd), meaning 'honey'.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Shahd may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "Shahd is not a Quranic personal name."
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense shahd; honey.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Shahd; honey",
+      "related_concepts": [
+        "shahd; honey"
+      ],
+      "semantic_relationship": "The central semantic idea is shahd; honey; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of shahd; honey.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Shahd; honey"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Shahd",
+        "meaning": "Shahd; honey",
+        "long_meaning": "Shahd is a Arabic-origin name. Its core meaning is shahd; honey. Shahd is Arabic شَهْد (Shahd), meaning 'honey'."
+      },
+      "urdu": {
+        "name": "شہد",
+        "meaning": "شہد، شہد",
+        "long_meaning": "Shahd (شہد) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم شہد، شہد ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "شهد",
+        "meaning": "شهد، عسل",
+        "long_meaning": "Shahd (شهد) نامی برگرفته از زبان عربی است و معنای اصلی آن شهد، عسل است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "शहद",
+        "meaning": "शहद, शहद",
+        "long_meaning": "Shahd (शहद) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ शहद, शहद है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "شهد",
+        "meaning": "شهد، شات",
+        "long_meaning": "Shahd (شهد) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې شهد، شات ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "شَهْد",
+        "meaning": "الشَّهْد، الْعَسَل",
+        "long_meaning": "Shahd (شَهْد) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الشَّهْد، الْعَسَل. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
+    },
+    "pronunciation": {
+      "romanized": "shahd",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "شہد",
+      "persian": "شهد",
+      "hindi": "शहद",
+      "pashto": "شهد"
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Shahd",
+        "shahd"
+      ],
+      "script_variants": [
+        "شهد",
+        "شَهْد",
+        "شہد",
+        "शहद"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form شَهْد is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Shahd can be understood through the Arabic form شَهْد, whose central sense is shahd; honey. Shahd is Arabic شَهْد (Shahd), meaning 'honey'.",
+      "is_fictional": false
+    },
+    "faq": [
+      {
+        "question": "What does Shahd mean?",
+        "answer": "Shahd is associated with the Arabic form شَهْد, whose core sense is shahd; honey."
+      },
+      {
+        "question": "What is the origin of Shahd?",
+        "answer": "Shahd is associated with Arabic. Shahd is Arabic شَهْد (Shahd), meaning 'honey'."
+      },
+      {
+        "question": "Is Shahd an Arabic name?",
+        "answer": "Yes — the underlying form شَهْد is Arabic."
+      },
+      {
+        "question": "Is Shahd an Islamic name?",
+        "answer": "Shahd can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Shahd a Quranic name?",
+        "answer": "Shahd should not be classified as a Quranic personal name without a direct Quranic basis. Shahd is not a Quranic personal name."
+      },
+      {
+        "question": "What does Shahd mean in Urdu?",
+        "answer": "In Urdu, Shahd is rendered شہد and carries the sense شہد، شہد."
+      },
+      {
+        "question": "What does Shahd mean in Persian?",
+        "answer": "In Persian, Shahd is rendered شهد and carries the sense شهد، عسل."
+      },
+      {
+        "question": "How is Shahd pronounced?",
+        "answer": "A romanized syllable approximation is shahd. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Shahd?",
+        "answer": "Romanization variants include Shahd, shahd. Script forms are شهد, شَهْد, شہد, शहद."
+      },
+      {
+        "question": "Is Shahd a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+      }
+    ],
+    "seo": {
+      "title": "Shahd Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Shahd (شَهْد).",
+      "h1": "Shahd Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Shahd meaning",
+      "secondary_keywords": [
+        "Shahd name meaning",
+        "Shahd meaning in Urdu",
+        "Shahd origin",
+        "Shahd Islamic name",
+        "Shahd pronunciation",
+        "Shahd name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Shahd (شَهْد) is associated with the Arabic form شَهْد, whose core sense is shahd; honey. Shahd is Arabic شَهْد (Shahd), meaning 'honey'.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Shahd is associated with the Arabic form شَهْد, whose core sense is shahd; honey.",
+      "meaning_section": "The central meaning of Shahd is shahd; honey.",
+      "origin_section": "Shahd is associated with Arabic rather than with a different language.",
+      "islam_section": "Shahd can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Shahd is with the sense shahd; honey.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Shahd",
+      "#ShahdMeaning",
+      "#ShahdName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
+      ]
+    },
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Shahd corresponds to the Arabic form شَهْد",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Shahd has the core sense shahd; honey",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
+      ],
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
+      ],
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "Shahd",
+      "alternateName": [
+        "Shahd",
+        "shahd"
+      ],
+      "description": "A name associated with the Arabic form شَهْد, meaning shahd; honey.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "shahd",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
+        }
+      ]
+    },
+    "accessibility": {
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Shahd, associated with the Arabic form شَهْد, meaning shahd; honey."
+    },
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
+  }
+}

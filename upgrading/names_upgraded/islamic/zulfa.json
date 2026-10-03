@@ -1,0 +1,481 @@
+{
+  "success": true,
+  "data": {
+    "name": "Zulfa",
+    "slug": "zulfa",
+    "identity": {
+      "display_name": "Zulfa",
+      "normalized_name": "zulfa",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Zulfa",
+        "zulfa"
+      ],
+      "search_variants": [
+        "Zulfa",
+        "zulfa"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
+    },
+    "core_meaning": {
+      "short_meaning": "Zulfa; nearness, closeness",
+      "primary_meaning": "Zulfa; nearness",
+      "secondary_meanings": [
+        "closeness"
+      ],
+      "literal_meaning": "Zulfa; nearness",
+      "extended_meaning": "Zulfa; nearness, closeness",
+      "meaning_explanation": "Zulfa corresponds to the Arabic form زُلْفَى (Arabic root ز ل ف (z-l-f); زُلْفَى (Zulfā)). Its core sense is zulfa; nearness, closeness. Zulfa is Arabic زُلْفَى (Zulfā), meaning 'nearness, closeness'.",
+      "meaning_confidence": "high"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "زُلْفَى",
+      "transliteration": "zulfa",
+      "romanization": "zulfa",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Zulfa; nearness",
+        "closeness"
+      ],
+      "etymology_explanation": "The form زُلْفَى is an established Arabic lexical item. Zulfa is Arabic زُلْفَى (Zulfā), meaning 'nearness, closeness'.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "زُلْفَى is an established Arabic form.",
+        "Urdu": "زلفیٰ is used in Urdu.",
+        "Persian": "زلفی is an established Persian form.",
+        "Hindi": "ज़ुल्फ़ा is used in Hindi.",
+        "Pashto": "زلفیٰ is used in Pashto."
+      },
+      "language_confidence": "high"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form زُلْفَى. Zulfa is Arabic زُلْفَى (Zulfā), meaning 'nearness, closeness'.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Zulfa may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "Zulfā is not a Quranic personal name."
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense zulfa; nearness, closeness.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Zulfa; nearness",
+      "related_concepts": [
+        "zulfa; nearness",
+        "closeness"
+      ],
+      "semantic_relationship": "The central semantic idea is zulfa; nearness; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of zulfa; nearness.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Zulfa; nearness",
+        "Closeness"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Zulfa",
+        "meaning": "Zulfa; nearness, closeness",
+        "long_meaning": "Zulfa is a Arabic-origin name. Its core meaning is zulfa; nearness, closeness. Zulfa is Arabic زُلْفَى (Zulfā), meaning 'nearness, closeness'."
+      },
+      "urdu": {
+        "name": "زلفیٰ",
+        "meaning": "زلفیٰ، قربت",
+        "long_meaning": "Zulfa (زلفیٰ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم زلفیٰ، قربت ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "زلفی",
+        "meaning": "زلفی، نزدیکی",
+        "long_meaning": "Zulfa (زلفی) نامی برگرفته از زبان عربی است و معنای اصلی آن زلفی، نزدیکی است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "ज़ुल्फ़ा",
+        "meaning": "ज़ुल्फ़ा, निकटता",
+        "long_meaning": "Zulfa (ज़ुल्फ़ा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ ज़ुल्फ़ा, निकटता है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "زلفیٰ",
+        "meaning": "زلفیٰ، نږدېوالی",
+        "long_meaning": "Zulfa (زلفیٰ) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې زلفیٰ، نږدېوالی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "زُلْفَى",
+        "meaning": "زُلْفَى، الْقُرْب",
+        "long_meaning": "Zulfa (زُلْفَى) اسم مأخوذ من اللغة العربية، ومعناه الأساسي زُلْفَى، الْقُرْب. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
+    },
+    "pronunciation": {
+      "romanized": "zul-fa",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "زلفیٰ",
+      "persian": "زلفی",
+      "hindi": "ज़ुल्फ़ा",
+      "pashto": "زلفیٰ"
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Zulfa",
+        "zulfa"
+      ],
+      "script_variants": [
+        "زلفی",
+        "زلفیٰ",
+        "زُلْفَى",
+        "ज़ुल्फ़ा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form زُلْفَى is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Zulfa can be understood through the Arabic form زُلْفَى, whose central sense is zulfa; nearness, closeness. Zulfa is Arabic زُلْفَى (Zulfā), meaning 'nearness, closeness'.",
+      "is_fictional": false
+    },
+    "faq": [
+      {
+        "question": "What does Zulfa mean?",
+        "answer": "Zulfa is associated with the Arabic form زُلْفَى, whose core sense is zulfa; nearness, closeness."
+      },
+      {
+        "question": "What is the origin of Zulfa?",
+        "answer": "Zulfa is associated with Arabic. Zulfa is Arabic زُلْفَى (Zulfā), meaning 'nearness, closeness'."
+      },
+      {
+        "question": "Is Zulfa an Arabic name?",
+        "answer": "Yes — the underlying form زُلْفَى is Arabic."
+      },
+      {
+        "question": "Is Zulfa an Islamic name?",
+        "answer": "Zulfa can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Zulfa a Quranic name?",
+        "answer": "Zulfa should not be classified as a Quranic personal name without a direct Quranic basis. Zulfā is not a Quranic personal name."
+      },
+      {
+        "question": "What does Zulfa mean in Urdu?",
+        "answer": "In Urdu, Zulfa is rendered زلفیٰ and carries the sense زلفیٰ، قربت."
+      },
+      {
+        "question": "What does Zulfa mean in Persian?",
+        "answer": "In Persian, Zulfa is rendered زلفی and carries the sense زلفی، نزدیکی."
+      },
+      {
+        "question": "How is Zulfa pronounced?",
+        "answer": "A romanized syllable approximation is zul-fa. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Zulfa?",
+        "answer": "Romanization variants include Zulfa, zulfa. Script forms are زلفی, زلفیٰ, زُلْفَى, ज़ुल्फ़ा."
+      },
+      {
+        "question": "Is Zulfa a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+      }
+    ],
+    "seo": {
+      "title": "Zulfa Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Zulfa (زُلْفَى).",
+      "h1": "Zulfa Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Zulfa meaning",
+      "secondary_keywords": [
+        "Zulfa name meaning",
+        "Zulfa meaning in Urdu",
+        "Zulfa origin",
+        "Zulfa Islamic name",
+        "Zulfa pronunciation",
+        "Zulfa name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Zulfa (زُلْفَى) is associated with the Arabic form زُلْفَى, whose core sense is zulfa; nearness, closeness. Zulfa is Arabic زُلْفَى (Zulfā), meaning 'nearness, closeness'.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Zulfa is associated with the Arabic form زُلْفَى, whose core sense is zulfa; nearness, closeness.",
+      "meaning_section": "The central meaning of Zulfa is zulfa; nearness, closeness.",
+      "origin_section": "Zulfa is associated with Arabic rather than with a different language.",
+      "islam_section": "Zulfa can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Zulfa is with the sense zulfa; nearness.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Zulfa",
+      "#ZulfaMeaning",
+      "#ZulfaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
+      ]
+    },
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Zulfa corresponds to the Arabic form زُلْفَى",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Zulfa has the core sense zulfa; nearness, closeness",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
+      ],
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
+      ],
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "Zulfa",
+      "alternateName": [
+        "Zulfa",
+        "zulfa"
+      ],
+      "description": "A name associated with the Arabic form زُلْفَى, meaning zulfa; nearness, closeness.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "zulfa",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
+        }
+      ]
+    },
+    "accessibility": {
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Zulfa, associated with the Arabic form زُلْفَى, meaning zulfa; nearness, closeness."
+    },
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
+  }
+}

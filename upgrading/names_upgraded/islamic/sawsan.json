@@ -1,0 +1,475 @@
+{
+  "success": true,
+  "data": {
+    "name": "Sawsan",
+    "slug": "sawsan",
+    "identity": {
+      "display_name": "Sawsan",
+      "normalized_name": "sawsan",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Sawsan",
+        "sawsan"
+      ],
+      "search_variants": [
+        "Sawsan",
+        "sawsan"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
+    },
+    "core_meaning": {
+      "short_meaning": "Sawsan; lily",
+      "primary_meaning": "Sawsan; lily",
+      "secondary_meanings": [],
+      "literal_meaning": "Sawsan; lily",
+      "extended_meaning": "Sawsan; lily",
+      "meaning_explanation": "Sawsan corresponds to the Arabic form سَوْسَن (Arabic سَوْسَن (Sawsan)). Its core sense is sawsan; lily. Sawsan is Arabic سَوْسَن (Sawsan), the word for the lily flower.",
+      "meaning_confidence": "high"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "سَوْسَن",
+      "transliteration": "sawsan",
+      "romanization": "sawsan",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Sawsan; lily"
+      ],
+      "etymology_explanation": "The form سَوْسَن is an established Arabic lexical item. Sawsan is Arabic سَوْسَن (Sawsan), the word for the lily flower.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "سَوْسَن is an established Arabic form.",
+        "Urdu": "سوسن is used in Urdu.",
+        "Persian": "سوسن is an established Persian form.",
+        "Hindi": "सौसन is used in Hindi.",
+        "Pashto": "سوسن is used in Pashto."
+      },
+      "language_confidence": "high"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form سَوْسَن. Sawsan is Arabic سَوْسَن (Sawsan), the word for the lily flower.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Sawsan may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "Sawsan is not a Quranic personal name."
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense sawsan; lily.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Sawsan; lily",
+      "related_concepts": [
+        "sawsan; lily"
+      ],
+      "semantic_relationship": "The central semantic idea is sawsan; lily; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of sawsan; lily.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Sawsan; lily"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Sawsan",
+        "meaning": "Sawsan; lily",
+        "long_meaning": "Sawsan is a Arabic-origin name. Its core meaning is sawsan; lily. Sawsan is Arabic سَوْسَن (Sawsan), the word for the lily flower."
+      },
+      "urdu": {
+        "name": "سوسن",
+        "meaning": "سوسن، سوسن کا پھول",
+        "long_meaning": "Sawsan (سوسن) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم سوسن، سوسن کا پھول ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "سوسن",
+        "meaning": "سوسن، گل سوسن",
+        "long_meaning": "Sawsan (سوسن) نامی برگرفته از زبان عربی است و معنای اصلی آن سوسن، گل سوسن است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "सौसन",
+        "meaning": "सौसन, कुमुदिनी",
+        "long_meaning": "Sawsan (सौसन) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ सौसन, कुमुदिनी है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "سوسن",
+        "meaning": "سوسن، سوسن ګل",
+        "long_meaning": "Sawsan (سوسن) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې سوسن، سوسن ګل ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "سَوْسَن",
+        "meaning": "السَّوْسَن، زَهْرَةُ السَّوْسَن",
+        "long_meaning": "Sawsan (سَوْسَن) اسم مأخوذ من اللغة العربية، ومعناه الأساسي السَّوْسَن، زَهْرَةُ السَّوْسَن. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
+    },
+    "pronunciation": {
+      "romanized": "saw-san",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "سوسن",
+      "persian": "سوسن",
+      "hindi": "सौसन",
+      "pashto": "سوسن"
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Sawsan",
+        "sawsan"
+      ],
+      "script_variants": [
+        "سوسن",
+        "سَوْسَن",
+        "सौसन"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form سَوْسَن is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Sawsan can be understood through the Arabic form سَوْسَن, whose central sense is sawsan; lily. Sawsan is Arabic سَوْسَن (Sawsan), the word for the lily flower.",
+      "is_fictional": false
+    },
+    "faq": [
+      {
+        "question": "What does Sawsan mean?",
+        "answer": "Sawsan is associated with the Arabic form سَوْسَن, whose core sense is sawsan; lily."
+      },
+      {
+        "question": "What is the origin of Sawsan?",
+        "answer": "Sawsan is associated with Arabic. Sawsan is Arabic سَوْسَن (Sawsan), the word for the lily flower."
+      },
+      {
+        "question": "Is Sawsan an Arabic name?",
+        "answer": "Yes — the underlying form سَوْسَن is Arabic."
+      },
+      {
+        "question": "Is Sawsan an Islamic name?",
+        "answer": "Sawsan can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Sawsan a Quranic name?",
+        "answer": "Sawsan should not be classified as a Quranic personal name without a direct Quranic basis. Sawsan is not a Quranic personal name."
+      },
+      {
+        "question": "What does Sawsan mean in Urdu?",
+        "answer": "In Urdu, Sawsan is rendered سوسن and carries the sense سوسن، سوسن کا پھول."
+      },
+      {
+        "question": "What does Sawsan mean in Persian?",
+        "answer": "In Persian, Sawsan is rendered سوسن and carries the sense سوسن، گل سوسن."
+      },
+      {
+        "question": "How is Sawsan pronounced?",
+        "answer": "A romanized syllable approximation is saw-san. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Sawsan?",
+        "answer": "Romanization variants include Sawsan, sawsan. Script forms are سوسن, سَوْسَن, सौसन."
+      },
+      {
+        "question": "Is Sawsan a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+      }
+    ],
+    "seo": {
+      "title": "Sawsan Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Sawsan (سَوْسَن).",
+      "h1": "Sawsan Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Sawsan meaning",
+      "secondary_keywords": [
+        "Sawsan name meaning",
+        "Sawsan meaning in Urdu",
+        "Sawsan origin",
+        "Sawsan Islamic name",
+        "Sawsan pronunciation",
+        "Sawsan name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Sawsan (سَوْسَن) is associated with the Arabic form سَوْسَن, whose core sense is sawsan; lily. Sawsan is Arabic سَوْسَن (Sawsan), the word for the lily flower.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Sawsan is associated with the Arabic form سَوْسَن, whose core sense is sawsan; lily.",
+      "meaning_section": "The central meaning of Sawsan is sawsan; lily.",
+      "origin_section": "Sawsan is associated with Arabic rather than with a different language.",
+      "islam_section": "Sawsan can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Sawsan is with the sense sawsan; lily.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Sawsan",
+      "#SawsanMeaning",
+      "#SawsanName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
+      ]
+    },
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Sawsan corresponds to the Arabic form سَوْسَن",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Sawsan has the core sense sawsan; lily",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
+      ],
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
+      ],
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "Sawsan",
+      "alternateName": [
+        "Sawsan",
+        "sawsan"
+      ],
+      "description": "A name associated with the Arabic form سَوْسَن, meaning sawsan; lily.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "sawsan",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
+        }
+      ]
+    },
+    "accessibility": {
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Sawsan, associated with the Arabic form سَوْسَن, meaning sawsan; lily."
+    },
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
+  }
+}
