@@ -4,30 +4,30 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 4300 |
-| Current batch | 43 |
-| Batch range | mudassir .. murshida (100) |
-| Verified forms | 4143 |
+| Names completed | 4400 |
+| Current batch | 44 |
+| Batch range | murtada .. nacira (100) |
+| Verified forms | 4243 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | murshida |
-| Updated | 2026-10-03T03:04:14Z |
+| Next batch starts after | nacira |
+| Updated | 2026-10-03T03:06:58Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 2433 |
-| low | 727 |
-| medium | 983 |
+| high | 2528 |
+| low | 729 |
+| medium | 986 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 3337 |
-| Persian | 538 |
-| Unknown | 222 |
+| Arabic | 3431 |
+| Persian | 540 |
+| Unknown | 224 |
 | Hebrew | 59 |
 | Turkish | 48 |
 | Turkic | 18 |
@@ -35,9 +35,9 @@
 | Sanskrit | 10 |
 | Pashto | 8 |
 | Greek | 8 |
+| Hindi | 5 |
 | Punjabi | 3 |
 | Urdu | 3 |
-| Hindi | 3 |
 | English | 3 |
 | Western | 3 |
 | Russian | 3 |
@@ -76,3 +76,4 @@
 |---|---|---|---|
 | 42 | aabid .. mudasser | 100 | complete |
 | 43 | mudassir .. murshida | 100 | complete |
+| 44 | murtada .. nacira | 100 | complete |
