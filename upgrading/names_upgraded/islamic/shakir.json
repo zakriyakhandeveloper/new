@@ -1,0 +1,480 @@
+{
+  "success": true,
+  "data": {
+    "name": "Shakir",
+    "slug": "shakir",
+    "identity": {
+      "display_name": "Shakir",
+      "normalized_name": "shakir",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Shakir",
+        "shakir"
+      ],
+      "search_variants": [
+        "Shakir",
+        "shakir"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
+    },
+    "core_meaning": {
+      "short_meaning": "Shakir; thankful, grateful",
+      "primary_meaning": "Shakir; thankful",
+      "secondary_meanings": [
+        "grateful"
+      ],
+      "literal_meaning": "Shakir; thankful",
+      "extended_meaning": "Shakir; thankful, grateful",
+      "meaning_explanation": "Shakir corresponds to the Arabic form شَاكِر (Arabic root ش ك ر (sh-k-r); شَاكِر (Shākir)). Its core sense is shakir; thankful, grateful. Shakir is Arabic شَاكِر (Shākir), the active participle of شَكَرَ, meaning 'thankful, grateful'.",
+      "meaning_confidence": "high"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "شَاكِر",
+      "transliteration": "shakir",
+      "romanization": "shakir",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Shakir; thankful",
+        "grateful"
+      ],
+      "etymology_explanation": "The form شَاكِر is an established Arabic lexical item. Shakir is Arabic شَاكِر (Shākir), the active participle of شَكَرَ, meaning 'thankful, grateful'.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "شَاكِر is an established Arabic form.",
+        "Urdu": "شاکر is used in Urdu.",
+        "Persian": "شاکر is an established Persian form.",
+        "Hindi": "शाकिर is used in Hindi.",
+        "Pashto": "شاکر is used in Pashto."
+      },
+      "language_confidence": "high"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form شَاكِر. Shakir is Arabic شَاكِر (Shākir), the active participle of شَكَرَ, meaning 'thankful, grateful'.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Shakir may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "The root ش ك ر is Quranic, but Shākir is not itself a Quranic personal name."
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense shakir; thankful, grateful.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Shakir; thankful",
+      "related_concepts": [
+        "shakir; thankful",
+        "grateful"
+      ],
+      "semantic_relationship": "The central semantic idea is shakir; thankful; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of shakir; thankful.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Shakir; thankful",
+        "Grateful"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Shakir",
+        "meaning": "Shakir; thankful, grateful",
+        "long_meaning": "Shakir is a Arabic-origin name. Its core meaning is shakir; thankful, grateful. Shakir is Arabic شَاكِر (Shākir), the active participle of شَكَرَ, meaning 'thankful, grateful'."
+      },
+      "urdu": {
+        "name": "شاکر",
+        "meaning": "شاکر، شکر گزار",
+        "long_meaning": "Shakir (شاکر) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم شاکر، شکر گزار ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "شاکر",
+        "meaning": "شاکر، سپاسگزار",
+        "long_meaning": "Shakir (شاکر) نامی برگرفته از زبان عربی است و معنای اصلی آن شاکر، سپاسگزار است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "शाकिर",
+        "meaning": "शाकिर, कृतज्ञ",
+        "long_meaning": "Shakir (शाकिर) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ शाकिर, कृतज्ञ है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "شاکر",
+        "meaning": "شاکر، شکرګزار",
+        "long_meaning": "Shakir (شاکر) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې شاکر، شکرګزار ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "شَاكِر",
+        "meaning": "الشَّاكِر، الْحَامِد",
+        "long_meaning": "Shakir (شَاكِر) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الشَّاكِر، الْحَامِد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
+    },
+    "pronunciation": {
+      "romanized": "sha-kir",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "شاکر",
+      "persian": "شاکر",
+      "hindi": "शाकिर",
+      "pashto": "شاکر"
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Shakir",
+        "shakir"
+      ],
+      "script_variants": [
+        "شاکر",
+        "شَاكِر",
+        "शाकिर"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form شَاكِر is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Shakir can be understood through the Arabic form شَاكِر, whose central sense is shakir; thankful, grateful. Shakir is Arabic شَاكِر (Shākir), the active participle of شَكَرَ, meaning 'thankful, grateful'.",
+      "is_fictional": false
+    },
+    "faq": [
+      {
+        "question": "What does Shakir mean?",
+        "answer": "Shakir is associated with the Arabic form شَاكِر, whose core sense is shakir; thankful, grateful."
+      },
+      {
+        "question": "What is the origin of Shakir?",
+        "answer": "Shakir is associated with Arabic. Shakir is Arabic شَاكِر (Shākir), the active participle of شَكَرَ, meaning 'thankful, grateful'."
+      },
+      {
+        "question": "Is Shakir an Arabic name?",
+        "answer": "Yes — the underlying form شَاكِر is Arabic."
+      },
+      {
+        "question": "Is Shakir an Islamic name?",
+        "answer": "Shakir can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Shakir a Quranic name?",
+        "answer": "Shakir should not be classified as a Quranic personal name without a direct Quranic basis. The root ش ك ر is Quranic, but Shākir is not itself a Quranic personal name."
+      },
+      {
+        "question": "What does Shakir mean in Urdu?",
+        "answer": "In Urdu, Shakir is rendered شاکر and carries the sense شاکر، شکر گزار."
+      },
+      {
+        "question": "What does Shakir mean in Persian?",
+        "answer": "In Persian, Shakir is rendered شاکر and carries the sense شاکر، سپاسگزار."
+      },
+      {
+        "question": "How is Shakir pronounced?",
+        "answer": "A romanized syllable approximation is sha-kir. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Shakir?",
+        "answer": "Romanization variants include Shakir, shakir. Script forms are شاکر, شَاكِر, शाकिर."
+      },
+      {
+        "question": "Is Shakir a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+      }
+    ],
+    "seo": {
+      "title": "Shakir Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Shakir (شَاكِر).",
+      "h1": "Shakir Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Shakir meaning",
+      "secondary_keywords": [
+        "Shakir name meaning",
+        "Shakir meaning in Urdu",
+        "Shakir origin",
+        "Shakir Islamic name",
+        "Shakir pronunciation",
+        "Shakir name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Shakir (شَاكِر) is associated with the Arabic form شَاكِر, whose core sense is shakir; thankful, grateful. Shakir is Arabic شَاكِر (Shākir), the active participle of شَكَرَ, meaning 'thankful, grateful'.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Shakir is associated with the Arabic form شَاكِر, whose core sense is shakir; thankful, grateful.",
+      "meaning_section": "The central meaning of Shakir is shakir; thankful, grateful.",
+      "origin_section": "Shakir is associated with Arabic rather than with a different language.",
+      "islam_section": "Shakir can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Shakir is with the sense shakir; thankful.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Shakir",
+      "#ShakirMeaning",
+      "#ShakirName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
+      ]
+    },
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Shakir corresponds to the Arabic form شَاكِر",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Shakir has the core sense shakir; thankful, grateful",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
+      ],
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
+      ],
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "Shakir",
+      "alternateName": [
+        "Shakir",
+        "shakir"
+      ],
+      "description": "A name associated with the Arabic form شَاكِر, meaning shakir; thankful, grateful.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "shakir",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
+        }
+      ]
+    },
+    "accessibility": {
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Shakir, associated with the Arabic form شَاكِر, meaning shakir; thankful, grateful."
+    },
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
+  }
+}

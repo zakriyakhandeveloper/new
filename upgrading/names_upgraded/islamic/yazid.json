@@ -1,0 +1,475 @@
+{
+  "success": true,
+  "data": {
+    "name": "Yazid",
+    "slug": "yazid",
+    "identity": {
+      "display_name": "Yazid",
+      "normalized_name": "yazid",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Yazid",
+        "yazid"
+      ],
+      "search_variants": [
+        "Yazid",
+        "yazid"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
+    },
+    "core_meaning": {
+      "short_meaning": "Yazid; he increases",
+      "primary_meaning": "Yazid; he increases",
+      "secondary_meanings": [],
+      "literal_meaning": "Yazid; he increases",
+      "extended_meaning": "Yazid; he increases",
+      "meaning_explanation": "Yazid corresponds to the Arabic form يَزِيد (Arabic root ز ي د (z-y-d); يَزِيد (Yazīd)). Its core sense is yazid; he increases. Yazid is Arabic يَزِيد (Yazīd), associated with the sense 'he increases'.",
+      "meaning_confidence": "high"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "يَزِيد",
+      "transliteration": "yazid",
+      "romanization": "yazid",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Yazid; he increases"
+      ],
+      "etymology_explanation": "The form يَزِيد is an established Arabic lexical item. Yazid is Arabic يَزِيد (Yazīd), associated with the sense 'he increases'.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "يَزِيد is an established Arabic form.",
+        "Urdu": "یزید is used in Urdu.",
+        "Persian": "یزید is an established Persian form.",
+        "Hindi": "यज़ीद is used in Hindi.",
+        "Pashto": "یزید is used in Pashto."
+      },
+      "language_confidence": "high"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form يَزِيد. Yazid is Arabic يَزِيد (Yazīd), associated with the sense 'he increases'.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Yazid may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "Yazīd is not a Quranic personal name."
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense yazid; he increases.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Yazid; he increases",
+      "related_concepts": [
+        "yazid; he increases"
+      ],
+      "semantic_relationship": "The central semantic idea is yazid; he increases; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of yazid; he increases.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Yazid; he increases"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Yazid",
+        "meaning": "Yazid; he increases",
+        "long_meaning": "Yazid is a Arabic-origin name. Its core meaning is yazid; he increases. Yazid is Arabic يَزِيد (Yazīd), associated with the sense 'he increases'."
+      },
+      "urdu": {
+        "name": "یزید",
+        "meaning": "یزید، بڑھنے والا",
+        "long_meaning": "Yazid (یزید) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم یزید، بڑھنے والا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "یزید",
+        "meaning": "یزید، افزاینده",
+        "long_meaning": "Yazid (یزید) نامی برگرفته از زبان عربی است و معنای اصلی آن یزید، افزاینده است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "यज़ीद",
+        "meaning": "यज़ीद, बढ़ने वाला",
+        "long_meaning": "Yazid (यज़ीद) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ यज़ीद, बढ़ने वाला है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "یزید",
+        "meaning": "یزید، زیاتیدونکی",
+        "long_meaning": "Yazid (یزید) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې یزید، زیاتیدونکی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "يَزِيد",
+        "meaning": "يَزِيد، الَّذِي يَزِيد",
+        "long_meaning": "Yazid (يَزِيد) اسم مأخوذ من اللغة العربية، ومعناه الأساسي يَزِيد، الَّذِي يَزِيد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
+    },
+    "pronunciation": {
+      "romanized": "ya-zid",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "یزید",
+      "persian": "یزید",
+      "hindi": "यज़ीद",
+      "pashto": "یزید"
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Yazid",
+        "yazid"
+      ],
+      "script_variants": [
+        "يَزِيد",
+        "یزید",
+        "यज़ीद"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form يَزِيد is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Yazid can be understood through the Arabic form يَزِيد, whose central sense is yazid; he increases. Yazid is Arabic يَزِيد (Yazīd), associated with the sense 'he increases'.",
+      "is_fictional": false
+    },
+    "faq": [
+      {
+        "question": "What does Yazid mean?",
+        "answer": "Yazid is associated with the Arabic form يَزِيد, whose core sense is yazid; he increases."
+      },
+      {
+        "question": "What is the origin of Yazid?",
+        "answer": "Yazid is associated with Arabic. Yazid is Arabic يَزِيد (Yazīd), associated with the sense 'he increases'."
+      },
+      {
+        "question": "Is Yazid an Arabic name?",
+        "answer": "Yes — the underlying form يَزِيد is Arabic."
+      },
+      {
+        "question": "Is Yazid an Islamic name?",
+        "answer": "Yazid can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Yazid a Quranic name?",
+        "answer": "Yazid should not be classified as a Quranic personal name without a direct Quranic basis. Yazīd is not a Quranic personal name."
+      },
+      {
+        "question": "What does Yazid mean in Urdu?",
+        "answer": "In Urdu, Yazid is rendered یزید and carries the sense یزید، بڑھنے والا."
+      },
+      {
+        "question": "What does Yazid mean in Persian?",
+        "answer": "In Persian, Yazid is rendered یزید and carries the sense یزید، افزاینده."
+      },
+      {
+        "question": "How is Yazid pronounced?",
+        "answer": "A romanized syllable approximation is ya-zid. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Yazid?",
+        "answer": "Romanization variants include Yazid, yazid. Script forms are يَزِيد, یزید, यज़ीद."
+      },
+      {
+        "question": "Is Yazid a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+      }
+    ],
+    "seo": {
+      "title": "Yazid Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Yazid (يَزِيد).",
+      "h1": "Yazid Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Yazid meaning",
+      "secondary_keywords": [
+        "Yazid name meaning",
+        "Yazid meaning in Urdu",
+        "Yazid origin",
+        "Yazid Islamic name",
+        "Yazid pronunciation",
+        "Yazid name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Yazid (يَزِيد) is associated with the Arabic form يَزِيد, whose core sense is yazid; he increases. Yazid is Arabic يَزِيد (Yazīd), associated with the sense 'he increases'.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Yazid is associated with the Arabic form يَزِيد, whose core sense is yazid; he increases.",
+      "meaning_section": "The central meaning of Yazid is yazid; he increases.",
+      "origin_section": "Yazid is associated with Arabic rather than with a different language.",
+      "islam_section": "Yazid can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Yazid is with the sense yazid; he increases.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Yazid",
+      "#YazidMeaning",
+      "#YazidName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
+      ]
+    },
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Yazid corresponds to the Arabic form يَزِيد",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Yazid has the core sense yazid; he increases",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
+      ],
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
+      ],
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "Yazid",
+      "alternateName": [
+        "Yazid",
+        "yazid"
+      ],
+      "description": "A name associated with the Arabic form يَزِيد, meaning yazid; he increases.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "yazid",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
+        }
+      ]
+    },
+    "accessibility": {
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Yazid, associated with the Arabic form يَزِيد, meaning yazid; he increases."
+    },
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
+  }
+}
