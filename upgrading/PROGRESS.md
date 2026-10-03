@@ -4,39 +4,39 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 4700 |
-| Current batch | 47 |
-| Batch range | navil .. neveen (100) |
-| Verified forms | 4543 |
+| Names completed | 4800 |
+| Current batch | 48 |
+| Batch range | nevine .. nuha (100) |
+| Verified forms | 4643 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | neveen |
-| Updated | 2026-10-03T03:17:24Z |
+| Next batch starts after | nuha |
+| Updated | 2026-10-03T03:21:04Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 2787 |
+| high | 2865 |
 | low | 729 |
-| medium | 1027 |
+| medium | 1049 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 3669 |
-| Persian | 583 |
+| Arabic | 3742 |
+| Persian | 604 |
 | Unknown | 224 |
 | Hebrew | 59 |
 | Turkish | 53 |
 | Turkic | 18 |
 | Kurdish | 15 |
-| Hindi | 11 |
+| Hindi | 12 |
+| Urdu | 11 |
 | Sanskrit | 10 |
 | Pashto | 8 |
 | Greek | 8 |
-| Urdu | 8 |
 | English | 4 |
 | Punjabi | 3 |
 | Western | 3 |
@@ -46,6 +46,7 @@
 | Irish | 2 |
 | Indonesian | 2 |
 | Chinese | 2 |
+| Aramaic | 2 |
 | Basque | 1 |
 | Berber | 1 |
 | Akkadian | 1 |
@@ -82,3 +83,4 @@
 | 45 | nada .. najid | 100 | complete |
 | 46 | najih .. navid | 100 | complete |
 | 47 | navil .. neveen | 100 | complete |
+| 48 | nevine .. nuha | 100 | complete |

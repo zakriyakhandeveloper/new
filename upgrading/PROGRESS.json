@@ -3,14 +3,14 @@
  "culture": "islamic",
  "branch": "names-upgraded-v3",
  "total_names_in_slice": 5471,
- "names_completed": 4700,
- "current_batch": 47,
+ "names_completed": 4800,
+ "current_batch": 48,
  "batch_range": {
-  "first": "navil",
-  "last": "neveen",
+  "first": "nevine",
+  "last": "nuha",
   "count": 100
  },
- "batches_completed": 47,
+ "batches_completed": 48,
  "per_name": [
   {
    "name": "Aabid",
@@ -47011,18 +47011,1018 @@
    "gender": "Female",
    "manual_review_required": false,
    "reason": null
+  },
+  {
+   "name": "Nevine",
+   "slug": "nevine",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Neyla",
+   "slug": "neyla",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nezha",
+   "slug": "nezha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Niam",
+   "slug": "niam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Niaz",
+   "slug": "niaz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Niazi",
+   "slug": "niazi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nibal",
+   "slug": "nibal",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nibras",
+   "slug": "nibras",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nida",
+   "slug": "nida",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nidaa",
+   "slug": "nidaa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nidal",
+   "slug": "nidal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nighat",
+   "slug": "nighat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Urdu",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Niha",
+   "slug": "niha",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nihad",
+   "slug": "nihad",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nihal",
+   "slug": "nihal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nihan",
+   "slug": "nihan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nihel",
+   "slug": "nihel",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nija",
+   "slug": "nija",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nijat",
+   "slug": "nijat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nikhat",
+   "slug": "nikhat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Urdu",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nikzad",
+   "slug": "nikzad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nilofar",
+   "slug": "nilofar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nilofer",
+   "slug": "nilofer",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Niloufar",
+   "slug": "niloufar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nilufar",
+   "slug": "nilufar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nimah",
+   "slug": "nimah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nimat",
+   "slug": "nimat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nimr",
+   "slug": "nimr",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nimra",
+   "slug": "nimra",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nimrah",
+   "slug": "nimrah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nimrat",
+   "slug": "nimrat",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nina",
+   "slug": "nina",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Ninos",
+   "slug": "ninos",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Aramaic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nisa",
+   "slug": "nisa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nisaa",
+   "slug": "nisaa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nisar",
+   "slug": "nisar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nishat",
+   "slug": "nishat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Urdu",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nisma",
+   "slug": "nisma",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nisreen",
+   "slug": "nisreen",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nisrin",
+   "slug": "nisrin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nissa",
+   "slug": "nissa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nissan",
+   "slug": "nissan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Aramaic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nitasha",
+   "slug": "nitasha",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Hindi",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nivin",
+   "slug": "nivin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Niyaz",
+   "slug": "niyaz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Niyazi",
+   "slug": "niyazi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nizaar",
+   "slug": "nizaar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nizal",
+   "slug": "nizal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nizam",
+   "slug": "nizam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nizami",
+   "slug": "nizami",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nizar",
+   "slug": "nizar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Noaman",
+   "slug": "noaman",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nobar",
+   "slug": "nobar",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nofal",
+   "slug": "nofal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Noha",
+   "slug": "noha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nojood",
+   "slug": "nojood",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nomaan",
+   "slug": "nomaan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Noman",
+   "slug": "noman",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nooh",
+   "slug": "nooh",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Noon",
+   "slug": "noon",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nooni",
+   "slug": "nooni",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Noor",
+   "slug": "noor",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Noora",
+   "slug": "noora",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Noorah",
+   "slug": "noorah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Noorain",
+   "slug": "noorain",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nooran",
+   "slug": "nooran",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Noorani",
+   "slug": "noorani",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Noore",
+   "slug": "noore",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Noori",
+   "slug": "noori",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Noorjahan",
+   "slug": "noorjahan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Noorul",
+   "slug": "noorul",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nooshin",
+   "slug": "nooshin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nora",
+   "slug": "nora",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Norah",
+   "slug": "norah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Noreen",
+   "slug": "noreen",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Norhan",
+   "slug": "norhan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Noriza",
+   "slug": "noriza",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Noshaba",
+   "slug": "noshaba",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nosheen",
+   "slug": "nosheen",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Noshi",
+   "slug": "noshi",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Noshin",
+   "slug": "noshin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nouf",
+   "slug": "nouf",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Noufal",
+   "slug": "noufal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nouh",
+   "slug": "nouh",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nouha",
+   "slug": "nouha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nouman",
+   "slug": "nouman",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nour",
+   "slug": "nour",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Noura",
+   "slug": "noura",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nouran",
+   "slug": "nouran",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Noureen",
+   "slug": "noureen",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nourhan",
+   "slug": "nourhan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nouria",
+   "slug": "nouria",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nousha",
+   "slug": "nousha",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Noushin",
+   "slug": "noushin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Novin",
+   "slug": "novin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Noya",
+   "slug": "noya",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nuaim",
+   "slug": "nuaim",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nufail",
+   "slug": "nufail",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nuh",
+   "slug": "nuh",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Nuha",
+   "slug": "nuha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
   }
  ],
  "confidence_summary": {
-  "high": 2787,
+  "high": 2865,
   "low": 729,
-  "medium": 1027,
+  "medium": 1049,
   "unverified": 157
  },
  "origin_summary": {
-  "Arabic": 3669,
+  "Arabic": 3742,
   "Unknown": 224,
-  "Persian": 583,
+  "Persian": 604,
   "Hebrew": 59,
   "Sanskrit": 10,
   "Yoruba": 2,
@@ -47039,8 +48039,8 @@
   "Akkadian": 1,
   "Slavic": 1,
   "Indonesian": 2,
-  "Urdu": 8,
-  "Hindi": 11,
+  "Urdu": 11,
+  "Hindi": 12,
   "English": 4,
   "Somali": 1,
   "Tamil": 1,
@@ -47051,9 +48051,10 @@
   "Western": 3,
   "Russian": 3,
   "Malayalam": 1,
-  "Bengali": 1
+  "Bengali": 1,
+  "Aramaic": 2
  },
- "verified_forms": 4543,
+ "verified_forms": 4643,
  "unverified_forms": 157,
  "quality_gate": {
   "invalid_json": 0,
@@ -47066,6 +48067,6 @@
   "broken_text": 0,
   "total_failures": 0
  },
- "next_batch_starts_after": "neveen",
- "updated_at": "2026-10-03T03:17:24Z"
+ "next_batch_starts_after": "nuha",
+ "updated_at": "2026-10-03T03:21:04Z"
 }
