@@ -3,14 +3,14 @@
  "culture": "islamic",
  "branch": "names-upgraded-v3",
  "total_names_in_slice": 5471,
- "names_completed": 3900,
- "current_batch": 39,
+ "names_completed": 4000,
+ "current_batch": 40,
  "batch_range": {
-  "first": "mamoona",
-  "last": "mashooq",
+  "first": "masjid",
+  "last": "mensur",
   "count": 100
  },
- "batches_completed": 39,
+ "batches_completed": 40,
  "per_name": [
   {
    "name": "Aamilah",
@@ -39011,24 +39011,1024 @@
    "gender": "Male",
    "manual_review_required": false,
    "reason": null
+  },
+  {
+   "name": "Masjid",
+   "slug": "masjid",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unknown",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Masood",
+   "slug": "masood",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Masoom",
+   "slug": "masoom",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Masooma",
+   "slug": "masooma",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Masoud",
+   "slug": "masoud",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Masouda",
+   "slug": "masouda",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Masroor",
+   "slug": "masroor",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Masrur",
+   "slug": "masrur",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Massoud",
+   "slug": "massoud",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mastan",
+   "slug": "mastan",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form مستان is an established Arabic lexical item. Mastan is recorded at low confidence. The source gloss 'The Helper' is unsupported and no verified Arabic "
+  },
+  {
+   "name": "Mastur",
+   "slug": "mastur",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mastura",
+   "slug": "mastura",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Masud",
+   "slug": "masud",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Masudi",
+   "slug": "masudi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Masum",
+   "slug": "masum",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Masuma",
+   "slug": "masuma",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Masun",
+   "slug": "masun",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Matar",
+   "slug": "matar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Matee",
+   "slug": "matee",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mateen",
+   "slug": "mateen",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mathar",
+   "slug": "mathar",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form مثار is an established Arabic lexical item. Mathar is recorded at low confidence. The source gloss 'Rider, Traveler' is unsupported and no verified Ara"
+  },
+  {
+   "name": "Matia",
+   "slug": "matia",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form مطية is an established Arabic lexical item. Matia is recorded at low confidence. The source gave the Latin string 'Matia' instead of an Arabic form and"
+  },
+  {
+   "name": "Matin",
+   "slug": "matin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Matina",
+   "slug": "matina",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form مطينة is an established Arabic lexical item. Matina is recorded at low confidence. The source gave the Latin string 'Matina' instead of an Arabic form "
+  },
+  {
+   "name": "Matir",
+   "slug": "matir",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "The form ماطر is an established Arabic lexical item. Matir is recorded at low confidence. The source gloss 'A carrier, supporter, helper' is unsupported and no "
+  },
+  {
+   "name": "Matlab",
+   "slug": "matlab",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unknown",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Matloob",
+   "slug": "matloob",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Matlub",
+   "slug": "matlub",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Maulana",
+   "slug": "maulana",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mausooma",
+   "slug": "mausooma",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mawadda",
+   "slug": "mawadda",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mawaddah",
+   "slug": "mawaddah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mawar",
+   "slug": "mawar",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form موار is an established Arabic lexical item. Mawar is recorded at low confidence. The source gloss 'Abyss, Ocean' is unsupported and no verified Arabic "
+  },
+  {
+   "name": "Mawlana",
+   "slug": "mawlana",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Maya",
+   "slug": "maya",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Maya. Maya is recorded at low confidence. The source record was an empty stub with no data. The form is widely used ac"
+  },
+  {
+   "name": "Mayada",
+   "slug": "mayada",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mayar",
+   "slug": "mayar",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mayed",
+   "slug": "mayed",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Maymun",
+   "slug": "maymun",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Maymuna",
+   "slug": "maymuna",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mays",
+   "slug": "mays",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Maysa",
+   "slug": "maysa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Maysaa",
+   "slug": "maysaa",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Maysam",
+   "slug": "maysam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Maysan",
+   "slug": "maysan",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unknown",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Maysara",
+   "slug": "maysara",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Maysarah",
+   "slug": "maysarah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Maysoon",
+   "slug": "maysoon",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Maytham",
+   "slug": "maytham",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mayyada",
+   "slug": "mayyada",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mazahir",
+   "slug": "mazahir",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mazhar",
+   "slug": "mazhar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Maziah",
+   "slug": "maziah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Maziar",
+   "slug": "maziar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mazid",
+   "slug": "mazid",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mazin",
+   "slug": "mazin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Maznah",
+   "slug": "maznah",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Medina",
+   "slug": "medina",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Meem",
+   "slug": "meem",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unknown",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Meena",
+   "slug": "meena",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Meer",
+   "slug": "meer",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Meera",
+   "slug": "meera",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form ميرا is an established Unknown lexical item. Meera is recorded at low confidence. The source gloss \"Prophet's companion\" is unsupported and no verified"
+  },
+  {
+   "name": "Meeran",
+   "slug": "meeran",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Meeza",
+   "slug": "meeza",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form ميزا is an established Unknown lexical item. Meeza is recorded at low confidence. The source gave the Latin string 'Meeza' instead of an Arabic form an"
+  },
+  {
+   "name": "Meezan",
+   "slug": "meezan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Meha",
+   "slug": "meha",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form ميهة is an established Unknown lexical item. Meha is recorded at low confidence. The source gloss 'Delight, Pleasure' is unsupported and no verified Ar"
+  },
+  {
+   "name": "Mehak",
+   "slug": "mehak",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehar",
+   "slug": "mehar",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehboob",
+   "slug": "mehboob",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehd",
+   "slug": "mehd",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehdi",
+   "slug": "mehdi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehek",
+   "slug": "mehek",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Meher",
+   "slug": "meher",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehfooz",
+   "slug": "mehfooz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehmet",
+   "slug": "mehmet",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehmood",
+   "slug": "mehmood",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehmud",
+   "slug": "mehmud",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehnaz",
+   "slug": "mehnaz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehndi",
+   "slug": "mehndi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Unknown",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehr",
+   "slug": "mehr",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehrab",
+   "slug": "mehrab",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehraban",
+   "slug": "mehraban",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehrad",
+   "slug": "mehrad",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehran",
+   "slug": "mehran",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehrana",
+   "slug": "mehrana",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehreen",
+   "slug": "mehreen",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehri",
+   "slug": "mehri",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehriban",
+   "slug": "mehriban",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehrin",
+   "slug": "mehrin",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehrnoush",
+   "slug": "mehrnoush",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehrsa",
+   "slug": "mehrsa",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "The form مهراسا is an established Persian lexical item. Mehrsa is recorded at low confidence. The source gave عائشة (a different name entirely) and labelled the"
+  },
+  {
+   "name": "Mehrtash",
+   "slug": "mehrtash",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehry",
+   "slug": "mehry",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehtab",
+   "slug": "mehtab",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehvish",
+   "slug": "mehvish",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mehwish",
+   "slug": "mehwish",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Melek",
+   "slug": "melek",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Meltem",
+   "slug": "meltem",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Memoona",
+   "slug": "memoona",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mensur",
+   "slug": "mensur",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
   }
  ],
  "confidence_summary": {
-  "medium": 947,
-  "high": 2096,
+  "medium": 970,
+  "high": 2162,
   "unverified": 157,
-  "low": 700
+  "low": 711
  },
  "origin_summary": {
-  "Arabic": 3010,
-  "Unknown": 204,
+  "Arabic": 3076,
+  "Unknown": 208,
   "Hebrew": 58,
   "Sanskrit": 10,
-  "Persian": 498,
+  "Persian": 524,
   "Yoruba": 1,
   "Latin": 2,
   "Pashto": 7,
-  "Turkish": 41,
+  "Turkish": 45,
   "Turkic": 18,
   "Irish": 2,
   "Greek": 8,
@@ -39050,7 +40050,7 @@
   "Chinese": 1,
   "Western": 3
  },
- "verified_forms": 3743,
+ "verified_forms": 3843,
  "unverified_forms": 157,
  "quality_gate": {
   "invalid_json": 0,
@@ -39063,6 +40063,6 @@
   "broken_text": 0,
   "total_failures": 0
  },
- "next_batch_starts_after": "mashooq",
- "updated_at": "2026-10-02T05:55:43Z"
+ "next_batch_starts_after": "mensur",
+ "updated_at": "2026-10-03T02:42:48Z"
 }

@@ -4,32 +4,32 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 3900 |
-| Current batch | 39 |
-| Batch range | mamoona .. mashooq (100) |
-| Verified forms | 3743 |
+| Names completed | 4000 |
+| Current batch | 40 |
+| Batch range | masjid .. mensur (100) |
+| Verified forms | 3843 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | mashooq |
-| Updated | 2026-10-02T05:55:43Z |
+| Next batch starts after | mensur |
+| Updated | 2026-10-03T02:42:48Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 2096 |
-| low | 700 |
-| medium | 947 |
+| high | 2162 |
+| low | 711 |
+| medium | 970 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 3010 |
-| Persian | 498 |
-| Unknown | 204 |
+| Arabic | 3076 |
+| Persian | 524 |
+| Unknown | 208 |
 | Hebrew | 58 |
-| Turkish | 41 |
+| Turkish | 45 |
 | Turkic | 18 |
 | Kurdish | 15 |
 | Sanskrit | 10 |
@@ -112,3 +112,4 @@
 | 37 | layal .. maham | 100 | complete |
 | 38 | mahan .. makhfi | 100 | complete |
 | 39 | makki .. marzia | 100 | complete |
+| 40 | marzieh .. mehndi | 100 | complete |
