@@ -4,35 +4,35 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 5300 |
-| Current batch | 53 |
-| Batch range | raza .. rohana (100) |
-| Verified forms | 5143 |
+| Names completed | 5400 |
+| Current batch | 54 |
+| Batch range | rohi .. sabahat (100) |
+| Verified forms | 5243 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | rohana |
-| Updated | 2026-10-03T03:35:52Z |
+| Next batch starts after | sabahat |
+| Updated | 2026-10-03T03:38:54Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 3273 |
+| high | 3354 |
 | low | 729 |
-| medium | 1141 |
+| medium | 1160 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 4172 |
-| Persian | 649 |
+| Arabic | 4246 |
+| Persian | 661 |
 | Unknown | 224 |
-| Turkish | 64 |
-| Hebrew | 59 |
+| Turkish | 66 |
+| Hebrew | 61 |
+| Urdu | 22 |
+| Kurdish | 20 |
 | Turkic | 18 |
-| Kurdish | 17 |
-| Urdu | 16 |
 | Sanskrit | 12 |
 | Hindi | 12 |
 | Pashto | 9 |
@@ -45,6 +45,7 @@
 | Yoruba | 2 |
 | Latin | 2 |
 | Irish | 2 |
+| Tamil | 2 |
 | Chinese | 2 |
 | Aramaic | 2 |
 | Malay | 2 |
@@ -53,7 +54,6 @@
 | Akkadian | 1 |
 | Slavic | 1 |
 | Somali | 1 |
-| Tamil | 1 |
 | Germanic | 1 |
 | Spanish | 1 |
 | Dutch | 1 |
@@ -90,3 +90,4 @@
 | 51 | rafah .. raki | 100 | complete |
 | 52 | ramadan .. raz | 100 | complete |
 | 53 | raza .. rohana | 100 | complete |
+| 54 | rohi .. sabahat | 100 | complete |

@@ -1,0 +1,484 @@
+{
+  "success": true,
+  "data": {
+    "name": "Saaid",
+    "slug": "saaid",
+    "identity": {
+      "display_name": "Saaid",
+      "normalized_name": "saaid",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Saaid",
+        "saaid",
+        "said"
+      ],
+      "search_variants": [
+        "Saaid",
+        "saaid",
+        "said"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
+    },
+    "core_meaning": {
+      "short_meaning": "Saaid; happy, fortunate",
+      "primary_meaning": "Saaid; happy",
+      "secondary_meanings": [
+        "fortunate"
+      ],
+      "literal_meaning": "Saaid; happy",
+      "extended_meaning": "Saaid; happy, fortunate",
+      "meaning_explanation": "Saaid corresponds to the Arabic form سَعِيد (Arabic root س ع د (s-ʿ-d); سَعِيد (Saʿīd)). Its core sense is saaid; happy, fortunate. Saaid is a spelling variant of Arabic سَعِيد (Saʿīd) 'happy, fortunate', from the root س ع د (s-ʿ-d). The source gloss 'Helper, Support' is unsupported and has been replaced with the lexical sense. Same name as said.",
+      "meaning_confidence": "high"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "سَعِيد",
+      "transliteration": "saaid",
+      "romanization": "saaid",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Saaid; happy",
+        "fortunate"
+      ],
+      "etymology_explanation": "The form سَعِيد is an established Arabic lexical item. Saaid is a spelling variant of Arabic سَعِيد (Saʿīd) 'happy, fortunate', from the root س ع د (s-ʿ-d). The source gloss 'Helper, Support' is unsupported and has been replaced with the lexical sense. Same name as said.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "سَعِيد is an established Arabic form.",
+        "Urdu": "سعید is used in Urdu.",
+        "Persian": "سعید is an established Persian form.",
+        "Hindi": "सईद is used in Hindi.",
+        "Pashto": "سعید is used in Pashto."
+      },
+      "language_confidence": "high"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form سَعِيد. Saaid is a spelling variant of Arabic سَعِيد (Saʿīd) 'happy, fortunate', from the root س ع د (s-ʿ-d). The source gloss 'Helper, Support' is unsupported and has been replaced with the lexical sense. Same name as said.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Saaid may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense saaid; happy, fortunate.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Saaid; happy",
+      "related_concepts": [
+        "saaid; happy",
+        "fortunate"
+      ],
+      "semantic_relationship": "The central semantic idea is saaid; happy; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of saaid; happy.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Saaid; happy",
+        "Fortunate"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Saaid",
+        "meaning": "Saaid; happy, fortunate",
+        "long_meaning": "Saaid is a Arabic-origin name. Its core meaning is saaid; happy, fortunate. Saaid is a spelling variant of Arabic سَعِيد (Saʿīd) 'happy, fortunate', from the root س ع د (s-ʿ-d). The source gloss 'Helper, Support' is unsupported and has been replaced with the lexical sense. Same name as said."
+      },
+      "urdu": {
+        "name": "سعید",
+        "meaning": "سعید، خوش نصیب",
+        "long_meaning": "Saaid (سعید) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم سعید، خوش نصیب ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "سعید",
+        "meaning": "سعید، خوشبخت",
+        "long_meaning": "Saaid (سعید) نامی برگرفته از زبان عربی است و معنای اصلی آن سعید، خوشبخت است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "सईद",
+        "meaning": "सईद, प्रसन्न",
+        "long_meaning": "Saaid (सईद) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ सईद, प्रसन्न है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "سعید",
+        "meaning": "سعید، خوشحاله",
+        "long_meaning": "Saaid (سعید) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې سعید، خوشحاله ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "سَعِيد",
+        "meaning": "السَّعِيد، السَّعَادَة",
+        "long_meaning": "Saaid (سَعِيد) اسم مأخوذ من اللغة العربية، ومعناه الأساسي السَّعِيد، السَّعَادَة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
+    },
+    "pronunciation": {
+      "romanized": "saaid",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "سعید",
+      "persian": "سعید",
+      "hindi": "सईद",
+      "pashto": "سعید"
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Saaid",
+        "saaid",
+        "said"
+      ],
+      "script_variants": [
+        "سعید",
+        "سَعِيد",
+        "सईद"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form سَعِيد is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Saaid can be understood through the Arabic form سَعِيد, whose central sense is saaid; happy, fortunate. Saaid is a spelling variant of Arabic سَعِيد (Saʿīd) 'happy, fortunate', from the root س ع د (s-ʿ-d). The source gloss 'Helper, Support' is unsupported and has been replaced with the lexical sense. Same name as said.",
+      "is_fictional": false
+    },
+    "faq": [
+      {
+        "question": "What does Saaid mean?",
+        "answer": "Saaid is associated with the Arabic form سَعِيد, whose core sense is saaid; happy, fortunate."
+      },
+      {
+        "question": "What is the origin of Saaid?",
+        "answer": "Saaid is associated with Arabic. Saaid is a spelling variant of Arabic سَعِيد (Saʿīd) 'happy, fortunate', from the root س ع د (s-ʿ-d). The source gloss 'Helper, Support' is unsupported and has been replaced with the lexical sense. Same name as said."
+      },
+      {
+        "question": "Is Saaid an Arabic name?",
+        "answer": "Yes — the underlying form سَعِيد is Arabic."
+      },
+      {
+        "question": "Is Saaid an Islamic name?",
+        "answer": "Saaid can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Saaid a Quranic name?",
+        "answer": "Saaid should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Saaid mean in Urdu?",
+        "answer": "In Urdu, Saaid is rendered سعید and carries the sense سعید، خوش نصیب."
+      },
+      {
+        "question": "What does Saaid mean in Persian?",
+        "answer": "In Persian, Saaid is rendered سعید and carries the sense سعید، خوشبخت."
+      },
+      {
+        "question": "How is Saaid pronounced?",
+        "answer": "A romanized syllable approximation is saaid. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Saaid?",
+        "answer": "Romanization variants include Saaid, saaid, said. Script forms are سعید, سَعِيد, सईद."
+      },
+      {
+        "question": "Is Saaid a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+      }
+    ],
+    "seo": {
+      "title": "Saaid Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Saaid (سَعِيد).",
+      "h1": "Saaid Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Saaid meaning",
+      "secondary_keywords": [
+        "Saaid name meaning",
+        "Saaid meaning in Urdu",
+        "Saaid origin",
+        "Saaid Islamic name",
+        "Saaid pronunciation",
+        "Saaid name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Saaid (سَعِيد) is associated with the Arabic form سَعِيد, whose core sense is saaid; happy, fortunate. Saaid is a spelling variant of Arabic سَعِيد (Saʿīd) 'happy, fortunate', from the root س ع د (s-ʿ-d). The source gloss 'Helper, Support' is unsupported and has been replaced with the lexical sense. Same name as said.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Saaid is associated with the Arabic form سَعِيد, whose core sense is saaid; happy, fortunate.",
+      "meaning_section": "The central meaning of Saaid is saaid; happy, fortunate.",
+      "origin_section": "Saaid is associated with Arabic rather than with a different language.",
+      "islam_section": "Saaid can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Saaid is with the sense saaid; happy.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Saaid",
+      "#SaaidMeaning",
+      "#SaaidName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
+      ]
+    },
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Saaid corresponds to the Arabic form سَعِيد",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Saaid has the core sense saaid; happy, fortunate",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
+      ],
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
+      ],
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "Saaid",
+      "alternateName": [
+        "Saaid",
+        "saaid",
+        "said"
+      ],
+      "description": "A name associated with the Arabic form سَعِيد, meaning saaid; happy, fortunate.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "saaid",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
+        }
+      ]
+    },
+    "accessibility": {
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Saaid, associated with the Arabic form سَعِيد, meaning saaid; happy, fortunate."
+    },
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
+  }
+}

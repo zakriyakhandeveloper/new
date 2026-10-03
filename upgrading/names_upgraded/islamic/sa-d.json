@@ -1,0 +1,480 @@
+{
+  "success": true,
+  "data": {
+    "name": "Sa-d",
+    "slug": "sa-d",
+    "identity": {
+      "display_name": "Sa-d",
+      "normalized_name": "sa-d",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Sa-d",
+        "sa-d"
+      ],
+      "search_variants": [
+        "Sa-d",
+        "sa-d"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
+    },
+    "core_meaning": {
+      "short_meaning": "Sa'd; good fortune, happiness",
+      "primary_meaning": "Sa'd; good fortune",
+      "secondary_meanings": [
+        "happiness"
+      ],
+      "literal_meaning": "Sa'd; good fortune",
+      "extended_meaning": "Sa'd; good fortune, happiness",
+      "meaning_explanation": "Sa-d corresponds to the Arabic form سَعْد (Arabic root س ع د (s-ʿ-d); سَعْد (Saʿd)). Its core sense is sa'd; good fortune, happiness. Sa'd is Arabic سَعْد (Saʿd) 'good fortune, happiness', from the root س ع د (s-ʿ-d). The source gloss 'Happiness, Luck' is consistent.",
+      "meaning_confidence": "high"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "سَعْد",
+      "transliteration": "sa-d",
+      "romanization": "sa-d",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Sa'd; good fortune",
+        "happiness"
+      ],
+      "etymology_explanation": "The form سَعْد is an established Arabic lexical item. Sa'd is Arabic سَعْد (Saʿd) 'good fortune, happiness', from the root س ع د (s-ʿ-d). The source gloss 'Happiness, Luck' is consistent.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "سَعْد is an established Arabic form.",
+        "Urdu": "سعد is used in Urdu.",
+        "Persian": "سعد is an established Persian form.",
+        "Hindi": "साद is used in Hindi.",
+        "Pashto": "سعد is used in Pashto."
+      },
+      "language_confidence": "high"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form سَعْد. Sa'd is Arabic سَعْد (Saʿd) 'good fortune, happiness', from the root س ع د (s-ʿ-d). The source gloss 'Happiness, Luck' is consistent.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Sa-d may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense sa'd; good fortune, happiness.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Sa'd; good fortune",
+      "related_concepts": [
+        "sa'd; good fortune",
+        "happiness"
+      ],
+      "semantic_relationship": "The central semantic idea is sa'd; good fortune; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of sa'd; good fortune.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Sa'd; good fortune",
+        "Happiness"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Sa-d",
+        "meaning": "Sa'd; good fortune, happiness",
+        "long_meaning": "Sa-d is a Arabic-origin name. Its core meaning is sa'd; good fortune, happiness. Sa'd is Arabic سَعْد (Saʿd) 'good fortune, happiness', from the root س ع د (s-ʿ-d). The source gloss 'Happiness, Luck' is consistent."
+      },
+      "urdu": {
+        "name": "سعد",
+        "meaning": "سعد، خوش نصیبی",
+        "long_meaning": "Sa-d (سعد) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم سعد، خوش نصیبی ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "سعد",
+        "meaning": "سعد، خوشبختی",
+        "long_meaning": "Sa-d (سعد) نامی برگرفته از زبان عربی است و معنای اصلی آن سعد، خوشبختی است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "साद",
+        "meaning": "साद, सौभाग्य",
+        "long_meaning": "Sa-d (साद) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ साद, सौभाग्य है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "سعد",
+        "meaning": "سعد، نیکمرغی",
+        "long_meaning": "Sa-d (سعد) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې سعد، نیکمرغی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "سَعْد",
+        "meaning": "سَعْد، السَّعَادَة",
+        "long_meaning": "Sa-d (سَعْد) اسم مأخوذ من اللغة العربية، ومعناه الأساسي سَعْد، السَّعَادَة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
+    },
+    "pronunciation": {
+      "romanized": "sa-d",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "سعد",
+      "persian": "سعد",
+      "hindi": "साद",
+      "pashto": "سعد"
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Sa-d",
+        "sa-d"
+      ],
+      "script_variants": [
+        "سعد",
+        "سَعْد",
+        "साद"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form سَعْد is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Sa-d can be understood through the Arabic form سَعْد, whose central sense is sa'd; good fortune, happiness. Sa'd is Arabic سَعْد (Saʿd) 'good fortune, happiness', from the root س ع د (s-ʿ-d). The source gloss 'Happiness, Luck' is consistent.",
+      "is_fictional": false
+    },
+    "faq": [
+      {
+        "question": "What does Sa-d mean?",
+        "answer": "Sa-d is associated with the Arabic form سَعْد, whose core sense is sa'd; good fortune, happiness."
+      },
+      {
+        "question": "What is the origin of Sa-d?",
+        "answer": "Sa-d is associated with Arabic. Sa'd is Arabic سَعْد (Saʿd) 'good fortune, happiness', from the root س ع د (s-ʿ-d). The source gloss 'Happiness, Luck' is consistent."
+      },
+      {
+        "question": "Is Sa-d an Arabic name?",
+        "answer": "Yes — the underlying form سَعْد is Arabic."
+      },
+      {
+        "question": "Is Sa-d an Islamic name?",
+        "answer": "Sa-d can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Sa-d a Quranic name?",
+        "answer": "Sa-d should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Sa-d mean in Urdu?",
+        "answer": "In Urdu, Sa-d is rendered سعد and carries the sense سعد، خوش نصیبی."
+      },
+      {
+        "question": "What does Sa-d mean in Persian?",
+        "answer": "In Persian, Sa-d is rendered سعد and carries the sense سعد، خوشبختی."
+      },
+      {
+        "question": "How is Sa-d pronounced?",
+        "answer": "A romanized syllable approximation is sa-d. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Sa-d?",
+        "answer": "Romanization variants include Sa-d, sa-d. Script forms are سعد, سَعْد, साद."
+      },
+      {
+        "question": "Is Sa-d a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+      }
+    ],
+    "seo": {
+      "title": "Sa-d Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Sa-d (سَعْد).",
+      "h1": "Sa-d Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Sa-d meaning",
+      "secondary_keywords": [
+        "Sa-d name meaning",
+        "Sa-d meaning in Urdu",
+        "Sa-d origin",
+        "Sa-d Islamic name",
+        "Sa-d pronunciation",
+        "Sa-d name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Sa-d (سَعْد) is associated with the Arabic form سَعْد, whose core sense is sa'd; good fortune, happiness. Sa'd is Arabic سَعْد (Saʿd) 'good fortune, happiness', from the root س ع د (s-ʿ-d). The source gloss 'Happiness, Luck' is consistent.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Sa-d is associated with the Arabic form سَعْد, whose core sense is sa'd; good fortune, happiness.",
+      "meaning_section": "The central meaning of Sa-d is sa'd; good fortune, happiness.",
+      "origin_section": "Sa-d is associated with Arabic rather than with a different language.",
+      "islam_section": "Sa-d can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Sa-d is with the sense sa'd; good fortune.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Sa-d",
+      "#Sa-dMeaning",
+      "#Sa-dName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
+      ]
+    },
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Sa-d corresponds to the Arabic form سَعْد",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Sa-d has the core sense sa'd; good fortune, happiness",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
+      ],
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
+      ],
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "Sa-d",
+      "alternateName": [
+        "Sa-d",
+        "sa-d"
+      ],
+      "description": "A name associated with the Arabic form سَعْد, meaning sa'd; good fortune, happiness.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "sa-d",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
+        }
+      ]
+    },
+    "accessibility": {
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Sa-d, associated with the Arabic form سَعْد, meaning sa'd; good fortune, happiness."
+    },
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
+  }
+}

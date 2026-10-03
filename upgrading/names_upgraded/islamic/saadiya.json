@@ -1,0 +1,486 @@
+{
+  "success": true,
+  "data": {
+    "name": "Saadiya",
+    "slug": "saadiya",
+    "identity": {
+      "display_name": "Saadiya",
+      "normalized_name": "saadiya",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Saadiya",
+        "saadiya",
+        "sadiya"
+      ],
+      "search_variants": [
+        "Saadiya",
+        "saadiya",
+        "sadiya"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
+    },
+    "core_meaning": {
+      "short_meaning": "Saadiya; happy, fortunate (feminine)",
+      "primary_meaning": "Saadiya; happy",
+      "secondary_meanings": [
+        "fortunate (feminine)"
+      ],
+      "literal_meaning": "Saadiya; happy",
+      "extended_meaning": "Saadiya; happy, fortunate (feminine)",
+      "meaning_explanation": "Saadiya corresponds to the Arabic form سَعْدِيَّة (Arabic سَعْدِيَّة (Saʿdiyya) 'fortunate' (feminine)). Its core sense is saadiya; happy, fortunate (feminine). Saadiya is Arabic سَعْدِيَّة (Saʿdiyya) 'happy, fortunate' (feminine), a relational adjective from سَعْد (saʿd). The source gloss 'Happy' is consistent. Same name as saadia.",
+      "meaning_confidence": "high"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "سَعْدِيَّة",
+      "transliteration": "saadiya",
+      "romanization": "saadiya",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Saadiya; happy",
+        "fortunate (feminine)"
+      ],
+      "etymology_explanation": "The form سَعْدِيَّة is an established Arabic lexical item. Saadiya is Arabic سَعْدِيَّة (Saʿdiyya) 'happy, fortunate' (feminine), a relational adjective from سَعْد (saʿd). The source gloss 'Happy' is consistent. Same name as saadia.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "سَعْدِيَّة is an established Arabic form.",
+        "Urdu": "سعدیہ is used in Urdu.",
+        "Persian": "سعدیه is an established Persian form.",
+        "Hindi": "सादिया is used in Hindi.",
+        "Pashto": "سعديه is used in Pashto."
+      },
+      "language_confidence": "high"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form سَعْدِيَّة. Saadiya is Arabic سَعْدِيَّة (Saʿdiyya) 'happy, fortunate' (feminine), a relational adjective from سَعْد (saʿd). The source gloss 'Happy' is consistent. Same name as saadia.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Saadiya may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense saadiya; happy, fortunate (feminine).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Saadiya; happy",
+      "related_concepts": [
+        "saadiya; happy",
+        "fortunate (feminine)"
+      ],
+      "semantic_relationship": "The central semantic idea is saadiya; happy; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of saadiya; happy.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Saadiya; happy",
+        "Fortunate (feminine)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Saadiya",
+        "meaning": "Saadiya; happy, fortunate (feminine)",
+        "long_meaning": "Saadiya is a Arabic-origin name. Its core meaning is saadiya; happy, fortunate (feminine). Saadiya is Arabic سَعْدِيَّة (Saʿdiyya) 'happy, fortunate' (feminine), a relational adjective from سَعْد (saʿd). The source gloss 'Happy' is consistent. Same name as saadia."
+      },
+      "urdu": {
+        "name": "سعدیہ",
+        "meaning": "سعدیہ، خوش نصیب",
+        "long_meaning": "Saadiya (سعدیہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم سعدیہ، خوش نصیب ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "سعدیه",
+        "meaning": "سعدیه، خوشبخت",
+        "long_meaning": "Saadiya (سعدیه) نامی برگرفته از زبان عربی است و معنای اصلی آن سعدیه، خوشبخت است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "सादिया",
+        "meaning": "सादिया, प्रसन्न",
+        "long_meaning": "Saadiya (सादिया) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ सादिया, प्रसन्न है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "سعديه",
+        "meaning": "سعدیه، خوشحاله",
+        "long_meaning": "Saadiya (سعديه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې سعدیه، خوشحاله ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "سَعْدِيَّة",
+        "meaning": "سَعْدِيَّة، السَّعِيدَة",
+        "long_meaning": "Saadiya (سَعْدِيَّة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي سَعْدِيَّة، السَّعِيدَة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
+    },
+    "pronunciation": {
+      "romanized": "saa-diya",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "سعدیہ",
+      "persian": "سعدیه",
+      "hindi": "सादिया",
+      "pashto": "سعديه"
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Saadiya",
+        "saadiya",
+        "sadiya"
+      ],
+      "script_variants": [
+        "سعديه",
+        "سعدیه",
+        "سعدیہ",
+        "سَعْدِيَّة",
+        "सादिया"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form سَعْدِيَّة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Saadiya can be understood through the Arabic form سَعْدِيَّة, whose central sense is saadiya; happy, fortunate (feminine). Saadiya is Arabic سَعْدِيَّة (Saʿdiyya) 'happy, fortunate' (feminine), a relational adjective from سَعْد (saʿd). The source gloss 'Happy' is consistent. Same name as saadia.",
+      "is_fictional": false
+    },
+    "faq": [
+      {
+        "question": "What does Saadiya mean?",
+        "answer": "Saadiya is associated with the Arabic form سَعْدِيَّة, whose core sense is saadiya; happy, fortunate (feminine)."
+      },
+      {
+        "question": "What is the origin of Saadiya?",
+        "answer": "Saadiya is associated with Arabic. Saadiya is Arabic سَعْدِيَّة (Saʿdiyya) 'happy, fortunate' (feminine), a relational adjective from سَعْد (saʿd). The source gloss 'Happy' is consistent. Same name as saadia."
+      },
+      {
+        "question": "Is Saadiya an Arabic name?",
+        "answer": "Yes — the underlying form سَعْدِيَّة is Arabic."
+      },
+      {
+        "question": "Is Saadiya an Islamic name?",
+        "answer": "Saadiya can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Saadiya a Quranic name?",
+        "answer": "Saadiya should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Saadiya mean in Urdu?",
+        "answer": "In Urdu, Saadiya is rendered سعدیہ and carries the sense سعدیہ، خوش نصیب."
+      },
+      {
+        "question": "What does Saadiya mean in Persian?",
+        "answer": "In Persian, Saadiya is rendered سعدیه and carries the sense سعدیه، خوشبخت."
+      },
+      {
+        "question": "How is Saadiya pronounced?",
+        "answer": "A romanized syllable approximation is saa-diya. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Saadiya?",
+        "answer": "Romanization variants include Saadiya, saadiya, sadiya. Script forms are سعديه, سعدیه, سعدیہ, سَعْدِيَّة, सादिया."
+      },
+      {
+        "question": "Is Saadiya a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+      }
+    ],
+    "seo": {
+      "title": "Saadiya Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Saadiya (سَعْدِيَّة).",
+      "h1": "Saadiya Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Saadiya meaning",
+      "secondary_keywords": [
+        "Saadiya name meaning",
+        "Saadiya meaning in Urdu",
+        "Saadiya origin",
+        "Saadiya Islamic name",
+        "Saadiya pronunciation",
+        "Saadiya name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Saadiya (سَعْدِيَّة) is associated with the Arabic form سَعْدِيَّة, whose core sense is saadiya; happy, fortunate (feminine). Saadiya is Arabic سَعْدِيَّة (Saʿdiyya) 'happy, fortunate' (feminine), a relational adjective from سَعْد (saʿd). The source gloss 'Happy' is consistent. Same name as saadia.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Saadiya is associated with the Arabic form سَعْدِيَّة, whose core sense is saadiya; happy, fortunate (feminine).",
+      "meaning_section": "The central meaning of Saadiya is saadiya; happy, fortunate (feminine).",
+      "origin_section": "Saadiya is associated with Arabic rather than with a different language.",
+      "islam_section": "Saadiya can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Saadiya is with the sense saadiya; happy.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Saadiya",
+      "#SaadiyaMeaning",
+      "#SaadiyaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
+      ]
+    },
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Saadiya corresponds to the Arabic form سَعْدِيَّة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Saadiya has the core sense saadiya; happy, fortunate (feminine)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
+      ],
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
+      ],
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "Saadiya",
+      "alternateName": [
+        "Saadiya",
+        "saadiya",
+        "sadiya"
+      ],
+      "description": "A name associated with the Arabic form سَعْدِيَّة, meaning saadiya; happy, fortunate (feminine).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "saadiya",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
+        }
+      ]
+    },
+    "accessibility": {
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Saadiya, associated with the Arabic form سَعْدِيَّة, meaning saadiya; happy, fortunate (feminine)."
+    },
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
+  }
+}
