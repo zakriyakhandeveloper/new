@@ -1,0 +1,476 @@
+{
+  "success": true,
+  "data": {
+    "name": "Saima",
+    "slug": "saima",
+    "identity": {
+      "display_name": "Saima",
+      "normalized_name": "saima",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Saima",
+        "saima"
+      ],
+      "search_variants": [
+        "Saima",
+        "saima"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
+    },
+    "core_meaning": {
+      "short_meaning": "Saima; fasting (feminine)",
+      "primary_meaning": "Saima; fasting (feminine)",
+      "secondary_meanings": [],
+      "literal_meaning": "Saima; fasting (feminine)",
+      "extended_meaning": "Saima; fasting (feminine)",
+      "meaning_explanation": "Saima corresponds to the Arabic form صَائِمَة (Arabic root ص و م (ṣ-w-m); صَائِمَة (Ṣāʾima)). Its core sense is saima; fasting (feminine). Saima is Arabic صَائِمَة (Ṣāʾima), the feminine active participle of صَامَ, meaning 'one who fasts'.",
+      "meaning_confidence": "high"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "صَائِمَة",
+      "transliteration": "saima",
+      "romanization": "saima",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Saima; fasting (feminine)"
+      ],
+      "etymology_explanation": "The form صَائِمَة is an established Arabic lexical item. Saima is Arabic صَائِمَة (Ṣāʾima), the feminine active participle of صَامَ, meaning 'one who fasts'.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "صَائِمَة is an established Arabic form.",
+        "Urdu": "صائمہ is used in Urdu.",
+        "Persian": "صائمه is an established Persian form.",
+        "Hindi": "साइमा is used in Hindi.",
+        "Pashto": "صائمه is used in Pashto."
+      },
+      "language_confidence": "high"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form صَائِمَة. Saima is Arabic صَائِمَة (Ṣāʾima), the feminine active participle of صَامَ, meaning 'one who fasts'.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Saima may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "The root ص و م is Quranic (fasting), but Ṣāʾima is not itself a Quranic personal name."
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense saima; fasting (feminine).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Saima; fasting (feminine)",
+      "related_concepts": [
+        "saima; fasting (feminine)"
+      ],
+      "semantic_relationship": "The central semantic idea is saima; fasting (feminine); other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of saima; fasting (feminine).",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Saima; fasting (feminine)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Saima",
+        "meaning": "Saima; fasting (feminine)",
+        "long_meaning": "Saima is a Arabic-origin name. Its core meaning is saima; fasting (feminine). Saima is Arabic صَائِمَة (Ṣāʾima), the feminine active participle of صَامَ, meaning 'one who fasts'."
+      },
+      "urdu": {
+        "name": "صائمہ",
+        "meaning": "صائمہ، روزہ رکھنے والی",
+        "long_meaning": "Saima (صائمہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم صائمہ، روزہ رکھنے والی ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "صائمه",
+        "meaning": "صائمه، روزه‌دار",
+        "long_meaning": "Saima (صائمه) نامی برگرفته از زبان عربی است و معنای اصلی آن صائمه، روزه‌دار است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "साइमा",
+        "meaning": "साइमा, व्रत रखने वाली",
+        "long_meaning": "Saima (साइमा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ साइमा, व्रत रखने वाली है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "صائمه",
+        "meaning": "صائمه، روژه نیونکې",
+        "long_meaning": "Saima (صائمه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې صائمه، روژه نیونکې ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "صَائِمَة",
+        "meaning": "صَائِمَة، الصَّائِمَة",
+        "long_meaning": "Saima (صَائِمَة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي صَائِمَة، الصَّائِمَة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
+    },
+    "pronunciation": {
+      "romanized": "sai-ma",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "صائمہ",
+      "persian": "صائمه",
+      "hindi": "साइमा",
+      "pashto": "صائمه"
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Saima",
+        "saima"
+      ],
+      "script_variants": [
+        "صائمه",
+        "صائمہ",
+        "صَائِمَة",
+        "साइमा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form صَائِمَة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Saima can be understood through the Arabic form صَائِمَة, whose central sense is saima; fasting (feminine). Saima is Arabic صَائِمَة (Ṣāʾima), the feminine active participle of صَامَ, meaning 'one who fasts'.",
+      "is_fictional": false
+    },
+    "faq": [
+      {
+        "question": "What does Saima mean?",
+        "answer": "Saima is associated with the Arabic form صَائِمَة, whose core sense is saima; fasting (feminine)."
+      },
+      {
+        "question": "What is the origin of Saima?",
+        "answer": "Saima is associated with Arabic. Saima is Arabic صَائِمَة (Ṣāʾima), the feminine active participle of صَامَ, meaning 'one who fasts'."
+      },
+      {
+        "question": "Is Saima an Arabic name?",
+        "answer": "Yes — the underlying form صَائِمَة is Arabic."
+      },
+      {
+        "question": "Is Saima an Islamic name?",
+        "answer": "Saima can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Saima a Quranic name?",
+        "answer": "Saima should not be classified as a Quranic personal name without a direct Quranic basis. The root ص و م is Quranic (fasting), but Ṣāʾima is not itself a Quranic personal name."
+      },
+      {
+        "question": "What does Saima mean in Urdu?",
+        "answer": "In Urdu, Saima is rendered صائمہ and carries the sense صائمہ، روزہ رکھنے والی."
+      },
+      {
+        "question": "What does Saima mean in Persian?",
+        "answer": "In Persian, Saima is rendered صائمه and carries the sense صائمه، روزه‌دار."
+      },
+      {
+        "question": "How is Saima pronounced?",
+        "answer": "A romanized syllable approximation is sai-ma. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Saima?",
+        "answer": "Romanization variants include Saima, saima. Script forms are صائمه, صائمہ, صَائِمَة, साइमा."
+      },
+      {
+        "question": "Is Saima a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+      }
+    ],
+    "seo": {
+      "title": "Saima Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Saima (صَائِمَة).",
+      "h1": "Saima Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Saima meaning",
+      "secondary_keywords": [
+        "Saima name meaning",
+        "Saima meaning in Urdu",
+        "Saima origin",
+        "Saima Islamic name",
+        "Saima pronunciation",
+        "Saima name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Saima (صَائِمَة) is associated with the Arabic form صَائِمَة, whose core sense is saima; fasting (feminine). Saima is Arabic صَائِمَة (Ṣāʾima), the feminine active participle of صَامَ, meaning 'one who fasts'.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Saima is associated with the Arabic form صَائِمَة, whose core sense is saima; fasting (feminine).",
+      "meaning_section": "The central meaning of Saima is saima; fasting (feminine).",
+      "origin_section": "Saima is associated with Arabic rather than with a different language.",
+      "islam_section": "Saima can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Saima is with the sense saima; fasting (feminine).",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Saima",
+      "#SaimaMeaning",
+      "#SaimaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
+      ]
+    },
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Saima corresponds to the Arabic form صَائِمَة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Saima has the core sense saima; fasting (feminine)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
+      ],
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
+      ],
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "Saima",
+      "alternateName": [
+        "Saima",
+        "saima"
+      ],
+      "description": "A name associated with the Arabic form صَائِمَة, meaning saima; fasting (feminine).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "saima",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
+        }
+      ]
+    },
+    "accessibility": {
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Saima, associated with the Arabic form صَائِمَة, meaning saima; fasting (feminine)."
+    },
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
+  }
+}
