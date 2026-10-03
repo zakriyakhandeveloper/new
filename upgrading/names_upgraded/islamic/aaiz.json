@@ -1,0 +1,483 @@
+{
+  "success": true,
+  "data": {
+    "name": "Aaiz",
+    "slug": "aaiz",
+    "identity": {
+      "display_name": "Aaiz",
+      "normalized_name": "aaiz",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Aaiz",
+        "aaiz",
+        "aiz"
+      ],
+      "search_variants": [
+        "Aaiz",
+        "aaiz",
+        "aiz"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
+    },
+    "core_meaning": {
+      "short_meaning": "One who seeks refuge, sheltering",
+      "primary_meaning": "One who seeks refuge",
+      "secondary_meanings": [
+        "sheltering"
+      ],
+      "literal_meaning": "One who seeks refuge",
+      "extended_meaning": "One who seeks refuge, sheltering",
+      "meaning_explanation": "Aaiz corresponds to the Arabic form عائذ (Arabic root ع و ذ (ʿ-w-dh); عَائِذ (ʿĀʾidh)). Its core sense is one who seeks refuge, sheltering. Aaiz is Arabic عَائِذ (ʿĀʾidh) 'one who seeks refuge, sheltering', from the root ع و ذ (ʿ-w-dh). The source gloss 'Helpful, Assisting' is unsupported and has been replaced with the lexical sense.",
+      "meaning_confidence": "high"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عائذ",
+      "transliteration": "aaiz",
+      "romanization": "aaiz",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "One who seeks refuge",
+        "sheltering"
+      ],
+      "etymology_explanation": "The form عائذ is an established Arabic lexical item. Aaiz is Arabic عَائِذ (ʿĀʾidh) 'one who seeks refuge, sheltering', from the root ع و ذ (ʿ-w-dh). The source gloss 'Helpful, Assisting' is unsupported and has been replaced with the lexical sense.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عائذ is an established Arabic form.",
+        "Urdu": "عائذ is used in Urdu.",
+        "Persian": "عائذ is an established Persian form.",
+        "Hindi": "आइज़ is used in Hindi.",
+        "Pashto": "عائذ is used in Pashto."
+      },
+      "language_confidence": "high"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form عائذ. Aaiz is Arabic عَائِذ (ʿĀʾidh) 'one who seeks refuge, sheltering', from the root ع و ذ (ʿ-w-dh). The source gloss 'Helpful, Assisting' is unsupported and has been replaced with the lexical sense.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Aaiz may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense one who seeks refuge, sheltering.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "One who seeks refuge",
+      "related_concepts": [
+        "one who seeks refuge",
+        "sheltering"
+      ],
+      "semantic_relationship": "The central semantic idea is one who seeks refuge; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of one who seeks refuge.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "One who seeks refuge",
+        "Sheltering"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Aaiz",
+        "meaning": "One who seeks refuge, sheltering",
+        "long_meaning": "Aaiz is a Arabic-origin name. Its core meaning is one who seeks refuge, sheltering. Aaiz is Arabic عَائِذ (ʿĀʾidh) 'one who seeks refuge, sheltering', from the root ع و ذ (ʿ-w-dh). The source gloss 'Helpful, Assisting' is unsupported and has been replaced with the lexical sense."
+      },
+      "urdu": {
+        "name": "عائذ",
+        "meaning": "پناہ لینے والا، عائذ",
+        "long_meaning": "Aaiz (عائذ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم پناہ لینے والا، عائذ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "عائذ",
+        "meaning": "پناه‌جو، عائذ",
+        "long_meaning": "Aaiz (عائذ) نامی برگرفته از زبان عربی است و معنای اصلی آن پناه‌جو، عائذ است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "आइज़",
+        "meaning": "आइज़, पनाह लेने वाला",
+        "long_meaning": "Aaiz (आइज़) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ आइज़, पनाह लेने वाला है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عائذ",
+        "meaning": "پناه غوښتونکی",
+        "long_meaning": "Aaiz (عائذ) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې پناه غوښتونکی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عائذ",
+        "meaning": "الْعَائِذ، الْمُسْتَجِير",
+        "long_meaning": "Aaiz (عائذ) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الْعَائِذ، الْمُسْتَجِير. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
+    },
+    "pronunciation": {
+      "romanized": "aaiz",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عائذ",
+      "persian": "عائذ",
+      "hindi": "आइज़",
+      "pashto": "عائذ"
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Aaiz",
+        "aaiz",
+        "aiz"
+      ],
+      "script_variants": [
+        "عائذ",
+        "आइज़"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عائذ is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Aaiz can be understood through the Arabic form عائذ, whose central sense is one who seeks refuge, sheltering. Aaiz is Arabic عَائِذ (ʿĀʾidh) 'one who seeks refuge, sheltering', from the root ع و ذ (ʿ-w-dh). The source gloss 'Helpful, Assisting' is unsupported and has been replaced with the lexical sense.",
+      "is_fictional": false
+    },
+    "faq": [
+      {
+        "question": "What does Aaiz mean?",
+        "answer": "Aaiz is associated with the Arabic form عائذ, whose core sense is one who seeks refuge, sheltering."
+      },
+      {
+        "question": "What is the origin of Aaiz?",
+        "answer": "Aaiz is associated with Arabic. Aaiz is Arabic عَائِذ (ʿĀʾidh) 'one who seeks refuge, sheltering', from the root ع و ذ (ʿ-w-dh). The source gloss 'Helpful, Assisting' is unsupported and has been replaced with the lexical sense."
+      },
+      {
+        "question": "Is Aaiz an Arabic name?",
+        "answer": "Yes — the underlying form عائذ is Arabic."
+      },
+      {
+        "question": "Is Aaiz an Islamic name?",
+        "answer": "Aaiz can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Aaiz a Quranic name?",
+        "answer": "Aaiz should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Aaiz mean in Urdu?",
+        "answer": "In Urdu, Aaiz is rendered عائذ and carries the sense پناہ لینے والا، عائذ."
+      },
+      {
+        "question": "What does Aaiz mean in Persian?",
+        "answer": "In Persian, Aaiz is rendered عائذ and carries the sense پناه‌جو، عائذ."
+      },
+      {
+        "question": "How is Aaiz pronounced?",
+        "answer": "A romanized syllable approximation is aaiz. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Aaiz?",
+        "answer": "Romanization variants include Aaiz, aaiz, aiz. Script forms are عائذ, आइज़."
+      },
+      {
+        "question": "Is Aaiz a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+      }
+    ],
+    "seo": {
+      "title": "Aaiz Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Aaiz (عائذ).",
+      "h1": "Aaiz Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Aaiz meaning",
+      "secondary_keywords": [
+        "Aaiz name meaning",
+        "Aaiz meaning in Urdu",
+        "Aaiz origin",
+        "Aaiz Islamic name",
+        "Aaiz pronunciation",
+        "Aaiz name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Aaiz (عائذ) is associated with the Arabic form عائذ, whose core sense is one who seeks refuge, sheltering. Aaiz is Arabic عَائِذ (ʿĀʾidh) 'one who seeks refuge, sheltering', from the root ع و ذ (ʿ-w-dh). The source gloss 'Helpful, Assisting' is unsupported and has been replaced with the lexical sense.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Aaiz is associated with the Arabic form عائذ, whose core sense is one who seeks refuge, sheltering.",
+      "meaning_section": "The central meaning of Aaiz is one who seeks refuge, sheltering.",
+      "origin_section": "Aaiz is associated with Arabic rather than with a different language.",
+      "islam_section": "Aaiz can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Aaiz is with the sense one who seeks refuge.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Aaiz",
+      "#AaizMeaning",
+      "#AaizName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
+      ]
+    },
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Aaiz corresponds to the Arabic form عائذ",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Aaiz has the core sense one who seeks refuge, sheltering",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
+      ],
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
+      ],
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "Aaiz",
+      "alternateName": [
+        "Aaiz",
+        "aaiz",
+        "aiz"
+      ],
+      "description": "A name associated with the Arabic form عائذ, meaning one who seeks refuge, sheltering.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "aaiz",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
+        }
+      ]
+    },
+    "accessibility": {
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Aaiz, associated with the Arabic form عائذ, meaning one who seeks refuge, sheltering."
+    },
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
+  }
+}
