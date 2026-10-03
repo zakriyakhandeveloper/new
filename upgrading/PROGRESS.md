@@ -4,38 +4,38 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 4800 |
-| Current batch | 48 |
-| Batch range | nevine .. nuha (100) |
-| Verified forms | 4643 |
+| Names completed | 4900 |
+| Current batch | 49 |
+| Batch range | nuhaa .. pir (100) |
+| Verified forms | 4743 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | nuha |
-| Updated | 2026-10-03T03:21:04Z |
+| Next batch starts after | pir |
+| Updated | 2026-10-03T03:23:58Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 2865 |
+| high | 2949 |
 | low | 729 |
-| medium | 1049 |
+| medium | 1065 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 3742 |
-| Persian | 604 |
+| Arabic | 3801 |
+| Persian | 635 |
 | Unknown | 224 |
+| Turkish | 61 |
 | Hebrew | 59 |
-| Turkish | 53 |
 | Turkic | 18 |
 | Kurdish | 15 |
 | Hindi | 12 |
 | Urdu | 11 |
 | Sanskrit | 10 |
-| Pashto | 8 |
+| Pashto | 9 |
 | Greek | 8 |
 | English | 4 |
 | Punjabi | 3 |
@@ -58,6 +58,7 @@
 | Dutch | 1 |
 | Malayalam | 1 |
 | Bengali | 1 |
+| Malay | 1 |
 
 ## Quality gate
 
@@ -84,3 +85,4 @@
 | 46 | najih .. navid | 100 | complete |
 | 47 | navil .. neveen | 100 | complete |
 | 48 | nevine .. nuha | 100 | complete |
+| 49 | nuhaa .. pir | 100 | complete |
