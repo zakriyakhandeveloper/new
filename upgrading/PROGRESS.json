@@ -3,14 +3,14 @@
  "culture": "islamic",
  "branch": "names-upgraded-v3",
  "total_names_in_slice": 5471,
- "names_completed": 4000,
- "current_batch": 40,
+ "names_completed": 4100,
+ "current_batch": 41,
  "batch_range": {
-  "first": "masjid",
-  "last": "mensur",
+  "first": "meraj",
+  "last": "mona",
   "count": 100
  },
- "batches_completed": 40,
+ "batches_completed": 41,
  "per_name": [
   {
    "name": "Aamilah",
@@ -40011,24 +40011,1024 @@
    "gender": "Male",
    "manual_review_required": false,
    "reason": null
+  },
+  {
+   "name": "Meraj",
+   "slug": "meraj",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Meral",
+   "slug": "meral",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Turkish",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Meriem",
+   "slug": "meriem",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mersiha",
+   "slug": "mersiha",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Mersiha. Mersiha is recorded at low confidence. The source gave ميرسيهار (a garbled form) and glossed the name 'Thankf"
+  },
+  {
+   "name": "Merwa",
+   "slug": "merwa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Meryam",
+   "slug": "meryam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Meryem",
+   "slug": "meryem",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Turkish",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mesbah",
+   "slug": "mesbah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unknown",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Meshaal",
+   "slug": "meshaal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unknown",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mesk",
+   "slug": "mesk",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unknown",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Miad",
+   "slug": "miad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unknown",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Midhat",
+   "slug": "midhat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Midlaj",
+   "slug": "midlaj",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Midlaj. Midlaj is recorded at low confidence. The source gave ميدلج (a different form) and glossed the name 'Delicate,"
+  },
+  {
+   "name": "Miesha",
+   "slug": "miesha",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Miesha. Miesha is recorded at low confidence. The source gloss 'Moon Goddess' is unsupported and no verified Arabic fo"
+  },
+  {
+   "name": "Mifrah",
+   "slug": "mifrah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Unknown",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Mifrah. Mifrah is recorded at low confidence. The source gave مِفْرَح (a different form) and glossed the name 'A place"
+  },
+  {
+   "name": "Miftah",
+   "slug": "miftah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Miftahul",
+   "slug": "miftahul",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mifzal",
+   "slug": "mifzal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mihad",
+   "slug": "mihad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mihran",
+   "slug": "mihran",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mihri",
+   "slug": "mihri",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mika",
+   "slug": "mika",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Mika. Mika is recorded at low confidence. The source gave the Latin string 'mika' instead of a script form and glossed"
+  },
+  {
+   "name": "Mikaeel",
+   "slug": "mikaeel",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mikail",
+   "slug": "mikail",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mikal",
+   "slug": "mikal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mikhail",
+   "slug": "mikhail",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Russian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Milad",
+   "slug": "milad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mina",
+   "slug": "mina",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Minaa",
+   "slug": "minaa",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Minah",
+   "slug": "minah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Minahil",
+   "slug": "minahil",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Minahil. Minahil is recorded at low confidence. The source gave مِينَاهِيل (a garbled form) and glossed the name 'Deli"
+  },
+  {
+   "name": "Minal",
+   "slug": "minal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unknown",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Minha",
+   "slug": "minha",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Minha. Minha is recorded at low confidence. The source gloss 'Delicate, Tender' is unsupported and no verified lexical"
+  },
+  {
+   "name": "Minhaj",
+   "slug": "minhaj",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Minhal",
+   "slug": "minhal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Minna",
+   "slug": "minna",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Minnat",
+   "slug": "minnat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Minoo",
+   "slug": "minoo",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Miqdad",
+   "slug": "miqdad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mir",
+   "slug": "mir",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Miradi",
+   "slug": "miradi",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unknown",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mirah",
+   "slug": "mirah",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Mirah. Mirah is recorded at low confidence. The source gave ميراه (a garbled form) and glossed the name 'Guiding Light"
+  },
+  {
+   "name": "Miraj",
+   "slug": "miraj",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Miral",
+   "slug": "miral",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Miral. Miral is recorded at low confidence. The source gloss 'Star, Light, Guiding' is unsupported and no verified Ara"
+  },
+  {
+   "name": "Miran",
+   "slug": "miran",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mirsad",
+   "slug": "mirsad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mirwais",
+   "slug": "mirwais",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Pashto",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mirza",
+   "slug": "mirza",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mirzali",
+   "slug": "mirzali",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Misal",
+   "slug": "misal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unknown",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Misam",
+   "slug": "misam",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Misaq",
+   "slug": "misaq",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unknown",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Misba",
+   "slug": "misba",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Misba. Misba is recorded at low confidence. The source gave مصبى (a different form) and glossed the name 'Guide, Compa"
+  },
+  {
+   "name": "Misbaah",
+   "slug": "misbaah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Misbah",
+   "slug": "misbah",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Misha",
+   "slug": "misha",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Russian",
+   "gender": "Unknown",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mishaal",
+   "slug": "mishaal",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unknown",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mishael",
+   "slug": "mishael",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Hebrew",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mishal",
+   "slug": "mishal",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Unknown",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mishel",
+   "slug": "mishel",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mishka",
+   "slug": "mishka",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Russian",
+   "gender": "Unknown",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mishkat",
+   "slug": "mishkat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unknown",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Misk",
+   "slug": "misk",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Unknown",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Miski",
+   "slug": "miski",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Misri",
+   "slug": "misri",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mitra",
+   "slug": "mitra",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Persian",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mizan",
+   "slug": "mizan",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mizanur",
+   "slug": "mizanur",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mizna",
+   "slug": "mizna",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Moaz",
+   "slug": "moaz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Moazzam",
+   "slug": "moazzam",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Moazzem",
+   "slug": "moazzem",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mobarak",
+   "slug": "mobarak",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mobeen",
+   "slug": "mobeen",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mobin",
+   "slug": "mobin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Modassir",
+   "slug": "modassir",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Modupe",
+   "slug": "modupe",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Yoruba",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Moeed",
+   "slug": "moeed",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Moeen",
+   "slug": "moeen",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Moeez",
+   "slug": "moeez",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Moein",
+   "slug": "moein",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Moemen",
+   "slug": "moemen",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Moez",
+   "slug": "moez",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mohabbat",
+   "slug": "mohabbat",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mohammad",
+   "slug": "mohammad",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mohammed",
+   "slug": "mohammed",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mohd",
+   "slug": "mohd",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mohga",
+   "slug": "mohga",
+   "status": "complete",
+   "meaning_confidence": "low",
+   "origin": "Unknown",
+   "gender": "Female",
+   "manual_review_required": true,
+   "reason": "No verified etymology was established for Mohga. Mohga is recorded at low confidence. The source gave علي (a different name entirely) and glossed the name 'Bles"
+  },
+  {
+   "name": "Mohib",
+   "slug": "mohib",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mohid",
+   "slug": "mohid",
+   "status": "complete",
+   "meaning_confidence": "medium",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mohsin",
+   "slug": "mohsin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Moin",
+   "slug": "moin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Moiz",
+   "slug": "moiz",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mojtaba",
+   "slug": "mojtaba",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mokbul",
+   "slug": "mokbul",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mokhtar",
+   "slug": "mokhtar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Moktar",
+   "slug": "moktar",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Momin",
+   "slug": "momin",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Male",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Momina",
+   "slug": "momina",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
+  },
+  {
+   "name": "Mona",
+   "slug": "mona",
+   "status": "complete",
+   "meaning_confidence": "high",
+   "origin": "Arabic",
+   "gender": "Female",
+   "manual_review_required": false,
+   "reason": null
   }
  ],
  "confidence_summary": {
-  "medium": 970,
-  "high": 2162,
+  "medium": 974,
+  "high": 2247,
   "unverified": 157,
-  "low": 711
+  "low": 722
  },
  "origin_summary": {
-  "Arabic": 3076,
-  "Unknown": 208,
-  "Hebrew": 58,
+  "Arabic": 3152,
+  "Unknown": 216,
+  "Hebrew": 59,
   "Sanskrit": 10,
-  "Persian": 524,
-  "Yoruba": 1,
+  "Persian": 532,
+  "Yoruba": 2,
   "Latin": 2,
-  "Pashto": 7,
-  "Turkish": 45,
+  "Pashto": 8,
+  "Turkish": 47,
   "Turkic": 18,
   "Irish": 2,
   "Greek": 8,
@@ -40048,9 +41048,10 @@
   "Spanish": 1,
   "Dutch": 1,
   "Chinese": 1,
-  "Western": 3
+  "Western": 3,
+  "Russian": 3
  },
- "verified_forms": 3843,
+ "verified_forms": 3943,
  "unverified_forms": 157,
  "quality_gate": {
   "invalid_json": 0,
@@ -40063,6 +41064,6 @@
   "broken_text": 0,
   "total_failures": 0
  },
- "next_batch_starts_after": "mensur",
- "updated_at": "2026-10-03T02:42:48Z"
+ "next_batch_starts_after": "mona",
+ "updated_at": "2026-10-03T02:45:30Z"
 }

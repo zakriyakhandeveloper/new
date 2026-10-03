@@ -4,46 +4,47 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 4000 |
-| Current batch | 40 |
-| Batch range | masjid .. mensur (100) |
-| Verified forms | 3843 |
+| Names completed | 4100 |
+| Current batch | 41 |
+| Batch range | meraj .. mona (100) |
+| Verified forms | 3943 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | mensur |
-| Updated | 2026-10-03T02:42:48Z |
+| Next batch starts after | mona |
+| Updated | 2026-10-03T02:45:30Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 2162 |
-| low | 711 |
-| medium | 970 |
+| high | 2247 |
+| low | 722 |
+| medium | 974 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 3076 |
-| Persian | 524 |
-| Unknown | 208 |
-| Hebrew | 58 |
-| Turkish | 45 |
+| Arabic | 3152 |
+| Persian | 532 |
+| Unknown | 216 |
+| Hebrew | 59 |
+| Turkish | 47 |
 | Turkic | 18 |
 | Kurdish | 15 |
 | Sanskrit | 10 |
+| Pashto | 8 |
 | Greek | 8 |
-| Pashto | 7 |
 | Punjabi | 3 |
 | Urdu | 3 |
 | Hindi | 3 |
 | Western | 3 |
+| Russian | 3 |
+| Yoruba | 2 |
 | Latin | 2 |
 | Irish | 2 |
 | Indonesian | 2 |
 | English | 2 |
-| Yoruba | 1 |
 | Basque | 1 |
 | Berber | 1 |
 | Akkadian | 1 |
@@ -113,3 +114,4 @@
 | 38 | mahan .. makhfi | 100 | complete |
 | 39 | makki .. marzia | 100 | complete |
 | 40 | marzieh .. mehndi | 100 | complete |
+| 41 | mehr .. moeen | 100 | complete |
