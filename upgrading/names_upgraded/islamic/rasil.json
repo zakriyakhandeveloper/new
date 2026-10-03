@@ -1,0 +1,480 @@
+{
+  "success": true,
+  "data": {
+    "name": "Rasil",
+    "slug": "rasil",
+    "identity": {
+      "display_name": "Rasil",
+      "normalized_name": "rasil",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Rasil",
+        "rasil"
+      ],
+      "search_variants": [
+        "Rasil",
+        "rasil"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
+    },
+    "core_meaning": {
+      "short_meaning": "Rasil; messenger, emissary",
+      "primary_meaning": "Rasil; messenger",
+      "secondary_meanings": [
+        "emissary"
+      ],
+      "literal_meaning": "Rasil; messenger",
+      "extended_meaning": "Rasil; messenger, emissary",
+      "meaning_explanation": "Rasil corresponds to the Arabic form رَسِيل (Arabic root ر س ل (r-s-l); رَسِيل (Rasīl)). Its core sense is rasil; messenger, emissary. Rasil is Arabic رَسِيل (Rasīl) 'messenger, emissary', from the root ر س ل (r-s-l). The source gloss 'Messenger, Emissary' is consistent.",
+      "meaning_confidence": "high"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "رَسِيل",
+      "transliteration": "rasil",
+      "romanization": "rasil",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Rasil; messenger",
+        "emissary"
+      ],
+      "etymology_explanation": "The form رَسِيل is an established Arabic lexical item. Rasil is Arabic رَسِيل (Rasīl) 'messenger, emissary', from the root ر س ل (r-s-l). The source gloss 'Messenger, Emissary' is consistent.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "رَسِيل is an established Arabic form.",
+        "Urdu": "رسل is used in Urdu.",
+        "Persian": "رسل is an established Persian form.",
+        "Hindi": "रसील is used in Hindi.",
+        "Pashto": "رسل is used in Pashto."
+      },
+      "language_confidence": "high"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form رَسِيل. Rasil is Arabic رَسِيل (Rasīl) 'messenger, emissary', from the root ر س ل (r-s-l). The source gloss 'Messenger, Emissary' is consistent.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Rasil may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense rasil; messenger, emissary.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Rasil; messenger",
+      "related_concepts": [
+        "rasil; messenger",
+        "emissary"
+      ],
+      "semantic_relationship": "The central semantic idea is rasil; messenger; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of rasil; messenger.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Rasil; messenger",
+        "Emissary"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Rasil",
+        "meaning": "Rasil; messenger, emissary",
+        "long_meaning": "Rasil is a Arabic-origin name. Its core meaning is rasil; messenger, emissary. Rasil is Arabic رَسِيل (Rasīl) 'messenger, emissary', from the root ر س ل (r-s-l). The source gloss 'Messenger, Emissary' is consistent."
+      },
+      "urdu": {
+        "name": "رسل",
+        "meaning": "رسل، پیغام رساں",
+        "long_meaning": "Rasil (رسل) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم رسل، پیغام رساں ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "رسل",
+        "meaning": "رسل، پیام‌آور",
+        "long_meaning": "Rasil (رسل) نامی برگرفته از زبان عربی است و معنای اصلی آن رسل، پیام‌آور است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "रसील",
+        "meaning": "रसील, संदेशवाहक",
+        "long_meaning": "Rasil (रसील) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ रसील, संदेशवाहक है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "رسل",
+        "meaning": "رسل، پیغام رسول",
+        "long_meaning": "Rasil (رسل) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې رسل، پیغام رسول ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "رَسِيل",
+        "meaning": "الرَّسِيل، الرَّسُول",
+        "long_meaning": "Rasil (رَسِيل) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الرَّسِيل، الرَّسُول. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
+    },
+    "pronunciation": {
+      "romanized": "ra-sil",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "رسل",
+      "persian": "رسل",
+      "hindi": "रसील",
+      "pashto": "رسل"
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Rasil",
+        "rasil"
+      ],
+      "script_variants": [
+        "رسل",
+        "رَسِيل",
+        "रसील"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form رَسِيل is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Rasil can be understood through the Arabic form رَسِيل, whose central sense is rasil; messenger, emissary. Rasil is Arabic رَسِيل (Rasīl) 'messenger, emissary', from the root ر س ل (r-s-l). The source gloss 'Messenger, Emissary' is consistent.",
+      "is_fictional": false
+    },
+    "faq": [
+      {
+        "question": "What does Rasil mean?",
+        "answer": "Rasil is associated with the Arabic form رَسِيل, whose core sense is rasil; messenger, emissary."
+      },
+      {
+        "question": "What is the origin of Rasil?",
+        "answer": "Rasil is associated with Arabic. Rasil is Arabic رَسِيل (Rasīl) 'messenger, emissary', from the root ر س ل (r-s-l). The source gloss 'Messenger, Emissary' is consistent."
+      },
+      {
+        "question": "Is Rasil an Arabic name?",
+        "answer": "Yes — the underlying form رَسِيل is Arabic."
+      },
+      {
+        "question": "Is Rasil an Islamic name?",
+        "answer": "Rasil can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Rasil a Quranic name?",
+        "answer": "Rasil should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Rasil mean in Urdu?",
+        "answer": "In Urdu, Rasil is rendered رسل and carries the sense رسل، پیغام رساں."
+      },
+      {
+        "question": "What does Rasil mean in Persian?",
+        "answer": "In Persian, Rasil is rendered رسل and carries the sense رسل، پیام‌آور."
+      },
+      {
+        "question": "How is Rasil pronounced?",
+        "answer": "A romanized syllable approximation is ra-sil. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Rasil?",
+        "answer": "Romanization variants include Rasil, rasil. Script forms are رسل, رَسِيل, रसील."
+      },
+      {
+        "question": "Is Rasil a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+      }
+    ],
+    "seo": {
+      "title": "Rasil Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Rasil (رَسِيل).",
+      "h1": "Rasil Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Rasil meaning",
+      "secondary_keywords": [
+        "Rasil name meaning",
+        "Rasil meaning in Urdu",
+        "Rasil origin",
+        "Rasil Islamic name",
+        "Rasil pronunciation",
+        "Rasil name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Rasil (رَسِيل) is associated with the Arabic form رَسِيل, whose core sense is rasil; messenger, emissary. Rasil is Arabic رَسِيل (Rasīl) 'messenger, emissary', from the root ر س ل (r-s-l). The source gloss 'Messenger, Emissary' is consistent.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Rasil is associated with the Arabic form رَسِيل, whose core sense is rasil; messenger, emissary.",
+      "meaning_section": "The central meaning of Rasil is rasil; messenger, emissary.",
+      "origin_section": "Rasil is associated with Arabic rather than with a different language.",
+      "islam_section": "Rasil can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Rasil is with the sense rasil; messenger.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Rasil",
+      "#RasilMeaning",
+      "#RasilName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
+      ]
+    },
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Rasil corresponds to the Arabic form رَسِيل",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Rasil has the core sense rasil; messenger, emissary",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
+      ],
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
+      ],
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "Rasil",
+      "alternateName": [
+        "Rasil",
+        "rasil"
+      ],
+      "description": "A name associated with the Arabic form رَسِيل, meaning rasil; messenger, emissary.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "rasil",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
+        }
+      ]
+    },
+    "accessibility": {
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Rasil, associated with the Arabic form رَسِيل, meaning rasil; messenger, emissary."
+    },
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
+  }
+}

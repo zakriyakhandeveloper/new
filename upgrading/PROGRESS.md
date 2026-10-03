@@ -4,36 +4,36 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 5100 |
-| Current batch | 51 |
-| Batch range | rafah .. raki (100) |
-| Verified forms | 4943 |
+| Names completed | 5200 |
+| Current batch | 52 |
+| Batch range | ramadan .. raz (100) |
+| Verified forms | 5043 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | raki |
-| Updated | 2026-10-03T03:30:06Z |
+| Next batch starts after | raz |
+| Updated | 2026-10-03T03:32:41Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 3119 |
+| high | 3197 |
 | low | 729 |
-| medium | 1095 |
+| medium | 1117 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 3990 |
-| Persian | 640 |
+| Arabic | 4079 |
+| Persian | 647 |
 | Unknown | 224 |
-| Turkish | 61 |
+| Turkish | 63 |
 | Hebrew | 59 |
 | Turkic | 18 |
 | Kurdish | 16 |
+| Urdu | 14 |
 | Sanskrit | 12 |
-| Urdu | 12 |
 | Hindi | 12 |
 | Pashto | 9 |
 | Greek | 8 |
@@ -88,3 +88,4 @@
 | 49 | nuhaa .. pir | 100 | complete |
 | 50 | pouran .. rafaat | 100 | complete |
 | 51 | rafah .. raki | 100 | complete |
+| 52 | ramadan .. raz | 100 | complete |
