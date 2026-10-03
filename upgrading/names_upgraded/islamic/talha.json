@@ -1,44 +1,44 @@
 {
   "success": true,
   "data": {
-    "name": "Hilmi",
-    "slug": "hilmi",
+    "name": "Talha",
+    "slug": "talha",
     "identity": {
-      "display_name": "Hilmi",
-      "normalized_name": "hilmi",
+      "display_name": "Talha",
+      "normalized_name": "talha",
       "name_type": "given_name",
       "gender": "Male",
       "gender_confidence": "high",
       "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
       "alternate_spellings": [
-        "Hilmi",
-        "hilmi"
+        "Talha",
+        "talha"
       ],
       "search_variants": [
-        "Hilmi",
-        "hilmi"
+        "Talha",
+        "talha"
       ],
       "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
     "core_meaning": {
-      "short_meaning": "Hilmi; of forbearance (relative form)",
-      "primary_meaning": "Hilmi; of forbearance (relative form)",
+      "short_meaning": "Talha; a tree (acacia)",
+      "primary_meaning": "Talha; a tree (acacia)",
       "secondary_meanings": [],
-      "literal_meaning": "Hilmi; of forbearance (relative form)",
-      "extended_meaning": "Hilmi; of forbearance (relative form)",
-      "meaning_explanation": "Hilmi corresponds to the Arabic form حِلْمِي (Arabic root ح ل م (ḥ-l-m); حِلْمِيّ (Ḥilmī)). Its core sense is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "literal_meaning": "Talha; a tree (acacia)",
+      "extended_meaning": "Talha; a tree (acacia)",
+      "meaning_explanation": "Talha corresponds to the Arabic form طَلْحَة (Arabic root ط ل ح (ṭ-l-ḥ); طَلْحَة (Ṭalḥa)). Its core sense is talha; a tree (acacia). Talha is Arabic طَلْحَة (Ṭalḥa), a lexical item for a kind of tree. It was borne by a companion of the Prophet.",
       "meaning_confidence": "high"
     },
     "etymology": {
       "primary_language": "Arabic",
-      "lexical_form": "حِلْمِي",
-      "transliteration": "hilmi",
-      "romanization": "hilmi",
+      "lexical_form": "طَلْحَة",
+      "transliteration": "talha",
+      "romanization": "talha",
       "root_status": "Arabic triliteral root",
       "etymological_meaning": [
-        "Hilmi; of forbearance (relative form)"
+        "Talha; a tree (acacia)"
       ],
-      "etymology_explanation": "The form حِلْمِي is an established Arabic lexical item. Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "etymology_explanation": "The form طَلْحَة is an established Arabic lexical item. Talha is Arabic طَلْحَة (Ṭalḥa), a lexical item for a kind of tree. It was borne by a companion of the Prophet.",
       "etymology_confidence": "high",
       "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
@@ -50,11 +50,11 @@
         "Hindi"
       ],
       "language_notes": {
-        "Arabic": "حِلْمِي is an established Arabic form.",
-        "Urdu": "حلمی is used in Urdu.",
-        "Persian": "حلمی is an established Persian form.",
-        "Hindi": "हिल्मी is used in Hindi.",
-        "Pashto": "حلمي is used in Pashto."
+        "Arabic": "طَلْحَة is an established Arabic form.",
+        "Urdu": "طلحہ is used in Urdu.",
+        "Persian": "طلحه is an established Persian form.",
+        "Hindi": "तलहा is used in Hindi.",
+        "Pashto": "طلحه is used in Pashto."
       },
       "language_confidence": "high"
     },
@@ -62,7 +62,7 @@
       "primary_origin": "Arabic",
       "origin_type": "linguistic",
       "origin_confidence": "high",
-      "origin_explanation": "The name is associated with the Arabic form حِلْمِي. Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "origin_explanation": "The name is associated with the Arabic form طَلْحَة. Talha is Arabic طَلْحَة (Ṭalḥa), a lexical item for a kind of tree. It was borne by a companion of the Prophet.",
       "cultural_transmission": [
         "Arabic",
         "Muslim South Asia",
@@ -74,11 +74,11 @@
       "religion": "Islam",
       "religion_confidence": "medium",
       "religious_status": "Not inherently an exclusively Islamic word",
-      "religious_explanation": "Hilmi may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "religious_explanation": "Talha may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
       "quranic_status": {
         "is_quranic_name": false,
         "quranic_reference": null,
-        "note": "Ḥilmī is not a Quranic personal name."
+        "note": "Ṭalḥa is not a Quranic personal name."
       },
       "hadith_status": {
         "direct_reference": false,
@@ -104,28 +104,28 @@
         "Arabic",
         "Muslim South Asia"
       ],
-      "cultural_meaning": "In the relevant cultures the form is associated with the sense hilmi; of forbearance (relative form).",
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense talha; a tree (acacia).",
       "place_name_significance": null,
       "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
       "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
     },
     "semantic_field": {
-      "primary_semantic_domain": "Hilmi; of forbearance (relative form)",
+      "primary_semantic_domain": "Talha; a tree (acacia)",
       "related_concepts": [
-        "hilmi; of forbearance (relative form)"
+        "talha; a tree (acacia)"
       ],
-      "semantic_relationship": "The central semantic idea is hilmi; of forbearance (relative form); other senses are extended associations."
+      "semantic_relationship": "The central semantic idea is talha; a tree (acacia); other senses are extended associations."
     },
     "spiritual_meaning": {
       "status": "interpretive",
-      "meaning": "A life that reflects the positive sense of hilmi; of forbearance (relative form).",
+      "meaning": "A life that reflects the positive sense of talha; a tree (acacia).",
       "is_direct_religious_definition": false,
       "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
     },
     "personality_associations": {
       "status": "symbolic_only",
       "traits": [
-        "Hilmi; of forbearance (relative form)"
+        "Talha; a tree (acacia)"
       ],
       "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
     },
@@ -151,38 +151,38 @@
     },
     "translations": {
       "english": {
-        "name": "Hilmi",
-        "meaning": "Hilmi; of forbearance (relative form)",
-        "long_meaning": "Hilmi is a Arabic-origin name. Its core meaning is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name."
+        "name": "Talha",
+        "meaning": "Talha; a tree (acacia)",
+        "long_meaning": "Talha is a Arabic-origin name. Its core meaning is talha; a tree (acacia). Talha is Arabic طَلْحَة (Ṭalḥa), a lexical item for a kind of tree. It was borne by a companion of the Prophet."
       },
       "urdu": {
-        "name": "حلمی",
-        "meaning": "حلمی، بردباری سے منسوب",
-        "long_meaning": "Hilmi (حلمی) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم حلمی، بردباری سے منسوب ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "name": "طلحہ",
+        "meaning": "طلحہ، ایک درخت",
+        "long_meaning": "Talha (طلحہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم طلحہ، ایک درخت ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
         "translation_status": "verified"
       },
       "persian": {
-        "name": "حلمی",
-        "meaning": "حلمی، منسوب به حلم",
-        "long_meaning": "Hilmi (حلمی) نامی برگرفته از زبان عربی است و معنای اصلی آن حلمی، منسوب به حلم است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "name": "طلحه",
+        "meaning": "طلحه، درختی",
+        "long_meaning": "Talha (طلحه) نامی برگرفته از زبان عربی است و معنای اصلی آن طلحه، درختی است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
         "translation_status": "verified"
       },
       "hindi": {
-        "name": "हिल्मी",
-        "meaning": "हिल्मी, सहनशीलता से संबंधित",
-        "long_meaning": "Hilmi (हिल्मी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ हिल्मी, सहनशीलता से संबंधित है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "name": "तलहा",
+        "meaning": "तलहा, एक वृक्ष",
+        "long_meaning": "Talha (तलहा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ तलहा, एक वृक्ष है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
         "translation_status": "verified"
       },
       "pashto": {
-        "name": "حلمي",
-        "meaning": "حلمي، د حلم منسوب",
-        "long_meaning": "Hilmi (حلمي) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې حلمي، د حلم منسوب ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "name": "طلحه",
+        "meaning": "طلحه، یو ونه",
+        "long_meaning": "Talha (طلحه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې طلحه، یو ونه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
         "translation_status": "verified"
       },
       "arabic": {
-        "name": "حِلْمِي",
-        "meaning": "حِلْمِيّ، مَنْسُوبٌ إِلَى الْحِلْم",
-        "long_meaning": "Hilmi (حِلْمِي) اسم مأخوذ من اللغة العربية، ومعناه الأساسي حِلْمِيّ، مَنْسُوبٌ إِلَى الْحِلْم. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "name": "طَلْحَة",
+        "meaning": "طَلْحَة، شَجَرَة",
+        "long_meaning": "Talha (طَلْحَة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي طَلْحَة، شَجَرَة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
         "translation_status": "verified"
       }
     },
@@ -192,31 +192,31 @@
       "confidence": "high"
     },
     "pronunciation": {
-      "romanized": "hil-mi",
+      "romanized": "tal-ha",
       "ipa": null,
       "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
-      "urdu": "حلمی",
-      "persian": "حلمی",
-      "hindi": "हिल्मी",
-      "pashto": "حلمي"
+      "urdu": "طلحہ",
+      "persian": "طلحه",
+      "hindi": "तलहा",
+      "pashto": "طلحه"
     },
     "name_variants": {
       "romanized_variants": [
-        "Hilmi",
-        "hilmi"
+        "Talha",
+        "talha"
       ],
       "script_variants": [
-        "حلمي",
-        "حلمی",
-        "حِلْمِي",
-        "हिल्मी"
+        "طلحه",
+        "طلحہ",
+        "طَلْحَة",
+        "तलहा"
       ],
       "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
       "do_not_merge_with": []
     },
     "historical_context": {
       "known_linguistic_history": [
-        "The form حِلْمِي is an established Arabic lexical item."
+        "The form طَلْحَة is an established Arabic lexical item."
       ],
       "historical_person_association": null,
       "historical_event_association": null,
@@ -254,63 +254,63 @@
     },
     "name_story": {
       "type": "editorial_interpretation",
-      "story": "Hilmi can be understood through the Arabic form حِلْمِي, whose central sense is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "story": "Talha can be understood through the Arabic form طَلْحَة, whose central sense is talha; a tree (acacia). Talha is Arabic طَلْحَة (Ṭalḥa), a lexical item for a kind of tree. It was borne by a companion of the Prophet.",
       "is_fictional": false
     },
     "faq": [
       {
-        "question": "What does Hilmi mean?",
-        "answer": "Hilmi is associated with the Arabic form حِلْمِي, whose core sense is hilmi; of forbearance (relative form)."
+        "question": "What does Talha mean?",
+        "answer": "Talha is associated with the Arabic form طَلْحَة, whose core sense is talha; a tree (acacia)."
       },
       {
-        "question": "What is the origin of Hilmi?",
-        "answer": "Hilmi is associated with Arabic. Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name."
+        "question": "What is the origin of Talha?",
+        "answer": "Talha is associated with Arabic. Talha is Arabic طَلْحَة (Ṭalḥa), a lexical item for a kind of tree. It was borne by a companion of the Prophet."
       },
       {
-        "question": "Is Hilmi an Arabic name?",
-        "answer": "Yes — the underlying form حِلْمِي is Arabic."
+        "question": "Is Talha an Arabic name?",
+        "answer": "Yes — the underlying form طَلْحَة is Arabic."
       },
       {
-        "question": "Is Hilmi an Islamic name?",
-        "answer": "Hilmi can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+        "question": "Is Talha an Islamic name?",
+        "answer": "Talha can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "question": "Is Hilmi a Quranic name?",
-        "answer": "Hilmi should not be classified as a Quranic personal name without a direct Quranic basis. Ḥilmī is not a Quranic personal name."
+        "question": "Is Talha a Quranic name?",
+        "answer": "Talha should not be classified as a Quranic personal name without a direct Quranic basis. Ṭalḥa is not a Quranic personal name."
       },
       {
-        "question": "What does Hilmi mean in Urdu?",
-        "answer": "In Urdu, Hilmi is rendered حلمی and carries the sense حلمی، بردباری سے منسوب."
+        "question": "What does Talha mean in Urdu?",
+        "answer": "In Urdu, Talha is rendered طلحہ and carries the sense طلحہ، ایک درخت."
       },
       {
-        "question": "What does Hilmi mean in Persian?",
-        "answer": "In Persian, Hilmi is rendered حلمی and carries the sense حلمی، منسوب به حلم."
+        "question": "What does Talha mean in Persian?",
+        "answer": "In Persian, Talha is rendered طلحه and carries the sense طلحه، درختی."
       },
       {
-        "question": "How is Hilmi pronounced?",
-        "answer": "A romanized syllable approximation is hil-mi. No IPA transcription is asserted because a verified phonetic transcription was not available."
+        "question": "How is Talha pronounced?",
+        "answer": "A romanized syllable approximation is tal-ha. No IPA transcription is asserted because a verified phonetic transcription was not available."
       },
       {
-        "question": "What are the variants of Hilmi?",
-        "answer": "Romanization variants include Hilmi, hilmi. Script forms are حلمي, حلمی, حِلْمِي, हिल्मी."
+        "question": "What are the variants of Talha?",
+        "answer": "Romanization variants include Talha, talha. Script forms are طلحه, طلحہ, طَلْحَة, तलहा."
       },
       {
-        "question": "Is Hilmi a boy's or girl's name?",
+        "question": "Is Talha a boy's or girl's name?",
         "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Hilmi Name Meaning, Origin & Islamic Cultural Context",
-      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Hilmi (حِلْمِي).",
-      "h1": "Hilmi Name Meaning, Origin and Cultural Background",
-      "focus_keyword": "Hilmi meaning",
+      "title": "Talha Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Talha (طَلْحَة).",
+      "h1": "Talha Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Talha meaning",
       "secondary_keywords": [
-        "Hilmi name meaning",
-        "Hilmi meaning in Urdu",
-        "Hilmi origin",
-        "Hilmi Islamic name",
-        "Hilmi pronunciation",
-        "Hilmi name in Urdu"
+        "Talha name meaning",
+        "Talha meaning in Urdu",
+        "Talha origin",
+        "Talha Islamic name",
+        "Talha pronunciation",
+        "Talha name in Urdu"
       ],
       "search_intents": [
         "meaning",
@@ -322,21 +322,21 @@
         "translation",
         "name variants"
       ],
-      "description_paragraph": "Hilmi (حِلْمِي) is associated with the Arabic form حِلْمِي, whose core sense is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "description_paragraph": "Talha (طَلْحَة) is associated with the Arabic form طَلْحَة, whose core sense is talha; a tree (acacia). Talha is Arabic طَلْحَة (Ṭalḥa), a lexical item for a kind of tree. It was borne by a companion of the Prophet.",
       "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
     },
     "seo_content": {
-      "intro": "Hilmi is associated with the Arabic form حِلْمِي, whose core sense is hilmi; of forbearance (relative form).",
-      "meaning_section": "The central meaning of Hilmi is hilmi; of forbearance (relative form).",
-      "origin_section": "Hilmi is associated with Arabic rather than with a different language.",
-      "islam_section": "Hilmi can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
-      "cultural_section": "The strongest cultural association of Hilmi is with the sense hilmi; of forbearance (relative form).",
+      "intro": "Talha is associated with the Arabic form طَلْحَة, whose core sense is talha; a tree (acacia).",
+      "meaning_section": "The central meaning of Talha is talha; a tree (acacia).",
+      "origin_section": "Talha is associated with Arabic rather than with a different language.",
+      "islam_section": "Talha can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Talha is with the sense talha; a tree (acacia).",
       "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
     },
     "social_tags": [
-      "#Hilmi",
-      "#HilmiMeaning",
-      "#HilmiName",
+      "#Talha",
+      "#TalhaMeaning",
+      "#TalhaName",
       "#IslamicNames",
       "#NameMeaning",
       "#NameOrigin"
@@ -365,12 +365,12 @@
     "evidence": {
       "core_claims": [
         {
-          "claim": "Hilmi corresponds to the Arabic form حِلْمِي",
+          "claim": "Talha corresponds to the Arabic form طَلْحَة",
           "evidence_type": "lexical",
           "confidence": "high"
         },
         {
-          "claim": "Hilmi has the core sense hilmi; of forbearance (relative form)",
+          "claim": "Talha has the core sense talha; a tree (acacia)",
           "evidence_type": "lexical",
           "confidence": "high"
         }
@@ -408,12 +408,12 @@
     "structured_data": {
       "@context": "https://schema.org",
       "@type": "DefinedTerm",
-      "name": "Hilmi",
+      "name": "Talha",
       "alternateName": [
-        "Hilmi",
-        "hilmi"
+        "Talha",
+        "talha"
       ],
-      "description": "A name associated with the Arabic form حِلْمِي, meaning hilmi; of forbearance (relative form).",
+      "description": "A name associated with the Arabic form طَلْحَة, meaning talha; a tree (acacia).",
       "inLanguage": [
         "ar",
         "ur",
@@ -421,7 +421,7 @@
         "hi",
         "ps"
       ],
-      "termCode": "hilmi",
+      "termCode": "talha",
       "additionalProperty": [
         {
           "@type": "PropertyValue",
@@ -451,7 +451,7 @@
       ],
       "script_labels_required": true,
       "pronunciation_text_available": true,
-      "screen_reader_description": "Hilmi, associated with the Arabic form حِلْمِي, meaning hilmi; of forbearance (relative form)."
+      "screen_reader_description": "Talha, associated with the Arabic form طَلْحَة, meaning talha; a tree (acacia)."
     },
     "editorial_validation": {
       "name_identity_checked": true,

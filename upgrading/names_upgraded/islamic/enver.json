@@ -1,44 +1,44 @@
 {
   "success": true,
   "data": {
-    "name": "Hilmi",
-    "slug": "hilmi",
+    "name": "Enver",
+    "slug": "enver",
     "identity": {
-      "display_name": "Hilmi",
-      "normalized_name": "hilmi",
+      "display_name": "Enver",
+      "normalized_name": "enver",
       "name_type": "given_name",
       "gender": "Male",
       "gender_confidence": "high",
       "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
       "alternate_spellings": [
-        "Hilmi",
-        "hilmi"
+        "Enver",
+        "enver"
       ],
       "search_variants": [
-        "Hilmi",
-        "hilmi"
+        "Enver",
+        "enver"
       ],
       "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
     "core_meaning": {
-      "short_meaning": "Hilmi; of forbearance (relative form)",
-      "primary_meaning": "Hilmi; of forbearance (relative form)",
+      "short_meaning": "Enver; most luminous (Turkish form)",
+      "primary_meaning": "Enver; most luminous (Turkish form)",
       "secondary_meanings": [],
-      "literal_meaning": "Hilmi; of forbearance (relative form)",
-      "extended_meaning": "Hilmi; of forbearance (relative form)",
-      "meaning_explanation": "Hilmi corresponds to the Arabic form حِلْمِي (Arabic root ح ل م (ḥ-l-m); حِلْمِيّ (Ḥilmī)). Its core sense is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "literal_meaning": "Enver; most luminous (Turkish form)",
+      "extended_meaning": "Enver; most luminous (Turkish form)",
+      "meaning_explanation": "Enver corresponds to the Arabic form أَنْوَر (Arabic root ن و ر (n-w-r); أَنْوَر (Anwar)). Its core sense is enver; most luminous (turkish form). Enver is the Turkish form of Arabic أَنْوَر (Anwar), the elative of نَيِّر, meaning 'most luminous'.",
       "meaning_confidence": "high"
     },
     "etymology": {
       "primary_language": "Arabic",
-      "lexical_form": "حِلْمِي",
-      "transliteration": "hilmi",
-      "romanization": "hilmi",
+      "lexical_form": "أَنْوَر",
+      "transliteration": "enver",
+      "romanization": "enver",
       "root_status": "Arabic triliteral root",
       "etymological_meaning": [
-        "Hilmi; of forbearance (relative form)"
+        "Enver; most luminous (Turkish form)"
       ],
-      "etymology_explanation": "The form حِلْمِي is an established Arabic lexical item. Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "etymology_explanation": "The form أَنْوَر is an established Arabic lexical item. Enver is the Turkish form of Arabic أَنْوَر (Anwar), the elative of نَيِّر, meaning 'most luminous'.",
       "etymology_confidence": "high",
       "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
@@ -50,11 +50,11 @@
         "Hindi"
       ],
       "language_notes": {
-        "Arabic": "حِلْمِي is an established Arabic form.",
-        "Urdu": "حلمی is used in Urdu.",
-        "Persian": "حلمی is an established Persian form.",
-        "Hindi": "हिल्मी is used in Hindi.",
-        "Pashto": "حلمي is used in Pashto."
+        "Arabic": "أَنْوَر is an established Arabic form.",
+        "Urdu": "انور is used in Urdu.",
+        "Persian": "انور is an established Persian form.",
+        "Hindi": "अनवर is used in Hindi.",
+        "Pashto": "انور is used in Pashto."
       },
       "language_confidence": "high"
     },
@@ -62,7 +62,7 @@
       "primary_origin": "Arabic",
       "origin_type": "linguistic",
       "origin_confidence": "high",
-      "origin_explanation": "The name is associated with the Arabic form حِلْمِي. Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "origin_explanation": "The name is associated with the Arabic form أَنْوَر. Enver is the Turkish form of Arabic أَنْوَر (Anwar), the elative of نَيِّر, meaning 'most luminous'.",
       "cultural_transmission": [
         "Arabic",
         "Muslim South Asia",
@@ -74,11 +74,11 @@
       "religion": "Islam",
       "religion_confidence": "medium",
       "religious_status": "Not inherently an exclusively Islamic word",
-      "religious_explanation": "Hilmi may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "religious_explanation": "Enver may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
       "quranic_status": {
         "is_quranic_name": false,
         "quranic_reference": null,
-        "note": "Ḥilmī is not a Quranic personal name."
+        "note": "The root ن و ر is Quranic (light), but Anwar is not itself a Quranic personal name."
       },
       "hadith_status": {
         "direct_reference": false,
@@ -104,28 +104,28 @@
         "Arabic",
         "Muslim South Asia"
       ],
-      "cultural_meaning": "In the relevant cultures the form is associated with the sense hilmi; of forbearance (relative form).",
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense enver; most luminous (turkish form).",
       "place_name_significance": null,
       "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
       "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
     },
     "semantic_field": {
-      "primary_semantic_domain": "Hilmi; of forbearance (relative form)",
+      "primary_semantic_domain": "Enver; most luminous (Turkish form)",
       "related_concepts": [
-        "hilmi; of forbearance (relative form)"
+        "enver; most luminous (turkish form)"
       ],
-      "semantic_relationship": "The central semantic idea is hilmi; of forbearance (relative form); other senses are extended associations."
+      "semantic_relationship": "The central semantic idea is enver; most luminous (turkish form); other senses are extended associations."
     },
     "spiritual_meaning": {
       "status": "interpretive",
-      "meaning": "A life that reflects the positive sense of hilmi; of forbearance (relative form).",
+      "meaning": "A life that reflects the positive sense of enver; most luminous (turkish form).",
       "is_direct_religious_definition": false,
       "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
     },
     "personality_associations": {
       "status": "symbolic_only",
       "traits": [
-        "Hilmi; of forbearance (relative form)"
+        "Enver; most luminous (turkish form)"
       ],
       "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
     },
@@ -151,38 +151,38 @@
     },
     "translations": {
       "english": {
-        "name": "Hilmi",
-        "meaning": "Hilmi; of forbearance (relative form)",
-        "long_meaning": "Hilmi is a Arabic-origin name. Its core meaning is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name."
+        "name": "Enver",
+        "meaning": "Enver; most luminous (Turkish form)",
+        "long_meaning": "Enver is a Arabic-origin name. Its core meaning is enver; most luminous (turkish form). Enver is the Turkish form of Arabic أَنْوَر (Anwar), the elative of نَيِّر, meaning 'most luminous'."
       },
       "urdu": {
-        "name": "حلمی",
-        "meaning": "حلمی، بردباری سے منسوب",
-        "long_meaning": "Hilmi (حلمی) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم حلمی، بردباری سے منسوب ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "name": "انور",
+        "meaning": "انور، سب سے زیادہ روشن",
+        "long_meaning": "Enver (انور) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم انور، سب سے زیادہ روشن ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
         "translation_status": "verified"
       },
       "persian": {
-        "name": "حلمی",
-        "meaning": "حلمی، منسوب به حلم",
-        "long_meaning": "Hilmi (حلمی) نامی برگرفته از زبان عربی است و معنای اصلی آن حلمی، منسوب به حلم است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "name": "انور",
+        "meaning": "انور، نورانی‌ترین",
+        "long_meaning": "Enver (انور) نامی برگرفته از زبان عربی است و معنای اصلی آن انور، نورانی‌ترین است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
         "translation_status": "verified"
       },
       "hindi": {
-        "name": "हिल्मी",
-        "meaning": "हिल्मी, सहनशीलता से संबंधित",
-        "long_meaning": "Hilmi (हिल्मी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ हिल्मी, सहनशीलता से संबंधित है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "name": "अनवर",
+        "meaning": "अनवर, सर्वाधिक प्रकाशमान",
+        "long_meaning": "Enver (अनवर) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ अनवर, सर्वाधिक प्रकाशमान है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
         "translation_status": "verified"
       },
       "pashto": {
-        "name": "حلمي",
-        "meaning": "حلمي، د حلم منسوب",
-        "long_meaning": "Hilmi (حلمي) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې حلمي، د حلم منسوب ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "name": "انور",
+        "meaning": "انور، تر ټولو روښانه",
+        "long_meaning": "Enver (انور) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې انور، تر ټولو روښانه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
         "translation_status": "verified"
       },
       "arabic": {
-        "name": "حِلْمِي",
-        "meaning": "حِلْمِيّ، مَنْسُوبٌ إِلَى الْحِلْم",
-        "long_meaning": "Hilmi (حِلْمِي) اسم مأخوذ من اللغة العربية، ومعناه الأساسي حِلْمِيّ، مَنْسُوبٌ إِلَى الْحِلْم. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "name": "أَنْوَر",
+        "meaning": "الْأَنْوَر، الْأَكْثَرُ نُورًا",
+        "long_meaning": "Enver (أَنْوَر) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الْأَنْوَر، الْأَكْثَرُ نُورًا. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
         "translation_status": "verified"
       }
     },
@@ -192,31 +192,30 @@
       "confidence": "high"
     },
     "pronunciation": {
-      "romanized": "hil-mi",
+      "romanized": "en-ver",
       "ipa": null,
       "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
-      "urdu": "حلمی",
-      "persian": "حلمی",
-      "hindi": "हिल्मी",
-      "pashto": "حلمي"
+      "urdu": "انور",
+      "persian": "انور",
+      "hindi": "अनवर",
+      "pashto": "انور"
     },
     "name_variants": {
       "romanized_variants": [
-        "Hilmi",
-        "hilmi"
+        "Enver",
+        "enver"
       ],
       "script_variants": [
-        "حلمي",
-        "حلمی",
-        "حِلْمِي",
-        "हिल्मी"
+        "أَنْوَر",
+        "انور",
+        "अनवर"
       ],
       "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
       "do_not_merge_with": []
     },
     "historical_context": {
       "known_linguistic_history": [
-        "The form حِلْمِي is an established Arabic lexical item."
+        "The form أَنْوَر is an established Arabic lexical item."
       ],
       "historical_person_association": null,
       "historical_event_association": null,
@@ -254,63 +253,63 @@
     },
     "name_story": {
       "type": "editorial_interpretation",
-      "story": "Hilmi can be understood through the Arabic form حِلْمِي, whose central sense is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "story": "Enver can be understood through the Arabic form أَنْوَر, whose central sense is enver; most luminous (turkish form). Enver is the Turkish form of Arabic أَنْوَر (Anwar), the elative of نَيِّر, meaning 'most luminous'.",
       "is_fictional": false
     },
     "faq": [
       {
-        "question": "What does Hilmi mean?",
-        "answer": "Hilmi is associated with the Arabic form حِلْمِي, whose core sense is hilmi; of forbearance (relative form)."
+        "question": "What does Enver mean?",
+        "answer": "Enver is associated with the Arabic form أَنْوَر, whose core sense is enver; most luminous (turkish form)."
       },
       {
-        "question": "What is the origin of Hilmi?",
-        "answer": "Hilmi is associated with Arabic. Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name."
+        "question": "What is the origin of Enver?",
+        "answer": "Enver is associated with Arabic. Enver is the Turkish form of Arabic أَنْوَر (Anwar), the elative of نَيِّر, meaning 'most luminous'."
       },
       {
-        "question": "Is Hilmi an Arabic name?",
-        "answer": "Yes — the underlying form حِلْمِي is Arabic."
+        "question": "Is Enver an Arabic name?",
+        "answer": "Yes — the underlying form أَنْوَر is Arabic."
       },
       {
-        "question": "Is Hilmi an Islamic name?",
-        "answer": "Hilmi can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+        "question": "Is Enver an Islamic name?",
+        "answer": "Enver can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "question": "Is Hilmi a Quranic name?",
-        "answer": "Hilmi should not be classified as a Quranic personal name without a direct Quranic basis. Ḥilmī is not a Quranic personal name."
+        "question": "Is Enver a Quranic name?",
+        "answer": "Enver should not be classified as a Quranic personal name without a direct Quranic basis. The root ن و ر is Quranic (light), but Anwar is not itself a Quranic personal name."
       },
       {
-        "question": "What does Hilmi mean in Urdu?",
-        "answer": "In Urdu, Hilmi is rendered حلمی and carries the sense حلمی، بردباری سے منسوب."
+        "question": "What does Enver mean in Urdu?",
+        "answer": "In Urdu, Enver is rendered انور and carries the sense انور، سب سے زیادہ روشن."
       },
       {
-        "question": "What does Hilmi mean in Persian?",
-        "answer": "In Persian, Hilmi is rendered حلمی and carries the sense حلمی، منسوب به حلم."
+        "question": "What does Enver mean in Persian?",
+        "answer": "In Persian, Enver is rendered انور and carries the sense انور، نورانی‌ترین."
       },
       {
-        "question": "How is Hilmi pronounced?",
-        "answer": "A romanized syllable approximation is hil-mi. No IPA transcription is asserted because a verified phonetic transcription was not available."
+        "question": "How is Enver pronounced?",
+        "answer": "A romanized syllable approximation is en-ver. No IPA transcription is asserted because a verified phonetic transcription was not available."
       },
       {
-        "question": "What are the variants of Hilmi?",
-        "answer": "Romanization variants include Hilmi, hilmi. Script forms are حلمي, حلمی, حِلْمِي, हिल्मी."
+        "question": "What are the variants of Enver?",
+        "answer": "Romanization variants include Enver, enver. Script forms are أَنْوَر, انور, अनवर."
       },
       {
-        "question": "Is Hilmi a boy's or girl's name?",
+        "question": "Is Enver a boy's or girl's name?",
         "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Hilmi Name Meaning, Origin & Islamic Cultural Context",
-      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Hilmi (حِلْمِي).",
-      "h1": "Hilmi Name Meaning, Origin and Cultural Background",
-      "focus_keyword": "Hilmi meaning",
+      "title": "Enver Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Enver (أَنْوَر).",
+      "h1": "Enver Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Enver meaning",
       "secondary_keywords": [
-        "Hilmi name meaning",
-        "Hilmi meaning in Urdu",
-        "Hilmi origin",
-        "Hilmi Islamic name",
-        "Hilmi pronunciation",
-        "Hilmi name in Urdu"
+        "Enver name meaning",
+        "Enver meaning in Urdu",
+        "Enver origin",
+        "Enver Islamic name",
+        "Enver pronunciation",
+        "Enver name in Urdu"
       ],
       "search_intents": [
         "meaning",
@@ -322,21 +321,21 @@
         "translation",
         "name variants"
       ],
-      "description_paragraph": "Hilmi (حِلْمِي) is associated with the Arabic form حِلْمِي, whose core sense is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "description_paragraph": "Enver (أَنْوَر) is associated with the Arabic form أَنْوَر, whose core sense is enver; most luminous (turkish form). Enver is the Turkish form of Arabic أَنْوَر (Anwar), the elative of نَيِّر, meaning 'most luminous'.",
       "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
     },
     "seo_content": {
-      "intro": "Hilmi is associated with the Arabic form حِلْمِي, whose core sense is hilmi; of forbearance (relative form).",
-      "meaning_section": "The central meaning of Hilmi is hilmi; of forbearance (relative form).",
-      "origin_section": "Hilmi is associated with Arabic rather than with a different language.",
-      "islam_section": "Hilmi can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
-      "cultural_section": "The strongest cultural association of Hilmi is with the sense hilmi; of forbearance (relative form).",
+      "intro": "Enver is associated with the Arabic form أَنْوَر, whose core sense is enver; most luminous (turkish form).",
+      "meaning_section": "The central meaning of Enver is enver; most luminous (turkish form).",
+      "origin_section": "Enver is associated with Arabic rather than with a different language.",
+      "islam_section": "Enver can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Enver is with the sense enver; most luminous (turkish form).",
       "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
     },
     "social_tags": [
-      "#Hilmi",
-      "#HilmiMeaning",
-      "#HilmiName",
+      "#Enver",
+      "#EnverMeaning",
+      "#EnverName",
       "#IslamicNames",
       "#NameMeaning",
       "#NameOrigin"
@@ -365,12 +364,12 @@
     "evidence": {
       "core_claims": [
         {
-          "claim": "Hilmi corresponds to the Arabic form حِلْمِي",
+          "claim": "Enver corresponds to the Arabic form أَنْوَر",
           "evidence_type": "lexical",
           "confidence": "high"
         },
         {
-          "claim": "Hilmi has the core sense hilmi; of forbearance (relative form)",
+          "claim": "Enver has the core sense enver; most luminous (turkish form)",
           "evidence_type": "lexical",
           "confidence": "high"
         }
@@ -408,12 +407,12 @@
     "structured_data": {
       "@context": "https://schema.org",
       "@type": "DefinedTerm",
-      "name": "Hilmi",
+      "name": "Enver",
       "alternateName": [
-        "Hilmi",
-        "hilmi"
+        "Enver",
+        "enver"
       ],
-      "description": "A name associated with the Arabic form حِلْمِي, meaning hilmi; of forbearance (relative form).",
+      "description": "A name associated with the Arabic form أَنْوَر, meaning enver; most luminous (turkish form).",
       "inLanguage": [
         "ar",
         "ur",
@@ -421,7 +420,7 @@
         "hi",
         "ps"
       ],
-      "termCode": "hilmi",
+      "termCode": "enver",
       "additionalProperty": [
         {
           "@type": "PropertyValue",
@@ -451,7 +450,7 @@
       ],
       "script_labels_required": true,
       "pronunciation_text_available": true,
-      "screen_reader_description": "Hilmi, associated with the Arabic form حِلْمِي, meaning hilmi; of forbearance (relative form)."
+      "screen_reader_description": "Enver, associated with the Arabic form أَنْوَر, meaning enver; most luminous (turkish form)."
     },
     "editorial_validation": {
       "name_identity_checked": true,

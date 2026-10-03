@@ -1,44 +1,44 @@
 {
   "success": true,
   "data": {
-    "name": "Hilmi",
-    "slug": "hilmi",
+    "name": "Hossam",
+    "slug": "hossam",
     "identity": {
-      "display_name": "Hilmi",
-      "normalized_name": "hilmi",
+      "display_name": "Hossam",
+      "normalized_name": "hossam",
       "name_type": "given_name",
       "gender": "Male",
       "gender_confidence": "high",
       "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
       "alternate_spellings": [
-        "Hilmi",
-        "hilmi"
+        "Hossam",
+        "hossam"
       ],
       "search_variants": [
-        "Hilmi",
-        "hilmi"
+        "Hossam",
+        "hossam"
       ],
       "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
     "core_meaning": {
-      "short_meaning": "Hilmi; of forbearance (relative form)",
-      "primary_meaning": "Hilmi; of forbearance (relative form)",
+      "short_meaning": "Hossam; sharp sword",
+      "primary_meaning": "Hossam; sharp sword",
       "secondary_meanings": [],
-      "literal_meaning": "Hilmi; of forbearance (relative form)",
-      "extended_meaning": "Hilmi; of forbearance (relative form)",
-      "meaning_explanation": "Hilmi corresponds to the Arabic form حِلْمِي (Arabic root ح ل م (ḥ-l-m); حِلْمِيّ (Ḥilmī)). Its core sense is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "literal_meaning": "Hossam; sharp sword",
+      "extended_meaning": "Hossam; sharp sword",
+      "meaning_explanation": "Hossam corresponds to the Arabic form حُسَام (Arabic root ح س م (ḥ-s-m); حُسَام (Ḥusām)). Its core sense is hossam; sharp sword. Hossam is Arabic حُسَام (Ḥusām), meaning 'sharp sword'.",
       "meaning_confidence": "high"
     },
     "etymology": {
       "primary_language": "Arabic",
-      "lexical_form": "حِلْمِي",
-      "transliteration": "hilmi",
-      "romanization": "hilmi",
+      "lexical_form": "حُسَام",
+      "transliteration": "hossam",
+      "romanization": "hossam",
       "root_status": "Arabic triliteral root",
       "etymological_meaning": [
-        "Hilmi; of forbearance (relative form)"
+        "Hossam; sharp sword"
       ],
-      "etymology_explanation": "The form حِلْمِي is an established Arabic lexical item. Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "etymology_explanation": "The form حُسَام is an established Arabic lexical item. Hossam is Arabic حُسَام (Ḥusām), meaning 'sharp sword'.",
       "etymology_confidence": "high",
       "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
@@ -50,11 +50,11 @@
         "Hindi"
       ],
       "language_notes": {
-        "Arabic": "حِلْمِي is an established Arabic form.",
-        "Urdu": "حلمی is used in Urdu.",
-        "Persian": "حلمی is an established Persian form.",
-        "Hindi": "हिल्मी is used in Hindi.",
-        "Pashto": "حلمي is used in Pashto."
+        "Arabic": "حُسَام is an established Arabic form.",
+        "Urdu": "حسام is used in Urdu.",
+        "Persian": "حسام is an established Persian form.",
+        "Hindi": "हुसाम is used in Hindi.",
+        "Pashto": "حسام is used in Pashto."
       },
       "language_confidence": "high"
     },
@@ -62,7 +62,7 @@
       "primary_origin": "Arabic",
       "origin_type": "linguistic",
       "origin_confidence": "high",
-      "origin_explanation": "The name is associated with the Arabic form حِلْمِي. Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "origin_explanation": "The name is associated with the Arabic form حُسَام. Hossam is Arabic حُسَام (Ḥusām), meaning 'sharp sword'.",
       "cultural_transmission": [
         "Arabic",
         "Muslim South Asia",
@@ -74,11 +74,11 @@
       "religion": "Islam",
       "religion_confidence": "medium",
       "religious_status": "Not inherently an exclusively Islamic word",
-      "religious_explanation": "Hilmi may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "religious_explanation": "Hossam may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
       "quranic_status": {
         "is_quranic_name": false,
         "quranic_reference": null,
-        "note": "Ḥilmī is not a Quranic personal name."
+        "note": "Ḥusām is not a Quranic personal name."
       },
       "hadith_status": {
         "direct_reference": false,
@@ -104,28 +104,28 @@
         "Arabic",
         "Muslim South Asia"
       ],
-      "cultural_meaning": "In the relevant cultures the form is associated with the sense hilmi; of forbearance (relative form).",
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense hossam; sharp sword.",
       "place_name_significance": null,
       "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
       "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
     },
     "semantic_field": {
-      "primary_semantic_domain": "Hilmi; of forbearance (relative form)",
+      "primary_semantic_domain": "Hossam; sharp sword",
       "related_concepts": [
-        "hilmi; of forbearance (relative form)"
+        "hossam; sharp sword"
       ],
-      "semantic_relationship": "The central semantic idea is hilmi; of forbearance (relative form); other senses are extended associations."
+      "semantic_relationship": "The central semantic idea is hossam; sharp sword; other senses are extended associations."
     },
     "spiritual_meaning": {
       "status": "interpretive",
-      "meaning": "A life that reflects the positive sense of hilmi; of forbearance (relative form).",
+      "meaning": "A life that reflects the positive sense of hossam; sharp sword.",
       "is_direct_religious_definition": false,
       "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
     },
     "personality_associations": {
       "status": "symbolic_only",
       "traits": [
-        "Hilmi; of forbearance (relative form)"
+        "Hossam; sharp sword"
       ],
       "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
     },
@@ -151,38 +151,38 @@
     },
     "translations": {
       "english": {
-        "name": "Hilmi",
-        "meaning": "Hilmi; of forbearance (relative form)",
-        "long_meaning": "Hilmi is a Arabic-origin name. Its core meaning is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name."
+        "name": "Hossam",
+        "meaning": "Hossam; sharp sword",
+        "long_meaning": "Hossam is a Arabic-origin name. Its core meaning is hossam; sharp sword. Hossam is Arabic حُسَام (Ḥusām), meaning 'sharp sword'."
       },
       "urdu": {
-        "name": "حلمی",
-        "meaning": "حلمی، بردباری سے منسوب",
-        "long_meaning": "Hilmi (حلمی) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم حلمی، بردباری سے منسوب ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "name": "حسام",
+        "meaning": "حسام، تیز تلوار",
+        "long_meaning": "Hossam (حسام) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم حسام، تیز تلوار ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
         "translation_status": "verified"
       },
       "persian": {
-        "name": "حلمی",
-        "meaning": "حلمی، منسوب به حلم",
-        "long_meaning": "Hilmi (حلمی) نامی برگرفته از زبان عربی است و معنای اصلی آن حلمی، منسوب به حلم است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "name": "حسام",
+        "meaning": "حسام، شمشیر برنده",
+        "long_meaning": "Hossam (حسام) نامی برگرفته از زبان عربی است و معنای اصلی آن حسام، شمشیر برنده است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
         "translation_status": "verified"
       },
       "hindi": {
-        "name": "हिल्मी",
-        "meaning": "हिल्मी, सहनशीलता से संबंधित",
-        "long_meaning": "Hilmi (हिल्मी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ हिल्मी, सहनशीलता से संबंधित है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "name": "हुसाम",
+        "meaning": "हुसाम, तेज़ तलवार",
+        "long_meaning": "Hossam (हुसाम) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ हुसाम, तेज़ तलवार है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
         "translation_status": "verified"
       },
       "pashto": {
-        "name": "حلمي",
-        "meaning": "حلمي، د حلم منسوب",
-        "long_meaning": "Hilmi (حلمي) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې حلمي، د حلم منسوب ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "name": "حسام",
+        "meaning": "حسام، تېره توره",
+        "long_meaning": "Hossam (حسام) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې حسام، تېره توره ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
         "translation_status": "verified"
       },
       "arabic": {
-        "name": "حِلْمِي",
-        "meaning": "حِلْمِيّ، مَنْسُوبٌ إِلَى الْحِلْم",
-        "long_meaning": "Hilmi (حِلْمِي) اسم مأخوذ من اللغة العربية، ومعناه الأساسي حِلْمِيّ، مَنْسُوبٌ إِلَى الْحِلْم. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "name": "حُسَام",
+        "meaning": "الْحُسَام، السَّيْفُ الْقَاطِع",
+        "long_meaning": "Hossam (حُسَام) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الْحُسَام، السَّيْفُ الْقَاطِع. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
         "translation_status": "verified"
       }
     },
@@ -192,31 +192,30 @@
       "confidence": "high"
     },
     "pronunciation": {
-      "romanized": "hil-mi",
+      "romanized": "hos-sam",
       "ipa": null,
       "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
-      "urdu": "حلمی",
-      "persian": "حلمی",
-      "hindi": "हिल्मी",
-      "pashto": "حلمي"
+      "urdu": "حسام",
+      "persian": "حسام",
+      "hindi": "हुसाम",
+      "pashto": "حسام"
     },
     "name_variants": {
       "romanized_variants": [
-        "Hilmi",
-        "hilmi"
+        "Hossam",
+        "hossam"
       ],
       "script_variants": [
-        "حلمي",
-        "حلمی",
-        "حِلْمِي",
-        "हिल्मी"
+        "حسام",
+        "حُسَام",
+        "हुसाम"
       ],
       "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
       "do_not_merge_with": []
     },
     "historical_context": {
       "known_linguistic_history": [
-        "The form حِلْمِي is an established Arabic lexical item."
+        "The form حُسَام is an established Arabic lexical item."
       ],
       "historical_person_association": null,
       "historical_event_association": null,
@@ -254,63 +253,63 @@
     },
     "name_story": {
       "type": "editorial_interpretation",
-      "story": "Hilmi can be understood through the Arabic form حِلْمِي, whose central sense is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "story": "Hossam can be understood through the Arabic form حُسَام, whose central sense is hossam; sharp sword. Hossam is Arabic حُسَام (Ḥusām), meaning 'sharp sword'.",
       "is_fictional": false
     },
     "faq": [
       {
-        "question": "What does Hilmi mean?",
-        "answer": "Hilmi is associated with the Arabic form حِلْمِي, whose core sense is hilmi; of forbearance (relative form)."
+        "question": "What does Hossam mean?",
+        "answer": "Hossam is associated with the Arabic form حُسَام, whose core sense is hossam; sharp sword."
       },
       {
-        "question": "What is the origin of Hilmi?",
-        "answer": "Hilmi is associated with Arabic. Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name."
+        "question": "What is the origin of Hossam?",
+        "answer": "Hossam is associated with Arabic. Hossam is Arabic حُسَام (Ḥusām), meaning 'sharp sword'."
       },
       {
-        "question": "Is Hilmi an Arabic name?",
-        "answer": "Yes — the underlying form حِلْمِي is Arabic."
+        "question": "Is Hossam an Arabic name?",
+        "answer": "Yes — the underlying form حُسَام is Arabic."
       },
       {
-        "question": "Is Hilmi an Islamic name?",
-        "answer": "Hilmi can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+        "question": "Is Hossam an Islamic name?",
+        "answer": "Hossam can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "question": "Is Hilmi a Quranic name?",
-        "answer": "Hilmi should not be classified as a Quranic personal name without a direct Quranic basis. Ḥilmī is not a Quranic personal name."
+        "question": "Is Hossam a Quranic name?",
+        "answer": "Hossam should not be classified as a Quranic personal name without a direct Quranic basis. Ḥusām is not a Quranic personal name."
       },
       {
-        "question": "What does Hilmi mean in Urdu?",
-        "answer": "In Urdu, Hilmi is rendered حلمی and carries the sense حلمی، بردباری سے منسوب."
+        "question": "What does Hossam mean in Urdu?",
+        "answer": "In Urdu, Hossam is rendered حسام and carries the sense حسام، تیز تلوار."
       },
       {
-        "question": "What does Hilmi mean in Persian?",
-        "answer": "In Persian, Hilmi is rendered حلمی and carries the sense حلمی، منسوب به حلم."
+        "question": "What does Hossam mean in Persian?",
+        "answer": "In Persian, Hossam is rendered حسام and carries the sense حسام، شمشیر برنده."
       },
       {
-        "question": "How is Hilmi pronounced?",
-        "answer": "A romanized syllable approximation is hil-mi. No IPA transcription is asserted because a verified phonetic transcription was not available."
+        "question": "How is Hossam pronounced?",
+        "answer": "A romanized syllable approximation is hos-sam. No IPA transcription is asserted because a verified phonetic transcription was not available."
       },
       {
-        "question": "What are the variants of Hilmi?",
-        "answer": "Romanization variants include Hilmi, hilmi. Script forms are حلمي, حلمی, حِلْمِي, हिल्मी."
+        "question": "What are the variants of Hossam?",
+        "answer": "Romanization variants include Hossam, hossam. Script forms are حسام, حُسَام, हुसाम."
       },
       {
-        "question": "Is Hilmi a boy's or girl's name?",
+        "question": "Is Hossam a boy's or girl's name?",
         "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Hilmi Name Meaning, Origin & Islamic Cultural Context",
-      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Hilmi (حِلْمِي).",
-      "h1": "Hilmi Name Meaning, Origin and Cultural Background",
-      "focus_keyword": "Hilmi meaning",
+      "title": "Hossam Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Hossam (حُسَام).",
+      "h1": "Hossam Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Hossam meaning",
       "secondary_keywords": [
-        "Hilmi name meaning",
-        "Hilmi meaning in Urdu",
-        "Hilmi origin",
-        "Hilmi Islamic name",
-        "Hilmi pronunciation",
-        "Hilmi name in Urdu"
+        "Hossam name meaning",
+        "Hossam meaning in Urdu",
+        "Hossam origin",
+        "Hossam Islamic name",
+        "Hossam pronunciation",
+        "Hossam name in Urdu"
       ],
       "search_intents": [
         "meaning",
@@ -322,21 +321,21 @@
         "translation",
         "name variants"
       ],
-      "description_paragraph": "Hilmi (حِلْمِي) is associated with the Arabic form حِلْمِي, whose core sense is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "description_paragraph": "Hossam (حُسَام) is associated with the Arabic form حُسَام, whose core sense is hossam; sharp sword. Hossam is Arabic حُسَام (Ḥusām), meaning 'sharp sword'.",
       "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
     },
     "seo_content": {
-      "intro": "Hilmi is associated with the Arabic form حِلْمِي, whose core sense is hilmi; of forbearance (relative form).",
-      "meaning_section": "The central meaning of Hilmi is hilmi; of forbearance (relative form).",
-      "origin_section": "Hilmi is associated with Arabic rather than with a different language.",
-      "islam_section": "Hilmi can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
-      "cultural_section": "The strongest cultural association of Hilmi is with the sense hilmi; of forbearance (relative form).",
+      "intro": "Hossam is associated with the Arabic form حُسَام, whose core sense is hossam; sharp sword.",
+      "meaning_section": "The central meaning of Hossam is hossam; sharp sword.",
+      "origin_section": "Hossam is associated with Arabic rather than with a different language.",
+      "islam_section": "Hossam can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Hossam is with the sense hossam; sharp sword.",
       "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
     },
     "social_tags": [
-      "#Hilmi",
-      "#HilmiMeaning",
-      "#HilmiName",
+      "#Hossam",
+      "#HossamMeaning",
+      "#HossamName",
       "#IslamicNames",
       "#NameMeaning",
       "#NameOrigin"
@@ -365,12 +364,12 @@
     "evidence": {
       "core_claims": [
         {
-          "claim": "Hilmi corresponds to the Arabic form حِلْمِي",
+          "claim": "Hossam corresponds to the Arabic form حُسَام",
           "evidence_type": "lexical",
           "confidence": "high"
         },
         {
-          "claim": "Hilmi has the core sense hilmi; of forbearance (relative form)",
+          "claim": "Hossam has the core sense hossam; sharp sword",
           "evidence_type": "lexical",
           "confidence": "high"
         }
@@ -408,12 +407,12 @@
     "structured_data": {
       "@context": "https://schema.org",
       "@type": "DefinedTerm",
-      "name": "Hilmi",
+      "name": "Hossam",
       "alternateName": [
-        "Hilmi",
-        "hilmi"
+        "Hossam",
+        "hossam"
       ],
-      "description": "A name associated with the Arabic form حِلْمِي, meaning hilmi; of forbearance (relative form).",
+      "description": "A name associated with the Arabic form حُسَام, meaning hossam; sharp sword.",
       "inLanguage": [
         "ar",
         "ur",
@@ -421,7 +420,7 @@
         "hi",
         "ps"
       ],
-      "termCode": "hilmi",
+      "termCode": "hossam",
       "additionalProperty": [
         {
           "@type": "PropertyValue",
@@ -451,7 +450,7 @@
       ],
       "script_labels_required": true,
       "pronunciation_text_available": true,
-      "screen_reader_description": "Hilmi, associated with the Arabic form حِلْمِي, meaning hilmi; of forbearance (relative form)."
+      "screen_reader_description": "Hossam, associated with the Arabic form حُسَام, meaning hossam; sharp sword."
     },
     "editorial_validation": {
       "name_identity_checked": true,

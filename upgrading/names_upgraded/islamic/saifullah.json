@@ -1,44 +1,44 @@
 {
   "success": true,
   "data": {
-    "name": "Hilmi",
-    "slug": "hilmi",
+    "name": "Saifullah",
+    "slug": "saifullah",
     "identity": {
-      "display_name": "Hilmi",
-      "normalized_name": "hilmi",
+      "display_name": "Saifullah",
+      "normalized_name": "saifullah",
       "name_type": "given_name",
       "gender": "Male",
       "gender_confidence": "high",
       "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
       "alternate_spellings": [
-        "Hilmi",
-        "hilmi"
+        "Saifullah",
+        "saifullah"
       ],
       "search_variants": [
-        "Hilmi",
-        "hilmi"
+        "Saifullah",
+        "saifullah"
       ],
       "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
     "core_meaning": {
-      "short_meaning": "Hilmi; of forbearance (relative form)",
-      "primary_meaning": "Hilmi; of forbearance (relative form)",
+      "short_meaning": "Saifullah; sword of God",
+      "primary_meaning": "Saifullah; sword of God",
       "secondary_meanings": [],
-      "literal_meaning": "Hilmi; of forbearance (relative form)",
-      "extended_meaning": "Hilmi; of forbearance (relative form)",
-      "meaning_explanation": "Hilmi corresponds to the Arabic form حِلْمِي (Arabic root ح ل م (ḥ-l-m); حِلْمِيّ (Ḥilmī)). Its core sense is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "literal_meaning": "Saifullah; sword of God",
+      "extended_meaning": "Saifullah; sword of God",
+      "meaning_explanation": "Saifullah corresponds to the Arabic form سَيْفُ اللَّه (Arabic سَيْف (sayf, sword) + اللَّه (Allāh)). Its core sense is saifullah; sword of god. Saifullah is Arabic سَيْفُ اللَّه (Sayf Allāh), meaning 'sword of God'.",
       "meaning_confidence": "high"
     },
     "etymology": {
       "primary_language": "Arabic",
-      "lexical_form": "حِلْمِي",
-      "transliteration": "hilmi",
-      "romanization": "hilmi",
+      "lexical_form": "سَيْفُ اللَّه",
+      "transliteration": "saifullah",
+      "romanization": "saifullah",
       "root_status": "Arabic triliteral root",
       "etymological_meaning": [
-        "Hilmi; of forbearance (relative form)"
+        "Saifullah; sword of God"
       ],
-      "etymology_explanation": "The form حِلْمِي is an established Arabic lexical item. Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "etymology_explanation": "The form سَيْفُ اللَّه is an established Arabic lexical item. Saifullah is Arabic سَيْفُ اللَّه (Sayf Allāh), meaning 'sword of God'.",
       "etymology_confidence": "high",
       "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
@@ -50,11 +50,11 @@
         "Hindi"
       ],
       "language_notes": {
-        "Arabic": "حِلْمِي is an established Arabic form.",
-        "Urdu": "حلمی is used in Urdu.",
-        "Persian": "حلمی is an established Persian form.",
-        "Hindi": "हिल्मी is used in Hindi.",
-        "Pashto": "حلمي is used in Pashto."
+        "Arabic": "سَيْفُ اللَّه is an established Arabic form.",
+        "Urdu": "سیف اللہ is used in Urdu.",
+        "Persian": "سیف‌الله is an established Persian form.",
+        "Hindi": "सैफ़ुल्लाह is used in Hindi.",
+        "Pashto": "سیف الله is used in Pashto."
       },
       "language_confidence": "high"
     },
@@ -62,7 +62,7 @@
       "primary_origin": "Arabic",
       "origin_type": "linguistic",
       "origin_confidence": "high",
-      "origin_explanation": "The name is associated with the Arabic form حِلْمِي. Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "origin_explanation": "The name is associated with the Arabic form سَيْفُ اللَّه. Saifullah is Arabic سَيْفُ اللَّه (Sayf Allāh), meaning 'sword of God'.",
       "cultural_transmission": [
         "Arabic",
         "Muslim South Asia",
@@ -74,11 +74,11 @@
       "religion": "Islam",
       "religion_confidence": "medium",
       "religious_status": "Not inherently an exclusively Islamic word",
-      "religious_explanation": "Hilmi may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "religious_explanation": "Saifullah may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
       "quranic_status": {
         "is_quranic_name": false,
         "quranic_reference": null,
-        "note": "Ḥilmī is not a Quranic personal name."
+        "note": "Saif Allāh is a compound of Arabic elements, not itself a Quranic personal name."
       },
       "hadith_status": {
         "direct_reference": false,
@@ -104,28 +104,28 @@
         "Arabic",
         "Muslim South Asia"
       ],
-      "cultural_meaning": "In the relevant cultures the form is associated with the sense hilmi; of forbearance (relative form).",
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense saifullah; sword of god.",
       "place_name_significance": null,
       "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
       "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
     },
     "semantic_field": {
-      "primary_semantic_domain": "Hilmi; of forbearance (relative form)",
+      "primary_semantic_domain": "Saifullah; sword of God",
       "related_concepts": [
-        "hilmi; of forbearance (relative form)"
+        "saifullah; sword of god"
       ],
-      "semantic_relationship": "The central semantic idea is hilmi; of forbearance (relative form); other senses are extended associations."
+      "semantic_relationship": "The central semantic idea is saifullah; sword of god; other senses are extended associations."
     },
     "spiritual_meaning": {
       "status": "interpretive",
-      "meaning": "A life that reflects the positive sense of hilmi; of forbearance (relative form).",
+      "meaning": "A life that reflects the positive sense of saifullah; sword of god.",
       "is_direct_religious_definition": false,
       "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
     },
     "personality_associations": {
       "status": "symbolic_only",
       "traits": [
-        "Hilmi; of forbearance (relative form)"
+        "Saifullah; sword of god"
       ],
       "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
     },
@@ -151,38 +151,38 @@
     },
     "translations": {
       "english": {
-        "name": "Hilmi",
-        "meaning": "Hilmi; of forbearance (relative form)",
-        "long_meaning": "Hilmi is a Arabic-origin name. Its core meaning is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name."
+        "name": "Saifullah",
+        "meaning": "Saifullah; sword of God",
+        "long_meaning": "Saifullah is a Arabic-origin name. Its core meaning is saifullah; sword of god. Saifullah is Arabic سَيْفُ اللَّه (Sayf Allāh), meaning 'sword of God'."
       },
       "urdu": {
-        "name": "حلمی",
-        "meaning": "حلمی، بردباری سے منسوب",
-        "long_meaning": "Hilmi (حلمی) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم حلمی، بردباری سے منسوب ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "name": "سیف اللہ",
+        "meaning": "سیف اللہ، اللہ کی تلوار",
+        "long_meaning": "Saifullah (سیف اللہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم سیف اللہ، اللہ کی تلوار ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
         "translation_status": "verified"
       },
       "persian": {
-        "name": "حلمی",
-        "meaning": "حلمی، منسوب به حلم",
-        "long_meaning": "Hilmi (حلمی) نامی برگرفته از زبان عربی است و معنای اصلی آن حلمی، منسوب به حلم است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "name": "سیف‌الله",
+        "meaning": "سیف‌الله، شمشیر خدا",
+        "long_meaning": "Saifullah (سیف‌الله) نامی برگرفته از زبان عربی است و معنای اصلی آن سیف‌الله، شمشیر خدا است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
         "translation_status": "verified"
       },
       "hindi": {
-        "name": "हिल्मी",
-        "meaning": "हिल्मी, सहनशीलता से संबंधित",
-        "long_meaning": "Hilmi (हिल्मी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ हिल्मी, सहनशीलता से संबंधित है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "name": "सैफ़ुल्लाह",
+        "meaning": "सैफ़ुल्लाह, ईश्वर की तलवार",
+        "long_meaning": "Saifullah (सैफ़ुल्लाह) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ सैफ़ुल्लाह, ईश्वर की तलवार है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
         "translation_status": "verified"
       },
       "pashto": {
-        "name": "حلمي",
-        "meaning": "حلمي، د حلم منسوب",
-        "long_meaning": "Hilmi (حلمي) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې حلمي، د حلم منسوب ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "name": "سیف الله",
+        "meaning": "سیف الله، د الله توره",
+        "long_meaning": "Saifullah (سیف الله) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې سیف الله، د الله توره ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
         "translation_status": "verified"
       },
       "arabic": {
-        "name": "حِلْمِي",
-        "meaning": "حِلْمِيّ، مَنْسُوبٌ إِلَى الْحِلْم",
-        "long_meaning": "Hilmi (حِلْمِي) اسم مأخوذ من اللغة العربية، ومعناه الأساسي حِلْمِيّ، مَنْسُوبٌ إِلَى الْحِلْم. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "name": "سَيْفُ اللَّه",
+        "meaning": "سَيْفُ اللَّه، سَيْفُ اللَّه",
+        "long_meaning": "Saifullah (سَيْفُ اللَّه) اسم مأخوذ من اللغة العربية، ومعناه الأساسي سَيْفُ اللَّه، سَيْفُ اللَّه. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
         "translation_status": "verified"
       }
     },
@@ -192,31 +192,32 @@
       "confidence": "high"
     },
     "pronunciation": {
-      "romanized": "hil-mi",
+      "romanized": "sai-ful-lah",
       "ipa": null,
       "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
-      "urdu": "حلمی",
-      "persian": "حلمی",
-      "hindi": "हिल्मी",
-      "pashto": "حلمي"
+      "urdu": "سیف اللہ",
+      "persian": "سیف‌الله",
+      "hindi": "सैफ़ुल्लाह",
+      "pashto": "سیف الله"
     },
     "name_variants": {
       "romanized_variants": [
-        "Hilmi",
-        "hilmi"
+        "Saifullah",
+        "saifullah"
       ],
       "script_variants": [
-        "حلمي",
-        "حلمی",
-        "حِلْمِي",
-        "हिल्मी"
+        "سَيْفُ اللَّه",
+        "سیف الله",
+        "سیف اللہ",
+        "سیف‌الله",
+        "सैफ़ुल्लाह"
       ],
       "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
       "do_not_merge_with": []
     },
     "historical_context": {
       "known_linguistic_history": [
-        "The form حِلْمِي is an established Arabic lexical item."
+        "The form سَيْفُ اللَّه is an established Arabic lexical item."
       ],
       "historical_person_association": null,
       "historical_event_association": null,
@@ -254,63 +255,63 @@
     },
     "name_story": {
       "type": "editorial_interpretation",
-      "story": "Hilmi can be understood through the Arabic form حِلْمِي, whose central sense is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "story": "Saifullah can be understood through the Arabic form سَيْفُ اللَّه, whose central sense is saifullah; sword of god. Saifullah is Arabic سَيْفُ اللَّه (Sayf Allāh), meaning 'sword of God'.",
       "is_fictional": false
     },
     "faq": [
       {
-        "question": "What does Hilmi mean?",
-        "answer": "Hilmi is associated with the Arabic form حِلْمِي, whose core sense is hilmi; of forbearance (relative form)."
+        "question": "What does Saifullah mean?",
+        "answer": "Saifullah is associated with the Arabic form سَيْفُ اللَّه, whose core sense is saifullah; sword of god."
       },
       {
-        "question": "What is the origin of Hilmi?",
-        "answer": "Hilmi is associated with Arabic. Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name."
+        "question": "What is the origin of Saifullah?",
+        "answer": "Saifullah is associated with Arabic. Saifullah is Arabic سَيْفُ اللَّه (Sayf Allāh), meaning 'sword of God'."
       },
       {
-        "question": "Is Hilmi an Arabic name?",
-        "answer": "Yes — the underlying form حِلْمِي is Arabic."
+        "question": "Is Saifullah an Arabic name?",
+        "answer": "Yes — the underlying form سَيْفُ اللَّه is Arabic."
       },
       {
-        "question": "Is Hilmi an Islamic name?",
-        "answer": "Hilmi can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+        "question": "Is Saifullah an Islamic name?",
+        "answer": "Saifullah can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "question": "Is Hilmi a Quranic name?",
-        "answer": "Hilmi should not be classified as a Quranic personal name without a direct Quranic basis. Ḥilmī is not a Quranic personal name."
+        "question": "Is Saifullah a Quranic name?",
+        "answer": "Saifullah should not be classified as a Quranic personal name without a direct Quranic basis. Saif Allāh is a compound of Arabic elements, not itself a Quranic personal name."
       },
       {
-        "question": "What does Hilmi mean in Urdu?",
-        "answer": "In Urdu, Hilmi is rendered حلمی and carries the sense حلمی، بردباری سے منسوب."
+        "question": "What does Saifullah mean in Urdu?",
+        "answer": "In Urdu, Saifullah is rendered سیف اللہ and carries the sense سیف اللہ، اللہ کی تلوار."
       },
       {
-        "question": "What does Hilmi mean in Persian?",
-        "answer": "In Persian, Hilmi is rendered حلمی and carries the sense حلمی، منسوب به حلم."
+        "question": "What does Saifullah mean in Persian?",
+        "answer": "In Persian, Saifullah is rendered سیف‌الله and carries the sense سیف‌الله، شمشیر خدا."
       },
       {
-        "question": "How is Hilmi pronounced?",
-        "answer": "A romanized syllable approximation is hil-mi. No IPA transcription is asserted because a verified phonetic transcription was not available."
+        "question": "How is Saifullah pronounced?",
+        "answer": "A romanized syllable approximation is sai-ful-lah. No IPA transcription is asserted because a verified phonetic transcription was not available."
       },
       {
-        "question": "What are the variants of Hilmi?",
-        "answer": "Romanization variants include Hilmi, hilmi. Script forms are حلمي, حلمی, حِلْمِي, हिल्मी."
+        "question": "What are the variants of Saifullah?",
+        "answer": "Romanization variants include Saifullah, saifullah. Script forms are سَيْفُ اللَّه, سیف الله, سیف اللہ, سیف‌الله, सैफ़ुल्लाह."
       },
       {
-        "question": "Is Hilmi a boy's or girl's name?",
+        "question": "Is Saifullah a boy's or girl's name?",
         "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Hilmi Name Meaning, Origin & Islamic Cultural Context",
-      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Hilmi (حِلْمِي).",
-      "h1": "Hilmi Name Meaning, Origin and Cultural Background",
-      "focus_keyword": "Hilmi meaning",
+      "title": "Saifullah Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Saifullah (سَيْفُ اللَّه).",
+      "h1": "Saifullah Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Saifullah meaning",
       "secondary_keywords": [
-        "Hilmi name meaning",
-        "Hilmi meaning in Urdu",
-        "Hilmi origin",
-        "Hilmi Islamic name",
-        "Hilmi pronunciation",
-        "Hilmi name in Urdu"
+        "Saifullah name meaning",
+        "Saifullah meaning in Urdu",
+        "Saifullah origin",
+        "Saifullah Islamic name",
+        "Saifullah pronunciation",
+        "Saifullah name in Urdu"
       ],
       "search_intents": [
         "meaning",
@@ -322,21 +323,21 @@
         "translation",
         "name variants"
       ],
-      "description_paragraph": "Hilmi (حِلْمِي) is associated with the Arabic form حِلْمِي, whose core sense is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "description_paragraph": "Saifullah (سَيْفُ اللَّه) is associated with the Arabic form سَيْفُ اللَّه, whose core sense is saifullah; sword of god. Saifullah is Arabic سَيْفُ اللَّه (Sayf Allāh), meaning 'sword of God'.",
       "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
     },
     "seo_content": {
-      "intro": "Hilmi is associated with the Arabic form حِلْمِي, whose core sense is hilmi; of forbearance (relative form).",
-      "meaning_section": "The central meaning of Hilmi is hilmi; of forbearance (relative form).",
-      "origin_section": "Hilmi is associated with Arabic rather than with a different language.",
-      "islam_section": "Hilmi can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
-      "cultural_section": "The strongest cultural association of Hilmi is with the sense hilmi; of forbearance (relative form).",
+      "intro": "Saifullah is associated with the Arabic form سَيْفُ اللَّه, whose core sense is saifullah; sword of god.",
+      "meaning_section": "The central meaning of Saifullah is saifullah; sword of god.",
+      "origin_section": "Saifullah is associated with Arabic rather than with a different language.",
+      "islam_section": "Saifullah can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Saifullah is with the sense saifullah; sword of god.",
       "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
     },
     "social_tags": [
-      "#Hilmi",
-      "#HilmiMeaning",
-      "#HilmiName",
+      "#Saifullah",
+      "#SaifullahMeaning",
+      "#SaifullahName",
       "#IslamicNames",
       "#NameMeaning",
       "#NameOrigin"
@@ -365,12 +366,12 @@
     "evidence": {
       "core_claims": [
         {
-          "claim": "Hilmi corresponds to the Arabic form حِلْمِي",
+          "claim": "Saifullah corresponds to the Arabic form سَيْفُ اللَّه",
           "evidence_type": "lexical",
           "confidence": "high"
         },
         {
-          "claim": "Hilmi has the core sense hilmi; of forbearance (relative form)",
+          "claim": "Saifullah has the core sense saifullah; sword of god",
           "evidence_type": "lexical",
           "confidence": "high"
         }
@@ -408,12 +409,12 @@
     "structured_data": {
       "@context": "https://schema.org",
       "@type": "DefinedTerm",
-      "name": "Hilmi",
+      "name": "Saifullah",
       "alternateName": [
-        "Hilmi",
-        "hilmi"
+        "Saifullah",
+        "saifullah"
       ],
-      "description": "A name associated with the Arabic form حِلْمِي, meaning hilmi; of forbearance (relative form).",
+      "description": "A name associated with the Arabic form سَيْفُ اللَّه, meaning saifullah; sword of god.",
       "inLanguage": [
         "ar",
         "ur",
@@ -421,7 +422,7 @@
         "hi",
         "ps"
       ],
-      "termCode": "hilmi",
+      "termCode": "saifullah",
       "additionalProperty": [
         {
           "@type": "PropertyValue",
@@ -451,7 +452,7 @@
       ],
       "script_labels_required": true,
       "pronunciation_text_available": true,
-      "screen_reader_description": "Hilmi, associated with the Arabic form حِلْمِي, meaning hilmi; of forbearance (relative form)."
+      "screen_reader_description": "Saifullah, associated with the Arabic form سَيْفُ اللَّه, meaning saifullah; sword of god."
     },
     "editorial_validation": {
       "name_identity_checked": true,

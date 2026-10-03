@@ -1,46 +1,46 @@
 {
   "success": true,
   "data": {
-    "name": "Hilmi",
-    "slug": "hilmi",
+    "name": "Alanoud",
+    "slug": "alanoud",
     "identity": {
-      "display_name": "Hilmi",
-      "normalized_name": "hilmi",
+      "display_name": "Alanoud",
+      "normalized_name": "alanoud",
       "name_type": "given_name",
-      "gender": "Male",
-      "gender_confidence": "high",
+      "gender": "Female",
+      "gender_confidence": "low",
       "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
       "alternate_spellings": [
-        "Hilmi",
-        "hilmi"
+        "Alanoud",
+        "alanoud"
       ],
       "search_variants": [
-        "Hilmi",
-        "hilmi"
+        "Alanoud",
+        "alanoud"
       ],
       "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
     "core_meaning": {
-      "short_meaning": "Hilmi; of forbearance (relative form)",
-      "primary_meaning": "Hilmi; of forbearance (relative form)",
+      "short_meaning": "Alanoud; a female given name",
+      "primary_meaning": "Alanoud; a female given name",
       "secondary_meanings": [],
-      "literal_meaning": "Hilmi; of forbearance (relative form)",
-      "extended_meaning": "Hilmi; of forbearance (relative form)",
-      "meaning_explanation": "Hilmi corresponds to the Arabic form حِلْمِي (Arabic root ح ل م (ḥ-l-m); حِلْمِيّ (Ḥilmī)). Its core sense is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
-      "meaning_confidence": "high"
+      "literal_meaning": "Alanoud; a female given name",
+      "extended_meaning": "Alanoud; a female given name",
+      "meaning_explanation": "Alanoud corresponds to the Arabic form أَلَانُود (Arabic أَلَانُود (Alānūd)). Its core sense is alanoud; a female given name. Alanoud is a feminine given name used in the Gulf. No confident lexical sense could be established, so no meaning is asserted.",
+      "meaning_confidence": "low"
     },
     "etymology": {
       "primary_language": "Arabic",
-      "lexical_form": "حِلْمِي",
-      "transliteration": "hilmi",
-      "romanization": "hilmi",
+      "lexical_form": "أَلَانُود",
+      "transliteration": "alanoud",
+      "romanization": "alanoud",
       "root_status": "Arabic triliteral root",
       "etymological_meaning": [
-        "Hilmi; of forbearance (relative form)"
+        "Alanoud; a female given name"
       ],
-      "etymology_explanation": "The form حِلْمِي is an established Arabic lexical item. Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
-      "etymology_confidence": "high",
-      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
+      "etymology_explanation": "The form أَلَانُود is an established Arabic lexical item. Alanoud is a feminine given name used in the Gulf. No confident lexical sense could be established, so no meaning is asserted.",
+      "etymology_confidence": "low",
+      "false_etymology_warning": "The identification of this form is uncertain; no confident etymology is asserted."
     },
     "language": {
       "primary": "Arabic",
@@ -50,19 +50,19 @@
         "Hindi"
       ],
       "language_notes": {
-        "Arabic": "حِلْمِي is an established Arabic form.",
-        "Urdu": "حلمی is used in Urdu.",
-        "Persian": "حلمی is an established Persian form.",
-        "Hindi": "हिल्मी is used in Hindi.",
-        "Pashto": "حلمي is used in Pashto."
+        "Arabic": "أَلَانُود is an established Arabic form.",
+        "Urdu": "الانود is used in Urdu.",
+        "Persian": "الانود is an established Persian form.",
+        "Hindi": "अलानूद is used in Hindi.",
+        "Pashto": "الانود is used in Pashto."
       },
-      "language_confidence": "high"
+      "language_confidence": "low"
     },
     "origin": {
       "primary_origin": "Arabic",
       "origin_type": "linguistic",
-      "origin_confidence": "high",
-      "origin_explanation": "The name is associated with the Arabic form حِلْمِي. Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "origin_confidence": "low",
+      "origin_explanation": "The name is associated with the Arabic form أَلَانُود. Alanoud is a feminine given name used in the Gulf. No confident lexical sense could be established, so no meaning is asserted.",
       "cultural_transmission": [
         "Arabic",
         "Muslim South Asia",
@@ -74,11 +74,11 @@
       "religion": "Islam",
       "religion_confidence": "medium",
       "religious_status": "Not inherently an exclusively Islamic word",
-      "religious_explanation": "Hilmi may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "religious_explanation": "Alanoud may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
       "quranic_status": {
         "is_quranic_name": false,
         "quranic_reference": null,
-        "note": "Ḥilmī is not a Quranic personal name."
+        "note": "Alānūd is not a Quranic personal name."
       },
       "hadith_status": {
         "direct_reference": false,
@@ -104,28 +104,28 @@
         "Arabic",
         "Muslim South Asia"
       ],
-      "cultural_meaning": "In the relevant cultures the form is associated with the sense hilmi; of forbearance (relative form).",
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense alanoud; a female given name.",
       "place_name_significance": null,
       "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
       "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
     },
     "semantic_field": {
-      "primary_semantic_domain": "Hilmi; of forbearance (relative form)",
+      "primary_semantic_domain": "Alanoud; a female given name",
       "related_concepts": [
-        "hilmi; of forbearance (relative form)"
+        "alanoud; a female given name"
       ],
-      "semantic_relationship": "The central semantic idea is hilmi; of forbearance (relative form); other senses are extended associations."
+      "semantic_relationship": "The central semantic idea is alanoud; a female given name; other senses are extended associations."
     },
     "spiritual_meaning": {
       "status": "interpretive",
-      "meaning": "A life that reflects the positive sense of hilmi; of forbearance (relative form).",
+      "meaning": "A life that reflects the positive sense of alanoud; a female given name.",
       "is_direct_religious_definition": false,
       "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
     },
     "personality_associations": {
       "status": "symbolic_only",
       "traits": [
-        "Hilmi; of forbearance (relative form)"
+        "Alanoud; a female given name"
       ],
       "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
     },
@@ -151,76 +151,75 @@
     },
     "translations": {
       "english": {
-        "name": "Hilmi",
-        "meaning": "Hilmi; of forbearance (relative form)",
-        "long_meaning": "Hilmi is a Arabic-origin name. Its core meaning is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name."
+        "name": "Alanoud",
+        "meaning": "Alanoud; a female given name",
+        "long_meaning": "Alanoud is a Arabic-origin name. Its core meaning is alanoud; a female given name. Alanoud is a feminine given name used in the Gulf. No confident lexical sense could be established, so no meaning is asserted."
       },
       "urdu": {
-        "name": "حلمی",
-        "meaning": "حلمی، بردباری سے منسوب",
-        "long_meaning": "Hilmi (حلمی) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم حلمی، بردباری سے منسوب ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "name": "الانود",
+        "meaning": "الانود (زنانہ نام)",
+        "long_meaning": "Alanoud (الانود) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم الانود (زنانہ نام) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
         "translation_status": "verified"
       },
       "persian": {
-        "name": "حلمی",
-        "meaning": "حلمی، منسوب به حلم",
-        "long_meaning": "Hilmi (حلمی) نامی برگرفته از زبان عربی است و معنای اصلی آن حلمی، منسوب به حلم است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "name": "الانود",
+        "meaning": "الانود (نام زنانہ)",
+        "long_meaning": "Alanoud (الانود) نامی برگرفته از زبان عربی است و معنای اصلی آن الانود (نام زنانہ) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
         "translation_status": "verified"
       },
       "hindi": {
-        "name": "हिल्मी",
-        "meaning": "हिल्मी, सहनशीलता से संबंधित",
-        "long_meaning": "Hilmi (हिल्मी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ हिल्मी, सहनशीलता से संबंधित है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "name": "अलानूद",
+        "meaning": "अलानूद (स्त्री नाम)",
+        "long_meaning": "Alanoud (अलानूद) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ अलानूद (स्त्री नाम) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
         "translation_status": "verified"
       },
       "pashto": {
-        "name": "حلمي",
-        "meaning": "حلمي، د حلم منسوب",
-        "long_meaning": "Hilmi (حلمي) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې حلمي، د حلم منسوب ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "name": "الانود",
+        "meaning": "الانود (ښځينه نوم)",
+        "long_meaning": "Alanoud (الانود) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې الانود (ښځينه نوم) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
         "translation_status": "verified"
       },
       "arabic": {
-        "name": "حِلْمِي",
-        "meaning": "حِلْمِيّ، مَنْسُوبٌ إِلَى الْحِلْم",
-        "long_meaning": "Hilmi (حِلْمِي) اسم مأخوذ من اللغة العربية، ومعناه الأساسي حِلْمِيّ، مَنْسُوبٌ إِلَى الْحِلْم. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "name": "أَلَانُود",
+        "meaning": "أَلَانُود (اسْم عَلَم مُؤَنَّث)",
+        "long_meaning": "Alanoud (أَلَانُود) اسم مأخوذ من اللغة العربية، ومعناه الأساسي أَلَانُود (اسْم عَلَم مُؤَنَّث). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
         "translation_status": "verified"
       }
     },
     "translation_quality": {
       "strategy": "semantic_translation",
       "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
-      "confidence": "high"
+      "confidence": "low"
     },
     "pronunciation": {
-      "romanized": "hil-mi",
+      "romanized": "a-la-noud",
       "ipa": null,
       "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
-      "urdu": "حلمی",
-      "persian": "حلمی",
-      "hindi": "हिल्मी",
-      "pashto": "حلمي"
+      "urdu": "الانود",
+      "persian": "الانود",
+      "hindi": "अलानूद",
+      "pashto": "الانود"
     },
     "name_variants": {
       "romanized_variants": [
-        "Hilmi",
-        "hilmi"
+        "Alanoud",
+        "alanoud"
       ],
       "script_variants": [
-        "حلمي",
-        "حلمی",
-        "حِلْمِي",
-        "हिल्मी"
+        "أَلَانُود",
+        "الانود",
+        "अलानूद"
       ],
       "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
       "do_not_merge_with": []
     },
     "historical_context": {
       "known_linguistic_history": [
-        "The form حِلْمِي is an established Arabic lexical item."
+        "The form أَلَانُود is an established Arabic lexical item."
       ],
       "historical_person_association": null,
       "historical_event_association": null,
-      "historical_claim_confidence": "high",
+      "historical_claim_confidence": "low",
       "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
     },
     "modern_usage": {
@@ -254,63 +253,63 @@
     },
     "name_story": {
       "type": "editorial_interpretation",
-      "story": "Hilmi can be understood through the Arabic form حِلْمِي, whose central sense is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "story": "Alanoud can be understood through the Arabic form أَلَانُود, whose central sense is alanoud; a female given name. Alanoud is a feminine given name used in the Gulf. No confident lexical sense could be established, so no meaning is asserted.",
       "is_fictional": false
     },
     "faq": [
       {
-        "question": "What does Hilmi mean?",
-        "answer": "Hilmi is associated with the Arabic form حِلْمِي, whose core sense is hilmi; of forbearance (relative form)."
+        "question": "What does Alanoud mean?",
+        "answer": "Alanoud is associated with the Arabic form أَلَانُود, whose core sense is alanoud; a female given name."
       },
       {
-        "question": "What is the origin of Hilmi?",
-        "answer": "Hilmi is associated with Arabic. Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name."
+        "question": "What is the origin of Alanoud?",
+        "answer": "Alanoud is associated with Arabic. Alanoud is a feminine given name used in the Gulf. No confident lexical sense could be established, so no meaning is asserted."
       },
       {
-        "question": "Is Hilmi an Arabic name?",
-        "answer": "Yes — the underlying form حِلْمِي is Arabic."
+        "question": "Is Alanoud an Arabic name?",
+        "answer": "Yes — the underlying form أَلَانُود is Arabic."
       },
       {
-        "question": "Is Hilmi an Islamic name?",
-        "answer": "Hilmi can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+        "question": "Is Alanoud an Islamic name?",
+        "answer": "Alanoud can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "question": "Is Hilmi a Quranic name?",
-        "answer": "Hilmi should not be classified as a Quranic personal name without a direct Quranic basis. Ḥilmī is not a Quranic personal name."
+        "question": "Is Alanoud a Quranic name?",
+        "answer": "Alanoud should not be classified as a Quranic personal name without a direct Quranic basis. Alānūd is not a Quranic personal name."
       },
       {
-        "question": "What does Hilmi mean in Urdu?",
-        "answer": "In Urdu, Hilmi is rendered حلمی and carries the sense حلمی، بردباری سے منسوب."
+        "question": "What does Alanoud mean in Urdu?",
+        "answer": "In Urdu, Alanoud is rendered الانود and carries the sense الانود (زنانہ نام)."
       },
       {
-        "question": "What does Hilmi mean in Persian?",
-        "answer": "In Persian, Hilmi is rendered حلمی and carries the sense حلمی، منسوب به حلم."
+        "question": "What does Alanoud mean in Persian?",
+        "answer": "In Persian, Alanoud is rendered الانود and carries the sense الانود (نام زنانہ)."
       },
       {
-        "question": "How is Hilmi pronounced?",
-        "answer": "A romanized syllable approximation is hil-mi. No IPA transcription is asserted because a verified phonetic transcription was not available."
+        "question": "How is Alanoud pronounced?",
+        "answer": "A romanized syllable approximation is a-la-noud. No IPA transcription is asserted because a verified phonetic transcription was not available."
       },
       {
-        "question": "What are the variants of Hilmi?",
-        "answer": "Romanization variants include Hilmi, hilmi. Script forms are حلمي, حلمی, حِلْمِي, हिल्मी."
+        "question": "What are the variants of Alanoud?",
+        "answer": "Romanization variants include Alanoud, alanoud. Script forms are أَلَانُود, الانود, अलानूद."
       },
       {
-        "question": "Is Hilmi a boy's or girl's name?",
-        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+        "question": "Is Alanoud a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Hilmi Name Meaning, Origin & Islamic Cultural Context",
-      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Hilmi (حِلْمِي).",
-      "h1": "Hilmi Name Meaning, Origin and Cultural Background",
-      "focus_keyword": "Hilmi meaning",
+      "title": "Alanoud Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Alanoud (أَلَانُود).",
+      "h1": "Alanoud Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Alanoud meaning",
       "secondary_keywords": [
-        "Hilmi name meaning",
-        "Hilmi meaning in Urdu",
-        "Hilmi origin",
-        "Hilmi Islamic name",
-        "Hilmi pronunciation",
-        "Hilmi name in Urdu"
+        "Alanoud name meaning",
+        "Alanoud meaning in Urdu",
+        "Alanoud origin",
+        "Alanoud Islamic name",
+        "Alanoud pronunciation",
+        "Alanoud name in Urdu"
       ],
       "search_intents": [
         "meaning",
@@ -322,31 +321,31 @@
         "translation",
         "name variants"
       ],
-      "description_paragraph": "Hilmi (حِلْمِي) is associated with the Arabic form حِلْمِي, whose core sense is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "description_paragraph": "Alanoud (أَلَانُود) is associated with the Arabic form أَلَانُود, whose core sense is alanoud; a female given name. Alanoud is a feminine given name used in the Gulf. No confident lexical sense could be established, so no meaning is asserted.",
       "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
     },
     "seo_content": {
-      "intro": "Hilmi is associated with the Arabic form حِلْمِي, whose core sense is hilmi; of forbearance (relative form).",
-      "meaning_section": "The central meaning of Hilmi is hilmi; of forbearance (relative form).",
-      "origin_section": "Hilmi is associated with Arabic rather than with a different language.",
-      "islam_section": "Hilmi can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
-      "cultural_section": "The strongest cultural association of Hilmi is with the sense hilmi; of forbearance (relative form).",
+      "intro": "Alanoud is associated with the Arabic form أَلَانُود, whose core sense is alanoud; a female given name.",
+      "meaning_section": "The central meaning of Alanoud is alanoud; a female given name.",
+      "origin_section": "Alanoud is associated with Arabic rather than with a different language.",
+      "islam_section": "Alanoud can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Alanoud is with the sense alanoud; a female given name.",
       "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
     },
     "social_tags": [
-      "#Hilmi",
-      "#HilmiMeaning",
-      "#HilmiName",
+      "#Alanoud",
+      "#AlanoudMeaning",
+      "#AlanoudName",
       "#IslamicNames",
       "#NameMeaning",
       "#NameOrigin"
     ],
     "content_quality": {
-      "overall_status": "high",
-      "linguistic_authenticity": "high",
-      "etymological_authenticity": "high",
-      "meaning_authenticity": "high",
-      "translation_quality": "high",
+      "overall_status": "low",
+      "linguistic_authenticity": "low",
+      "etymological_authenticity": "low",
+      "meaning_authenticity": "low",
+      "translation_quality": "low",
       "religious_claim_safety": "high",
       "historical_claim_safety": "high",
       "cultural_accuracy": "medium",
@@ -365,14 +364,14 @@
     "evidence": {
       "core_claims": [
         {
-          "claim": "Hilmi corresponds to the Arabic form حِلْمِي",
+          "claim": "Alanoud corresponds to the Arabic form أَلَانُود",
           "evidence_type": "lexical",
-          "confidence": "high"
+          "confidence": "low"
         },
         {
-          "claim": "Hilmi has the core sense hilmi; of forbearance (relative form)",
+          "claim": "Alanoud has the core sense alanoud; a female given name",
           "evidence_type": "lexical",
-          "confidence": "high"
+          "confidence": "low"
         }
       ],
       "claims_requiring_external_dataset": [
@@ -408,12 +407,12 @@
     "structured_data": {
       "@context": "https://schema.org",
       "@type": "DefinedTerm",
-      "name": "Hilmi",
+      "name": "Alanoud",
       "alternateName": [
-        "Hilmi",
-        "hilmi"
+        "Alanoud",
+        "alanoud"
       ],
-      "description": "A name associated with the Arabic form حِلْمِي, meaning hilmi; of forbearance (relative form).",
+      "description": "A name associated with the Arabic form أَلَانُود, meaning alanoud; a female given name.",
       "inLanguage": [
         "ar",
         "ur",
@@ -421,7 +420,7 @@
         "hi",
         "ps"
       ],
-      "termCode": "hilmi",
+      "termCode": "alanoud",
       "additionalProperty": [
         {
           "@type": "PropertyValue",
@@ -431,7 +430,7 @@
         {
           "@type": "PropertyValue",
           "name": "Gender",
-          "value": "Male"
+          "value": "Female"
         },
         {
           "@type": "PropertyValue",
@@ -451,7 +450,7 @@
       ],
       "script_labels_required": true,
       "pronunciation_text_available": true,
-      "screen_reader_description": "Hilmi, associated with the Arabic form حِلْمِي, meaning hilmi; of forbearance (relative form)."
+      "screen_reader_description": "Alanoud, associated with the Arabic form أَلَانُود, meaning alanoud; a female given name."
     },
     "editorial_validation": {
       "name_identity_checked": true,

@@ -1,44 +1,44 @@
 {
   "success": true,
   "data": {
-    "name": "Hilmi",
-    "slug": "hilmi",
+    "name": "Umair",
+    "slug": "umair",
     "identity": {
-      "display_name": "Hilmi",
-      "normalized_name": "hilmi",
+      "display_name": "Umair",
+      "normalized_name": "umair",
       "name_type": "given_name",
       "gender": "Male",
       "gender_confidence": "high",
       "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
       "alternate_spellings": [
-        "Hilmi",
-        "hilmi"
+        "Umair",
+        "umair"
       ],
       "search_variants": [
-        "Hilmi",
-        "hilmi"
+        "Umair",
+        "umair"
       ],
       "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
     "core_meaning": {
-      "short_meaning": "Hilmi; of forbearance (relative form)",
-      "primary_meaning": "Hilmi; of forbearance (relative form)",
+      "short_meaning": "Umair; diminutive of Umar",
+      "primary_meaning": "Umair; diminutive of Umar",
       "secondary_meanings": [],
-      "literal_meaning": "Hilmi; of forbearance (relative form)",
-      "extended_meaning": "Hilmi; of forbearance (relative form)",
-      "meaning_explanation": "Hilmi corresponds to the Arabic form حِلْمِي (Arabic root ح ل م (ḥ-l-m); حِلْمِيّ (Ḥilmī)). Its core sense is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "literal_meaning": "Umair; diminutive of Umar",
+      "extended_meaning": "Umair; diminutive of Umar",
+      "meaning_explanation": "Umair corresponds to the Arabic form عُمَيْر (Arabic root ع م ر (ʿ-m-r); عُمَيْر (ʿUmayr)). Its core sense is umair; diminutive of umar. Umair is Arabic عُمَيْر (ʿUmayr), the diminutive of عُمَر (ʿUmar).",
       "meaning_confidence": "high"
     },
     "etymology": {
       "primary_language": "Arabic",
-      "lexical_form": "حِلْمِي",
-      "transliteration": "hilmi",
-      "romanization": "hilmi",
+      "lexical_form": "عُمَيْر",
+      "transliteration": "umair",
+      "romanization": "umair",
       "root_status": "Arabic triliteral root",
       "etymological_meaning": [
-        "Hilmi; of forbearance (relative form)"
+        "Umair; diminutive of Umar"
       ],
-      "etymology_explanation": "The form حِلْمِي is an established Arabic lexical item. Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "etymology_explanation": "The form عُمَيْر is an established Arabic lexical item. Umair is Arabic عُمَيْر (ʿUmayr), the diminutive of عُمَر (ʿUmar).",
       "etymology_confidence": "high",
       "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
@@ -50,11 +50,11 @@
         "Hindi"
       ],
       "language_notes": {
-        "Arabic": "حِلْمِي is an established Arabic form.",
-        "Urdu": "حلمی is used in Urdu.",
-        "Persian": "حلمی is an established Persian form.",
-        "Hindi": "हिल्मी is used in Hindi.",
-        "Pashto": "حلمي is used in Pashto."
+        "Arabic": "عُمَيْر is an established Arabic form.",
+        "Urdu": "عمیر is used in Urdu.",
+        "Persian": "عمیر is an established Persian form.",
+        "Hindi": "उमैर is used in Hindi.",
+        "Pashto": "عمير is used in Pashto."
       },
       "language_confidence": "high"
     },
@@ -62,7 +62,7 @@
       "primary_origin": "Arabic",
       "origin_type": "linguistic",
       "origin_confidence": "high",
-      "origin_explanation": "The name is associated with the Arabic form حِلْمِي. Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "origin_explanation": "The name is associated with the Arabic form عُمَيْر. Umair is Arabic عُمَيْر (ʿUmayr), the diminutive of عُمَر (ʿUmar).",
       "cultural_transmission": [
         "Arabic",
         "Muslim South Asia",
@@ -74,11 +74,11 @@
       "religion": "Islam",
       "religion_confidence": "medium",
       "religious_status": "Not inherently an exclusively Islamic word",
-      "religious_explanation": "Hilmi may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "religious_explanation": "Umair may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
       "quranic_status": {
         "is_quranic_name": false,
         "quranic_reference": null,
-        "note": "Ḥilmī is not a Quranic personal name."
+        "note": "ʿUmayr is not a Quranic personal name."
       },
       "hadith_status": {
         "direct_reference": false,
@@ -104,28 +104,28 @@
         "Arabic",
         "Muslim South Asia"
       ],
-      "cultural_meaning": "In the relevant cultures the form is associated with the sense hilmi; of forbearance (relative form).",
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense umair; diminutive of umar.",
       "place_name_significance": null,
       "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
       "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
     },
     "semantic_field": {
-      "primary_semantic_domain": "Hilmi; of forbearance (relative form)",
+      "primary_semantic_domain": "Umair; diminutive of Umar",
       "related_concepts": [
-        "hilmi; of forbearance (relative form)"
+        "umair; diminutive of umar"
       ],
-      "semantic_relationship": "The central semantic idea is hilmi; of forbearance (relative form); other senses are extended associations."
+      "semantic_relationship": "The central semantic idea is umair; diminutive of umar; other senses are extended associations."
     },
     "spiritual_meaning": {
       "status": "interpretive",
-      "meaning": "A life that reflects the positive sense of hilmi; of forbearance (relative form).",
+      "meaning": "A life that reflects the positive sense of umair; diminutive of umar.",
       "is_direct_religious_definition": false,
       "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
     },
     "personality_associations": {
       "status": "symbolic_only",
       "traits": [
-        "Hilmi; of forbearance (relative form)"
+        "Umair; diminutive of umar"
       ],
       "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
     },
@@ -151,38 +151,38 @@
     },
     "translations": {
       "english": {
-        "name": "Hilmi",
-        "meaning": "Hilmi; of forbearance (relative form)",
-        "long_meaning": "Hilmi is a Arabic-origin name. Its core meaning is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name."
+        "name": "Umair",
+        "meaning": "Umair; diminutive of Umar",
+        "long_meaning": "Umair is a Arabic-origin name. Its core meaning is umair; diminutive of umar. Umair is Arabic عُمَيْر (ʿUmayr), the diminutive of عُمَر (ʿUmar)."
       },
       "urdu": {
-        "name": "حلمی",
-        "meaning": "حلمی، بردباری سے منسوب",
-        "long_meaning": "Hilmi (حلمی) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم حلمی، بردباری سے منسوب ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "name": "عمیر",
+        "meaning": "عمیر، عمر کی تصغیر",
+        "long_meaning": "Umair (عمیر) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم عمیر، عمر کی تصغیر ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
         "translation_status": "verified"
       },
       "persian": {
-        "name": "حلمی",
-        "meaning": "حلمی، منسوب به حلم",
-        "long_meaning": "Hilmi (حلمی) نامی برگرفته از زبان عربی است و معنای اصلی آن حلمی، منسوب به حلم است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "name": "عمیر",
+        "meaning": "عمیر، تصغیر عمر",
+        "long_meaning": "Umair (عمیر) نامی برگرفته از زبان عربی است و معنای اصلی آن عمیر، تصغیر عمر است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
         "translation_status": "verified"
       },
       "hindi": {
-        "name": "हिल्मी",
-        "meaning": "हिल्मी, सहनशीलता से संबंधित",
-        "long_meaning": "Hilmi (हिल्मी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ हिल्मी, सहनशीलता से संबंधित है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "name": "उमैर",
+        "meaning": "उमैर, उमर का लघु रूप",
+        "long_meaning": "Umair (उमैर) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ उमैर, उमर का लघु रूप है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
         "translation_status": "verified"
       },
       "pashto": {
-        "name": "حلمي",
-        "meaning": "حلمي، د حلم منسوب",
-        "long_meaning": "Hilmi (حلمي) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې حلمي، د حلم منسوب ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "name": "عمير",
+        "meaning": "عمير، د عمر تصغير",
+        "long_meaning": "Umair (عمير) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې عمير، د عمر تصغير ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
         "translation_status": "verified"
       },
       "arabic": {
-        "name": "حِلْمِي",
-        "meaning": "حِلْمِيّ، مَنْسُوبٌ إِلَى الْحِلْم",
-        "long_meaning": "Hilmi (حِلْمِي) اسم مأخوذ من اللغة العربية، ومعناه الأساسي حِلْمِيّ، مَنْسُوبٌ إِلَى الْحِلْم. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "name": "عُمَيْر",
+        "meaning": "عُمَيْر، تَصْغِيرُ عُمَر",
+        "long_meaning": "Umair (عُمَيْر) اسم مأخوذ من اللغة العربية، ومعناه الأساسي عُمَيْر، تَصْغِيرُ عُمَر. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
         "translation_status": "verified"
       }
     },
@@ -192,31 +192,31 @@
       "confidence": "high"
     },
     "pronunciation": {
-      "romanized": "hil-mi",
+      "romanized": "u-mair",
       "ipa": null,
       "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
-      "urdu": "حلمی",
-      "persian": "حلمی",
-      "hindi": "हिल्मी",
-      "pashto": "حلمي"
+      "urdu": "عمیر",
+      "persian": "عمیر",
+      "hindi": "उमैर",
+      "pashto": "عمير"
     },
     "name_variants": {
       "romanized_variants": [
-        "Hilmi",
-        "hilmi"
+        "Umair",
+        "umair"
       ],
       "script_variants": [
-        "حلمي",
-        "حلمی",
-        "حِلْمِي",
-        "हिल्मी"
+        "عمير",
+        "عمیر",
+        "عُمَيْر",
+        "उमैर"
       ],
       "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
       "do_not_merge_with": []
     },
     "historical_context": {
       "known_linguistic_history": [
-        "The form حِلْمِي is an established Arabic lexical item."
+        "The form عُمَيْر is an established Arabic lexical item."
       ],
       "historical_person_association": null,
       "historical_event_association": null,
@@ -254,63 +254,63 @@
     },
     "name_story": {
       "type": "editorial_interpretation",
-      "story": "Hilmi can be understood through the Arabic form حِلْمِي, whose central sense is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "story": "Umair can be understood through the Arabic form عُمَيْر, whose central sense is umair; diminutive of umar. Umair is Arabic عُمَيْر (ʿUmayr), the diminutive of عُمَر (ʿUmar).",
       "is_fictional": false
     },
     "faq": [
       {
-        "question": "What does Hilmi mean?",
-        "answer": "Hilmi is associated with the Arabic form حِلْمِي, whose core sense is hilmi; of forbearance (relative form)."
+        "question": "What does Umair mean?",
+        "answer": "Umair is associated with the Arabic form عُمَيْر, whose core sense is umair; diminutive of umar."
       },
       {
-        "question": "What is the origin of Hilmi?",
-        "answer": "Hilmi is associated with Arabic. Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name."
+        "question": "What is the origin of Umair?",
+        "answer": "Umair is associated with Arabic. Umair is Arabic عُمَيْر (ʿUmayr), the diminutive of عُمَر (ʿUmar)."
       },
       {
-        "question": "Is Hilmi an Arabic name?",
-        "answer": "Yes — the underlying form حِلْمِي is Arabic."
+        "question": "Is Umair an Arabic name?",
+        "answer": "Yes — the underlying form عُمَيْر is Arabic."
       },
       {
-        "question": "Is Hilmi an Islamic name?",
-        "answer": "Hilmi can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+        "question": "Is Umair an Islamic name?",
+        "answer": "Umair can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "question": "Is Hilmi a Quranic name?",
-        "answer": "Hilmi should not be classified as a Quranic personal name without a direct Quranic basis. Ḥilmī is not a Quranic personal name."
+        "question": "Is Umair a Quranic name?",
+        "answer": "Umair should not be classified as a Quranic personal name without a direct Quranic basis. ʿUmayr is not a Quranic personal name."
       },
       {
-        "question": "What does Hilmi mean in Urdu?",
-        "answer": "In Urdu, Hilmi is rendered حلمی and carries the sense حلمی، بردباری سے منسوب."
+        "question": "What does Umair mean in Urdu?",
+        "answer": "In Urdu, Umair is rendered عمیر and carries the sense عمیر، عمر کی تصغیر."
       },
       {
-        "question": "What does Hilmi mean in Persian?",
-        "answer": "In Persian, Hilmi is rendered حلمی and carries the sense حلمی، منسوب به حلم."
+        "question": "What does Umair mean in Persian?",
+        "answer": "In Persian, Umair is rendered عمیر and carries the sense عمیر، تصغیر عمر."
       },
       {
-        "question": "How is Hilmi pronounced?",
-        "answer": "A romanized syllable approximation is hil-mi. No IPA transcription is asserted because a verified phonetic transcription was not available."
+        "question": "How is Umair pronounced?",
+        "answer": "A romanized syllable approximation is u-mair. No IPA transcription is asserted because a verified phonetic transcription was not available."
       },
       {
-        "question": "What are the variants of Hilmi?",
-        "answer": "Romanization variants include Hilmi, hilmi. Script forms are حلمي, حلمی, حِلْمِي, हिल्मी."
+        "question": "What are the variants of Umair?",
+        "answer": "Romanization variants include Umair, umair. Script forms are عمير, عمیر, عُمَيْر, उमैर."
       },
       {
-        "question": "Is Hilmi a boy's or girl's name?",
+        "question": "Is Umair a boy's or girl's name?",
         "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Hilmi Name Meaning, Origin & Islamic Cultural Context",
-      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Hilmi (حِلْمِي).",
-      "h1": "Hilmi Name Meaning, Origin and Cultural Background",
-      "focus_keyword": "Hilmi meaning",
+      "title": "Umair Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Umair (عُمَيْر).",
+      "h1": "Umair Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Umair meaning",
       "secondary_keywords": [
-        "Hilmi name meaning",
-        "Hilmi meaning in Urdu",
-        "Hilmi origin",
-        "Hilmi Islamic name",
-        "Hilmi pronunciation",
-        "Hilmi name in Urdu"
+        "Umair name meaning",
+        "Umair meaning in Urdu",
+        "Umair origin",
+        "Umair Islamic name",
+        "Umair pronunciation",
+        "Umair name in Urdu"
       ],
       "search_intents": [
         "meaning",
@@ -322,21 +322,21 @@
         "translation",
         "name variants"
       ],
-      "description_paragraph": "Hilmi (حِلْمِي) is associated with the Arabic form حِلْمِي, whose core sense is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "description_paragraph": "Umair (عُمَيْر) is associated with the Arabic form عُمَيْر, whose core sense is umair; diminutive of umar. Umair is Arabic عُمَيْر (ʿUmayr), the diminutive of عُمَر (ʿUmar).",
       "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
     },
     "seo_content": {
-      "intro": "Hilmi is associated with the Arabic form حِلْمِي, whose core sense is hilmi; of forbearance (relative form).",
-      "meaning_section": "The central meaning of Hilmi is hilmi; of forbearance (relative form).",
-      "origin_section": "Hilmi is associated with Arabic rather than with a different language.",
-      "islam_section": "Hilmi can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
-      "cultural_section": "The strongest cultural association of Hilmi is with the sense hilmi; of forbearance (relative form).",
+      "intro": "Umair is associated with the Arabic form عُمَيْر, whose core sense is umair; diminutive of umar.",
+      "meaning_section": "The central meaning of Umair is umair; diminutive of umar.",
+      "origin_section": "Umair is associated with Arabic rather than with a different language.",
+      "islam_section": "Umair can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Umair is with the sense umair; diminutive of umar.",
       "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
     },
     "social_tags": [
-      "#Hilmi",
-      "#HilmiMeaning",
-      "#HilmiName",
+      "#Umair",
+      "#UmairMeaning",
+      "#UmairName",
       "#IslamicNames",
       "#NameMeaning",
       "#NameOrigin"
@@ -365,12 +365,12 @@
     "evidence": {
       "core_claims": [
         {
-          "claim": "Hilmi corresponds to the Arabic form حِلْمِي",
+          "claim": "Umair corresponds to the Arabic form عُمَيْر",
           "evidence_type": "lexical",
           "confidence": "high"
         },
         {
-          "claim": "Hilmi has the core sense hilmi; of forbearance (relative form)",
+          "claim": "Umair has the core sense umair; diminutive of umar",
           "evidence_type": "lexical",
           "confidence": "high"
         }
@@ -408,12 +408,12 @@
     "structured_data": {
       "@context": "https://schema.org",
       "@type": "DefinedTerm",
-      "name": "Hilmi",
+      "name": "Umair",
       "alternateName": [
-        "Hilmi",
-        "hilmi"
+        "Umair",
+        "umair"
       ],
-      "description": "A name associated with the Arabic form حِلْمِي, meaning hilmi; of forbearance (relative form).",
+      "description": "A name associated with the Arabic form عُمَيْر, meaning umair; diminutive of umar.",
       "inLanguage": [
         "ar",
         "ur",
@@ -421,7 +421,7 @@
         "hi",
         "ps"
       ],
-      "termCode": "hilmi",
+      "termCode": "umair",
       "additionalProperty": [
         {
           "@type": "PropertyValue",
@@ -451,7 +451,7 @@
       ],
       "script_labels_required": true,
       "pronunciation_text_available": true,
-      "screen_reader_description": "Hilmi, associated with the Arabic form حِلْمِي, meaning hilmi; of forbearance (relative form)."
+      "screen_reader_description": "Umair, associated with the Arabic form عُمَيْر, meaning umair; diminutive of umar."
     },
     "editorial_validation": {
       "name_identity_checked": true,

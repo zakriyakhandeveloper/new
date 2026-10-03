@@ -1,84 +1,80 @@
 {
   "success": true,
   "data": {
-    "name": "Hilmi",
-    "slug": "hilmi",
+    "name": "Atilla",
+    "slug": "atilla",
     "identity": {
-      "display_name": "Hilmi",
-      "normalized_name": "hilmi",
+      "display_name": "Atilla",
+      "normalized_name": "atilla",
       "name_type": "given_name",
       "gender": "Male",
       "gender_confidence": "high",
       "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
       "alternate_spellings": [
-        "Hilmi",
-        "hilmi"
+        "Atilla",
+        "atilla"
       ],
       "search_variants": [
-        "Hilmi",
-        "hilmi"
+        "Atilla",
+        "atilla"
       ],
       "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
     "core_meaning": {
-      "short_meaning": "Hilmi; of forbearance (relative form)",
-      "primary_meaning": "Hilmi; of forbearance (relative form)",
+      "short_meaning": "Atilla; Attila (a historical name)",
+      "primary_meaning": "Atilla; Attila (a historical name)",
       "secondary_meanings": [],
-      "literal_meaning": "Hilmi; of forbearance (relative form)",
-      "extended_meaning": "Hilmi; of forbearance (relative form)",
-      "meaning_explanation": "Hilmi corresponds to the Arabic form حِلْمِي (Arabic root ح ل م (ḥ-l-m); حِلْمِيّ (Ḥilmī)). Its core sense is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "literal_meaning": "Atilla; Attila (a historical name)",
+      "extended_meaning": "Atilla; Attila (a historical name)",
+      "meaning_explanation": "Atilla corresponds to the Turkish form أَتِيلَّا (Turkish Atilla (from Attila)). Its core sense is atilla; attila (a historical name). Atilla is Turkish, from the name of Attila the Hun. It is used as a male given name.",
       "meaning_confidence": "high"
     },
     "etymology": {
-      "primary_language": "Arabic",
-      "lexical_form": "حِلْمِي",
-      "transliteration": "hilmi",
-      "romanization": "hilmi",
-      "root_status": "Arabic triliteral root",
+      "primary_language": "Turkish",
+      "lexical_form": "أَتِيلَّا",
+      "transliteration": "atilla",
+      "romanization": "atilla",
+      "root_status": "Turkish Atilla (from Attila)",
       "etymological_meaning": [
-        "Hilmi; of forbearance (relative form)"
+        "Atilla; Attila (a historical name)"
       ],
-      "etymology_explanation": "The form حِلْمِي is an established Arabic lexical item. Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "etymology_explanation": "The form أَتِيلَّا is an established Turkish lexical item. Atilla is Turkish, from the name of Attila the Hun. It is used as a male given name.",
       "etymology_confidence": "high",
       "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
     "language": {
-      "primary": "Arabic",
+      "primary": "Turkish",
       "associated_languages": [
         "Urdu",
         "Persian",
         "Hindi"
       ],
       "language_notes": {
-        "Arabic": "حِلْمِي is an established Arabic form.",
-        "Urdu": "حلمی is used in Urdu.",
-        "Persian": "حلمی is an established Persian form.",
-        "Hindi": "हिल्मी is used in Hindi.",
-        "Pashto": "حلمي is used in Pashto."
+        "Arabic": "أَتِيلَّا is an established Arabic form.",
+        "Urdu": "اتلا is used in Urdu.",
+        "Persian": "اتلا is an established Persian form.",
+        "Hindi": "अतिल्ला is used in Hindi.",
+        "Pashto": "اتيلا is used in Pashto."
       },
       "language_confidence": "high"
     },
     "origin": {
-      "primary_origin": "Arabic",
+      "primary_origin": "Turkish",
       "origin_type": "linguistic",
       "origin_confidence": "high",
-      "origin_explanation": "The name is associated with the Arabic form حِلْمِي. Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
-      "cultural_transmission": [
-        "Arabic",
-        "Muslim South Asia",
-        "Urdu-speaking communities"
-      ]
+      "origin_explanation": "The name is associated with the Turkish form أَتِيلَّا. Atilla is Turkish, from the name of Attila the Hun. It is used as a male given name.",
+      "cultural_transmission": []
     },
     "religion": {
-      "primary_association": "Islamic-cultural usage",
-      "religion": "Islam",
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
       "religion_confidence": "medium",
       "religious_status": "Not inherently an exclusively Islamic word",
-      "religious_explanation": "Hilmi may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "religious_explanation": "Atilla may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
       "quranic_status": {
         "is_quranic_name": false,
         "quranic_reference": null,
-        "note": "Ḥilmī is not a Quranic personal name."
+        "note": "Atilla is a Turkish name, not a Quranic Arabic form."
       },
       "hadith_status": {
         "direct_reference": false,
@@ -101,31 +97,30 @@
     },
     "cultural_context": {
       "primary_cultural_associations": [
-        "Arabic",
-        "Muslim South Asia"
+        "South Asia"
       ],
-      "cultural_meaning": "In the relevant cultures the form is associated with the sense hilmi; of forbearance (relative form).",
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense atilla; attila (a historical name).",
       "place_name_significance": null,
       "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
       "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
     },
     "semantic_field": {
-      "primary_semantic_domain": "Hilmi; of forbearance (relative form)",
+      "primary_semantic_domain": "Atilla; Attila (a historical name)",
       "related_concepts": [
-        "hilmi; of forbearance (relative form)"
+        "atilla; attila (a historical name)"
       ],
-      "semantic_relationship": "The central semantic idea is hilmi; of forbearance (relative form); other senses are extended associations."
+      "semantic_relationship": "The central semantic idea is atilla; attila (a historical name); other senses are extended associations."
     },
     "spiritual_meaning": {
       "status": "interpretive",
-      "meaning": "A life that reflects the positive sense of hilmi; of forbearance (relative form).",
+      "meaning": "A life that reflects the positive sense of atilla; attila (a historical name).",
       "is_direct_religious_definition": false,
       "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
     },
     "personality_associations": {
       "status": "symbolic_only",
       "traits": [
-        "Hilmi; of forbearance (relative form)"
+        "Atilla; attila (a historical name)"
       ],
       "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
     },
@@ -151,38 +146,38 @@
     },
     "translations": {
       "english": {
-        "name": "Hilmi",
-        "meaning": "Hilmi; of forbearance (relative form)",
-        "long_meaning": "Hilmi is a Arabic-origin name. Its core meaning is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name."
+        "name": "Atilla",
+        "meaning": "Atilla; Attila (a historical name)",
+        "long_meaning": "Atilla is a Turkish-origin name. Its core meaning is atilla; attila (a historical name). Atilla is Turkish, from the name of Attila the Hun. It is used as a male given name."
       },
       "urdu": {
-        "name": "حلمی",
-        "meaning": "حلمی، بردباری سے منسوب",
-        "long_meaning": "Hilmi (حلمی) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم حلمی، بردباری سے منسوب ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "name": "اتلا",
+        "meaning": "اتلا، تاریخی نام",
+        "long_meaning": "Atilla (اتلا) ترکی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم اتلا، تاریخی نام ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
         "translation_status": "verified"
       },
       "persian": {
-        "name": "حلمی",
-        "meaning": "حلمی، منسوب به حلم",
-        "long_meaning": "Hilmi (حلمی) نامی برگرفته از زبان عربی است و معنای اصلی آن حلمی، منسوب به حلم است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "name": "اتلا",
+        "meaning": "اتلا، نام تاریخی",
+        "long_meaning": "Atilla (اتلا) نامی برگرفته از زبان ترکی است و معنای اصلی آن اتلا، نام تاریخی است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
         "translation_status": "verified"
       },
       "hindi": {
-        "name": "हिल्मी",
-        "meaning": "हिल्मी, सहनशीलता से संबंधित",
-        "long_meaning": "Hilmi (हिल्मी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ हिल्मी, सहनशीलता से संबंधित है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "name": "अतिल्ला",
+        "meaning": "अतिल्ला, ऐतिहासिक नाम",
+        "long_meaning": "Atilla (अतिल्ला) तुर्की भाषा से लिया गया नाम है। इसका मुख्य अर्थ अतिल्ला, ऐतिहासिक नाम है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
         "translation_status": "verified"
       },
       "pashto": {
-        "name": "حلمي",
-        "meaning": "حلمي، د حلم منسوب",
-        "long_meaning": "Hilmi (حلمي) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې حلمي، د حلم منسوب ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "name": "اتيلا",
+        "meaning": "اتيلا، تاریخي نوم",
+        "long_meaning": "Atilla (اتيلا) د ترکي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې اتيلا، تاریخي نوم ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
         "translation_status": "verified"
       },
       "arabic": {
-        "name": "حِلْمِي",
-        "meaning": "حِلْمِيّ، مَنْسُوبٌ إِلَى الْحِلْم",
-        "long_meaning": "Hilmi (حِلْمِي) اسم مأخوذ من اللغة العربية، ومعناه الأساسي حِلْمِيّ، مَنْسُوبٌ إِلَى الْحِلْم. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "name": "أَتِيلَّا",
+        "meaning": "أَتِيلَّا، اسْم تَارِيخِيّ",
+        "long_meaning": "Atilla (أَتِيلَّا) اسم مأخوذ من اللغة التركية، ومعناه الأساسي أَتِيلَّا، اسْم تَارِيخِيّ. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
         "translation_status": "verified"
       }
     },
@@ -192,31 +187,31 @@
       "confidence": "high"
     },
     "pronunciation": {
-      "romanized": "hil-mi",
+      "romanized": "a-til-la",
       "ipa": null,
       "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
-      "urdu": "حلمی",
-      "persian": "حلمی",
-      "hindi": "हिल्मी",
-      "pashto": "حلمي"
+      "urdu": "اتلا",
+      "persian": "اتلا",
+      "hindi": "अतिल्ला",
+      "pashto": "اتيلا"
     },
     "name_variants": {
       "romanized_variants": [
-        "Hilmi",
-        "hilmi"
+        "Atilla",
+        "atilla"
       ],
       "script_variants": [
-        "حلمي",
-        "حلمی",
-        "حِلْمِي",
-        "हिल्मी"
+        "أَتِيلَّا",
+        "اتلا",
+        "اتيلا",
+        "अतिल्ला"
       ],
       "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
       "do_not_merge_with": []
     },
     "historical_context": {
       "known_linguistic_history": [
-        "The form حِلْمِي is an established Arabic lexical item."
+        "The form أَتِيلَّا is an established Turkish lexical item."
       ],
       "historical_person_association": null,
       "historical_event_association": null,
@@ -226,7 +221,6 @@
     "modern_usage": {
       "status": "requires_frequency_data",
       "usage_regions": [
-        "Pakistan",
         "India"
       ],
       "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
@@ -254,63 +248,63 @@
     },
     "name_story": {
       "type": "editorial_interpretation",
-      "story": "Hilmi can be understood through the Arabic form حِلْمِي, whose central sense is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "story": "Atilla can be understood through the Turkish form أَتِيلَّا, whose central sense is atilla; attila (a historical name). Atilla is Turkish, from the name of Attila the Hun. It is used as a male given name.",
       "is_fictional": false
     },
     "faq": [
       {
-        "question": "What does Hilmi mean?",
-        "answer": "Hilmi is associated with the Arabic form حِلْمِي, whose core sense is hilmi; of forbearance (relative form)."
+        "question": "What does Atilla mean?",
+        "answer": "Atilla is associated with the Turkish form أَتِيلَّا, whose core sense is atilla; attila (a historical name)."
       },
       {
-        "question": "What is the origin of Hilmi?",
-        "answer": "Hilmi is associated with Arabic. Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name."
+        "question": "What is the origin of Atilla?",
+        "answer": "Atilla is associated with Turkish. Atilla is Turkish, from the name of Attila the Hun. It is used as a male given name."
       },
       {
-        "question": "Is Hilmi an Arabic name?",
-        "answer": "Yes — the underlying form حِلْمِي is Arabic."
+        "question": "Is Atilla an Arabic name?",
+        "answer": "No — the underlying form is Turkish, not Arabic."
       },
       {
-        "question": "Is Hilmi an Islamic name?",
-        "answer": "Hilmi can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+        "question": "Is Atilla an Islamic name?",
+        "answer": "Atilla can occur in Muslim naming contexts, but it is better described as a Turkish-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "question": "Is Hilmi a Quranic name?",
-        "answer": "Hilmi should not be classified as a Quranic personal name without a direct Quranic basis. Ḥilmī is not a Quranic personal name."
+        "question": "Is Atilla a Quranic name?",
+        "answer": "Atilla should not be classified as a Quranic personal name without a direct Quranic basis. Atilla is a Turkish name, not a Quranic Arabic form."
       },
       {
-        "question": "What does Hilmi mean in Urdu?",
-        "answer": "In Urdu, Hilmi is rendered حلمی and carries the sense حلمی، بردباری سے منسوب."
+        "question": "What does Atilla mean in Urdu?",
+        "answer": "In Urdu, Atilla is rendered اتلا and carries the sense اتلا، تاریخی نام."
       },
       {
-        "question": "What does Hilmi mean in Persian?",
-        "answer": "In Persian, Hilmi is rendered حلمی and carries the sense حلمی، منسوب به حلم."
+        "question": "What does Atilla mean in Persian?",
+        "answer": "In Persian, Atilla is rendered اتلا and carries the sense اتلا، نام تاریخی."
       },
       {
-        "question": "How is Hilmi pronounced?",
-        "answer": "A romanized syllable approximation is hil-mi. No IPA transcription is asserted because a verified phonetic transcription was not available."
+        "question": "How is Atilla pronounced?",
+        "answer": "A romanized syllable approximation is a-til-la. No IPA transcription is asserted because a verified phonetic transcription was not available."
       },
       {
-        "question": "What are the variants of Hilmi?",
-        "answer": "Romanization variants include Hilmi, hilmi. Script forms are حلمي, حلمی, حِلْمِي, हिल्मी."
+        "question": "What are the variants of Atilla?",
+        "answer": "Romanization variants include Atilla, atilla. Script forms are أَتِيلَّا, اتلا, اتيلا, अतिल्ला."
       },
       {
-        "question": "Is Hilmi a boy's or girl's name?",
+        "question": "Is Atilla a boy's or girl's name?",
         "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Hilmi Name Meaning, Origin & Islamic Cultural Context",
-      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Hilmi (حِلْمِي).",
-      "h1": "Hilmi Name Meaning, Origin and Cultural Background",
-      "focus_keyword": "Hilmi meaning",
+      "title": "Atilla Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Turkish origin, Urdu meaning, pronunciation, variants and Islamic naming context of Atilla (أَتِيلَّا).",
+      "h1": "Atilla Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Atilla meaning",
       "secondary_keywords": [
-        "Hilmi name meaning",
-        "Hilmi meaning in Urdu",
-        "Hilmi origin",
-        "Hilmi Islamic name",
-        "Hilmi pronunciation",
-        "Hilmi name in Urdu"
+        "Atilla name meaning",
+        "Atilla meaning in Urdu",
+        "Atilla origin",
+        "Atilla Islamic name",
+        "Atilla pronunciation",
+        "Atilla name in Urdu"
       ],
       "search_intents": [
         "meaning",
@@ -322,21 +316,21 @@
         "translation",
         "name variants"
       ],
-      "description_paragraph": "Hilmi (حِلْمِي) is associated with the Arabic form حِلْمِي, whose core sense is hilmi; of forbearance (relative form). Hilmi is the Turkish form of Arabic حِلْمِيّ (Ḥilmī), the relative form of حِلْم (forbearance), used as a male given name.",
+      "description_paragraph": "Atilla (أَتِيلَّا) is associated with the Turkish form أَتِيلَّا, whose core sense is atilla; attila (a historical name). Atilla is Turkish, from the name of Attila the Hun. It is used as a male given name.",
       "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
     },
     "seo_content": {
-      "intro": "Hilmi is associated with the Arabic form حِلْمِي, whose core sense is hilmi; of forbearance (relative form).",
-      "meaning_section": "The central meaning of Hilmi is hilmi; of forbearance (relative form).",
-      "origin_section": "Hilmi is associated with Arabic rather than with a different language.",
-      "islam_section": "Hilmi can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
-      "cultural_section": "The strongest cultural association of Hilmi is with the sense hilmi; of forbearance (relative form).",
+      "intro": "Atilla is associated with the Turkish form أَتِيلَّا, whose core sense is atilla; attila (a historical name).",
+      "meaning_section": "The central meaning of Atilla is atilla; attila (a historical name).",
+      "origin_section": "Atilla is associated with Turkish rather than with a different language.",
+      "islam_section": "Atilla can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Atilla is with the sense atilla; attila (a historical name).",
       "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
     },
     "social_tags": [
-      "#Hilmi",
-      "#HilmiMeaning",
-      "#HilmiName",
+      "#Atilla",
+      "#AtillaMeaning",
+      "#AtillaName",
       "#IslamicNames",
       "#NameMeaning",
       "#NameOrigin"
@@ -365,12 +359,12 @@
     "evidence": {
       "core_claims": [
         {
-          "claim": "Hilmi corresponds to the Arabic form حِلْمِي",
+          "claim": "Atilla corresponds to the Turkish form أَتِيلَّا",
           "evidence_type": "lexical",
           "confidence": "high"
         },
         {
-          "claim": "Hilmi has the core sense hilmi; of forbearance (relative form)",
+          "claim": "Atilla has the core sense atilla; attila (a historical name)",
           "evidence_type": "lexical",
           "confidence": "high"
         }
@@ -408,12 +402,12 @@
     "structured_data": {
       "@context": "https://schema.org",
       "@type": "DefinedTerm",
-      "name": "Hilmi",
+      "name": "Atilla",
       "alternateName": [
-        "Hilmi",
-        "hilmi"
+        "Atilla",
+        "atilla"
       ],
-      "description": "A name associated with the Arabic form حِلْمِي, meaning hilmi; of forbearance (relative form).",
+      "description": "A name associated with the Turkish form أَتِيلَّا, meaning atilla; attila (a historical name).",
       "inLanguage": [
         "ar",
         "ur",
@@ -421,12 +415,12 @@
         "hi",
         "ps"
       ],
-      "termCode": "hilmi",
+      "termCode": "atilla",
       "additionalProperty": [
         {
           "@type": "PropertyValue",
           "name": "Origin",
-          "value": "Arabic"
+          "value": "Turkish"
         },
         {
           "@type": "PropertyValue",
@@ -451,7 +445,7 @@
       ],
       "script_labels_required": true,
       "pronunciation_text_available": true,
-      "screen_reader_description": "Hilmi, associated with the Arabic form حِلْمِي, meaning hilmi; of forbearance (relative form)."
+      "screen_reader_description": "Atilla, associated with the Turkish form أَتِيلَّا, meaning atilla; attila (a historical name)."
     },
     "editorial_validation": {
       "name_identity_checked": true,
