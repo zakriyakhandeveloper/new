@@ -4,39 +4,40 @@
 |---|---|
 | Culture | islamic |
 | Total names in slice | 5,471 |
-| Names completed | 4900 |
-| Current batch | 49 |
-| Batch range | nuhaa .. pir (100) |
-| Verified forms | 4743 |
+| Names completed | 5000 |
+| Current batch | 50 |
+| Batch range | pouran .. rafaat (100) |
+| Verified forms | 4843 |
 | Unverified forms (no gloss asserted) | 157 |
-| Next batch starts after | pir |
-| Updated | 2026-10-03T03:23:58Z |
+| Next batch starts after | rafaat |
+| Updated | 2026-10-03T03:26:59Z |
 
 ## Confidence summary
 
 | Confidence | Count |
 |---|---|
-| high | 2949 |
+| high | 3037 |
 | low | 729 |
-| medium | 1065 |
+| medium | 1077 |
 | unverified | 157 |
 
 ## Origin summary
 
 | Origin | Count |
 |---|---|
-| Arabic | 3801 |
-| Persian | 635 |
+| Arabic | 3895 |
+| Persian | 637 |
 | Unknown | 224 |
 | Turkish | 61 |
 | Hebrew | 59 |
 | Turkic | 18 |
-| Kurdish | 15 |
+| Kurdish | 16 |
+| Urdu | 12 |
 | Hindi | 12 |
-| Urdu | 11 |
 | Sanskrit | 10 |
 | Pashto | 9 |
 | Greek | 8 |
+| Indonesian | 4 |
 | English | 4 |
 | Punjabi | 3 |
 | Western | 3 |
@@ -44,7 +45,6 @@
 | Yoruba | 2 |
 | Latin | 2 |
 | Irish | 2 |
-| Indonesian | 2 |
 | Chinese | 2 |
 | Aramaic | 2 |
 | Basque | 1 |
@@ -86,3 +86,4 @@
 | 47 | navil .. neveen | 100 | complete |
 | 48 | nevine .. nuha | 100 | complete |
 | 49 | nuhaa .. pir | 100 | complete |
+| 50 | pouran .. rafaat | 100 | complete |
