@@ -1,0 +1,481 @@
+{
+  "success": true,
+  "data": {
+    "name": "Thamani",
+    "slug": "thamani",
+    "identity": {
+      "display_name": "Thamani",
+      "normalized_name": "thamani",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Thamani",
+        "thamani"
+      ],
+      "search_variants": [
+        "Thamani",
+        "thamani"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
+    },
+    "core_meaning": {
+      "short_meaning": "Thamani; value, worth (Swahili form)",
+      "primary_meaning": "Thamani; value",
+      "secondary_meanings": [
+        "worth (Swahili form)"
+      ],
+      "literal_meaning": "Thamani; value",
+      "extended_meaning": "Thamani; value, worth (Swahili form)",
+      "meaning_explanation": "Thamani corresponds to the Arabic form ثَمَانِي (Arabic root ث م ن (th-m-n); ثَمَانِي (Thamānī)). Its core sense is thamani; value, worth (swahili form). Thamani is the Swahili form of Arabic ثَمَن (thaman), meaning 'value, worth'.",
+      "meaning_confidence": "high"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "ثَمَانِي",
+      "transliteration": "thamani",
+      "romanization": "thamani",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Thamani; value",
+        "worth (Swahili form)"
+      ],
+      "etymology_explanation": "The form ثَمَانِي is an established Arabic lexical item. Thamani is the Swahili form of Arabic ثَمَن (thaman), meaning 'value, worth'.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "ثَمَانِي is an established Arabic form.",
+        "Urdu": "ثمانی is used in Urdu.",
+        "Persian": "ثمانی is an established Persian form.",
+        "Hindi": "थमानी is used in Hindi.",
+        "Pashto": "ثماني is used in Pashto."
+      },
+      "language_confidence": "high"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form ثَمَانِي. Thamani is the Swahili form of Arabic ثَمَن (thaman), meaning 'value, worth'.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Thamani may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "Thamānī is not a Quranic personal name."
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense thamani; value, worth (swahili form).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Thamani; value",
+      "related_concepts": [
+        "thamani; value",
+        "worth (swahili form)"
+      ],
+      "semantic_relationship": "The central semantic idea is thamani; value; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of thamani; value.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Thamani; value",
+        "Worth (swahili form)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Thamani",
+        "meaning": "Thamani; value, worth (Swahili form)",
+        "long_meaning": "Thamani is a Arabic-origin name. Its core meaning is thamani; value, worth (swahili form). Thamani is the Swahili form of Arabic ثَمَن (thaman), meaning 'value, worth'."
+      },
+      "urdu": {
+        "name": "ثمانی",
+        "meaning": "ثمانی، قیمت",
+        "long_meaning": "Thamani (ثمانی) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم ثمانی، قیمت ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "ثمانی",
+        "meaning": "ثمانی، ارزش",
+        "long_meaning": "Thamani (ثمانی) نامی برگرفته از زبان عربی است و معنای اصلی آن ثمانی، ارزش است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "थमानी",
+        "meaning": "थमानी, मूल्य",
+        "long_meaning": "Thamani (थमानी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ थमानी, मूल्य है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "ثماني",
+        "meaning": "ثماني، ارزښت",
+        "long_meaning": "Thamani (ثماني) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ثماني، ارزښت ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "ثَمَانِي",
+        "meaning": "الثَّمَن، الْقِيمَة",
+        "long_meaning": "Thamani (ثَمَانِي) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الثَّمَن، الْقِيمَة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
+    },
+    "pronunciation": {
+      "romanized": "tha-ma-ni",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "ثمانی",
+      "persian": "ثمانی",
+      "hindi": "थमानी",
+      "pashto": "ثماني"
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Thamani",
+        "thamani"
+      ],
+      "script_variants": [
+        "ثماني",
+        "ثمانی",
+        "ثَمَانِي",
+        "थमानी"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form ثَمَانِي is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Thamani can be understood through the Arabic form ثَمَانِي, whose central sense is thamani; value, worth (swahili form). Thamani is the Swahili form of Arabic ثَمَن (thaman), meaning 'value, worth'.",
+      "is_fictional": false
+    },
+    "faq": [
+      {
+        "question": "What does Thamani mean?",
+        "answer": "Thamani is associated with the Arabic form ثَمَانِي, whose core sense is thamani; value, worth (swahili form)."
+      },
+      {
+        "question": "What is the origin of Thamani?",
+        "answer": "Thamani is associated with Arabic. Thamani is the Swahili form of Arabic ثَمَن (thaman), meaning 'value, worth'."
+      },
+      {
+        "question": "Is Thamani an Arabic name?",
+        "answer": "Yes — the underlying form ثَمَانِي is Arabic."
+      },
+      {
+        "question": "Is Thamani an Islamic name?",
+        "answer": "Thamani can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Thamani a Quranic name?",
+        "answer": "Thamani should not be classified as a Quranic personal name without a direct Quranic basis. Thamānī is not a Quranic personal name."
+      },
+      {
+        "question": "What does Thamani mean in Urdu?",
+        "answer": "In Urdu, Thamani is rendered ثمانی and carries the sense ثمانی، قیمت."
+      },
+      {
+        "question": "What does Thamani mean in Persian?",
+        "answer": "In Persian, Thamani is rendered ثمانی and carries the sense ثمانی، ارزش."
+      },
+      {
+        "question": "How is Thamani pronounced?",
+        "answer": "A romanized syllable approximation is tha-ma-ni. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Thamani?",
+        "answer": "Romanization variants include Thamani, thamani. Script forms are ثماني, ثمانی, ثَمَانِي, थमानी."
+      },
+      {
+        "question": "Is Thamani a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+      }
+    ],
+    "seo": {
+      "title": "Thamani Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Thamani (ثَمَانِي).",
+      "h1": "Thamani Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Thamani meaning",
+      "secondary_keywords": [
+        "Thamani name meaning",
+        "Thamani meaning in Urdu",
+        "Thamani origin",
+        "Thamani Islamic name",
+        "Thamani pronunciation",
+        "Thamani name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Thamani (ثَمَانِي) is associated with the Arabic form ثَمَانِي, whose core sense is thamani; value, worth (swahili form). Thamani is the Swahili form of Arabic ثَمَن (thaman), meaning 'value, worth'.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Thamani is associated with the Arabic form ثَمَانِي, whose core sense is thamani; value, worth (swahili form).",
+      "meaning_section": "The central meaning of Thamani is thamani; value, worth (swahili form).",
+      "origin_section": "Thamani is associated with Arabic rather than with a different language.",
+      "islam_section": "Thamani can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Thamani is with the sense thamani; value.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Thamani",
+      "#ThamaniMeaning",
+      "#ThamaniName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
+      ]
+    },
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Thamani corresponds to the Arabic form ثَمَانِي",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Thamani has the core sense thamani; value, worth (swahili form)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
+      ],
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
+      ],
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "Thamani",
+      "alternateName": [
+        "Thamani",
+        "thamani"
+      ],
+      "description": "A name associated with the Arabic form ثَمَانِي, meaning thamani; value, worth (swahili form).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "thamani",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
+        }
+      ]
+    },
+    "accessibility": {
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Thamani, associated with the Arabic form ثَمَانِي, meaning thamani; value, worth (swahili form)."
+    },
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
+  }
+}
