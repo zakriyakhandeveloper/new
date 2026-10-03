@@ -1,0 +1,480 @@
+{
+  "success": true,
+  "data": {
+    "name": "Safak",
+    "slug": "safak",
+    "identity": {
+      "display_name": "Safak",
+      "normalized_name": "safak",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Safak",
+        "safak"
+      ],
+      "search_variants": [
+        "Safak",
+        "safak"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
+    },
+    "core_meaning": {
+      "short_meaning": "Safak; twilight, dusk (Turkish form)",
+      "primary_meaning": "Safak; twilight",
+      "secondary_meanings": [
+        "dusk (Turkish form)"
+      ],
+      "literal_meaning": "Safak; twilight",
+      "extended_meaning": "Safak; twilight, dusk (Turkish form)",
+      "meaning_explanation": "Safak corresponds to the Arabic form شَفَق (Arabic root ش ف ق (sh-f-q); شَفَق (Shafaq)). Its core sense is safak; twilight, dusk (turkish form). Safak is the Turkish form of Arabic شَفَق (Shafaq), meaning 'twilight, dusk'.",
+      "meaning_confidence": "high"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "شَفَق",
+      "transliteration": "safak",
+      "romanization": "safak",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Safak; twilight",
+        "dusk (Turkish form)"
+      ],
+      "etymology_explanation": "The form شَفَق is an established Arabic lexical item. Safak is the Turkish form of Arabic شَفَق (Shafaq), meaning 'twilight, dusk'.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "شَفَق is an established Arabic form.",
+        "Urdu": "شفق is used in Urdu.",
+        "Persian": "شفق is an established Persian form.",
+        "Hindi": "शफ़क़ is used in Hindi.",
+        "Pashto": "شفق is used in Pashto."
+      },
+      "language_confidence": "high"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form شَفَق. Safak is the Turkish form of Arabic شَفَق (Shafaq), meaning 'twilight, dusk'.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Safak may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "Shafaq is not a Quranic personal name."
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense safak; twilight, dusk (turkish form).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Safak; twilight",
+      "related_concepts": [
+        "safak; twilight",
+        "dusk (turkish form)"
+      ],
+      "semantic_relationship": "The central semantic idea is safak; twilight; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of safak; twilight.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Safak; twilight",
+        "Dusk (turkish form)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Safak",
+        "meaning": "Safak; twilight, dusk (Turkish form)",
+        "long_meaning": "Safak is a Arabic-origin name. Its core meaning is safak; twilight, dusk (turkish form). Safak is the Turkish form of Arabic شَفَق (Shafaq), meaning 'twilight, dusk'."
+      },
+      "urdu": {
+        "name": "شفق",
+        "meaning": "شفق، شام کی سرخی",
+        "long_meaning": "Safak (شفق) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم شفق، شام کی سرخی ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "شفق",
+        "meaning": "شفق، شفق",
+        "long_meaning": "Safak (شفق) نامی برگرفته از زبان عربی است و معنای اصلی آن شفق، شفق است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "शफ़क़",
+        "meaning": "शफ़क़, गोधूलि",
+        "long_meaning": "Safak (शफ़क़) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ शफ़क़, गोधूलि है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "شفق",
+        "meaning": "شفق، ماښام",
+        "long_meaning": "Safak (شفق) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې شفق، ماښام ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "شَفَق",
+        "meaning": "الشَّفَق، الشَّفَق",
+        "long_meaning": "Safak (شَفَق) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الشَّفَق، الشَّفَق. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
+    },
+    "pronunciation": {
+      "romanized": "sa-fak",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "شفق",
+      "persian": "شفق",
+      "hindi": "शफ़क़",
+      "pashto": "شفق"
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Safak",
+        "safak"
+      ],
+      "script_variants": [
+        "شفق",
+        "شَفَق",
+        "शफ़क़"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form شَفَق is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Safak can be understood through the Arabic form شَفَق, whose central sense is safak; twilight, dusk (turkish form). Safak is the Turkish form of Arabic شَفَق (Shafaq), meaning 'twilight, dusk'.",
+      "is_fictional": false
+    },
+    "faq": [
+      {
+        "question": "What does Safak mean?",
+        "answer": "Safak is associated with the Arabic form شَفَق, whose core sense is safak; twilight, dusk (turkish form)."
+      },
+      {
+        "question": "What is the origin of Safak?",
+        "answer": "Safak is associated with Arabic. Safak is the Turkish form of Arabic شَفَق (Shafaq), meaning 'twilight, dusk'."
+      },
+      {
+        "question": "Is Safak an Arabic name?",
+        "answer": "Yes — the underlying form شَفَق is Arabic."
+      },
+      {
+        "question": "Is Safak an Islamic name?",
+        "answer": "Safak can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Safak a Quranic name?",
+        "answer": "Safak should not be classified as a Quranic personal name without a direct Quranic basis. Shafaq is not a Quranic personal name."
+      },
+      {
+        "question": "What does Safak mean in Urdu?",
+        "answer": "In Urdu, Safak is rendered شفق and carries the sense شفق، شام کی سرخی."
+      },
+      {
+        "question": "What does Safak mean in Persian?",
+        "answer": "In Persian, Safak is rendered شفق and carries the sense شفق، شفق."
+      },
+      {
+        "question": "How is Safak pronounced?",
+        "answer": "A romanized syllable approximation is sa-fak. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Safak?",
+        "answer": "Romanization variants include Safak, safak. Script forms are شفق, شَفَق, शफ़क़."
+      },
+      {
+        "question": "Is Safak a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
+      }
+    ],
+    "seo": {
+      "title": "Safak Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Safak (شَفَق).",
+      "h1": "Safak Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Safak meaning",
+      "secondary_keywords": [
+        "Safak name meaning",
+        "Safak meaning in Urdu",
+        "Safak origin",
+        "Safak Islamic name",
+        "Safak pronunciation",
+        "Safak name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Safak (شَفَق) is associated with the Arabic form شَفَق, whose core sense is safak; twilight, dusk (turkish form). Safak is the Turkish form of Arabic شَفَق (Shafaq), meaning 'twilight, dusk'.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Safak is associated with the Arabic form شَفَق, whose core sense is safak; twilight, dusk (turkish form).",
+      "meaning_section": "The central meaning of Safak is safak; twilight, dusk (turkish form).",
+      "origin_section": "Safak is associated with Arabic rather than with a different language.",
+      "islam_section": "Safak can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Safak is with the sense safak; twilight.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Safak",
+      "#SafakMeaning",
+      "#SafakName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
+      ]
+    },
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Safak corresponds to the Arabic form شَفَق",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Safak has the core sense safak; twilight, dusk (turkish form)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
+      ],
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
+      ],
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": "Safak",
+      "alternateName": [
+        "Safak",
+        "safak"
+      ],
+      "description": "A name associated with the Arabic form شَفَق, meaning safak; twilight, dusk (turkish form).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "safak",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
+        }
+      ]
+    },
+    "accessibility": {
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Safak, associated with the Arabic form شَفَق, meaning safak; twilight, dusk (turkish form)."
+    },
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
+  }
+}
